@@ -1,0 +1,14 @@
+{
+  "name": "Le Fil Politique",
+  "short_name": "Le Fil",
+  "description": "Les déclarations et l'actualité politiques : Élysée, Matignon, gouvernement, Parlement et partis",
+  "lang": "fr",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#172036",
+  "theme_color": "#172036",
+  "icons": [
+    { "src": "icon-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

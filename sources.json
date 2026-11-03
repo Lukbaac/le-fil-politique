@@ -1,0 +1,436 @@
+{
+ "_aide": "topics : rubriques attribuées d'office. filter:true : l'article n'est gardé que s'il contient un mot-clé d'une rubrique. official : source institutionnelle. keywords : mots qui rangent un article dans une rubrique (à compléter quand un ministre ou un chef de parti change). natures : type de déclaration. exclude : mots qui écartent un article, sauf source officielle. trusted_publishers : seuls ces médias sont gardés dans les résultats de Google Actualités.",
+ "sources": [
+  {
+   "name": "Élysée",
+   "url": "https://www.elysee.fr/feed",
+   "topics": [
+    "elysee"
+   ],
+   "official": true
+  },
+  {
+   "name": "Sénat – Communiqués",
+   "url": "https://www.senat.fr/rss/presse.rss",
+   "topics": [
+    "parlement"
+   ],
+   "official": true
+  },
+  {
+   "name": "LCP",
+   "url": "https://lcp.fr/rss.xml",
+   "filter": true
+  },
+  {
+   "name": "Public Sénat",
+   "url": "https://www.publicsenat.fr/feed",
+   "filter": true
+  },
+  {
+   "name": "Le Monde",
+   "url": "https://www.lemonde.fr/politique/rss_full.xml",
+   "filter": true
+  },
+  {
+   "name": "franceinfo",
+   "url": "https://www.francetvinfo.fr/politique.rss",
+   "filter": true
+  },
+  {
+   "name": "Le Figaro",
+   "url": "https://www.lefigaro.fr/rss/figaro_politique.xml",
+   "filter": true
+  },
+  {
+   "name": "Libération",
+   "url": "https://www.liberation.fr/arc/outboundfeeds/rss/category/politique/?outputType=xml",
+   "filter": true
+  },
+  {
+   "name": "La Croix",
+   "url": "https://www.la-croix.com/feeds/rss/politique.xml",
+   "filter": true
+  },
+  {
+   "name": "L'Express",
+   "url": "https://www.lexpress.fr/arc/outboundfeeds/rss/politique.xml",
+   "filter": true
+  },
+  {
+   "name": "BFMTV",
+   "url": "https://www.bfmtv.com/rss/politique/",
+   "filter": true
+  },
+  {
+   "name": "20 Minutes",
+   "url": "https://www.20minutes.fr/feeds/rss-politique.xml",
+   "filter": true
+  },
+  {
+   "name": "Google Actualités",
+   "url": "https://news.google.com/rss/search?q=Macron%20%C3%89lys%C3%A9e%20when:2d&hl=fr&gl=FR&ceid=FR:fr",
+   "topics": [
+    "elysee"
+   ],
+   "filter": true
+  },
+  {
+   "name": "Google Actualités",
+   "url": "https://news.google.com/rss/search?q=Matignon%20%22Premier%20ministre%22%20when:2d&hl=fr&gl=FR&ceid=FR:fr",
+   "filter": true
+  },
+  {
+   "name": "Google Actualités",
+   "url": "https://news.google.com/rss/search?q=ministre%20(d%C3%A9clare%20OR%20annonce%20OR%20affirme%20OR%20assure)%20when:2d&hl=fr&gl=FR&ceid=FR:fr",
+   "filter": true
+  },
+  {
+   "name": "Google Actualités",
+   "url": "https://news.google.com/rss/search?q=%22porte-parole%20du%20gouvernement%22%20when:3d&hl=fr&gl=FR&ceid=FR:fr",
+   "topics": [
+    "gouvernement"
+   ],
+   "filter": true
+  },
+  {
+   "name": "Google Actualités",
+   "url": "https://news.google.com/rss/search?q=%22Assembl%C3%A9e%20nationale%22%20d%C3%A9put%C3%A9s%20when:2d&hl=fr&gl=FR&ceid=FR:fr",
+   "topics": [
+    "parlement"
+   ],
+   "filter": true
+  },
+  {
+   "name": "Google Actualités",
+   "url": "https://news.google.com/rss/search?q=S%C3%A9nat%20(s%C3%A9nateurs%20OR%20Larcher)%20when:2d&hl=fr&gl=FR&ceid=FR:fr",
+   "topics": [
+    "parlement"
+   ],
+   "filter": true
+  },
+  {
+   "name": "Google Actualités",
+   "url": "https://news.google.com/rss/search?q=(%22Rassemblement%20national%22%20OR%20Bardella%20OR%20%22Marine%20Le%20Pen%22)%20when:2d&hl=fr&gl=FR&ceid=FR:fr",
+   "topics": [
+    "partis"
+   ],
+   "filter": true
+  },
+  {
+   "name": "Google Actualités",
+   "url": "https://news.google.com/rss/search?q=(%22France%20insoumise%22%20OR%20M%C3%A9lenchon)%20when:2d&hl=fr&gl=FR&ceid=FR:fr",
+   "topics": [
+    "partis"
+   ],
+   "filter": true
+  },
+  {
+   "name": "Google Actualités",
+   "url": "https://news.google.com/rss/search?q=(%22Parti%20socialiste%22%20OR%20%22Olivier%20Faure%22%20OR%20Glucksmann)%20when:2d&hl=fr&gl=FR&ceid=FR:fr",
+   "topics": [
+    "partis"
+   ],
+   "filter": true
+  },
+  {
+   "name": "Google Actualités",
+   "url": "https://news.google.com/rss/search?q=(%22Les%20R%C3%A9publicains%22%20OR%20Retailleau%20OR%20Wauquiez)%20when:2d&hl=fr&gl=FR&ceid=FR:fr",
+   "topics": [
+    "partis"
+   ],
+   "filter": true
+  },
+  {
+   "name": "Google Actualités",
+   "url": "https://news.google.com/rss/search?q=(Renaissance%20Attal%20OR%20%22%C3%89douard%20Philippe%22%20OR%20Horizons%20OR%20MoDem)%20when:2d&hl=fr&gl=FR&ceid=FR:fr",
+   "topics": [
+    "partis"
+   ],
+   "filter": true
+  },
+  {
+   "name": "Google Actualités",
+   "url": "https://news.google.com/rss/search?q=(%C3%A9cologistes%20Tondelier%20OR%20%22Fabien%20Roussel%22%20OR%20Zemmour%20OR%20Ciotti)%20when:2d&hl=fr&gl=FR&ceid=FR:fr",
+   "topics": [
+    "partis"
+   ],
+   "filter": true
+  },
+  {
+   "name": "Google Actualités",
+   "url": "https://news.google.com/rss/search?q=invit%C3%A9%20(ministre%20OR%20d%C3%A9put%C3%A9%20OR%20s%C3%A9nateur)%20(%22France%20Inter%22%20OR%20franceinfo%20OR%20RTL%20OR%20BFMTV%20OR%20LCI%20OR%20%22Europe%201%22)%20when:2d&hl=fr&gl=FR&ceid=FR:fr",
+   "filter": true
+  },
+  {
+   "name": "Google Actualités",
+   "url": "https://news.google.com/rss/search?q=pr%C3%A9sidentielle%202027%20candidat%20when:2d&hl=fr&gl=FR&ceid=FR:fr",
+   "topics": [
+    "partis"
+   ],
+   "filter": true
+  }
+ ],
+ "keywords": {
+  "elysee": [
+   "Macron",
+   "Élysée",
+   "président de la République",
+   "chef de l'État",
+   "Brigitte Macron",
+   "Matignon",
+   "Premier ministre",
+   "Première ministre",
+   "Lecornu"
+  ],
+  "gouvernement": [
+   "ministre",
+   "ministres",
+   "ministère",
+   "gouvernement",
+   "gouvernemental",
+   "secrétaire d'État",
+   "porte-parole du gouvernement",
+   "conseil des ministres",
+   "Bercy",
+   "place Beauvau",
+   "Quai d'Orsay",
+   "remaniement"
+  ],
+  "parlement": [
+   "Assemblée nationale",
+   "Assemblée",
+   "Sénat",
+   "député",
+   "députée",
+   "députés",
+   "sénateur",
+   "sénatrice",
+   "sénateurs",
+   "parlementaire",
+   "parlementaires",
+   "Parlement",
+   "hémicycle",
+   "Palais-Bourbon",
+   "commission d'enquête",
+   "motion de censure",
+   "censure",
+   "49.3",
+   "amendement",
+   "amendements",
+   "proposition de loi",
+   "projet de loi",
+   "Braun-Pivet",
+   "Larcher",
+   "questions au gouvernement"
+  ],
+  "partis": [
+   "Rassemblement national",
+   "RN",
+   "Bardella",
+   "Le Pen",
+   "Marion Maréchal",
+   "France insoumise",
+   "insoumis",
+   "insoumise",
+   "LFI",
+   "Mélenchon",
+   "Bompard",
+   "Panot",
+   "Parti socialiste",
+   "PS",
+   "socialiste",
+   "socialistes",
+   "Olivier Faure",
+   "Glucksmann",
+   "Place publique",
+   "Hollande",
+   "Les Républicains",
+   "LR",
+   "Retailleau",
+   "Wauquiez",
+   "Ciotti",
+   "UDR",
+   "Renaissance",
+   "Attal",
+   "Horizons",
+   "Édouard Philippe",
+   "MoDem",
+   "Bayrou",
+   "Darmanin",
+   "écologistes",
+   "Les Écologistes",
+   "EELV",
+   "Tondelier",
+   "PCF",
+   "communiste",
+   "Roussel",
+   "Ruffin",
+   "Reconquête",
+   "Zemmour",
+   "UDI",
+   "Lisnard",
+   "présidentielle",
+   "primaire",
+   "candidat",
+   "candidate",
+   "candidature",
+   "municipales",
+   "législatives"
+  ]
+ },
+ "natures": {
+  "Interview": [
+   "interview",
+   "entretien",
+   "invité",
+   "invitée",
+   "au micro",
+   "sur le plateau",
+   "grand jury",
+   "questions politiques"
+  ],
+  "Discours": [
+   "discours",
+   "allocution",
+   "vœux",
+   "s'adresse aux Français",
+   "déclaration de politique générale",
+   "conférence de presse",
+   "meeting"
+  ],
+  "Annonce": [
+   "annonce",
+   "annoncé",
+   "annoncée",
+   "dévoile",
+   "promet",
+   "propose"
+  ],
+  "Réaction": [
+   "réagit",
+   "dénonce",
+   "fustige",
+   "accuse",
+   "critique",
+   "s'insurge",
+   "répond",
+   "tacle",
+   "étrille",
+   "condamne",
+   "salue",
+   "regrette",
+   "défend"
+  ],
+  "Tribune": [
+   "tribune",
+   "lettre ouverte"
+  ],
+  "Communiqué": [
+   "communiqué",
+   "communiqué de presse"
+  ]
+ },
+ "exclude": [
+  "horoscope",
+  "jeu concours",
+  "mots croisés",
+  "Premier ministre britannique",
+  "Premier ministre israélien",
+  "Premier ministre canadien",
+  "Premier ministre japonais",
+  "Premier ministre indien",
+  "Premier ministre espagnol",
+  "Premier ministre italien",
+  "Premier ministre hongrois",
+  "Premier ministre belge",
+  "Premier ministre québécois"
+ ],
+ "trusted_publishers": [
+  "Le Monde",
+  "Le Figaro",
+  "Libération",
+  "La Croix",
+  "L'Express",
+  "Le Point",
+  "L'Obs",
+  "Le Nouvel Obs",
+  "Mediapart",
+  "Les Echos",
+  "L'Opinion",
+  "l'Opinion",
+  "L'Humanité",
+  "Le Parisien",
+  "Marianne",
+  "Challenges",
+  "Le JDD",
+  "JDD",
+  "Valeurs actuelles",
+  "La Tribune",
+  "Le Journal du Dimanche",
+  "Le HuffPost",
+  "HuffPost",
+  "20 Minutes",
+  "20minutes",
+  "AFP",
+  "franceinfo",
+  "France Info",
+  "France Inter",
+  "France Culture",
+  "France 24",
+  "RFI",
+  "France 3",
+  "France Bleu",
+  "ICI",
+  "TF1 Info",
+  "TF1INFO",
+  "LCI",
+  "BFMTV",
+  "BFM TV",
+  "BFM",
+  "RTL",
+  "RTL.fr",
+  "Europe 1",
+  "RMC",
+  "CNews",
+  "LCP",
+  "Public Sénat",
+  "Public Senat",
+  "Ouest-France",
+  "Sud Ouest",
+  "La Voix du Nord",
+  "Le Télégramme",
+  "La Dépêche",
+  "La Dépêche du Midi",
+  "Le Progrès",
+  "Nice-Matin",
+  "Le Dauphiné Libéré",
+  "Le Républicain Lorrain",
+  "L'Est Républicain",
+  "DNA",
+  "Midi Libre",
+  "La Montagne",
+  "Le Bien Public",
+  "La Nouvelle République",
+  "lanouvellerepublique.fr",
+  "Le Courrier picard",
+  "Paris-Normandie",
+  "Corse-Matin",
+  "La Provence",
+  "Politico",
+  "POLITICO",
+  "Politico Europe",
+  "Contexte",
+  "Acteurs publics",
+  "La Gazette des communes",
+  "vie-publique.fr",
+  "info.gouv.fr",
+  "Reuters",
+  "Courrier international",
+  "Les Jours",
+  "Arrêt sur images",
+  "Slate.fr",
+  "Euronews",
+  "Euronews.com"
+ ]
+}

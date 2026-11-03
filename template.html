@@ -1,0 +1,270 @@
+<title>Le Fil Politique</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&display=swap">
+<style>
+/* Lecture avant tout : fond clair, résumés en serif, « L'essentiel » en tête, puis le fil groupé par jour. */
+:root {
+  --bg: #ffffff; --panel: #ffffff; --soft: #f4f5f9; --fg: #172036; --muted: #596178; --line: #e3e6ee; --ink: #172036; --on-ink: #ffffff; --on-ink-muted: #c3c9dc;
+  --elysee: #2f45b5; --gouvernement: #0d7270; --parlement: #8a3a8f; --partis: #a0560a; --all: #172036; --hot: #c0262d;
+  --display: "Source Serif 4", Georgia, serif;
+  --body: "Source Sans 3", "Helvetica Neue", Arial, sans-serif;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #11151f; --panel: #181d2b; --soft: #1b2131; --fg: #e8eaf2; --muted: #9ba3b9; --line: #2b3246; --ink: #0a0d16; --on-ink: #ffffff; --on-ink-muted: #a9b0c6;
+  --elysee: #93a2ff; --gouvernement: #4cc7c3; --parlement: #e09ae4; --partis: #f0ad5c; --all: #e8eaf2; --hot: #ff7b80; color-scheme: dark;
+} }
+:root[data-theme="dark"] {
+  --bg: #11151f; --panel: #181d2b; --soft: #1b2131; --fg: #e8eaf2; --muted: #9ba3b9; --line: #2b3246; --ink: #0a0d16; --on-ink: #ffffff; --on-ink-muted: #a9b0c6;
+  --elysee: #93a2ff; --gouvernement: #4cc7c3; --parlement: #e09ae4; --partis: #f0ad5c; --all: #e8eaf2; --hot: #ff7b80; color-scheme: dark;
+}
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+body { margin: 0; background: var(--bg); color: var(--fg); font: 16px/1.6 var(--body); }
+a { color: inherit; }
+:focus-visible { outline: 2px solid var(--elysee); outline-offset: 2px; }
+.mast { background: var(--ink); color: var(--on-ink); padding-top: env(safe-area-inset-top, 0px); }
+.mast-in, .wrap { max-width: 1120px; margin: 0 auto; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+.mast-in { display: flex; flex-wrap: wrap; gap: 6px 24px; align-items: baseline; justify-content: space-between; padding-block: 20px; }
+h1 { margin: 0; font: 700 32px/1.1 var(--display); letter-spacing: -.01em; }
+.mast p { margin: 0; color: var(--on-ink-muted); font: 15px/1.5 var(--body); }
+.wrap { display: grid; grid-template-columns: 240px minmax(0, 1fr); gap: 56px; padding-block: 32px calc(64px + env(safe-area-inset-bottom, 0px)); }
+aside { display: flex; flex-direction: column; gap: 20px; align-self: start; position: sticky; top: calc(16px + env(safe-area-inset-top, 0px)); }
+.label { margin: 0 0 8px; font: 600 13px/1.4 var(--body); letter-spacing: .05em; text-transform: uppercase; color: var(--muted); }
+.topics { display: flex; flex-direction: column; gap: 2px; }
+button { font: inherit; color: inherit; background: none; border: 0; cursor: pointer; }
+.topic { display: flex; align-items: center; gap: 9px; width: 100%; min-height: 40px; padding: 7px 9px; border-radius: 5px; text-align: left; font-weight: 500; }
+.topic:hover { background: var(--soft); }
+.topic[aria-pressed="true"] { background: var(--panel); box-shadow: inset 0 0 0 1px var(--line), inset 3px 0 0 var(--c); }
+.swatch { width: 10px; height: 10px; flex: none; border-radius: 2px; background: var(--c); }
+.topic b { margin-left: auto; font: 400 14px var(--body); color: var(--muted); }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip { min-height: 36px; padding: 4px 12px; border: 1px solid var(--line); border-radius: 99px; font-size: 14px; color: var(--muted); }
+.chip:hover { color: var(--fg); }
+.chip[aria-pressed="true"] { background: var(--fg); color: var(--bg); border-color: var(--fg); }
+.filters { display: flex; flex-direction: column; gap: 20px; }
+summary.label { display: none; cursor: pointer; margin: 0; }
+#q { width: 100%; padding: 10px 12px; border: 1px solid var(--line); border-radius: 6px; background: var(--panel); color: var(--fg); font: inherit; font-size: 16px; }
+.tally { margin: 14px 0 0; font: 14px var(--body); color: var(--muted); }
+.essentiel { margin: 22px 0 8px; padding: 18px 20px 6px; background: var(--soft); border-radius: 8px; }
+.essentiel h2 { margin: 0; font: 700 20px var(--display); }
+.essentiel > p { margin: 2px 0 6px; font-size: 14px; color: var(--muted); }
+.essentiel ol { margin: 0; padding: 0; list-style: none; counter-reset: n; }
+.essentiel li { counter-increment: n; display: grid; grid-template-columns: 26px minmax(0, 1fr); gap: 0 6px; padding: 12px 0; border-top: 1px solid var(--line); }
+.essentiel li:first-child { border-top: 0; }
+.essentiel li::before { content: counter(n); font: 700 18px/1.35 var(--display); color: var(--muted); }
+.essentiel a { font: 600 18px/1.35 var(--display); text-decoration: none; overflow-wrap: anywhere; }
+.essentiel a:hover { text-decoration: underline; }
+.essentiel .src { grid-column: 2; margin-top: 3px; }
+.day { margin: 40px 0 0; padding-bottom: 8px; border-bottom: 2px solid var(--fg); font: 700 20px var(--display); }
+.day:first-letter { text-transform: uppercase; }
+.entry { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 6px 16px; padding: 26px 0; border-bottom: 1px solid var(--line); }
+.entry.read h3 a { color: var(--muted); font-weight: 500; }
+.tags { display: flex; flex-wrap: wrap; gap: 4px 14px; grid-column: 1 / -1; font: 600 14px/1.5 var(--body); }
+.t { color: var(--c); }
+.n { color: var(--muted); }
+.n.hot { color: var(--hot); }
+h3 { margin: 2px 0 0; font: 600 22px/1.3 var(--display); text-wrap: pretty; overflow-wrap: anywhere; }
+h3 a { text-decoration: none; }
+h3 a:hover { text-decoration: underline; }
+.new { display: inline-block; width: 7px; height: 7px; margin-right: 6px; border-radius: 50%; background: var(--hot); vertical-align: 2px; }
+.save { align-self: start; min-width: 44px; min-height: 44px; padding: 2px 4px; font-size: 20px; line-height: 1; color: var(--muted); }
+.save[aria-pressed="true"] { color: var(--partis); }
+.sum { grid-column: 1 / -1; margin: 6px 0 0; max-width: 66ch; font: 18px/1.65 var(--display); overflow-wrap: anywhere; }
+.src { grid-column: 1 / -1; margin-top: 6px; font: 14px/1.5 var(--body); color: var(--muted); overflow-wrap: anywhere; }
+.notif { display: flex; flex-direction: column; gap: 8px; font-size: 14px; color: var(--muted); }
+.notif button { align-self: flex-start; min-height: 44px; padding: 8px 14px; border: 1px solid var(--line); border-radius: 6px; color: var(--fg); font-weight: 600; }
+.notif textarea { width: 100%; height: 90px; padding: 8px; border: 1px solid var(--line); border-radius: 5px; background: var(--panel); color: var(--fg); font: 13px/1.4 ui-monospace, Menlo, monospace; }
+.empty { padding: 40px 0; color: var(--muted); }
+.more { margin-top: 18px; min-height: 44px; padding: 9px 16px; border: 1px solid var(--line); border-radius: 6px; font-weight: 500; }
+footer { margin-top: 36px; font: 14px/1.6 var(--body); color: var(--muted); }
+@media (max-width: 800px) {
+  .wrap { grid-template-columns: minmax(0, 1fr); gap: 20px; padding-top: 20px; }
+  h1 { font-size: 28px; }
+  h3 { font-size: 20px; }
+  .sum { font-size: 17px; }
+  aside { position: static; gap: 14px; }
+  summary.label { display: list-item; }
+  .filters { margin-top: 12px; }
+  .topics { flex-direction: row; flex-wrap: wrap; gap: 6px; }
+  .topic { width: auto; min-height: 36px; padding: 5px 10px; font-size: 15px; box-shadow: inset 0 0 0 1px var(--line); }
+  .topic[aria-pressed="true"] { box-shadow: inset 0 0 0 2px var(--c); }
+  .topic b { margin-left: 2px; }
+  .essentiel { margin-inline: -16px; border-radius: 0; padding-inline: 16px; }
+  .essentiel a { font-size: 17px; }
+}
+</style>
+
+<header class="mast"><div class="mast-in">
+  <h1>Le Fil Politique</h1>
+  <p id="stamp"></p>
+</div></header>
+
+<div class="wrap">
+  <aside>
+    <nav><p class="label">Rubriques</p><div class="topics" id="topics"></div></nav>
+    <details id="filters"><summary class="label">Filtres</summary><div class="filters">
+    <div><p class="label">Type de déclaration</p><div class="chips" id="natures"></div></div>
+    <div><p class="label">Affichage</p><div class="chips" id="views"></div></div>
+    </div></details>
+    <div class="notif" id="notif" hidden></div>
+  </aside>
+  <main>
+    <input id="q" type="search" placeholder="Rechercher : Lecornu, budget, Bardella…" aria-label="Rechercher dans le fil">
+    <section class="essentiel" id="essentiel" hidden></section>
+    <p class="tally" id="tally" aria-live="polite"></p>
+    <div id="list"></div>
+    <button class="more" id="more" hidden>Afficher plus</button>
+    <footer id="foot"></footer>
+  </main>
+</div>
+
+<script>
+const DATA = /*__DATA__*/null;
+const TOPICS = Object.assign({ all: "Tout le fil" }, DATA.labels);
+const NATURES = ["Citation", "Interview", "Discours", "Annonce", "Réaction", "Tribune", "Communiqué"];
+const PAGE = 60;
+const store = {
+  get(key, fallback) { try { return JSON.parse(localStorage.getItem("fil." + key)) ?? fallback; } catch (e) { return fallback; } },
+  set(key, value) { try { localStorage.setItem("fil." + key, JSON.stringify(value)); } catch (e) {} },
+};
+const hash = location.hash.slice(1);
+const state = {
+  topic: TOPICS[hash] ? hash : "all", nature: null, quotes: false, official: false, savedOnly: false, q: "", limit: PAGE,
+  saved: new Set(store.get("saved", [])), read: new Set(store.get("read", [])),
+};
+const lastVisit = store.get("visit", null);
+store.set("visit", DATA.updated);
+
+const $ = (id) => document.getElementById(id);
+const el = (tag, props, ...kids) => { const n = Object.assign(document.createElement(tag), props); n.append(...kids); return n; };
+const fold = (s) => s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+const paris = (opts, d) => new Intl.DateTimeFormat("fr-FR", Object.assign({ timeZone: "Europe/Paris" }, opts)).format(d);
+const articles = DATA.articles.map((a) => Object.assign(a, { d: new Date(a.date), hay: fold(a.title + " " + a.summary + " " + a.source + " " + a.also.join(" ")) }));
+
+function chosen(ignoreTopic) {
+  const words = fold(state.q).split(/\s+/).filter(Boolean);
+  return articles.filter((a) =>
+    (ignoreTopic || state.topic === "all" || a.topics.includes(state.topic)) &&
+    (!state.nature || a.natures.includes(state.nature)) && (!state.quotes || a.natures.length) && (!state.official || a.official) &&
+    (!state.savedOnly || state.saved.has(a.id)) && words.every((w) => a.hay.includes(w)));
+}
+
+function controls() {
+  const counted = chosen(true);
+  $("topics").replaceChildren(...Object.entries(TOPICS).map(([key, label]) => {
+    const count = key === "all" ? counted.length : counted.filter((a) => a.topics.includes(key)).length;
+    const b = el("button", { className: "topic", onclick() { state.topic = key; state.limit = PAGE; history.replaceState(null, "", key === "all" ? "#" : "#" + key); render(); } },
+      el("span", { className: "swatch" }), label, el("b", { textContent: count }));
+    b.style.setProperty("--c", `var(--${key})`);
+    b.setAttribute("aria-pressed", state.topic === key);
+    return b;
+  }));
+  const chip = (label, on, click) => { const b = el("button", { className: "chip", textContent: label, onclick() { click(); state.limit = PAGE; render(); } }); b.setAttribute("aria-pressed", on); return b; };
+  $("natures").replaceChildren(...NATURES.map((n) => chip(n, state.nature === n, () => { state.nature = state.nature === n ? null : n; })));
+  $("views").replaceChildren(
+    chip("Qui a dit quoi", state.quotes, () => { state.quotes = !state.quotes; }),
+    chip("Sources officielles", state.official, () => { state.official = !state.official; }),
+    chip(`À relire (${state.saved.size})`, state.savedOnly, () => { state.savedOnly = !state.savedOnly; }));
+}
+
+function sourceLine(a, withTime) {
+  const meta = withTime ? [paris({ hour: "2-digit", minute: "2-digit" }, a.d)] : [];
+  meta.push(a.source + (a.official ? " (officiel)" : ""));
+  if (a.also.length) meta.push(`aussi ${a.also.length > 3 ? a.also.slice(0, 3).join(", ") + ` et ${a.also.length - 3} autre${a.also.length > 4 ? "s" : ""}` : a.also.join(", ")}`);
+  return meta.join(" · ");
+}
+
+function markRead(a, row) { state.read.add(a.id); store.set("read", [...state.read].slice(-3000)); if (row) row.classList.add("read"); }
+
+function entry(a) {
+  const tags = el("div", { className: "tags" });
+  a.topics.forEach((t) => { const s = el("span", { className: "t", textContent: DATA.labels[t] }); s.style.setProperty("--c", `var(--${t})`); tags.append(s); });
+  a.natures.forEach((n) => tags.append(el("span", { className: "n" + (n === "Citation" ? " hot" : ""), textContent: n })));
+  const link = el("a", { href: a.link, target: "_blank", rel: "noopener noreferrer", textContent: a.title, onclick() { markRead(a, row); } });
+  const heading = el("h3");
+  if (lastVisit && a.added > lastVisit) heading.append(el("span", { className: "new", title: "Nouveau depuis votre dernière visite" }));
+  heading.append(link);
+  const save = el("button", { className: "save", textContent: state.saved.has(a.id) ? "★" : "☆", title: "Garder à relire", onclick() {
+    state.saved.has(a.id) ? state.saved.delete(a.id) : state.saved.add(a.id);
+    store.set("saved", [...state.saved]); render();
+  } });
+  save.setAttribute("aria-pressed", state.saved.has(a.id));
+  save.setAttribute("aria-label", "Garder à relire");
+  const row = el("article", { className: "entry" + (state.read.has(a.id) ? " read" : "") }, tags, heading, save);
+  if (a.summary) row.append(el("p", { className: "sum", textContent: a.summary }));
+  row.append(el("div", { className: "src", textContent: sourceLine(a, true) }));
+  return row;
+}
+
+function essentiel(found) {
+  // Les sujets repris par le plus de médias depuis 24 h : un récapitulatif sans IA.
+  const since = new Date(DATA.updated).getTime() - 24 * 3600e3;
+  const top = found.filter((a) => a.d.getTime() >= since && a.also.length >= 1)
+    .sort((x, y) => y.also.length - x.also.length || y.score - x.score).slice(0, 5);
+  const box = $("essentiel");
+  box.hidden = top.length < 2 || state.q || state.savedOnly;
+  if (box.hidden) return;
+  box.replaceChildren(el("h2", { textContent: "L'essentiel des dernières 24 h" }), el("p", { textContent: "Les sujets repris par le plus de médias" }),
+    el("ol", {}, ...top.map((a) => el("li", {}, el("a", { href: a.link, target: "_blank", rel: "noopener noreferrer", textContent: a.title, onclick() { markRead(a); } }),
+      el("div", { className: "src", textContent: `${a.also.length + 1} médias · ${sourceLine(a, false)}` })))));
+}
+
+function render() {
+  controls();
+  const found = chosen(false);
+  essentiel(found);
+  $("tally").textContent = found.length + (found.length > 1 ? " actualités" : " actualité") + " sur les 3 derniers jours";
+  const nodes = [];
+  let day = "";
+  found.slice(0, state.limit).forEach((a) => {
+    const label = paris({ weekday: "long", day: "numeric", month: "long" }, a.d);
+    if (label !== day) { day = label; nodes.push(el("h2", { className: "day", textContent: label })); }
+    nodes.push(entry(a));
+  });
+  if (!found.length) nodes.push(el("p", { className: "empty", textContent: "Aucune actualité pour ces filtres ces 3 derniers jours. Retirez un filtre pour en voir plus." }));
+  $("list").replaceChildren(...nodes);
+  $("more").hidden = found.length <= state.limit;
+}
+
+$("q").addEventListener("input", (e) => { state.q = e.target.value; state.limit = PAGE; render(); });
+$("more").addEventListener("click", () => { state.limit += PAGE; render(); });
+$("stamp").textContent = "Déclarations et actualité politiques · mis à jour le " + paris({ day: "numeric", month: "long", hour: "2-digit", minute: "2-digit" }, new Date(DATA.updated));
+const ok = DATA.sources.filter((s) => s.ok).length;
+const down = DATA.sources.filter((s) => !s.ok).map((s) => s.name);
+$("foot").textContent = `${ok} flux sur ${DATA.sources.length} relevés lors de la dernière collecte.` + (down.length ? ` Indisponibles : ${[...new Set(down)].join(", ")}.` : "") + " Titres et courts extraits appartiennent à leurs éditeurs ; vérifiez toujours les propos à la source.";
+
+async function notifications() {
+  const box = $("notif");
+  if (!DATA.vapid || !("serviceWorker" in navigator)) return;
+  const installed = matchMedia("(display-mode: standalone)").matches || navigator.standalone;
+  box.hidden = false;
+  if (!installed && /iPhone|iPad/.test(navigator.userAgent)) {
+    box.textContent = "Pour recevoir la notification de 8 h : dans Safari, touchez Partager puis « Sur l'écran d'accueil », et ouvrez Le Fil depuis cette icône.";
+    return;
+  }
+  if (!("PushManager" in window)) { box.hidden = true; return; }
+  const button = el("button", { textContent: "Activer la notification de 8 h" });
+  box.replaceChildren(button);
+  button.onclick = async () => {
+    try {
+      if (await Notification.requestPermission() !== "granted") {
+        box.textContent = "Notifications refusées. Autorisez-les dans Réglages, Notifications, Le Fil, puis rouvrez l'application.";
+        return;
+      }
+      const registration = await navigator.serviceWorker.ready;
+      const key = Uint8Array.from(atob(DATA.vapid.replace(/-/g, "+").replace(/_/g, "/").padEnd(88, "=")), (c) => c.charCodeAt(0));
+      const subscription = await registration.pushManager.subscribe({ userVisibleOnly: true, applicationServerKey: key });
+      const code = el("textarea", { id: "notif-code", readOnly: true, value: JSON.stringify(subscription) });
+      const copy = el("button", { textContent: "Copier le code", onclick() { navigator.clipboard.writeText(code.value).then(() => { copy.textContent = "Code copié"; }, () => code.select()); } });
+      box.replaceChildren("Dernière étape : copiez ce code et collez-le dans le secret PUSH_SUBSCRIPTIONS sur GitHub.", code, copy);
+    } catch (e) {
+      box.textContent = "L'activation a échoué. Fermez puis rouvrez Le Fil et réessayez.";
+    }
+  };
+}
+
+notifications();
+$("filters").open = matchMedia("(min-width: 801px)").matches;
+render();
+</script>
