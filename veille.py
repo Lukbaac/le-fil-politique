@@ -42,7 +42,10 @@ STORY_STOPWORDS = set(
     "candidat candidate candidats 2025 2026 2027 2028 janvier fevrier mars avril juin juillet aout septembre octobre "
     "novembre decembre lundi mardi mercredi jeudi vendredi samedi dimanche semaine pourquoi quoi selon".split()
 )
-TOPIC_LABELS = {"elysee": "Élysée & Matignon", "gouvernement": "Gouvernement", "parlement": "Parlement", "partis": "Partis politiques"}
+TOPIC_LABELS = {
+    "matinales": "Matinales", "elysee": "Élysée & Matignon", "gouvernement": "Gouvernement",
+    "parlement": "Parlement", "partis": "Partis politiques", "presidentielle": "Présidentielle 2027",
+}
 # Google Actualités écrit parfois le même média de plusieurs façons
 PUBLISHER_NAMES = {"BFM": "BFMTV", "BFM TV": "BFMTV", "l'Opinion": "L'Opinion", "Euronews.com": "Euronews", "TF1INFO": "TF1 Info",
                    "20minutes": "20 Minutes", "lanouvellerepublique.fr": "La Nouvelle République", "Public Senat": "Public Sénat",
@@ -287,18 +290,115 @@ def story_words(title):
     return set(re.findall(r"\w{4,}", fold(title).lower())) - STORY_STOPWORDS
 
 
-def classify(entry, source, topic_terms, nature_terms, exclude_terms):
-    text = fold(entry["title"] + " " + entry["summary"][:SUMMARY_LEN])
-    if not source.get("official") and matches(exclude_terms, text):
-        return [], []
-    topics = [t for t, terms in topic_terms.items() if matches(terms, text)]
-    if not source.get("filter") or topics:
-        topics = list(dict.fromkeys(source.get("topics", []) + topics))
-    topics.sort(key=list(TOPIC_LABELS).index)
-    natures = [n for n, terms in nature_terms.items() if matches(terms, fold(entry["title"]))]
-    if re.search(r"[«“\"]", entry["title"]):
-        natures.insert(0, "Citation")  # une citation entre guillemets dans le titre : c'est une déclaration
-    return topics, natures
+UPPER = "A-ZÀÂÄÇÉÈÊËÎÏÔÖÙÛÜ"
+LOWER = "a-zàâäçéèêëîïôöùûüÿœæñ"
+NAME_WORD = rf"[{UPPER}][{LOWER}]+(?:-[{UPPER}][{LOWER}]+)?"
+FULL_NAME = rf"{NAME_WORD}(?:(?:\s+(?:de|du|des)\s+|\s+d['’]|\s+){NAME_WORD}){{1,3}}"
+# Mots à majuscule qui ouvrent un titre sans être un prénom : « Présidentielle 2027 : … », « Colère lycéenne : … »
+NOT_FIRST_NAMES = set(
+    "presidentielle budget colere violences commission prix liberation mobilisation mobilisations agression livreurs carburants "
+    "surpopulation maintien midterms avant avec apres pour selon chez les la le l france paris assemblee senat matignon elysee "
+    "attentat primaire gouvernement ministre president presidente premier premiere depute deputee senateur senatrice parti "
+    "rassemblement front nouveau ensemble union place republicains frontieres edito interview direct exclusif podcasts info "
+    "sondage reforme loi projet proposition marche greve crise affaire ecole justice police europe horizons renaissance "
+    "modem reconquete ecologistes insoumis insoumise socialistes communistes republique pourquoi comment quand quels quelles "
+    "benefices economie interieur sante education travail culture armees agriculture logement transports commerce "
+    "industrie numerique outre-mer finances comptes".split()
+)
+SPEECH_VERBS = (
+    "assure|assurent|estime|affirme|déclare|dénonce|appelle|annonce|reconnaît|reconnait|confirme|juge|note|rappelle|indique|"
+    "ironise|fustige|accuse|critique|répond|réagit|tacle|défend|promet|prévient|plaide|souhaite|regrette|salue|insurge|dit|redit|"
+    "assume|veut|reproche|fait|propose|demande|alerte|admet|explique|insiste|martèle|lance|croit|renoncera|confie|raconte|exhorte|"
+    "réclame|refuse|rejette|condamne|déplore|amuse|interpelle|exige|menace|attaque|étrille|raille|lâche|glisse|tranche|"
+    "avertit|concède|prône|défie|justifie|minimise|répète|maintient|réaffirme|qualifie|compare|sort|s'engage|engage|charge|"
+    "repousse|clame|assène|considère|constate|évoque|analyse|prédit|revendique|félicite|envisage|exclut|réfute|dément|conteste"
+)
+# Ce qui peut séparer un verbe de l'auteur des propos : « estime la députée LFI Aurélie Trouvé »
+ROLE_WORDS = (
+    r"(?:(?:le|la|l['’]|les|du|de|des|d['’])\s*|(?:ministre|ministres|député|députée|sénateur|sénatrice|porte-parole|président|"
+    r"présidente|secrétaire|maire|candidat|candidate|chef|cheffe|patron|patronne|leader|ancien|ancienne|premier|première|"
+    r"écologiste|insoumis|insoumise|socialiste|communiste|eurodéputé|eurodéputée|élu|élue|gouvernement|général|générale|"
+    r"national|nationale|européen|européenne|délégué|déléguée|garde|sceaux)\s+|[A-Z]{2,5}\s+|«Q»\s+)"
+)
+
+
+def compile_rules(config):
+    people, names = {}, set()
+    for full in config.get("personnalites", []):
+        parts = full.split()
+        surname = " ".join(parts[2:] if len(parts) > 2 and parts[1] in ("de", "du") else parts[1:])
+        people[fold(full).lower()] = full
+        people.setdefault(fold(surname).lower(), full)  # « Darmanin » seul désigne Gérald Darmanin
+        names |= {full, surname}
+    known = "|".join(re.escape(n) for n in sorted(names, key=len, reverse=True))
+    name = rf"(?:{known}|{FULL_NAME})" if known else FULL_NAME
+    verbs = rf"(?:ne\s+|n['’]|se\s+|s['’])?(?:{SPEECH_VERBS})\b"
+    return {
+        "topics": {t: compile_terms(config["keywords"][t]) for t in TOPIC_LABELS},
+        "leaders": compile_terms(config["keywords"].get("partis_responsables", [])),
+        "natures": {n: compile_terms(v) for n, v in config["natures"].items()},
+        "people": people,
+        "verbs": re.compile(rf"\b{verbs}"),
+        "speaker": [
+            re.compile(rf"({name})\s*:\s*«Q»"),  # Prisca Thévenot : « … »
+            re.compile(rf"({name})(?:\s*\([^)]{{1,30}}\))?(?:,\s*[^,]{{3,70}},)?\s+{verbs}"),  # Gérald Darmanin, ministre…, dénonce
+            re.compile(rf"(?:\b(?:{SPEECH_VERBS})|\bselon)\s+{ROLE_WORDS}{{0,6}}({name})"),  # …, estime la députée Prisca Thévenot
+            re.compile(rf"\b[Pp]our\s+{ROLE_WORDS}{{0,6}}({name})\s*,"),  # pour Darmanin, il n'y a pas…
+            re.compile(rf"(?:invitée?|interview|entretien|«Q»)\s+(?:de|d['’]|avec)\s+({name})"),  # le « 8h30 franceinfo » de Fabien Roussel
+        ],
+    }
+
+
+def speaker_name(candidate, rules):
+    """Nettoie un nom trouvé dans un titre : retire « Président » devant, écarte « Présidentielle 2027 », complète « Darmanin »."""
+    words = candidate.split()
+    while words and (fold(words[0]).lower().strip("'’") in NOT_FIRST_NAMES or not words[0][0].isupper()):
+        words = words[1:]  # « Président Emmanuel Macron », « Bénéfices de Total »
+    name = " ".join(words)
+    if not name:
+        return ""
+    if fold(name).lower() in rules["people"]:
+        return rules["people"][fold(name).lower()]
+    return name if len(words) >= 2 else ""
+
+
+def declaration(title, source, rules):
+    """Type de déclaration et auteur des propos, lus dans le titre. Sans IA : des règles sur la forme des titres de presse."""
+    natures = [n for n, terms in rules["natures"].items() if matches(terms, fold(title))]
+    quotes = re.findall(r"«\s*([^»]+?)\s*»|[\"“]([^\"”]+)[\"”]", title)
+    quoted = [a or b for a, b in quotes]
+    text = re.sub(r"«[^»]*»|[\"“][^\"”]*[\"”]", "«Q»", title)  # les noms cités à l'intérieur des guillemets ne parlent pas
+    speaker = ""
+    for pattern in rules["speaker"]:
+        for found in pattern.finditer(text):
+            speaker = speaker_name(found.group(1), rules)
+            if speaker:
+                break
+        if speaker:
+            break
+    if not speaker and source == "Élysée" and re.search(r"Président|Macron", title):
+        speaker = "Emmanuel Macron"
+    # Une vraie citation : des propos entre guillemets attribués à quelqu'un, pas un simple mot mis en valeur.
+    long_quote = any(len(q.split()) >= 3 for q in quoted)
+    if quoted and (speaker or (long_quote and rules["verbs"].search(text))):
+        natures.insert(0, "Citation")
+    return natures, speaker
+
+
+def tag(article, rules):
+    """Range un article dans ses rubriques ; refait à chaque collecte pour suivre les changements de sources.json."""
+    text = fold(article["title"] + " " + article["summary"][:SUMMARY_LEN])
+    topics = [t for t, terms in rules["topics"].items() if matches(terms, text)]
+    if "partis" not in topics and "presidentielle" not in topics and matches(rules["leaders"], text):
+        topics.append("partis")  # un chef de parti cité hors campagne présidentielle : c'est la vie des partis
+    base = article.setdefault("base", [])
+    if not article.setdefault("filtered", True) or topics:
+        topics = list(dict.fromkeys(base + topics))
+    if not topics:
+        topics = [t for t in article.get("topics", []) if t in TOPIC_LABELS]  # article d'une version précédente
+    article["topics"] = sorted(topics, key=list(TOPIC_LABELS).index)
+    article["natures"], article["speaker"] = declaration(article["title"], article["source"], rules)
+    return article["topics"]
 
 
 def title_key(title):
@@ -317,8 +417,7 @@ def same_story(words, date, archive):
 
 
 def collect(archive, config):
-    topic_terms = {t: compile_terms(config["keywords"][t]) for t in TOPIC_LABELS}
-    nature_terms = {n: compile_terms(v) for n, v in config["natures"].items()}
+    rules = compile_rules(config)
     exclude_terms = compile_terms(config["exclude"])
     trusted = {fold(name).lower() for name in config["trusted_publishers"]}
     known_ids = {a["id"] for a in archive}
@@ -344,8 +443,15 @@ def collect(archive, config):
                 continue
             if source["name"] == "Google Actualités" and fold(entry["source"]).lower() not in trusted:
                 continue
-            topics, natures = classify(entry, source, topic_terms, nature_terms, exclude_terms)
-            if not topics:
+            if not source.get("official") and matches(exclude_terms, fold(entry["title"] + " " + entry["summary"][:SUMMARY_LEN])):
+                continue
+            article = {
+                "id": uid, "title": entry["title"], "link": entry["link"], "summary": entry["summary"],
+                "source": entry["source"], "date": date.isoformat(), "added": NOW.isoformat(),
+                "official": bool(source.get("official")), "also": [],
+                "base": source.get("topics", []), "filtered": bool(source.get("filter")),
+            }
+            if not tag(article, rules):
                 continue
             words = story_words(entry["title"])
             # Une même déclaration reprise par plusieurs médias n'est affichée qu'une fois,
@@ -356,11 +462,8 @@ def collect(archive, config):
                     if entry["source"] != known["source"] and entry["source"] not in known["also"]:
                         known["also"].append(entry["source"])
                     continue
-            new_articles.append({
-                "id": uid, "title": entry["title"], "link": entry["link"], "summary": entry["summary"],
-                "source": entry["source"], "date": date.isoformat(), "topics": topics, "natures": natures,
-                "added": NOW.isoformat(), "official": bool(source.get("official")), "also": [], "words": words,
-            })
+            article["words"] = words
+            new_articles.append(article)
             known_ids.add(uid)
             known_titles.add(key)
             new += 1
@@ -377,6 +480,7 @@ def collect(archive, config):
 def score(article):
     points = 3 if article["official"] else 0
     points += 2 * min(len(article["also"]), 6)
+    points += 2 if article.get("speaker") else 0
     points += sum({"Citation": 2, "Interview": 2, "Discours": 3, "Annonce": 1, "Réaction": 1}.get(n, 0) for n in article["natures"])
     return points + (1 if article["summary"] else 0)
 
@@ -420,6 +524,11 @@ def main():
         statuses, added = (json.loads(STATUS.read_text(encoding="utf-8")) if STATUS.exists() else []), 0
     else:
         statuses, added = collect(archive, config)
+    rules = compile_rules(config)
+    for a in archive:
+        if "base" not in a:  # article d'une version précédente : rubriques d'office des sources officielles
+            a["base"], a["filtered"] = (a["topics"], False) if a["official"] else ([], True)
+        tag(a, rules)
     cutoff = NOW - dt.timedelta(days=KEEP_DAYS)
     archive = sorted((a for a in archive if parse_date(a["date"]) >= cutoff), key=lambda a: a["date"], reverse=True)
     ARCHIVE.write_text(json.dumps(archive, ensure_ascii=False, indent=0), encoding="utf-8")

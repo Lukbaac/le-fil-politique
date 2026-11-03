@@ -13,7 +13,10 @@
 "natures": [],
 "added": "2026-11-03T17:46:45+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "2c99cc4eb8e2b3fa",
@@ -28,7 +31,10 @@
 "natures": [],
 "added": "2026-11-03T17:39:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "e2a654f20eab40dc",
@@ -40,14 +46,15 @@
 "topics": [
 "partis"
 ],
-"natures": [
-"Citation"
-],
+"natures": [],
 "added": "2026-11-03T17:39:12+00:00",
 "official": false,
 "also": [
 "La Croix"
-]
+],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "c1b2cf146d3e2b04",
@@ -64,7 +71,10 @@
 ],
 "added": "2026-11-03T17:39:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "9c174de19c05e3e0",
@@ -74,6 +84,7 @@
 "source": "CNews",
 "date": "2026-11-03T17:19:16+00:00",
 "topics": [
+"parlement",
 "partis"
 ],
 "natures": [
@@ -81,7 +92,10 @@
 ],
 "added": "2026-11-03T17:39:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Prisca Thévenot"
 },
 {
 "id": "6d178b86b7599221",
@@ -91,12 +105,15 @@
 "source": "Le Figaro",
 "date": "2026-11-03T17:15:45+00:00",
 "topics": [
-"partis"
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T17:39:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "3a5d1c1defc4ad66",
@@ -106,12 +123,16 @@
 "source": "Le Figaro",
 "date": "2026-11-03T17:15:00+00:00",
 "topics": [
-"partis"
+"partis",
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T17:39:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "e9ecd57cd2d0bb42",
@@ -121,12 +142,16 @@
 "source": "Valeurs actuelles",
 "date": "2026-11-03T17:00:44+00:00",
 "topics": [
+"parlement",
 "partis"
 ],
 "natures": [],
 "added": "2026-11-03T17:39:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "93cf56642328dd63",
@@ -136,12 +161,15 @@
 "source": "Le Figaro",
 "date": "2026-11-03T17:00:00+00:00",
 "topics": [
-"partis"
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T17:39:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "46133e6d1d736575",
@@ -156,7 +184,10 @@
 "natures": [],
 "added": "2026-11-03T17:39:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "bf09c87b018e31af",
@@ -171,7 +202,10 @@
 "natures": [],
 "added": "2026-11-03T17:39:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "be2e700ae2b0b6a3",
@@ -187,7 +221,10 @@
 "natures": [],
 "added": "2026-11-03T17:39:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Donald Tusk"
 },
 {
 "id": "200954dd3236bbde",
@@ -205,7 +242,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Laurent Nuñez"
 },
 {
 "id": "4666b5e29ec5d0f9",
@@ -215,12 +255,16 @@
 "source": "TF1 Info",
 "date": "2026-11-03T16:28:28+00:00",
 "topics": [
-"partis"
+"elysee",
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "824f5d63f2e8bcc2",
@@ -235,7 +279,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "227152952895248a",
@@ -246,14 +293,15 @@
 "date": "2026-11-03T16:21:02+00:00",
 "topics": [
 "elysee",
-"partis"
+"presidentielle"
 ],
-"natures": [
-"Citation"
-],
+"natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "acd660793fea61fe",
@@ -265,12 +313,13 @@
 "topics": [
 "partis"
 ],
-"natures": [
-"Citation"
-],
+"natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "623bda381d78a6e0",
@@ -288,7 +337,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Laurent Nuñez"
 },
 {
 "id": "75ab106852d4f45d",
@@ -301,12 +353,13 @@
 "parlement",
 "partis"
 ],
-"natures": [
-"Citation"
-],
+"natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "a54ff96b17f8f739",
@@ -316,12 +369,16 @@
 "source": "Valeurs actuelles",
 "date": "2026-11-03T16:02:55+00:00",
 "topics": [
-"partis"
+"partis",
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "0f08c80e87df0aac",
@@ -331,12 +388,15 @@
 "source": "La Croix",
 "date": "2026-11-03T16:00:47+00:00",
 "topics": [
-"partis"
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "fd863d777d98ac78",
@@ -354,7 +414,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Laurent Nuñez"
 },
 {
 "id": "1736f38571089252",
@@ -369,7 +432,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "569fa86715d0fe10",
@@ -384,7 +450,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "a0aa7920505089ea",
@@ -394,7 +463,7 @@
 "source": "Le Figaro",
 "date": "2026-11-03T15:48:21+00:00",
 "topics": [
-"partis"
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
@@ -403,7 +472,10 @@
 "Libération",
 "RTL",
 "Le Parisien"
-]
+],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "f30ffb27c104c773",
@@ -413,14 +485,17 @@
 "source": "20 Minutes",
 "date": "2026-11-03T15:47:36+00:00",
 "topics": [
-"partis"
+"presidentielle"
 ],
 "natures": [
 "Interview"
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "f749e8f7a00f9226",
@@ -430,12 +505,15 @@
 "source": "20 Minutes",
 "date": "2026-11-03T15:47:00+00:00",
 "topics": [
-"partis"
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "39c86df42e51a4e2",
@@ -450,7 +528,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "58e64b837ca41260",
@@ -466,7 +547,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "41780d10d51e0a93",
@@ -476,14 +560,15 @@
 "source": "BFMTV",
 "date": "2026-11-03T15:29:58+00:00",
 "topics": [
-"partis"
+"presidentielle"
 ],
-"natures": [
-"Citation"
-],
+"natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "134257db1cdb12bb",
@@ -493,7 +578,8 @@
 "source": "Le Parisien",
 "date": "2026-11-03T15:20:03+00:00",
 "topics": [
-"partis"
+"elysee",
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
@@ -502,7 +588,10 @@
 "RMC",
 "Sud Ouest",
 "La Provence"
-]
+],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "b05b5b8a80e4fdbc",
@@ -512,7 +601,8 @@
 "source": "Le Parisien",
 "date": "2026-11-03T15:15:04+00:00",
 "topics": [
-"partis"
+"partis",
+"presidentielle"
 ],
 "natures": [
 "Citation",
@@ -520,7 +610,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Raphaël Glucksmann"
 },
 {
 "id": "cff9d40ab4e1dbc9",
@@ -530,12 +623,16 @@
 "source": "Ouest-France",
 "date": "2026-11-03T15:14:48+00:00",
 "topics": [
-"partis"
+"partis",
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "a6e771db0c3d7ac3",
@@ -545,12 +642,16 @@
 "source": "RMC",
 "date": "2026-11-03T15:04:27+00:00",
 "topics": [
+"elysee",
 "partis"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Marine Tondelier"
 },
 {
 "id": "5887985e6235b74f",
@@ -560,14 +661,18 @@
 "source": "Le Monde",
 "date": "2026-11-03T15:00:28+00:00",
 "topics": [
-"partis"
+"partis",
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
 "also": [
 "La Croix"
-]
+],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "abe178b8299f2528",
@@ -582,7 +687,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "0fe60609e51eb4d0",
@@ -597,7 +705,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "a6a77fcdb0944566",
@@ -612,7 +723,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "f574006e6de13898",
@@ -638,7 +752,10 @@
 "Les Echos",
 "Libération",
 "CNews"
-]
+],
+"base": [],
+"filtered": true,
+"speaker": "Sébastien Lecornu"
 },
 {
 "id": "3bbf248607366940",
@@ -648,12 +765,16 @@
 "source": "20 Minutes",
 "date": "2026-11-03T14:55:33+00:00",
 "topics": [
-"partis"
+"partis",
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "dab2aece6159167d",
@@ -671,7 +792,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Jean-Pierre Farandou"
 },
 {
 "id": "6cc283eabebbaced",
@@ -688,7 +812,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "fa4786a5cec2622d",
@@ -699,12 +826,16 @@
 "date": "2026-11-03T14:40:09+00:00",
 "topics": [
 "gouvernement",
-"parlement"
+"parlement",
+"partis"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "2af3da33932e1f0c",
@@ -716,12 +847,13 @@
 "topics": [
 "partis"
 ],
-"natures": [
-"Citation"
-],
+"natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "c7239f69c41fc934",
@@ -731,12 +863,16 @@
 "source": "LCP",
 "date": "2026-11-03T14:29:32+00:00",
 "topics": [
-"parlement"
+"parlement",
+"partis"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "5fe6ce5e48bc3012",
@@ -746,12 +882,16 @@
 "source": "La Provence",
 "date": "2026-11-03T14:23:51+00:00",
 "topics": [
-"partis"
+"elysee",
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "2cc6fe6d1d246daa",
@@ -761,13 +901,15 @@
 "source": "Libération",
 "date": "2026-11-03T14:17:51+00:00",
 "topics": [
-"elysee",
 "partis"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "8a8a7138036fedcd",
@@ -786,7 +928,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Laurent Nuñez"
 },
 {
 "id": "3cf2f8ea2ce122c8",
@@ -803,7 +948,12 @@
 ],
 "added": "2026-11-03T16:47:02+00:00",
 "official": true,
-"also": []
+"also": [],
+"base": [
+"elysee"
+],
+"filtered": false,
+"speaker": ""
 },
 {
 "id": "10a9765c27eecf7e",
@@ -818,7 +968,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "4571d3eb2466e9c3",
@@ -834,7 +987,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "5d1f5c626818f1f7",
@@ -844,12 +1000,15 @@
 "source": "Le Figaro",
 "date": "2026-11-03T13:45:03+00:00",
 "topics": [
-"partis"
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "1d3cdf03a4492f78",
@@ -859,7 +1018,8 @@
 "source": "Libération",
 "date": "2026-11-03T13:37:04+00:00",
 "topics": [
-"partis"
+"partis",
+"presidentielle"
 ],
 "natures": [
 "Citation"
@@ -868,7 +1028,10 @@
 "official": false,
 "also": [
 "20 Minutes"
-]
+],
+"base": [],
+"filtered": true,
+"speaker": "Fabien Roussel"
 },
 {
 "id": "20539a1fc9a700e3",
@@ -886,7 +1049,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "8b7722bdeeaa3b4a",
@@ -897,14 +1063,17 @@
 "date": "2026-11-03T13:28:45+00:00",
 "topics": [
 "parlement",
-"partis"
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
 "also": [
 "Le Parisien"
-]
+],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "5d60ac6ef5c9b7a3",
@@ -915,12 +1084,15 @@
 "date": "2026-11-03T13:11:03+00:00",
 "topics": [
 "elysee",
-"partis"
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "c3b55429bdbab63d",
@@ -930,15 +1102,15 @@
 "source": "Le Monde",
 "date": "2026-11-03T13:00:12+00:00",
 "topics": [
-"elysee",
-"partis"
+"presidentielle"
 ],
-"natures": [
-"Citation"
-],
+"natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "78b6c03f1e5fdfe1",
@@ -948,14 +1120,17 @@
 "source": "Le Parisien",
 "date": "2026-11-03T12:59:56+00:00",
 "topics": [
-"partis"
+"presidentielle"
 ],
 "natures": [
 "Discours"
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "07898b023701ab19",
@@ -966,14 +1141,16 @@
 "date": "2026-11-03T12:47:41+00:00",
 "topics": [
 "elysee",
-"partis"
+"partis",
+"presidentielle"
 ],
-"natures": [
-"Citation"
-],
+"natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "d65867d8fe177ac1",
@@ -988,7 +1165,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "7169fba7eacf69e4",
@@ -998,14 +1178,18 @@
 "source": "BFMTV",
 "date": "2026-11-03T12:09:46+00:00",
 "topics": [
-"partis"
+"partis",
+"presidentielle"
 ],
 "natures": [
 "Citation"
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Fabien Roussel"
 },
 {
 "id": "6b92976692f6f13c",
@@ -1020,7 +1204,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "7940431aebd57aea",
@@ -1030,14 +1217,15 @@
 "source": "Valeurs actuelles",
 "date": "2026-11-03T12:02:53+00:00",
 "topics": [
-"partis"
+"presidentielle"
 ],
-"natures": [
-"Citation"
-],
+"natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "936a4c7973908d37",
@@ -1047,14 +1235,15 @@
 "source": "RMC",
 "date": "2026-11-03T12:02:03+00:00",
 "topics": [
-"partis"
+"presidentielle"
 ],
-"natures": [
-"Citation"
-],
+"natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "085d5734729b33c3",
@@ -1074,7 +1263,10 @@
 "also": [
 "L'Opinion",
 "Le HuffPost"
-]
+],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "6cacd10464f0cb10",
@@ -1084,14 +1276,17 @@
 "source": "20 Minutes",
 "date": "2026-11-03T11:43:01+00:00",
 "topics": [
-"partis"
+"presidentielle"
 ],
 "natures": [
 "Citation"
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Michel Houellebecq"
 },
 {
 "id": "8b6a0c2a6ae3f4a6",
@@ -1108,7 +1303,10 @@
 "official": false,
 "also": [
 "Le Figaro"
-]
+],
+"base": [],
+"filtered": true,
+"speaker": "Michel Houellebecq"
 },
 {
 "id": "b5c5837078b5c958",
@@ -1125,7 +1323,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Serge Papin"
 },
 {
 "id": "60a67147b42b730b",
@@ -1137,12 +1338,13 @@
 "topics": [
 "partis"
 ],
-"natures": [
-"Citation"
-],
+"natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "13b5d43fe594f8cb",
@@ -1153,14 +1355,18 @@
 "date": "2026-11-03T11:26:55+00:00",
 "topics": [
 "elysee",
-"partis"
+"partis",
+"presidentielle"
 ],
 "natures": [
 "Citation"
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Gérald Darmanin"
 },
 {
 "id": "524d8d4c492a2f27",
@@ -1177,7 +1383,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Fabien Roussel"
 },
 {
 "id": "4425c70512f77194",
@@ -1187,14 +1396,17 @@
 "source": "Le Parisien",
 "date": "2026-11-03T11:07:57+00:00",
 "topics": [
-"partis"
+"presidentielle"
 ],
 "natures": [
 "Citation"
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Gérald Darmanin"
 },
 {
 "id": "a0e165bf58cb311a",
@@ -1211,7 +1423,10 @@
 "official": false,
 "also": [
 "20 Minutes"
-]
+],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "05e9643251ea7fe8",
@@ -1221,14 +1436,18 @@
 "source": "BFMTV",
 "date": "2026-11-03T11:03:53+00:00",
 "topics": [
-"partis"
+"partis",
+"presidentielle"
 ],
 "natures": [
 "Citation"
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Fabien Roussel"
 },
 {
 "id": "15038ef764e097a0",
@@ -1247,7 +1466,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Rania Kassi"
 },
 {
 "id": "7f26aac9eca95e38",
@@ -1262,7 +1484,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "1e1aa8dfd1150211",
@@ -1280,7 +1505,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Aleksandar Nikolic"
 },
 {
 "id": "30930e0dee59bce3",
@@ -1297,7 +1525,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Violette Spillebout"
 },
 {
 "id": "c640e791dae512b3",
@@ -1308,7 +1539,8 @@
 "date": "2026-11-03T10:53:56+00:00",
 "topics": [
 "gouvernement",
-"partis"
+"partis",
+"presidentielle"
 ],
 "natures": [
 "Réaction"
@@ -1318,7 +1550,10 @@
 "also": [
 "Libération",
 "20 Minutes"
-]
+],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "fe623da54e2828dc",
@@ -1328,7 +1563,7 @@
 "source": "Ouest-France",
 "date": "2026-11-03T10:52:13+00:00",
 "topics": [
-"partis"
+"presidentielle"
 ],
 "natures": [
 "Citation",
@@ -1336,7 +1571,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Margot Medkour"
 },
 {
 "id": "ded8bacdb511580f",
@@ -1355,7 +1593,10 @@
 "LCP",
 "L'Opinion",
 "Le Figaro"
-]
+],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "2aa210225b6eab2f",
@@ -1367,12 +1608,13 @@
 "topics": [
 "gouvernement"
 ],
-"natures": [
-"Citation"
-],
+"natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "2e7d13fde119c73e",
@@ -1390,7 +1632,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Edwige Diaz"
 },
 {
 "id": "bdebae14be1383cb",
@@ -1405,7 +1650,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "9b532eb37a7ae780",
@@ -1423,7 +1671,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Éric Coquerel"
 },
 {
 "id": "739750071e8d3ad7",
@@ -1433,12 +1684,16 @@
 "source": "BFMTV",
 "date": "2026-11-03T10:26:08+00:00",
 "topics": [
-"partis"
+"partis",
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "656b91a82cb05df7",
@@ -1457,7 +1712,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Henri Alfandari"
 },
 {
 "id": "ccc7403983940cd0",
@@ -1472,7 +1730,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "4200d4b1a25f4535",
@@ -1491,7 +1752,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Aurélie Trouvé"
 },
 {
 "id": "1287b3ff5c5b380b",
@@ -1506,7 +1770,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "79d135c59b19ec77",
@@ -1516,14 +1783,19 @@
 "source": "Le Parisien",
 "date": "2026-11-03T10:10:55+00:00",
 "topics": [
-"partis"
+"elysee",
+"gouvernement",
+"presidentielle"
 ],
 "natures": [
 "Citation"
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Dominique de Villepin"
 },
 {
 "id": "305bf4666bd3e494",
@@ -1533,12 +1805,16 @@
 "source": "BFMTV",
 "date": "2026-11-03T10:07:38+00:00",
 "topics": [
-"elysee"
+"elysee",
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T17:39:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "c107c31cbdb97b0d",
@@ -1548,8 +1824,7 @@
 "source": "BFMTV",
 "date": "2026-11-03T10:06:18+00:00",
 "topics": [
-"gouvernement",
-"partis"
+"gouvernement"
 ],
 "natures": [
 "Citation",
@@ -1559,7 +1834,10 @@
 "official": false,
 "also": [
 "Le Dauphiné Libéré"
-]
+],
+"base": [],
+"filtered": true,
+"speaker": "Gérald Darmanin"
 },
 {
 "id": "32d998eebc1f33c8",
@@ -1570,12 +1848,15 @@
 "date": "2026-11-03T10:02:13+00:00",
 "topics": [
 "elysee",
-"partis"
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "118fd39c766210b7",
@@ -1591,7 +1872,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "810376d914b7efaa",
@@ -1603,12 +1887,13 @@
 "topics": [
 "gouvernement"
 ],
-"natures": [
-"Citation"
-],
+"natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "59a1bf8beb3c4ade",
@@ -1620,12 +1905,13 @@
 "topics": [
 "parlement"
 ],
-"natures": [
-"Citation"
-],
+"natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "62899bc28ffb27dc",
@@ -1641,7 +1927,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "3318fa72aeba77a2",
@@ -1659,7 +1948,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Serge Papin"
 },
 {
 "id": "4339ad7ce58e7fc3",
@@ -1677,7 +1969,10 @@
 ],
 "added": "2026-11-03T17:39:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Fabien Roussel"
 },
 {
 "id": "d11a46168c358952",
@@ -1687,9 +1982,7 @@
 "source": "20 Minutes",
 "date": "2026-11-03T09:37:13+00:00",
 "topics": [
-"elysee",
-"gouvernement",
-"partis"
+"presidentielle"
 ],
 "natures": [
 "Citation"
@@ -1698,7 +1991,10 @@
 "official": false,
 "also": [
 "Nice-Matin"
-]
+],
+"base": [],
+"filtered": true,
+"speaker": "Dominique de Villepin"
 },
 {
 "id": "19dbd9f5446b7067",
@@ -1708,14 +2004,18 @@
 "source": "CNews",
 "date": "2026-11-03T09:31:51+00:00",
 "topics": [
-"partis"
+"elysee",
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
 "also": [
 "Ouest-France"
-]
+],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "ca76b55e9d075c98",
@@ -1726,12 +2026,16 @@
 "date": "2026-11-03T09:30:40+00:00",
 "topics": [
 "parlement",
-"partis"
+"partis",
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "756bbc8d3358d77c",
@@ -1741,13 +2045,16 @@
 "source": "BFMTV",
 "date": "2026-11-03T09:30:40+00:00",
 "topics": [
-"elysee",
-"partis"
+"partis",
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "e6c180f824bf42cb",
@@ -1758,12 +2065,15 @@
 "date": "2026-11-03T09:30:40+00:00",
 "topics": [
 "gouvernement",
-"partis"
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "7d7191e664ceba3d",
@@ -1773,7 +2083,8 @@
 "source": "BFMTV",
 "date": "2026-11-03T09:30:39+00:00",
 "topics": [
-"partis"
+"partis",
+"presidentielle"
 ],
 "natures": [
 "Citation"
@@ -1784,7 +2095,10 @@
 "20 Minutes",
 "Ouest-France",
 "Nice-Matin"
-]
+],
+"base": [],
+"filtered": true,
+"speaker": "Jean-François Copé"
 },
 {
 "id": "d10c47456724d9d5",
@@ -1796,12 +2110,13 @@
 "topics": [
 "gouvernement"
 ],
-"natures": [
-"Citation"
-],
+"natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "6f5707d106210fdb",
@@ -1811,12 +2126,15 @@
 "source": "Midi Libre",
 "date": "2026-11-03T09:29:00+00:00",
 "topics": [
-"partis"
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Dominique de Villepin"
 },
 {
 "id": "05346d7058f952e0",
@@ -1834,7 +2152,10 @@
 "official": false,
 "also": [
 "BFMTV"
-]
+],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "0cf0715e92ad9a3d",
@@ -1846,7 +2167,7 @@
 "topics": [
 "elysee",
 "gouvernement",
-"partis"
+"presidentielle"
 ],
 "natures": [
 "Citation"
@@ -1858,7 +2179,10 @@
 "Nice-Matin",
 "La Nouvelle République",
 "Le Dauphiné Libéré"
-]
+],
+"base": [],
+"filtered": true,
+"speaker": "Dominique de Villepin"
 },
 {
 "id": "044855a5f3fc80de",
@@ -1868,6 +2192,7 @@
 "source": "franceinfo",
 "date": "2026-11-03T09:17:41+00:00",
 "topics": [
+"matinales",
 "gouvernement",
 "partis"
 ],
@@ -1876,7 +2201,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Fabien Roussel"
 },
 {
 "id": "3bb0ba1dce68c8c9",
@@ -1893,7 +2221,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Pascal Praud"
 },
 {
 "id": "29824030ff54ae36",
@@ -1903,12 +2234,15 @@
 "source": "Le Monde",
 "date": "2026-11-03T09:02:24+00:00",
 "topics": [
-"partis"
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "92311c11d3d08800",
@@ -1918,12 +2252,16 @@
 "source": "Valeurs actuelles",
 "date": "2026-11-03T09:00:40+00:00",
 "topics": [
-"partis"
+"partis",
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "5e5f307d788195a4",
@@ -1933,14 +2271,17 @@
 "source": "Le Monde",
 "date": "2026-11-03T08:54:25+00:00",
 "topics": [
-"partis"
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
 "also": [
 "CNews"
-]
+],
+"base": [],
+"filtered": true,
+"speaker": "Gérald Darmanin"
 },
 {
 "id": "e4967135c05d8644",
@@ -1950,8 +2291,9 @@
 "source": "BFMTV",
 "date": "2026-11-03T08:41:51+00:00",
 "topics": [
+"matinales",
 "gouvernement",
-"partis"
+"presidentielle"
 ],
 "natures": [
 "Citation"
@@ -1960,7 +2302,10 @@
 "official": false,
 "also": [
 "Le Figaro"
-]
+],
+"base": [],
+"filtered": true,
+"speaker": "Gérald Darmanin"
 },
 {
 "id": "2c94489b8989148f",
@@ -1970,14 +2315,15 @@
 "source": "RMC",
 "date": "2026-11-03T08:35:23+00:00",
 "topics": [
-"partis"
+"presidentielle"
 ],
-"natures": [
-"Citation"
-],
+"natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "91c3ada4c105971f",
@@ -1993,7 +2339,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "01ac43d92ae55ddb",
@@ -2010,7 +2359,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Charlotte d'Ornellas"
 },
 {
 "id": "2b9ea8ed07528fa4",
@@ -2020,14 +2372,19 @@
 "source": "franceinfo",
 "date": "2026-11-03T08:24:56+00:00",
 "topics": [
-"partis"
+"matinales",
+"partis",
+"presidentielle"
 ],
 "natures": [
 "Citation"
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Fabien Roussel"
 },
 {
 "id": "672932a71cfee502",
@@ -2040,15 +2397,16 @@
 "gouvernement",
 "parlement"
 ],
-"natures": [
-"Citation"
-],
+"natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
 "also": [
 "franceinfo",
 "BFMTV"
-]
+],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "c53a9fc68d7af0e0",
@@ -2058,6 +2416,7 @@
 "source": "franceinfo",
 "date": "2026-11-03T08:07:59+00:00",
 "topics": [
+"matinales",
 "gouvernement",
 "parlement",
 "partis"
@@ -2067,7 +2426,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Prisca Thévenot"
 },
 {
 "id": "ca6be4f85ad78cb8",
@@ -2084,7 +2446,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "e6a0bd34c9891b8a",
@@ -2094,14 +2459,19 @@
 "source": "BFMTV",
 "date": "2026-11-03T08:02:40+00:00",
 "topics": [
-"partis"
+"matinales",
+"gouvernement",
+"presidentielle"
 ],
 "natures": [
 "Citation"
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Gérald Darmanin"
 },
 {
 "id": "a8195bfc56209c73",
@@ -2111,15 +2481,18 @@
 "source": "BFMTV",
 "date": "2026-11-03T08:01:54+00:00",
 "topics": [
-"gouvernement",
-"partis"
+"matinales",
+"gouvernement"
 ],
 "natures": [
 "Citation"
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Gérald Darmanin"
 },
 {
 "id": "43aa784e4817a113",
@@ -2134,7 +2507,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "f8067572cfb4ab64",
@@ -2144,15 +2520,17 @@
 "source": "BFMTV",
 "date": "2026-11-03T08:00:37+00:00",
 "topics": [
-"gouvernement",
-"partis"
+"gouvernement"
 ],
 "natures": [
 "Citation"
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Gérald Darmanin"
 },
 {
 "id": "0631413d996797dd",
@@ -2162,15 +2540,19 @@
 "source": "BFMTV",
 "date": "2026-11-03T07:59:28+00:00",
 "topics": [
+"matinales",
 "gouvernement",
-"partis"
+"presidentielle"
 ],
 "natures": [
 "Citation"
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Gérald Darmanin"
 },
 {
 "id": "1e0f57f5c99f05be",
@@ -2180,14 +2562,17 @@
 "source": "franceinfo",
 "date": "2026-11-03T07:58:48+00:00",
 "topics": [
-"partis"
+"presidentielle"
 ],
 "natures": [
 "Citation"
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Dominique de Villepin"
 },
 {
 "id": "e8b4bd9989e9c77b",
@@ -2197,6 +2582,7 @@
 "source": "BFMTV",
 "date": "2026-11-03T07:57:45+00:00",
 "topics": [
+"matinales",
 "gouvernement",
 "partis"
 ],
@@ -2205,7 +2591,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Gérald Darmanin"
 },
 {
 "id": "befc8c71369b4e4c",
@@ -2215,6 +2604,7 @@
 "source": "BFMTV",
 "date": "2026-11-03T07:52:56+00:00",
 "topics": [
+"matinales",
 "gouvernement",
 "partis"
 ],
@@ -2224,7 +2614,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Gérald Darmanin"
 },
 {
 "id": "32361015b8dbbfce",
@@ -2234,15 +2627,18 @@
 "source": "BFMTV",
 "date": "2026-11-03T07:43:06+00:00",
 "topics": [
-"gouvernement",
-"partis"
+"matinales",
+"gouvernement"
 ],
 "natures": [
 "Citation"
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Gérald Darmanin"
 },
 {
 "id": "0145d0501e5b047a",
@@ -2252,14 +2648,19 @@
 "source": "Europe 1",
 "date": "2026-11-03T07:43:00+00:00",
 "topics": [
-"partis"
+"matinales",
+"partis",
+"presidentielle"
 ],
 "natures": [
 "Citation"
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Louis Aliot"
 },
 {
 "id": "27043b9d112831aa",
@@ -2269,12 +2670,16 @@
 "source": "Le Nouvel Obs",
 "date": "2026-11-03T07:30:11+00:00",
 "topics": [
+"parlement",
 "partis"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "fd2a00684bf68717",
@@ -2284,12 +2689,15 @@
 "source": "Valeurs actuelles",
 "date": "2026-11-03T07:00:20+00:00",
 "topics": [
-"partis"
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "d05388cd82d36336",
@@ -2305,7 +2713,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "c9415e0db64ef577",
@@ -2317,12 +2728,13 @@
 "topics": [
 "parlement"
 ],
-"natures": [
-"Citation"
-],
+"natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "5bbd0486ee4a39ce",
@@ -2332,14 +2744,18 @@
 "source": "CNews",
 "date": "2026-11-03T06:19:49+00:00",
 "topics": [
-"partis"
+"partis",
+"presidentielle"
 ],
 "natures": [
 "Citation"
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Raphaël Glucksmann"
 },
 {
 "id": "e8c0896c3898c9a0",
@@ -2354,7 +2770,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "91c621560d375124",
@@ -2369,7 +2788,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "c252a5894694a69f",
@@ -2384,7 +2806,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "577d6c7b2bbce09a",
@@ -2394,15 +2819,18 @@
 "source": "BFMTV",
 "date": "2026-11-03T05:52:37+00:00",
 "topics": [
-"partis"
+"matinales",
+"presidentielle"
 ],
 "natures": [
-"Citation",
 "Interview"
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "f10781902ce4d34f",
@@ -2412,12 +2840,15 @@
 "source": "Les Echos",
 "date": "2026-11-03T05:50:08+00:00",
 "topics": [
-"partis"
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "598e1e177a6e6233",
@@ -2432,7 +2863,10 @@
 "natures": [],
 "added": "2026-11-03T17:46:45+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "366cefd714b47ed2",
@@ -2447,7 +2881,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "c8ef6212f20579ec",
@@ -2457,12 +2894,16 @@
 "source": "Le Dauphiné Libéré",
 "date": "2026-11-03T05:04:11+00:00",
 "topics": [
-"partis"
+"partis",
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Marine Le Pen"
 },
 {
 "id": "209c2e987839c4d7",
@@ -2477,7 +2918,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "f27a8f267e827b7b",
@@ -2487,14 +2931,15 @@
 "source": "Libération",
 "date": "2026-11-03T05:00:00+00:00",
 "topics": [
-"partis"
+"presidentielle"
 ],
-"natures": [
-"Citation"
-],
+"natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "459b4d38ab178932",
@@ -2506,12 +2951,13 @@
 "topics": [
 "elysee"
 ],
-"natures": [
-"Citation"
-],
+"natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "160954682b0660e0",
@@ -2527,7 +2973,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "877d1ec56cf8abd7",
@@ -2537,12 +2986,15 @@
 "source": "Libération",
 "date": "2026-11-03T04:00:00+00:00",
 "topics": [
-"partis"
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "c99a59183f291915",
@@ -2552,12 +3004,15 @@
 "source": "Le Parisien",
 "date": "2026-11-03T04:00:00+00:00",
 "topics": [
-"partis"
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "e30d317debb4359c",
@@ -2567,12 +3022,16 @@
 "source": "Valeurs actuelles",
 "date": "2026-11-03T02:46:22+00:00",
 "topics": [
-"partis"
+"partis",
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "199e76440648007f",
@@ -2582,12 +3041,16 @@
 "source": "La Provence",
 "date": "2026-11-03T00:20:27+00:00",
 "topics": [
-"partis"
+"partis",
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T16:47:02+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "0524041695a023f3",
@@ -2604,7 +3067,10 @@
 "official": false,
 "also": [
 "Sud Ouest"
-]
+],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "bebfa95b11f2aa35",
@@ -2616,12 +3082,13 @@
 "topics": [
 "parlement"
 ],
-"natures": [
-"Citation"
-],
+"natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "5a5d0c538dce7036",
@@ -2639,7 +3106,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Richard Ramos"
 },
 {
 "id": "5c37e6b377f25881",
@@ -2649,14 +3119,17 @@
 "source": "franceinfo",
 "date": "2026-11-02T22:37:06+00:00",
 "topics": [
-"partis"
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
 "also": [
 "France 24"
-]
+],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "bba9033e292fb70b",
@@ -2671,7 +3144,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "1174c706b9d0dd47",
@@ -2681,6 +3157,7 @@
 "source": "BFMTV",
 "date": "2026-11-02T22:17:21+00:00",
 "topics": [
+"matinales",
 "parlement",
 "partis"
 ],
@@ -2689,7 +3166,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "François Kalfon"
 },
 {
 "id": "a129f4c7cc359f20",
@@ -2704,7 +3184,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "9cfb7ae3389aae04",
@@ -2714,6 +3197,7 @@
 "source": "BFMTV",
 "date": "2026-11-02T20:58:18+00:00",
 "topics": [
+"matinales",
 "parlement",
 "partis"
 ],
@@ -2723,7 +3207,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Éric Coquerel"
 },
 {
 "id": "65374ff9e2f4c251",
@@ -2733,15 +3220,19 @@
 "source": "LCP",
 "date": "2026-11-02T20:54:05+00:00",
 "topics": [
+"matinales",
 "gouvernement",
-"partis"
+"presidentielle"
 ],
 "natures": [
 "Citation"
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Philippe Baptiste"
 },
 {
 "id": "297ef3997bf353ee",
@@ -2751,6 +3242,7 @@
 "source": "BFMTV",
 "date": "2026-11-02T20:47:35+00:00",
 "topics": [
+"gouvernement",
 "parlement",
 "partis"
 ],
@@ -2759,7 +3251,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Éric Coquerel"
 },
 {
 "id": "2edfba6803e48a15",
@@ -2774,7 +3269,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "6dd8e7aae2766386",
@@ -2789,7 +3287,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "978f9ce46078e21d",
@@ -2799,6 +3300,7 @@
 "source": "BFMTV",
 "date": "2026-11-02T20:21:53+00:00",
 "topics": [
+"gouvernement",
 "parlement",
 "partis"
 ],
@@ -2807,7 +3309,10 @@
 ],
 "added": "2026-11-03T17:46:45+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Éric Coquerel"
 },
 {
 "id": "6130605ab766a0f8",
@@ -2822,7 +3327,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "a6e78c0a32b96b0d",
@@ -2832,12 +3340,16 @@
 "source": "Libération",
 "date": "2026-11-02T19:33:53+00:00",
 "topics": [
-"partis"
+"partis",
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "c12fd763410a0714",
@@ -2849,12 +3361,13 @@
 "topics": [
 "partis"
 ],
-"natures": [
-"Citation"
-],
+"natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "3d7d98577bd67138",
@@ -2872,7 +3385,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Jean-Luc Mélenchon"
 },
 {
 "id": "58836f18ae17c9a0",
@@ -2882,12 +3398,15 @@
 "source": "Le Figaro",
 "date": "2026-11-02T19:10:04+00:00",
 "topics": [
-"partis"
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "c8dd4e1141debb91",
@@ -2904,7 +3423,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Marine Tondelier"
 },
 {
 "id": "76edc47fa99e7454",
@@ -2921,7 +3443,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Guilhem Carayon"
 },
 {
 "id": "a274bc0f2fb85aab",
@@ -2932,12 +3457,15 @@
 "date": "2026-11-02T18:50:03+00:00",
 "topics": [
 "gouvernement",
-"partis"
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "14ed78d842e8a800",
@@ -2947,13 +3475,15 @@
 "source": "Euronews",
 "date": "2026-11-02T18:44:28+00:00",
 "topics": [
-"elysee",
-"partis"
+"elysee"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Emmanuel Macron"
 },
 {
 "id": "3b7133a12e43729f",
@@ -2963,17 +3493,17 @@
 "source": "Public Sénat",
 "date": "2026-11-02T18:20:34+00:00",
 "topics": [
-"elysee",
-"partis"
+"presidentielle"
 ],
-"natures": [
-"Citation"
-],
+"natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
 "also": [
 "20 Minutes"
-]
+],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "f31af8b3a9386bf5",
@@ -2986,14 +3516,16 @@
 "partis"
 ],
 "natures": [
-"Citation",
 "Interview"
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
 "also": [
 "Le Télégramme"
-]
+],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "7b85a730600b5303",
@@ -3010,7 +3542,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Michel Houellebecq"
 },
 {
 "id": "7cae22351016eee4",
@@ -3021,14 +3556,15 @@
 "date": "2026-11-02T18:00:02+00:00",
 "topics": [
 "gouvernement",
-"partis"
+"presidentielle"
 ],
-"natures": [
-"Citation"
-],
+"natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "e09a20ae3cd77661",
@@ -3043,7 +3579,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "0132fc7a4cda58b4",
@@ -3053,14 +3592,15 @@
 "source": "20 Minutes",
 "date": "2026-11-02T17:34:49+00:00",
 "topics": [
-"partis"
+"presidentielle"
 ],
-"natures": [
-"Citation"
-],
+"natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "c11688a64903a008",
@@ -3075,7 +3615,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "185ae95e53b2db1e",
@@ -3085,12 +3628,17 @@
 "source": "TF1 Info",
 "date": "2026-11-02T17:30:00+00:00",
 "topics": [
+"elysee",
+"gouvernement",
 "partis"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "2a34cd8c7f442752",
@@ -3102,12 +3650,13 @@
 "topics": [
 "parlement"
 ],
-"natures": [
-"Citation"
-],
+"natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "2e0a515c93f8f812",
@@ -3123,7 +3672,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "35a12dad442e5725",
@@ -3133,13 +3685,15 @@
 "source": "Public Sénat",
 "date": "2026-11-02T17:03:15+00:00",
 "topics": [
-"parlement",
-"partis"
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "083d07beaed1ba92",
@@ -3154,7 +3708,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "4beb2021b707b1e8",
@@ -3169,7 +3726,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "ae72fa6bd296e51d",
@@ -3186,7 +3746,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Volodymyr Zelensky"
 },
 {
 "id": "daf01c41422e10f9",
@@ -3201,7 +3764,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "9f2080f8898191c3",
@@ -3216,7 +3782,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "c4bb20e05d5686ad",
@@ -3229,12 +3798,13 @@
 "parlement",
 "partis"
 ],
-"natures": [
-"Citation"
-],
+"natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "a465b72dfdbc92c0",
@@ -3249,7 +3819,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "acbccf2b095de71f",
@@ -3259,14 +3832,16 @@
 "source": "RTL",
 "date": "2026-11-02T16:36:19+00:00",
 "topics": [
-"parlement"
+"parlement",
+"partis"
 ],
-"natures": [
-"Citation"
-],
+"natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "db6b15bba5750330",
@@ -3276,12 +3851,15 @@
 "source": "Le Parisien",
 "date": "2026-11-02T16:30:00+00:00",
 "topics": [
-"partis"
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "a61e0bea1d6a92dc",
@@ -3296,7 +3874,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "ed3157e6dade28c0",
@@ -3306,12 +3887,16 @@
 "source": "L'Opinion",
 "date": "2026-11-02T16:15:00+00:00",
 "topics": [
-"partis"
+"matinales",
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "75c07ee56a906f3f",
@@ -3326,7 +3911,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "b4ca6421549ce354",
@@ -3342,7 +3930,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "3bbd41d406b914f0",
@@ -3358,7 +3949,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "376340b9201d63e0",
@@ -3368,7 +3962,7 @@
 "source": "20 Minutes",
 "date": "2026-11-02T15:58:39+00:00",
 "topics": [
-"partis"
+"presidentielle"
 ],
 "natures": [
 "Citation"
@@ -3381,7 +3975,10 @@
 "Sud Ouest",
 "La Provence",
 "Le Parisien"
-]
+],
+"base": [],
+"filtered": true,
+"speaker": "Gérald Darmanin"
 },
 {
 "id": "9418659e731e15f1",
@@ -3391,12 +3988,16 @@
 "source": "TF1 Info",
 "date": "2026-11-02T15:43:50+00:00",
 "topics": [
-"partis"
+"elysee",
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "65b3c6bcad317b47",
@@ -3413,7 +4014,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Roland Lescure"
 },
 {
 "id": "504e9b38ab4f807c",
@@ -3425,12 +4029,13 @@
 "topics": [
 "partis"
 ],
-"natures": [
-"Citation"
-],
+"natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "8bebbd199de9026a",
@@ -3442,12 +4047,13 @@
 "topics": [
 "partis"
 ],
-"natures": [
-"Citation"
-],
+"natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "475c1fb25a238206",
@@ -3460,12 +4066,14 @@
 "partis"
 ],
 "natures": [
-"Citation",
 "Réaction"
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "eafd90985ea4fe6f",
@@ -3475,12 +4083,16 @@
 "source": "LCP",
 "date": "2026-11-02T15:30:55+00:00",
 "topics": [
-"partis"
+"partis",
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "aeb37b7cd3af98e2",
@@ -3495,7 +4107,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "e8d1fe3fe4a1d3bd",
@@ -3505,14 +4120,17 @@
 "source": "Le Figaro",
 "date": "2026-11-02T15:23:54+00:00",
 "topics": [
-"partis"
+"presidentielle"
 ],
 "natures": [
 "Réaction"
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Gérald Darmanin"
 },
 {
 "id": "26d6dc64d597e9c2",
@@ -3524,12 +4142,13 @@
 "topics": [
 "parlement"
 ],
-"natures": [
-"Citation"
-],
+"natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "d34b2031ad0cecf0",
@@ -3541,12 +4160,13 @@
 "topics": [
 "partis"
 ],
-"natures": [
-"Citation"
-],
+"natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "63d242f232fdd3c2",
@@ -3556,7 +4176,7 @@
 "source": "Le Parisien",
 "date": "2026-11-02T15:16:13+00:00",
 "topics": [
-"partis"
+"presidentielle"
 ],
 "natures": [
 "Citation",
@@ -3564,7 +4184,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Sam Zirah"
 },
 {
 "id": "2e47755de61769c1",
@@ -3579,7 +4202,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "059417800051cb03",
@@ -3589,14 +4215,18 @@
 "source": "La Nouvelle République",
 "date": "2026-11-02T14:54:12+00:00",
 "topics": [
-"partis"
+"partis",
+"presidentielle"
 ],
 "natures": [
 "Citation"
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "bc2cde3ee482dddd",
@@ -3606,14 +4236,18 @@
 "source": "RMC",
 "date": "2026-11-02T13:56:21+00:00",
 "topics": [
-"partis"
+"partis",
+"presidentielle"
 ],
 "natures": [
 "Citation"
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Zohra Bitan"
 },
 {
 "id": "aa0ef43adb8368c1",
@@ -3623,12 +4257,15 @@
 "source": "La Croix",
 "date": "2026-11-02T13:46:42+00:00",
 "topics": [
-"partis"
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "fe55cdf4fbab0ddc",
@@ -3638,12 +4275,16 @@
 "source": "Le HuffPost",
 "date": "2026-11-02T13:21:11+00:00",
 "topics": [
+"elysee",
 "partis"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "02c417b43766ffdd",
@@ -3653,12 +4294,15 @@
 "source": "Le Parisien",
 "date": "2026-11-02T13:15:40+00:00",
 "topics": [
-"partis"
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Raphaël Glucksmann"
 },
 {
 "id": "d2b39cc425a65734",
@@ -3668,7 +4312,8 @@
 "source": "CNews",
 "date": "2026-11-02T13:13:22+00:00",
 "topics": [
-"partis"
+"partis",
+"presidentielle"
 ],
 "natures": [
 "Citation",
@@ -3678,7 +4323,10 @@
 "official": false,
 "also": [
 "Le Parisien"
-]
+],
+"base": [],
+"filtered": true,
+"speaker": "David Lisnard"
 },
 {
 "id": "b7ff7977c93933cb",
@@ -3699,7 +4347,10 @@
 "also": [
 "Le Parisien",
 "Le Télégramme"
-]
+],
+"base": [],
+"filtered": true,
+"speaker": "Marine Le Pen"
 },
 {
 "id": "935510c785001580",
@@ -3709,12 +4360,16 @@
 "source": "20 Minutes",
 "date": "2026-11-02T12:27:00+00:00",
 "topics": [
-"partis"
+"partis",
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "12fbe9a141f0fd11",
@@ -3731,7 +4386,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Jules Torres"
 },
 {
 "id": "109255d963e4c1ea",
@@ -3746,7 +4404,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "bba1e846d4135d27",
@@ -3761,7 +4422,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "5bc2136ff7473fef",
@@ -3771,14 +4435,18 @@
 "source": "TF1 Info",
 "date": "2026-11-02T11:38:32+00:00",
 "topics": [
-"partis"
+"partis",
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
 "also": [
 "Sud Ouest"
-]
+],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "4c523f143d83be0e",
@@ -3793,7 +4461,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Raphaël Glucksmann"
 },
 {
 "id": "a85b9f883b0443a3",
@@ -3803,14 +4474,17 @@
 "source": "RTL",
 "date": "2026-11-02T11:11:43+00:00",
 "topics": [
-"partis"
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
 "also": [
 "La Montagne"
-]
+],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "f7843f8cdd73ceae",
@@ -3820,12 +4494,15 @@
 "source": "Marianne",
 "date": "2026-11-02T11:00:12+00:00",
 "topics": [
-"partis"
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "1c1bdf207265c63b",
@@ -3835,12 +4512,16 @@
 "source": "Libération",
 "date": "2026-11-02T10:58:09+00:00",
 "topics": [
-"partis"
+"partis",
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "ed0a6bd51c0195d8",
@@ -3855,7 +4536,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "c5bb91737c1c1b4b",
@@ -3865,14 +4549,17 @@
 "source": "Le Parisien",
 "date": "2026-11-02T10:45:00+00:00",
 "topics": [
-"partis"
+"elysee",
+"gouvernement",
+"presidentielle"
 ],
-"natures": [
-"Citation"
-],
+"natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "271d0d2ff1d1ec9a",
@@ -3889,7 +4576,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Aurore Bergé"
 },
 {
 "id": "4d005c92554ca61b",
@@ -3904,7 +4594,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Raphaël Glucksmann"
 },
 {
 "id": "144c59023ed41f31",
@@ -3922,7 +4615,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Jean-Luc Mélenchon"
 },
 {
 "id": "c616656ffb5f4cca",
@@ -3939,7 +4635,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "047f2546ecf8ccb3",
@@ -3949,12 +4648,15 @@
 "source": "Libération",
 "date": "2026-11-02T10:23:45+00:00",
 "topics": [
-"partis"
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "b27acf55ea366c31",
@@ -3964,7 +4666,8 @@
 "source": "Le Parisien",
 "date": "2026-11-02T10:23:35+00:00",
 "topics": [
-"partis"
+"partis",
+"presidentielle"
 ],
 "natures": [
 "Citation",
@@ -3972,7 +4675,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Anne-Claire Coudray"
 },
 {
 "id": "93c51170b423d7c6",
@@ -3982,13 +4688,15 @@
 "source": "BFMTV",
 "date": "2026-11-02T09:57:22+00:00",
 "topics": [
-"elysee",
-"partis"
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "François Ruffin"
 },
 {
 "id": "f0bf3cffadfff16f",
@@ -4003,7 +4711,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "a673fa5561929363",
@@ -4013,12 +4724,15 @@
 "source": "BFMTV",
 "date": "2026-11-02T09:47:59+00:00",
 "topics": [
-"partis"
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "c0a677cba18b1dff",
@@ -4028,17 +4742,19 @@
 "source": "Libération",
 "date": "2026-11-02T09:41:43+00:00",
 "topics": [
-"partis"
+"partis",
+"presidentielle"
 ],
-"natures": [
-"Citation"
-],
+"natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
 "also": [
 "RTL",
 "Le Figaro"
-]
+],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "8d1af758f36e8bb4",
@@ -4048,14 +4764,15 @@
 "source": "Ouest-France",
 "date": "2026-11-02T09:31:05+00:00",
 "topics": [
-"partis"
+"presidentielle"
 ],
-"natures": [
-"Citation"
-],
+"natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "42eede1bece91923",
@@ -4065,15 +4782,20 @@
 "source": "Public Sénat",
 "date": "2026-11-02T09:29:06+00:00",
 "topics": [
+"matinales",
 "parlement",
-"partis"
+"partis",
+"presidentielle"
 ],
 "natures": [
 "Citation"
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Clément Beaune"
 },
 {
 "id": "8d5c9447b84cd7de",
@@ -4088,7 +4810,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "7e67bad723049c4e",
@@ -4098,14 +4823,19 @@
 "source": "BFMTV",
 "date": "2026-11-02T09:08:56+00:00",
 "topics": [
-"partis"
+"matinales",
+"partis",
+"presidentielle"
 ],
 "natures": [
 "Citation"
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Raphaël Glucksmann"
 },
 {
 "id": "5207b6cc619759b0",
@@ -4115,7 +4845,7 @@
 "source": "Sud Ouest",
 "date": "2026-11-02T09:08:44+00:00",
 "topics": [
-"partis"
+"presidentielle"
 ],
 "natures": [
 "Citation",
@@ -4124,7 +4854,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Jean-Luc Mélenchon"
 },
 {
 "id": "d56b325179f3c709",
@@ -4134,8 +4867,10 @@
 "source": "BFMTV",
 "date": "2026-11-02T09:06:16+00:00",
 "topics": [
+"matinales",
 "gouvernement",
-"partis"
+"partis",
+"presidentielle"
 ],
 "natures": [
 "Citation",
@@ -4143,7 +4878,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Raphaël Glucksmann"
 },
 {
 "id": "149249263c1ff711",
@@ -4158,7 +4896,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "54952b567292e72b",
@@ -4179,7 +4920,10 @@
 "also": [
 "Le Parisien",
 "RMC"
-]
+],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "1917f329b29cba27",
@@ -4189,6 +4933,9 @@
 "source": "Nice-Matin",
 "date": "2026-11-02T08:45:16+00:00",
 "topics": [
+"matinales",
+"elysee",
+"gouvernement",
 "partis"
 ],
 "natures": [
@@ -4201,7 +4948,10 @@
 "official": false,
 "also": [
 "Ouest-France"
-]
+],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "426b63c411df55f5",
@@ -4211,14 +4961,19 @@
 "source": "BFMTV",
 "date": "2026-11-02T08:36:30+00:00",
 "topics": [
+"matinales",
 "elysee",
 "gouvernement",
-"partis"
+"partis",
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Raphaël Glucksmann"
 },
 {
 "id": "72cd2b8f46a13432",
@@ -4230,12 +4985,13 @@
 "topics": [
 "gouvernement"
 ],
-"natures": [
-"Citation"
-],
+"natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "e8614013a474fe62",
@@ -4252,7 +5008,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Sébastien Lecornu"
 },
 {
 "id": "e75ca6a175f2a3db",
@@ -4262,7 +5021,9 @@
 "source": "BFMTV",
 "date": "2026-11-02T08:33:20+00:00",
 "topics": [
-"partis"
+"matinales",
+"partis",
+"presidentielle"
 ],
 "natures": [
 "Citation"
@@ -4271,7 +5032,10 @@
 "official": false,
 "also": [
 "Le Parisien"
-]
+],
+"base": [],
+"filtered": true,
+"speaker": "Raphaël Glucksmann"
 },
 {
 "id": "eb086084b6289fd7",
@@ -4282,12 +5046,16 @@
 "date": "2026-11-02T08:31:26+00:00",
 "topics": [
 "gouvernement",
-"partis"
+"partis",
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "9fc93ad001b6ff49",
@@ -4304,7 +5072,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Raphaël Glucksmann"
 },
 {
 "id": "5f79676ad7a6ca03",
@@ -4314,15 +5085,18 @@
 "source": "franceinfo",
 "date": "2026-11-02T08:24:19+00:00",
 "topics": [
-"gouvernement",
-"partis"
+"matinales",
+"presidentielle"
 ],
 "natures": [
 "Citation"
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Maud Bregeon"
 },
 {
 "id": "dda3e9b53e5d386a",
@@ -4339,7 +5113,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "fbcea7009ae0c29b",
@@ -4356,7 +5133,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Édouard Geffray"
 },
 {
 "id": "8dbd9f790793021f",
@@ -4368,12 +5148,13 @@
 "topics": [
 "gouvernement"
 ],
-"natures": [
-"Citation"
-],
+"natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "266581de77fe41a1",
@@ -4383,14 +5164,18 @@
 "source": "BFMTV",
 "date": "2026-11-02T08:17:52+00:00",
 "topics": [
-"partis"
+"partis",
+"presidentielle"
 ],
 "natures": [
 "Citation"
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Raphaël Glucksmann"
 },
 {
 "id": "f4df60ec5b0817f7",
@@ -4401,6 +5186,7 @@
 "date": "2026-11-02T08:10:01+00:00",
 "topics": [
 "gouvernement",
+"parlement",
 "partis"
 ],
 "natures": [
@@ -4408,7 +5194,10 @@
 ],
 "added": "2026-11-03T16:47:02+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Jérôme Guedj"
 },
 {
 "id": "59ab4a35604d26d5",
@@ -4423,7 +5212,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "0fd58f2a6ae51c52",
@@ -4440,7 +5232,10 @@
 ],
 "added": "2026-11-03T17:46:45+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Serge Papin"
 },
 {
 "id": "971bba5d8f3119fe",
@@ -4450,14 +5245,19 @@
 "source": "BFMTV",
 "date": "2026-11-02T08:02:00+00:00",
 "topics": [
-"partis"
+"matinales",
+"partis",
+"presidentielle"
 ],
 "natures": [
 "Citation"
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Gabriel Attal"
 },
 {
 "id": "46a07561d7d6b917",
@@ -4467,14 +5267,19 @@
 "source": "BFMTV",
 "date": "2026-11-02T08:00:11+00:00",
 "topics": [
-"partis"
+"matinales",
+"partis",
+"presidentielle"
 ],
 "natures": [
 "Citation"
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Raphaël Glucksmann"
 },
 {
 "id": "c3d676455ba755f2",
@@ -4484,6 +5289,8 @@
 "source": "Europe 1",
 "date": "2026-11-02T07:57:30+00:00",
 "topics": [
+"matinales",
+"parlement",
 "partis"
 ],
 "natures": [
@@ -4492,7 +5299,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Jérôme Guedj"
 },
 {
 "id": "60349d85798ed45b",
@@ -4502,6 +5312,7 @@
 "source": "Public Sénat",
 "date": "2026-11-02T07:57:23+00:00",
 "topics": [
+"matinales",
 "parlement"
 ],
 "natures": [
@@ -4509,7 +5320,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "1a74cec290b2357c",
@@ -4526,7 +5340,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Maud Bregeon"
 },
 {
 "id": "a55552d0df188ba9",
@@ -4541,7 +5358,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Raphaël Glucksmann"
 },
 {
 "id": "2cd12ffc243a5820",
@@ -4557,7 +5377,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "e7171b9d046d1706",
@@ -4567,12 +5390,16 @@
 "source": "Public Sénat",
 "date": "2026-11-02T07:54:42+00:00",
 "topics": [
-"parlement"
+"parlement",
+"partis"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "b02a8afb4d878d31",
@@ -4587,7 +5414,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "0e591b14fd4db3b7",
@@ -4602,7 +5432,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "4bfd5a79310e1c27",
@@ -4612,12 +5445,16 @@
 "source": "Public Sénat",
 "date": "2026-11-02T07:54:10+00:00",
 "topics": [
+"matinales",
 "parlement"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "ec65953bac7af98f",
@@ -4627,7 +5464,9 @@
 "source": "BFMTV",
 "date": "2026-11-02T07:53:16+00:00",
 "topics": [
-"partis"
+"matinales",
+"partis",
+"presidentielle"
 ],
 "natures": [
 "Citation",
@@ -4635,7 +5474,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Raphaël Glucksmann"
 },
 {
 "id": "0814c0bd78bb63ee",
@@ -4650,7 +5492,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "aa2a11d9b7fb0afb",
@@ -4660,14 +5505,19 @@
 "source": "BFMTV",
 "date": "2026-11-02T07:48:14+00:00",
 "topics": [
-"partis"
+"matinales",
+"partis",
+"presidentielle"
 ],
 "natures": [
 "Citation"
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Raphaël Glucksmann"
 },
 {
 "id": "c5bf3436dbd2a37d",
@@ -4677,14 +5527,20 @@
 "source": "Europe 1",
 "date": "2026-11-02T07:42:00+00:00",
 "topics": [
-"gouvernement"
+"matinales",
+"gouvernement",
+"parlement",
+"partis"
 ],
 "natures": [
 "Citation"
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Jérôme Guedj"
 },
 {
 "id": "331e3b197c353c08",
@@ -4694,15 +5550,20 @@
 "source": "BFMTV",
 "date": "2026-11-02T07:40:18+00:00",
 "topics": [
+"matinales",
 "gouvernement",
-"partis"
+"partis",
+"presidentielle"
 ],
 "natures": [
 "Citation"
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Raphaël Glucksmann"
 },
 {
 "id": "a2fbf348078e4ba9",
@@ -4712,11 +5573,10 @@
 "source": "LCP",
 "date": "2026-11-02T07:34:55+00:00",
 "topics": [
-"partis"
+"matinales",
+"presidentielle"
 ],
-"natures": [
-"Citation"
-],
+"natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
 "also": [
@@ -4730,7 +5590,10 @@
 "Sud Ouest",
 "Ouest-France",
 "Le Dauphiné Libéré"
-]
+],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "760e812db5ca3a04",
@@ -4753,7 +5616,10 @@
 "RMC",
 "La Montagne",
 "Le Télégramme"
-]
+],
+"base": [],
+"filtered": true,
+"speaker": "Jean-Luc Mélenchon"
 },
 {
 "id": "501e13ba707d8d7c",
@@ -4772,7 +5638,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "64e17c8d12470ce1",
@@ -4789,7 +5658,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "5517433cce191b84",
@@ -4806,7 +5678,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "6c8f5ba98894cd3d",
@@ -4821,7 +5696,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "1421d13bdb7851c3",
@@ -4831,14 +5709,16 @@
 "source": "L'Opinion",
 "date": "2026-11-02T07:00:00+00:00",
 "topics": [
-"partis"
+"partis",
+"presidentielle"
 ],
-"natures": [
-"Citation"
-],
+"natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "72cc7fef130b619e",
@@ -4854,7 +5734,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "72cc345a190c6a22",
@@ -4864,12 +5747,15 @@
 "source": "La Croix",
 "date": "2026-11-02T06:57:34+00:00",
 "topics": [
-"partis"
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "336279bf43d4b2d5",
@@ -4879,14 +5765,17 @@
 "source": "Ouest-France",
 "date": "2026-11-02T06:31:07+00:00",
 "topics": [
-"partis"
+"presidentielle"
 ],
 "natures": [
 "Citation"
 ],
 "added": "2026-11-03T16:47:02+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "François Hollande"
 },
 {
 "id": "c8a951bf65a63151",
@@ -4896,14 +5785,18 @@
 "source": "20 Minutes",
 "date": "2026-11-02T06:15:30+00:00",
 "topics": [
-"partis"
+"partis",
+"presidentielle"
 ],
 "natures": [
 "Réaction"
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "9727f119f312b387",
@@ -4913,12 +5806,15 @@
 "source": "Ouest-France",
 "date": "2026-11-02T06:09:10+00:00",
 "topics": [
-"partis"
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "0f114f63327861cd",
@@ -4933,7 +5829,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "1336804cd5865125",
@@ -4949,7 +5848,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "54be825efec5a4a4",
@@ -4961,12 +5863,13 @@
 "topics": [
 "partis"
 ],
-"natures": [
-"Citation"
-],
+"natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "9272af08cf38a4dc",
@@ -4981,7 +5884,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Raphaël Glucksmann"
 },
 {
 "id": "65804945214aa1b9",
@@ -4999,7 +5905,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Marine Le Pen"
 },
 {
 "id": "f62712d7e1d6c5c1",
@@ -5014,7 +5923,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "3f426d2842b20521",
@@ -5024,13 +5936,15 @@
 "source": "Libération",
 "date": "2026-11-02T05:00:00+00:00",
 "topics": [
-"elysee",
 "partis"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "c86fece15cf2740e",
@@ -5040,12 +5954,16 @@
 "source": "20 Minutes",
 "date": "2026-11-02T04:10:44+00:00",
 "topics": [
-"partis"
+"partis",
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "42e419b15b1af461",
@@ -5057,12 +5975,13 @@
 "topics": [
 "partis"
 ],
-"natures": [
-"Citation"
-],
+"natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "9eed8b05af3742ed",
@@ -5072,14 +5991,19 @@
 "source": "BFMTV",
 "date": "2026-11-01T23:02:52+00:00",
 "topics": [
-"partis"
+"matinales",
+"partis",
+"presidentielle"
 ],
 "natures": [
 "Citation"
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Marine Tondelier"
 },
 {
 "id": "fca54c56c1d8d9c6",
@@ -5089,14 +6013,18 @@
 "source": "BFMTV",
 "date": "2026-11-01T22:15:24+00:00",
 "topics": [
-"partis"
+"partis",
+"presidentielle"
 ],
 "natures": [
 "Citation"
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Marine Tondelier"
 },
 {
 "id": "ea3a80fa2ea5678f",
@@ -5106,14 +6034,17 @@
 "source": "TF1 Info",
 "date": "2026-11-01T21:32:47+00:00",
 "topics": [
-"partis"
+"presidentielle"
 ],
 "natures": [
 "Interview"
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "95fd5ee45ca775b7",
@@ -5123,12 +6054,15 @@
 "source": "RMC",
 "date": "2026-11-01T21:10:42+00:00",
 "topics": [
-"partis"
+"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "ee2bb93810419855",
@@ -5143,7 +6077,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "fea2f5b9902a6810",
@@ -5153,14 +6090,17 @@
 "source": "20 Minutes",
 "date": "2026-11-01T20:00:56+00:00",
 "topics": [
-"partis"
+"presidentielle"
 ],
 "natures": [
 "Annonce"
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "6face93a88fccba4",
@@ -5170,7 +6110,7 @@
 "source": "Ouest-France",
 "date": "2026-11-01T19:50:48+00:00",
 "topics": [
-"partis"
+"presidentielle"
 ],
 "natures": [
 "Citation"
@@ -5179,7 +6119,10 @@
 "official": false,
 "also": [
 "RTL"
-]
+],
+"base": [],
+"filtered": true,
+"speaker": "Édouard Philippe"
 },
 {
 "id": "e7b861b8d21efce8",
@@ -5189,7 +6132,7 @@
 "source": "Le Parisien",
 "date": "2026-11-01T19:39:04+00:00",
 "topics": [
-"partis"
+"presidentielle"
 ],
 "natures": [
 "Citation"
@@ -5200,7 +6143,10 @@
 "CNews",
 "BFMTV",
 "France 24"
-]
+],
+"base": [],
+"filtered": true,
+"speaker": "Édouard Philippe"
 },
 {
 "id": "10ba41ec91483d2c",
@@ -5219,7 +6165,10 @@
 "official": false,
 "also": [
 "BFMTV"
-]
+],
+"base": [],
+"filtered": true,
+"speaker": "Emmanuel Grégoire"
 },
 {
 "id": "a2ce90ea8fab596a",
@@ -5232,12 +6181,13 @@
 "elysee",
 "partis"
 ],
-"natures": [
-"Citation"
-],
+"natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "c5295ad8b6e3a458",
@@ -5247,14 +6197,18 @@
 "source": "BFMTV",
 "date": "2026-11-01T18:19:55+00:00",
 "topics": [
-"partis"
+"partis",
+"presidentielle"
 ],
 "natures": [
 "Citation"
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Emmanuel Grégoire"
 },
 {
 "id": "e9bf181a3a079ffd",
@@ -5272,7 +6226,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Emmanuel Grégoire"
 },
 {
 "id": "a53d4292c7200c54",
@@ -5290,7 +6247,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Emmanuel Grégoire"
 },
 {
 "id": "0dbe2af3f1ab505d",
@@ -5302,12 +6262,13 @@
 "topics": [
 "elysee"
 ],
-"natures": [
-"Citation"
-],
+"natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "646ab6e8baa8fa12",
@@ -5325,7 +6286,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Pierre-Henri Dumont"
 },
 {
 "id": "3b4b274f33facb7c",
@@ -5346,7 +6310,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Emma Rafowicz"
 },
 {
 "id": "aa2d462878419c71",
@@ -5363,7 +6330,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "5970d56d19011426",
@@ -5373,14 +6343,17 @@
 "source": "20 Minutes",
 "date": "2026-11-01T14:02:50+00:00",
 "topics": [
-"partis"
+"presidentielle"
 ],
 "natures": [
 "Citation"
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": "Natacha Polony"
 },
 {
 "id": "d3331348f9d6e470",
@@ -5393,12 +6366,14 @@
 "parlement"
 ],
 "natures": [
-"Citation",
 "Réaction"
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "efafd42c1a2ece3a",
@@ -5413,7 +6388,10 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 },
 {
 "id": "6de196e11ffb9308",
@@ -5425,11 +6403,12 @@
 "topics": [
 "partis"
 ],
-"natures": [
-"Citation"
-],
+"natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [],
+"base": [],
+"filtered": true,
+"speaker": ""
 }
 ]

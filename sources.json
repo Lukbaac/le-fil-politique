@@ -1,5 +1,5 @@
 {
- "_aide": "topics : rubriques attribuées d'office. filter:true : l'article n'est gardé que s'il contient un mot-clé d'une rubrique. official : source institutionnelle. keywords : mots qui rangent un article dans une rubrique (à compléter quand un ministre ou un chef de parti change). natures : type de déclaration. exclude : mots qui écartent un article, sauf source officielle. trusted_publishers : seuls ces médias sont gardés dans les résultats de Google Actualités.",
+ "_aide": "topics : rubriques attribuées d'office. filter:true : l'article n'est gardé que s'il contient un mot-clé d'une rubrique. official : source institutionnelle. keywords : mots qui rangent un article dans une rubrique (à compléter quand un ministre ou un chef de parti change). natures : type de déclaration. exclude : mots qui écartent un article, sauf source officielle. trusted_publishers : seuls ces médias sont gardés dans les résultats de Google Actualités. personnalites : noms complets reconnus seuls par leur nom de famille (« Darmanin ») comme auteurs de déclarations. partis_responsables : chefs de parti ; ils rangent un article dans Partis politiques sauf s'il parle de la présidentielle, qui a sa propre rubrique.",
  "sources": [
   {
    "name": "Élysée",
@@ -160,18 +160,69 @@
   {
    "name": "Google Actualités",
    "url": "https://news.google.com/rss/search?q=invit%C3%A9%20(ministre%20OR%20d%C3%A9put%C3%A9%20OR%20s%C3%A9nateur)%20(%22France%20Inter%22%20OR%20franceinfo%20OR%20RTL%20OR%20BFMTV%20OR%20LCI%20OR%20%22Europe%201%22)%20when:2d&hl=fr&gl=FR&ceid=FR:fr",
-   "filter": true
+   "filter": true,
+   "topics": [
+    "matinales"
+   ]
   },
   {
    "name": "Google Actualités",
    "url": "https://news.google.com/rss/search?q=pr%C3%A9sidentielle%202027%20candidat%20when:2d&hl=fr&gl=FR&ceid=FR:fr",
    "topics": [
-    "partis"
+    "presidentielle"
+   ],
+   "filter": true
+  },
+  {
+   "name": "Google Actualités",
+   "url": "https://news.google.com/rss/search?q=(%22%C3%A9tait%20l%27invit%C3%A9%22%20OR%20%22%C3%A9tait%20l%27invit%C3%A9e%22%20OR%20%22invit%C3%A9%20de%20la%20matinale%22)%20when:1d&hl=fr&gl=FR&ceid=FR:fr",
+   "topics": [
+    "matinales"
+   ],
+   "filter": true
+  },
+  {
+   "name": "Google Actualités",
+   "url": "https://news.google.com/rss/search?q=(%228h30%20franceinfo%22%20OR%20%22Les%204%20V%C3%A9rit%C3%A9s%22%20OR%20%22Questions%20politiques%22%20OR%20%22Grand%20Jury%22%20OR%20%22Face%20%C3%A0%20face%22)%20when:2d&hl=fr&gl=FR&ceid=FR:fr",
+   "topics": [
+    "matinales"
+   ],
+   "filter": true
+  },
+  {
+   "name": "Google Actualités",
+   "url": "https://news.google.com/rss/search?q=(sondage%20OR%20%22intentions%20de%20vote%22)%20pr%C3%A9sidentielle%20when:3d&hl=fr&gl=FR&ceid=FR:fr",
+   "topics": [
+    "presidentielle"
    ],
    "filter": true
   }
  ],
  "keywords": {
+  "matinales": [
+   "invité de",
+   "invitée de",
+   "était l'invité",
+   "était l'invitée",
+   "invité politique",
+   "invitée politique",
+   "l'invité de la matinale",
+   "matinale",
+   "au micro de",
+   "sur le plateau de",
+   "8h30 franceinfo",
+   "8h20",
+   "Les 4 Vérités",
+   "4 Vérités",
+   "Questions politiques",
+   "Grand Jury",
+   "La Grande interview",
+   "Le Grand Entretien",
+   "L'interview politique",
+   "Bonjour chez vous",
+   "Dimanche en politique",
+   "Vous Président"
+  ],
   "elysee": [
    "Macron",
    "Élysée",
@@ -227,56 +278,74 @@
   "partis": [
    "Rassemblement national",
    "RN",
-   "Bardella",
-   "Le Pen",
-   "Marion Maréchal",
    "France insoumise",
    "insoumis",
    "insoumise",
    "LFI",
-   "Mélenchon",
-   "Bompard",
-   "Panot",
    "Parti socialiste",
    "PS",
    "socialiste",
    "socialistes",
-   "Olivier Faure",
-   "Glucksmann",
    "Place publique",
-   "Hollande",
    "Les Républicains",
    "LR",
-   "Retailleau",
-   "Wauquiez",
-   "Ciotti",
    "UDR",
    "Renaissance",
-   "Attal",
    "Horizons",
-   "Édouard Philippe",
    "MoDem",
-   "Bayrou",
-   "Darmanin",
    "écologistes",
    "Les Écologistes",
    "EELV",
-   "Tondelier",
    "PCF",
    "communiste",
+   "Reconquête",
+   "UDI",
+   "bureau national",
+   "congrès du parti",
+   "secrétaire national",
+   "porte-parole du RN",
+   "porte-parole de LFI",
+   "militants"
+  ],
+  "partis_responsables": [
+   "Bardella",
+   "Le Pen",
+   "Marion Maréchal",
+   "Mélenchon",
+   "Bompard",
+   "Panot",
+   "Olivier Faure",
+   "Glucksmann",
+   "Hollande",
+   "Retailleau",
+   "Wauquiez",
+   "Ciotti",
+   "Attal",
+   "Édouard Philippe",
+   "Bayrou",
+   "Tondelier",
    "Roussel",
    "Ruffin",
-   "Reconquête",
    "Zemmour",
-   "UDI",
-   "Lisnard",
+   "Lisnard"
+  ],
+  "presidentielle": [
    "présidentielle",
+   "élection présidentielle",
    "primaire",
-   "candidat",
-   "candidate",
+   "candidat à la présidentielle",
+   "candidate à la présidentielle",
    "candidature",
-   "municipales",
-   "législatives"
+   "candidats",
+   "course à l'Élysée",
+   "premier tour",
+   "second tour",
+   "parrainages",
+   "intentions de vote",
+   "sondage",
+   "sondages",
+   "programme présidentiel",
+   "campagne présidentielle"
   ]
  },
  "natures": {
@@ -432,5 +501,46 @@
   "Slate.fr",
   "Euronews",
   "Euronews.com"
+ ],
+ "personnalites": [
+  "Emmanuel Macron",
+  "Sébastien Lecornu",
+  "Jordan Bardella",
+  "Marine Le Pen",
+  "Marion Maréchal",
+  "Jean-Luc Mélenchon",
+  "Manuel Bompard",
+  "Mathilde Panot",
+  "Éric Coquerel",
+  "Olivier Faure",
+  "Raphaël Glucksmann",
+  "François Hollande",
+  "Boris Vallaud",
+  "Bruno Retailleau",
+  "Laurent Wauquiez",
+  "Éric Ciotti",
+  "Gabriel Attal",
+  "Édouard Philippe",
+  "François Bayrou",
+  "Gérald Darmanin",
+  "Marine Tondelier",
+  "Fabien Roussel",
+  "François Ruffin",
+  "Éric Zemmour",
+  "David Lisnard",
+  "Gérard Larcher",
+  "Yaël Braun-Pivet",
+  "Laurent Nuñez",
+  "Dominique de Villepin",
+  "Catherine Vautrin",
+  "Stéphanie Rist",
+  "Serge Papin",
+  "Jean-Pierre Farandou",
+  "Prisca Thévenot",
+  "Jean-François Copé",
+  "Xavier Bertrand",
+  "Valérie Pécresse",
+  "Rachida Dati",
+  "Manuel Valls"
  ]
 }
