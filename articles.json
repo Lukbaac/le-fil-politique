@@ -1,5 +1,494 @@
 [
 {
+"id": "918d7261ea1c3b28",
+"title": "Présidentielle 2027 : pourquoi les dates du scrutin virent au casse-tête constitutionnel",
+"link": "https://www.lemonde.fr/politique/article/2026/11/03/presidentielle-2027-pourquoi-les-dates-du-scrutin-virent-au-casse-tete-constitutionnel_6805653_823448.html",
+"summary": "La controverse suscitée par le choix du 2 mai 2027 pour la tenue du second tour de l’élection présidentielle a pris une nouvelle ampleur à la suite des débordements survenus à l’occasion de la mobilisation du 17 octobre.",
+"source": "Le Monde",
+"date": "2026-11-03T19:00:12+00:00",
+"added": "2026-11-03T19:08:58+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "a9fe72941c821624",
+"title": "17 octobre: Laurent Nuñez reconnaît \"un échec\" et \"un défaut d'anticipation\" qui ne se \"réduit pas à un simple sujet de chiffres\"",
+"link": "https://lcp.fr/actualites/17-octobre-laurent-nunez-reconnait-un-echec-et-un-defaut-d-anticipation-qui-ne-se-reduit",
+"summary": "Premier à être auditionné par la commission d'enquête créée à la suite des violences du 17 octobre, le ministre de l'Intérieur, Laurent Nuñez, a réaffirmé que cette journée constituait \"un échec\", dont il a assumé la responsabilité.",
+"source": "LCP",
+"date": "2026-11-03T18:51:06+00:00",
+"added": "2026-11-03T19:08:58+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement",
+"parlement"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Laurent Nuñez"
+},
+{
+"id": "5d1ad3b6489faead",
+"title": "Présidentielle 2027 : plus que jamais assuré d’être au second tour, Jean-Luc Mélenchon creuse encore l’écart avec Édouard Philippe, selon un sondage",
+"link": "https://www.lefigaro.fr/elections/presidentielles/sondages/presidentielle-2027-plus-que-jamais-assure-d-etre-au-second-tour-jean-luc-melenchon-creuse-encore-l-ecart-avec-edouard-philippe-selon-un-sondage-20261103",
+"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
+"source": "Le Figaro",
+"date": "2026-11-03T18:49:37+00:00",
+"added": "2026-11-03T19:08:58+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "00b83d2c2b5d4c05",
+"title": "« Il se prive d’une tribune haut de gamme » : à trois jours des Rencontres de l’avenir à Saint-Raphaël, Jordan Bardella annule sa participation à un débat sur l’économie et les institutions",
+"link": "https://www.nicematin.com/societe/il-se-prive-d-une-tribune-haut-de-gamme-a-trois-jours-des-rencontres-de-l-avenir-a-saint-raphael-jordan-bardella-annule-sa-participation-a-un-debat-sur-l-economie-et-les-institutions-10753309",
+"summary": "Jeudi matin, une affiche XXL vient d’être collée devant le Palais des congrès de Saint-Raphaël, ville rebaptisée « capitale du débat présidentiel ».",
+"source": "Nice-Matin",
+"date": "2026-11-03T18:49:26+00:00",
+"added": "2026-11-03T19:08:58+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Tribune"
+],
+"speaker": ""
+},
+{
+"id": "c251c78074cb642d",
+"title": "Primaire: Gérard Larcher lance le compte à rebours",
+"link": "https://www.lopinion.fr/politique/primaire-gerard-larcher-lance-le-compte-a-rebours",
+"summary": "En coulisses, on planche au Sénat depuis des mois sur les modalités d’organisation d’une éventuelle primaire. Avec un objectif : qu’une primaire enclenchée en janvier puisse se tenir à la mi-février.",
+"source": "L'Opinion",
+"date": "2026-11-03T18:45:00+00:00",
+"added": "2026-11-03T19:08:58+00:00",
+"official": false,
+"also": [],
+"base": [
+"parlement"
+],
+"filtered": true,
+"topics": [
+"parlement",
+"presidentielle"
+],
+"natures": [],
+"speaker": "Gérard Larcher"
+},
+{
+"id": "09b64df5661713d8",
+"title": "Présidentielle 2027 : Mélenchon s'installe derrière Le Pen, Glucksmann chute et Lisnard crée la surprise dans un sondage",
+"link": "https://www.rtl.fr/actu/politique/presidentielle-2027-melenchon-s-installe-derriere-le-pen-glucksmann-chute-et-lisnard-cree-la-surprise-dans-un-sondage-7900692301",
+"summary": "La rédaction numérique de RTL & AFP - édité par Juliette Vignaud\nJean-Luc Mélenchon et Marine Le Pen se distinguent dans la course à l'Élysée.",
+"source": "RTL",
+"date": "2026-11-03T18:37:26+00:00",
+"added": "2026-11-03T19:08:58+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"elysee",
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "751b6d8f30ff414d",
+"title": "« Ce sera efficace mais ce sera aussi une armée mexicaine » : Raphaël Glucksmann va dévoiler son équipe de campagne",
+"link": "https://www.leparisien.fr/elections/presidentielle/ce-sera-efficace-mais-ce-sera-aussi-une-armee-mexicaine-raphael-glucksmann-va-devoiler-son-equipe-de-campagne-03-11-2026-SOS5WAXPZZCFLHJWMYFEA5EQEA.php",
+"summary": "",
+"source": "Le Parisien",
+"date": "2026-11-03T18:34:34+00:00",
+"added": "2026-11-03T19:08:58+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "f7c1ba1884d8cfa0",
+"title": "Présidentielle 2027 : Mélenchon - Le Pen au second tour dans tous les cas de figure, Glucksmann en forte baisse",
+"link": "https://www.laprovence.com/article/elections/7445192913709514/presidentielle-2027-melenchon-le-pen-au-second-tour-dans-tous-les-cas-de-figure-glucksmann-en-forte-baisse",
+"summary": "Marine Le Pen et Jean-Luc Mélenchon sont en tête des sondages sur l’élection présidentielle de 2027.",
+"source": "La Provence",
+"date": "2026-11-03T18:33:32+00:00",
+"added": "2026-11-03T19:08:58+00:00",
+"official": false,
+"also": [
+"Le Parisien"
+],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "013845db7b1f9eb7",
+"title": "\"On a trop tout donné\" à Attal, les \"dingues\" du RN… Deux ans de textos d'Emmanuel Macron révélés dans un livre",
+"link": "https://www.marianne.net/politique/macron/on-a-trop-tout-donne-a-attal-les-dingues-du-rn-deux-ans-de-textos-d-emmanuel-macron-reveles-dans-un-livre",
+"summary": "",
+"source": "Marianne",
+"date": "2026-11-03T18:31:51+00:00",
+"added": "2026-11-03T19:08:58+00:00",
+"official": false,
+"also": [],
+"base": [
+"elysee"
+],
+"filtered": true,
+"topics": [
+"elysee",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "9ebbc5d6afca640f",
+"title": "Protection des enfants : le Sénat adopte le projet de loi du gouvernement, qui prévoit l’imprescriptibilité des crimes sexuels sur mineurs",
+"link": "https://www.lemonde.fr/societe/article/2026/11/03/protection-des-enfants-le-senat-adopte-le-projet-de-loi-du-gouvernement-qui-prevoit-l-imprescriptibilite-des-crimes-sexuels-sur-mineurs_6805650_3224.html",
+"summary": "Le texte gouvernemental a été largement adopté, malgré l’abstention de la gauche, qui a notamment regretté l’absence de moyens financiers supplémentaires pour la protection de l’enfance.",
+"source": "Le Monde",
+"date": "2026-11-03T18:30:06+00:00",
+"added": "2026-11-03T19:08:58+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement",
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "3339a0752155cf54",
+"title": "\"C’est n’importe quoi, les bras m’en tombent\" : la récente campagne médiatique du Rassemblement national irrite élus et propriétaires concernés dans l’Indre",
+"link": "https://www.lanouvellerepublique.fr/indre/commune/argenton-sur-creuse/c-est-n-importe-quoi-les-bras-m-en-tombent-la-recente-campagne-mediatique-du-rassemblement-national-irrite-elus-et-proprietaires-concernes-dans-l-indre-1793730139",
+"summary": "Les quatre propriétaires des maisons à galeries d’Argenton-sur-Creuse ont annoncé envoyer, mardi 3 novembre 2026, un courrier de mise en demeure au Rassemblement national après la récente campagne médiatique du parti. © (Photo archives NR, Ludo Mauchien)\n« C’est beau, c’est Français. »",
+"source": "La Nouvelle République",
+"date": "2026-11-03T18:22:04+00:00",
+"added": "2026-11-03T19:08:58+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "d1d004d32e5df42b",
+"title": "Jordan Bardella invité du 20H de TF1 : suivez l'interview du président du Rassemblement national",
+"link": "https://www.tf1info.fr/politique/elections/presidentielle/en-direct-jordan-bardella-invite-du-20h-de-tf1-suivez-l-interview-du-president-du-rassemblement-national-2473691.html",
+"summary": "Le président du Rassemblement national est l'invité du journal de 20H de TF1 ce mardi 3 novembre. Jordan Bardella va répondre en direct et en plateau aux questions de Gilles Bouleau.",
+"source": "TF1 Info",
+"date": "2026-11-03T18:18:29+00:00",
+"added": "2026-11-03T19:08:58+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Interview"
+],
+"speaker": ""
+},
+{
+"id": "091b1e697554750d",
+"title": "Pétition contre CNews: vers l'organisation d'un débat plus large sur la liberté d'expression et la régulation dans l'hémicycle?",
+"link": "https://lcp.fr/actualites/petition-contre-cnews-vers-l-organisation-d-un-debat-plus-large-sur-la-liberte-d",
+"summary": "Alors que la pétition réclamant la suppression de CNews dépasse les 750.000 signatures sur le site de l'Assemblée nationale, le président de la commission des affaires culturelles, Alexandre Portier (Droite républicaine), sera proposé demain, mercredi 4 novembre, pour être celui qui rédigera un rapport sur cette…",
+"source": "LCP",
+"date": "2026-11-03T18:15:17+00:00",
+"added": "2026-11-03T19:08:58+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "d4e02ca6018c3c8f",
+"title": "Présidentielle 2027 : Philippe, Attal, Retailleau… la dégringolade du bloc central dans les sondages",
+"link": "https://www.lopinion.fr/politique/presidentielle-2027-philippe-attal-retailleau-la-degringolade-du-bloc-central-dans-les-sondages",
+"summary": "C’est un sondage qui consacre l’avance des extrêmes et met en lumière la faiblesse du bloc central. Menée du 27 au 29 octobre 2026, sur un échantillon de 1501 personnes, l’enquête d’opinion réalisée par l’Ifop pour LCI creusent un écart entre la tête du peloton et le reste des candidats.",
+"source": "L'Opinion",
+"date": "2026-11-03T18:15:00+00:00",
+"added": "2026-11-03T19:08:58+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "1cb9719d764ed345",
+"title": "Présidentielle française: la candidat Nouvelle Énergie David Lisnard fait-il peur à ses concurrents?",
+"link": "https://www.rfi.fr/fr/france/20261103-pr%C3%A9sidentielle-fran%C3%A7aise-la-candidat-nouvelle-%C3%A9nergie-david-lisnard-fait-il-peur-%C3%A0-ses-concurrents",
+"summary": "",
+"source": "RFI",
+"date": "2026-11-03T18:14:20+00:00",
+"added": "2026-11-03T19:08:58+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": "Nouvelle Énergie David Lisnard"
+},
+{
+"id": "ad31dad321cdbf71",
+"title": "Mobilisation des lycéens: \"Toutes les revendications portées par ce mouvement sont légitimes\", affirme Jérôme Guedj, député Parti socialiste",
+"link": "https://www.bfmtv.com/politique/parti-socialiste/video-mobilisation-des-lyceens-toutes-les-revendications-portees-par-ce-mouvement-sont-legitimes-affirme-jerome-guedj-depute-parti-socialiste_VN-202611030817.html",
+"summary": "VIDÉO - Alors que des lycées et des universités sont de nouveau bloqués ce mardi, la journée de manifestation du 5 novembre se prépare.",
+"source": "BFMTV",
+"date": "2026-11-03T18:04:35+00:00",
+"added": "2026-11-03T19:08:58+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"parlement",
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Jérôme Guedj"
+},
+{
+"id": "da17f07bf0f108d5",
+"title": "Présidentielle 2027 : le centre et la droite peuvent-ils se passer d’une primaire ?",
+"link": "https://www.la-croix.com/politique/presidentielle-2027-le-centre-et-la-droite-peuvent-ils-se-passer-d-une-primaire-20261103",
+"summary": "La nécessité d’un rassemblement fait son chemin à droite et au centre, alors que les candidats stagnent voire chutent dans les sondages dans la course à l’élection présidentielle 2027.",
+"source": "La Croix",
+"date": "2026-11-03T18:03:42+00:00",
+"added": "2026-11-03T19:08:58+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "d1307a2cd730436b",
+"title": "SONDAGE LCI - Présidentielle 2027 : à six mois du scrutin, un duel Le Pen-Mélenchon toujours plus vraisemblable",
+"link": "https://www.tf1info.fr/politique/elections/presidentielle/sondage-lci-a-six-mois-de-la-presidentielle-2027-marine-le-pen-et-jean-luc-melenchon-sans-adversaires-au-premier-tour-philippe-attal-retailleau-lisnard-2473663.html",
+"summary": "Dans six mois, le nouveau ou la nouvelle présidente de la République aura été élu(e). Ce mardi 3 novembre, que disent les sondages sur les candidats les plus à même de se qualifier pour le second tour, qui aura lieu le 2 mai ?",
+"source": "TF1 Info",
+"date": "2026-11-03T18:03:36+00:00",
+"added": "2026-11-03T19:08:58+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "d543e5ab05b4f14d",
+"title": "«Il faut quelqu’un comme moi, plutôt apaisant» : Laurent Nuñez, ministre de l’Intérieur en pleine déconnexion",
+"link": "https://www.liberation.fr/politique/il-faut-quelquun-comme-moi-plutot-apaisant-laurent-nunez-ministre-de-linterieur-en-pleine-deconnexion-20261103_UHCJVHIXIRHINOAIS2FXJO3DWY/",
+"summary": "«Libé» a rencontré le locataire de la place Beauvau, sous pression depuis le fiasco sécuritaire du 17 octobre.",
+"source": "Libération",
+"date": "2026-11-03T18:01:08+00:00",
+"added": "2026-11-03T19:08:58+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "c2fcc7159ddac996",
+"title": "La taxe au gigaoctet",
+"link": "https://www.franceinfo.fr/economie/impots/la-taxe-au-gigaoctet_8266103.html#xtor=RSS-3-%5Bgeneral%5D",
+"summary": "Le 30 octobre, l'Assemblée nationale a voté un amendement, dans le cadre du projet de loi de finances, pour taxer les fournisseurs de contenus : 5,5 centimes par gigaoctet seront prélevés aux fournisseurs.",
+"source": "franceinfo",
+"date": "2026-11-03T18:00:02+00:00",
+"added": "2026-11-03T19:08:58+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "a063ca42b7504873",
+"title": "Présidentielle 2027 : quelles visions agricoles et alimentaires défendent les candidats, à six mois du scrutin ?",
+"link": "https://www.ouest-france.fr/economie/agriculture/assises-elevage-alimentation/presidentielle-2027-quelles-visions-agricoles-et-alimentaires-defendent-les-candidats-a-six-mois-du-scrutin-6e1140f2-d7a0-11f1-b736-5b9907ef0b5a",
+"summary": "",
+"source": "Ouest-France",
+"date": "2026-11-03T17:57:03+00:00",
+"added": "2026-11-03T19:08:58+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "49827dc11f9af564",
+"title": "Présidentielle 2027 : Marine Le Pen jugée la plus apte à réduire la dette publique, selon un sondage",
+"link": "https://www.letelegramme.fr/france/presidentielle-2027-marine-le-pen-jugee-la-plus-apte-a-reduire-la-dette-publique-selon-un-sondage-7151765.php",
+"summary": "",
+"source": "Le Télégramme",
+"date": "2026-11-03T17:54:06+00:00",
+"added": "2026-11-03T19:08:58+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "91dd250ca2be587e",
+"title": "Mélenchon, la stratégie du « tous racistes »",
+"link": "https://www.lesechos.fr/elections/analyses/melenchon-la-strategie-du-tous-racistes-2260867",
+"summary": "",
+"source": "Les Echos",
+"date": "2026-11-03T17:49:13+00:00",
+"added": "2026-11-03T19:08:58+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "5d46dee5dab614b6",
+"title": "Les purgés de LFI, bientôt de retour au bercail",
+"link": "https://www.lopinion.fr/politique/les-purges-de-lfi-bientot-de-retour-au-bercail",
+"summary": "Le 14 novembre prochain, « L’Après », le mouvement des ex-insoumis, devrait acter le principe d’un vote de ses adhérents pour déterminer leur rôle dans la campagne présidentielle.",
+"source": "L'Opinion",
+"date": "2026-11-03T17:45:00+00:00",
+"added": "2026-11-03T19:08:58+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "dc6f25387fece478",
 "title": "LFI veut-elle vraiment supprimer les crédits de l’enseignement privé ?",
 "link": "https://www.la-croix.com/politique/lfi-veut-elle-vraiment-supprimer-les-credits-de-l-enseignement-prive-20261103",
@@ -169,6 +658,26 @@
 "also": [],
 "base": [],
 "filtered": true,
+"speaker": ""
+},
+{
+"id": "20466902df8fea4a",
+"title": "Présidentielle : Edouard Philippe et la malédiction du toboggan",
+"link": "https://www.lopinion.fr/politique/presidentielle-edouard-philippe-et-la-malediction-du-toboggan",
+"summary": "Le dernier sondage Ipsos pour Le Parisien-Cesi école d’ingénieurs paru fin octobre confirme la mauvaise passe d’Edouard Philippe.",
+"source": "L'Opinion",
+"date": "2026-11-03T17:00:00+00:00",
+"added": "2026-11-03T19:08:58+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
 "speaker": ""
 },
 {
@@ -550,6 +1059,27 @@
 "also": [],
 "base": [],
 "filtered": true,
+"speaker": ""
+},
+{
+"id": "7ae1165c83a2c695",
+"title": "Assises de l’agriculture : le PDG de Coopérative U attend les candidats à la présidentielle au tournant",
+"link": "https://www.ouest-france.fr/economie/agriculture/assises-elevage-alimentation/assises-de-lagriculture-le-pdg-de-cooperative-u-attend-les-candidats-a-la-presidentielle-au-tournant-38ff781e-d789-11f1-b736-5b9907ef0b5a",
+"summary": "",
+"source": "Ouest-France",
+"date": "2026-11-03T15:30:49+00:00",
+"added": "2026-11-03T19:08:58+00:00",
+"official": false,
+"also": [],
+"base": [
+"matinales"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"presidentielle"
+],
+"natures": [],
 "speaker": ""
 },
 {
@@ -1422,7 +1952,8 @@
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
 "also": [
-"20 Minutes"
+"20 Minutes",
+"France 24"
 ],
 "base": [],
 "filtered": true,
@@ -1896,6 +2427,26 @@
 "speaker": ""
 },
 {
+"id": "cfd40797dfa11061",
+"title": "Midterms 2026 : que prédisent les derniers sondages avant l'élection ?",
+"link": "https://www.france24.com/fr/am%C3%A9riques/20261103-etats-unis-midterms-2026-elections-democrates-republicains-derniers-sondages",
+"summary": "",
+"source": "France 24",
+"date": "2026-11-03T09:58:46+00:00",
+"added": "2026-11-03T19:08:58+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "59a1bf8beb3c4ade",
 "title": "«CNews n’est pas une chaîne d’information» : la pétition contre la chaîne d’extrême droite dépasse les 700 000 signatures",
 "link": "https://www.liberation.fr/economie/medias/cnews-nest-pas-une-chaine-dinformation-une-petition-reclamant-la-suppression-du-media-dextreme-droite-cartonne-sur-le-site-de-lassemblee-20261101_TMYHVXPZ75H6BM5G6OSMBX2HUM/",
@@ -1975,6 +2526,26 @@
 "speaker": "Fabien Roussel"
 },
 {
+"id": "7e568229625da6fe",
+"title": "Villepin confirme sa candidature 2027 et écarte toute alliance avec Mélenchon",
+"link": "https://www.laprovence.com/article/politique/29594064292418/presidentielle-2027-dominique-de-villepin-assure-quil-sera-candidat-et-clarifie-sa-position-sur-jean-luc-melenchon",
+"summary": "En dépit de sa popularité désormais plus forte à gauche qu'à droite, il a également exclu tout rapprochement avec Jean-Luc Mélenchon.",
+"source": "La Provence",
+"date": "2026-11-03T09:45:30+00:00",
+"added": "2026-11-03T19:08:58+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": "Dominique de Villepin"
+},
+{
 "id": "d11a46168c358952",
 "title": "Présidentielle 2027 : « Pas de doute en ce qui me concerne »… Villepin confirme qu’il sera bien candidat",
 "link": "https://www.20minutes.fr/politique/4259937-20261103-presidentielle-2027-doute-villepin-confirme-bien-candidat?at_medium=display&at_campaign=149",
@@ -2011,7 +2582,8 @@
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
 "also": [
-"Ouest-France"
+"Ouest-France",
+"Le Télégramme"
 ],
 "base": [],
 "filtered": true,
@@ -2225,6 +2797,24 @@
 "base": [],
 "filtered": true,
 "speaker": "Pascal Praud"
+},
+{
+"id": "25eaa947fbfbd358",
+"title": "Attentat raciste de Trappes : 30 victimes ont été identifiées, selon le procureur national antiterroriste",
+"link": "https://www.lemonde.fr/societe/article/2026/11/03/attentat-raciste-de-trappes-30-victimes-ont-ete-identifiees-selon-le-procureur-national-antiterroriste_6805553_3224.html",
+"summary": "Le procureur, Olivier Christen, est revenu au micro de RTL sur le profil du suspect de l’attentat, Kevin T., qui a été mis en examen, jeudi 29 octobre.",
+"source": "Le Monde",
+"date": "2026-11-03T09:03:03+00:00",
+"added": "2026-11-03T19:08:58+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales"
+],
+"natures": [],
+"speaker": ""
 },
 {
 "id": "29824030ff54ae36",
@@ -2597,6 +3187,26 @@
 "speaker": "Gérald Darmanin"
 },
 {
+"id": "985fe806768ec47e",
+"title": "VIDÉO. Présidentielle 2027 : les services de cet hôpital sont « en péril », et pour vous la santé, c'est important ?",
+"link": "https://www.ouest-france.fr/elections/presidentielle/video-presidentielle-2027-nantes-nous-envoie-des-patients-l-incertain-futur-de-l-hopital-d-ancenis-3caf9a7f-e907-329d-858d-e39dffcd4079",
+"summary": "",
+"source": "Ouest-France",
+"date": "2026-11-03T07:53:00+00:00",
+"added": "2026-11-03T19:08:58+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "befc8c71369b4e4c",
 "title": "Gérald Darmanin, ministre de la Justice, dénonce \"la dérive autoritaire\" de Jean-Luc Mélenchon",
 "link": "https://www.bfmtv.com/politique/extreme-droite/video-gerald-darmanin-ministre-de-la-justice-denonce-la-derive-autoritaire-de-jean-luc-melenchon_VN-202611030302.html",
@@ -2618,6 +3228,30 @@
 "base": [],
 "filtered": true,
 "speaker": "Gérald Darmanin"
+},
+{
+"id": "c4cdd1c0dfab2e70",
+"title": "Blocus des lycées : «Ce gouvernement est faible», juge Louis Aliot",
+"link": "https://www.europe1.fr/politique/blocus-des-lycees-ce-gouvernement-est-faible-juge-louis-aliot-1204712",
+"summary": "Le vice-président du Rassemblement national et maire de Perpignan Louis Aliot était l'invité de La Grande interview Europe 1-CNews ce mardi matin.",
+"source": "Europe 1",
+"date": "2026-11-03T07:46:00+00:00",
+"added": "2026-11-03T19:08:58+00:00",
+"official": false,
+"also": [],
+"base": [
+"matinales"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"gouvernement",
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Louis Aliot"
 },
 {
 "id": "32361015b8dbbfce",
@@ -2869,6 +3503,26 @@
 "speaker": ""
 },
 {
+"id": "c576261973285afe",
+"title": "Midterms 2026 : sondages, États clés, heure des résultats… Notre guide des élections de mi-mandat",
+"link": "https://www.lepoint.fr/monde/midterms-2026-sondages-etats-cles-heure-des-resultats-notre-guide-des-elections-de-mi-mandat-TEZAJ56CPNGKXBUMKQRUU5SJTE/",
+"summary": "",
+"source": "Le Point",
+"date": "2026-11-03T05:30:34+00:00",
+"added": "2026-11-03T19:08:58+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "366cefd714b47ed2",
 "title": "Crise lycéenne : le gouvernement cherche une porte de sortie sans céder davantage",
 "link": "https://www.europe1.fr/societe/crise-lyceenne-le-gouvernement-cherche-une-porte-de-sortie-sans-ceder-davantage-1203720?amp",
@@ -2884,6 +3538,27 @@
 "also": [],
 "base": [],
 "filtered": true,
+"speaker": ""
+},
+{
+"id": "40a4197bfecd1508",
+"title": "Mouvement lycéen: le ministre de l'Intérieur, Laurent Nuñez, a envoyé un mail hier à tous les policiers, pour leur dire sa très grande reconnaissance et qu'il allait continuer à devoir les surmobiliser",
+"link": "https://www.bfmtv.com/police-justice/video-mouvement-lyceen-le-ministre-de-l-interieur-laurent-nunez-a-envoye-un-mail-hier-a-tous-les-policiers-pour-leur-dire-sa-tres-grande-reconnaissance-et-qu-il-allait-continuer-a-devoir-les-surmobiliser_VN-202611030100.html",
+"summary": "VIDÉO - La rentrée des vacances de la Toussaint s'est ouverte avec le retour de quelques blocages: certains lycéens et étudiants poursuivent le mouvement engagé depuis six semaines, malgré les concessions annoncées la semaine dernière par le gouvernement.",
+"source": "BFMTV",
+"date": "2026-11-03T05:14:20+00:00",
+"added": "2026-11-03T19:08:58+00:00",
+"official": false,
+"also": [],
+"base": [
+"matinales"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"gouvernement"
+],
+"natures": [],
 "speaker": ""
 },
 {
@@ -3333,6 +4008,26 @@
 "speaker": ""
 },
 {
+"id": "cb46e4b633df8749",
+"title": "« Il faut des règles du jeu claires » : l’option d’un sondage XXL pour départager les candidats du centre et de la droite",
+"link": "https://www.leparisien.fr/elections/presidentielle/il-faut-des-regles-du-jeu-claires-loption-dun-sondage-xxl-pour-departager-les-candidats-du-centre-et-de-la-droite-02-11-2026-RRGETA6LV5CVLBL554O2RYTUV4.php",
+"summary": "",
+"source": "Le Parisien",
+"date": "2026-11-02T19:45:11+00:00",
+"added": "2026-11-03T19:08:58+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "a6e78c0a32b96b0d",
 "title": "Présidentielle : entre Edouard Philippe et Raphaël Glucksmann, une bataille pour l’issue de recours",
 "link": "https://www.liberation.fr/politique/presidentielle-entre-edouard-philippe-et-raphael-glucksmann-une-bataille-pour-lissue-de-recours-20261102_KXIDYDJLLNAKRNBZI3WXNREVK4/",
@@ -3546,6 +4241,26 @@
 "base": [],
 "filtered": true,
 "speaker": "Michel Houellebecq"
+},
+{
+"id": "585e26aef610c57b",
+"title": "RN, pillages : les confessions de Michel Houellebecq à la presse espagnole",
+"link": "https://www.valeursactuelles.com/societe/presidentielle-2027-ecrivain-facho-pillages-les-confessions-de-michel-houellebecq-a-la-presse-espagnole",
+"summary": "« Nous, les Français, nous nous sommes habitués à la violence. » Le ton est donné. En marge du Festival Ja! de Bilbao, en Espagne, le 30 octobre dernier, Michel Houellebecq, invité vedette de l’événement, s’est prêté au jeu des questions de la presse hispanique.",
+"source": "Valeurs actuelles",
+"date": "2026-11-02T18:01:42+00:00",
+"added": "2026-11-03T19:08:58+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
 },
 {
 "id": "7cae22351016eee4",
@@ -5008,7 +5723,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": [],
+"also": [
+"CNews",
+"La Nouvelle République"
+],
 "base": [],
 "filtered": true,
 "speaker": "Sébastien Lecornu"
@@ -5758,6 +6476,27 @@
 "speaker": ""
 },
 {
+"id": "7b78cbad9d9a38ed",
+"title": "[Podcasts] Demanche pirate le Face à Face : Raphaël Glucksmann - 02/11",
+"link": "https://rmc.bfmtv.com/replay-emissions/apolline-matin/demanche-pirate-le-face-a-face-raphael-glucksmann-02-11_EN-202611020170.html",
+"summary": "Tous les matins, Arnaud Demanche pirate le Face à Face. L'humoriste anticipe et détourne l'interview à venir de l'invité politique d'Apolline de Malherbe.",
+"source": "RMC",
+"date": "2026-11-02T06:32:52+00:00",
+"added": "2026-11-03T19:08:58+00:00",
+"official": false,
+"also": [],
+"base": [
+"matinales"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "336279bf43d4b2d5",
 "title": "« Je suis sans doute différent des autres » : François Hollande veut « Unir » en vue de l’élection présidentielle 2027",
 "link": "https://www.ouest-france.fr/politique/francois-hollande/je-suis-sans-doute-different-des-autres-francois-hollande-cherche-a-unir-en-vue-de-2027-11847358-d2bf-11f1-af78-2d36ec019942",
@@ -5911,6 +6650,27 @@
 "speaker": "Marine Le Pen"
 },
 {
+"id": "75104742e80b599b",
+"title": "Midterms 2026: les démocrates favoris à la Chambre, suspense au Sénat... Que disent les sondages à la veille des élections de mi-mandat?",
+"link": "https://www.bfmtv.com/international/amerique-nord/etats-unis/midterms-2026-les-democrates-favoris-a-la-chambre-au-coude-a-coude-au-senat-quels-rapports-de-force-avant-les-elections-de-mi-mandat_AN-202611010085.html",
+"summary": "Un bureau de vote à Wheaton, dans l'Illinois, le 25 septembre 2025 - Photo par KAMIL KRZACZYNSKI / AFP\nMoins de rouge et plus de bleu?",
+"source": "BFMTV",
+"date": "2026-11-02T05:17:00+00:00",
+"added": "2026-11-03T19:08:58+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"parlement",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "f62712d7e1d6c5c1",
 "title": "Manifestations en France : une semaine sociale sous haute tension pour le gouvernement",
 "link": "https://www.la-croix.com/politique/manifestations-en-france-une-semaine-sociale-sous-haute-tension-pour-le-gouvernement-20261101",
@@ -5944,6 +6704,29 @@
 "also": [],
 "base": [],
 "filtered": true,
+"speaker": ""
+},
+{
+"id": "e0dd4f0442fcd45f",
+"title": "Midterms 2026 : un dernier sondage, qui avait vu juste en 2024, annonce une large majorité démocrate au Sénat",
+"link": "https://www.leparisien.fr/international/etats-unis/elections-americaines/midterms-2026-un-dernier-sondage-qui-avait-vu-juste-en-2024-annonce-une-large-majorite-democrate-au-senat-02-11-2026-NGEWNZHZ4NHE7JNWRILH6X3ZCQ.php",
+"summary": "",
+"source": "Le Parisien",
+"date": "2026-11-02T04:17:08+00:00",
+"added": "2026-11-03T19:08:58+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"parlement",
+"presidentielle"
+],
+"natures": [
+"Annonce"
+],
 "speaker": ""
 },
 {
@@ -6142,7 +6925,8 @@
 "also": [
 "CNews",
 "BFMTV",
-"France 24"
+"France 24",
+"Sud Ouest"
 ],
 "base": [],
 "filtered": true,
@@ -6350,7 +7134,10 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": [],
+"also": [
+"Le Figaro",
+"BFMTV"
+],
 "base": [],
 "filtered": true,
 "speaker": "Natacha Polony"
@@ -6394,6 +7181,45 @@
 "speaker": ""
 },
 {
+"id": "a4161b3faedb1078",
+"title": "«Ils ont agi en toute impunité» : à Lyon, des habitants sidérés après un rassemblement d’ultra-droite",
+"link": "https://www.liberation.fr/politique/ils-ont-agi-en-toute-impunite-a-lyon-des-habitants-sideres-apres-un-rassemblement-dultra-droite-20261101_N7KDEM74HRGFBOE7TQI6SEA7DM/",
+"summary": "Une cinquantaine de militants encagoulés, membres d’un groupuscule néofasciste, se sont rassemblés, vendredi soir, devant la mairie du VIIIe arrondissement.",
+"source": "Libération",
+"date": "2026-11-01T12:41:57+00:00",
+"added": "2026-11-03T19:08:58+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "849ab6a1ac158791",
+"title": "« C’était presque une insulte » : comment David Lisnard a remis le libéralisme à la mode",
+"link": "https://www.lepoint.fr/politique/cetait-presque-une-insulte-comment-david-lisnard-a-remis-le-liberalisme-a-la-mode-IDU46MKB4ZDG7LFRQQ7VYKPGWA/",
+"summary": "",
+"source": "Le Point",
+"date": "2026-11-01T12:15:00+00:00",
+"added": "2026-11-03T19:08:58+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "6de196e11ffb9308",
 "title": "Il y a 50 ans, la famille de Jean-Marie Le Pen échappait «par miracle» à l’attentat de la villa Poirier, «élément majeur» de la construction de sa fille Marine",
 "link": "https://www.lefigaro.fr/politique/il-y-a-50-ans-la-famille-de-jean-marie-le-pen-echappait-par-miracle-a-l-attentat-de-la-villa-poirier-element-majeur-de-la-construction-de-sa-fille-marine-20261101",
@@ -6409,6 +7235,27 @@
 "also": [],
 "base": [],
 "filtered": true,
+"speaker": ""
+},
+{
+"id": "35278da06b70ca12",
+"title": "Sondage : le candidat UMP donné gagnant à Toulouse pour la première fois",
+"link": "https://www.tf1info.fr/politique/elections/municipales/sondage-le-candidat-ump-donne-gagnant-a-toulouse-pour-la-premiere-fois-1543897.html",
+"summary": "Un sondage publié ce jeudi indique que le candidat UMP Jean-Luc Moudenc remporterait la mairie de Toulouse avec un très mince avantage sur le sortant socialiste Pierre Cohen.",
+"source": "TF1 Info",
+"date": "2026-11-01T04:28:09+00:00",
+"added": "2026-11-03T19:08:58+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
 "speaker": ""
 }
 ]
