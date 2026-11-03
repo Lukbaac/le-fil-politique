@@ -1,0 +1,66 @@
+name: Mise à jour du fil
+
+on:
+  schedule:
+    - cron: "45 5 * * *"        # 7 h 45 à Paris en été : collecte puis notification à 8 h
+    - cron: "45 6 * * *"        # 7 h 45 à Paris en hiver
+    - cron: "0 9,11,13,15,17,19,21 * * *"   # collectes de la journée, toutes les deux heures (UTC)
+  workflow_dispatch:
+    inputs:
+      notifier:
+        description: "Envoyer la notification maintenant"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: veille
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python veille.py
+        env:
+          VAPID_PUBLIC_KEY: ${{ secrets.VAPID_PUBLIC_KEY }}
+      - name: Sauvegarder l'archive
+        run: |
+          git config user.name "lefil[bot]"
+          git config user.email "actions@users.noreply.github.com"
+          git rm -r -q --cached --ignore-unmatch _site
+          git add -A -- . ':(exclude)_site'
+          git diff --cached --quiet || git commit -m "Mise à jour du fil"
+          git push
+      - name: Préparer le site
+        run: |
+          rm -rf _site && mkdir _site
+          cp index.html sw.js manifest.webmanifest icon.svg icon-180.png icon-512.png _site/
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - uses: actions/deploy-pages@v4
+      - name: Envoyer la notification du matin
+        # !cancelled() : la notification part même si la publication du site a échoué
+        if: ${{ !cancelled() && (github.event.schedule == '45 5 * * *' || github.event.schedule == '45 6 * * *' || inputs.notifier) }}
+        env:
+          VAPID_PRIVATE_KEY: ${{ secrets.VAPID_PRIVATE_KEY }}
+          PUSH_SUBSCRIPTIONS: ${{ secrets.PUSH_SUBSCRIPTIONS }}
+          NOTIF_FORCE: ${{ inputs.notifier && '1' || '' }}
+        run: |
+          pip install pywebpush
+          python send_push.py
+          git add -A -- . ':(exclude)_site'
+          git diff --cached --quiet || git commit -m "Notification envoyée"
+          git push
