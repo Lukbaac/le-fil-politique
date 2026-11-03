@@ -308,7 +308,11 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [
+"RMC",
+"Sud Ouest",
+"La Provence"
+]
 },
 {
 "id": "b05b5b8a80e4fdbc",
@@ -441,7 +445,8 @@
 "franceinfo",
 "BFMTV",
 "Nice-Matin",
-"Les Echos"
+"Les Echos",
+"Libération"
 ]
 },
 {
@@ -590,6 +595,23 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
+"also": []
+},
+{
+"id": "3cf2f8ea2ce122c8",
+"title": "Entretien avec Sophie Adenot.",
+"link": "https://www.elysee.fr/emmanuel-macron/2026/11/03/entretien-avec-sophie-adenot",
+"summary": "Le Président de la République a reçu l'astronaute française Sophie Adenot, ce lundi 2 novembre 2026 au Palais de l'Élysée.",
+"source": "Élysée",
+"date": "2026-11-03T14:05:00+00:00",
+"topics": [
+"elysee"
+],
+"natures": [
+"Interview"
+],
+"added": "2026-11-03T16:47:02+00:00",
+"official": true,
 "also": []
 },
 {
@@ -1138,7 +1160,11 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [
+"LCP",
+"L'Opinion",
+"Le Figaro"
+]
 },
 {
 "id": "2aa210225b6eab2f",
@@ -1446,7 +1472,9 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [
+"Nice-Matin"
+]
 },
 {
 "id": "19dbd9f5446b7067",
@@ -1461,7 +1489,9 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [
+"Ouest-France"
+]
 },
 {
 "id": "ca76b55e9d075c98",
@@ -2305,6 +2335,21 @@
 "also": []
 },
 {
+"id": "199e76440648007f",
+"title": "Municipales 2026 à Gardanne : quand le candidat du RN abuse de l’intelligence artificielle",
+"link": "https://www.laprovence.com/article/elections/75350104329768/municipales-2026-a-gardanne-quand-le-candidat-du-rn-abuse-de-l-intelligence-artificielle",
+"summary": "Bruno Priouret, candidat Rassemblement national (RN) pour les élections municipales de Gardanne de mars 2026. En 2020, la grande mode en communication politique était dans les \"face cam\", ces simili-interviews de candidats face caméra élaborés pour donner l’impression du naturel.",
+"source": "La Provence",
+"date": "2026-11-03T00:20:27+00:00",
+"topics": [
+"partis"
+],
+"natures": [],
+"added": "2026-11-03T16:47:02+00:00",
+"official": false,
+"also": []
+},
+{
 "id": "0524041695a023f3",
 "title": "Budget 2027 : les députés ont voté des amendements au devenir incertain, remaniant la TVA sur l’électricité ou encore la télévision payante",
 "link": "https://www.lemonde.fr/politique/article/2026/11/03/budget-2027-les-deputes-remanient-la-tva-sur-l-electricite-la-television-payante-ou-encore-les-produits-de-premiere-necessite_6805244_823449.html",
@@ -2369,7 +2414,9 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [
+"France 24"
+]
 },
 {
 "id": "bba9033e292fb70b",
@@ -2686,7 +2733,9 @@
 ],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [
+"Le Télégramme"
+]
 },
 {
 "id": "7b85a730600b5303",
@@ -3469,7 +3518,9 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [
+"Sud Ouest"
+]
 },
 {
 "id": "4c523f143d83be0e",
@@ -3499,7 +3550,9 @@
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
-"also": []
+"also": [
+"La Montagne"
+]
 },
 {
 "id": "f7843f8cdd73ceae",
@@ -4082,6 +4135,24 @@
 "also": []
 },
 {
+"id": "f4df60ec5b0817f7",
+"title": "«Le gouvernement est en fin de vie», considère Jérôme Guedj",
+"link": "https://www.europe1.fr/emissions/la-grande-interview-europe-1-cnews/le-gouvernement-est-en-fin-de-vie-considere-jerome-guedj-1202136",
+"summary": "Jérôme Guedj, député socialiste de l’Essonne et auteur de \"La République, c'est nous !",
+"source": "Europe 1",
+"date": "2026-11-02T08:10:01+00:00",
+"topics": [
+"gouvernement",
+"partis"
+],
+"natures": [
+"Citation"
+],
+"added": "2026-11-03T16:47:02+00:00",
+"official": false,
+"also": []
+},
+{
 "id": "59ab4a35604d26d5",
 "title": "Magasins ouverts le dimanche : sur RTL, le ministre du Commerce indique vouloir autoriser trois dimanches d'ouverture supplémentaires avant Noël",
 "link": "https://www.rtl.fr/actu/economie-consommation/magasins-ouverts-le-dimanche-sur-rtl-le-ministre-du-commerce-indique-vouloir-autoriser-trois-dimanches-d-ouverture-supplementaires-avant-noel-7900691335",
@@ -4521,6 +4592,23 @@
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
+"official": false,
+"also": []
+},
+{
+"id": "336279bf43d4b2d5",
+"title": "« Je suis sans doute différent des autres » : François Hollande veut « Unir » en vue de l’élection présidentielle 2027",
+"link": "https://www.ouest-france.fr/politique/francois-hollande/je-suis-sans-doute-different-des-autres-francois-hollande-cherche-a-unir-en-vue-de-2027-11847358-d2bf-11f1-af78-2d36ec019942",
+"summary": "",
+"source": "Ouest-France",
+"date": "2026-11-02T06:31:07+00:00",
+"topics": [
+"partis"
+],
+"natures": [
+"Citation"
+],
+"added": "2026-11-03T16:47:02+00:00",
 "official": false,
 "also": []
 },
