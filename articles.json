@@ -1,5 +1,21 @@
 [
 {
+"id": "dc6f25387fece478",
+"title": "LFI veut-elle vraiment supprimer les crédits de l’enseignement privé ?",
+"link": "https://www.la-croix.com/politique/lfi-veut-elle-vraiment-supprimer-les-credits-de-l-enseignement-prive-20261103",
+"summary": "Un amendement au projet de loi de finances, déposé par La France insoumise et adopté en première lecture par la commission des finances de l’Assemblée nationale, siphonne les crédits destinés à l’enseignement privé.",
+"source": "La Croix",
+"date": "2026-11-03T17:42:01+00:00",
+"topics": [
+"parlement",
+"partis"
+],
+"natures": [],
+"added": "2026-11-03T17:46:45+00:00",
+"official": false,
+"also": []
+},
+{
 "id": "2c99cc4eb8e2b3fa",
 "title": "Pétition pour interdire CNews : l’Assemblée nationale votera en commission sur l’opportunité d’un débat",
 "link": "https://www.lemonde.fr/economie/article/2026/11/03/petition-pour-interdire-cnews-l-assemblee-nationale-votera-en-commission-sur-l-opportunite-d-un-debat_6805641_3234.html",
@@ -29,7 +45,9 @@
 ],
 "added": "2026-11-03T17:39:12+00:00",
 "official": false,
-"also": []
+"also": [
+"La Croix"
+]
 },
 {
 "id": "c1b2cf146d3e2b04",
@@ -2028,7 +2046,8 @@
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
 "also": [
-"franceinfo"
+"franceinfo",
+"BFMTV"
 ]
 },
 {
@@ -2401,6 +2420,21 @@
 "also": []
 },
 {
+"id": "598e1e177a6e6233",
+"title": "Législatives en Israël: le bloc d'opposition se réunit pour tenter de former une majorité face à Benjamin Netanyahu",
+"link": "https://www.bfmtv.com/international/moyen-orient/israel/legislatives-en-israel-le-bloc-d-opposition-se-reunit-pour-tenter-de-former-une-majorite-face-a-benjamin-netanyahu_AD-202611030126.html",
+"summary": "Benjamin Netanyahu à Jérusalem-Est le 5 juillet 2026 - Photo par ILIA YEFIMOVICH / AFP\nLe bloc d'opposition israélien se réunit, ce mardi 3 novembre, pour tenter de former une majorité à l'issue des législatives sous la direction du centriste Gadi Eisenkot, le Premier ministre sortant, Benjamin Netanyahu, appelant…",
+"source": "BFMTV",
+"date": "2026-11-03T05:39:15+00:00",
+"topics": [
+"partis"
+],
+"natures": [],
+"added": "2026-11-03T17:46:45+00:00",
+"official": false,
+"also": []
+},
+{
 "id": "366cefd714b47ed2",
 "title": "Crise lycéenne : le gouvernement cherche une porte de sortie sans céder davantage",
 "link": "https://www.europe1.fr/societe/crise-lyceenne-le-gouvernement-cherche-une-porte-de-sortie-sans-ceder-davantage-1203720?amp",
@@ -2754,6 +2788,24 @@
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
+"official": false,
+"also": []
+},
+{
+"id": "978f9ce46078e21d",
+"title": "Colère des lycéens: Éric Coquerel, député LFI de Seine-Saint-Denis, estime que la mobilisation de demain \"sera absolument massive\"",
+"link": "https://www.bfmtv.com/politique/la-france-insoumise/video-colere-des-lyceens-eric-coquerel-depute-lfi-de-seine-saint-denis-estime-que-la-mobilisation-de-demain-sera-absolument-massive_VN-202611020926.html",
+"summary": "VIDÉO - La rentrée des vacances de la Toussaint s'est ouverte avec le retour de quelques blocages: certains lycéens et étudiants poursuivent le mouvement engagé depuis six semaines, malgré les concessions annoncées la semaine dernière par le gouvernement.",
+"source": "BFMTV",
+"date": "2026-11-02T20:21:53+00:00",
+"topics": [
+"parlement",
+"partis"
+],
+"natures": [
+"Citation"
+],
+"added": "2026-11-03T17:46:45+00:00",
 "official": false,
 "also": []
 },
@@ -4370,6 +4422,23 @@
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
+"official": false,
+"also": []
+},
+{
+"id": "0fd58f2a6ae51c52",
+"title": "«On peut avoir du gazole à 1,75 euro», estime le ministre Serge Papin",
+"link": "https://www.lefigaro.fr/conso/on-peut-avoir-du-gazole-a-1-75-euro-estime-le-ministre-serge-papin-20261102",
+"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
+"source": "Le Figaro",
+"date": "2026-11-02T08:07:38+00:00",
+"topics": [
+"gouvernement"
+],
+"natures": [
+"Citation"
+],
+"added": "2026-11-03T17:46:45+00:00",
 "official": false,
 "also": []
 },
