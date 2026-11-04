@@ -15,25 +15,25 @@
 "name": "LCP",
 "ok": true,
 "items": 100,
-"new": 2
+"new": 0
 },
 {
 "name": "Public Sénat",
 "ok": true,
 "items": 60,
-"new": 10
+"new": 1
 },
 {
 "name": "Le Monde",
 "ok": true,
 "items": 20,
-"new": 4
+"new": 0
 },
 {
 "name": "franceinfo",
 "ok": true,
 "items": 20,
-"new": 0
+"new": 1
 },
 {
 "name": "Le Figaro",
@@ -45,7 +45,7 @@
 "name": "Libération",
 "ok": true,
 "items": 50,
-"new": 3
+"new": 0
 },
 {
 "name": "La Croix",
@@ -63,7 +63,7 @@
 "name": "BFMTV",
 "ok": true,
 "items": 30,
-"new": 12
+"new": 5
 },
 {
 "name": "20 Minutes",
@@ -86,7 +86,7 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 40,
+"items": 44,
 "new": 1
 },
 {
@@ -98,7 +98,7 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 30,
+"items": 32,
 "new": 1
 },
 {
@@ -117,12 +117,36 @@
 "name": "Google Actualités",
 "ok": true,
 "items": 100,
+"new": 1
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 45,
 "new": 2
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 44,
+"items": 100,
+"new": 1
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 10,
+"new": 0
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 26,
+"new": 0
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 28,
 "new": 0
 },
 {
@@ -134,43 +158,19 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 14,
-"new": 1
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 22,
+"items": 20,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 29,
-"new": 0
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 100,
-"new": 2
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 22,
+"items": 25,
 "new": 1
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 22,
+"items": 50,
 "new": 0
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 48,
-"new": 1
 }
 ]
