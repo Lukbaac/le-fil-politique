@@ -1,5 +1,564 @@
 [
 {
+"id": "2b05b77c79c91a15",
+"title": "Retraites : Le RN de Bardella veut durcir les modalités pour valider un trimestre",
+"link": "https://www.20minutes.fr/societe/4260236-20261104-retraites-rn-bardella-veut-durcir-modalites-valider-trimestre",
+"summary": "Dans deux semaines, Marine Le Pen doit présenter sa réforme des retraites, censée rétablir un âge légal à 62 voire 60 ans.",
+"source": "20 Minutes",
+"date": "2026-11-04T07:53:00+00:00",
+"added": "2026-11-04T07:58:25+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": "Jordan Bardella"
+},
+{
+"id": "13dbb7a84df5ed02",
+"title": "Election à la présidence des maires de France : le sortant David Lisnard sous pression",
+"link": "https://www.lemonde.fr/politique/article/2026/11/04/election-a-la-presidence-des-maires-de-france-le-sortant-david-lisnard-sous-pression_6806122_823448.html",
+"summary": "Le maire de Cannes, qui se représente à la tête de l’association fin novembre, tout en ayant aussi déclaré sa candidature à l’élection présidentielle, fait l’objet de nombreuses critiques face à ce qui est considéré par certains comme un « mélange des genres ».",
+"source": "Le Monde",
+"date": "2026-11-04T07:52:57+00:00",
+"added": "2026-11-04T07:58:25+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "6f630fd76f0fc93d",
+"title": "Hausse du Smic: \"Je pense qu'on pourra annoncer quelque chose dans les jours qui viennent\", déclare Roland Lescure, ministre de l'Économie",
+"link": "https://www.bfmtv.com/politique/gouvernement/video-hausse-du-smic-je-pense-qu-on-pourra-annoncer-quelque-chose-dans-les-jours-qui-viennent-declare-roland-lescure-ministre-de-l-economie_VN-202611040313.html",
+"summary": "Roland Lescure, ministre de l'Économie, des Finances et de la Souveraineté industrielle, énergétique et numérique, était l’invité du Face-à-Face sur BFM et RMC ce mercredi 4 novembre.",
+"source": "BFMTV",
+"date": "2026-11-04T07:49:20+00:00",
+"added": "2026-11-04T07:58:25+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"gouvernement"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Hausse du Smic"
+},
+{
+"id": "241c1b9147e09550",
+"title": "Roland Lescure, ministre de l'Économie, se dit \"prêt à assumer [les] erreurs sur la dette publique\"",
+"link": "https://www.bfmtv.com/politique/gouvernement/video-roland-lescure-ministre-de-l-economie-se-dit-pret-a-assumer-les-erreurs-sur-la-dette-publique_VN-202611040311.html",
+"summary": "Roland Lescure, ministre de l'Économie, des Finances et de la Souveraineté industrielle, énergétique et numérique, était l’invité du Face-à-Face sur BFM et RMC ce mercredi 4 novembre.",
+"source": "BFMTV",
+"date": "2026-11-04T07:48:28+00:00",
+"added": "2026-11-04T07:58:25+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"gouvernement"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Roland Lescure"
+},
+{
+"id": "9f6cf83e0d6da3ee",
+"title": "Emmanuel Macron estime que tout le monde est vraiment beaucoup trop «injuste» et «dur» avec lui",
+"link": "https://www.liberation.fr/politique/emmanuel-macron-estime-que-tout-le-monde-est-vraiment-beaucoup-trop-injuste-et-dur-avec-lui-20261104_66AAOJKAKNHOXP33C7WUBPBKWA/",
+"summary": "La journaliste Françoise Degois publie deux ans d’échanges de textos avec le président de la République, dans un livre publié jeudi «Vous êtes tous trop durs avec moi» (Robert Laffont).",
+"source": "Libération",
+"date": "2026-11-04T07:48:05+00:00",
+"added": "2026-11-04T07:58:25+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Emmanuel Macron"
+},
+{
+"id": "8006508e6e716029",
+"title": "Prix du carburant: 3.000 stations pratiquent une baisse de 20 centimes, selon le ministre de l'Économie",
+"link": "https://www.bfmtv.com/politique/direct-la-colere-des-lyceens-et-etudiants-ne-redescend-pas-a-la-veille-de-la-journee-de-mobilisation-massive-du-5-novembre_LN-202611040176.html",
+"summary": "Les lycéens et les étudiants se préparent à une nouvelle journée de mobilisation ce mercredi 4 novembre, à la veille d'une grève générale portée par les syndicats qui espèrent obtenir des réponses à leurs revendications sur les salaires, nouvelle étape d'un automne social tumultueux.",
+"source": "BFMTV",
+"date": "2026-11-04T07:48:00+00:00",
+"added": "2026-11-04T07:58:25+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "e3d255052d566df5",
+"title": "Jeunes diplômés: Elisabeth Borne propose une \"allocation temporaire\" de 500 euros par mois, sous conditions",
+"link": "https://lcp.fr/actualites/jeunes-diplomes-elisabeth-borne-propose-une-allocation-temporaire-de-500-euros-par-mois",
+"summary": "Pour répondre au \"grand désarroi\" de la jeunesse, l'ancienne Première ministre Elisabeth Borne propose ce mercredi, dans Le Parisien , \"allocation temporaire de l'ordre de 500 euros par mois, jusqu'à un an, pour tout jeune diplômé en difficulté, sous conditions de ressources et de recherche active d'emploi\".",
+"source": "LCP",
+"date": "2026-11-04T07:46:44+00:00",
+"added": "2026-11-04T07:58:25+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement"
+],
+"natures": [
+"Citation",
+"Annonce"
+],
+"speaker": "Elisabeth Borne"
+},
+{
+"id": "63a20125b6cb803f",
+"title": "Libération des stocks stratégiques de gazole: \"On a 3.000 stations dont la baisse dépasse les 20 centimes\", détaille Roland Lescure, ministre de l'Économie",
+"link": "https://www.bfmtv.com/politique/gouvernement/video-liberation-des-stocks-strategiques-de-gazole-on-a-3-000-stations-dont-la-baisse-depasse-les-20-centimes-detaille-roland-lescure-ministre-de-l-economie_VN-202611040324.html",
+"summary": "Roland Lescure, ministre de l'Économie, des Finances et de la Souveraineté industrielle, énergétique et numérique, était l’invité du Face-à-Face sur BFM et RMC ce mercredi 4novembre.",
+"source": "BFMTV",
+"date": "2026-11-04T07:46:15+00:00",
+"added": "2026-11-04T07:58:25+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"gouvernement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "0137606666da8deb",
+"title": "Livret A: \"En libérant le plafond, on va libérer des Français qui veulent épargner davantage\", assure Roland Lescure, ministre de l'Économie",
+"link": "https://www.bfmtv.com/politique/gouvernement/video-livret-a-en-liberant-le-plafond-on-va-liberer-des-francais-qui-veulent-epargner-davantage-assure-roland-lescure-ministre-de-l-economie_VN-202611040307.html",
+"summary": "Roland Lescure, ministre de l'Économie, des Finances et de la Souveraineté industrielle, énergétique et numérique, était l’invité du Face-à-Face sur BFM et RMC ce mercredi 4 novembre.",
+"source": "BFMTV",
+"date": "2026-11-04T07:44:36+00:00",
+"added": "2026-11-04T07:58:25+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"gouvernement"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Roland Lescure"
+},
+{
+"id": "9cea61ee4a71ce9d",
+"title": "90% des Français inquiets de la dette: \"Mon job c'est de les rassurer en faisant adopter un budget ambitieux \", affirme Roland Lescure, ministre de l’Économie",
+"link": "https://www.bfmtv.com/politique/video-90-des-francais-inquiets-de-la-dette-mon-job-c-est-de-les-rassurer-en-faisant-adopter-un-budget-ambitieux-affirme-roland-lescure-ministre-de-l-economie_VN-202611040303.html",
+"summary": "VIDÉO - Roland Lescure, ministre de l’Économie, était l’invité du Face-à-Face sur BFM et RMC ce mercredi 4 novembre.",
+"source": "BFMTV",
+"date": "2026-11-04T07:42:48+00:00",
+"added": "2026-11-04T07:58:25+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"gouvernement"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Roland Lescure"
+},
+{
+"id": "3c368d425bf472ab",
+"title": "Midterms 2026: \"C'est une victoire sans appel des démocrates\", souligne Roland Lescure, ministre de l'Économie",
+"link": "https://www.bfmtv.com/politique/gouvernement/video-midterms-2026-c-est-une-victoire-sans-appel-des-democrates-souligne-roland-lescure-ministre-de-l-economie_VN-202611040301.html",
+"summary": "Roland Lescure, ministre de l'Économie, des Finances et de la Souveraineté industrielle, énergétique et numérique, était l’invité du Face-à-Face sur BFM et RMC ce mercredi 4novembre.",
+"source": "BFMTV",
+"date": "2026-11-04T07:39:52+00:00",
+"added": "2026-11-04T07:58:25+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"gouvernement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "dde173a3fd6650ea",
+"title": "Dans la presse - Midterms: \"D-Day\" pour Trump et les républicains, comme \"déroute\", \"désaveu\", \"désapprobation\"",
+"link": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20261104-midterms-d-day-pour-trump-et-les-r%C3%A9publicains-comme-d%C3%A9route-d%C3%A9saveu-d%C3%A9sapprobation",
+"summary": "",
+"source": "France 24",
+"date": "2026-11-04T07:30:03+00:00",
+"added": "2026-11-04T07:58:25+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "943c321e89212404",
+"title": "Primaire à droite et au centre : Bruno Retailleau remet la pression sur Edouard Philippe, «il sera contraint à un moment ou un autre de l’accepter»",
+"link": "https://www.liberation.fr/politique/elections/primaire-a-droite-et-au-centre-bruno-retailleau-remet-la-pression-sur-edouard-philippe-il-sera-contraint-a-un-moment-ou-un-autre-de-laccepter-20261104_C3XFQIVOOVBATCVCSJ4SVJVFIY/",
+"summary": "Invité sur BFMTV mardi 3 novembre, le candidat LR à la présidentielle a affirmé qu’il «faudra une primaire sans doute en début d’année», se ralliant à l’appel lancé par David Lisnard au printemps et repris par Gabriel Attal dimanche.",
+"source": "Libération",
+"date": "2026-11-04T07:17:28+00:00",
+"added": "2026-11-04T07:58:25+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "100710e0940a4241",
+"title": "Jean-Luc Mélenchon",
+"link": "https://www.bfmtv.com/politique/jean-luc-melenchon_DN-201701010040.html",
+"summary": "Jean-Luc Mélenchon est candidat à l'élection présidentielle pour La France insoumise en 2027. Il s'agira, comme Marine Le Pen, de sa quatrième tentative depuis 2012.",
+"source": "BFMTV",
+"date": "2026-11-04T07:16:14+00:00",
+"added": "2026-11-04T07:58:25+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "28a3791a95c04f08",
+"title": "Raphaël Glucksmann",
+"link": "https://www.bfmtv.com/politique/raphael-glucksmann_DN-202405270322.html",
+"summary": "Raphaël Glucksmann est le cofondateur de Place publique, un mouvement politique proche du Parti socialiste. Il a ainsi mené la tête de liste aux européennes de son parti et du PS en 2019 et 2024.",
+"source": "BFMTV",
+"date": "2026-11-04T07:16:14+00:00",
+"added": "2026-11-04T07:58:25+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "6b4a5f3f9872f15e",
+"title": "Fabien Roussel",
+"link": "https://www.bfmtv.com/politique/fabien-roussel_DN-202105090296.html",
+"summary": "Élu secrétaire national du PCF en 2018, Fabien Roussel a été choisi pour représenter les communistes à l'élection présidentielle 2022 et en 2027.",
+"source": "BFMTV",
+"date": "2026-11-04T07:16:14+00:00",
+"added": "2026-11-04T07:58:25+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "2b0d1175b3fb5d9a",
+"title": "Midterms : ce que change une majorité démocrate au Congrès pour Trump et les républicains",
+"link": "https://www.france24.com/fr/am%C3%A9riques/20261104-midterms-ce-que-change-une-majorit%C3%A9-d%C3%A9mocrate-au-congr%C3%A8s-pour-trump-et-les-r%C3%A9publicains",
+"summary": "",
+"source": "France 24",
+"date": "2026-11-04T07:13:20+00:00",
+"added": "2026-11-04T07:58:25+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "47c7532826dd7d75",
+"title": "Entre ambition et fidélité, les raisons du retour en librairie Jordan Bardella",
+"link": "https://www.lopinion.fr/politique/entre-ambition-et-fidelite-les-raisons-du-retour-en-librairie-jordan-bardella",
+"summary": "Après « Ce que je cherche » (2024) et « Ce que veulent les Français » (2025), Jordan Bardella sort son troisième livre « Gouverner » mercredi aux éditions Fayard.",
+"source": "L'Opinion",
+"date": "2026-11-04T07:10:00+00:00",
+"added": "2026-11-04T07:58:25+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "6b563bcf1f575a29",
+"title": "Etats-Unis : les démocrates remportent largement les élections de mi-mandat, Trump reconnaît sa défaite",
+"link": "https://www.publicsenat.fr/actualites/international/etats-unis-les-democrates-remportent-largement-les-elections-de-mi-mandat-trump-reconnait-sa-defaite",
+"summary": "Les démocrates ont signé une victoire sans appel mardi avec une majorité acquise aux deux chambres du Congrès américain lors d'élections de mi-mandat qui ont tourné au désastre pour Donald Trump et les républicains.",
+"source": "Public Sénat",
+"date": "2026-11-04T07:04:49+00:00",
+"added": "2026-11-04T07:58:25+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "c3dc9d1bf0aa963f",
+"title": "Revers cinglant pour Trump, Retailleau veut la primaire et un PSG impérial",
+"link": "https://www.20minutes.fr/societe/4260220-20261104-toute-info-2-minutes-revers-cinglant-trump-retailleau-veut-primaire-psg-imperial",
+"summary": "Vous avez manqué les infos de ce début de matinée ? On vous a concocté un récap pour vous aider à y voir plus clair et briller à la machine à café.",
+"source": "20 Minutes",
+"date": "2026-11-04T07:03:00+00:00",
+"added": "2026-11-04T07:58:25+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": "Bruno Retailleau"
+},
+{
+"id": "32568c9434d8c355",
+"title": "Présidentielle 2027. Jordan Bardella, en campagne pour Matignon, sort un nouveau livre ce mercredi",
+"link": "https://www.ledauphine.com/politique/2026/11/04/jordan-bardella-en-campagne-pour-matignon-sort-un-nouveau-livre-ce-mercredi",
+"summary": "Le président du Rassemblement national sort ce mercredi son troisième livre. Son titre : Gouverner. Il y détaille ce que fera son parti si Marine Le Pen devient présidente de la République, en mai prochain.",
+"source": "Le Dauphiné Libéré",
+"date": "2026-11-04T07:01:29+00:00",
+"added": "2026-11-04T07:58:25+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"elysee",
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": "Jordan Bardella"
+},
+{
+"id": "b8dc9a1d439c20a7",
+"title": "Jordan Bardella jure « fidélité » à Marine Le Pen dans un troisième livre en forme de programme",
+"link": "https://www.la-croix.com/politique/jordan-bardella-jure-fidelite-a-marine-le-pen-dans-un-troisieme-livre-en-forme-de-programme-20261103",
+"summary": "Le président du Rassemblement national (RN) publie mercredi 4 novembre 2026 son troisième ouvrage Gouverner. Un livre qui reprend l’essentiel du programme de Marine Le Pen, afin d’asseoir le ticket vendu par le RN pour l’élection présidentielle 2027 : Bardella à Matignon et Le Pen à l’Élysée.",
+"source": "La Croix",
+"date": "2026-11-04T07:01:18+00:00",
+"added": "2026-11-04T07:58:25+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "348cb8bea9563ce7",
+"title": "Dans « Gouverner », Jordan Bardella creuse le sillon libéral-sécuritaire du RN, sans propositions nouvelles",
+"link": "https://www.lemonde.fr/politique/article/2026/11/04/dans-gouverner-jordan-bardella-creuse-le-sillon-liberal-securitaire-du-rn-sans-propositions-nouvelles_6806117_823448.html",
+"summary": "Dans son troisième livre en trois ans, le président du Rassemblement national, aspirant premier ministre de Marine Le Pen, multiplie les promesses de dérégulation et de baisses d’impôts aux milieux patronaux avant de se lancer dans une critique nourrie de l’Etat social.",
+"source": "Le Monde",
+"date": "2026-11-04T07:00:09+00:00",
+"added": "2026-11-04T07:58:25+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "62b06e29ddec20d1",
+"title": "«Gouverner» : entre non-dits et banalités, Jordan Bardella et son livre impossible",
+"link": "https://www.liberation.fr/politique/elections/gouverner-entre-non-dits-et-banalites-jordan-bardella-et-son-livre-impossible-20261104_IAREP66LRFGNJHFAQLWLVNRIXM/",
+"summary": "Dans son troisième livre pensé à la base pour le cas de figure où il aurait été candidat à la présidentielle, Jordan Bardella peine à masquer derrière des lieux communs son absence d’autonomie politique et son rôle de simple porte-parole de la campagne de Marine Le Pen.",
+"source": "Libération",
+"date": "2026-11-04T07:00:00+00:00",
+"added": "2026-11-04T07:58:25+00:00",
+"official": false,
+"also": [
+"Le Figaro",
+"Le Parisien"
+],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "cef5192d0073d6b3",
+"title": "Présidentielle, accusations d'antisémitisme, critique de la classe politique, Marine Le Pen... Ce que contient le nouveau livre de Jordan Bardella",
+"link": "https://www.bfmtv.com/politique/front-national/presidentielle-accusations-d-antisemitisme-critique-de-la-classe-politique-marine-le-pen-ce-que-contient-le-nouveau-livre-de-jordan-bardella_AN-202611040060.html",
+"summary": "Le président du RN sort ce mercredi son troisième ouvrage. Le futur Premier ministre de Marine Le Pen en cas de victoire en 2027 dresse un sévère portrait de la classe politique et revient longuement sur sa fidélité à la triple candidate à la présidentielle.",
+"source": "BFMTV",
+"date": "2026-11-04T07:00:00+00:00",
+"added": "2026-11-04T07:58:25+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Réaction"
+],
+"speaker": ""
+},
+{
+"id": "3afb02a981ac9c7a",
+"title": "« Gouverner » de Jordan Bardella : le pouvoir sans mode d’emploi",
+"link": "https://www.lopinion.fr/politique/gouverner-de-jordan-bardella-le-pouvoir-sans-mode-demploi",
+"summary": "Après « Ce que je cherche » et « Ce que veulent les Français », Jordan Bardella publie un troisième livre aux éditions Fayard.",
+"source": "L'Opinion",
+"date": "2026-11-04T07:00:00+00:00",
+"added": "2026-11-04T07:58:25+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Jordan Bardella"
+},
+{
+"id": "52a0e9a51b7d53b5",
+"title": "« Gouverner » de Jordan Bardella : 300 pages cousues de mensonges et de faux-semblants",
+"link": "https://www.humanite.fr/politique/extreme-droite/gouverner-de-jordan-bardella-300-pages-cousues-de-mensonges-et-de-faux-semblants",
+"summary": "Pour son troisième livre, largement consacré au programme du RN pour 2027, le président du parti d'extrême droite affirme vouloir gouverner main dans la main avec le Medef, reculer sur l'écologie et faire de la France une forteresse.",
+"source": "L'Humanité",
+"date": "2026-11-04T07:00:00+00:00",
+"added": "2026-11-04T07:58:25+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Jordan Bardella"
+},
+{
+"id": "66a74eb1f6aac933",
+"title": "EDITO. Donald Trump, le soutien dont personne ne veut dans la campagne présidentielle en France",
+"link": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-donald-trump-le-soutien-dont-personne-ne-veut-dans-la-campagne-presidentielle-en-france_8246494.html#xtor=RSS-3-%5Bgeneral%5D",
+"summary": "Le président américain a subi mercredi une défaite cuisante aux élections de mi-mandat aux États-Unis. Il a non seulement perdu le Congrès au profit des démocrates mais aussi la Chambres des représentants.",
+"source": "franceinfo",
+"date": "2026-11-04T06:59:41+00:00",
+"added": "2026-11-04T07:58:25+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "7a2d4c524913044d",
 "title": "Exclu RMC. Jean-Luc Mélenchon dévoile son programme de Santé pour éradiquer les \"maladies écologiques\"",
 "link": "https://rmc.bfmtv.com/actualites/politique/exclu-rmc-jean-luc-melenchon-devoile-son-programme-de-sante-pour-eradiquer-les-maladies-ecologiques_AV-202611040189.html",
@@ -37,7 +596,9 @@
 "RTL",
 "Le Figaro",
 "Le Dauphiné Libéré",
-"RFI"
+"RFI",
+"Sud Ouest",
+"CNews"
 ],
 "base": [],
 "filtered": true,
@@ -995,6 +1556,30 @@
 "speaker": "Bruno Retailleau"
 },
 {
+"id": "72f7ae6a60e271ac",
+"title": "\"Il faut normaliser les relations avec l'Algérie\", explique Bruno Retailleau, candidat LR à la présidentielle",
+"link": "https://www.bfmtv.com/international/afrique/algerie/video-il-faut-normaliser-les-relations-avec-l-algerie-explique-bruno-retailleau-candidat-lr-a-la-presidentielle_VN-202611030979.html",
+"summary": "VIDÉO - Ce mardi 3 novembre, BFMTV a organisé sa première soirée événement 2027 présentée par Apolline de Malherbe et Maxime Switek : « Vous Président ».",
+"source": "BFMTV",
+"date": "2026-11-03T22:08:34+00:00",
+"added": "2026-11-04T07:58:25+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Bruno Retailleau"
+},
+{
 "id": "6de167635bcdc7c1",
 "title": "Bruno Retailleau, candidat LR à la présidentielle, fait le bilan de la macronie",
 "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-bruno-retailleau-candidat-lr-a-la-presidentielle-fait-le-bilan-de-la-macronie_VN-202611030978.html",
@@ -1527,6 +2112,27 @@
 "speaker": "David Lisnard"
 },
 {
+"id": "8783e205cbc91db1",
+"title": "Le budget 2027 de l’agriculture vise à « s’assurer que l’été prochain ne ressemble en rien » à l’été 2026, insiste Annie Genevard",
+"link": "https://www.publicsenat.fr/actualites/economie/le-budget-2027-de-lagriculture-vise-a-sassurer-que-lete-prochain-ne-ressemble-en-rien-a-lete-2026-insiste-annie-genevard",
+"summary": "La ministre de l’Agriculture et de l’Alimentation a précisé que le plan de relance, très attendu par les exploitations fragilisées par la sécheresse, se traduira par des amendements du gouvernement lors des débats au Sénat.",
+"source": "Public Sénat",
+"date": "2026-11-03T20:40:25+00:00",
+"added": "2026-11-04T07:58:25+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement",
+"parlement"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Annie Genevard"
+},
+{
 "id": "ba1961d197fab0ef",
 "title": "Accident de train en Espagne : le ministre des Transports annonce sa démission après la catastrophe mortelle",
 "link": "https://www.ouest-france.fr/faits-divers/accidents/accident-de-train-en-espagne-le-ministre-des-transports-annonce-sa-demission-apres-la-catastrophe-mortelle-ceef2be6-d7c3-11f1-b736-5b9907ef0b5a",
@@ -1783,6 +2389,27 @@
 "Citation"
 ],
 "speaker": "David Lisnard"
+},
+{
+"id": "13c9d9a3b95ade44",
+"title": "Quand le maire LFI Bally Bagayoko se réclame de Robespierre",
+"link": "https://www.valeursactuelles.com/politique/robespierre-oui-ca-me-va-bien-le-maire-lfi-de-saint-denis-bally-bagayoko-assume-la-reference-a-la-figure-emblematique-de-la-terreur",
+"summary": "Dis-moi qui tu admires, je te dirai qui tu es ? Invité sur le plateau de LCI dimanche 1er novembre, le maire LFI de Saint-Denis Bally Bagayoko a revendiqué un tempérament et des aspirations de révolutionnaire.",
+"source": "Valeurs actuelles",
+"date": "2026-11-03T20:03:00+00:00",
+"added": "2026-11-04T07:58:25+00:00",
+"official": false,
+"also": [],
+"base": [
+"matinales"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"partis"
+],
+"natures": [],
+"speaker": "Bally Bagayoko"
 },
 {
 "id": "d862e54780bcee83",
@@ -2129,7 +2756,8 @@
 "added": "2026-11-03T19:08:58+00:00",
 "official": false,
 "also": [
-"Le Parisien"
+"Le Parisien",
+"BFMTV"
 ],
 "base": [
 "partis"
@@ -3042,6 +3670,28 @@
 "speaker": ""
 },
 {
+"id": "d9e8d6e96b4fa5d5",
+"title": "\"On leur pique 200.000 balles\" : la sénatrice RN Edwige Diaz rattrapée par une séquence qui aurait dû être \"coupée au montage\"",
+"link": "https://www.rtl.fr/actu/politique/on-leur-pique-200-000-balles-la-senatrice-rn-edwige-diaz-rattrapee-par-une-sequence-qui-aurait-du-etre-coupee-au-montage-7900692177",
+"summary": "Edwige Diaz, sénatrice de la Gironde, au Sénat le jour de l'élection du président du Sénat, au palais du Luxembourg à Paris, le 1er octobre 2026.",
+"source": "RTL",
+"date": "2026-11-03T15:50:50+00:00",
+"added": "2026-11-04T07:58:25+00:00",
+"official": false,
+"also": [],
+"base": [
+"matinales"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"parlement",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "a0aa7920505089ea",
 "title": "Présidentielle : Darmanin, Lisnard, Attal, Philippe, Bayrou, Retailleau… Qui dit quoi sur la primaire ?",
 "link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-darmanin-lisnard-attal-philippe-bayrou-retailleau-qui-dit-quoi-sur-la-primaire-20261103",
@@ -3212,7 +3862,8 @@
 "also": [
 "RMC",
 "Sud Ouest",
-"La Provence"
+"La Provence",
+"TF1 Info"
 ],
 "base": [],
 "filtered": true,
@@ -5930,6 +6581,28 @@
 "speaker": ""
 },
 {
+"id": "b7d856e8e4f0fd55",
+"title": "Invité sur LCI, Gérard Collomb présente Macron comme \"l'antithèse de Fillon\"... vraiment ?",
+"link": "https://www.tf1info.fr/politique/elections/municipales/invite-sur-lci-gerard-collomb-presente-macron-comme-l-antithese-de-fillon-vraiment-2013932.html",
+"summary": "\"Emmanuel Macron, c'est l'antithèse de François Fillon\".",
+"source": "TF1 Info",
+"date": "2026-11-02T23:25:48+00:00",
+"added": "2026-11-04T07:58:25+00:00",
+"official": false,
+"also": [],
+"base": [
+"elysee"
+],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [
+"Interview"
+],
+"speaker": ""
+},
+{
 "id": "bebfa95b11f2aa35",
 "title": "Budget 2027: le marathon de la partie \"recettes\" n'étant pas terminé, le vote solennel prévu ce mardi n'aura pas lieu",
 "link": "https://lcp.fr/actualites/budget-2027-le-marathon-de-la-partie-recettes-n-etant-pas-termine-le-vote-solennel-prevu",
@@ -6398,7 +7071,8 @@
 "added": "2026-11-03T16:34:12+00:00",
 "official": false,
 "also": [
-"Le Télégramme"
+"Le Télégramme",
+"La Voix du Nord"
 ],
 "base": [],
 "filtered": true,
