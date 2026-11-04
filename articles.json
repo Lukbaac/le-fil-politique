@@ -1,5 +1,531 @@
 [
 {
+"id": "3211ab67dc49dd18",
+"title": "Budget 2026 : le gouvernement tente un ultime tour de vis pour éviter un dérapage XXL",
+"link": "https://www.lemonde.fr/politique/article/2026/11/04/budget-2026-le-gouvernement-tente-un-ultime-tour-de-vis-pour-eviter-un-derapage-xxl_6806410_823448.html",
+"summary": "Le gouvernement a annoncé, mercredi 4 novembre, l’annulation de crédits pour 3,8 milliards d’euros. Mais il prévoit en parallèle 3,7 milliards d’euros de dépenses supplémentaires.",
+"source": "Le Monde",
+"date": "2026-11-04T17:43:58+00:00",
+"added": "2026-11-04T17:47:42+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "3f721b5069433762",
+"title": "Édition du 4 novembre 2026 - Un enfant à l’Élysée - Emmanuel Macron par Catherine Nay",
+"link": "https://www.lepoint.fr/magazine/2832/",
+"summary": "",
+"source": "Le Point",
+"date": "2026-11-04T17:35:22+00:00",
+"added": "2026-11-04T17:47:42+00:00",
+"official": false,
+"also": [],
+"base": [
+"elysee"
+],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "1375d58122c475c3",
+"title": "Présidentielle 2027 : plutôt qu’une primaire, Macron veut une coalition allant de Glucksmann à Lisnard pour déjouer le duel Le Pen-Mélenchon",
+"link": "https://www.lefigaro.fr/elections/presidentielles/candidats/presidentielle-2027-plutot-qu-une-primaire-macron-veut-une-coalition-allant-de-glucksmann-a-lisnard-pour-dejouer-le-duel-le-pen-melenchon-20261104",
+"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
+"source": "Le Figaro",
+"date": "2026-11-04T17:33:44+00:00",
+"added": "2026-11-04T17:47:42+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"elysee",
+"presidentielle"
+],
+"natures": [],
+"speaker": "Emmanuel Macron"
+},
+{
+"id": "3421a299acc6bd85",
+"title": "Jordan Bardella viendra dédicacer son livre à Hénin-Beaumont ce jeudi",
+"link": "https://www.lavoixdunord.fr/1752052/article/2026-11-04/jordan-bardella-viendra-dedicacer-son-livre-henin-beaumont-ce-jeudi",
+"summary": "",
+"source": "La Voix du Nord",
+"date": "2026-11-04T17:08:12+00:00",
+"added": "2026-11-04T17:47:42+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "0afb8e0c6628d149",
+"title": "La Finistérienne Gladys Grelaud sera porte-parole du candidat communiste Fabien Roussel pour la présidentielle 2027",
+"link": "https://www.ouest-france.fr/politique/parti-communiste/la-finisterienne-gladys-grelaud-sera-porte-parole-du-candidat-communiste-fabien-roussel-pour-la-presidentielle-2027-68c835e2-d868-11f1-b736-5b9907ef0b5a",
+"summary": "",
+"source": "Ouest-France",
+"date": "2026-11-04T17:04:52+00:00",
+"added": "2026-11-04T17:47:42+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "ae558020c04e90ed",
+"title": "Le ministre de l'Education nationale annonce une plainte après un tir de mortier dans l'enceinte d'un lycée de Lille",
+"link": "https://www.franceinfo.fr/faits-divers/le-ministre-de-l-education-nationale-annonce-une-plainte-apres-un-tir-de-mortier-dans-l-enceinte-d-un-lycee-de-lille_8268086.html",
+"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
+"source": "franceinfo",
+"date": "2026-11-04T17:03:22+00:00",
+"added": "2026-11-04T17:47:42+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [
+"Annonce"
+],
+"speaker": ""
+},
+{
+"id": "576175203251ef48",
+"title": "SMS d'Emmanuel Macron dévoilés dans un livre: l'Élysée assure que \"le Président ne fait que dire en privé ce qu'il a dit en public\"",
+"link": "https://www.bfmtv.com/politique/elysee/video-sms-d-emmanuel-macron-devoiles-dans-un-livre-l-elysee-assure-que-le-president-ne-fait-que-dire-en-prive-ce-qu-il-a-dit-en-public_VN-202611040743.html",
+"summary": "VIDÉO - Deux ans d'échanges et de SMS avec le président de la République sont publiés dans le livre de Françoise Degois \"Vous êtes tous trop durs avec moi\".",
+"source": "BFMTV",
+"date": "2026-11-04T17:02:20+00:00",
+"added": "2026-11-04T17:47:42+00:00",
+"official": false,
+"also": [],
+"base": [
+"elysee"
+],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [
+"Citation"
+],
+"speaker": ""
+},
+{
+"id": "7d354275343cbc8f",
+"title": "Sondage : Sébastien Lecornu à son plus bas historique, spectaculaire percée pour David Lisnard",
+"link": "https://www.lefigaro.fr/elections/presidentielles/sondages/sondage-sebastien-lecornu-a-son-plus-bas-historique-spectaculaire-percee-pour-david-lisnard-20261104",
+"summary": "Par Carl Meeus et Service Infographie, pour Le Figaro Magazine\nPour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
+"source": "Le Figaro",
+"date": "2026-11-04T17:00:00+00:00",
+"added": "2026-11-04T17:47:42+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"elysee",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "9e4fdb5b295e4213",
+"title": "Midterms : après la claque infligée à Trump, règlements de comptes et inquiétudes pour la présidentielle 2028 chez les républicains",
+"link": "https://www.lesechos.fr/monde/etats-unis/midterms-apres-la-claque-infligee-a-trump-reglements-de-comptes-et-inquietudes-pour-la-presidentielle-2028-chez-les-republicains-2261085",
+"summary": "",
+"source": "Les Echos",
+"date": "2026-11-04T16:43:54+00:00",
+"added": "2026-11-04T17:47:42+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "e24b93eecd01f8e6",
+"title": "Élection présidentielle 2027 : Bretagne, Marseille, Le Mans… François Hollande multiplie les déplacements en vue d’une potentielle candidature",
+"link": "https://www.sudouest.fr/elections/presidentielle/election-presidentielle-2027-bretagne-marseille-le-mans-francois-hollande-multiplie-les-deplacements-en-vue-d-une-potentielle-candidature-31382786.php",
+"summary": "",
+"source": "Sud Ouest",
+"date": "2026-11-04T16:43:11+00:00",
+"added": "2026-11-04T17:47:42+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "e19a899026de3624",
+"title": "Budget 2027 de la Sécurité sociale : les sénateurs proposent de revaloriser sur l’inflation les pensions de retraite allant jusqu’à 1500 euros",
+"link": "https://www.publicsenat.fr/actualites/sante/budget-2027-de-la-securite-sociale-les-senateurs-proposent-de-revaloriser-sur-linflation-les-pensions-allant-jusqua-1500-euros",
+"summary": "Massivement rejeté par les députés le mois dernier, le projet de loi de financement de la Sécurité sociale (PLFSS) arrive au Sénat, dans sa version initiale conçue par le gouvernement.",
+"source": "Public Sénat",
+"date": "2026-11-04T16:33:42+00:00",
+"added": "2026-11-04T17:47:42+00:00",
+"official": false,
+"also": [],
+"base": [
+"parlement"
+],
+"filtered": true,
+"topics": [
+"gouvernement",
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "4a4239ff91bb4c6a",
+"title": "Santé. PMA : qu'est-ce que le DPI-A, ce test génétique interdit en France que Marine Tondelier veut légaliser ?",
+"link": "https://www.ledauphine.com/sante/2026/11/04/pma-qu-est-ce-que-le-dpi-a-ce-test-genetique-interdit-en-france-que-marine-tondelier-veut-legaliser",
+"summary": "Après avoir révélé avoir eu recours à cet examen en Belgique, la candidate écologiste à la présidentielle Marine Tondelier soutient une proposition de loi visant à autoriser le DPI-A en France.",
+"source": "Le Dauphiné Libéré",
+"date": "2026-11-04T16:31:50+00:00",
+"added": "2026-11-04T17:47:42+00:00",
+"official": false,
+"also": [
+"Le Parisien"
+],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"parlement",
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": "Marine Tondelier"
+},
+{
+"id": "cbeafbbf5b785c39",
+"title": "Mélenchon, Le Pen, Hollande, Philippe… : l’enfance des candidats à la présidentielle racontée dans un livre par Olivier Dartigolles",
+"link": "https://www.sudouest.fr/politique/melenchon-le-pen-hollande-philippe-l-enfance-des-candidats-a-la-presidentielle-racontee-dans-un-livre-par-olivier-dartigolles-31103232.php",
+"summary": "",
+"source": "Sud Ouest",
+"date": "2026-11-04T16:30:00+00:00",
+"added": "2026-11-04T17:47:42+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "20cd9b7685b50df8",
+"title": "Présidentielle : Retailleau réclame à son tour une primaire, la pression monte sur Philippe",
+"link": "https://www.liberation.fr/politique/presidentielle-retailleau-reclame-a-son-tour-une-primaire-la-pression-monte-sur-philippe-20261104_GPI32KIPRRAKRGOTZJYHQJPFAY/",
+"summary": "Mardi, le candidat LR a plaidé, après Gabriel Attal, pour un départage des candidats de la droite et du centre.",
+"source": "Libération",
+"date": "2026-11-04T16:27:24+00:00",
+"added": "2026-11-04T17:47:42+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": "Bruno Retailleau"
+},
+{
+"id": "d92a340f162cdaf0",
+"title": "\"Je croyais parler à la porte-parole du gouvernement, mais je parle à la porte parole de TotalEnergies\": Fabien Gay (PCF) interpelle vivement Maud Bregeon au Sénat",
+"link": "https://www.bfmtv.com/politique/gouvernement/video-je-croyais-parler-a-la-porte-parole-du-gouvernement-mais-je-parle-a-la-porte-parole-de-total-energies-fabien-gay-pcf-interpelle-vivement-maud-bregeon-au-senat_VN-202611040710.html",
+"summary": "En réponse à une intervention de Maud Bregeon sur les carburants, le sénateur communiste Fabien Gay s'en est pris directement à la porte-parole du gouvernement, l'accusant de jouer les « porte-parole de TotalEnergies\".",
+"source": "BFMTV",
+"date": "2026-11-04T16:25:12+00:00",
+"added": "2026-11-04T17:47:42+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement",
+"parlement",
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Fabien Gay"
+},
+{
+"id": "4ea983048866f820",
+"title": "Combien et quand augmenter le Smic, \"les deux sujets sont sur la table\" dit Roland Lescure: quelles sont les règles en la matière?",
+"link": "https://lcp.fr/actualites/combien-et-quand-augmenter-le-smic-les-deux-sujets-sont-sur-la-table-dit-roland-lescure",
+"summary": "À la veille de la journée de grèves et de manifestations qui aura lieu demain, avec le pouvoir d'achat au coeur des revendications, le ministre de l'Économie et des Finances, Roland Lescure, a évoqué l'hypothèse d'une hausse du Smic avant le 1er janvier et avec un coup de pouce par rapport à l'inflation, ce mercredi 4…",
+"source": "LCP",
+"date": "2026-11-04T16:21:57+00:00",
+"added": "2026-11-04T17:47:42+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Roland Lescure"
+},
+{
+"id": "2bc970c7827fb5c5",
+"title": "Midterms : \"Trump n'est plus une machine à gagner\" pour les Républicains",
+"link": "https://www.france24.com/fr/vid%C3%A9o/20261104-midterms-tump-n-est-plus-une-machine-%C3%A0-gagner-pour-les-r%C3%A9publicains",
+"summary": "",
+"source": "France 24",
+"date": "2026-11-04T16:16:53+00:00",
+"added": "2026-11-04T17:47:42+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "21ddc3a36cf6c9bb",
+"title": "« Démissionner ? jamais ! »… Des messages confidentiels de Macron dévoilés dans un livre",
+"link": "https://www.20minutes.fr/politique/4260410-20261104-demissionner-jamais-messages-confidentiels-macron-devoiles-livre?at_medium=display&at_campaign=149",
+"summary": "«Vous êtes tous trop durs avec moi. » Ces mots, Emmanuel Macron les a écrits dans le cadre d’une conversation privée avec l’éditorialiste Françoise Degois, alors qu’il estime que les journalistes ne sont pas tendres avec lui.",
+"source": "20 Minutes",
+"date": "2026-11-04T16:08:50+00:00",
+"added": "2026-11-04T17:47:42+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "d3895ae495cb123d",
+"title": "Présidentielle 2027 : Édouard Philippe veut une \"discussion ferme\" avec Londres sur les migrations clandestines",
+"link": "https://www.lanouvellerepublique.fr/a-la-une/presidentielle-2027-edouard-philippe-veut-une-discussion-ferme-avec-londres-sur-les-migrations-clandestines-1793808542",
+"summary": "Édouard Philippe s’est rendu à Zuydcoote (Nord), pour affirmer sa volonté une plus grande fermeté avec le Royaume-Uni en matière de migrations clandestines. © (Photo AFP)\nEn déplacement mercredi 4 novembre 2026 sur le littoral du nord de la France, le candidat à l’élection présidentielle, Édouard Philippe, a assuré…",
+"source": "La Nouvelle République",
+"date": "2026-11-04T16:08:50+00:00",
+"added": "2026-11-04T17:47:42+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Édouard Philippe"
+},
+{
+"id": "bd8f92e88140c565",
+"title": "Sondage : 77% des Français estiment que certaines opinions ne peuvent plus être exprimées librement dans le débat public",
+"link": "https://www.cnews.fr/france/2026-11-04/sondage-77-des-francais-estiment-que-certaines-opinions-ne-peuvent-plus-etre",
+"summary": "Alors que plusieurs personnalités politiques à gauche de l'échiquier politique appellent à la fermeture de CNEWS, un sondage CSA paru ce mercredi 4 novembre révèle que près de 8 français sur 10 ont le sentiment que certaines opinions ne peuvent plus être exprimées librement dans le débat public.",
+"source": "CNews",
+"date": "2026-11-04T16:08:47+00:00",
+"added": "2026-11-04T17:47:42+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "2a56e9311fc9d9e1",
+"title": "La maire de Villeneuve-lez-Avignon, Pascale Bories, affiche son soutien au candidat Retailleau",
+"link": "https://www.laprovence.com/article/politique/8173321076520314/la-maire-de-villeneuve-lez-avignon-pascale-bories-affiche-son-soutien-au-candidat-retailleau",
+"summary": "Au micro Christophe Rivenq, devant Pascale Bories, maire de Villeneuve, Farès Orcet, adjoint aux affaires sociales de Villeneuve, et Romain Dumas, responsable des jeunes LR du Gard.",
+"source": "La Provence",
+"date": "2026-11-04T16:01:01+00:00",
+"added": "2026-11-04T17:47:42+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "3e07dc05c7fd3a2d",
+"title": "Présidentielle 2027 : le cinéma français appelle les candidats à protéger son modèle, notamment face aux menaces de l’extrême droite",
+"link": "https://www.lemonde.fr/politique/article/2026/11/04/presidentielle-2027-le-cinema-francais-appelle-les-candidats-a-proteger-son-modele-notamment-face-aux-menaces-de-l-extreme-droite_6806324_823448.html",
+"summary": "Un manifeste signé par quatre organisations majeures du secteur propose 12 engagements, parmi lesquels l’inscription de la « souveraineté culturelle française et européenne » dans la Constitution ou la sanctuarisation des ressources du CNC.",
+"source": "Le Monde",
+"date": "2026-11-04T16:00:30+00:00",
+"added": "2026-11-04T17:47:42+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "8dd09403eb23d9f2",
+"title": "SONDAGE BFMTV. Plus d'un Français sur deux approuve la mobilisation du 5 novembre",
+"link": "https://www.bfmtv.com/politique/sondages/sondage-bfmtv-plus-d-un-francais-sur-deux-favorable-a-la-mobilisation-du-5-novembre_AN-202611040674.html",
+"summary": "À la veille de la mobilisation du 5 novembre, près de six Français sur 10 disent y être favorables, selon un sondage Elabe pour BFMTV publié ce mercredi.",
+"source": "BFMTV",
+"date": "2026-11-04T15:51:23+00:00",
+"added": "2026-11-04T17:47:42+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "60ab1299ccf71eb6",
+"title": "Budget 2027 : les sénateurs préconisent de geler les retraites supérieures à 1.500 euros",
+"link": "https://www.lesechos.fr/economie-france/social/budget-2027-les-senateurs-preconisent-de-geler-les-retraites-superieures-a-1500-euros-2261056",
+"summary": "",
+"source": "Les Echos",
+"date": "2026-11-04T15:50:10+00:00",
+"added": "2026-11-04T17:47:42+00:00",
+"official": false,
+"also": [],
+"base": [
+"parlement"
+],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "f9f5107e6428806f",
+"title": "Transition énergétique : le gouvernement suspend le fonds chaleur, suscitant une vive réaction des collectivités locales",
+"link": "https://www.franceinfo.fr/environnement/actions-ecologiques/transition-ecologique-du-batiment/transition-energetique-le-gouvernement-suspend-le-fonds-chaleur-suscitant-une-vive-reaction-des-collectivites-locales_8267876.html#xtor=RSS-3-%5Bgeneral%5D",
+"summary": "Le gouvernement a annoncé la suspension des nouvelles demandes de financement auprès du fonds chaleur, qui aide à accélérer le déploiement des réseaux de chaleur et de froid renouvelables.",
+"source": "franceinfo",
+"date": "2026-11-04T15:47:41+00:00",
+"added": "2026-11-04T17:47:42+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "7e26afcdc4c193c7",
+"title": "SMS d'Emmanuel Macron dévoilés dans un livre : «C'est l'illustration de la chronique d'une fin de règne», soutient Louis de Raguenel",
+"link": "https://www.europe1.fr/politique/sms-demmanuel-macron-devoiles-dans-un-livre-cest-lillustration-de-la-chronique-dune-fin-de-regne-soutient-louis-de-raguenel-1208315?amp",
+"summary": "La journaliste et éditorialiste Françoise Degois signe un livre choc cet automne, \"Vous êtes tous trop durs avec moi\", où elle révèle ses échanges sous la forme de messages téléphoniques avec le président de la République.",
+"source": "Europe 1",
+"date": "2026-11-04T15:40:41+00:00",
+"added": "2026-11-04T17:47:42+00:00",
+"official": false,
+"also": [],
+"base": [
+"matinales"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"elysee"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "cbd3e3dbe5c1985e",
 "title": "Présidentielle 2027 : les résultats des midterms aux Etats-Unis gênent le RN et réjouissent la gauche",
 "link": "https://www.lemonde.fr/politique/article/2026/11/04/presidentielle-2027-les-resultats-des-midterms-americains-genent-le-rn-et-rejouissent-la-gauche_6806278_823448.html",
@@ -168,7 +694,12 @@
 "date": "2026-11-04T14:40:10+00:00",
 "added": "2026-11-04T15:42:46+00:00",
 "official": false,
-"also": [],
+"also": [
+"BFMTV",
+"Ouest-France",
+"20 Minutes",
+"Le Figaro"
+],
 "base": [
 "partis"
 ],
@@ -180,6 +711,26 @@
 "Citation"
 ],
 "speaker": "Édouard Philippe"
+},
+{
+"id": "114c2355ac35d21f",
+"title": "Midterms 2026 aux États-Unis : malgré près d’un demi-milliard de dollars injectés pour soutenir les républicains, la fortune de Musk n’aura finalement servi à rien",
+"link": "https://www.sudouest.fr/international/etats-unis/midterms-2026-aux-etats-unis-pres-d-un-demi-milliard-de-dollars-pour-soutenir-des-candidats-republicains-la-fortune-de-musk-n-aura-finalement-servi-a-rien-31380506.php",
+"summary": "",
+"source": "Sud Ouest",
+"date": "2026-11-04T14:33:50+00:00",
+"added": "2026-11-04T17:47:42+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
 },
 {
 "id": "397afa13b91092cc",
@@ -2303,7 +2854,8 @@
 "also": [
 "Le Figaro",
 "Le Parisien",
-"Europe 1"
+"Europe 1",
+"Le Nouvel Obs"
 ],
 "base": [],
 "filtered": true,
@@ -2652,7 +3204,9 @@
 "date": "2026-11-04T05:30:48+00:00",
 "added": "2026-11-04T06:40:53+00:00",
 "official": false,
-"also": [],
+"also": [
+"franceinfo"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -3236,7 +3790,9 @@
 "date": "2026-11-03T22:55:07+00:00",
 "added": "2026-11-04T06:40:53+00:00",
 "official": false,
-"also": [],
+"also": [
+"Le Figaro"
+],
 "base": [
 "partis"
 ],
@@ -12018,88 +12574,5 @@
 "base": [],
 "filtered": true,
 "speaker": "Emmanuel Grégoire"
-},
-{
-"id": "0dbe2af3f1ab505d",
-"title": "À la veille de la rentrée, l'Élysée espère un \"retour en classe\" des lycéens et étudiants \"compte tenu des mesures décidées\"",
-"link": "https://www.bfmtv.com/politique/elysee/a-la-veille-de-la-rentree-l-elysee-espere-un-retour-en-classe-des-lyceens-et-etudiants-compte-tenu-des-mesures-decidees_AD-202611010352.html",
-"summary": "Le Président de la République Emmanuel Macron - Photo par FIRAS ABDULLAH / POOL / AFP\nAprès un \"acte III\" de la mobilisation sociale qui a réuni moins de manifestants ce week-end que les précédents, l'Élysée espère pour la rentrée scolaire lundi un \"retour en classe\" des lycéens \"compte tenu des mesures décidées\", a…",
-"source": "BFMTV",
-"date": "2026-11-01T17:23:48+00:00",
-"topics": [
-"elysee"
-],
-"natures": [],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": ""
-},
-{
-"id": "646ab6e8baa8fa12",
-"title": "Crise sociale: \"C'est la conséquence de dix années de macronisme\", critique Pierre-Henri Dumont, secrétaire général adjoint des Républicains, soutien de Bruno Retailleau",
-"link": "https://www.bfmtv.com/politique/les-republicains/video-crise-sociale-c-est-la-consequence-de-dix-annees-de-macronisme-critique-pierre-henri-dumont-secretaire-general-adjoint-des-republicains-soutien-de-bruno-retailleau_VN-202611010347.html",
-"summary": "VIDÉO - Après la mobilisation du 31 octobre, la semaine sociale s’annonce chargée. Dès mardi, avec de nouveaux blocus dans les lycées et universités mais aussi avec le 5 novembre ou un appel à la grève générale a été lancé.",
-"source": "BFMTV",
-"date": "2026-11-01T17:02:17+00:00",
-"topics": [
-"partis"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": "Pierre-Henri Dumont"
-},
-{
-"id": "3b4b274f33facb7c",
-"title": "Réponses du gouvernement face à la crise sociale: \"On nous propose des petites rustines\", fustige Emma Rafowicz, députée européenne et porte-parole du Parti socialiste",
-"link": "https://www.bfmtv.com/politique/parti-socialiste/video-reponses-du-gouvernement-face-a-la-crise-sociale-on-nous-propose-des-petites-rustines-fustige-emma-rafowicz-deputee-europeenne-et-porte-parole-du-parti-socialiste_VN-202611010345.html",
-"summary": "VIDÉO - Après la mobilisation du 31 octobre, la semaine sociale s’annonce chargée. Dès mardi, avec de nouveaux blocus dans les lycées et universités mais aussi avec le 5 novembre ou un appel à la grève générale a été lancé.",
-"source": "BFMTV",
-"date": "2026-11-01T17:00:43+00:00",
-"topics": [
-"gouvernement",
-"parlement",
-"partis"
-],
-"natures": [
-"Citation",
-"Annonce",
-"Réaction"
-],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": "Emma Rafowicz"
-},
-{
-"id": "aa2d462878419c71",
-"title": "\"Pas besoin d’un doctorat pour comprendre pourquoi Mélenchon est jugé plus dangereux que Le Pen\" : l’analyse de la politologue Sheri Berman",
-"link": "https://www.lexpress.fr/idees-et-debats/pas-besoin-dun-doctorat-pour-comprendre-pourquoi-melenchon-est-juge-plus-dangereux-que-le-pen-O5CARHNQFNEWHO5NSYHBTZZ7DI/",
-"summary": "Des partis traditionnels qui s'affaiblissent, des extrêmes qui progressent, des compromis qui deviennent impossibles, des problèmes économiques laissés sans solution, un mécontentement qui augmente et qui renforce ces mêmes extrêmes.",
-"source": "L'Express",
-"date": "2026-11-01T17:00:00+00:00",
-"topics": [
-"partis"
-],
-"natures": [
-"Citation"
-],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": ""
 }
 ]
