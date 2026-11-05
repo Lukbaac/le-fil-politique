@@ -1,5 +1,62 @@
 [
 {
+"id": "bf837df0235bbe52",
+"title": "Jordan Bardella",
+"link": "https://www.bfmtv.com/politique/front-national/jordan-bardella_DN-202403060432.html",
+"summary": "Déjà conseiller régional d'Île-de-France, député européen et président de parti, Jordan Bardella conduira pour une deuxième fois la liste du Rassemblement national (RN) lors des élections européennes organisées le 9 juin 2024.",
+"source": "BFMTV",
+"date": "2026-11-05T07:32:13+00:00",
+"added": "2026-11-05T07:58:47+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "0760722aee0f4365",
+"title": "Des messages sans filtre d’Emmanuel Macron révélés dans le livre de l’éditorialiste de gauche Françoise Degois",
+"link": "https://fr.euronews.com/2026/11/05/des-messages-sans-filtre-demmanuel-macron-reveles-dans-le-livre-de-leditorialiste-de-gauch",
+"summary": "L'ancienne conseillère de Ségolène Royal, ex-journaliste politique à France Inter et chroniqueuse régulière des plateaux de télévision Françoise Degois publie jeudi 5 novembre \"Vous êtes tous trop durs avec moi\" (édition Robert Laffont), un livre choc tiré de ses conversations privées avec Emmanuel Macron, dont les…",
+"source": "Euronews",
+"date": "2026-11-05T07:23:59+00:00",
+"added": "2026-11-05T07:58:47+00:00",
+"official": false,
+"also": [],
+"base": [
+"elysee"
+],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "469f5be3d86e517f",
+"title": "Jordan Bardella rattrapé par ses propos antisémites à l’occasion du lancement de son nouveau livre",
+"link": "https://www.lemonde.fr/politique/article/2026/11/05/jordan-bardella-rattrape-par-ses-propos-antisemites-au-lancement-de-son-nouveau-livre_6806827_823448.html",
+"summary": "Le président du Rassemblement national voit sa promotion perturbée par le rappel de ses anciens propos antisémites dont il dément être l’auteur.",
+"source": "Le Monde",
+"date": "2026-11-05T06:51:34+00:00",
+"added": "2026-11-05T07:58:47+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "81fe6ffcbdb46b73",
 "title": "Crise du Logement : Marine Tondelier VS Bruno Retailleau",
 "link": "https://rmc.bfmtv.com/replay-emissions/5-7-le-morning-rmc/video-crise-du-logement-marine-tondelier-vs-bruno-retailleau_VN-202611050167.html",
@@ -144,13 +201,35 @@
 "date": "2026-11-05T05:25:29+00:00",
 "added": "2026-11-05T06:40:44+00:00",
 "official": false,
-"also": [],
+"also": [
+"BFMTV"
+],
 "base": [
 "partis"
 ],
 "filtered": true,
 "topics": [
 "partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "bad6123485c6bd02",
+"title": "Budget de l’État 2027 : l'Assemblée nationale rejette massivement le texte qui est envoyé au Sénat",
+"link": "https://www.sudouest.fr/politique/budget-de-l-etat-2027-l-assemblee-nationale-rejette-massivement-le-texte-qui-est-envoye-au-senat-31390161.php",
+"summary": "",
+"source": "Sud Ouest",
+"date": "2026-11-05T05:22:10+00:00",
+"added": "2026-11-05T07:58:47+00:00",
+"official": false,
+"also": [],
+"base": [
+"parlement"
+],
+"filtered": true,
+"topics": [
+"parlement"
 ],
 "natures": [],
 "speaker": ""
@@ -170,6 +249,26 @@
 "topics": [
 "elysee",
 "gouvernement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "e3be6cfaae5087ff",
+"title": "Budget 2027 : les députés rejettent à l'unanimité la copie amendée, qui part au Sénat dans sa version initiale",
+"link": "https://www.lesechos.fr/economie-france/budget-fiscalite/budget-2027-les-deputes-rejettent-a-lunanimite-la-copie-amendee-qui-part-au-senat-dans-sa-version-initiale-2261147",
+"summary": "",
+"source": "Les Echos",
+"date": "2026-11-05T05:00:30+00:00",
+"added": "2026-11-05T07:58:47+00:00",
+"official": false,
+"also": [],
+"base": [
+"parlement"
+],
+"filtered": true,
+"topics": [
+"parlement"
 ],
 "natures": [],
 "speaker": ""
@@ -319,7 +418,11 @@
 "date": "2026-11-04T23:16:00+00:00",
 "added": "2026-11-05T06:40:44+00:00",
 "official": false,
-"also": [],
+"also": [
+"Le Monde",
+"BFMTV",
+"Ouest-France"
+],
 "base": [
 "parlement"
 ],
@@ -460,7 +563,9 @@
 "official": false,
 "also": [
 "Sud Ouest",
-"TF1 Info"
+"TF1 Info",
+"franceinfo",
+"BFMTV"
 ],
 "base": [
 "partis"
@@ -2594,7 +2699,9 @@
 "date": "2026-11-04T13:05:46+00:00",
 "added": "2026-11-04T13:56:32+00:00",
 "official": false,
-"also": [],
+"also": [
+"LCP"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -2902,6 +3009,28 @@
 ],
 "natures": [],
 "speaker": ""
+},
+{
+"id": "33832358ad35cf35",
+"title": "Catherine Nay : « Emmanuel Macron n’était pas prêt »",
+"link": "https://www.lepoint.fr/politique/catherine-nay-emmanuel-macron-netait-pas-pret-DW3YG6OK3FHNDBBJFWY3CEAN6Y/",
+"summary": "",
+"source": "Le Point",
+"date": "2026-11-04T11:30:00+00:00",
+"added": "2026-11-05T07:58:47+00:00",
+"official": false,
+"also": [],
+"base": [
+"elysee"
+],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Catherine Nay"
 },
 {
 "id": "5cda1bd6348c4b8f",
@@ -3218,6 +3347,29 @@
 "Discours"
 ],
 "speaker": ""
+},
+{
+"id": "e4f14aad68d5e27a",
+"title": "Le député Jérémie Patrier-Leitus se dit \"opposé à la fermeture de CNews\" après la pétition demandant la fermeture de la chaîne",
+"link": "https://www.franceinfo.fr/economie/medias/le-depute-jeremie-patrier-leitus-se-dit-oppose-a-la-fermeture-de-cnews-apres-la-petition-demandant-la-fermeture-de-la-chaine_8267513.html",
+"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
+"source": "franceinfo",
+"date": "2026-11-04T10:41:36+00:00",
+"added": "2026-11-05T07:58:47+00:00",
+"official": false,
+"also": [],
+"base": [
+"matinales"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"parlement"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Jérémie Patrier-Leitus"
 },
 {
 "id": "eec802b274d471ca",
@@ -5572,6 +5724,27 @@
 "Citation"
 ],
 "speaker": "Bruno Retailleau"
+},
+{
+"id": "0e91843db104aab1",
+"title": "Mélenchon en six hologrammes, ça ressemble à quoi ?",
+"link": "https://www.tf1info.fr/politique/elections/presidentielle/video-melenchon-en-six-hologrammes-ca-ressemble-a-quoi-2045399.html",
+"summary": "Pour son dernier grand rendez-vous avant le premier tour dimanche, Jean-Luc Mélenchon est revenu mardi à ses fondamentaux, défendant le \"programme commun du peuple\" dans un meeting à Dijon retransmis par hologramme dans six villes.",
+"source": "TF1 Info",
+"date": "2026-11-03T22:51:55+00:00",
+"added": "2026-11-05T07:58:47+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
 },
 {
 "id": "bb64ab96161a0946",
@@ -13369,482 +13542,6 @@
 "presidentielle"
 ],
 "natures": [],
-"speaker": ""
-},
-{
-"id": "c3d676455ba755f2",
-"title": "Mobilisation lycéenne : «Je n’ai pas peur de LFI et je condamne l’expression 'la police tue'», clame Jérôme Guedj",
-"link": "https://www.europe1.fr/politique/mobilisation-lyceenne-je-nai-pas-peur-de-lfi-et-je-condamne-lexpression-la-police-tue-clame-jerome-guedj-1202106",
-"summary": "Invité de La Grande Interview ce lundi sur Europe 1, le député socialiste de l’Essonne Jérôme Guedj condamne fermement les violences et les pillages survenus depuis le 17 octobre.",
-"source": "Europe 1",
-"date": "2026-11-02T07:57:30+00:00",
-"topics": [
-"matinales",
-"parlement",
-"partis"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": "Jérôme Guedj"
-},
-{
-"id": "60349d85798ed45b",
-"title": "Le Grand Jury — Le grand jury RTL – Public Sénat",
-"link": "https://www.publicsenat.fr/emission/le-grand-jury-rtl-public-senat-ouest-france-m6/le-grand-jury-rtl-public-senat-e14",
-"summary": "\"Le Grand jury RTL - Public Sénat\" est une émission politique majeure proposée en direct sur Public Sénat, et en simultané sur RTL.",
-"source": "Public Sénat",
-"date": "2026-11-02T07:57:23+00:00",
-"topics": [
-"matinales",
-"parlement"
-],
-"natures": [
-"Interview"
-],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": ""
-},
-{
-"id": "1a74cec290b2357c",
-"title": "\"Le blocage durable des établissements ne peut pas être une solution\", assure la porte-parole du gouvernement Maud Bregeon",
-"link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-blocage-durable-des-etablissements-ne-peut-pas-etre-une-solution-assure-la-porte-parole-du-gouvernement-maud-bregeon_8263583.html",
-"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
-"source": "franceinfo",
-"date": "2026-11-02T07:56:53+00:00",
-"topics": [
-"gouvernement"
-],
-"natures": [
-"Citation"
-],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": "Maud Bregeon"
-},
-{
-"id": "a55552d0df188ba9",
-"title": "Pourquoi Raphaël Glucksmann veut taxer l'héritage pour une société de travailleurs",
-"link": "https://www.laprovence.com/article/politique/6191415590508214/presidentielle-2027-je-serai-dans-la-rue-le-5-novembre-les-francais-nen-peuvent-plus-raphael-glucksmann",
-"summary": "Réunion publique de Raphaël Glucksmann à Marseille, le 5 octobre 2026.",
-"source": "La Provence",
-"date": "2026-11-02T07:56:13+00:00",
-"topics": [
-"partis"
-],
-"natures": [],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": "Raphaël Glucksmann"
-},
-{
-"id": "2cd12ffc243a5820",
-"title": "Questions au Gouvernement — Questions au Gouvernement",
-"link": "https://www.publicsenat.fr/emission/questions-au-gouvernement/questions-au-gouvernement-e7",
-"summary": "Tous les mercredis à 15 h, les sénateurs reçoivent dans l'Hémicycle les membres du gouvernement pour la séance des questions d'actualité, un moment important de la vie démocratique française.",
-"source": "Public Sénat",
-"date": "2026-11-02T07:55:05+00:00",
-"topics": [
-"gouvernement",
-"parlement"
-],
-"natures": [],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": ""
-},
-{
-"id": "e7171b9d046d1706",
-"title": "Parlement hebdo — Parlement hebdo",
-"link": "https://www.publicsenat.fr/emission/parlement-hebdo/parlement-hebdo-e9-1",
-"summary": "Cette semaine dans Parlement Hebdo, Alexandre Poussart et Kathia Gilder reçoivent Fabien Gay, sénateur communiste de Seine-Saint-Denis et Charles Rodwell, député EPR des Yvelines.",
-"source": "Public Sénat",
-"date": "2026-11-02T07:54:42+00:00",
-"topics": [
-"parlement",
-"partis"
-],
-"natures": [],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": ""
-},
-{
-"id": "b02a8afb4d878d31",
-"title": "Ici l'Europe — Ici l’Europe",
-"link": "https://www.publicsenat.fr/emission/ici-leurope/ici-leurope-e14",
-"summary": "Chaque semaine, Public Sénat, LCP-Assemblée nationale et France 24 vous plongent au coeur des questions qui secouent l'Europe : guerre en Ukraine, pacte migratoire, Green deal, ou encore souveraineté digitale.",
-"source": "Public Sénat",
-"date": "2026-11-02T07:54:33+00:00",
-"topics": [
-"parlement"
-],
-"natures": [],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": ""
-},
-{
-"id": "0e591b14fd4db3b7",
-"title": "En direct du Sénat — En direct du Sénat",
-"link": "https://www.publicsenat.fr/emission/en-direct-du-senat/en-direct-du-senat-e9-2",
-"summary": "L'émission qui donne les clés pour comprendre l'actualité du Sénat. Séances publiques, commissions d'enquête, auditions, rapports parlementaires...",
-"source": "Public Sénat",
-"date": "2026-11-02T07:54:25+00:00",
-"topics": [
-"parlement"
-],
-"natures": [],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": ""
-},
-{
-"id": "4bfd5a79310e1c27",
-"title": "Bonjour chez vous ! — Bonjour chez vous !",
-"link": "https://www.publicsenat.fr/emission/bonjour-chez-vous/bonjour-chez-vous-e51",
-"summary": "Bonjour chez vous !, c'est votre rendez-vous quotidien avec l'actualité qui vous concerne. Des débats, des reportages en régions et bien sûr toute l'actualité politique et parlementaire.Nous serons au plus près de vous, avec nos partenaires de la presse quotidienne régionale, des télévisions locales et des Indés…",
-"source": "Public Sénat",
-"date": "2026-11-02T07:54:10+00:00",
-"topics": [
-"matinales",
-"parlement"
-],
-"natures": [],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": ""
-},
-{
-"id": "ec65953bac7af98f",
-"title": "Raphaël Glucksmann, candidat PS-Place publique à la présidentielle, accuse les militants insoumis d'\"installer une atmopshère détestable\" via \"leur propagande haineuse\"",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-raphael-glucksmann-candidat-ps-place-publique-a-la-presidentielle-accuse-les-militants-insoumis-d-installer-une-atmopshere-detestable-via-leur-propagande-haineuse_VN-202611020311.html",
-"summary": "VIDÉO - Raphaël Glucksmann, candidat “PS - Place Publique” à la présidentielle, était l’invité du Face-à-Face sur BFM et RMC ce lundi 2 novembre.",
-"source": "BFMTV",
-"date": "2026-11-02T07:53:16+00:00",
-"topics": [
-"matinales",
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": "Raphaël Glucksmann"
-},
-{
-"id": "0814c0bd78bb63ee",
-"title": "100% Sénat — 100% Sénat",
-"link": "https://www.publicsenat.fr/emission/100-senat/100-senat-e56-2",
-"summary": "100% Sénat diffuse et décrypte les moments forts de l'examen des textes dans l'Hémicycle, ainsi que des auditions d'experts et de personnalités politiques entendues par les commissions du Sénat.",
-"source": "Public Sénat",
-"date": "2026-11-02T07:52:30+00:00",
-"topics": [
-"parlement"
-],
-"natures": [],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": ""
-},
-{
-"id": "aa2a11d9b7fb0afb",
-"title": "Baisse du prix du gazole: \"C'est un pas positif, mais ce n'est pas suffisant\", affirme Raphaël Glucksmann, candidat PS-Place publique à la présidentielle",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-baisse-du-prix-du-gazole-c-est-un-pas-positif-mais-ce-n-est-pas-suffisant-affirme-raphael-glucksmann-candidat-ps-place-publique-a-la-presidentielle_VN-202611020302.html",
-"summary": "VIDÉO - Raphaël Glucksmann, candidat “PS - Place Publique” à la présidentielle, était l’invité du Face-à-Face sur BFM et RMC ce lundi 2 novembre.",
-"source": "BFMTV",
-"date": "2026-11-02T07:48:14+00:00",
-"topics": [
-"matinales",
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": "Raphaël Glucksmann"
-},
-{
-"id": "c5bf3436dbd2a37d",
-"title": "Colère sociale : «Le gouvernement procrastine», estime Jérôme Guedj",
-"link": "https://www.europe1.fr/politique/colere-sociale-le-gouvernement-procrastine-estime-jerome-guedj-1202082",
-"summary": "Le député socialiste de l'Essonne Jérôme Guedj était l'invité de La Grande interview Europe 1-CNews ce lundi matin.",
-"source": "Europe 1",
-"date": "2026-11-02T07:42:00+00:00",
-"topics": [
-"matinales",
-"gouvernement",
-"parlement",
-"partis"
-],
-"natures": [
-"Citation"
-],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": "Jérôme Guedj"
-},
-{
-"id": "331e3b197c353c08",
-"title": "\"Vous avez obtenu beaucoup\": Raphaël Glucksmann, candidat PS-Place publique à la présidentielle, appelle les lycéens à \"faire attention\" à obtenir les avancées promises par le gouvernement",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-vous-avez-obtenu-beaucoup-raphael-glucksmann-candidat-ps-place-publique-a-la-presidentielle-appelle-les-lyceens-a-faire-attention-a-obtenir-les-avancees-promises-par-le-gouvernement_VN-202611020283.html",
-"summary": "VIDÉO - Raphaël Glucksmann, candidat “PS - Place Publique” à la présidentielle, était l’invité du Face-à-Face sur BFM et RMC ce lundi 2 novembre.",
-"source": "BFMTV",
-"date": "2026-11-02T07:40:18+00:00",
-"topics": [
-"matinales",
-"gouvernement",
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": "Raphaël Glucksmann"
-},
-{
-"id": "a2fbf348078e4ba9",
-"title": "\"C'est inéluctable\": Gabriel Attal s'accroche à sa primaire, malgré le refus d'Édouard Philippe",
-"link": "https://lcp.fr/actualites/c-est-ineluctable-gabriel-attal-s-accroche-a-sa-primaire-malgre-le-refus-d-edouard",
-"summary": "Invité de TF1 ce lundi 2 novembre, Gabriel Attal a réagi au refus d'Édouard Philippe de participer à une primaire de la droite et du centre, estimant au contraire qu'il s'agissait de l'unique solution pour qu'un candidat issu de ce camp puisse se qualifier au second tour de l'élection présidentielle de 2027.",
-"source": "LCP",
-"date": "2026-11-02T07:34:55+00:00",
-"topics": [
-"matinales",
-"presidentielle"
-],
-"natures": [],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [
-"20 Minutes",
-"Les Echos",
-"CNews",
-"Le Parisien",
-"L'Opinion",
-"BFMTV",
-"Le Figaro",
-"Sud Ouest",
-"Ouest-France",
-"Le Dauphiné Libéré"
-],
-"base": [],
-"filtered": true,
-"speaker": ""
-},
-{
-"id": "760e812db5ca3a04",
-"title": "Jean-Luc Mélenchon accuse Edouard Philippe de \"calomnies racistes\" après une interview sur TF1, et dit annuler son propre passage sur la chaîne",
-"link": "https://www.franceinfo.fr/elections/presidentielle/jean-luc-melenchon-annonce-annuler-un-passage-au-20-heures-de-tf1-a-la-suite-d-une-interview-d-edouard-philippe_8263556.html",
-"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
-"source": "franceinfo",
-"date": "2026-11-02T07:33:51+00:00",
-"topics": [
-"partis"
-],
-"natures": [
-"Citation",
-"Interview",
-"Réaction"
-],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [
-"RMC",
-"La Montagne",
-"Le Télégramme"
-],
-"base": [],
-"filtered": true,
-"speaker": "Jean-Luc Mélenchon"
-},
-{
-"id": "501e13ba707d8d7c",
-"title": "« Vous êtes le député des riches » : à Cholet, la France insoumise répond au député macroniste Denis Masséglia",
-"link": "https://www.ouest-france.fr/politique/la-france-insoumise/vous-etes-le-depute-des-riches-a-cholet-la-france-insoumise-repond-au-depute-macroniste-denis-masseglia-d287d5a6-d489-11f1-84f3-5611f158a658",
-"summary": "",
-"source": "Ouest-France",
-"date": "2026-11-02T07:15:02+00:00",
-"topics": [
-"parlement",
-"partis"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": ""
-},
-{
-"id": "64e17c8d12470ce1",
-"title": "\"Les distributeurs jouent le jeu\" : sur RTL, le ministre du Commerce constate que \"plus de la moitié des stations ont baissé leurs prix de 12 à 18 centimes\"",
-"link": "https://www.rtl.fr/actu/politique/les-distributeurs-jouent-le-jeu-sur-rtl-le-ministre-du-commerce-constate-que-plus-de-la-moitie-des-stations-ont-baisse-leurs-prix-de-12-a-18-centimes-7900691308",
-"summary": "Le ministre du commerce, Serge Papin sur RTL le 2 novembre 2026.",
-"source": "RTL",
-"date": "2026-11-02T07:09:52+00:00",
-"topics": [
-"gouvernement"
-],
-"natures": [
-"Citation"
-],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": ""
-},
-{
-"id": "5517433cce191b84",
-"title": "\"L'année scolaire est maintenant en risque pour plusieurs centaines de milliers d'élèves\", estime le ministre de l'Education",
-"link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/a-ce-stade-il-y-a-quelques-lycees-perturbes-ce-lundi-matin-c-est-assez-residuel-constate-le-ministre-de-l-education_8263574.html",
-"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
-"source": "franceinfo",
-"date": "2026-11-02T07:06:57+00:00",
-"topics": [
-"gouvernement"
-],
-"natures": [
-"Citation"
-],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": ""
-},
-{
-"id": "6c8f5ba98894cd3d",
-"title": "Keynes, Marx et les autres... Quelles sont les influences du programme économique de Jean-Luc Mélenchon ?",
-"link": "https://www.nouvelobs.com/idees/20261102.OBS119770/keynes-marx-et-les-autres-quelles-sont-les-influences-du-programme-economique-de-jean-luc-melenchon.html",
-"summary": "Les théories économiques développées par John Maynard Keynes (1883-1946) et Karl Marx (1818-1883) fon partie des inspirations du programme de La France insoumise.",
-"source": "Le Nouvel Obs",
-"date": "2026-11-02T07:00:08+00:00",
-"topics": [
-"partis"
-],
-"natures": [],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": ""
-},
-{
-"id": "1421d13bdb7851c3",
-"title": "« Ni-ni » : le vote blanc sera-t-il le grand vainqueur de la présidentielle ?",
-"link": "https://www.lopinion.fr/politique/ni-ni-le-vote-blanc-sera-t-il-le-grand-vainqueur-de-la-presidentielle",
-"summary": "Le vote blanc a recueilli 6,37 % des voix au second tour de 2022. Aujourd’hui, 19,2 % des Français envisagent de voter blanc en cas de duel LFI-RN, selon l’Ifop\nC’est un vote invisible, peu mis en avant dans les sondages, qui se concentrent sur les suffrages exprimés.",
-"source": "L'Opinion",
-"date": "2026-11-02T07:00:00+00:00",
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": ""
-},
-{
-"id": "72cc7fef130b619e",
-"title": "Budget : comment le gouvernement compte réduire de plus de 9 milliards d’euros le déficit de la Sécurité sociale",
-"link": "https://www.lefigaro.fr/social/budget-comment-le-gouvernement-compte-reduire-de-plus-de-9-milliards-d-euros-le-deficit-de-la-securite-sociale-20261102",
-"summary": "DÉCRYPTAGE - Sébastien Lecornu prévoit de faire passer le déficit de 21,8 milliards à 12,7 milliards d’euros en 2027.",
-"source": "Le Figaro",
-"date": "2026-11-02T06:58:42+00:00",
-"topics": [
-"elysee",
-"gouvernement"
-],
-"natures": [],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": ""
-},
-{
-"id": "72cc345a190c6a22",
-"title": "Présidentielle 2027 : Édouard Philippe ferme la porte à la primaire",
-"link": "https://www.la-croix.com/edouard-philippe-refuse-la-primaire-renvoie-les-choix-a-fevrier-20261101",
-"summary": "Opposé à toute primaire, Édouard Philippe a réaffirmé sa position dimanche 1er novembre sur TF1, rejetant la proposition de Gabriel Attal et renvoyant ses rivaux à leurs « responsabilités » en février 2027.",
-"source": "La Croix",
-"date": "2026-11-02T06:57:34+00:00",
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
 "speaker": ""
 }
 ]
