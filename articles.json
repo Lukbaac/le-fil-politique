@@ -1,5 +1,434 @@
 [
 {
+"id": "86aca5108691dcfb",
+"title": "Budget de la défense: Bruno Retailleau reconnaît \"l'effort substantiel\" mais alerte sur le \"désastre\" de la dette",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-budget-de-la-defense-bruno-retailleau-reconnait-l-effort-substantiel-mais-alerte-sur-le-desastre-de-la-dette_VN-202611050424.html",
+"summary": "Bruno Retailleau, candidat LR à l'élection présidentielle, était en déplacement au salon Euronaval à Villepinte ce jeudi 5 novembre.",
+"source": "BFMTV",
+"date": "2026-11-05T11:25:03+00:00",
+"added": "2026-11-05T11:43:40+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Bruno Retailleau"
+},
+{
+"id": "96382eee0b43b75e",
+"title": "L’idée (sans queue ni tête) de Macron pour éviter un second tour Mélenchon-Le Pen",
+"link": "https://www.huffingtonpost.fr/politique/article/pour-eviter-un-second-tour-le-pen-melenchon-en-2027-macron-propose-une-coalition-au-perimetre-impossible_352480.html",
+"summary": "L’idée d’une « primaire » à droite et au centre ne fait pas recette ? Qu’à cela ne tienne pour le chef de l’État, il suffit de la renommer « coalition ».",
+"source": "Le HuffPost",
+"date": "2026-11-05T11:20:23+00:00",
+"added": "2026-11-05T11:43:40+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"elysee",
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "02ea63dc530df43b",
+"title": "Aléxis Tsípras : «La France a toujours été un laboratoire social et politique pour l’Europe»",
+"link": "https://www.liberation.fr/politique/alexis-tsipras-la-france-a-toujours-ete-un-laboratoire-social-et-politique-pour-leurope-20261105_AW7GOKKIEZAKTOEMHIRBD74HCA/",
+"summary": "L’ancien Premier ministre grec, qui vient de lancer un parti, Elas, est à Paris pour soutenir les forces de gauche et participer à la manifestation du 5 novembre.",
+"source": "Libération",
+"date": "2026-11-05T11:16:15+00:00",
+"added": "2026-11-05T11:43:40+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "9e6533819c4cb3e2",
+"title": "« Les gens m’en remercient dans la rue » : Tondelier défend sa ligne « unioniste » face aux « camps » Glucksmann et Mélenchon",
+"link": "https://www.leparisien.fr/elections/presidentielle/les-gens-men-remercient-dans-la-rue-tondelier-defend-sa-ligne-unioniste-face-aux-camps-glucksmann-et-melenchon-05-11-2026-UBRELAXXERCRFDCJBSKLMXXSTY.php",
+"summary": "",
+"source": "Le Parisien",
+"date": "2026-11-05T11:15:17+00:00",
+"added": "2026-11-05T11:43:40+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "Marine Tondelier"
+},
+{
+"id": "88b9f0c1af36a117",
+"title": "Bâtiments vétustes, toilettes insalubres, chauffage défectueux... Découvrez les 200 lycées prioritaires pour être rénovés dans notre moteur de recherche",
+"link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/batiments-vetustes-toilettes-insalubres-chauffage-defectueux-decouvrez-les-200-lycees-prioritaires-pour-etre-renoves-dans-notre-moteur-de-recherche_8268914.html#xtor=RSS-3-%5Bgeneral%5D",
+"summary": "Le gouvernement a sélectionné ces établissements en fonction du nombre de signalements effectués sur la plateforme mise en place pour répondre à la colère des lycéens.",
+"source": "franceinfo",
+"date": "2026-11-05T11:14:07+00:00",
+"added": "2026-11-05T11:43:40+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "dee3701abe040c4d",
+"title": "Présidentielle 2027 : «C'est le moment de Marine Le Pen, de la rencontre de son programme avec les Français», estime Laure Lavalette",
+"link": "https://www.europe1.fr/politique/presidentielle-2027-cest-le-moment-de-marine-le-pen-de-la-rencontre-de-son-programme-avec-les-francais-estime-laure-lavalette-1210178",
+"summary": "Avec 36% des intentions de vote, Marine Le Pen continue d'être la grande favorite des sondages pour la prochaine élection présidentielle.",
+"source": "Europe 1",
+"date": "2026-11-05T11:12:00+00:00",
+"added": "2026-11-05T11:43:40+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Laure Lavalette"
+},
+{
+"id": "aff412526e74a398",
+"title": "PLF 2027 : L’Assemblée nationale rejette unanimement le texte",
+"link": "https://www.lagazettedescommunes.com/club-finances/finances-publiques/lois-de-finances/plf-2027-lassemblee-nationale-rejette-unanimement-le-texte.6TUSRJ7DEZFQ5C376ICRNE6NKI.html",
+"summary": "",
+"source": "La Gazette des Communes",
+"date": "2026-11-05T11:05:57+00:00",
+"added": "2026-11-05T11:43:40+00:00",
+"official": false,
+"also": [],
+"base": [
+"parlement"
+],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "3195f77dcdb289d7",
+"title": "Belfort. Outrages lors de la visite de Bruno Retailleau : mobilisation devant le tribunal pour la relaxe des trois prévenus",
+"link": "https://www.estrepublicain.fr/faits-divers-justice/2026/11/05/outrages-lors-de-la-visite-de-bruno-retailleau-mobilisation-devant-le-tribunal-pour-la-relaxe-des-trois-prevenus",
+"summary": "Dès 8 h, par 3 °C, ils étaient une quarantaine ce jeudi 5 novembre devant le tribunal judiciaire de Belfort. Tous ont répondu à un appel à la relaxe signé par plusieurs organisations syndicales (Sud, CGT…) et partis politiques (PCF, LFI, NPA…).",
+"source": "L'Est Républicain",
+"date": "2026-11-05T11:00:09+00:00",
+"added": "2026-11-05T11:43:40+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "7045a60f0dda0dde",
+"title": "David Lisnard poursuit sa percée selon un nouveau sondage, tandis que Jean-Luc Mélenchon patine",
+"link": "https://www.leparisien.fr/elections/presidentielle/david-lisnard-poursuit-sa-percee-selon-un-nouveau-sondage-tandis-que-jean-luc-melenchon-patine-05-11-2026-ASRUQUYWE5EG3AF7KHSSSRC2II.php",
+"summary": "",
+"source": "Le Parisien",
+"date": "2026-11-05T10:57:38+00:00",
+"added": "2026-11-05T11:43:40+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "cc05e9215081de95",
+"title": "David Lisnard fait officiellement certifier les 100 000 adhérents de son parti Nouvelle Energie",
+"link": "https://www.liberation.fr/politique/david-lisnard-fait-officiellement-certifier-les-100-000-adherents-de-son-parti-nouvelle-energie-20261105_RSWPDTRENJCZXAXB6XMR4ZWVMM/",
+"summary": "Indiscrétions piquantes, maladresses vaches ou douces confessions : chaque jour, retrouvez les brèves qui auscultent le monde politique.",
+"source": "Libération",
+"date": "2026-11-05T10:55:25+00:00",
+"added": "2026-11-05T11:43:40+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": "David Lisnard"
+},
+{
+"id": "bbc4303644bf8547",
+"title": "La directrice de la Ciivise indignée par Julien Odoul qui compare sa commission au… Hamas",
+"link": "https://www.liberation.fr/politique/la-directrice-de-la-ciivise-indignee-par-julien-odoul-qui-compare-sa-commission-au-hamas-20261105_U7RZJX7L6JB3NPKNL7Y5SWYIDY/",
+"summary": "Le député RN avait insulté la Commission indépendante sur l’inceste et les violences sexuelles faites aux enfants.",
+"source": "Libération",
+"date": "2026-11-05T10:45:03+00:00",
+"added": "2026-11-05T11:43:40+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "4518b7b4edb9bbb0",
+"title": "\"Une discussion sur le SMIC devrait relever d'une discussion entre les partenaires sociaux\", estime Édouard Philippe",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-une-discussion-sur-le-smic-devrait-relever-d-une-discussion-entre-les-partenaires-sociaux-estime-edouard-philippe_VN-202611050394.html",
+"summary": "Édouard Philippe, candidat Horizons à l'élection présidentielle, est au salon Euronaval qui se tient à Villepinte, ce jeudi 5 novembre.",
+"source": "BFMTV",
+"date": "2026-11-05T10:44:49+00:00",
+"added": "2026-11-05T11:43:40+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Édouard Philippe"
+},
+{
+"id": "5fd2c70451bbf360",
+"title": "Emmanuel Macron",
+"link": "https://www.bfmtv.com/politique/emmanuel-macron_DN-201609010121.html",
+"summary": "Emmanuel Macron a été élu président de la République en 2017 et 2022 après avoir participé au gouvernement sous François Hollande en tant que ministre de l'Économie.",
+"source": "BFMTV",
+"date": "2026-11-05T10:41:14+00:00",
+"added": "2026-11-05T11:43:40+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "0158c21b68fad699",
+"title": "Quand Edouard Philippe livrait un plaidoyer pro-primaire : «Je ne suis pas par nature un enthousiaste de la primaire…»",
+"link": "https://www.liberation.fr/politique/quand-edouard-philippe-livrait-un-plaidoyer-pro-primaire-je-ne-suis-pas-par-nature-un-enthousiaste-de-la-primaire-20261105_CQQTAGS6IVBIJBHM3J2RXCBKRI/",
+"summary": "Le candidat à l’Elysée, qui se refuse à une compétition de départage avec ses rivaux de droite, n’a pas toujours été un opposant aux primaires.",
+"source": "Libération",
+"date": "2026-11-05T10:39:12+00:00",
+"added": "2026-11-05T11:43:40+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "e811e159860603b8",
+"title": "Débat budgétaire : un jeu de rôles dont tout le monde sort perdant",
+"link": "https://www.liberation.fr/politique/debat-budgetaire-un-jeu-de-roles-dont-tout-le-monde-sort-perdant-20261105_ESRKPZGJKRALVNN3CM273ZNMVQ/",
+"summary": "La partie recettes du projet de loi de finances pour 2027 a été unanimement rejetée par les députés mercredi soir.",
+"source": "Libération",
+"date": "2026-11-05T10:28:04+00:00",
+"added": "2026-11-05T11:43:40+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "cce148ef7024d378",
+"title": "Présidentielle 2027 : « Personne ne gagnera seul », assure Marine Tondelier",
+"link": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-personne-ne-gagnera-seul-assure-marine-tondelier",
+"summary": "Les sondages s’accumulent, et l’étau semble de plus en plus se resserrer pour les Écologistes.",
+"source": "Public Sénat",
+"date": "2026-11-05T10:09:59+00:00",
+"added": "2026-11-05T11:43:40+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Marine Tondelier"
+},
+{
+"id": "5192bba4c3b18254",
+"title": "Philippe accuse Attal de consommer de la cocaïne ? Encore une trace d’ingérence russe dans la présidentielle française",
+"link": "https://www.20minutes.fr/politique/4260447-20261105-philippe-accuse-attal-consommer-cocaine-encore-trace-ingerence-russe-presidentielle-francaise?at_medium=display&at_campaign=149",
+"summary": "Une vidéo publiée sur X attribue des propos à Edouard Philippe au sujet de Gabriel Attal dans le livre « Le crépuscule des princes ».",
+"source": "20 Minutes",
+"date": "2026-11-05T10:08:51+00:00",
+"added": "2026-11-05T11:43:40+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [
+"Réaction"
+],
+"speaker": "Édouard Philippe"
+},
+{
+"id": "d203506784c90ab0",
+"title": "Présidentielle 2027 : Emmanuel Macron veut à tout prix éviter un second tour Le Pen – Mélenchon… voici ce que propose le chef de l’État",
+"link": "https://www.midilibre.fr/2026/11/05/presidentielle-2027-emmanuel-macron-veut-a-tout-prix-eviter-un-second-tour-le-pen-melenchon-voici-ce-que-propose-le-chef-de-letat-13637410.php",
+"summary": "Emmanuel Macron appelle les forces politiques de David Lisnard à Raphaël Glucksmann à former une coalition pour éviter un duel entre extrêmes lors de la présidentielle.",
+"source": "Midi Libre",
+"date": "2026-11-05T10:07:00+00:00",
+"added": "2026-11-05T11:43:40+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"elysee",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Annonce"
+],
+"speaker": "Emmanuel Macron"
+},
+{
+"id": "0f441000357ee39c",
+"title": "Grève du 5 novembre : quelles concessions peuvent espérer les syndicats ?",
+"link": "https://www.la-croix.com/economie/greve-du-5-novembre-quelles-concessions-peuvent-esperer-les-syndicats-20261105",
+"summary": "Les syndicats appellent à faire grève jeudi 5 novembre 2026 sur la question des salaires. Mais face à un gouvernement fortement contraint par le contexte budgétaire et qui ne peut rien promettre au-delà de l’élection présidentielle dans six mois, les chances d’obtenir satisfaction sont minces.",
+"source": "La Croix",
+"date": "2026-11-05T10:00:12+00:00",
+"added": "2026-11-05T11:43:40+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "82a03ec3099a9cba",
+"title": "À l’AMF, David Lisnard peut-il encore compter sur les Républicains ?",
+"link": "https://www.valeursactuelles.com/clubvaleurs/politique/sil-est-tres-bien-reelu-ca-les-met-encore-plus-en-danger-pour-la-presidentielle-a-lamf-david-lisnard-peut-il-encore-compter-sur-les-republicains",
+"summary": "« Même chez certains LR, ça prend aussi. » Philippe Laurent avait glissé la confidence à Public Sénat, le 2 novembre.",
+"source": "Valeurs actuelles",
+"date": "2026-11-05T09:58:21+00:00",
+"added": "2026-11-05T11:43:40+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"parlement",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "e3d3bca3991bdeb2",
+"title": "Bardella en pleine promo littéraire : le tapis rouge et le bras d’honneur",
+"link": "https://www.humanite.fr/politique/extreme-droite/bardella-en-pleine-promo-litteraire-le-tapis-rouge-et-le-bras-dhonneur",
+"summary": "TF1, RTL, Europe 1… La tournée des grands-ducs. Sourires entendus, promotion. Le tapis rouge habituel pour un chef de parti en pleine promo littéraire.",
+"source": "L'Humanité",
+"date": "2026-11-05T09:55:31+00:00",
+"added": "2026-11-05T11:43:40+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "7f18919394e7e94d",
 "title": "Avec le 5 novembre, « paye » pour l’ensemble « de son œuvre », estime Tondelier",
 "link": "https://www.20minutes.fr/politique/4260544-20261105-greve-manifestation-5-novembre-macron-paye-ensemble-uvre-estime-marine-tondelier",
@@ -73,7 +502,9 @@
 "date": "2026-11-05T09:12:26+00:00",
 "added": "2026-11-05T09:47:04+00:00",
 "official": false,
-"also": [],
+"also": [
+"Ouest-France"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -216,7 +647,9 @@
 "date": "2026-11-05T08:24:42+00:00",
 "added": "2026-11-05T09:47:04+00:00",
 "official": false,
-"also": [],
+"also": [
+"Le Point"
+],
 "base": [
 "partis"
 ],
@@ -325,7 +758,9 @@
 "date": "2026-11-05T07:59:51+00:00",
 "added": "2026-11-05T09:47:04+00:00",
 "official": false,
-"also": [],
+"also": [
+"BFMTV"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -415,6 +850,28 @@
 "filtered": true,
 "topics": [
 "partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "dd557d2859ae092f",
+"title": "L'édito d'Alba Ventura : Le Pen/Mélenchon, l’appel à la coalition d’Emmanuel Macron",
+"link": "https://www.tf1info.fr/politique/videos/video-l-edito-d-alba-ventura-le-pen-melenchon-l-appel-a-la-coalition-d-emmanuel-macron-59365-2473964.html",
+"summary": "Alba Ventura revient sur l’appel d’Emmanuel Macron à bâtir une coalition de la droite au centre-gauche. Cette initiative vise à faire barrage au duel annoncé entre Marine Le Pen et Jean-Luc Mélenchon à la présidentielle.",
+"source": "TF1 Info",
+"date": "2026-11-05T06:40:21+00:00",
+"added": "2026-11-05T11:43:40+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"elysee",
+"partis",
+"presidentielle"
 ],
 "natures": [],
 "speaker": ""
@@ -565,7 +1022,8 @@
 "added": "2026-11-05T06:40:44+00:00",
 "official": false,
 "also": [
-"BFMTV"
+"BFMTV",
+"La Provence"
 ],
 "base": [
 "partis"
@@ -744,7 +1202,9 @@
 "date": "2026-11-05T00:37:41+00:00",
 "added": "2026-11-05T06:40:44+00:00",
 "official": false,
-"also": [],
+"also": [
+"L'Opinion"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -805,7 +1265,11 @@
 "date": "2026-11-04T22:58:31+00:00",
 "added": "2026-11-05T06:40:44+00:00",
 "official": false,
-"also": [],
+"also": [
+"BFMTV",
+"La Nouvelle République",
+"Sud Ouest"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -1065,6 +1529,26 @@
 "filtered": true,
 "topics": [
 "partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "7ce6720da7554239",
+"title": "Les sénateurs pour « la suspension de la suspension » de la réforme des retraites",
+"link": "https://www.lefigaro.fr/economie/les-senateurs-pour-la-suspension-de-la-suspension-de-la-reforme-des-retraites-20261104",
+"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
+"source": "Le Figaro",
+"date": "2026-11-04T20:20:00+00:00",
+"added": "2026-11-05T11:43:40+00:00",
+"official": false,
+"also": [],
+"base": [
+"parlement"
+],
+"filtered": true,
+"topics": [
+"parlement"
 ],
 "natures": [],
 "speaker": ""
@@ -2749,7 +3233,8 @@
 "Ouest-France",
 "20 Minutes",
 "Le Figaro",
-"RMC"
+"RMC",
+"RTL"
 ],
 "base": [
 "partis"
@@ -3946,7 +4431,9 @@
 "date": "2026-11-04T10:05:08+00:00",
 "added": "2026-11-04T11:43:33+00:00",
 "official": false,
-"also": [],
+"also": [
+"franceinfo"
+],
 "base": [
 "matinales"
 ],
@@ -13123,314 +13610,6 @@
 "date": "2026-11-02T11:58:47+00:00",
 "topics": [
 "parlement"
-],
-"natures": [],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": ""
-},
-{
-"id": "5bc2136ff7473fef",
-"title": "Présidentielle 2027 : l'idée de primaire de Gabriel Attal patine, qui veut quoi à droite et au centre",
-"link": "https://www.tf1info.fr/politique/elections/presidentielle/presidentielle-2027-l-idee-de-primaire-de-gabriel-attal-patine-qui-veut-quoi-a-droite-et-au-centre-2473367.html",
-"summary": "Ils continuent de ne pas être d'accord. Gabriel Attal est venu redire, ce lundi matin sur TF1 qu'il jugeait \"inéluctable\" l'organisation d'une primaire de la droite et du centre pour éviter un second tour entre Marine Le Pen (RN) et Jean-Luc Mélenchon (LFI).",
-"source": "TF1 Info",
-"date": "2026-11-02T11:38:32+00:00",
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [
-"Sud Ouest",
-"Ouest-France"
-],
-"base": [],
-"filtered": true,
-"speaker": ""
-},
-{
-"id": "4c523f143d83be0e",
-"title": "Glucksmann souhaite l’exclusion électorale des personnes condamnées pour racisme",
-"link": "https://www.20minutes.fr/politique/4259665-20261102-raphael-glucksmann-plaide-ineligibilite-elus-condamnes-racisme",
-"summary": "Il serait « très compliqué » d’interdire une idéologie raciste ou de priver de parole médiatique ceux qui tiennent de tels propos, a jugé Raphaël Glucksmann, ce lundi.",
-"source": "20 Minutes",
-"date": "2026-11-02T11:36:00+00:00",
-"topics": [
-"partis"
-],
-"natures": [],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": "Raphaël Glucksmann"
-},
-{
-"id": "a85b9f883b0443a3",
-"title": "Propos sur l'immigration, attaque contre TF1, riposte sur X : pourquoi Édouard Philippe et Jean-Luc Mélenchon se livrent une passe d'armes depuis dimanche soir",
-"link": "https://www.rtl.fr/actu/politique/propos-sur-l-immigration-attaque-contre-tf1-riposte-sur-x-pourquoi-edouard-philippe-et-jean-luc-melenchon-se-livrent-une-passe-d-armes-depuis-dimanche-soir-7900691417",
-"summary": "Au départ, Édouard Philippe voulait parler de 2027 et redire son refus d'une primaire de la droite et au centre.",
-"source": "RTL",
-"date": "2026-11-02T11:11:43+00:00",
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [
-"La Montagne"
-],
-"base": [],
-"filtered": true,
-"speaker": ""
-},
-{
-"id": "f7843f8cdd73ceae",
-"title": "Présidentielle 2027 : ressusciter le souverainisme de gauche, le pari audacieux de Natacha Polony",
-"link": "https://www.marianne.net/politique/presidentielle-2027-ressusciter-le-souverainisme-de-gauche-le-pari-audacieux-de-natacha-polony",
-"summary": "",
-"source": "Marianne",
-"date": "2026-11-02T11:00:12+00:00",
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": ""
-},
-{
-"id": "1c1bdf207265c63b",
-"title": "Le secrétaire général de l’association de financement de Glucksmann s’était allié avec LFI aux dernières municipales",
-"link": "https://www.liberation.fr/politique/le-secretaire-general-de-lassociation-de-financement-de-glucksmann-setait-allie-avec-lfi-aux-dernieres-municipales-20261102_QWFQVHAJC5DFHMHV7ATEKOAHIA/",
-"summary": "En mars, Frédéric Massot a tenté de devenir maire de Villiers-sur-Marne (Val-de-Marne) avec, au premier tour, une liste d’union de la gauche et des écologistes puis, au second tour, une fusion avec le parti de Jean-Luc Mélenchon.",
-"source": "Libération",
-"date": "2026-11-02T10:58:09+00:00",
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": ""
-},
-{
-"id": "ed0a6bd51c0195d8",
-"title": "Mouvement lycéen : où en est-on des blocus ?",
-"link": "https://www.publicsenat.fr/actualites/politique/mouvement-lyceen-ou-en-est-on-des-blocus",
-"summary": "Sur les 3700 lycées, 41 étaient bloqués ce lundi matin, jour de rentrée des vacances de la Toussaint, selon le ministère de l’Education nationale.",
-"source": "Public Sénat",
-"date": "2026-11-02T10:52:47+00:00",
-"topics": [
-"gouvernement"
-],
-"natures": [],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": ""
-},
-{
-"id": "c5bb91737c1c1b4b",
-"title": "Présidentielle 2027 : en août, Philippe estimait qu’un rassemblement de la droite et du centre se ferait « entre novembre et février",
-"link": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-en-aout-philippe-estimait-quun-rassemblement-de-la-droite-et-du-centre-se-ferait-entre-novembre-et-fevrier-02-11-2026-P5GCD4AX3BBMTMDHVPCKJQAYWQ.php",
-"summary": "L’ex-Premier ministre Édouard Philippe a rejeté dimanche soir une primaire de la droite et du centre, renvoyant chacun à ses « responsabilités » en février.",
-"source": "Le Parisien",
-"date": "2026-11-02T10:45:00+00:00",
-"topics": [
-"elysee",
-"gouvernement",
-"presidentielle"
-],
-"natures": [],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": ""
-},
-{
-"id": "271d0d2ff1d1ec9a",
-"title": "Aurore Bergé ne juge toujours pas «problématiques» ses propos sur la théorie du «grand remplacement»",
-"link": "https://www.liberation.fr/politique/aurore-berge-ne-juge-toujours-pas-problematiques-ses-propos-sur-la-theorie-du-grand-remplacement-20261102_Y5VCWGFABREABEZCF55J33Z2XM/",
-"summary": "Auprès du «Parisien» ce dimanche 1er novembre, la ministre déléguée à la Lutte contre les discriminations n’a émis aucun regret après avoir refusé de qualifier de «raciste» la thèse complotiste, le 9 septembre sur CNews.",
-"source": "Libération",
-"date": "2026-11-02T10:40:54+00:00",
-"topics": [
-"gouvernement"
-],
-"natures": [
-"Citation"
-],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": "Aurore Bergé"
-},
-{
-"id": "4d005c92554ca61b",
-"title": "Pourquoi Glucksmann veut rendre inéligibles les élus condamnés pour racisme",
-"link": "https://www.laprovence.com/article/politique/6293080117730714/presidentielle-2027-raphael-glucksmann-plaide-pour-linegibilite-des-personnes-condamnees-pour-racisme",
-"summary": "Raphaël Glucksmann, lors d'une visite à la librairie des Arcenaulx à Marseille où il a présenté son dernier livre.",
-"source": "La Provence",
-"date": "2026-11-02T10:33:21+00:00",
-"topics": [
-"partis"
-],
-"natures": [],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": "Raphaël Glucksmann"
-},
-{
-"id": "144c59023ed41f31",
-"title": "Mélenchon refuse le 20h de TF1 qui lui répond: \"À peu de frais, il fait une opération politique\", analyse Consigny",
-"link": "https://rmc.bfmtv.com/actualites/politique/melenchon-refuse-le-20h-de-tf1-qui-lui-repond-a-peu-de-frais-il-fait-une-operation-politique-analyse-consigny_AV-202611020437.html",
-"summary": "Jean-Luc Mélenchon a critiqué dimanche 2 novembre l'interview d'Édouard Philippe au 20 heures de TF1 ce dimanche 1er novembre et affirmé ne pas se rendre sur le plateau lundi pour cette raison.",
-"source": "RMC",
-"date": "2026-11-02T10:30:00+00:00",
-"topics": [
-"partis"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": "Jean-Luc Mélenchon"
-},
-{
-"id": "c616656ffb5f4cca",
-"title": "Au JT de TF1, Attal arrive à faire pire que Philippe, Mélenchon ou Bardella mais mieux que Knafo",
-"link": "https://www.liberation.fr/politique/au-jt-de-tf1-attal-arrive-a-faire-pire-que-philippe-melenchon-ou-bardella-mais-mieux-que-knafo-20261102_NVMRWVDM7NFAVBAM545KEOQLN4/",
-"summary": "Interviewé au journal de 20 heures mercredi 28 octobre, l’ancien Premier ministre a plombé les audiences de la première chaîne en quelques minutes.",
-"source": "Libération",
-"date": "2026-11-02T10:23:45+00:00",
-"topics": [
-"elysee",
-"gouvernement",
-"partis"
-],
-"natures": [],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": ""
-},
-{
-"id": "047f2546ecf8ccb3",
-"title": "Sondages, macronisme : les petits arrangements d’Edouard Philippe avec ses paroles et ses actes",
-"link": "https://www.liberation.fr/politique/sondages-macronisme-les-petits-arrangements-dedouard-philippe-avec-ses-paroles-et-ses-actes-20261102_ISE7MSF6OVGYFJPSVAM54F676Y/",
-"summary": "Indiscrétions piquantes, maladresses vaches ou douces confessions : chaque jour, retrouvez les brèves qui auscultent le monde politique.",
-"source": "Libération",
-"date": "2026-11-02T10:23:45+00:00",
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": ""
-},
-{
-"id": "b27acf55ea366c31",
-"title": "Présidentielle 2027 : TF 1 défend le « professionnalisme » d’Anne-Claire Coudray face aux critiques de Jean-Luc Mélenchon",
-"link": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-tf-1-defend-le-professionnalisme-danne-claire-coudray-face-aux-critiques-de-jean-luc-melenchon-02-11-2026-AZAP3HF6OJDIHAP35SULUQARDY.php",
-"summary": "Le candidat insoumis a accusé dimanche la journaliste de « reprendre à son compte les calomnies racistes » d’Édouard Philippe, qui pointait la « surreprésentation » des jeunes issus de l’immigration lors des émeutes du 17 octobre.",
-"source": "Le Parisien",
-"date": "2026-11-02T10:23:35+00:00",
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": "Anne-Claire Coudray"
-},
-{
-"id": "93c51170b423d7c6",
-"title": "Présidentielle: François Ruffin veut supprimer tous les avantages des anciens présidents de la République",
-"link": "https://rmc.bfmtv.com/actualites/politique/presidentielle-francois-ruffin-veut-supprimer-tous-les-avantages-des-anciens-presidents-de-la-republique_AV-202611020310.html",
-"summary": "\"L'exemple doit venir d'en haut\": François Ruffin veut supprimer les avantages des anciens présidents de la République.",
-"source": "BFMTV",
-"date": "2026-11-02T09:57:22+00:00",
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": "François Ruffin"
-},
-{
-"id": "f0bf3cffadfff16f",
-"title": "J-1 avant les Midterms : les républicains déçus, quels enjeux ?",
-"link": "https://www.france24.com/fr/vid%C3%A9o/20261102-j-1-avant-les-midterms-les-r%C3%A9publicains-d%C3%A9cus-quels-enjeux",
-"summary": "",
-"source": "France 24",
-"date": "2026-11-02T09:48:48+00:00",
-"topics": [
-"partis"
-],
-"natures": [],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": ""
-},
-{
-"id": "a673fa5561929363",
-"title": "Faut-il changer les dates de la présidentielle 2027? Le second tour de l'élection au lendemain du 1er-Mai divise les candidats",
-"link": "https://www.bfmtv.com/politique/faut-il-changer-les-dates-de-la-presidentielle-2027-le-second-tour-de-l-election-au-lendemain-du-1er-mai-divise-les-candidats_AD-202611020404.html",
-"summary": "Photographie d'illustration, bulletin dans l'urne à l'école maternelle Romain Rolland de Valence, dans le sud-est de la France, le 15 mars 2026. - Photo par NICOLAS GUYONNET / HANS LUCAS / HANS LUCAS VIA AFP\nAu départ, il s’agit d’une question constitutionnelle.",
-"source": "BFMTV",
-"date": "2026-11-02T09:47:59+00:00",
-"topics": [
-"presidentielle"
 ],
 "natures": [],
 "added": "2026-11-03T16:34:12+00:00",
