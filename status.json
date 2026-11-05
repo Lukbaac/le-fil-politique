@@ -7,44 +7,45 @@
 },
 {
 "name": "Sénat – Communiqués",
-"ok": false,
-"error": "<urlopen error [Errno 101] Network is unreachable>"
+"ok": true,
+"items": 5,
+"new": 0
 },
 {
 "name": "LCP",
 "ok": true,
 "items": 100,
-"new": 0
+"new": 1
 },
 {
 "name": "Public Sénat",
 "ok": true,
 "items": 60,
-"new": 0
+"new": 2
 },
 {
 "name": "Le Monde",
 "ok": true,
 "items": 20,
-"new": 1
+"new": 0
 },
 {
 "name": "franceinfo",
 "ok": true,
 "items": 20,
-"new": 0
+"new": 4
 },
 {
 "name": "Le Figaro",
 "ok": true,
 "items": 20,
-"new": 0
+"new": 1
 },
 {
 "name": "Libération",
 "ok": true,
 "items": 50,
-"new": 0
+"new": 1
 },
 {
 "name": "La Croix",
@@ -68,37 +69,37 @@
 "name": "20 Minutes",
 "ok": true,
 "items": 20,
+"new": 1
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 36,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 32,
-"new": 2
+"items": 17,
+"new": 1
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 18,
+"items": 41,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 44,
+"items": 15,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 16,
-"new": 0
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 35,
-"new": 2
+"items": 37,
+"new": 1
 },
 {
 "name": "Google Actualités",
@@ -110,25 +111,25 @@
 "name": "Google Actualités",
 "ok": true,
 "items": 100,
-"new": 0
+"new": 1
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 95,
+"new": 1
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 48,
+"new": 1
 },
 {
 "name": "Google Actualités",
 "ok": true,
 "items": 100,
 "new": 1
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 46,
-"new": 0
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 100,
-"new": 0
 },
 {
 "name": "Google Actualités",
@@ -139,37 +140,37 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 26,
-"new": 0
+"items": 18,
+"new": 2
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 28,
+"items": 29,
 "new": 1
 },
 {
 "name": "Google Actualités",
 "ok": true,
 "items": 100,
+"new": 2
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 17,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 16,
+"items": 25,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 27,
-"new": 0
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 51,
+"items": 50,
 "new": 0
 }
 ]
