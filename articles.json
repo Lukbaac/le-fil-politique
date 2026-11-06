@@ -1,5 +1,416 @@
 [
 {
+"id": "a9d04848a91a69a5",
+"title": "Sébastien Lecornu Premier ministre",
+"link": "https://www.bfmtv.com/politique/gouvernement/sebastien-lecornu-premier-ministre_DN-202509100375.html",
+"summary": "Sébastien Lecornu a été nommé Premier ministre le 9 septembre 2025, après la chute du gouvernement de François Bayrou, qui n'a pas obtenu la confiance de l'Assemblée nationale.",
+"source": "BFMTV",
+"date": "2026-11-06T13:56:44+00:00",
+"added": "2026-11-06T13:59:02+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement",
+"parlement",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "b2e92ad560604455",
+"title": "\"Rien n'est tranché\": après le rejet du projet de budget 2027 en première lecture, que va faire Sébastien Lecornu?",
+"link": "https://www.bfmtv.com/politique/gouvernement/rien-n-est-tranche-apres-le-rejet-du-projet-de-budget-2027-en-premiere-lecture-que-va-faire-sebastien-lecornu_AN-202611060572.html",
+"summary": "Après le rejet à l'unanimité par l'Assemblée nationale du projet de budget pour 2027, Matignon travaille sur deux scénarios, celui du 49.3 et celui des ordonnances.",
+"source": "BFMTV",
+"date": "2026-11-06T13:56:43+00:00",
+"added": "2026-11-06T13:59:02+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "41f1602e383cdc08",
+"title": "\"Je suis scandalisée quand on s'en prend aux journalistes\", assure la ministre de la Culture après l'interview de Sarah Knafo sur franceinfo",
+"link": "https://www.franceinfo.fr/economie/medias/je-suis-scandalisee-quand-on-s-en-prend-aux-journalistes-assure-la-ministre-de-la-culture-apres-l-interview-de-sarah-knafo-sur-franceinfo_8266601.html#xtor=RSS-3-%5Bgeneral%5D",
+"summary": "Sur France Culture, Catherine Pégard réagit au face-à-face tendu, lors du 8h30 de franceinfo du mercredi 28 octobre dernier, entre l'eurodéputée de Reconquête et le duo d'intervieweurs de la matinale.",
+"source": "franceinfo",
+"date": "2026-11-06T13:49:32+00:00",
+"added": "2026-11-06T13:59:02+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"gouvernement",
+"partis"
+],
+"natures": [
+"Citation",
+"Interview"
+],
+"speaker": "Sarah Knafo"
+},
+{
+"id": "217417506111b76f",
+"title": "Manifestants blessés : des avocats annoncent qu’ils vont saisir la Cour de justice de la République contre Laurent Nuñez, le ministre de l’intérieur",
+"link": "https://www.lemonde.fr/societe/article/2026/11/06/manifestants-blesses-des-avocats-annoncent-qu-ils-vont-saisir-la-cour-de-justice-de-la-republique-contre-laurent-nunez-le-ministre-de-l-interieur_6807793_3224.html",
+"summary": "« Il est impératif de viser celui qui est à l’origine des mutilations et des dégâts massifs », a déclaré l’avocat Arié Alimi, qui a ajouté que cette plainte collective sera présentée d’ici à « trois semaines ».",
+"source": "Le Monde",
+"date": "2026-11-06T13:38:38+00:00",
+"added": "2026-11-06T13:59:02+00:00",
+"official": false,
+"also": [
+"franceinfo"
+],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "2f5f63b784f093d9",
+"title": "[Podcasts] Le prono du jour - Laura Warton Martinez : \"Moi, je dis Le Pen face à Christine Lagarde.\" Mourad Boudjellal : \"Je ne vois pas Mélenchon au second tour. Je vois un second tour Bardella/Philippe et une victoire de Philippe\" - 06/11",
+"link": "https://rmc.bfmtv.com/replay-emissions/les-grandes-gueules/le-prono-du-jour-laura-warton-martinez-moi-je-dis-le-pen-face-a-christine-lagarde-mourad-boudjellal-je-ne-vois-pas-melenchon-au-second-tour-je-vois-un-second-tour-bardella-philippe-et-une-victoire-de-philippe-06-11_EN-202611060535.html",
+"summary": "Aujourd'hui, Mourad Boudjellal, éditeur de BD, Laura Warton Martinez, sophrologue, et Antoine Diers, consultant juridique, débattent de l'actualité autour d'Alain Marschall et Olivier Truchot.",
+"source": "RMC",
+"date": "2026-11-06T13:24:29+00:00",
+"added": "2026-11-06T13:59:02+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Laura Warton Martinez"
+},
+{
+"id": "e90208eb18c7a2bc",
+"title": "Présidentielle 2027 : « Liberté, Égalité, Solidarité », Jean-Luc Mélenchon dévoile une nouvelle affiche de campagne",
+"link": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-liberte-egalite-solidarite-jean-luc-melenchon-devoile-une-nouvelle-affiche-de-campagne-06-11-2026-B6WRBL2BNNHSPFP7JVDPYCLSNI.php",
+"summary": "",
+"source": "Le Parisien",
+"date": "2026-11-06T13:06:47+00:00",
+"added": "2026-11-06T13:59:02+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Annonce"
+],
+"speaker": ""
+},
+{
+"id": "396ec2d35c665fd1",
+"title": "Présidentielle 2027: Gabriel Attal estime qu'une primaire de la droite et du centre pourrait aboutir \"rapidement\"",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/presidentielle-2027-gabriel-attal-estime-qu-une-primaire-de-la-droite-et-du-centre-pourrait-aboutir-rapidement_AD-202611060522.html",
+"summary": "Le patron de Renaissance et candidat à la présidentielle continue de mettre la pression sur Édouard Philippe, qui refuse de participer à ce processus.",
+"source": "BFMTV",
+"date": "2026-11-06T13:04:18+00:00",
+"added": "2026-11-06T13:59:02+00:00",
+"official": false,
+"also": [
+"France 24"
+],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Gabriel Attal"
+},
+{
+"id": "ca76b55e9d075c98",
+"title": "Gabriel Attal",
+"link": "https://www.bfmtv.com/politique/gabriel-attal_DN-202108310662.html",
+"summary": "Gabriel Attal est candidat à la présidentielle de 2027 pour le parti Renaissance. Auparavant membre du Parti socialiste, il a été élu député de la 11e circonscription des Hauts-de-Seine en 2017, sous l'étiquette En Marche.",
+"source": "BFMTV",
+"date": "2026-11-06T13:04:18+00:00",
+"added": "2026-11-06T13:59:02+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement",
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "ebc9782b2ef116d7",
+"title": "Manifestations du 7 novembre : à Paris, des « gilets jaunes » maintiennent leur appel à un rassemblement place de la Concorde, interdit par la Préfecture de police",
+"link": "https://www.lemonde.fr/politique/article/2026/11/06/manifestations-du-7-novembre-a-paris-des-gilets-jaunes-maintiennent-leur-appel-a-un-rassemblement-place-de-la-concorde-interdit-par-la-prefecture-de-police_6807790_823448.html",
+"summary": "La place de la Concorde est « un lieu emblématique, près de l’Assemblée nationale, un lieu de pouvoir », a souligné leur avocat, David Libeskind, estimant que la manifestation prévue sur le parcours intersyndical autorisé, entre les places de la République et de la Nation, ne les « concerne pas ».",
+"source": "Le Monde",
+"date": "2026-11-06T13:02:41+00:00",
+"added": "2026-11-06T13:59:02+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "d71f1b449ebca3f8",
+"title": "«Le racisme anti-Blancs a tué à Crépol», assure Édouard Philippe",
+"link": "https://www.valeursactuelles.com/politique/presidentielle-2027-le-racisme-anti-blancs-a-tue-a-crepol-assure-edouard-philippe-a-propos-du-meurtre-de-thomas",
+"summary": "En déplacement dans la petite commune de Zuydcoote (Nord) mercredi 4 novembre, Édouard Philippe est revenu sur la violente agression de jeunes catholiques à Rouen samedi 31 octobre.",
+"source": "Valeurs actuelles",
+"date": "2026-11-06T13:01:28+00:00",
+"added": "2026-11-06T13:59:02+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Édouard Philippe"
+},
+{
+"id": "0f58d69bc54f8800",
+"title": "Accident de car dans l'Ain: le conducteur avait été testé négatif aux stupéfiants il y a trois semaines, annonce le ministre des Transports",
+"link": "https://www.bfmtv.com/politique/video-accident-de-car-dans-l-ain-le-conducteur-avait-ete-teste-negatif-aux-stupefiants-il-y-a-trois-semaines-annonce-le-ministre-des-transports_VN-202611060514.html",
+"summary": "Un accident de car s'est produit ce vendredi 6 novembre dans le secteur de la commune de Lent, dans l'Ain. Au moins deux personnes sont mortes. 16 ont été blessées dont quatre gravement, selon la préfecture.",
+"source": "BFMTV",
+"date": "2026-11-06T12:35:46+00:00",
+"added": "2026-11-06T13:59:02+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [
+"Annonce"
+],
+"speaker": ""
+},
+{
+"id": "65be32c6ecedc798",
+"title": "« Un chaos politique » : le rejet historique du budget plonge l’Assemblée nationale dans la crise",
+"link": "https://www.valeursactuelles.com/clubvaleurs/politique/un-chaos-politique-le-rejet-historique-du-budget-plonge-lassemblee-nationale-dans-la-crise",
+"summary": "C’est une douche froide pour le gouvernement. Par 458 voix contre, les députés ont unanimement rejeté en première lecture la partie « recettes » du projet de loi des finances.",
+"source": "Valeurs actuelles",
+"date": "2026-11-06T12:30:36+00:00",
+"added": "2026-11-06T13:59:02+00:00",
+"official": false,
+"also": [],
+"base": [
+"parlement"
+],
+"filtered": true,
+"topics": [
+"gouvernement",
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "0412a028300b1d10",
+"title": "\"Elle est le parfait visage pour l’incarner…\" : Mariam Maroufi est la nouvelle secrétaire de la section alésienne du Parti socialiste",
+"link": "https://www.midilibre.fr/2026/11/06/elle-est-le-parfait-visage-pour-lincarner-mariam-maroufi-est-la-nouvelle-secretaire-de-la-section-alesienne-du-parti-socialiste-13639590.php",
+"summary": "Âgée de 31 ans, Mariam Maroufi succède ainsi à Christiane Thomas. La jeune femme, enseignante dans un lycée professionnel nîmois, vit à Alès depuis trois ans et demi.",
+"source": "Midi Libre",
+"date": "2026-11-06T12:29:00+00:00",
+"added": "2026-11-06T13:59:02+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "181834fae30e1a78",
+"title": "La maire de Menton Alexandra Masson nommée responsable du volet tourisme de la campagne de Marine Le Pen pour 2027",
+"link": "https://www.nicematin.com/societe/politique/la-maire-de-menton-alexandra-masson-nommee-responsable-du-volet-tourisme-de-la-campagne-de-marine-le-pen-pour-2027-10754644",
+"summary": "La candidate Rassemblement national à l’élection présidentielle, Marine Le Pen, a confié à Alexandra Masson la préparation du volet tourisme de son programme pour 2027.",
+"source": "Nice-Matin",
+"date": "2026-11-06T12:20:17+00:00",
+"added": "2026-11-06T13:59:02+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "8d475d8c9b1ddac6",
+"title": "Accident de car dans l'Ain: le ministre des Transports annonce qu'un jeune de 18 ans et une enfant de 7 ans ont été tués",
+"link": "https://www.bfmtv.com/politique/video-accident-de-car-dans-l-ain-le-ministre-des-transports-annonce-qu-un-jeune-de-18-ans-et-une-enfant-de-7-ans-ont-ete-tues_VN-202611060504.html",
+"summary": "Un accident de car s'est produit ce vendredi 6 novembre dans le secteur de la commune de Lent, dans l'Ain. Au moins deux personnes sont mortes. 16 ont été blessées dont quatre gravement, selon la préfecture.",
+"source": "BFMTV",
+"date": "2026-11-06T12:18:06+00:00",
+"added": "2026-11-06T13:59:02+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [
+"Annonce"
+],
+"speaker": ""
+},
+{
+"id": "0208a0296a7f35e9",
+"title": "Empêcher Glucksmann de défiler devrait révolter tout le monde à gauche, y compris les insoumis",
+"link": "https://www.liberation.fr/politique/elections/empecher-glucksmann-de-defiler-devrait-revolter-tout-le-monde-a-gauche-y-compris-les-insoumis-20261106_BTBW7YCGNBFJRP24M2BJESFON4/",
+"summary": "Le candidat investi par le Parti socialiste à la présidentielle n’a pas pu manifester plus d’une heure jeudi 5 novembre.",
+"source": "Libération",
+"date": "2026-11-06T12:17:13+00:00",
+"added": "2026-11-06T13:59:02+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "6bf430e642f2707a",
+"title": "Présidentielle 2027 : «Si Mélenchon dispose d’un socle très solide, il est à un niveau de rejet sans équivalent»",
+"link": "https://www.liberation.fr/politique/elections/presidentielle-2027-si-melenchon-dispose-dun-socle-tres-solide-il-est-a-un-niveau-de-rejet-sans-equivalent-20261106_RMCTIM53B5D7RKJW32ABCTY76M/",
+"summary": "Pour Antoine Bristielle, directeur de l’Observatoire de l’opinion de la Fondation Jean-Jaurès, il reste très difficile de comprendre comment, dans un second tour face à Marine Le Pen, le candidat insoumis pourrait compenser son retard vu les oppositions qu’il suscite.",
+"source": "Libération",
+"date": "2026-11-06T12:11:19+00:00",
+"added": "2026-11-06T13:59:02+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "a8fd32c3077cf83b",
+"title": "Plus de la moitié des fonctionnaires affectés en cabinet perçoivent une rémunération égale ou supérieure à celle de leur ministre",
+"link": "https://lcp.fr/actualites/plus-de-la-moitie-des-fonctionnaires-affectes-en-cabinet-percoivent-une-remuneration",
+"summary": "C'est une statistique surprenante révélée par René Dosière, président de l'Observatoire de l'éthique publique.",
+"source": "LCP",
+"date": "2026-11-06T12:05:55+00:00",
+"added": "2026-11-06T13:59:02+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "aab5812a57311031",
+"title": "Au Japon, l'IA aide les ministres à répondre aux questions piégeuses des parlementaires",
+"link": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/au-japon-l-ia-aide-les-ministres-a-repondre-aux-questions-piegeuses-des-parlementaires_8249878.html#xtor=RSS-3-%5Bgeneral%5D",
+"summary": "Le gouvernement japonais vient de créer une plateforme d’intelligence artificielle pour faire gagner du temps aux haut-fonctionnaires chargés de documenter les réponses.",
+"source": "franceinfo",
+"date": "2026-11-06T11:44:10+00:00",
+"added": "2026-11-06T13:59:02+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement",
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "5b22f8bcfaf4002c",
+"title": "Des primaires à droite? \"Il faudrait au moins qu'on ait la maturité pour faire trois débats\", estime Bruno Retailleau",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-des-primaires-a-droite-il-faudrait-au-moins-qu-on-ait-la-maturite-pour-faire-trois-debats-estime-bruno-retailleau_VN-202611060481.html",
+"summary": "Bruno Retailleau, candidat LR à l'élection présidentielle, est présent aux Rencontres de l'avenir à Saint-Raphaël, ce vendredi 6 novembre.",
+"source": "BFMTV",
+"date": "2026-11-06T11:39:37+00:00",
+"added": "2026-11-06T13:59:02+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Bruno Retailleau"
+},
+{
 "id": "89e3c2f9371a0515",
 "title": "Présidentielle 2027: Bruno Retailleau \"pense\" que Jean-Luc Mélenchon dépassera \"le seuil de 20%\"",
 "link": "https://www.bfmtv.com/politique/la-france-insoumise/video-presidentielle-2027-bruno-retailleau-pense-que-jean-luc-melenchon-depassera-le-seuil-de-20_VN-202611060480.html",
@@ -75,6 +486,26 @@
 ],
 "natures": [],
 "speaker": "Bruno Retailleau"
+},
+{
+"id": "5fdc0eb21ff7052f",
+"title": "Les inquiétantes mesures de LFI pour construire la « Nouvelle France »",
+"link": "https://www.valeursactuelles.com/politique/presidentielle-2027-les-inquietantes-mesures-de-lfi-pour-construire-la-nouvelle-france-devoilees-dans-lavenir-en-commun",
+"summary": "« Faire face à l’urgence sociale et répondre à la crise de la civilisation humaine ouverte par le changement climatique et le retour de la guerre généralisée. »",
+"source": "Valeurs actuelles",
+"date": "2026-11-06T11:01:32+00:00",
+"added": "2026-11-06T13:59:02+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
 },
 {
 "id": "e1a074bab703a0b1",
@@ -281,6 +712,27 @@
 ],
 "natures": [],
 "speaker": "Jean-Luc Mélenchon"
+},
+{
+"id": "e258cf49353504c7",
+"title": "« On ne les entend pas » : au Sénat, la très discrète arrivée du Rassemblement national",
+"link": "https://www.leparisien.fr/elections/presidentielle/on-ne-les-entend-pas-au-senat-la-tres-discrete-arrivee-du-rassemblement-national-06-11-2026-3FJE7S34W5GJFB3N6KJRYJELME.php",
+"summary": "",
+"source": "Le Parisien",
+"date": "2026-11-06T10:30:39+00:00",
+"added": "2026-11-06T13:59:02+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"parlement",
+"partis"
+],
+"natures": [],
+"speaker": ""
 },
 {
 "id": "d04a78768b600769",
@@ -821,7 +1273,9 @@
 "date": "2026-11-06T07:44:09+00:00",
 "added": "2026-11-06T07:56:02+00:00",
 "official": false,
-"also": [],
+"also": [
+"RMC"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -949,7 +1403,9 @@
 "official": false,
 "also": [
 "Le Monde",
-"Libération"
+"Libération",
+"Les Echos",
+"La Provence"
 ],
 "base": [],
 "filtered": true,
@@ -1004,6 +1460,26 @@
 "speaker": ""
 },
 {
+"id": "d3272280ee322ceb",
+"title": "Présidentielle 2027 : le mirage des programmes",
+"link": "https://www.lesechos.fr/idees-debats/editos-analyses/le-mirage-des-programmes-2261456",
+"summary": "",
+"source": "Les Echos",
+"date": "2026-11-06T07:00:40+00:00",
+"added": "2026-11-06T13:59:02+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "f9cbe3c4f456858d",
 "title": "EDITO. Une fin de règne bien solitaire pour Emmanuel Macron",
 "link": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-une-fin-de-regne-bien-solitaire-pour-emmanuel-macron_8249893.html#xtor=RSS-3-%5Bgeneral%5D",
@@ -1037,6 +1513,27 @@
 "filtered": true,
 "topics": [
 "partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "7f026761e491a65e",
+"title": "Le « collectivisme écologique », nouvelle matrice du programme de Jean-Luc Mélenchon",
+"link": "https://www.contexte.com/fr/article/pouvoirs/le-collectivisme-ecologique-nouvelle-matrice-du-programme-de-jean-luc-melenchon_283805",
+"summary": "Il y a d’abord eu la déclaration de candidature, en mai : « [mon] entrée dans l’eau », dit en privé Jean-Luc Mélenchon.",
+"source": "Contexte",
+"date": "2026-11-06T07:00:00+00:00",
+"added": "2026-11-06T13:59:02+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
 ],
 "natures": [],
 "speaker": ""
@@ -1442,7 +1939,10 @@
 "date": "2026-11-06T05:22:33+00:00",
 "added": "2026-11-06T11:41:11+00:00",
 "official": false,
-"also": [],
+"also": [
+"Public Sénat",
+"Le Parisien"
+],
 "base": [
 "presidentielle"
 ],
@@ -1952,6 +2452,26 @@
 "filtered": true,
 "topics": [
 "gouvernement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "2588b37a74ccd4ad",
+"title": "Jordan Bardella à Hénin-Beaumont : des centaines de sympathisants, des forces de police et une quarantaine de manifestants",
+"link": "https://www.lavoixdunord.fr/1752398/article/2026-11-05/une-quarantaine-de-manifestants-pour-accueillir-les-sympathisants-de-jordan",
+"summary": "",
+"source": "La Voix du Nord",
+"date": "2026-11-05T20:33:20+00:00",
+"added": "2026-11-06T13:59:02+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
 ],
 "natures": [],
 "speaker": ""
@@ -5728,6 +6248,30 @@
 ],
 "natures": [],
 "speaker": ""
+},
+{
+"id": "53f6d21e3b0028cc",
+"title": "Présidentielle 2027 : Gabriel Attal répond à Édouard Philippe et refuse de « trier » les Français",
+"link": "https://www.sudouest.fr/politique/presidentielle-2027-gabriel-attal-repond-a-edouard-philippe-et-refuse-de-trier-les-francais-31390289.php",
+"summary": "",
+"source": "Sud Ouest",
+"date": "2026-11-05T06:25:04+00:00",
+"added": "2026-11-06T13:59:02+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "Gabriel Attal"
 },
 {
 "id": "d41e1a3bd27a45c9",
@@ -14700,404 +15244,5 @@
 "base": [],
 "filtered": true,
 "speaker": ""
-},
-{
-"id": "4571d3eb2466e9c3",
-"title": "Assemblée nationale : suivez en intégralité la séance des Questions au gouvernement",
-"link": "https://www.cnews.fr/france/2026-11-03/assemblee-nationale-suivez-en-integralite-la-seance-des-questions-au-gouvernement",
-"summary": "Les ministres répondent aux députés à l’Assemblée nationale, lors de la séance des Questions au gouvernement, ce mardi 3 novembre à partir de 15h.",
-"source": "CNews",
-"date": "2026-11-03T13:54:55+00:00",
-"topics": [
-"gouvernement",
-"parlement"
-],
-"natures": [],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": ""
-},
-{
-"id": "5d1f5c626818f1f7",
-"title": "Comment s’explique la progression de Marine Le Pen dans les sondages, notamment au second tour ?",
-"link": "https://www.lefigaro.fr/elections/presidentielles/comment-s-explique-la-progression-de-marine-le-pen-dans-les-sondages-notamment-au-second-tour-20261103",
-"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
-"source": "Le Figaro",
-"date": "2026-11-03T13:45:03+00:00",
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": ""
-},
-{
-"id": "1d3cdf03a4492f78",
-"title": "«Montée de la haine et du racisme», menaces contre LFI et la CGT : Fabien Roussel fait le parallèle avec «les années 30»",
-"link": "https://www.liberation.fr/politique/elections/montee-de-la-haine-et-du-racisme-mise-a-lindex-de-lfi-et-de-la-cgt-fabien-roussel-fait-le-parallele-avec-les-annees-30-20261103_TWCEAF5FLFDFZLBFJHWNLEYOHU/",
-"summary": "Le candidat communiste à la présidentielle s’est inquiété ce mardi 3 novembre d’une persistance accrue de la violence de l’extrême droite dans le débat public, dessinant des traits communs avec la période qui a vu le fascisme et le nazisme arriver au pouvoir en Europe.",
-"source": "Libération",
-"date": "2026-11-03T13:37:04+00:00",
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [
-"20 Minutes"
-],
-"base": [],
-"filtered": true,
-"speaker": "Fabien Roussel"
-},
-{
-"id": "20539a1fc9a700e3",
-"title": "audition de Laurent Nuñez : les services de renseignement avaient alerté sur « l’ensemble des risques qui se sont avérés exacts le 17 octobre », assure le ministre de l’intérieur devant la commission d’enquête",
-"link": "https://www.lemonde.fr/politique/live/2026/11/03/en-direct-audition-de-laurent-nunez-le-ministre-de-l-interieur-attendu-devant-la-commission-d-enquete-sur-les-violences-du-17-octobre-a-16-h-30_6805591_823448.html",
-"summary": "La commission doit se pencher, entre autres, sur « la façon dont les pouvoirs publics se préparent en amont de tels événements », mais aussi sur les « renseignements et les moyens dont ils disposent », alors que l’exécutif a reconnu des défaillances et que le ministre de l’intérieur avait remis sa démission − refusée…",
-"source": "Le Monde",
-"date": "2026-11-03T13:34:22+00:00",
-"topics": [
-"gouvernement",
-"parlement"
-],
-"natures": [
-"Citation"
-],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": ""
-},
-{
-"id": "8b7722bdeeaa3b4a",
-"title": "Procréation médicalement assistée: Marine Tondelier apporte son soutien à une proposition de loi visant à légaliser un examen interdit en France",
-"link": "https://lcp.fr/actualites/procreation-medicalement-assistee-marine-tondelier-apporte-son-soutien-a-une-proposition",
-"summary": "La candidate écologiste à l'élection présidentielle, Marine Tondelier, a apporté son soutien à une proposition de loi visant à légaliser le \"diagnostic génétique préimplantatoire des aneuploïdies\" (DPI-A), auquel elle-même a recouru lors de son parcours infructueux de procréation médicalement assistée (PMA).",
-"source": "LCP",
-"date": "2026-11-03T13:28:45+00:00",
-"topics": [
-"parlement",
-"presidentielle"
-],
-"natures": [],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [
-"Le Parisien"
-],
-"base": [],
-"filtered": true,
-"speaker": ""
-},
-{
-"id": "ec730cf7d3e63dae",
-"title": "Marseille sous haute sécurité pour le meeting de Jean-Luc Mélenchon",
-"link": "https://www.tf1info.fr/politique/elections/presidentielle/marseille-sous-haute-securite-pour-le-meeting-de-jean-luc-melenchon-2044428.html",
-"summary": "Marseille sera placée sous haute surveillance ce dimanche à l'occasion du meeting en plein air de Jean-Luc Mélenchon sur le Vieux-Port ; un meeting qui devrait réunir des dizaines de milliers de personnes.",
-"source": "TF1 Info",
-"date": "2026-11-03T13:21:19+00:00",
-"added": "2026-11-05T06:40:44+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Discours"
-],
-"speaker": ""
-},
-{
-"id": "5d60ac6ef5c9b7a3",
-"title": "Présidentielle 2027 : qui bénéficierait d’un retrait de Gabriel Attal de la course à l’Élysée ?",
-"link": "https://www.lefigaro.fr/elections/presidentielles/candidats/presidentielle-2027-qui-beneficierait-d-un-retrait-de-gabriel-attal-de-la-course-a-l-elysee-20261103",
-"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
-"source": "Le Figaro",
-"date": "2026-11-03T13:11:03+00:00",
-"topics": [
-"elysee",
-"presidentielle"
-],
-"natures": [],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": ""
-},
-{
-"id": "c3b55429bdbab63d",
-"title": "« Christine Lagarde entend jouer un rôle dans la campagne présidentielle. Pour y faire quoi ? »",
-"link": "https://www.lemonde.fr/idees/article/2026/11/03/christine-lagarde-entend-jouer-un-role-dans-la-campagne-presidentielle-pour-y-faire-quoi_6805583_3232.html",
-"summary": "La présidente de la BCE quittera son poste en février 2027, huit mois avant la fin de son mandat, pour retrouver sa « liberté d’expression ».",
-"source": "Le Monde",
-"date": "2026-11-03T13:00:12+00:00",
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": ""
-},
-{
-"id": "78b6c03f1e5fdfe1",
-"title": "Présidentielle 2027 : Fabien Roussel va organiser un meeting le 6 décembre à Avion, le lendemain de celui de Jean-Luc Mélenchon au Havre",
-"link": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-fabien-roussel-va-organiser-un-meeting-le-6-decembre-a-avion-le-lendemain-de-celui-de-jean-luc-melenchon-au-havre-03-11-2026-O54LVECQMVHSDORHGJRKMBTYQ4.php",
-"summary": "Un premier grand meeting pour faire décoller sa campagne ?",
-"source": "Le Parisien",
-"date": "2026-11-03T12:59:56+00:00",
-"topics": [
-"presidentielle"
-],
-"natures": [
-"Discours"
-],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": ""
-},
-{
-"id": "07898b023701ab19",
-"title": "Secouez Emmanuel Macron, \"vous allez voir les billets qui vont tomber\"",
-"link": "https://www.franceinfo.fr/politique/fabien-roussel/secouez-emmanuel-macron-vous-allez-voir-les-billets-qui-vont-tomber_8265863.html#xtor=RSS-3-%5Bgeneral%5D",
-"summary": "Trouver de l’argent pour les lycées et les facs ? Pour Fabien Roussel, candidat à la présidentielle pour le Parti communiste, il suffit de “secouer” Emmanuel Macron.",
-"source": "franceinfo",
-"date": "2026-11-03T12:47:41+00:00",
-"topics": [
-"elysee",
-"partis",
-"presidentielle"
-],
-"natures": [],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": ""
-},
-{
-"id": "d65867d8fe177ac1",
-"title": "Au Sénégal, un budget crucial rejeté par l'Assemblée nationale",
-"link": "https://www.france24.com/fr/afrique/20261103-au-s%C3%A9n%C3%A9gal-un-budget-crucial-rejet%C3%A9-par-l-assembl%C3%A9e-nationale-pour-la-troisi%C3%A8me-fois",
-"summary": "",
-"source": "France 24",
-"date": "2026-11-03T12:31:40+00:00",
-"topics": [
-"parlement"
-],
-"natures": [],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": ""
-},
-{
-"id": "c2ed761f67f4af98",
-"title": "Un sondage défavorable ? Jean-Luc Mélenchon le retourne à son avantage",
-"link": "https://www.tf1info.fr/politique/elections/presidentielle/un-sondage-defavorable-jean-luc-melenchon-le-retourne-a-son-avantage-2000467.html",
-"summary": "Un sondage présenté comme défavorable ? Passez-le moi, que je retourne ses résultats.",
-"source": "TF1 Info",
-"date": "2026-11-03T12:20:22+00:00",
-"added": "2026-11-04T19:45:39+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "7169fba7eacf69e4",
-"title": "\"L'Histoire peut bégayer\" : Fabien Roussel fait un parralèle entre la situation actuelle en France et les années 1930",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-l-histoire-peut-begayer-fabien-roussel-fait-un-parralele-entre-la-situation-actuelle-en-france-et-les-annees-1930_VN-202611030553.html",
-"summary": "Le candidat PCF à la présidentielle Fabien Roussel s'exprime lors d'une conférence de presse mardi 3 novembre à Paris et évoque l'attentat raciste de Trappes.",
-"source": "BFMTV",
-"date": "2026-11-03T12:09:46+00:00",
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": "Fabien Roussel"
-},
-{
-"id": "6b92976692f6f13c",
-"title": "Face à la mobilisation, l’exécutif à côté de la plaque",
-"link": "https://www.liberation.fr/politique/face-a-la-mobilisation-lexecutif-a-cote-de-la-plaque-20261103_H6LRH2E76JFWLEDA7F5YVXTRDM/",
-"summary": "On se demande si le gouvernement est simplement contraint par son manque de force politique et de moyens ou si – et c’est peut-être pire – il ne mesure pas complètement l’ampleur du malaise et l’intensité de la colère qui gronde.",
-"source": "Libération",
-"date": "2026-11-03T12:06:25+00:00",
-"topics": [
-"gouvernement"
-],
-"natures": [],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": ""
-},
-{
-"id": "7940431aebd57aea",
-"title": "\"Nous abrogerons la loi Hulot\" : Marine Le Pen à la conquête de l'or noir ?",
-"link": "https://www.valeursactuelles.com/politique/nous-abrogerons-la-stupide-loi-hulot-marine-le-pen-a-la-conquete-de-lor-noir",
-"summary": "Le 25 octobre, à Orléans, Marine Le Pen a abordé un large éventail de sujets pour son premier grand meeting de campagne présidentielle : fiscalité, défense, institutions… et énergie.",
-"source": "Valeurs actuelles",
-"date": "2026-11-03T12:02:53+00:00",
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": ""
-},
-{
-"id": "936a4c7973908d37",
-"title": "[Podcasts] 2027 : le prono de Didier Giraud pour le second tour : \"Je pense que ce sera Bardella face à Hollande. Les juges n'en ont pas fini avec Marine Le Pen\" - 03/11",
-"link": "https://rmc.bfmtv.com/replay-emissions/les-grandes-gueules/2027-le-prono-de-didier-giraud-pour-le-second-tour-je-pense-que-ce-sera-bardella-face-a-hollande-les-juges-n-en-ont-pas-fini-avec-marine-le-pen-03-11_EN-202611030528.html",
-"summary": "Aujourd'hui, Sandrine Pégand, avocate, Didier Giraud, éleveur de bovins, et Jérôme Marty, médecin généraliste, débattent de l'actualité autour d'Alain Marschall et Olivier Truchot.",
-"source": "RMC",
-"date": "2026-11-03T12:02:03+00:00",
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": ""
-},
-{
-"id": "085d5734729b33c3",
-"title": "EDITO. Pourquoi Marine Le Pen se mêle-t-elle de la crise politique en Pologne ?",
-"link": "https://www.franceinfo.fr/politique/marine-le-pen/l-edito-pourquoi-marine-le-pen-se-mele-t-elle-de-la-crise-politique-en-pologne_8265788.html#xtor=RSS-3-%5Bgeneral%5D",
-"summary": "Alors que le Premier ministre centriste Donald Tusk est en plein bras de fer avec la droite nationaliste, Marine Le Pen s'attire les foudres du gouvernement polonais, qui l'accuse de s'immiscer dans la crise politique du pays.",
-"source": "franceinfo",
-"date": "2026-11-03T11:50:41+00:00",
-"topics": [
-"elysee",
-"gouvernement",
-"partis"
-],
-"natures": [],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [
-"L'Opinion",
-"Le HuffPost"
-],
-"base": [],
-"filtered": true,
-"speaker": ""
-},
-{
-"id": "aa68c3ce3aea48f3",
-"title": "« On n’a plus le temps » : comment Gérald Darmanin tente d’enterrer la primaire de la droite",
-"link": "https://www.lopinion.fr/politique/on-na-plus-le-temps-comment-gerald-darmanin-tente-denterrer-la-primaire-de-la-droite",
-"summary": "Avis de tempête à droite et au centre. Plusieurs représentants de cet espace ont fait étalage de leurs divisions sur la question de la primaire par micros-interposés mardi 3 novembre.",
-"source": "L'Opinion",
-"date": "2026-11-03T11:46:53+00:00",
-"added": "2026-11-04T13:56:32+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "6cacd10464f0cb10",
-"title": "Présidentielle 2027 : Michel Houellebecq ne croit pas que « Marine Le Pen ait hérité des obsessions de son père »",
-"link": "https://www.20minutes.fr/politique/4259961-20261103-presidentielle-2027-michel-houellebecq-croit-marine-pen-herite-obsessions-pere?at_medium=display&at_campaign=149",
-"summary": "Une présidence de Marine Le Pen ne changerait pas fondamentalement la donne en France, estime Michel Houellebecq dans le quotidien espagnol El País, une interview repérée par Le Figaro.",
-"source": "20 Minutes",
-"date": "2026-11-03T11:43:01+00:00",
-"topics": [
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": "Michel Houellebecq"
-},
-{
-"id": "8b6a0c2a6ae3f4a6",
-"title": "Pour Michel Houellebecq, Marine Le Pen gouvernerait comme Giorgia Meloni",
-"link": "https://www.20minutes.fr/politique/4259961-20261103-presidentielle-2027-michel-houellebecq-croit-marine-pen-herite-obsessions-pere",
-"summary": "Une présidence de Marine Le Pen ne changerait pas fondamentalement la donne en France, estime Michel Houellebecq dans le quotidien espagnol El País, une interview repérée par Le Figaro.",
-"source": "20 Minutes",
-"date": "2026-11-03T11:43:00+00:00",
-"topics": [
-"partis"
-],
-"natures": [],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [
-"Le Figaro",
-"RTL"
-],
-"base": [],
-"filtered": true,
-"speaker": "Michel Houellebecq"
 }
 ]
