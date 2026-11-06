@@ -1,5 +1,304 @@
 [
 {
+"id": "f2549b19dc18f35d",
+"title": "Jean-Luc Mélenchon mise tout sur Gaza au détriment de l’Ukraine, dans son programme pour la présidentielle",
+"link": "https://www.lemonde.fr/politique/article/2026/11/06/jean-luc-melenchon-mise-tout-sur-gaza-au-detriment-de-l-ukraine-dans-son-programme-pour-la-presidentielle_6807759_823448.html",
+"summary": "La France insoumise évoque la fin de la solution à deux Etats et propose la suspension de l’accord d’association entre Israël et l’Union européenne, dans « L’Avenir en commun », publié vendredi 6 novembre.",
+"source": "Le Monde",
+"date": "2026-11-06T09:33:42+00:00",
+"added": "2026-11-06T09:49:15+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "749e955b72342495",
+"title": "Présidentielle 2027: François Ruffin retirera sa candidature \"si une solution se dégage pour battre Marine Le Pen\"",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/presidentielle-2027-francois-ruffin-retirera-sa-candidature-si-une-solution-se-degage-pour-battre-marine-le-pen_AD-202611060378.html",
+"summary": "Se référant \"aux sondages du deuxième tour\", l'ancien insoumis estime que la solution ne peut pas venir de Jean-Luc Mélenchon pour battre l'extrême droite.",
+"source": "BFMTV",
+"date": "2026-11-06T09:25:41+00:00",
+"added": "2026-11-06T09:49:15+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "f88e2b59ff8ed6d0",
+"title": "Guerre en Ukraine : le RN isolé au Sénat sur sa volonté de réduction de l’aide à Kiev, LFI absente du débat",
+"link": "https://www.lemonde.fr/international/article/2026/11/06/guerre-en-ukraine-le-rn-isole-au-senat-sur-sa-volonte-de-reduction-de-l-aide-a-kiev-lfi-absente-du-debat_6807755_3210.html",
+"summary": "Le Rassemblement national a maintenu lors d’un débat mené jeudi au Palais du Luxembourg sa volonté de cesser le soutien financier à l’Ukraine.",
+"source": "Le Monde",
+"date": "2026-11-06T09:19:13+00:00",
+"added": "2026-11-06T09:49:15+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "2914068441cb988c",
+"title": "Présidentielle 2027 : en quels candidats les Français ont-ils encore (un peu) de confiance ?",
+"link": "https://www.lepoint.fr/debats/presidentielle-2027-en-quels-candidats-les-francais-ont-ils-encore-un-peu-de-confiance-HL3UQG3HM5EGDAQZY7RLRJIMOQ/",
+"summary": "",
+"source": "Le Point",
+"date": "2026-11-06T09:15:00+00:00",
+"added": "2026-11-06T09:49:15+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "ad25080634e1a1e7",
+"title": "\"Il faut être absolument intraitable\": le ministre Édouard Geffray condamne les menaces à l'encontre des chefs d'établissement",
+"link": "https://www.bfmtv.com/politique/video-il-faut-etre-absolument-intraitable-le-ministre-edouard-geffray-condamne-les-menaces-a-l-encontre-des-chefs-d-etablissement_VN-202611060367.html",
+"summary": "Le ministre de l'Éducation nationale, Édouard Geffray, prend la parole ce vendredi 6 novembre au sujet de menaces à l'encontre des chefs d'établissement, à l'occasion de sa visite dans le lycée Jules-Ferry de Conflans-Sainte-Honorine, dans les Yvelines.",
+"source": "BFMTV",
+"date": "2026-11-06T09:12:32+00:00",
+"added": "2026-11-06T09:49:15+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "Édouard Geffray"
+},
+{
+"id": "0f4f616724a06d87",
+"title": "Accès aux classes bloqués dans les établissements scolaires: \"Je rappelle que c'est illégal\", prévient Édouard Geffray",
+"link": "https://www.bfmtv.com/politique/video-acces-aux-classes-bloques-dans-les-etablissements-scolaires-je-rappelle-que-c-est-illegal-previent-edouard-geffray_VN-202611060366.html",
+"summary": "Édouard Geffray, le ministre de l'Éducation nationale a répondu aux questions des journalistes, lors d'un déplacement dans un lycée de Conflans-Sainte-Honorine (Yvelines) aux côtés de Valérie Pécresse, présidente de la région Ile-de-France, ce vendredi 6 novembre.",
+"source": "BFMTV",
+"date": "2026-11-06T09:11:44+00:00",
+"added": "2026-11-06T09:49:15+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Édouard Geffray"
+},
+{
+"id": "47340d4a198866d2",
+"title": "«Choisissez un mode de connexion» : ce message de Meta démontre que Jordan Bardella a toujours un compte Facebook lié à son adresse Hotmail",
+"link": "https://www.liberation.fr/checknews/choisissez-un-mode-de-connexion-ce-message-de-meta-demontre-que-jordan-bardella-a-toujours-un-compte-facebook-lie-a-son-adresse-hotmail-20261106_X5CVQR2OCNFSJEVUTH5CMSA7VM/",
+"summary": "Sur TF1, le président du RN a de nouveau assuré ne plus avoir de compte sur le réseau social et donc ne plus pouvoir extraire ses conversations.",
+"source": "Libération",
+"date": "2026-11-06T09:06:54+00:00",
+"added": "2026-11-06T09:49:15+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "4e93d23781b382a5",
+"title": "Le Premier ministre annonce une “conférence sociale” lundi, face à l’ampleur du mouvement de contestation",
+"link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOYTVEYXpPblJsUHBHWEVBMm5xZ2xzUEozNkxOZ0wyeFdkbDJaa205SmE0MTBoUTA2UklwUXdHRXd2RjhaYkhHNHJybl9fZ18zbXJRTEQtVE02MFdPdGxIMjN1ZTRrMDNFOGlNMmtjc2Y0cXZ5QzM2dlRhSUpNSTc3cWpHTFFoMThyM2plUFU0TjRUOHprSU4wWnY0bjJNa3kwSExNbFAyUXFjb0g0a01McU4ybU5kcWZHUXVZZjlYcTN2LVk4X1kwUkxKUjdUSk9KdkFYRXdTVVQwUmFZOWtpYnZDNDhlZEIyQ1djaXZBaE9RRWl3X2c?oc=5",
+"summary": "",
+"source": "L'Est Républicain",
+"date": "2026-11-06T09:05:28+00:00",
+"added": "2026-11-06T09:49:15+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement"
+],
+"natures": [
+"Annonce"
+],
+"speaker": ""
+},
+{
+"id": "dbd7f7249789e7a0",
+"title": "Posez vos questions à Jean-Noël Barrot, invité du Grand Jury RTL avec Ouest-France",
+"link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQMU12TVZLTTVHSXN0OENtQTRuSE5JZURTcE1NWDhJZFFMVkZ0YnNsWWw3bzJLaW82NHIya284c2lkNWV4QXNRU2JjVUdYQXVyNmtUYzlQclBhVGoybzVhUThpZzFmc1lyMzJWd1Y0VnFqRTRMbTI3RWlfWF9wQVFiU3k0emdJcEVWR204NUxKT2U3SHFYT1ZMQzRhWmRGR2YxZ20zLUxKRUlCSG9JVTczR2MwTTRTT0xfS19zVE5ZRDZPNlZkd09rZVVmNUVXSUozUjJLdnRKbXBrX00yb3pJcFg0b21QNng0cHMxMEVLZWd2UDBfdGdRcHZMcDRfcUZyWEMwOG4xaVJkZWxIdlBKdkxYS0ZmMUdVUTY5SXV2NGhPaFFwcVBTeG45S05PRGVRQ3V4WGlzdVdyS0JoYVNnb2FIVkdlcXpVRmFPQUFNdUpwRXNmWHdVTXBwUDRNZmlHQ2ZZUlhn?oc=5",
+"summary": "",
+"source": "Ouest-France",
+"date": "2026-11-06T08:56:48+00:00",
+"added": "2026-11-06T09:49:15+00:00",
+"official": false,
+"also": [],
+"base": [
+"matinales"
+],
+"filtered": true,
+"topics": [
+"matinales"
+],
+"natures": [
+"Interview"
+],
+"speaker": ""
+},
+{
+"id": "35398aa045398ef3",
+"title": "Raphaël Glucksmann invectivé lors de la manifestation du 5 novembre: \"La clé de la victoire, c'est l'unité\", réagit Raquel Garrido, co-fondatrice du mouvement L'Après",
+"link": "https://www.bfmtv.com/politique/video-raphael-glucksmann-invective-lors-de-la-manifestation-du-5-novembre-la-cle-de-la-victoire-c-est-l-unite-reagit-raquel-garrido-co-fondatrice-du-mouvement-l-apres_VN-202611060352.html",
+"summary": "Raphaël Glucksmann a été hué et contraint de quitter le rassemblement parisien du 5 novembre sans pouvoir défiler.",
+"source": "BFMTV",
+"date": "2026-11-06T08:52:39+00:00",
+"added": "2026-11-06T09:49:15+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "Raquel Garrido"
+},
+{
+"id": "c260483cf81f5fb9",
+"title": "Vers un Smic au-dessus des 1 500 € net ? L’annonce choc du ministre du Travail qui pourrait accorder un coup de pouce historique",
+"link": "https://www.midilibre.fr/2026/11/06/vers-un-smic-au-dessus-des-1-500-eur-net-lannonce-choc-du-ministre-du-travail-qui-pourrait-accorder-un-coup-de-pouce-historique-13639245.php",
+"summary": "Le ministre du Travail, Jean-Pierre Farandou, a exprimé vendredi sur TF1 son souhait de porter le Smic mensuel net au-delà de 1 500 euros, actuellement à 1 477,93 euros.",
+"source": "Midi Libre",
+"date": "2026-11-06T08:48:00+00:00",
+"added": "2026-11-06T09:49:15+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [
+"Annonce"
+],
+"speaker": ""
+},
+{
+"id": "8a56e5a4f232b868",
+"title": "Salaires, pouvoir d'achat: que peut-on attendre de la conférence sociale du lundi 9 novembre?",
+"link": "https://lcp.fr/actualites/salaires-pouvoir-d-achat-que-peut-on-attendre-de-la-conference-sociale-du-lundi-9",
+"summary": "À l'issue d'une importante journée de mobilisation, jeudi 5 novembre, Sébastien Lecornu a annoncé réunir les syndicats et le patronat à Matignon lundi prochain dans le cadre d'une \"conférence sociale\".",
+"source": "LCP",
+"date": "2026-11-06T08:44:33+00:00",
+"added": "2026-11-06T09:49:15+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "b3aabc55b3b8aa91",
+"title": "Donner moins d’argent à l’Europe : la proposition de Marine Le Pen est-elle réaliste ?",
+"link": "https://www.lemonde.fr/les-decodeurs/article/2026/11/06/donner-moins-d-argent-a-l-europe-la-proposition-de-marine-le-pen-est-elle-realiste_6807742_4355770.html",
+"summary": "« Les propositions à la loupe ». La candidate du Rassemblement national veut négocier un rabais d’un tiers sur la contribution française à l’Union européenne pour faire des économies.",
+"source": "Le Monde",
+"date": "2026-11-06T08:40:32+00:00",
+"added": "2026-11-06T09:49:15+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "5dc6d89714b076bd",
+"title": "\"Il faut mettre le smic net à 1 600 euros\", propose Nicolas Dupont-Aignan, candidat Debout la France à la présidentielle",
+"link": "https://www.franceinfo.fr/politique/il-faut-mettre-le-smic-net-a-1-600-euros-propose-nicolas-dupont-aignan-au-lendemain-de-la-mobilisation-contre-la-vie-chere_8270444.html#xtor=RSS-3-%5Bgeneral%5D",
+"summary": "Invité des \"4 Vérités\" vendredi 6 novembre, Nicolas Dupont-Aignan, candidat Debout la France à l'élection présidentielle, revient sur la mobilisation en France la veille.",
+"source": "franceinfo",
+"date": "2026-11-06T08:19:17+00:00",
+"added": "2026-11-06T09:49:15+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"presidentielle"
+],
+"natures": [
+"Citation",
+"Annonce"
+],
+"speaker": "Nicolas Dupont-Aignan"
+},
+{
+"id": "8354381162b4fab7",
+"title": "SMIC : le ministre du Travail veut que le salaire minimum franchisse la «barre des 1.500 euros nets»",
+"link": "https://www.cnews.fr/france/2026-11-06/smic-le-ministre-du-travail-veut-que-le-salaire-minimum-franchisse-la-barre-des",
+"summary": "Le ministre du Travail Jean-Pierre Farandou a jugé «important» vendredi d'essayer de «franchir la barre» des 1.500 euros nets pour le Smic mensuel, actuellement de 1.477,93 euros, trois jours avant une conférence sociale convoquée par le Premier ministre à Matignon.",
+"source": "CNews",
+"date": "2026-11-06T07:52:44+00:00",
+"added": "2026-11-06T09:49:15+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement"
+],
+"natures": [
+"Citation"
+],
+"speaker": ""
+},
+{
 "id": "6ecb76b13773b58e",
 "title": "Raphaël Glucksmann chahuté dans le cortège parisien du 5 novembre: \"Une manifestation n'est pas un lieu de campagne\", souligne Alain Bauer, professeur émérite en criminologie",
 "link": "https://www.bfmtv.com/politique/video-raphael-glucksmann-chahute-dans-le-cortege-parisien-du-5-novembre-une-manifestation-n-est-pas-un-lieu-de-campagne-souligne-alain-bauer-professeur-emerite-en-criminologie_VN-202611060292.html",
@@ -19,6 +318,111 @@
 "speaker": ""
 },
 {
+"id": "abcb4e1ce74f545f",
+"title": "Écologie, retraites, Moyen-Orient… La France insoumise dévoile son programme pour 2027",
+"link": "https://www.lanouvellerepublique.fr/a-la-une/ecologie-retraites-moyen-orient-la-france-insoumise-devoile-son-programme-pour-2027-1793950922",
+"summary": "Jean-Luc Mélenchon lors d’une manifestation à Paris, le 5 novembre 2026. © (Photo Getty Images via AFP)\nIls entendent « répondre à la crise de la civilisation humaine » : La France insoumise sort vendredi 6 novembre, à la veille d’un grand meeting en région parisienne, son programme présidentiel pour 2027, dont le…",
+"source": "La Nouvelle République",
+"date": "2026-11-06T07:41:53+00:00",
+"added": "2026-11-06T09:49:15+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Annonce"
+],
+"speaker": ""
+},
+{
+"id": "abbe982a5f1da97e",
+"title": "«La France Insoumise attise le feu pour fracturer la société française», estime Serge Grouard, maire d'Orléans",
+"link": "https://www.europe1.fr/politique/la-france-insoumise-attise-le-feu-pour-fracturer-la-societe-francaise-estime-serge-grouard-maire-dorleans-1212440",
+"summary": "\"La France Insoumise attise le feu pour fracturer la société française\", dénonce Serge Grouard, maire divers-droite d'Orléans en évoquant les débats sur le communautarisme.",
+"source": "Europe 1",
+"date": "2026-11-06T07:41:41+00:00",
+"added": "2026-11-06T09:49:15+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Serge Grouard"
+},
+{
+"id": "44cf012f2ba19dac",
+"title": "Jean-Luc Mélenchon : la rue avant les urnes",
+"link": "https://www.lepoint.fr/debats/jean-luc-melenchon-la-rue-avant-les-urnes-6ZHMRZIN7JAANDJJH3YRZHGFOM/",
+"summary": "",
+"source": "Le Point",
+"date": "2026-11-06T07:38:35+00:00",
+"added": "2026-11-06T09:49:15+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "ed54e8fad5159345",
+"title": "Le Parti socialiste du Finistère a un nouveau premier secrétaire : Jean-Paul Vermot, maire de Morlaix, prend la relève",
+"link": "https://www.letelegramme.fr/finistere/le-parti-socialiste-du-finistere-a-un-nouveau-premier-secretaire-jean-paul-vermot-maire-de-morlaix-prend-la-releve-7153286.php",
+"summary": "",
+"source": "Le Télégramme",
+"date": "2026-11-06T07:36:18+00:00",
+"added": "2026-11-06T09:49:15+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "81f1d4776fd54314",
+"title": "Raphaël Glucksmann s’inspirera de Le Pen, Richard Ferrand s’attaque à l’abstention des jeunes… les indiscrétions politiques de Challenges",
+"link": "https://www.challenges.fr/politique/raphael-glucksmann-sinspirera-de-le-pen-richard-ferrand-sattaque-a-labstention-des-jeunes-les-indiscretions-politiques-de-challenges_646847",
+"summary": "Dans les indiscrétions politiques de Challenges cette semaine, retrouvez aussi David Lisnard qui, avant la présidentielle, doit réussir à se faire réélire à la présidence de l’Association des maires de France ou encore Bruno Le Maire découvre (enfin) les difficultés des entrepreneurs.",
+"source": "Challenges",
+"date": "2026-11-06T07:30:00+00:00",
+"added": "2026-11-06T09:49:15+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": "Richard Ferrand"
+},
+{
 "id": "d7dad0afd43da0ac",
 "title": "Hausse du smic : le ministre du Travail Jean-Pierre Farandou juge « important » d’essayer de franchir la « barre des 1 500 euros net »",
 "link": "https://www.sudouest.fr/economie/achat/hausse-du-smic-le-ministre-du-travail-jean-pierre-farandou-juge-important-d-essayer-de-franchir-la-barre-des-1-500-euros-net-31409774.php",
@@ -27,7 +431,10 @@
 "date": "2026-11-06T07:28:01+00:00",
 "added": "2026-11-06T07:56:02+00:00",
 "official": false,
-"also": [],
+"also": [
+"Le Monde",
+"Libération"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -37,6 +444,29 @@
 "Citation"
 ],
 "speaker": "Jean-Pierre Farandou"
+},
+{
+"id": "3a35964f97cfd5a1",
+"title": "Présidentielle 2027 : «Je défie quiconque de me parler du projet électoral de tel ou tel candidat», glisse Serge Grouard",
+"link": "https://www.cnews.fr/france/2026-11-06/presidentielle-2027-je-defie-quiconque-de-me-parler-du-projet-electoral-de-tel-ou",
+"summary": "«Je défie quiconque de me parler du projet électoral de tel ou tel candidat», a glissé le maire divers droite d'Orléans Serge Grouard, ce vendredi lors de La Grande Interview sur CNEWS.",
+"source": "CNews",
+"date": "2026-11-06T07:27:00+00:00",
+"added": "2026-11-06T09:49:15+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Serge Grouard"
 },
 {
 "id": "02e057546e440d46",
@@ -556,6 +986,25 @@
 "topics": [
 "partis",
 "presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "108405104ec84baf",
+"title": "Sébastien Lecornu convoque une « conférence sociale » sur le pouvoir d’achat et les salaires, un moyen de sortir d’un dialogue incertain avec la jeunesse",
+"link": "https://www.lemonde.fr/politique/article/2026/11/06/greve-du-5-novembre-lecornu-convoque-syndicats-et-patronat-pour-une-conference-sociale-a-matignon_6807684_823448.html",
+"summary": "Avec ce rendez-vous prévu lundi 9 novembre, le premier ministre espère engager un dialogue davantage balisé sur le pouvoir d’achat et les salaires que le tête-à-tête avec les mouvements de jeunes.",
+"source": "Le Monde",
+"date": "2026-11-06T04:45:03+00:00",
+"added": "2026-11-06T09:49:15+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement"
 ],
 "natures": [],
 "speaker": ""
@@ -2432,7 +2881,8 @@
 "Le Télégramme",
 "La Provence",
 "L'Est Républicain",
-"Le Figaro"
+"Le Figaro",
+"La Nouvelle République"
 ],
 "base": [],
 "filtered": true,
@@ -4833,7 +5283,9 @@
 "date": "2026-11-05T05:22:10+00:00",
 "added": "2026-11-05T07:58:47+00:00",
 "official": false,
-"also": [],
+"also": [
+"France 24"
+],
 "base": [
 "parlement"
 ],
@@ -14819,712 +15271,5 @@
 "base": [],
 "filtered": true,
 "speaker": "Serge Papin"
-},
-{
-"id": "4339ad7ce58e7fc3",
-"title": "« C’est nous qui sommes tondus par ce gouvernement depuis dix ans » : Fabien Roussel veut que « les riches se fassent tondre »",
-"link": "https://www.leparisien.fr/elections/presidentielle/cest-nous-qui-sommes-tondus-par-ce-gouvernement-depuis-dix-ans-fabien-roussel-veut-que-les-riches-se-fassent-tondre-03-11-2026-DPXEGZNVVFEI3EVJRMN3PIOSAU.php",
-"summary": "",
-"source": "Le Parisien",
-"date": "2026-11-03T09:48:30+00:00",
-"topics": [
-"gouvernement",
-"partis"
-],
-"natures": [
-"Citation"
-],
-"added": "2026-11-03T17:39:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": "Fabien Roussel"
-},
-{
-"id": "7e568229625da6fe",
-"title": "Villepin confirme sa candidature 2027 et écarte toute alliance avec Mélenchon",
-"link": "https://www.laprovence.com/article/politique/29594064292418/presidentielle-2027-dominique-de-villepin-assure-quil-sera-candidat-et-clarifie-sa-position-sur-jean-luc-melenchon",
-"summary": "En dépit de sa popularité désormais plus forte à gauche qu'à droite, il a également exclu tout rapprochement avec Jean-Luc Mélenchon.",
-"source": "La Provence",
-"date": "2026-11-03T09:45:30+00:00",
-"added": "2026-11-03T19:08:58+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": "Dominique de Villepin"
-},
-{
-"id": "d11a46168c358952",
-"title": "Présidentielle 2027 : « Pas de doute en ce qui me concerne »… Villepin confirme qu’il sera bien candidat",
-"link": "https://www.20minutes.fr/politique/4259937-20261103-presidentielle-2027-doute-villepin-confirme-bien-candidat?at_medium=display&at_campaign=149",
-"summary": "Malgré des sondages en berne, Dominique de Villepin a assuré ce mardi qu’il sera bien candidat à la présidentielle.",
-"source": "20 Minutes",
-"date": "2026-11-03T09:37:13+00:00",
-"topics": [
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [
-"Nice-Matin"
-],
-"base": [],
-"filtered": true,
-"speaker": "Dominique de Villepin"
-},
-{
-"id": "19dbd9f5446b7067",
-"title": "Présidentielle 2027 : Dominique de Villepin sera bien candidat, mais attend avant de l'annoncer officiellement",
-"link": "https://www.cnews.fr/france/2026-11-03/presidentielle-2027-dominique-de-villepin-sera-bien-candidat-mais-attend-avant-de",
-"summary": "Tardant à se déclarer officiellement candidat à la présidentielle 2027 en raison du contexte social mouvementé, Dominique de Villepin a confirmé ce mardi 3 novembre se lancer dans la course à l'Élysée.",
-"source": "CNews",
-"date": "2026-11-03T09:31:51+00:00",
-"topics": [
-"elysee",
-"presidentielle"
-],
-"natures": [],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [
-"Ouest-France",
-"Le Télégramme",
-"Sud Ouest"
-],
-"base": [],
-"filtered": true,
-"speaker": ""
-},
-{
-"id": "ca76b55e9d075c98",
-"title": "Gabriel Attal",
-"link": "https://www.bfmtv.com/politique/gabriel-attal_DN-202108310662.html",
-"summary": "Gabriel Attal est candidat à la présidentielle de 2027 pour le parti Renaissance. Auparavant membre du Parti socialiste, il a été élu député de la 11e circonscription des Hauts-de-Seine en 2017, sous l'étiquette En Marche.",
-"source": "BFMTV",
-"date": "2026-11-03T09:30:40+00:00",
-"topics": [
-"parlement",
-"partis",
-"presidentielle"
-],
-"natures": [],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": ""
-},
-{
-"id": "756bbc8d3358d77c",
-"title": "Edouard Philippe",
-"link": "https://www.bfmtv.com/politique/edouard-philippe_DN-202108310657.html",
-"summary": "Édouard Philippe est le candidat d'Horizons pour la présidentielle de 2027. Plus d'une décennie plus tôt, il avait soutenu Alain Juppé pour la primaire chez Les Républicains en 2016.",
-"source": "BFMTV",
-"date": "2026-11-03T09:30:40+00:00",
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": ""
-},
-{
-"id": "e6c180f824bf42cb",
-"title": "Bruno Retailleau",
-"link": "https://www.bfmtv.com/politique/gouvernement/bruno-retailleau_DN-202410030418.html",
-"summary": "Bruno Retailleau est le candidat des Républicains pour l'élection présidentielle de 2027. Avant cela, il a notamment été nommé ministre de l’Intérieur du gouvernement de Michel Barnier le 22 septembre 2024.",
-"source": "BFMTV",
-"date": "2026-11-03T09:30:40+00:00",
-"topics": [
-"gouvernement",
-"presidentielle"
-],
-"natures": [],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": ""
-},
-{
-"id": "7d7191e664ceba3d",
-"title": "Faire avec les \"candidats qu'on a\": Jean-François Copé appelle la droite à cesser de \"chercher le général de Gaulle\" pour la présidentielle",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/faire-avec-les-candidats-qu-on-a-jean-francois-cope-appelle-la-droite-a-cesser-de-chercher-le-general-de-gaulle-pour-la-presidentielle_AV-202611030386.html",
-"summary": "Le maire (LR) de Meaux (Seine-et-Marne) a martelé ce mardi 3 novembre que la droite française devait arrêter de \"chercher sans arrêt le général De Gaulle que nous n'avons pas en stock\" à moins de cinq mois de la présidentielle.",
-"source": "BFMTV",
-"date": "2026-11-03T09:30:39+00:00",
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [
-"20 Minutes",
-"Ouest-France",
-"Nice-Matin"
-],
-"base": [],
-"filtered": true,
-"speaker": "Jean-François Copé"
-},
-{
-"id": "d10c47456724d9d5",
-"title": "Avant la mobilisation nationale du 5 novembre, de nouvelles « perturbations » et des blocages dans les universités et les lycées",
-"link": "https://www.lemonde.fr/societe/article/2026/11/03/avant-la-mobilisation-nationale-du-5-novembre-de-nouvelles-perturbations-et-blocages-dans-les-universites-et-les-lycees_6805556_3224.html",
-"summary": "Après les premières annonces du gouvernement à l’attention de la jeunesse, le blocage d’environ 15 % des établissements du supérieur se poursuit, mardi, à l’approche de la mobilisation interprofessionnelle nationale du 5 novembre.",
-"source": "Le Monde",
-"date": "2026-11-03T09:29:05+00:00",
-"topics": [
-"gouvernement"
-],
-"natures": [],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": ""
-},
-{
-"id": "6f5707d106210fdb",
-"title": "Présidentielle 2027 : Dominique de Villepin confirme qu’il sera bien candidat à l'élection malgré des intentions de vote en berne",
-"link": "https://www.midilibre.fr/2026/11/03/presidentielle-2027-dominique-de-villepin-confirme-quil-sera-bien-candidat-a-la-presidentielle-malgre-des-intentions-de-vote-en-berne-13633306.php",
-"summary": "Dominique de Villepin a confirmé mardi 3 novembre sa candidature à la présidentielle, malgré des sondages à 3 % d’intentions de vote.",
-"source": "Midi Libre",
-"date": "2026-11-03T09:29:00+00:00",
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": "Dominique de Villepin"
-},
-{
-"id": "05346d7058f952e0",
-"title": "Fin de vie : l’aide à mourir entrera en vigueur en janvier 2027, confirme la ministre de la santé Stéphanie Rist",
-"link": "https://www.lemonde.fr/societe/article/2026/11/03/fin-de-vie-l-aide-a-mourir-entrera-en-vigueur-en-janvier-2027-confirme-la-ministre-de-la-sante-stephanie-rist_6805555_3224.html",
-"summary": "Après des années de débat, les décrets d’application de cette réforme sociétale majeure de la présidence d’Emmanuel Macron seront particulièrement scrutés.",
-"source": "Le Monde",
-"date": "2026-11-03T09:28:31+00:00",
-"topics": [
-"elysee",
-"gouvernement"
-],
-"natures": [],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [
-"BFMTV"
-],
-"base": [],
-"filtered": true,
-"speaker": ""
-},
-{
-"id": "0cf0715e92ad9a3d",
-"title": "\"Soyez patient\": Dominique de Villepin assure qu'il sera bien candidat à la présidentielle",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/soyez-patient-dominique-de-villepin-assure-qu-il-sera-bien-candidat-a-la-presidentielle_AD-202611030375.html",
-"summary": "L'ancien Premier ministre de Jacques Chirac temporise pour son annonce de candidature, tout en promettant qu'il finira par franchir le pas.",
-"source": "BFMTV",
-"date": "2026-11-03T09:22:58+00:00",
-"topics": [
-"elysee",
-"gouvernement",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [
-"Ouest-France",
-"Nice-Matin",
-"La Nouvelle République",
-"Le Dauphiné Libéré"
-],
-"base": [],
-"filtered": true,
-"speaker": "Dominique de Villepin"
-},
-{
-"id": "044855a5f3fc80de",
-"title": "Fabien Roussel appelle à continuer la mobilisation \"tant que le gouvernement n'entend pas ce cri de souffrance, de douleur, de colère\"",
-"link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/fabien-roussel-appelle-a-continuer-la-mobilisation-tant-que-le-gouvernement-n-entend-pas-ce-cri-de-souffrance-de-douleur-de-colere_8265494.html#xtor=RSS-3-%5Bgeneral%5D",
-"summary": "Invité de la matinale de franceinfo mardi 3 novembre, Fabien Roussel appelle à des \"mobilisations monstres\", à continuer les mouvements sociaux et estime qu'il faut se saisir des débats budgétaires actuels pour \"augmenter les pensions\".",
-"source": "franceinfo",
-"date": "2026-11-03T09:17:41+00:00",
-"topics": [
-"matinales",
-"gouvernement",
-"partis"
-],
-"natures": [
-"Citation"
-],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": "Fabien Roussel"
-},
-{
-"id": "3bb0ba1dce68c8c9",
-"title": "«Marine Le Pen n'a demandé la tête de personne et n'a insulté personne», rappelle Pascal Praud",
-"link": "https://www.europe1.fr/emissions/lheure-des-pros/marine-le-pen-na-demande-la-tete-de-personne-et-na-insulte-personne-rappelle-pascal-praud-1204928",
-"summary": "",
-"source": "Europe 1",
-"date": "2026-11-03T09:06:01+00:00",
-"topics": [
-"partis"
-],
-"natures": [
-"Citation"
-],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": "Pascal Praud"
-},
-{
-"id": "25eaa947fbfbd358",
-"title": "Attentat raciste de Trappes : 30 victimes ont été identifiées, selon le procureur national antiterroriste",
-"link": "https://www.lemonde.fr/societe/article/2026/11/03/attentat-raciste-de-trappes-30-victimes-ont-ete-identifiees-selon-le-procureur-national-antiterroriste_6805553_3224.html",
-"summary": "Le procureur, Olivier Christen, est revenu au micro de RTL sur le profil du suspect de l’attentat, Kevin T., qui a été mis en examen, jeudi 29 octobre.",
-"source": "Le Monde",
-"date": "2026-11-03T09:03:03+00:00",
-"added": "2026-11-03T19:08:58+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"matinales"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "29824030ff54ae36",
-"title": "Présidentielle 2027 : la primaire de la droite et du centre a du plomb dans l’aile avant même d’avoir décollé",
-"link": "https://www.lemonde.fr/politique/article/2026/11/03/presidentielle-2027-la-primaire-de-la-droite-et-du-centre-a-du-plomb-dans-l-aile-avant-meme-d-avoir-decolle_6805552_823448.html",
-"summary": "Des voix s’élèvent à droite pour appeler à dégager un candidat unique. Gabriel Attal et David Lisnard voudraient bien s’y soumettre quand Edouard Philippe espère toujours s’imposer dans les sondages.",
-"source": "Le Monde",
-"date": "2026-11-03T09:02:24+00:00",
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": ""
-},
-{
-"id": "92311c11d3d08800",
-"title": "Présidentielle 2027 : La Boétie, courroie illégale de financement de LFI ?",
-"link": "https://www.valeursactuelles.com/politique/presidentielle-2027-linstitut-la-boetie-courroie-illegale-de-financement-de-la-france-insoumise",
-"summary": "Former les militants insoumis tout en collectant des dons défiscalisés. C’est le fonctionnement de l’Institut La Boétie et ses liens avec LFI que Radio Courtoisie interroge dans une enquête révélée ce mardi 3 novembre.",
-"source": "Valeurs actuelles",
-"date": "2026-11-03T09:00:40+00:00",
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": ""
-},
-{
-"id": "5e5f307d788195a4",
-"title": "Présidentielle 2027 : Gérald Darmanin rejette lui aussi la primaire voulue par Gabriel Attal et appelle à se rassembler derrière Edouard Philippe",
-"link": "https://www.lemonde.fr/politique/article/2026/11/03/presidentielle-2027-gerald-darmanin-rejette-la-primaire-voulue-par-gabriel-attal-et-appelle-a-se-rassembler-derriere-edouard-philippe_6805549_823448.html",
-"summary": "Opposé depuis des mois à ce mode de départage, Edouard Philippe avait de nouveau écarté « une primaire de la division » et de la « confusion », quelques jours après la proposition lancée par son concurrent.",
-"source": "Le Monde",
-"date": "2026-11-03T08:54:25+00:00",
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [
-"CNews"
-],
-"base": [],
-"filtered": true,
-"speaker": "Gérald Darmanin"
-},
-{
-"id": "e4967135c05d8644",
-"title": "Présidentielle: \"On n'a plus le temps\" pour une primaire, estime Gérald Darmanin, ministre de la Justice et soutien d'Édouard Philippe",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-on-n-a-plus-le-temps-pour-une-primaire-estime-gerald-darmanin-ministre-de-la-justice-et-soutien-d-edouard-philippe_VN-202611030347.html",
-"summary": "VIDÉO - Gérald Darmanin, ministre de la Justice, était l’invité du Face-à-Face sur BFM et RMC ce mardi 3 novembre.",
-"source": "BFMTV",
-"date": "2026-11-03T08:41:51+00:00",
-"topics": [
-"matinales",
-"gouvernement",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [
-"Le Figaro"
-],
-"base": [],
-"filtered": true,
-"speaker": "Gérald Darmanin"
-},
-{
-"id": "2c94489b8989148f",
-"title": "\"Jordan Bardella face à Raphaël Glucksmann\" : 2027, le prono de Sandrine Pégand pour le second tour.",
-"link": "https://rmc.bfmtv.com/replay-emissions/les-grandes-gueules/video-jordan-bardella-face-a-raphael-glucksmann-2027-le-prono-de-sandrine-pegand-pour-le-second-tour_VN-202611030343.html",
-"summary": "\"Je pense que ce sera Jordan Bardella face à Raphaël Glucksmann.\"",
-"source": "RMC",
-"date": "2026-11-03T08:35:23+00:00",
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": ""
-},
-{
-"id": "91c3ada4c105971f",
-"title": "Budget 2027: pourquoi l'Assemblée nationale vote une baisse de la TVA sur le cognac",
-"link": "https://lcp.fr/actualites/budget-2027-pourquoi-l-assemblee-nationale-vote-une-baisse-de-la-tva-sur-le-cognac",
-"summary": "Les députés, soutenus par le gouvernement, ont adopté lundi un amendement visant à \"soulager la trésorerie\" des producteurs de cognac dont les exportations souffrent notamment de la hausse des droits de douane aux États-Unis.",
-"source": "LCP",
-"date": "2026-11-03T08:30:44+00:00",
-"topics": [
-"gouvernement",
-"parlement"
-],
-"natures": [],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": ""
-},
-{
-"id": "01ac43d92ae55ddb",
-"title": "«Quasiment la moitié d'une génération rejoint Jean-Luc Mélenchon», note Charlotte d'Ornellas",
-"link": "https://www.europe1.fr/emissions/lheure-des-pros/quasiment-la-moitie-dune-generation-rejoint-jean-luc-melenchon-note-charlotte-dornellas-1204811",
-"summary": "",
-"source": "Europe 1",
-"date": "2026-11-03T08:26:01+00:00",
-"topics": [
-"partis"
-],
-"natures": [
-"Citation"
-],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": "Charlotte d'Ornellas"
-},
-{
-"id": "2b9ea8ed07528fa4",
-"title": "Mobilisations sociales, colère des lycéens, présidentielle... Le \"8h30 franceinfo\" de Fabien Roussel",
-"link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/mobilisations-sociales-colere-des-lyceens-presidentielle-le-8h30-franceinfo-de-fabien-roussel_8244898.html#xtor=RSS-3-%5Bgeneral%5D",
-"summary": "Fabien Roussel, secrétaire national du PCF et candidat à l'élection présidentielle, est l'invité du \"8h30 franceinfo\" le 3 novembre 2026.",
-"source": "franceinfo",
-"date": "2026-11-03T08:24:56+00:00",
-"topics": [
-"matinales",
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": "Fabien Roussel"
-},
-{
-"id": "672932a71cfee502",
-"title": "Maintien de l'ordre: Laurent Nuñez \"ne renoncera à aucun moyen intermédiaire\" comme les grenades et le gaz lacrymogène",
-"link": "https://lcp.fr/actualites/maintien-de-l-ordre-laurent-nunez-ne-renoncera-a-aucun-moyen-intermediaire-comme-les",
-"summary": "Auditionné par les députés de la commission des lois, lundi 2 novembre en fin de journée, sur les crédits de son ministère dans le cadre du budget de l'État pour 2027, le ministre de l'Intérieur a aussi été interpellé sur le maintien de l'ordre dans le contexte actuel de mobilisations sociales.",
-"source": "LCP",
-"date": "2026-11-03T08:20:26+00:00",
-"topics": [
-"gouvernement",
-"parlement"
-],
-"natures": [],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [
-"franceinfo",
-"BFMTV"
-],
-"base": [],
-"filtered": true,
-"speaker": ""
-},
-{
-"id": "c53a9fc68d7af0e0",
-"title": "Mobilisation lycéenne et étudiante : \"Il faut revenir sur les suppressions de postes [de professeurs]\", assure la députée Prisca Thévenot",
-"link": "https://www.franceinfo.fr/politique/mobilisation-lyceenne-et-etudiante-il-faut-revenir-sur-les-suppressions-de-postes-de-professeurs-assure-la-deputee-prisca-thevenot_8265386.html#xtor=RSS-3-%5Bgeneral%5D",
-"summary": "Invitée des \"4 Vérités\" mardi 3 novembre, Prisca Thévenot, députée Renaissance des Hauts-de-Seine et soutien de Gabriel Attal, revient sur les manifestations lycéennes et les réponses du gouvernement.",
-"source": "franceinfo",
-"date": "2026-11-03T08:07:59+00:00",
-"topics": [
-"matinales",
-"gouvernement",
-"parlement",
-"partis"
-],
-"natures": [
-"Citation"
-],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": "Prisca Thévenot"
-},
-{
-"id": "ca6be4f85ad78cb8",
-"title": "Gérald Darmanin",
-"link": "https://www.bfmtv.com/politique/gerald-darmanin_DN-202108310663.html",
-"summary": "Gérald Darmanin est un homme politique français. Il est né à Tourcoing et a étudié à l'Institut d'études politiques de Lille.",
-"source": "BFMTV",
-"date": "2026-11-03T08:04:20+00:00",
-"topics": [
-"elysee",
-"gouvernement",
-"partis"
-],
-"natures": [],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": ""
-},
-{
-"id": "e6a0bd34c9891b8a",
-"title": "Présidentielle: Gérald Darmanin appelle Bruno Retailleau à avoir \"une discussion\" avec Édouard Philippe",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-gerald-darmanin-appelle-bruno-retailleau-a-avoir-une-discussion-avec-edouard-philippe_VN-202611030318.html",
-"summary": "VIDÉO - Gérald Darmanin, ministre de la Justice, était l’invité du Face-à-Face sur BFM et RMC ce mardi 3 novembre.",
-"source": "BFMTV",
-"date": "2026-11-03T08:02:40+00:00",
-"topics": [
-"matinales",
-"gouvernement",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [
-"La Provence"
-],
-"base": [],
-"filtered": true,
-"speaker": "Gérald Darmanin"
-},
-{
-"id": "a8195bfc56209c73",
-"title": "Gérald Darmanin, ministre de la Justice, veut \"diversifier socialement l'École nationale de la magistrature\"",
-"link": "https://www.bfmtv.com/politique/video-gerald-darmanin-ministre-de-la-justice-veut-diversifier-socialement-l-ecole-nationale-de-la-magistrature_VN-202611030316.html",
-"summary": "VIDÉO - Gérald Darmanin, ministre de la Justice, était l’invité du Face-à-Face sur BFM et RMC ce mardi 3 novembre.",
-"source": "BFMTV",
-"date": "2026-11-03T08:01:54+00:00",
-"topics": [
-"matinales",
-"gouvernement"
-],
-"natures": [
-"Citation"
-],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": "Gérald Darmanin"
-},
-{
-"id": "43aa784e4817a113",
-"title": "▶️ Étienne Gernelle sur RTL : le RN et LFI peuvent-ils tuer l’Europe ?",
-"link": "https://www.lepoint.fr/video/edito-etienne-gernelle/etienne-gernelle-sur-rtl-le-rn-et-lfi-peuvent-ils-tuer-leurope-WLXX5TTNUFFBVLKMS5E4UF5RMI/",
-"summary": "",
-"source": "Le Point",
-"date": "2026-11-03T08:00:59+00:00",
-"topics": [
-"partis"
-],
-"natures": [],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": ""
-},
-{
-"id": "f8067572cfb4ab64",
-"title": "Surpopulation carcérale: \"Il y a des endroits qui font honte à la France\", reconnaît Gérald Darmanin, ministre de la Justice",
-"link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQczJrSUtNYzNuM2l0RFRPenh1Q2xJU1V3ZEo1OGNmXzVsVHhNem1jLWc0ZDFMTTFmZ1FVa3Vhd0ExQ2xKRUNfTWFPNTNnLV9FNkU3a2lNelkwZTRoczllaG05elM1VkllbEdsWF96V2NoU1ZBb2tRVUx2X2h5V2haelBWLTJRUHV5ellyN1pVQXR6SFVNWkcyVG9YTUkzZTZhd3AwY2lpckFrZHF4SVJ0d0dxUzVsTVhnYVNNUkRpSFdaQjZIU2xFVzM0enpEakVyLU1QY3JpNVNBYlM5blcyU2NLQnIwN2FObXdGN055dTlPUnROUHpmYUJORDJ6Y3ZFWmhWaXhKRkNZUQ?oc=5",
-"summary": "",
-"source": "BFMTV",
-"date": "2026-11-03T08:00:37+00:00",
-"topics": [
-"gouvernement"
-],
-"natures": [
-"Citation"
-],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": "Gérald Darmanin"
-},
-{
-"id": "fc5af54f72614f8d",
-"title": "Présidentielle 2027 : Bruno Retailleau glisse quelques pistes concernant son gouvernement en cas d’élection",
-"link": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-bruno-retailleau-glisse-quelques-pistes-concernant-son-gouvernement-en-cas-delection-04-11-2026-67GEOVDIUVFJLKVSJPNGPSTC4E.php",
-"summary": "",
-"source": "Le Parisien",
-"date": "2026-11-03T08:00:00+00:00",
-"added": "2026-11-04T13:56:32+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"gouvernement",
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": "Bruno Retailleau"
-},
-{
-"id": "0631413d996797dd",
-"title": "\"On a l'impression que monsieur Mélenchon et parfois madame Le Pen essaient de faire dérailler la présidentielle\", juge Gérald Darmanin, ministre de la Justice",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-on-a-l-impression-que-monsieur-melenchon-et-parfois-madame-le-pen-essaient-de-faire-derailler-la-presidentielle-juge-gerald-darmanin-ministre-de-la-justice_VN-202611030310.html",
-"summary": "VIDÉO - Gérald Darmanin, ministre de la Justice, était l’invité du Face-à-Face sur BFM et RMC ce mardi 3 novembre.",
-"source": "BFMTV",
-"date": "2026-11-03T07:59:28+00:00",
-"topics": [
-"matinales",
-"gouvernement",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": "Gérald Darmanin"
-},
-{
-"id": "1e0f57f5c99f05be",
-"title": "\"Je ne suis pas encore candidat\" à la présidentielle 2027, indique Dominique de Villepin",
-"link": "https://www.franceinfo.fr/elections/presidentielle/je-ne-suis-pas-encore-candidat-a-la-presidentielle-2027-indique-dominique-de-villepin_8265395.html",
-"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
-"source": "franceinfo",
-"date": "2026-11-03T07:58:48+00:00",
-"topics": [
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": "Dominique de Villepin"
-},
-{
-"id": "e8b4bd9989e9c77b",
-"title": "\"Il y a évidemment un défaut d'intégration dans notre pays\", estime Gérald Darmanin, ministre de la Justice",
-"link": "https://www.bfmtv.com/politique/video-il-y-a-evidemment-un-defaut-d-integration-dans-notre-pays-estime-gerald-darmanin-ministre-de-la-justice_VN-202611030308.html",
-"summary": "VIDÉO - Gérald Darmanin, ministre de la Justice, était l'invité du Face-à-Face ce mardi 3 novembre. Il évoque les propos d'Édouard Philippe, qui a affirmé que \"l'échec de l'intégration\" depuis \"plusieurs décennies est incontestable\".",
-"source": "BFMTV",
-"date": "2026-11-03T07:57:45+00:00",
-"topics": [
-"matinales",
-"gouvernement",
-"partis"
-],
-"natures": [
-"Citation"
-],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": "Gérald Darmanin"
 }
 ]
