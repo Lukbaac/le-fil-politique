@@ -1,5 +1,170 @@
 [
 {
+"id": "6ecb76b13773b58e",
+"title": "Raphaël Glucksmann chahuté dans le cortège parisien du 5 novembre: \"Une manifestation n'est pas un lieu de campagne\", souligne Alain Bauer, professeur émérite en criminologie",
+"link": "https://www.bfmtv.com/politique/video-raphael-glucksmann-chahute-dans-le-cortege-parisien-du-5-novembre-une-manifestation-n-est-pas-un-lieu-de-campagne-souligne-alain-bauer-professeur-emerite-en-criminologie_VN-202611060292.html",
+"summary": "Alain Bauer, professeur émérite en criminologie, spécialiste des questions de sécurité, de terrorisme et de renseignement, était l’invité du Face-à-Face sur BFM et RMC ce vendredi 6 novembre.",
+"source": "BFMTV",
+"date": "2026-11-06T07:44:09+00:00",
+"added": "2026-11-06T07:56:02+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "d7dad0afd43da0ac",
+"title": "Hausse du smic : le ministre du Travail Jean-Pierre Farandou juge « important » d’essayer de franchir la « barre des 1 500 euros net »",
+"link": "https://www.sudouest.fr/economie/achat/hausse-du-smic-le-ministre-du-travail-jean-pierre-farandou-juge-important-d-essayer-de-franchir-la-barre-des-1-500-euros-net-31409774.php",
+"summary": "",
+"source": "Sud Ouest",
+"date": "2026-11-06T07:28:01+00:00",
+"added": "2026-11-06T07:56:02+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Jean-Pierre Farandou"
+},
+{
+"id": "02e057546e440d46",
+"title": "\"Le gouvernement commence à lâcher des miettes\": les syndicats vont attendre avant d'appeler à une nouvelle mobilisation",
+"link": "https://rmc.bfmtv.com/actualites/economie/travail/le-gouvernement-commence-a-lacher-des-miettes-les-syndicats-vont-attendre-avant-d-appeler-a-une-nouvelle-mobilisation_AV-202611060250.html",
+"summary": "Pour tenter de répondre à la colère sociale, les syndicats seront reçus ce lundi 9 novembre à Matignon. Le Premier ministre veut réunir syndicats et patronat lors d'une “conférence sociale” pour “apporter des réponses”.",
+"source": "RMC",
+"date": "2026-11-06T07:25:23+00:00",
+"added": "2026-11-06T07:56:02+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "f9cbe3c4f456858d",
+"title": "EDITO. Une fin de règne bien solitaire pour Emmanuel Macron",
+"link": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-une-fin-de-regne-bien-solitaire-pour-emmanuel-macron_8249893.html#xtor=RSS-3-%5Bgeneral%5D",
+"summary": "Impopulaire, abandonné et même renié, le président s'est livré ces deux dernières années à la journaliste Françoise Degois, lors d'échanges privés par sms.",
+"source": "franceinfo",
+"date": "2026-11-06T07:00:02+00:00",
+"added": "2026-11-06T07:56:02+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "64ca92e02b8a3998",
+"title": "« La défaite est inconcevable pour les insoumis » : les problèmes de riches de Jean-Luc Mélenchon",
+"link": "https://www.lopinion.fr/politique/la-defaite-est-inconcevable-pour-les-insoumis-les-problemes-de-riches-de-jean-luc-melenchon",
+"summary": "Samedi 7 novembre, la France insoumise attend 20 000 personnes au Parc des expositions du Bourget pour la présentation de son programme.",
+"source": "L'Opinion",
+"date": "2026-11-06T07:00:00+00:00",
+"added": "2026-11-06T07:56:02+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "3bbf14ffe26a118a",
+"title": "Stéphane Peu : « Pourquoi je soutiens Jean-Luc Mélenchon »",
+"link": "https://www.mediapart.fr/journal/politique/061126/stephane-peu-pourquoi-je-soutiens-jean-luc-melenchon",
+"summary": "Le président du groupe communiste à l’Assemblée nationale explique à « Mediapart » sa décision de soutenir le candidat insoumis à l’élection présidentielle.",
+"source": "Mediapart",
+"date": "2026-11-06T06:54:12+00:00",
+"added": "2026-11-06T07:56:02+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"parlement",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Stéphane Peu"
+},
+{
+"id": "36f333c15484b3d2",
+"title": "« Tentative désespérée » : ce plan qu’Emmanuel Macron prône en coulisses pour éviter un second tour Le Pen – Mélenchon",
+"link": "https://www.lavoixdunord.fr/1752427/article/2026-11-06/tentative-desesperee-ce-plan-qu-emmanuel-macron-prone-en-coulisses-pour-eviter",
+"summary": "",
+"source": "La Voix du Nord",
+"date": "2026-11-06T06:52:43+00:00",
+"added": "2026-11-06T07:56:02+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"elysee",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Emmanuel Macron"
+},
+{
+"id": "b6e551a1df71d1ce",
+"title": "R. Glucksmann chahuté lors de la manifestation",
+"link": "https://rmc.bfmtv.com/actualites/politique/video-r-glucksmann-chahute-lors-de-la-manifestation_VN-202611060206.html",
+"summary": "VIDÉO - Raphaël Glucksmann hué, chahuté et même insulté. Participant pour la première fois à une manifestation depuis qu'il est candidat à la présidentielle, le candidat soutenu par le PS a dû faire face à un accueil tendu hier dans le cortège parisien contre la vie chère.",
+"source": "RMC",
+"date": "2026-11-06T06:37:40+00:00",
+"added": "2026-11-06T07:56:02+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "233b0d2a491ccf3a",
 "title": "Présidentielle 2027 : plus de 1000 mesures, disponible en ligne et en librairie… la France insoumise dévoile ce vendredi son programme, axé sur la rupture et l’écologie",
 "link": "https://www.sudouest.fr/politique/presidentielle-2027-plus-de-1000-mesures-disponible-en-ligne-et-en-librairie-la-france-insoumise-devoile-ce-vendredi-son-programme-axe-sur-la-rupture-et-l-ecologie-31409093.php",
@@ -20,6 +185,26 @@
 "natures": [
 "Annonce"
 ],
+"speaker": ""
+},
+{
+"id": "0f05df20bd7cf96a",
+"title": "Du procès à la tournée : Rima Hassa, l’artilleuse de Mélenchon",
+"link": "https://www.nouvelobs.com/politique/20261106.OBS119883/du-proces-a-la-tournee-rima-hassa-l-artilleuse-de-melenchon.html",
+"summary": "L’eurodéputée insoumise Rima Hassan à Paris, le 27 octobre 2026. CHARLOTTE YONGA POUR « LE NOUVEL OBS » S’abonner permet de commenter les articles.",
+"source": "Le Nouvel Obs",
+"date": "2026-11-06T06:30:13+00:00",
+"added": "2026-11-06T07:56:02+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
 "speaker": ""
 },
 {
@@ -84,6 +269,26 @@
 "speaker": ""
 },
 {
+"id": "fd08da3781ee15b3",
+"title": "SONDAGE EXCLUSIF - Lisnard, Lagarde… les électeurs du socle commun détournent les yeux de Philippe et Attal",
+"link": "https://www.lesechos.fr/elections/sondages/sondage-exclusif-lisnard-lagarde-les-electeurs-du-socle-commun-detournent-les-yeux-de-philippe-et-attal-2261437",
+"summary": "",
+"source": "Les Echos",
+"date": "2026-11-06T06:00:09+00:00",
+"added": "2026-11-06T07:56:02+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "586941c40bb9241a",
 "title": "Nouveau programme de LFI pour la présidentielle : un appât pour écolos",
 "link": "https://www.liberation.fr/politique/elections/nouveau-programme-de-lfi-un-appat-pour-ecolos-20261106_AOOEA6OHARH7FIRWQS6KR2I2QU/",
@@ -132,7 +337,9 @@
 "date": "2026-11-06T05:58:00+00:00",
 "added": "2026-11-06T06:41:11+00:00",
 "official": false,
-"also": [],
+"also": [
+"La Provence"
+],
 "base": [
 "partis"
 ],
@@ -609,7 +816,9 @@
 "date": "2026-11-05T21:44:53+00:00",
 "added": "2026-11-06T06:41:11+00:00",
 "official": false,
-"also": [],
+"also": [
+"RMC"
+],
 "base": [
 "partis"
 ],
@@ -692,7 +901,10 @@
 "date": "2026-11-05T20:51:51+00:00",
 "added": "2026-11-06T06:41:11+00:00",
 "official": false,
-"also": [],
+"also": [
+"Public Sénat",
+"Le Parisien"
+],
 "base": [
 "elysee"
 ],
@@ -978,6 +1190,30 @@
 ],
 "natures": [],
 "speaker": ""
+},
+{
+"id": "d1508e24e7e85749",
+"title": "Affaire Lyhanna : «Emmanuel Macron s'était engagé à faire des places de prison, où sont-elles ?», s'insurge Robert Ménard",
+"link": "https://www.europe1.fr/societe/affaire-lyhanna-emmanuel-macron-setait-engage-a-faire-des-places-de-prison-ou-sont-elles-sinsurge-robert-menard-952091",
+"summary": "Au micro de Laurence Ferrari ce jeudi, Robert Ménard a réagi à l'affaire Lyhanna. \"Il faut plus de fermeté, plus de prisons.",
+"source": "Europe 1",
+"date": "2026-11-05T19:40:24+00:00",
+"added": "2026-11-06T07:56:02+00:00",
+"official": false,
+"also": [],
+"base": [
+"matinales"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"elysee"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "Robert Ménard"
 },
 {
 "id": "b94bca34882f4012",
@@ -15290,171 +15526,5 @@
 "base": [],
 "filtered": true,
 "speaker": "Gérald Darmanin"
-},
-{
-"id": "985fe806768ec47e",
-"title": "VIDÉO. Présidentielle 2027 : les services de cet hôpital sont « en péril », et pour vous la santé, c'est important ?",
-"link": "https://www.ouest-france.fr/elections/presidentielle/video-presidentielle-2027-nantes-nous-envoie-des-patients-l-incertain-futur-de-l-hopital-d-ancenis-3caf9a7f-e907-329d-858d-e39dffcd4079",
-"summary": "",
-"source": "Ouest-France",
-"date": "2026-11-03T07:53:00+00:00",
-"added": "2026-11-03T19:08:58+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "befc8c71369b4e4c",
-"title": "Gérald Darmanin, ministre de la Justice, dénonce \"la dérive autoritaire\" de Jean-Luc Mélenchon",
-"link": "https://www.bfmtv.com/politique/extreme-droite/video-gerald-darmanin-ministre-de-la-justice-denonce-la-derive-autoritaire-de-jean-luc-melenchon_VN-202611030302.html",
-"summary": "VIDÉO - Gérald Darmanin, ministre de la Justice, était l’invité du Face-à-Face sur BFM et RMC ce mardi 3 novembre.",
-"source": "BFMTV",
-"date": "2026-11-03T07:52:56+00:00",
-"topics": [
-"matinales",
-"gouvernement",
-"partis"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": "Gérald Darmanin"
-},
-{
-"id": "c4cdd1c0dfab2e70",
-"title": "Blocus des lycées : «Ce gouvernement est faible», juge Louis Aliot",
-"link": "https://www.europe1.fr/politique/blocus-des-lycees-ce-gouvernement-est-faible-juge-louis-aliot-1204712",
-"summary": "Le vice-président du Rassemblement national et maire de Perpignan Louis Aliot était l'invité de La Grande interview Europe 1-CNews ce mardi matin.",
-"source": "Europe 1",
-"date": "2026-11-03T07:46:00+00:00",
-"added": "2026-11-03T19:08:58+00:00",
-"official": false,
-"also": [],
-"base": [
-"matinales"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"gouvernement",
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Louis Aliot"
-},
-{
-"id": "32361015b8dbbfce",
-"title": "Colère sociale: Gérald Darmanin, ministre de la Justice, fait état de \"329 incarcérations\", mais aucune de lycéen",
-"link": "https://www.bfmtv.com/politique/video-colere-sociale-gerald-darmanin-ministre-de-l-interieur-fait-etat-de-329-incarcerations-mais-aucune-de-lyceen_VN-202611030286.html",
-"summary": "VIDÉO - Gérald Darmanin, ministre de la Justice, était l’invité du Face-à-Face sur BFM et RMC ce mardi 3 novembre.",
-"source": "BFMTV",
-"date": "2026-11-03T07:43:06+00:00",
-"topics": [
-"matinales",
-"gouvernement"
-],
-"natures": [
-"Citation"
-],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": "Gérald Darmanin"
-},
-{
-"id": "0145d0501e5b047a",
-"title": "Présidentielle 2027 : «Le grand chantier du Rassemblement national sera de remettre la France en ordre à tous les niveaux», assure Louis Aliot",
-"link": "https://www.europe1.fr/politique/presidentielle-2027-le-grand-chantier-du-rassemblement-national-sera-de-remettre-la-france-en-ordre-a-tous-les-niveaux-assure-louis-aliot-1204736",
-"summary": "Invité de la Grande Interview Europe 1-CNEWS ce mardi 3 novembre, Louis Aliot a dévoilé les priorités du Rassemblement national en cas de victoire à la présidentielle de 2027.",
-"source": "Europe 1",
-"date": "2026-11-03T07:43:00+00:00",
-"topics": [
-"matinales",
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": "Louis Aliot"
-},
-{
-"id": "27043b9d112831aa",
-"title": "Six mois de mairies RN : quelles sont les obsessions politiques des nouveaux élus ?",
-"link": "https://www.nouvelobs.com/politique/20261103.OBS119796/six-mois-de-mairies-rn-quelles-sont-les-obsessions-politiques-des-nouveaux-elus.html",
-"summary": "Christophe Barthes, maire de Carcassonne (premier plan), Edouard Jordan, député de la 1ʳᵉ circonscription de l’Aude (à sa droite) et Julien Rancoule, député de la 3ᵉ circonscription, tous élus Rassemblement national, lors de la fête nationale de Jeanne d’Arc et du patriotisme, le 10 mai 2026.",
-"source": "Le Nouvel Obs",
-"date": "2026-11-03T07:30:11+00:00",
-"topics": [
-"parlement",
-"partis"
-],
-"natures": [],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": ""
-},
-{
-"id": "fd2a00684bf68717",
-"title": "Présidentielle 2027 : fin de campagne pour Marine Tondelier ?",
-"link": "https://www.valeursactuelles.com/clubvaleurs/politique/presidentielle-2027-fin-de-campagne-pour-marine-tondelier",
-"summary": "« La seule raison pour laquelle on pourrait renoncer à une candidature, c’est parce qu’il y aurait un chemin de victoire pour notre camp qui passe par autre chose.",
-"source": "Valeurs actuelles",
-"date": "2026-11-03T07:00:20+00:00",
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": ""
-},
-{
-"id": "d05388cd82d36336",
-"title": "Juvin à l’Assemblée, Lavarde au Sénat : les Républicains des Hauts-de-Seine, chefs d’orchestre du budget",
-"link": "https://www.leparisien.fr/hauts-de-seine-92/juvin-a-lassemblee-lavarde-au-senat-les-republicains-des-hauts-de-seine-chefs-dorchestre-du-budget-03-11-2026-B3737X3KZBB2DPGKO4VUNELIQE.php",
-"summary": "Deux salles, deux ambiances mais un même objectif. À l’Assemblée nationale, Philippe Juvin (LR), député de la 3e circonscription des Hauts-de-Seine, a posé ses valises dans son bureau de rapporteur général du budget où il dort désormais quatre nuits par semaine.",
-"source": "Le Parisien",
-"date": "2026-11-03T07:00:00+00:00",
-"topics": [
-"parlement",
-"partis"
-],
-"natures": [],
-"added": "2026-11-03T16:34:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"speaker": ""
 }
 ]
