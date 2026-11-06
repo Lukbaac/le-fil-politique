@@ -1,5 +1,540 @@
 [
 {
+"id": "51afed565f623804",
+"title": "Mobilisation de la jeunesse : Sébastien Lecornu recevra les représentants des lycéens et des étudiants lundi",
+"link": "https://www.franceinfo.fr/societe/manifestations/direct-mobilisation-sociale-le-ministre-du-travail-juge-important-d-essayer-de-relever-le-smic-au-dela-de-la-barre-des-1-500-euros-net_8270366.html#xtor=RSS-3-%5Bgeneral%5D",
+"summary": "Les organisations de jeunesse seront réunies à partir de 15h30, avant une réunion du comité de réforme de Parcoursup, qui doit rendre ses premières recommandations dans les prochaines semaines.",
+"source": "franceinfo",
+"date": "2026-11-06T21:23:47+00:00",
+"added": "2026-11-06T21:28:04+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "e9b6046332c38981",
+"title": "L’Assemblée nationale fait-elle disparaître le mot « Noël » de ses invitations officielles ?",
+"link": "https://www.valeursactuelles.com/politique/ils-effacent-systematiquement-le-mot-noel-quand-lassemblee-nationale-efface-le-mot-noel-de-ses-invitations-officielles",
+"summary": "Au Palais-Bourbon, le mot Noël désormais censuré ? Dans un courrier daté du 2 novembre, le Collège des questeurs de l’Assemblée nationale a officialisé l’organisation de la traditionnelle réception dédiée aux enfants des collaborateurs parlementaires et des fonctionnaires.",
+"source": "Valeurs actuelles",
+"date": "2026-11-06T21:01:26+00:00",
+"added": "2026-11-06T21:28:04+00:00",
+"official": false,
+"also": [],
+"base": [
+"parlement"
+],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "5c0db5d0eeb75616",
+"title": "\"J'ai besoin de plus d'argent\" : dans les entreprises, patrons et salariés divisés sur une éventuelle hausse du Smic",
+"link": "https://www.franceinfo.fr/economie/entreprises/j-ai-besoin-de-plus-d-argent-dans-les-entreprises-patrons-et-salaries-divises-sur-une-eventuelle-hausse-du-smic_8271527.html#xtor=RSS-3-%5Bgeneral%5D",
+"summary": "Le Smic devrait être revu à la hausse, mais reste à savoir quelle sera l’ampleur de sa progression. Tout sera sur la table des négociations lors de la conférence sociale qui se tiendra lundi à Matignon.",
+"source": "franceinfo",
+"date": "2026-11-06T20:46:14+00:00",
+"added": "2026-11-06T21:28:04+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "7a2099b7614f6d60",
+"title": "«Jean-Luc Mélenchon a inventé le racisme d'État», affirme Philippe de Villiers",
+"link": "https://www.europe1.fr/politique/jean-luc-melenchon-a-invente-le-racisme-detat-affirme-philippe-de-villiers-1213973",
+"summary": "Ce vendredi soir, Jordan Bardella, président du RN, était face à Philippe de Villiers sur CNews et Europe 1. L'ancien député de Vendée affirme que le leader insoumis, Jean-Luc Mélenchon, a inventé quelque chose de \"dangereux\" : \"le racisme d'État\".",
+"source": "Europe 1",
+"date": "2026-11-06T20:40:00+00:00",
+"added": "2026-11-06T21:28:04+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"parlement",
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Édouard Philippe"
+},
+{
+"id": "3510788410d4fc1b",
+"title": "Midterms : chez les républicains, le sprint pour sécuriser la Cour suprême",
+"link": "https://www.liberation.fr/international/amerique/midterms-chez-les-republicains-le-sprint-pour-securiser-la-cour-supreme-20261106_XHTO6XRQ3FGV7IR4PO7GLX573M/",
+"summary": "",
+"source": "Libération",
+"date": "2026-11-06T20:37:21+00:00",
+"added": "2026-11-06T21:28:04+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "806abf052e14c32f",
+"title": "Éducation: David Lisnard, candidat Nouvelle Énergie à la présidentielle, veut créer \"un grand ministère du savoir\"",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-education-david-lisnard-candidat-nouvelle-energie-a-la-presidentielle-veut-creer-un-grand-ministere-du-savoir_VN-202611060883.html",
+"summary": "David Lisnard, candidat \"Nouvelle Énergie\" à la présidentielle participe à la une table ronde sur l'intelligence artificielle aux Rencontres de l'avenir à Saint-Raphaël, ce vendredi 6 novembre.",
+"source": "BFMTV",
+"date": "2026-11-06T20:26:38+00:00",
+"added": "2026-11-06T21:28:04+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "David Lisnard"
+},
+{
+"id": "2be48b4903b02b04",
+"title": "Présidentielle 2027 : «J'appelle les Français à garder leur liberté de conscience», exhorte Jordan Bardella",
+"link": "https://www.cnews.fr/france/2026-11-06/presidentielle-2027-jappelle-les-francais-garder-leur-liberte-de-conscience",
+"summary": "«J'appelle les Français à garder leur liberté de conscience», a exprimé Jordan Bardella, président du Rassemblement national, face à l'ancien ministre, Philippe de Villiers.",
+"source": "CNews",
+"date": "2026-11-06T20:20:29+00:00",
+"added": "2026-11-06T21:28:04+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"gouvernement",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Jordan Bardella"
+},
+{
+"id": "37122134e1886a64",
+"title": "Jordan Bardella souhaite «baisser la contribution» de la France à l'Union européenne",
+"link": "https://www.europe1.fr/politique/jordan-bardella-souhaite-baisser-la-contribution-de-la-france-a-lunion-europeenne-1213952",
+"summary": "Parmi ses priorités pour la France, s'il devenait chef du gouvernement dans les prochains mois, Jordan Bardella a notamment assuré qu'il baisserait la contribution de la France à l'UE, manière selon lui de ne pas brader sa souveraineté.",
+"source": "Europe 1",
+"date": "2026-11-06T20:18:00+00:00",
+"added": "2026-11-06T21:28:04+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"gouvernement",
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Jordan Bardella"
+},
+{
+"id": "771c20c10c20cd07",
+"title": "Présidentielle 2027 : Marine Le Pen largement en tête, Jean-Luc Mélenchon se rapproche du 2e tour",
+"link": "https://www.europe1.fr/politique/presidentielle-2027-marine-le-pen-largement-en-tete-jean-luc-melenchon-se-rapproche-du-2e-tour-970494",
+"summary": "À près d’un an de la présidentielle 2027, Marine Le Pen domine largement les intentions de vote au premier tour, selon un sondage Elabe pour BFMTV et La Tribune Dimanche.",
+"source": "Europe 1",
+"date": "2026-11-06T20:14:35+00:00",
+"added": "2026-11-06T21:28:04+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "bad3ee43cd722648",
+"title": "«Vouloir fermer une chaîne, c'est être habité d'une tentation totalitaire» : Jordan Bardella défend CNEWS",
+"link": "https://www.cnews.fr/france/2026-11-06/vouloir-fermer-une-chaine-cest-etre-habite-dune-tentation-totalitaire-jordan",
+"summary": "Jordan Bardella était l'invité de L'Heure des Pros 2 Week-End, sur CNEWS, ce vendredi 6 novembre. Il s'est exprimé sur les récentes déclarations de cadres de La France insoumise.",
+"source": "CNews",
+"date": "2026-11-06T20:10:49+00:00",
+"added": "2026-11-06T21:28:04+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"partis"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "Jordan Bardella"
+},
+{
+"id": "d35b0b784d1d14ae",
+"title": "Manifestation du 7 novembre : 70 000 forces de l’ordre reconduites, le ministre de l’Intérieur annonce le dispositif d’encadrement pour demain",
+"link": "https://www.midilibre.fr/2026/11/06/manifestation-du-7-novembre-70-000-forces-de-lordre-reconduites-le-ministre-de-linterieur-annonce-le-dispositif-dencadrement-pour-demain-13640253.php",
+"summary": "Le ministre de l’Intérieur Laurent Nuñez a annoncé la reconduction de 70 000 policiers et gendarmes pour encadrer les manifestations du samedi 7 novembre en France.",
+"source": "Midi Libre",
+"date": "2026-11-06T20:10:00+00:00",
+"added": "2026-11-06T21:28:04+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [
+"Annonce"
+],
+"speaker": ""
+},
+{
+"id": "2048f16f5b4e3fe7",
+"title": "Crise sociale, présidentielle...L'interview en intégralité de Manon Aubry",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-crise-sociale-presidentielle-l-interview-en-integralite-de-manon-aubry_VN-202611060884.html",
+"summary": "À la veille d'une nouvelle journée de mobilisation, Laurent Nuñez a annoncé un dispositif de sécurité mobilisant à nouveau \"70.000 effectifs\" demain.",
+"source": "BFMTV",
+"date": "2026-11-06T20:09:34+00:00",
+"added": "2026-11-06T21:28:04+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [
+"Interview"
+],
+"speaker": ""
+},
+{
+"id": "580278f40a5c6518",
+"title": "Présidentielle : le match Bruno Retailleau vs David Lisnard vu de Saint-Raphaël",
+"link": "https://www.nicematin.com/societe/presidentielle-le-match-bruno-retailleau-vs-david-lisnard-vu-de-saint-raphael-10754658",
+"summary": "« Qui va gagner l’élection présidentielle ? » Le thème d’ouverture des 9e Rencontres de l’avenir était plus qu’alléchant, ce vendredi matin à Saint-Raphaël.",
+"source": "Nice-Matin",
+"date": "2026-11-06T20:05:08+00:00",
+"added": "2026-11-06T21:28:04+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "f6c6d07db811f65b",
+"title": "Présidentielle 2027 : «Pour Jean-Luc Mélenchon, le second tour se jouera dans la rue», estime Jordan Bardella",
+"link": "https://www.cnews.fr/france/2026-11-06/presidentielle-2027-pour-jean-luc-melenchon-le-second-tour-se-jouera-dans-la-rue",
+"summary": "«Pour Jean-Luc Mélenchon, le second tour se jouera dans la rue», a pointé Jordan Bardella, président du Rassemblement national, au sujet de l'élection présidentielle.",
+"source": "CNews",
+"date": "2026-11-06T20:03:47+00:00",
+"added": "2026-11-06T21:28:04+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Jordan Bardella"
+},
+{
+"id": "5bbcf585ef4ef33e",
+"title": "«Je suis convaincu que la France a, au fond de son âme, la force de se relever», affirme Jordan Bardella",
+"link": "https://www.cnews.fr/france/2026-11-06/je-suis-convaincu-que-la-france-au-fond-de-son-ame-la-force-de-se-relever-affirme",
+"summary": "«Je suis convaincu que la France a, au fond de son âme, la force de se relever», a affirmé Jordan Bardella, président du Rassemblement national.",
+"source": "CNews",
+"date": "2026-11-06T20:01:02+00:00",
+"added": "2026-11-06T21:28:04+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Jordan Bardella"
+},
+{
+"id": "fe8027be865ce136",
+"title": "«Je suis pour réaffirmer la souveraineté totale du président de la République sur l'arme nucléaire», clame Jordan Bardella",
+"link": "https://www.cnews.fr/videos/france/2026-11-06/je-suis-pour-reaffirmer-la-souverainete-totale-du-president-de-la",
+"summary": "«Je suis pour réaffirmer la souveraineté totale du président de la République sur l'arme nucléaire», a clamé ce vendredi sur CNEWS Jordan Bardella, président du Rassemblement national, dans un échange avec l'ancien ministre Philippe de Villiers.",
+"source": "CNews",
+"date": "2026-11-06T19:55:36+00:00",
+"added": "2026-11-06T21:28:04+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement",
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Jordan Bardella"
+},
+{
+"id": "2cc9898a830a788e",
+"title": "Crise sociale: \"Personne n'a le luxe d'attendre l'élection présidentielle dans six mois\", explique Manon Aubry, députée européenne LFI",
+"link": "https://www.bfmtv.com/politique/video-crise-sociale-personne-n-a-le-luxe-d-attendre-l-election-presidentielle-dans-six-mois-explique-manon-aubry-deputee-europeenne-lfi_VN-202611060873.html",
+"summary": "À la veille d'une nouvelle journée de mobilisation, Laurent Nuñez a annoncé un dispositif de sécurité mobilisant à nouveau \"70.000 effectifs\" demain.",
+"source": "BFMTV",
+"date": "2026-11-06T19:55:18+00:00",
+"added": "2026-11-06T21:28:04+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Manon Aubry"
+},
+{
+"id": "277856c778da5c7f",
+"title": "D’un Bourget à l’autre : comment Jean-Luc Mélenchon veut continuer de supplanter le PS",
+"link": "https://www.liberation.fr/politique/dun-bourget-a-lautre-comment-jean-luc-melenchon-veut-continuer-de-supplanter-le-ps-20261106_A22URJZ24NCBFAVXZYA5VXMMIA/",
+"summary": "Lors d’un grand meeting de présentation de son programme au Parc des Expositions, ce samedi 7 novembre, le leader insoumis va tenter une nouvelle «démonstration de force», pour asseoir l’idée qu’il est devenu le candidat naturel de la gauche.",
+"source": "Libération",
+"date": "2026-11-06T19:54:47+00:00",
+"added": "2026-11-06T21:28:04+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": "Jean-Luc Mélenchon"
+},
+{
+"id": "2c6ebabc7faa2b32",
+"title": "Présidentielle 2027 : au Bourget, Mélenchon et l’ombre de Hollande",
+"link": "https://www.liberation.fr/idees-et-debats/editorial/presidentielle-2027-au-bourget-melenchon-et-lombre-de-hollande-20261106_QLPLAYU2MJEXJFQYEAJXBE45MU/",
+"summary": "En choisissant ce ce Parc des Expositions, samedi, pour annoncer son programme, le candidat LFI fait écho au meeting de François Hollande, victorieux en 2012.",
+"source": "Libération",
+"date": "2026-11-06T19:51:28+00:00",
+"added": "2026-11-06T21:28:04+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "592977e2b6227259",
+"title": "Pour Manon Aubry (LFI), l'augmentation du Smic \"va relancer l'économie\"",
+"link": "https://www.bfmtv.com/politique/la-france-insoumise/video-pour-manon-aubry-lfi-l-augmentation-du-smic-va-relancer-l-economie_VN-202611060870.html",
+"summary": "À la veille d'une nouvelle journée de mobilisation, Laurent Nuñez a annoncé un dispositif de sécurité mobilisant à nouveau \"70.000 effectifs\" demain.",
+"source": "BFMTV",
+"date": "2026-11-06T19:51:25+00:00",
+"added": "2026-11-06T21:28:04+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "0e9193feab468214",
+"title": "«Une nation qui dépend des autres est une nation finie», affirme Jordan Bardella",
+"link": "https://www.europe1.fr/politique/une-nation-qui-depend-des-autres-est-une-nation-finie-affirme-jordan-bardella-1213904",
+"summary": "Face à Philippe de Villiers ce vendredi soir, Jordan Bardella a soutenu que la France devrait \"sortir du socialisme\" en matière économique ces prochains mois, et favoriser davantage les entreprises.",
+"source": "Europe 1",
+"date": "2026-11-06T19:47:11+00:00",
+"added": "2026-11-06T21:28:04+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Jordan Bardella"
+},
+{
+"id": "a17f6855e9fdc9bf",
+"title": "« Des Frères musulmans en costumes-cravates hyperimplantés dans les institutions bruxelloises » : cinq députés européens dénoncent les « agissements » du Réseau européen contre le racisme",
+"link": "https://www.lefigaro.fr/politique/des-freres-musulmans-en-costumes-cravates-hyperimplantes-dans-les-institutions-bruxelloises-cinq-deputes-europeens-denoncent-les-agissements-du-reseau-europeen-contre-le-racisme-20261106",
+"summary": "DÉCRYPTAGE - S’estimant la cible d’une campagne de «stigmatisation», Céline Imart et François-Xavier Bellamy appellent une réaction du Parlement européen.",
+"source": "Le Figaro",
+"date": "2026-11-06T19:46:46+00:00",
+"added": "2026-11-06T21:28:04+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "b25b4c3673b4f5e6",
+"title": "« La propagande d’extrême droite tue » : à Paris des activistes « déménagent » un Relay pour dénoncer le « monopole » de Bolloré",
+"link": "https://www.lemonde.fr/politique/article/2026/11/06/la-propagande-d-extreme-droite-tue-a-paris-des-activistes-demenagent-un-relay-pour-denoncer-le-monopole-de-bollore_6807862_823448.html",
+"summary": "Des militants ont vidé un Relay à Montparnasse, accusant la SNCF de favoriser la diffusion d’ouvrages d’extrême droite et de manquer de neutralité dans l’espace public.",
+"source": "Le Monde",
+"date": "2026-11-06T19:45:32+00:00",
+"added": "2026-11-06T21:28:04+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "2d410f417fa1acb2",
+"title": "Choc fiscal massif, envolée des dépenses publiques… La dangereuse expérience collectiviste proposée par Mélenchon pour la présidentielle",
+"link": "https://www.lefigaro.fr/elections/presidentielles/programmes/choc-fiscal-massif-envolee-des-depenses-publiques-la-dangereuse-experience-collectiviste-proposee-par-melenchon-pour-la-presidentielle-20261106",
+"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
+"source": "Le Figaro",
+"date": "2026-11-06T19:42:56+00:00",
+"added": "2026-11-06T21:28:04+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "1016829933923704",
+"title": "Glucksmann loue son \"modèle\", Pierre Mendès France",
+"link": "https://www.france24.com/fr/info-en-continu/20261106-glucksmann-loue-son-mod%C3%A8le-pierre-mend%C3%A8s-france",
+"summary": "",
+"source": "France 24",
+"date": "2026-11-06T19:42:00+00:00",
+"added": "2026-11-06T21:28:04+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "c31a400ea2d20c91",
+"title": "Donald Trump nomme Stephen Miller, représentant de la droite identitaire, au poste stratégique de directeur de cabinet",
+"link": "https://www.lemonde.fr/international/article/2026/11/06/donald-trump-nomme-stephen-miller-representant-de-la-droite-identitaire-au-poste-strategique-de-directeur-de-cabinet_6807861_3210.html",
+"summary": "Il s’agit du premier grand remaniement au sein de l’exécutif américain après la défaite monumentale enregistrée par le Parti républicain lors des élections de mi-mandat.",
+"source": "Le Monde",
+"date": "2026-11-06T19:41:18+00:00",
+"added": "2026-11-06T21:28:04+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "26cba6ad6a0c4dac",
 "title": "«Pour gouverner la France, il faut aimer et respecter les Français», soutient Jordan Bardella",
 "link": "https://www.cnews.fr/videos/france/2026-11-06/pour-gouverner-la-france-il-faut-aimer-et-respecter-les-francais-soutient",
@@ -39,6 +574,29 @@
 "Citation"
 ],
 "speaker": "Sébastien Chenu"
+},
+{
+"id": "ced7470b2115039a",
+"title": "Pour Jordan Bardella, «Cette élection présidentielle est très certainement la plus importante de la Ve République»",
+"link": "https://www.cnews.fr/france/2026-11-06/pour-jordan-bardella-cette-election-presidentielle-est-tres-certainement-la-plus",
+"summary": "Invité exceptionnel de L’Heure des Pros 2 Week-End ce vendredi 6 novembre, le président du Rassemblement national s’est exprimé sur l’élection présidentielle à venir, «la plus importante de la Ve République» selon lui.",
+"source": "CNews",
+"date": "2026-11-06T19:20:31+00:00",
+"added": "2026-11-06T21:28:04+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Jordan Bardella"
 },
 {
 "id": "9fbddcc7bdafcf8b",
@@ -198,7 +756,9 @@
 "date": "2026-11-06T18:50:14+00:00",
 "added": "2026-11-06T19:41:40+00:00",
 "official": false,
-"also": [],
+"also": [
+"Midi Libre"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -1160,6 +1720,26 @@
 "speaker": ""
 },
 {
+"id": "162697ef0c39e4de",
+"title": "« Le racisme n’a aucun fondement scientifique » : le généticien Lluis Quintana-Murci invité de « Longue vue »",
+"link": "https://www.publicsenat.fr/actualites/societe/le-racisme-na-aucun-fondement-scientifique-le-geneticien-lluis-quintana-murci-invite-de-longue-vue",
+"summary": "Nous sommes tous Africains. Tous les êtres humains partagent 99,9 % de leur ADN... et les migrations, loin de nous menacer, ont largement contribué à notre survie.",
+"source": "Public Sénat",
+"date": "2026-11-06T15:55:00+00:00",
+"added": "2026-11-06T21:28:04+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales"
+],
+"natures": [
+"Interview"
+],
+"speaker": ""
+},
+{
 "id": "223abf9702251059",
 "title": "Nationaliser la fusée Ariane, quitter l'Otan, refuser les 5% du PIB pour la défense, construire un avion spatial... Le programme de Mélenchon pour l'armée française",
 "link": "https://www.bfmtv.com/economie/entreprises/defense/nationaliser-la-fusee-ariane-quitter-l-otan-refuser-les-5-du-pib-pour-la-defense-construire-un-avion-spatial-le-programme-de-melenchon-pour-l-armee-francaise_AV-202611060649.html",
@@ -1285,6 +1865,24 @@
 "speaker": ""
 },
 {
+"id": "8983ea0595957ad6",
+"title": "Liste des 200 établissements à rénover : « Le gouvernement a inventé le TripAdvisor des lycées », les régions fustigent la méthode du gouvernement",
+"link": "https://www.publicsenat.fr/actualites/politique/liste-des-200-etablissements-a-renover-le-gouvernement-a-invente-le-tripadvisor-des-lycees-les-regions-fustigent-la-methode-du-gouvernement",
+"summary": "La liste des 200 lycées à rénover « en priorité », diffusée cette semaine par le gouvernement et issue d’une consultation mise en ligne courant octobre en réponse à la crise, a suscité la colère des régions, qui ont la charge du bâti scolaire.",
+"source": "Public Sénat",
+"date": "2026-11-06T15:09:06+00:00",
+"added": "2026-11-06T21:28:04+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "057112b3df098a30",
 "title": "« On rentre dans l'URSS » : de Le Pen à Retailleau en passant par Philippe, un coup de pouce sur le SMIC qui divise",
 "link": "https://www.lesechos.fr/elections/programmes-dechiffres/on-rentre-dans-lurss-de-le-pen-a-retailleau-en-passant-par-philippe-un-coup-de-pouce-sur-le-smic-qui-divise-2261602",
@@ -1324,6 +1922,26 @@
 "natures": [
 "Discours"
 ],
+"speaker": ""
+},
+{
+"id": "f27049db64ab0b3c",
+"title": "Aide au logement : le gouvernement rassure sur les versements après un léger retard",
+"link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOVVVOSlYzLVpueHFiMi1qSlozQjQ1SnI4TFprMFJjeE9fT0VxZ05MU2ZHNXVoblN1YkJDS1dJOGJOR0JHa0c3SFNwY2pGOFVVR2pWV1JhQlJnTUZsY0NUYnFPYi1iQ3piQVdaV3c1TXFmQ0ZNZFlfeDlHaXZ5WTY2NDc3blJTWnpwRElROVFTZlUyc3lsTU9COF9NdHYzOGdhQ0F2S3Z3SjA3bUxFQzlVLTAzNlZIN3g2LXJGaTM0V0J4Wk9fZW8xSE1CRzltdzcyWUZGWGlha2VrU05HYTNmZjl4MnF0NWtIWno1WGtlY1Y2LXNZUWZkMjlENVFuU2t0?oc=5",
+"summary": "",
+"source": "L'Opinion",
+"date": "2026-11-06T15:02:24+00:00",
+"added": "2026-11-06T21:28:04+00:00",
+"official": false,
+"also": [],
+"base": [
+"gouvernement"
+],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [],
 "speaker": ""
 },
 {
@@ -1418,6 +2036,24 @@
 "filtered": true,
 "topics": [
 "presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "f7d1156a19826a11",
+"title": "Souveraineté et emplois : quelle est la feuille de route du gouvernement en matière d’intelligence artificielle ?",
+"link": "https://www.publicsenat.fr/actualites/politique/souverainete-et-emplois-quelle-est-la-feuille-de-route-du-gouvernement-en-matiere-dintelligence-artificielle",
+"summary": "En quelques années, l’Intelligence artificielle est devenu un sujet politique majeur. Son émergence constitue un véritable bouleversement en matière de sécurité numérique, de compétitivité et d’emploi.",
+"source": "Public Sénat",
+"date": "2026-11-06T14:42:18+00:00",
+"added": "2026-11-06T21:28:04+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
 ],
 "natures": [],
 "speaker": ""
@@ -2981,6 +3617,30 @@
 "speaker": ""
 },
 {
+"id": "b7af93d98a53eee6",
+"title": "«Emmanuel Macron a oublié qu'il était au service des Français», dénonce Serge Grouard",
+"link": "https://www.cnews.fr/france/2026-11-06/emmanuel-macron-oublie-quil-etait-au-service-des-francais-denonce-serge-grouard",
+"summary": "«Quand on a l'honneur de diriger un pays comme la France (...) on est au service des Français» et Emmanuel Macron «l'a oublié», a souligné le maire divers droite d'Orléans, Serge Grouard.",
+"source": "CNews",
+"date": "2026-11-06T07:37:38+00:00",
+"added": "2026-11-06T21:28:04+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"elysee",
+"partis"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "Serge Grouard"
+},
+{
 "id": "ed54e8fad5159345",
 "title": "Le Parti socialiste du Finistère a un nouveau premier secrétaire : Jean-Paul Vermot, maire de Morlaix, prend la relève",
 "link": "https://www.letelegramme.fr/finistere/le-parti-socialiste-du-finistere-a-un-nouveau-premier-secretaire-jean-paul-vermot-maire-de-morlaix-prend-la-releve-7153286.php",
@@ -3070,6 +3730,29 @@
 "Citation"
 ],
 "speaker": "Serge Grouard"
+},
+{
+"id": "542c6fff2f351e53",
+"title": "Présidentielle 2027 : LFI dévoile son nouveau programme",
+"link": "https://rmc.bfmtv.com/actualites/politique/video-presidentielle-2027-lfi-devoile-son-nouveau-programme_VN-202611060254.html",
+"summary": "VIDÉO - Jean-Luc Mélenchon publie aujourd’hui son programme. 1 069 mesures dans un livre qu’il publie et actualise à chaque élection présidentielle.",
+"source": "RMC",
+"date": "2026-11-06T07:25:29+00:00",
+"added": "2026-11-06T21:28:04+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Annonce"
+],
+"speaker": ""
 },
 {
 "id": "02e057546e440d46",
@@ -6220,6 +6903,27 @@
 "topics": [
 "parlement",
 "partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "065fdbc919ad9595",
+"title": "Présidentielle 2027 : Marine Le Pen jugée la plus crédible pour réduire la dette, Jean-Luc Mélenchon désavoué",
+"link": "https://www.valeursactuelles.com/politique/presidentielle-2027-marine-le-pen-jugee-la-plus-credible-pour-reduire-la-dette-jean-luc-melenchon-desavoue",
+"summary": "Les Français ont désormais plus confiance en Marine Le Pen qu’en un ex-ministre du gouvernement pour réduire la dette, comme le révèle un sondage Ifop de novembre 2026 pour l’agence Vae Solis.",
+"source": "Valeurs actuelles",
+"date": "2026-11-05T14:01:14+00:00",
+"added": "2026-11-06T21:28:04+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"gouvernement",
+"presidentielle"
 ],
 "natures": [],
 "speaker": ""
@@ -10880,6 +11584,26 @@
 "speaker": ""
 },
 {
+"id": "1988628188e60b7f",
+"title": "Présidentielle: le bloc central s'effondre dans les sondages",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-le-bloc-central-s-effondre-dans-les-sondages_VN-202611040506.html",
+"summary": "VIDÉO - Un sondage Ifop pour LCI dessine un second tour de l'élection présidentielle entre Jean-Luc Mélenchon et Marine Le Pen dans tous les cas de figure.",
+"source": "BFMTV",
+"date": "2026-11-04T11:55:37+00:00",
+"added": "2026-11-06T21:28:04+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "b8e403374c777a66",
 "title": "Ali Rabeh présent au meeting de Jean-Luc Mélenchon au Bourget ? Son parti temporise",
 "link": "https://www.huffingtonpost.fr/politique/article/ali-rabeh-present-au-meeting-de-jean-luc-melenchon-au-bourget-son-parti-temporise_351947.html",
@@ -12587,6 +13311,26 @@
 "speaker": ""
 },
 {
+"id": "aa57e1f695bb1417",
+"title": "Présidentielle 2027: un duel entre Jean-Luc Mélenchon et Marine Le Pen inévitable au second tour selon un nouveau sondage, Raphaël Glucksmann en forte baisse",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/presidentielle-2027-un-duel-entre-jean-luc-melenchon-et-marine-le-pen-inevitable-au-second-tour-selon-un-nouveau-sondage-raphael-glucksmann-en-forte-baisse_AD-202611040260.html",
+"summary": "Cette combinaison de photographies montre Marine Le Pen (g), à Paris le 20 octobre 2021, et Jean-Luc Mélenchon (d), à Paris le 24 janvier 2017 - JOEL SAGET © 2019 AFP\nUn duel entre Jean-Luc Mélenchon et Marine Le Pen au second tour de l'élection présidentielle continue de se dessiner à moins de six mois du premier…",
+"source": "BFMTV",
+"date": "2026-11-04T07:16:13+00:00",
+"added": "2026-11-06T21:28:04+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "2b0d1175b3fb5d9a",
 "title": "Midterms : ce que change une majorité démocrate au Congrès pour Trump et les républicains",
 "link": "https://www.france24.com/fr/am%C3%A9riques/20261104-midterms-ce-que-change-une-majorit%C3%A9-d%C3%A9mocrate-au-congr%C3%A8s-pour-trump-et-les-r%C3%A9publicains",
@@ -13520,6 +14264,26 @@
 "speaker": ""
 },
 {
+"id": "ff65d7079ab13174",
+"title": "SONDAGE LCI - Présidentielle 2027 : à six mois du scrutin, un duel Le Pen-Mélenchon toujours plus vraisemblable",
+"link": "https://www.tf1info.fr/player/f10522ae-196c-46cd-9de2-78ca0a21edd0/",
+"summary": "LCI dévoile ce mardi un nouveau sondage réalisé avec son partenaire de l'Ifop. Marine Le Pen et Jean-Luc Mélenchon font la course largement en tête, se qualifiant sans conteste au second tour dans toutes les hypothèses testées.",
+"source": "TF1 Info",
+"date": "2026-11-04T00:19:12+00:00",
+"added": "2026-11-06T21:28:04+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "5a842ce134091ead",
 "title": "Édition spéciale : Bruno Retailleau invité exceptionnel de BFMTV - 03/11",
 "link": "https://www.bfmtv.com/replay-emissions/les-emissions-speciales/video-edition-speciale-bruno-retailleau-invite-exceptionnel-de-bfmtv-03-11_VN-202611031040.html",
@@ -14376,723 +15140,5 @@
 "Annonce"
 ],
 "speaker": ""
-},
-{
-"id": "b2f1ab3fda7f835b",
-"title": "Pouvoir d'achat: Bruno Retailleau refuse une revalorisation du Smic, mais souhaite mieux rémunérer ceux qui veulent travailler \"un peu plus\"",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-pouvoir-d-achat-bruno-retailleau-refuse-une-revalorisation-du-smic-mais-souhaite-mieux-remunerer-ceux-qui-veulent-travailler-un-peu-plus_VN-202611030953.html",
-"summary": "VIDÉO - Ce mardi 3 novembre, BFMTV a organisé sa première soirée événement 2027 présentée par Apolline de Malherbe et Maxime Switek : « Vous Président ».",
-"source": "BFMTV",
-"date": "2026-11-03T21:25:53+00:00",
-"added": "2026-11-04T15:42:46+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Bruno Retailleau"
-},
-{
-"id": "814d5552a421b70e",
-"title": "Euthanasie : \"Ces lois sociétales divisent énormément\", estime Bruno Retailleau, président des Républicains et candidat à la présidentielle",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-euthanasie-ces-lois-societales-divisent-enormement-estime-bruno-retailleau-president-des-republicains-et-candidat-a-la-presidentielle_VN-202611030949.html",
-"summary": "VIDÉO - Ce mardi 3 novembre, BFMTV a organisé sa première soirée événement 2027 présentée par Apolline de Malherbe et Maxime Switek : « Vous Président ».",
-"source": "BFMTV",
-"date": "2026-11-03T21:21:50+00:00",
-"added": "2026-11-04T06:40:53+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Bruno Retailleau"
-},
-{
-"id": "b46c5ba45212229c",
-"title": "La conférence du député LFI Raphaël Arnault, annulée à Lyon pour des raisons de sécurité, aura finalement lieu à Villeurbanne",
-"link": "https://www.lemonde.fr/politique/article/2026/11/03/la-conference-du-depute-lfi-raphael-arnault-annulee-a-lyon-pour-des-raisons-de-securite-aura-finalement-lieu-a-villeurbanne_6805669_823448.html",
-"summary": "« Nous serons bien présents ce vendredi » pour rappeler que « Lyon et ses alentours sont des terres d’antifascisme et de résistance à l’extrême droite », ont affirmé dans un communiqué le député du Vaucluse et sa collègue du Rhône, Anaïs Belouassa-Cherifi.",
-"source": "Le Monde",
-"date": "2026-11-03T21:13:18+00:00",
-"added": "2026-11-03T21:29:19+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement",
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "605354f9eee0c90d",
-"title": "\"Il y a beaucoup de talent à droite\": en cas de victoire, Bruno Retailleau assure que Jordan Bardella \"ne sera pas\" son Premier ministre",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-il-y-a-beaucoup-de-talent-a-droite-en-cas-de-victoire-bruno-retailleau-assure-que-jordan-bardella-ne-sera-pas-son-premier-ministre_VN-202611030946.html",
-"summary": "VIDÉO - Ce mardi 3 novembre, BFMTV a organisé sa première soirée événement 2027 présentée par Apolline de Malherbe et Maxime Switek : « Vous Président ».",
-"source": "BFMTV",
-"date": "2026-11-03T21:13:01+00:00",
-"added": "2026-11-03T21:29:19+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"elysee",
-"gouvernement",
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Bruno Retailleau"
-},
-{
-"id": "829133f96b8f1e07",
-"title": "\"Je n’ai jamais été dans le bloc central\", assure Bruno Retailleau, président des Républicains et candidat à l’élection présidentielle, qui dit vouloir \"assumer une rupture\"",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-je-n-ai-jamais-ete-dans-le-bloc-central-assure-bruno-retailleau-president-des-republicains-et-candidat-a-l-election-presidentielle-qui-dit-vouloir-assumer-une-rupture_VN-202611030943.html",
-"summary": "VIDÉO - Ce mardi 3 novembre, BFMTV a organisé sa première soirée événement 2027 présentée par Apolline de Malherbe et Maxime Switek : « Vous Président ».",
-"source": "BFMTV",
-"date": "2026-11-03T21:06:57+00:00",
-"added": "2026-11-04T06:40:53+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Bruno Retailleau"
-},
-{
-"id": "428ffe3ae399c14f",
-"title": "Le Syndicat de la magistrature \"outrepasse ses droits\", estime Bruno Retailleau, candidat LR à la présidentielle",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-le-syndicat-de-la-magistrature-outrepasse-ses-droits-estime-bruno-retailleau-candidat-lr-a-la-presidentielle_VN-202611030942.html",
-"summary": "VIDÉO - Ce mardi 3 novembre, BFMTV a organisé sa première soirée événement 2027 présentée par Apolline de Malherbe et Maxime Switek : « Vous Président ».",
-"source": "BFMTV",
-"date": "2026-11-03T21:05:24+00:00",
-"added": "2026-11-03T21:29:19+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Bruno Retailleau"
-},
-{
-"id": "5d13eb200edc5dd6",
-"title": "Europe: \"La loi européenne ne peut être supérieure à la loi nationale\", affirme Bruno Retailleau, président des Républicains et candidat à la présidentielle",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-europe-la-loi-europeenne-ne-peut-etre-superieure-a-la-loi-nationale-affirme-bruno-retailleau-president-des-republicains-et-candidat-a-la-presidentielle_VN-202611030938.html",
-"summary": "VIDÉO - Ce mardi 3 novembre, BFMTV a organisé sa première soirée événement 2027 présentée par Apolline de Malherbe et Maxime Switek : « Vous Président ».",
-"source": "BFMTV",
-"date": "2026-11-03T21:00:31+00:00",
-"added": "2026-11-04T06:40:53+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Bruno Retailleau"
-},
-{
-"id": "fefbe3623b1275a4",
-"title": "Bruno Retailleau face à la rédaction",
-"link": "https://www.bfmtv.com/replay-emissions/vous-president/video-bruno-retailleau-face-a-la-redaction_VN-202611031046.html",
-"summary": "VIDÉO - À l'approche de l'élection présidentielle de 2027, Bruno Retailleau, président des Républicains, ancien ministre de l'Intérieur et candidat à l'Élysée, a fait face à la rédaction de BFMTV lors d'une émission spéciale.",
-"source": "BFMTV",
-"date": "2026-11-03T21:00:00+00:00",
-"added": "2026-11-04T06:40:53+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement",
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "8c30ad29cb6439ae",
-"title": "\"Je veux rétablir le régime du général de Gaulle\", assure Bruno Retailleau, candidat LR à la présidentielle",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-je-veux-retablir-le-regime-du-general-de-gaulle-assure-bruno-retailleau-candidat-lr-a-la-presidentielle_VN-202611030935.html",
-"summary": "VIDÉO - Ce mardi 3 novembre, BFMTV a organisé sa première soirée événement 2027 présentée par Apolline de Malherbe et Maxime Switek : « Vous Président ».",
-"source": "BFMTV",
-"date": "2026-11-03T20:57:35+00:00",
-"added": "2026-11-04T06:40:53+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Bruno Retailleau"
-},
-{
-"id": "614104bc5fed995b",
-"title": "Présidentielle 2027: \"Ce que je veux, c’est l’État de droit\", martèle Bruno Retailleau, président des Républicains et candidat à l’Élysée",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-2027-ce-que-je-veux-c-est-l-etat-de-droit-martele-bruno-retailleau-president-des-republicains-et-candidat-a-l-elysee_VN-202611030932.html",
-"summary": "VIDÉO - Ce mardi 3 novembre, BFMTV a organisé sa première soirée événement 2027 présentée par Apolline de Malherbe et Maxime Switek : « Vous Président ».",
-"source": "BFMTV",
-"date": "2026-11-03T20:49:22+00:00",
-"added": "2026-11-03T21:29:19+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"elysee",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Bruno Retailleau"
-},
-{
-"id": "5a2fff7db99b51cf",
-"title": "Elle pénaliserait “les très petites et moyennes entreprises” : Jordan Bardella se prononce contre l’augmentation du SMIC",
-"link": "https://www.lamontagne.fr/trappes-78190/actualites/elle-penaliserait-les-tres-petites-et-moyennes-entreprises-jordan-bardella-se-prononce-contre-laugmentation-du-smic_15074057/",
-"summary": "",
-"source": "La Montagne",
-"date": "2026-11-03T20:48:00+00:00",
-"added": "2026-11-04T06:40:53+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "73fe33df59bf0a4a",
-"title": "\"Après 10 ans d'En Marche, plus rien ne marche\", ironise Bruno Retailleau, candidat LR à la présidentielle",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-apres-10-ans-d-en-marche-plus-rien-ne-marche-ironise-bruno-retailleau-candidat-lr-a-la-presidentielle_VN-202611030927.html",
-"summary": "VIDÉO - Ce mardi 3 novembre, BFMTV a organisé sa première soirée événement 2027 présentée par Apolline de Malherbe et Maxime Switek : « Vous Président ».",
-"source": "BFMTV",
-"date": "2026-11-03T20:42:04+00:00",
-"added": "2026-11-04T06:40:53+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Bruno Retailleau"
-},
-{
-"id": "6f79fe06d508d4fd",
-"title": "Présidentielle 2027 : s'il est élu, David Lisnard promet un «gouvernement commando»",
-"link": "https://www.lefigaro.fr/elections/presidentielles/candidats/presidentielle-2027-s-il-est-elu-david-lisnard-promet-un-gouvernement-commando-20261103",
-"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
-"source": "Le Figaro",
-"date": "2026-11-03T20:40:55+00:00",
-"added": "2026-11-03T21:29:19+00:00",
-"official": false,
-"also": [
-"Europe 1",
-"Le Parisien",
-"20 Minutes"
-],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"gouvernement",
-"presidentielle"
-],
-"natures": [
-"Citation",
-"Annonce"
-],
-"speaker": "David Lisnard"
-},
-{
-"id": "8783e205cbc91db1",
-"title": "Le budget 2027 de l’agriculture vise à « s’assurer que l’été prochain ne ressemble en rien » à l’été 2026, insiste Annie Genevard",
-"link": "https://www.publicsenat.fr/actualites/economie/le-budget-2027-de-lagriculture-vise-a-sassurer-que-lete-prochain-ne-ressemble-en-rien-a-lete-2026-insiste-annie-genevard",
-"summary": "La ministre de l’Agriculture et de l’Alimentation a précisé que le plan de relance, très attendu par les exploitations fragilisées par la sécheresse, se traduira par des amendements du gouvernement lors des débats au Sénat.",
-"source": "Public Sénat",
-"date": "2026-11-03T20:40:25+00:00",
-"added": "2026-11-04T07:58:25+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement",
-"parlement"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Annie Genevard"
-},
-{
-"id": "ba1961d197fab0ef",
-"title": "Accident de train en Espagne : le ministre des Transports annonce sa démission après la catastrophe mortelle",
-"link": "https://www.ouest-france.fr/faits-divers/accidents/accident-de-train-en-espagne-le-ministre-des-transports-annonce-sa-demission-apres-la-catastrophe-mortelle-ceef2be6-d7c3-11f1-b736-5b9907ef0b5a",
-"summary": "",
-"source": "Ouest-France",
-"date": "2026-11-03T20:33:52+00:00",
-"added": "2026-11-03T21:29:19+00:00",
-"official": false,
-"also": [
-"RFI",
-"La Voix du Nord"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [
-"Annonce"
-],
-"speaker": ""
-},
-{
-"id": "3ba4fd279c286f48",
-"title": "Propos d’Édouard Philippe sur l’origine des pilleurs: \"Ce sont des faits\", réagit Bruno Retailleau, candidat LR en 2027",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-propos-d-edouard-philippe-sur-l-origine-des-pilleurs-ce-sont-des-faits-reagit-bruno-retailleau-candidat-lr-en-2027_VN-202611030921.html",
-"summary": "VIDÉO - Ce mardi 3 novembre, BFMTV a organisé sa première soirée événement 2027 présentée par Apolline de Malherbe et Maxime Switek : « Vous Président ».",
-"source": "BFMTV",
-"date": "2026-11-03T20:31:59+00:00",
-"added": "2026-11-04T06:40:53+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"partis"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "Bruno Retailleau"
-},
-{
-"id": "e7647a4082c920b6",
-"title": "Présidentielle 2027 : David Lisnard assure avoir obtenu les 500 parrainages et invite Éric Ciotti \"à se séparer du RN\"",
-"link": "https://www.midilibre.fr/2026/11/03/presidentielle-2027-david-lisnard-assure-avoir-obtenu-les-500-parrainages-et-invite-eric-ciotti-a-se-separer-du-rn-13634496.php",
-"summary": "Invité sur le plateau de BFMTV ce mardi 3 novembre, le maire de Cannes et candidat Nouvelle Énergie David Lisnard a confirmé sa candidature à la présidentielle 2027.",
-"source": "Midi Libre",
-"date": "2026-11-03T20:25:00+00:00",
-"added": "2026-11-03T21:29:19+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation",
-"Interview"
-],
-"speaker": "David Lisnard"
-},
-{
-"id": "d4bc9f97d49695e7",
-"title": "Collision ferroviaire en Espagne : le ministre des Transports présente sa démission",
-"link": "https://www.europe1.fr/international/collision-ferroviaire-en-espagne-le-ministre-des-transports-presente-sa-demission-1206272",
-"summary": "Le ministre espagnol des Transports, Óscar Puente, a annoncé mardi sa démission, près d'une semaine après la catastrophe ferroviaire qui a fait au moins 69 morts.",
-"source": "Europe 1",
-"date": "2026-11-03T20:19:41+00:00",
-"added": "2026-11-03T21:29:19+00:00",
-"official": false,
-"also": [
-"RTL",
-"20 Minutes"
-],
-"base": [
-"matinales"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"gouvernement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "67e39c9ec08081dc",
-"title": "Attentat raciste des Yvelines : Jordan Bardella répond au maire de Trappes et l'accuse de \"propos indignes\"",
-"link": "https://www.rtl.fr/actu/politique/attentat-raciste-des-yvelines-jordan-bardella-repond-au-maire-de-trappes-et-l-accuse-de-propos-indignes-7900692333",
-"summary": "Depuis l'attentat raciste de Trappes, la gauche accuse l'extrême droite d'avoir, par ses propos, symboliquement encouragé le passage à l'acte du tireur.",
-"source": "RTL",
-"date": "2026-11-03T20:18:42+00:00",
-"added": "2026-11-03T21:29:19+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "Jordan Bardella"
-},
-{
-"id": "642ec69260c5065e",
-"title": "\"Ne vous laissez pas faire\": Bruno Retailleau, candidat Les Républicains à l'élection présidentielle, rappelle ses consignes aux forces de l'ordre quand il était ministre de l'Intérieur",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-ne-vous-laissez-pas-faire-bruno-retailleau-candidat-les-republicains-a-l-election-presidentielle-rappelle-ses-consignes-aux-forces-de-l-ordre-quand-il-etait-ministre-de-l-interieur_VN-202611030912.html",
-"summary": "VIDÉO - Ce mardi 3 novembre, BFMTV a organisé sa première soirée événement 2027 présentée par Apolline de Malherbe et Maxime Switek : « Vous Président ».",
-"source": "BFMTV",
-"date": "2026-11-03T20:16:12+00:00",
-"added": "2026-11-03T21:29:19+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"gouvernement",
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Bruno Retailleau"
-},
-{
-"id": "17204314d7aadd45",
-"title": "\"LFI met des cibles dans le dos des journalistes\", affirme Bruno Retailleau, candidat LR à la présidentielle",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-lfi-met-des-cibles-dans-le-dos-des-journalistes-affirme-bruno-retailleau-candidat-lr-a-la-presidentielle_VN-202611030910.html",
-"summary": "VIDÉO - Ce mardi 3 novembre, BFMTV a organisé sa première soirée événement 2027 présentée par Apolline de Malherbe et Maxime Switek : « Vous Président ».",
-"source": "BFMTV",
-"date": "2026-11-03T20:14:44+00:00",
-"added": "2026-11-04T06:40:53+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Bruno Retailleau"
-},
-{
-"id": "10811fa0494934d2",
-"title": "Collèges et lycées bloqués: \"Bien sûr que je les débloquerai\", assure Bruno Retailleau, candidat LR à la présidentielle",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-colleges-et-lycees-bloques-bien-sur-que-je-les-debloquerai-assure-bruno-retailleau-candidat-lr-a-la-presidentielle_VN-202611030908.html",
-"summary": "VIDÉO - Ce mardi 3 novembre, BFMTV a organisé sa première soirée événement 2027 présentée par Apolline de Malherbe et Maxime Switek : « Vous Président ».",
-"source": "BFMTV",
-"date": "2026-11-03T20:11:29+00:00",
-"added": "2026-11-04T06:40:53+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Bruno Retailleau"
-},
-{
-"id": "6860295fce1235c2",
-"title": "David Lisnard, candidat Nouvelle Énergie pour 2027, revient sur une potentielle primaire de droite",
-"link": "https://www.bfmtv.com/replay-emissions/100-mabrouk/video-david-lisnard-candidat-nouvelle-energie-pour-2027-revient-sur-une-potentielle-primaire-de-droite_VN-202611030918.html",
-"summary": "VIDÉO - David Lisnard, maire de Cannes et candidat \"Nouvelle Énergie\" à la présidentielle, était l'invité de BFM de ce mardi 3 novembre.",
-"source": "BFMTV",
-"date": "2026-11-03T20:09:32+00:00",
-"added": "2026-11-03T21:29:19+00:00",
-"official": false,
-"also": [
-"Le Figaro"
-],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "227879192411abdb",
-"title": "\"Bruno Retailleau, c'est celui, dans le spectre politique, dont je suis le plus proche\", affirme David Lisnard, candidat Nouvelle Énergie à l'élection présidentielle",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-bruno-retailleau-c-est-celui-dans-le-spectre-politique-dont-je-suis-le-plus-proche-affirme-david-lisnard-candidat-nouvelle-energie-a-l-election-presidentielle_VN-202611030900.html",
-"summary": "VIDÉO - David Lisnard, candidat \"Nouvelle Énergie\" à l'élection présidentielle, était invité sur le plateau de BFMTV, ce mardi 3 novembre.",
-"source": "BFMTV",
-"date": "2026-11-03T20:05:33+00:00",
-"added": "2026-11-03T21:29:19+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "David Lisnard"
-},
-{
-"id": "dddf655d3f9f5f76",
-"title": "Travail: \"Je suis pour les élites ouvertes, pas les aristocraties autoproclamées\", déclare David Lisnard, candidat Nouvelle Énergie à la présidentielle",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-travail-je-suis-pour-les-elites-ouvertes-pas-les-aristocraties-autoproclamees-declare-david-lisnard-candidat-nouvelle-energie-a-la-presidentielle_VN-202611030899.html",
-"summary": "VIDÉO - David Lisnard, candidat \"Nouvelle Énergie\" à la présidentielle et maire de Cannes, était l'invité de BFM ce mardi 3 novembre.",
-"source": "BFMTV",
-"date": "2026-11-03T20:04:22+00:00",
-"added": "2026-11-03T21:29:19+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "David Lisnard"
-},
-{
-"id": "13c9d9a3b95ade44",
-"title": "Quand le maire LFI Bally Bagayoko se réclame de Robespierre",
-"link": "https://www.valeursactuelles.com/politique/robespierre-oui-ca-me-va-bien-le-maire-lfi-de-saint-denis-bally-bagayoko-assume-la-reference-a-la-figure-emblematique-de-la-terreur",
-"summary": "Dis-moi qui tu admires, je te dirai qui tu es ? Invité sur le plateau de LCI dimanche 1er novembre, le maire LFI de Saint-Denis Bally Bagayoko a revendiqué un tempérament et des aspirations de révolutionnaire.",
-"source": "Valeurs actuelles",
-"date": "2026-11-03T20:03:00+00:00",
-"added": "2026-11-04T07:58:25+00:00",
-"official": false,
-"also": [],
-"base": [
-"matinales"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"partis"
-],
-"natures": [],
-"speaker": "Bally Bagayoko"
-},
-{
-"id": "d862e54780bcee83",
-"title": "David Lisnard revendique plus de 100.000 adhésions payantes: \"Il s’est passé quelque chose, c'est sûr\" lance le candidat Nouvelle Énergie à l'élection présidentielle",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-david-lisnard-revendique-plus-de-100-000-adhesions-payantes-il-s-est-passe-quelque-chose-c-est-sur-lance-le-candidat-nouvelle-energie-a-l-election-presidentielle_VN-202611030895.html",
-"summary": "VIDÉO - David Lisnard, candidat \"Nouvelle Énergie\" à la présidentielle et maire de Cannes, était l'invité de BFM ce mardi 3 novembre.",
-"source": "BFMTV",
-"date": "2026-11-03T20:00:05+00:00",
-"added": "2026-11-03T21:29:19+00:00",
-"official": false,
-"also": [
-"20 Minutes"
-],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "David Lisnard"
-},
-{
-"id": "b358582fe040f682",
-"title": "\"Toc toc, c'est moi qui frappe à la porte des élections\": David Lisnard, candidat Nouvelle Énergie pour la présidentielle, est \"ravi\" du soutien de Patrick Sébastien",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-toc-toc-c-est-moi-qui-frappe-a-la-porte-des-elections-david-lisnard-candidat-nouvelle-energie-pour-la-presidentielle-est-ravi-du-soutien-de-patrick-sebastien_VN-202611030894.html",
-"summary": "VIDÉO - David Lisnard, maire de Cannes et candidat \"Nouvelle Énergie\" à la présidentielle, était l'invité de BFM de ce mardi 3 novembre.",
-"source": "BFMTV",
-"date": "2026-11-03T19:58:40+00:00",
-"added": "2026-11-03T21:29:19+00:00",
-"official": false,
-"also": [
-"RTL"
-],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "cfab8c2dea51ea6c",
-"title": "Présidentielle 2027: le second tour fixé au 2 mai \"pose problème\", estime David Lisnard, candidat Nouvelle Énergie",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-2027-le-second-tour-fixe-au-2-mai-pose-probleme-estime-david-lisnard-candidat-nouvelle-energie_VN-202611030892.html",
-"summary": "VIDÉO - David Lisnard, candidat \"Nouvelle Énergie\" à la présidentielle et maire de Cannes, était l'invité de BFM ce mardi 3 novembre.",
-"source": "BFMTV",
-"date": "2026-11-03T19:55:13+00:00",
-"added": "2026-11-03T21:29:19+00:00",
-"official": false,
-"also": [],
-"base": [
-"matinales"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "David Lisnard"
-},
-{
-"id": "c946544b9f68e601",
-"title": "Immigration: David Lisnard, candidat Nouvelle Énergie à la présidentielle évoque un \"échec des politiques migratoires en France\"",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-immigration-david-lisnard-candidat-nouvelle-energie-a-la-presidentielle-evoque-un-echec-des-politiques-migratoires-en-france_VN-202611030891.html",
-"summary": "VIDÉO - David Lisnard, candidat \"Nouvelle Énergie\" à la présidentielle et maire de Cannes, était l'invité de BFM ce mardi 3 novembre.",
-"source": "BFMTV",
-"date": "2026-11-03T19:53:43+00:00",
-"added": "2026-11-03T21:29:19+00:00",
-"official": false,
-"also": [],
-"base": [
-"matinales"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": ""
-},
-{
-"id": "4121a0daeb2a1887",
-"title": "Présidentielle 2027 : Glucksmann glisse dans les sondages, le duel Le Pen - Mélenchon toujours plus plausible",
-"link": "https://www.20minutes.fr/politique/4260164-20261103-presidentielle-2027-glucksmann-glisse-sondages-duel-pen-melenchon-toujours-plus-plausible?at_medium=display&at_campaign=149",
-"summary": "Raphaël Glucksmann subit une forte baisse dans les sondages, deux semaines seulement après sa victoire à la primaire de la gauche sociale-démocrate du 11 octobre.",
-"source": "20 Minutes",
-"date": "2026-11-03T19:42:24+00:00",
-"added": "2026-11-03T21:29:19+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": "Raphaël Glucksmann"
 }
 ]
