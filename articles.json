@@ -1,5 +1,232 @@
 [
 {
+"id": "2bbd1523591d474d",
+"title": "Présidentielle: le meeting de La France insoumise commence au Bourget, le discours de Jean-Luc Mélenchon attendu vers 16h45",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/direct-presidentielle-2027-jean-luc-melenchon-attendu-pour-un-meeting-au-bourget-edouard-philippe-a-la-ciotat-et-saint-raphael_LN-202611070180.html",
+"summary": "À six mois de l'élection présidentielle, le candidat insoumis Jean-Luc Mélenchon tient un meeting au Bourget pour présenter son programme ce samedi 7 novembre.",
+"source": "BFMTV",
+"date": "2026-11-07T15:00:34+00:00",
+"added": "2026-11-07T15:24:49+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Discours"
+],
+"speaker": ""
+},
+{
+"id": "c1a3bb52f2c9aed0",
+"title": "Marine Le Pen et Edouard Philippe attaquent le programme de LFI, que Jean-Luc Mélenchon doit présenter samedi lors d’un meeting au Bourget",
+"link": "https://www.lemonde.fr/politique/article/2026/11/07/marine-le-pen-et-edouard-philippe-attaquent-le-programme-de-lfi-que-jean-luc-melenchon-doit-presenter-samedi-lors-d-un-meeting-au-bourget_6808286_823448.html",
+"summary": "La France insoumise a publié vendredi son programme présidentiel pour 2027. Les réactions politiques, notamment à droite et à l’extrême droite, se sont multipliées samedi.",
+"source": "Le Monde",
+"date": "2026-11-07T14:43:50+00:00",
+"added": "2026-11-07T15:24:49+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Discours"
+],
+"speaker": ""
+},
+{
+"id": "b17ab559df864b07",
+"title": "“Il y a un vrai phénomène Jean-Luc Mélenchon. Mais inarrêtable ? Non”",
+"link": "https://www.courrierinternational.com/article/entretien-il-y-a-un-vrai-phenomene-jean-luc-melenchon-mais-inarretable-non_285480",
+"summary": "COURRIER INTERNATIONAL : Accueilli comme une vedette dans les manifestations, soutenu par une majorité de députés communistes, grand meeting au Bourget…",
+"source": "Courrier international",
+"date": "2026-11-07T14:26:22+00:00",
+"added": "2026-11-07T15:24:49+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"parlement",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "921de93348dff651",
+"title": "Mouvement social : un cadre du Rassemblement national porte plainte après des tags le visant à la faculté de pharmacie de Tours",
+"link": "https://www.lanouvellerepublique.fr/indre-et-loire/mouvement-social-un-cadre-du-rassemblement-national-porte-plainte-apres-des-tags-le-visant-a-la-faculte-de-pharmacie-de-tours-1794061362",
+"summary": "L’inscription a été découverte lundi 2 novembre 2026, selon le Rassemblement national. © (Photo Romain Dussart)\nRomain Dussart, délégué départemental du Rassemblement national du Loir-et-Cher, annonce à la NR avoir porté plainte après la découverte d’inscriptions le visant nommément sur le site de la faculté de…",
+"source": "La Nouvelle République",
+"date": "2026-11-07T14:22:30+00:00",
+"added": "2026-11-07T15:24:49+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "2f0bb75e4e412c42",
+"title": "Présidentielle 2027 : les Français font plus confiance à la droite",
+"link": "https://www.valeursactuelles.com/politique/presidentielle-2027-marine-le-pen-bruno-retailleau-david-lisnard-les-francais-font-plus-confiance-a-des-candidats-de-droite-selon-un-sondage",
+"summary": "Dix points séparent Marine Le Pen de son premier poursuivant. À six mois de la présidentielle, la figure du Rassemblement national arrive en tête des personnalités auxquelles les Français font confiance pour affronter les grands défis à venir.",
+"source": "Valeurs actuelles",
+"date": "2026-11-07T14:06:49+00:00",
+"added": "2026-11-07T15:24:49+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "6b4a5f3f9872f15e",
+"title": "Fabien Roussel",
+"link": "https://www.bfmtv.com/politique/fabien-roussel_DN-202105090296.html",
+"summary": "Élu secrétaire national du PCF en 2018, Fabien Roussel a été choisi pour représenter les communistes à l'élection présidentielle 2022 et en 2027.",
+"source": "BFMTV",
+"date": "2026-11-07T14:03:44+00:00",
+"added": "2026-11-07T15:24:49+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "34f6f872851e2cd3",
+"title": "Le Parti communiste français déclare que tout adhérent qui ne soutient pas son candidat pour 2027 se met \"en dehors du parti\"",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/le-parti-communiste-francais-declare-que-tout-adherent-qui-ne-soutient-pas-son-candidat-pour-2027-se-met-en-dehors-du-parti_AD-202611070342.html",
+"summary": "Dans un communiqué publié ce samedi 7 novembre, le Parti communiste français a fait savoir que tout adhérent qui soutiendrait un autre candidat que Fabien Roussel se mettrait \"de lui-même en dehors du parti\" et ne pourrait \"plus s'exprimer au nom du PCF\" pendant la campagne.",
+"source": "BFMTV",
+"date": "2026-11-07T14:03:43+00:00",
+"added": "2026-11-07T15:24:49+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": ""
+},
+{
+"id": "13b548696c4db896",
+"title": "Pour Éric Ciotti, président de l'UDR et maire de Nice, “nous avons besoin de travailler plus” pour financer les retraites",
+"link": "https://www.bfmtv.com/politique/video-pour-eric-ciotti-president-de-l-udr-et-maire-de-nice-nous-avons-besoin-de-travailler-plus-pour-financer-les-retraites_VN-202611070332.html",
+"summary": "Lors des Rencontres de l’Avenir, ce samedi 7 novembre, à Saint-Raphaël (Var), Éric Ciotti a évoqué sa réforme des retraites et a affirmé que les Français avaient besoin de travailler plus.",
+"source": "BFMTV",
+"date": "2026-11-07T13:53:44+00:00",
+"added": "2026-11-07T15:24:49+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Éric Ciotti"
+},
+{
+"id": "9a34cbdcc3eb9cb8",
+"title": "Présidentielle 2027 : François de Canson veut un candidat unique pour la droite et le centre",
+"link": "https://www.bfmtv.com/var/videos/video-presidentielle-2027-francois-de-canson-veut-un-candidat-unique-pour-la-droite-et-le-centre_VN-202611070329.html",
+"summary": "VIDÉO - Pendant trois jours, du 6 au 8 novembre, Saint-Raphaël accueille les grandes figures politiques françaises pour débattre des enjeux de demain, à quelques mois de la présidentielle de 2027.",
+"source": "BFMTV",
+"date": "2026-11-07T13:44:22+00:00",
+"added": "2026-11-07T15:24:49+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": "François de Canson"
+},
+{
+"id": "5c0925d1ee617835",
+"title": "Présidentielle 2027 : Jean Luc Mélenchon révèle son programme ce samedi… Retour sur les mille mesures de La France insoumise",
+"link": "https://www.midilibre.fr/2026/11/07/presidentielle-2027-jean-luc-melenchon-revele-son-programme-ce-samedi-retour-sur-les-mille-mesures-de-la-france-insoumise-13641333.php",
+"summary": "Jean-Luc Mélenchon dévoile le programme de La France insoumise pour la présidentielle, présenté ce samedi 7 novembre au Bourget (Seine-Saint-Denis).",
+"source": "Midi Libre",
+"date": "2026-11-07T13:41:00+00:00",
+"added": "2026-11-07T15:24:49+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "e315f86a607f9161",
+"title": "Présidentielle 2027 : « Je ne suis pas le même » qu’Emmanuel Macron, affirme Édouard Philippe en soulignant ses différences avec le président",
+"link": "https://www.sudouest.fr/politique/edouard-philippe/presidentielle-2027-je-ne-suis-pas-le-meme-qu-emmanuel-macron-affirme-edouard-philippe-en-soulignant-ses-differences-avec-le-president-31426374.php",
+"summary": "",
+"source": "Sud Ouest",
+"date": "2026-11-07T13:40:34+00:00",
+"added": "2026-11-07T15:24:49+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"elysee",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Édouard Philippe"
+},
+{
 "id": "c804852ef03f55ac",
 "title": "Présidentielle 2027 : les députés communistes qui soutiennent LFI se mettent « en dehors du parti », dit le PCF",
 "link": "https://www.lemonde.fr/politique/article/2026/11/07/presidentielle-2027-les-deputes-communistes-qui-soutiennent-lfi-se-mettent-en-dehors-du-parti-dit-le-pcf_6808279_823448.html",
@@ -11,7 +238,8 @@
 "also": [
 "Libération",
 "BFMTV",
-"Le Dauphiné Libéré"
+"Le Dauphiné Libéré",
+"France 24"
 ],
 "base": [],
 "filtered": true,
@@ -894,7 +1122,8 @@
 "Ouest-France",
 "CNews",
 "Le Dauphiné Libéré",
-"Euronews"
+"Euronews",
+"France 24"
 ],
 "base": [
 "partis"
@@ -7885,6 +8114,27 @@
 "speaker": ""
 },
 {
+"id": "f3daed7434541809",
+"title": "La question du jour. Présidentielle : seriez-vous favorable à une coalition allant de Glucksmann à Lisnard ?",
+"link": "https://www.ouest-france.fr/elections/presidentielle/la-question-du-jour-presidentielle-seriez-vous-favorable-a-une-coalition-allant-de-glucksmann-a-lisnard-bca5fade-d91a-11f1-a1e1-ae8104d72c9a",
+"summary": "",
+"source": "Ouest-France",
+"date": "2026-11-05T16:32:06+00:00",
+"added": "2026-11-07T15:24:49+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "207ec7d103cd6487",
 "title": "\"Carpentras insoumise\" : un nouveau groupe d’action créé par La France insoumise",
 "link": "https://www.laprovence.com/article/politique/10095177088087/carpentras-insoumise-un-nouveau-groupe-d-action-cree-par-la-france-insoumise",
@@ -10266,6 +10516,27 @@
 "Citation"
 ],
 "speaker": "Marylise Léon"
+},
+{
+"id": "6d62f3e0e9c72285",
+"title": "Des propos \"tout bonnement inadmissibles\": La Ciivise saisit l'Assemblée nationale après des \"invectives\" de Julien Odoul",
+"link": "https://lcp.fr/actualites/des-propos-tout-bonnement-inadmissibles-la-ciivise-saisit-l-assemblee-nationale-apres",
+"summary": "La directrice de la Ciivise, Maryse Le Men-Régnier, a adressé une lettre ouverte à la présidente de l'Assemblée nationale Yaël Braun-Pivet pour dénoncer les \"invectives abjectes\" du député Rassemblement national Julien Odoul, qui a critiqué son institution.",
+"source": "LCP",
+"date": "2026-11-05T07:48:27+00:00",
+"added": "2026-11-07T15:24:49+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement",
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Julien Odoul"
 },
 {
 "id": "4a404b64cdf5f16a",
@@ -12684,532 +12955,6 @@
 "topics": [
 "matinales",
 "elysee"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "2d3ae6c4d89836b4",
-"title": "Cumul emploi – retraite : le sénateur Xavier Iacovelli demande au gouvernement de retirer son décret",
-"link": "https://www.publicsenat.fr/actualites/politique/cumul-emploi-retraite-le-senateur-xavier-iacovelli-demande-au-gouvernement-de-retirer-son-decret",
-"summary": "Xavier Iacovelli, président du groupe Renaissance et habituel allié du gouvernement, demande au gouvernement l’annulation d’un décret du ministre du Travail daté du 3 novembre, qui restreint les conditions dans lesquelles les retraités peuvent cumuler leur pension avec un éventuel salaire.",
-"source": "Public Sénat",
-"date": "2026-11-04T15:18:04+00:00",
-"added": "2026-11-04T19:45:39+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement",
-"parlement",
-"partis"
-],
-"natures": [],
-"speaker": "Xavier Iacovelli"
-},
-{
-"id": "cbd3e3dbe5c1985e",
-"title": "Présidentielle 2027 : les résultats des midterms aux Etats-Unis gênent le RN et réjouissent la gauche",
-"link": "https://www.lemonde.fr/politique/article/2026/11/04/presidentielle-2027-les-resultats-des-midterms-americains-genent-le-rn-et-rejouissent-la-gauche_6806278_823448.html",
-"summary": "Gauche française et bloc central ont analysé la défaite du parti de Donald Trump à l’aune des prochaines échéances électorales françaises, y percevant un espoir, alors que le Rassemblement national continue de prendre ses distances avec le « canard boiteux » américain.",
-"source": "Le Monde",
-"date": "2026-11-04T15:12:41+00:00",
-"added": "2026-11-04T15:42:46+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "c3fb3b54fa25dfb0",
-"title": "\"Vous ne serez pas président ni même candidat\": la réponse de Jordan Bardella à Bruno Retailleau qui a affirmé que le président du RN \"ne sera pas\" son Premier ministre s'il est élu",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/vous-ne-serez-pas-president-ni-meme-candidat-la-reponse-de-jordan-bardella-a-bruno-retailleau-qui-a-affirme-que-le-president-du-rn-ne-sera-pas-son-premier-ministre-s-il-est-elu_AN-202611040651.html",
-"summary": "Le président du RN Jordan Bardella à La Seyne-sur-Mer, dans le Var, le 27 septembre 2026 - Thibaud MORITZ\nInterrogé sur son futur Premier ministre, en cas d'élection à la présidence de la République, Bruno Retailleau s'est montré clair ce mercredi 4 novembre sur BFMTV: \"ce ne sera pas Jordan Bardella\".",
-"source": "BFMTV",
-"date": "2026-11-04T15:10:27+00:00",
-"added": "2026-11-04T15:42:46+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement",
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "1ebdc5e72ed7d8e8",
-"title": "\"On ne négocie pas avec Marine Le Pen, on la combat\" : LFI face au scénario d'une victoire du RN à la présidentielle",
-"link": "https://www.lexpress.fr/politique/on-ne-negocie-pas-avec-marine-le-pen-on-la-combat-lfi-face-au-scenario-dune-victoire-du-rn-a-la-XE32BGWOJVESLH2Q5S3QN7PBJU/",
-"summary": "Pouria Amirshahi n’est pas un prophète de malheur. C’est un député inquiet et prévoyant. Ces derniers temps, le parlementaire du groupe écologiste et ses camarades ont voyagé, des Etats-Unis à la Hongrie, en passant par le Brésil et la Turquie.",
-"source": "L'Express",
-"date": "2026-11-04T15:00:00+00:00",
-"added": "2026-11-04T15:42:46+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement",
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "fa97ad521fa0d4da",
-"title": "\"On est dans des contextes très différents\" : pour le président du RN, il n'y a aucun \"rapport\" entre les midterms aux États-Unis et la France",
-"link": "https://www.franceinfo.fr/monde/usa/midterms-2018/on-est-dans-des-contextes-tres-differents-pour-le-president-du-rn-il-n-y-a-aucun-rapport-entre-les-midterms-aux-etats-unis-et-la-france_8267780.html#xtor=RSS-3-%5Bgeneral%5D",
-"summary": "\"Ce qu'il se passe dans les autres pays ne me regarde pas\", a insisté Jordan Bardella mercredi matin, après la défaite de Donald Trump aux élections de mi-mandat américaines.",
-"source": "franceinfo",
-"date": "2026-11-04T14:56:36+00:00",
-"added": "2026-11-04T15:42:46+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "2bd70030be683e1e",
-"title": "Pétition contre CNews : « Le racisme à toutes les sauces », dénonce la sénatrice écologiste Antoinette Guhl",
-"link": "https://www.publicsenat.fr/actualites/politique/petition-contre-cnews-le-racisme-a-toutes-les-sauces-denonce-la-senatrice-ecologiste-antoinette-guhl",
-"summary": "Lors des questions d’actualité au gouvernement au Sénat, la sénatrice écologiste Antoinette Guhl a demandé au gouvernement d’agir pour que « le racisme n’ait définitivement plus sa place sur les fréquences publiques », visant spécifiquement la chaîne CNews.",
-"source": "Public Sénat",
-"date": "2026-11-04T14:55:27+00:00",
-"added": "2026-11-04T19:45:39+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement",
-"parlement"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "Antoinette Guhl"
-},
-{
-"id": "d89b544a568baefa",
-"title": "Etat, épargnants, banques… A qui profite (vraiment) le relèvement du plafond du livret A ?",
-"link": "https://www.franceinfo.fr/economie/votre-argent/livret-a/etat-epargnants-banques-a-qui-profite-vraiment-le-relevement-du-plafond-du-livret-a_8267444.html#xtor=RSS-3-%5Bgeneral%5D",
-"summary": "Cette mesure doit permettre de financer l'adaptation au changement climatique des infrastructures publiques, dont les lycées, selon le gouvernement.",
-"source": "franceinfo",
-"date": "2026-11-04T14:53:35+00:00",
-"added": "2026-11-04T15:42:46+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "82319e0585b96431",
-"title": "\"Plutôt hors de France\" : que va devenir Emmanuel Macron après la présidentielle 2027 ?",
-"link": "https://www.midilibre.fr/2026/11/04/plutot-hors-de-france-que-va-devenir-emmanuel-macron-apres-la-presidentielle-2027-13635660.php",
-"summary": "Emmanuel Macron, après dix ans à l’Élysée, s’apprête à quitter la présidence en mai 2027. Dans Vous êtes tous trop durs avec moi, à paraître le 5 novembre 2026, Françoise Degois dévoile ses réflexions quant à son futur après l’élection présidentielle.",
-"source": "Midi Libre",
-"date": "2026-11-04T14:46:00+00:00",
-"added": "2026-11-04T15:42:46+00:00",
-"official": false,
-"also": [],
-"base": [
-"elysee"
-],
-"filtered": true,
-"topics": [
-"elysee",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "7981d382c3e213df",
-"title": "Compte rendu du Conseil des ministres du 4 novembre 2026.",
-"link": "https://www.elysee.fr/emmanuel-macron/2026/11/04/compte-rendu-du-conseil-des-ministres-du-4-novembre-2026",
-"summary": "Retrouvez le compte rendu du Conseil des ministres du 4 novembre 2026.",
-"source": "Élysée",
-"date": "2026-11-04T14:45:00+00:00",
-"added": "2026-11-04T15:42:46+00:00",
-"official": true,
-"also": [],
-"base": [
-"elysee"
-],
-"filtered": false,
-"topics": [
-"elysee",
-"gouvernement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "0f77465c864bc6ef",
-"title": "«Le changement se fera dans les urnes, pas dans la rue», Laurent Jacobelli, député et porte-parole RN",
-"link": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-politique/20261104-le-changement-se-fera-dans-les-urnes-pas-dans-la-rue-laurent-jacobelli-d%C3%A9put%C3%A9-et-porte-parole-rn",
-"summary": "À la veille de la grande manifestation intersyndicale du 5 novembre, le député RN Laurent Jacobelli, vice-président du groupe à l’Assemblée, dit comprendre les préoccupations des manifestants contre la vie chère et le recul du pouvoir d’achat.",
-"source": "RFI",
-"date": "2026-11-04T14:41:43+00:00",
-"added": "2026-11-04T15:42:46+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"parlement",
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "e01e4bcee6eedd2a",
-"title": "« Quand il veut, où il veut » : Philippe veut un débat avec Mélenchon sur le racisme",
-"link": "https://www.huffingtonpost.fr/politique/article/apres-sa-phrase-polemique-sur-l-immigration-philippe-veut-un-debat-avec-melenchon_352087.html",
-"summary": "Disponible pour une joute.",
-"source": "Le HuffPost",
-"date": "2026-11-04T14:40:10+00:00",
-"added": "2026-11-04T15:42:46+00:00",
-"official": false,
-"also": [
-"BFMTV",
-"Ouest-France",
-"20 Minutes",
-"Le Figaro",
-"RMC",
-"RTL"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Édouard Philippe"
-},
-{
-"id": "114c2355ac35d21f",
-"title": "Midterms 2026 aux États-Unis : malgré près d’un demi-milliard de dollars injectés pour soutenir les républicains, la fortune de Musk n’aura finalement servi à rien",
-"link": "https://www.sudouest.fr/international/etats-unis/midterms-2026-aux-etats-unis-pres-d-un-demi-milliard-de-dollars-pour-soutenir-des-candidats-republicains-la-fortune-de-musk-n-aura-finalement-servi-a-rien-31380506.php",
-"summary": "",
-"source": "Sud Ouest",
-"date": "2026-11-04T14:33:50+00:00",
-"added": "2026-11-04T17:47:42+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "397afa13b91092cc",
-"title": "Midterms : les républicains de l'État du Wyoming conservent leur place",
-"link": "https://www.france24.com/fr/vid%C3%A9o/20261104-midterms-les-r%C3%A9publicains-de-l-%C3%A9tat-du-wyoming-conservent-leur-place",
-"summary": "",
-"source": "France 24",
-"date": "2026-11-04T14:29:00+00:00",
-"added": "2026-11-04T15:42:46+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "3caf88d0f6498648",
-"title": "Présidentielle 2027 : une grande enquête pour départager les candidats au centre et à droite ? Ce qu'en pensent les sondeurs",
-"link": "https://www.tf1info.fr/politique/elections/presidentielle/presidentielle-2027-une-grande-enquete-pour-departager-les-candidats-au-centre-et-a-droite-ce-qu-en-pensent-les-sondeurs-2473687.html",
-"summary": "Au fil des jours, la pression s'intensifie sur le chef de file d'Horizons. Dimanche, Édouard Philippe a fermé la porte à une \"primaire des démocrates\" (nouvelle fenêtre) pour départager le centre et la droite, proposée par Gabriel Attal.",
-"source": "TF1 Info",
-"date": "2026-11-04T14:21:28+00:00",
-"added": "2026-11-04T15:42:46+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "dea8783e81831498",
-"title": "Présidentielle 2027. Après des jours sans, Jordan Bardella (RN) rêve déjà de ses « cent jours » comme Premier ministre",
-"link": "https://www.ouest-france.fr/elections/presidentielle/presidentielle-2027-apres-des-jours-sans-jordan-bardella-rn-reve-deja-de-ses-cent-jours-comme-premier-ministre-b15b7b82-d856-11f1-b736-5b9907ef0b5a",
-"summary": "",
-"source": "Ouest-France",
-"date": "2026-11-04T14:04:48+00:00",
-"added": "2026-11-04T15:42:46+00:00",
-"official": false,
-"also": [
-"France 24"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement",
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "5b7cde8c4cc8ff5c",
-"title": "Gréoux-les-Bains, ville thermale, s’inquiète des projets d’économies du gouvernement : « Ces gens-là ne font aucun calcul ! »",
-"link": "https://www.lemonde.fr/politique/article/2026/11/04/greoux-les-bains-ville-thermale-s-inquiete-des-projets-d-economies-du-gouvernement-ces-gens-la-ne-font-aucun-calcul_6806237_823448.html",
-"summary": "Le gouvernement a annoncé, le 8 octobre, vouloir transférer une partie des coûts des cures thermales vers les complémentaires santé, qui ne sont pas obligées de les couvrir.",
-"source": "Le Monde",
-"date": "2026-11-04T14:00:08+00:00",
-"added": "2026-11-04T15:42:46+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "e012e13f4740ee5f",
-"title": "[Podcasts] 2027 : le prono de Bruno Poncet pour le second tour. \"Je suis sûr que ce sera Le Pen/Mélenchon. Et je vois Mélenchon à l'Élysée et faire la VIe République. Il va démissionner directement et faire monter quelqu'un\" - 04/11",
-"link": "https://rmc.bfmtv.com/replay-emissions/les-grandes-gueules/2027-le-prono-de-bruno-poncet-pour-le-second-tour-je-suis-sur-que-ce-sera-le-pen-melenchon-et-je-vois-melenchon-a-l-elysee-et-faire-la-v-ie-republique-il-va-demissionner-directement-et-faire-monter-quelqu-un-04-11_EN-202611040608.html",
-"summary": "Aujourd'hui, Bruno Poncet, cheminot, Emmanuel de Villiers, chef d'entreprise, et Joëlle Dago-Serry, coach de vie, débattent de l'actualité autour d'Alain Marschall et Olivier Truchot.",
-"source": "RMC",
-"date": "2026-11-04T13:58:21+00:00",
-"added": "2026-11-04T15:42:46+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"elysee",
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "9dbed5c6c8533198",
-"title": "Budget de la culture en baisse : auditionnée au Sénat, la ministre Catherine Pégard dans le dur",
-"link": "https://www.liberation.fr/culture/budget-de-la-culture-en-baisse-auditionnee-au-senat-la-ministre-catherine-pegard-dans-le-dur-20261104_Y3MUWLO5OJDLTMORD3G37ZLBQY/",
-"summary": "",
-"source": "Libération",
-"date": "2026-11-04T13:58:00+00:00",
-"added": "2026-11-06T06:41:11+00:00",
-"official": false,
-"also": [],
-"base": [
-"parlement"
-],
-"filtered": true,
-"topics": [
-"gouvernement",
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "2e05aedcb496030b",
-"title": "[Podcasts] 2027 : le prono d'un auditeur pour le second tour. Laurent, dirigeant d'entreprise : \"Je vois bien Christine Lagarde face à Jordan Bardella. Et si elle n'y va pas, je vois un Bardella/Glucksmann\" - 04/11",
-"link": "https://rmc.bfmtv.com/replay-emissions/les-grandes-gueules/2027-le-prono-d-un-auditeur-pour-le-second-tour-laurent-dirigeant-d-entreprise-je-vois-bien-christine-lagarde-face-a-jordan-bardella-et-si-elle-n-y-va-pas-je-vois-un-bardella-glucksmann-04-11_EN-202611040606.html",
-"summary": "Aujourd'hui, Bruno Poncet, cheminot, Emmanuel de Villiers, chef d'entreprise, et Joëlle Dago-Serry, coach de vie, débattent de l'actualité autour d'Alain Marschall et Olivier Truchot.",
-"source": "RMC",
-"date": "2026-11-04T13:56:52+00:00",
-"added": "2026-11-04T15:42:46+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "573d81f022ffd25f",
-"title": "« Puisse cette leçon vous servir »… La gauche voit dans l’échec de Trump une préfiguration du RN au pouvoir",
-"link": "https://www.20minutes.fr/politique/4260360-20261104-puisse-lecon-servir-gauche-voit-echec-trump-prefiguration-rn-pouvoir?at_medium=display&at_campaign=149",
-"summary": "La gauche française a célébré ce mercredi le revers cinglant imposé par les démocrates au président américain Donald Trump lors des élections de mi-mandat.",
-"source": "20 Minutes",
-"date": "2026-11-04T13:52:41+00:00",
-"added": "2026-11-04T13:56:32+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "adddc82415a59bb3",
-"title": "Présidentielle 2027 : David Lisnard confirme son avance sur Bruno Retailleau au premier tour dans un nouveau sondage",
-"link": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-david-lisnard-confirme-son-avance-sur-bruno-retailleau-au-premier-tour-dans-un-nouveau-sondage-04-11-2026-YKEKQGHOIRHFTECQSBHUT2IW64.php",
-"summary": "",
-"source": "Le Parisien",
-"date": "2026-11-04T13:46:23+00:00",
-"added": "2026-11-07T11:23:25+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": "David Lisnard"
-},
-{
-"id": "5db36e4b0ab99517",
-"title": "Présidentielle 2027 : Énervé, Philippe invite Mélenchon à débattre sur le « racisme » et « l’antisémitisme »",
-"link": "https://www.20minutes.fr/politique/4260366-20261104-presidentielle-2027-enerve-philippe-invite-melenchon-debattre-racisme-antisemitisme?at_medium=display&at_campaign=149",
-"summary": "Le gant est jeté. Vivement critiqué par la gauche pour avoir fait un lien entre immigration et pillages, le candidat Horizons à la présidentielle Édouard Philippe a choisi la contre-offensive ce mercredi.",
-"source": "20 Minutes",
-"date": "2026-11-04T13:45:54+00:00",
-"added": "2026-11-04T13:56:32+00:00",
-"official": false,
-"also": [
-"France 24",
-"Le Parisien",
-"Libération",
-"CNews",
-"Le Figaro",
-"Sud Ouest"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Interview"
-],
-"speaker": ""
-},
-{
-"id": "c3f099acdf8337ae",
-"title": "[Podcasts] Alain Marschall : \"Jean-Luc Mélenchon, c'est le candidat de la CGT ?\" Sophie Binet, secrétaire générale de la CGT : \"\"Non, la CGT n'a pas de candidat. La CGT appellera toujours à battre l'extrême droite.\" - 04/11",
-"link": "https://rmc.bfmtv.com/replay-emissions/les-grandes-gueules/alain-marschall-jean-luc-melenchon-c-est-le-candidat-de-la-cgt-sophie-binet-secretaire-generale-de-la-cgt-non-la-cgt-n-a-pas-de-candidat-la-cgt-appellera-toujours-a-battre-l-extreme-droite-04-11_EN-202611040584.html",
-"summary": "Aujourd'hui, Bruno Poncet, cheminot, Emmanuel de Villiers, chef d'entreprise, et Joëlle Dago-Serry, coach de vie, débattent de l'actualité autour d'Alain Marschall et Olivier Truchot.",
-"source": "RMC",
-"date": "2026-11-04T13:43:31+00:00",
-"added": "2026-11-04T13:56:32+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Alain Marschall"
-},
-{
-"id": "70624f076922ee3f",
-"title": "Une croissance de 0,5 % en 2026 est « difficilement atteignable », selon le Haut Conseil des finances publiques",
-"link": "https://www.lemonde.fr/economie/article/2026/11/04/une-croissance-de-0-5-en-2026-est-difficilement-atteignable-selon-le-haut-conseil-des-finances-publiques_6806233_3234.html",
-"summary": "La publication du projet de loi de finances de fin de gestion intervient quelques jours après que l’Insee a rapporté un nouveau recul du PIB de 0,1 %.",
-"source": "Le Monde",
-"date": "2026-11-04T13:42:37+00:00",
-"added": "2026-11-04T13:56:32+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Haut Conseil"
-},
-{
-"id": "fd912be135a2abae",
-"title": "[Podcasts] 2027 : le prono d'Emmanuel de Villiers pour le second tour. \"Xavier Bertrand/ Natacha Polony... non je rigole. Pourquoi pas François Baroin face à Jordan Bardella\" - 04/11",
-"link": "https://rmc.bfmtv.com/replay-emissions/les-grandes-gueules/2027-le-prono-d-emmanuel-de-villiers-pour-le-second-tour-xavier-bertrand-natacha-polony-non-je-rigole-pourquoi-pas-francois-baroin-face-a-jordan-bardella-04-11_EN-202611040581.html",
-"summary": "Aujourd'hui, Bruno Poncet, cheminot, Emmanuel de Villiers, chef d'entreprise, et Joëlle Dago-Serry, coach de vie, débattent de l'actualité autour d'Alain Marschall et Olivier Truchot.",
-"source": "RMC",
-"date": "2026-11-04T13:40:31+00:00",
-"added": "2026-11-04T13:56:32+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
 ],
 "natures": [],
 "speaker": ""
