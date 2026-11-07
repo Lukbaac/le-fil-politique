@@ -1,5 +1,460 @@
 [
 {
+"id": "0c7e01658059de76",
+"title": "Emmanuel Macron \"a été le serviteur zélé des plus riches et des institutions bancaires\", dénonce Fabien Roussel, candidat PCF à la présidentielle",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-emmanuel-macron-a-ete-le-serviteur-zele-des-plus-riches-et-des-institutions-bancaires-denonce-fabien-roussel-candidat-pcf-a-la-presidentielle_VN-202611070521.html",
+"summary": "À six mois de l'élection présidentielle, le candidat insoumis Jean-Luc Mélenchon a tenu un meeting au Bourget pour présenter son programme ce samedi 7 novembre.",
+"source": "BFMTV",
+"date": "2026-11-07T21:17:06+00:00",
+"added": "2026-11-07T21:23:43+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "Fabien Roussel"
+},
+{
+"id": "d8475314e2a1caa3",
+"title": "\"L'abrogation de Parcoursup il faut le faire, on a fait sans Parcoursup avant\", déclare Fabien Roussel, candidat PCF à la présidentielle",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-l-abrogation-de-parcoursup-il-faut-le-faire-on-a-fait-sans-parcoursup-avant-declare-fabien-roussel-candidat-pcf-a-la-presidentielle_VN-202611070520.html",
+"summary": "À six mois de l'élection présidentielle, le candidat insoumis Jean-Luc Mélenchon a tenu un meeting au Bourget pour présenter son programme ce samedi 7 novembre.",
+"source": "BFMTV",
+"date": "2026-11-07T21:16:14+00:00",
+"added": "2026-11-07T21:23:43+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Fabien Roussel"
+},
+{
+"id": "63dbca460f2873fb",
+"title": "\"Il faut un coup de pouce sur le SMIC mais en même temps une indexation des salaires\", déclare Fabien Roussel, candidat PCF à la présidentielle",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-il-faut-un-coup-de-pouce-sur-le-smic-mais-en-meme-temps-une-indexation-des-salaires-declare-fabien-roussel-candidat-pcf-a-la-presidentielle_VN-202611070519.html",
+"summary": "À six mois de l'élection présidentielle, le candidat insoumis Jean-Luc Mélenchon a tenu un meeting au Bourget pour présenter son programme ce samedi 7 novembre.",
+"source": "BFMTV",
+"date": "2026-11-07T21:15:29+00:00",
+"added": "2026-11-07T21:23:43+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Fabien Roussel"
+},
+{
+"id": "3c8a8bee4d795551",
+"title": "« La présidentielle n'est pas un concours de beauté » : au Bourget, Mélenchon fait étalage de sa force pour tenter de rendre sa victoire crédible",
+"link": "https://www.lesechos.fr/elections/presidentielle/la-presidentielle-nest-pas-un-concours-de-beaute-au-bourget-melenchon-fait-etalage-de-sa-force-pour-tenter-de-rendre-sa-victoire-credible-2261700",
+"summary": "",
+"source": "Les Echos",
+"date": "2026-11-07T21:11:21+00:00",
+"added": "2026-11-07T21:23:43+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Jean-Luc Mélenchon"
+},
+{
+"id": "09723d52aa4adc40",
+"title": "\"Nous sommes nombreux au Parlement a demandé la baisse de la TVA\" sur l'énergie, déclare Fabien Roussel, candidat PCF à la présidentielle",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-nous-sommes-nombreux-au-parlement-a-demande-la-baisse-de-la-tva-sur-l-energie-declare-fabien-roussel-candidat-pcf-a-la-presidentielle_VN-202611070514.html",
+"summary": "À six mois de l'élection présidentielle, le candidat insoumis Jean-Luc Mélenchon a tenu un meeting au Bourget pour présenter son programme ce samedi 7 novembre.",
+"source": "BFMTV",
+"date": "2026-11-07T21:05:49+00:00",
+"added": "2026-11-07T21:23:43+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Fabien Roussel"
+},
+{
+"id": "2dfa08077edae0a9",
+"title": "\"Nous demandons de porter le SMIC à 2.200 euros brut\", déclare Fabien Roussel, candidat PCF à la présidentielle",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-nous-demandons-de-porter-le-smic-a-2-200-euros-brut-declare-fabien-roussel-candidat-pcf-a-la-presidentielle_VN-202611070513.html",
+"summary": "À six mois de l'élection présidentielle, le candidat insoumis Jean-Luc Mélenchon a tenu un meeting au Bourget pour présenter son programme ce samedi 7 novembre.",
+"source": "BFMTV",
+"date": "2026-11-07T21:05:24+00:00",
+"added": "2026-11-07T21:23:43+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Fabien Roussel"
+},
+{
+"id": "b05443a75f039750",
+"title": "\"Je refuse les discours déclinistes\", déclare Fabien Roussel, candidat PCF à la présidentielle",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-je-refuse-les-discours-declinistes-declare-fabien-roussel-candidat-pcf-a-la-presidentielle_VN-202611070510.html",
+"summary": "À six mois de l'élection présidentielle, le candidat insoumis Jean-Luc Mélenchon a tenu un meeting au Bourget pour présenter son programme ce samedi 7 novembre.",
+"source": "BFMTV",
+"date": "2026-11-07T20:55:35+00:00",
+"added": "2026-11-07T21:23:43+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation",
+"Discours"
+],
+"speaker": "Fabien Roussel"
+},
+{
+"id": "4d934fd0aa214e8a",
+"title": "Présidentielle 2027 : La large coalition suggérée par Macron « décrédibilise la politique », estime Raphaël Glucksmann",
+"link": "https://www.20minutes.fr/politique/4261213-20261107-presidentielle-2027-large-coalition-suggeree-macron-decredibilise-politique-estime-raphael-glucksmann?at_medium=display&at_campaign=149",
+"summary": "Une large coalition de Raphaël Glucksmann à David Lisnard ? Cette proposition d'Emmanuel Macron, « décrédibilise la politique », estime le premier, candidat Place publique/PS.",
+"source": "20 Minutes",
+"date": "2026-11-07T20:45:39+00:00",
+"added": "2026-11-07T21:23:43+00:00",
+"official": false,
+"also": [
+"Nice-Matin",
+"France 24",
+"Sud Ouest"
+],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Raphaël Glucksmann"
+},
+{
+"id": "4b63ae1605980fe8",
+"title": "Écully. 500 personnes à la réunion publique du Rassemblement national, ce samedi soir",
+"link": "https://www.leprogres.fr/politique/2026/11/07/500-personnes-a-la-reunion-publique-du-rassemblement-national-ce-samedi-soir",
+"summary": "La fédération du Rassemblement national (RN) dans le Rhône a organisé une réunion publique, dans le cadre de la campagne présidentielle, ce samedi 7 novembre au soir, à Écully, en présence de Laurent Jacobelli, député de Moselle et porte-parole du RN.",
+"source": "Le Progrès",
+"date": "2026-11-07T20:29:19+00:00",
+"added": "2026-11-07T21:23:43+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"parlement",
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "1ee1a9df07f37b32",
+"title": "Présidentielle 2027 : maintien de sa ligne \"clivante\", tacle contre Marine Le Pen… Ce qu’il faut retenir du meeting de Jean-Luc Mélenchon au Bourget",
+"link": "https://www.midilibre.fr/2026/11/07/presidentielle-2027-maintien-de-sa-ligne-clivante-tacle-contre-marine-le-pen-ce-quil-faut-retenir-du-meeting-de-jean-luc-melenchon-au-bourget-13641808.php",
+"summary": "Jean-Luc Mélenchon a rassemblé plus de 20 000 personnes samedi 7 novembre au Bourget, en Seine-Saint-Denis, pour un meeting où il a réaffirmé sa ligne radicale.",
+"source": "Midi Libre",
+"date": "2026-11-07T20:21:00+00:00",
+"added": "2026-11-07T21:23:43+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Discours",
+"Réaction"
+],
+"speaker": ""
+},
+{
+"id": "2df9394b1a78ef9f",
+"title": "Primaire à droite: \"Édouard Philippe n'a pas raison de refuser la primaire\", estime Gérard Longuet, ancien ministre de la Défense",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-primaire-a-droite-edouard-philippe-n-a-pas-raison-de-refuser-la-primaire-estime-gerard-longuet-ancien-ministre-de-la-defense_VN-202611070501.html",
+"summary": "À six mois de l'élection présidentielle, le candidat insoumis Jean-Luc Mélenchon a tenu un meeting au Bourget pour présenter son programme ce samedi 7 novembre.",
+"source": "BFMTV",
+"date": "2026-11-07T20:10:16+00:00",
+"added": "2026-11-07T21:23:43+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Gérard Longuet"
+},
+{
+"id": "606e51514d3aa22f",
+"title": "Mélenchon promet de tout changer - 07/11",
+"link": "https://www.bfmtv.com/replay-emissions/fauvelle-week-end/video-melenchon-promet-de-tout-changer-07-11_VN-202611070503.html",
+"summary": "VIDÉO - Retrouvez le replay de Fauvelle Week-end sur BFMTV.",
+"source": "BFMTV",
+"date": "2026-11-07T20:02:41+00:00",
+"added": "2026-11-07T21:23:43+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Annonce"
+],
+"speaker": "Jean-Luc Mélenchon"
+},
+{
+"id": "21c7a796c83f0d22",
+"title": "Au Bourget, Mélenchon revendique la radicalité comme condition de la victoire",
+"link": "https://www.mediapart.fr/journal/politique/071126/au-bourget-melenchon-revendique-la-radicalite-comme-condition-de-la-victoire",
+"summary": "Quatre mois après son meeting de lancement à Saint-Denis, le candidat insoumis à l’élection présidentielle a de nouveau réuni 20 000 personnes, samedi au Bourget.",
+"source": "Mediapart",
+"date": "2026-11-07T20:01:46+00:00",
+"added": "2026-11-07T21:23:43+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": "Jean-Luc Mélenchon"
+},
+{
+"id": "86cf8cd3c7a4af78",
+"title": "Présidentielle 2027 : les Marseillais Pascaline Lécorché et Patrick Mennucci dans l'équipe de Raphaël Glucksmann",
+"link": "https://www.laprovence.com/article/elections/13513491310006/presidentielle-2027-les-marseillais-pascaline-lecorche-et-patrick-mennucci-dans-lequipe-de-raphael-glucksmann",
+"summary": "Après trois semaines de gestation, l'organigramme de campagne de Raphaël Glucksmann, candidat Place publique-PS à la présidentielle, a été dévoilé vendredi 6 novembre.",
+"source": "La Provence",
+"date": "2026-11-07T19:55:44+00:00",
+"added": "2026-11-07T21:23:43+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "3696fb4e90bd9124",
+"title": "« Il est l’heure de tout changer » : au Bourget, LFI met en scène sa « Nouvelle France »",
+"link": "https://www.publicsenat.fr/actualites/politique/il-est-lheure-de-tout-changer-au-bourget-lfi-met-en-scene-sa-nouvelle-france",
+"summary": "À l’occasion de la présentation de la nouvelle édition de L’Avenir en commun, samedi 7 novembre, La France insoumise a transformé le Bourget en théâtre de campagne.",
+"source": "Public Sénat",
+"date": "2026-11-07T19:52:11+00:00",
+"added": "2026-11-07T21:23:43+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "4746d4c48281b6da",
+"title": "Meeting au Bourget: \"Jean-Luc Mélenchon est une bête de scène, il sait parler mais ne sait pas compter\", observe Gérard Longuet, ancien ministre de la Défense",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-meeting-au-bourget-jean-luc-melenchon-est-une-bete-de-scene-il-sait-parler-mais-ne-sait-pas-compter-observe-gerard-longuet-ancien-ministre-de-la-defense_VN-202611070497.html",
+"summary": "À six mois de l'élection présidentielle, le candidat insoumis Jean-Luc Mélenchon a tenu un meeting au Bourget pour présenter son programme ce samedi 7 novembre.",
+"source": "BFMTV",
+"date": "2026-11-07T19:51:59+00:00",
+"added": "2026-11-07T21:23:43+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Discours"
+],
+"speaker": ""
+},
+{
+"id": "41770267be79805d",
+"title": "\"Je pense que moins le président de la République s'occupera de la vie politique et de l'élection présidentielle mieux ce sera, y compris pour sa fin de mandat\", déclare l'ancien président de la République François Hollande à RTL",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-je-pense-que-moins-le-president-de-la-republique-s-occupera-de-la-vie-politique-et-de-l-election-presidentielle-mieux-ce-sera-y-compris-pour-sa-fin-de-mandat-declare-l-ancien-president-de-la-republique-francois-hollande-a-rtl_VN-202611070493.html",
+"summary": "À six mois de l'élection présidentielle, le candidat insoumis Jean-Luc Mélenchon a tenu un meeting au Bourget pour présenter son programme ce samedi 7 novembre.",
+"source": "BFMTV",
+"date": "2026-11-07T19:42:34+00:00",
+"added": "2026-11-07T21:23:43+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "François Hollande"
+},
+{
+"id": "a4a56b4aeaae0314",
+"title": "« Ici est la force ! » : depuis Le Bourget, Jean-Luc Mélenchon prêt à décoller pour le second tour de la présidentielle",
+"link": "https://www.leparisien.fr/elections/presidentielle/ici-est-la-force-depuis-le-bourget-jean-luc-melenchon-pret-a-decoller-pour-le-second-tour-de-la-presidentielle-07-11-2026-5AP5ZDQ7V5CATKZPLLC7VKHT6I.php",
+"summary": "",
+"source": "Le Parisien",
+"date": "2026-11-07T19:38:00+00:00",
+"added": "2026-11-07T21:23:43+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "269b5019a5ae9ff5",
+"title": "Au Bourget, Jean-Luc Mélenchon refuse l’ouverture au reste de la gauche, un pari à haut risque",
+"link": "https://www.liberation.fr/politique/au-bourget-jean-luc-melenchon-refuse-louverture-au-reste-de-la-gauche-un-pari-a-haut-risque-20261107_HLVHHJCBYVAJNPEAGSYMY7MYSU/",
+"summary": "Lors de son meeting ce samedi, le candidat insoumis à la présidentielle a assumé ne pas vouloir s’ouvrir aux forces politiques idéologiquement voisines.",
+"source": "Libération",
+"date": "2026-11-07T19:35:59+00:00",
+"added": "2026-11-07T21:23:43+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": "Jean-Luc Mélenchon"
+},
+{
+"id": "7fefb04944f5c0ec",
+"title": "Le plan de Glucksmann pour empêcher « l’affrontement mortifère » entre Le Pen et Mélenchon",
+"link": "https://www.latribune.fr/article/la-tribune-dimanche/politique/presidentielle/2346035787281/le-plan-de-glucksmann-pour-empecher-l-affrontement-mortifere-entre-le-pen-et-melenchon",
+"summary": "Publié le 07 novembre 2026 à 20:30 - Mis à jour le 07 novembre 2026 à 20:35\nRaphaël Glucksmann lors du lancement de son rendez-vous \" Au QG \", diffusé en direct sur sa chaîne Twitch.",
+"source": "La Tribune",
+"date": "2026-11-07T19:30:01+00:00",
+"added": "2026-11-07T21:23:43+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "8db40e8871ab62c6",
+"title": "Programme de LFI: \"Le peuple de gauche doit comprendre qu'il ne faut pas travailler à nos divisions\", lance Alexis Corbière, député (L'Après)",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-programme-de-lfi-le-peuple-de-gauche-doit-comprendre-qu-il-ne-faut-pas-travailler-a-nos-divisions-lance-alexis-corbiere-depute-l-apres_VN-202611070491.html",
+"summary": "À six mois de l'élection présidentielle, le candidat insoumis Jean-Luc Mélenchon a tenu un meeting au Bourget pour présenter son programme ce samedi 7 novembre.",
+"source": "BFMTV",
+"date": "2026-11-07T19:29:45+00:00",
+"added": "2026-11-07T21:23:43+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Alexis Corbière"
+},
+{
 "id": "4a96fa832c510ac7",
 "title": "Mobilisation sociale : malgré une affluence en baisse, les manifestants veulent « maintenir le pression » avant la conférence sociale de lundi à Matignon",
 "link": "https://www.lemonde.fr/politique/article/2026/11/07/mobilisation-sociale-malgre-une-affluence-en-baisse-les-manifestants-veulent-maintenir-le-pression-avant-la-conference-sociale-de-lundi-a-matignon_6808311_823448.html",
@@ -45,7 +500,9 @@
 "date": "2026-11-07T19:20:29+00:00",
 "added": "2026-11-07T19:29:53+00:00",
 "official": false,
-"also": [],
+"also": [
+"BFMTV"
+],
 "base": [
 "partis"
 ],
@@ -130,7 +587,8 @@
 "added": "2026-11-07T19:29:53+00:00",
 "official": false,
 "also": [
-"La Provence"
+"La Provence",
+"franceinfo"
 ],
 "base": [
 "partis"
@@ -384,7 +842,10 @@
 "date": "2026-11-07T17:23:06+00:00",
 "added": "2026-11-07T19:29:53+00:00",
 "official": false,
-"also": [],
+"also": [
+"BFMTV",
+"TF1 Info"
+],
 "base": [
 "gouvernement"
 ],
@@ -1087,7 +1548,8 @@
 "BFMTV",
 "La Nouvelle République",
 "France 24",
-"Le Dauphiné Libéré"
+"Le Dauphiné Libéré",
+"franceinfo"
 ],
 "base": [],
 "filtered": true,
@@ -1638,7 +2100,9 @@
 "date": "2026-11-07T13:32:42+00:00",
 "added": "2026-11-07T13:40:07+00:00",
 "official": false,
-"also": [],
+"also": [
+"Le Figaro"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -1659,7 +2123,9 @@
 "date": "2026-11-07T13:24:40+00:00",
 "added": "2026-11-07T19:29:53+00:00",
 "official": false,
-"also": [],
+"also": [
+"Ouest-France"
+],
 "base": [
 "partis"
 ],
@@ -2284,6 +2750,26 @@
 "speaker": ""
 },
 {
+"id": "6887a12a4ff30093",
+"title": "\"Les gens vont avoir besoin d’être armés\" : le dessinateur Kokopello et HugoDécrypte s’allient pour une BD sur l’Élysée",
+"link": "https://www.lanouvellerepublique.fr/a-la-une/les-gens-vont-avoir-besoin-d-etre-armes-le-dessinateur-kokopello-et-hugodecrypte-s-allient-pour-une-bd-sur-l-elysee-1793979980",
+"summary": "Kokopello s’est pris de passion pour le fait politique et travaille actuellement sur la question des affaires étrangères. © (Photo Editions Allary)\nDix ans plus tard, Kokopello ne refera pas le coup de 2017.",
+"source": "La Nouvelle République",
+"date": "2026-11-07T09:00:00+00:00",
+"added": "2026-11-07T21:23:43+00:00",
+"official": false,
+"also": [],
+"base": [
+"elysee"
+],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "d6dde94eedc0d2c8",
 "title": "Après le «moment Bardella», l’aura faiblissante du RN chez la jeunesse",
 "link": "https://www.liberation.fr/politique/apres-le-moment-bardella-laura-faiblissante-du-rn-chez-la-jeunesse-20261107_7GTSRYMPOJEBDN3GTFF2AQ5KME/",
@@ -2508,7 +2994,10 @@
 "Libération",
 "Le HuffPost",
 "Le Figaro",
-"Le Nouvel Obs"
+"Le Nouvel Obs",
+"La Nouvelle République",
+"L'Opinion",
+"La Tribune"
 ],
 "base": [
 "partis"
@@ -4503,6 +4992,28 @@
 ],
 "natures": [],
 "speaker": "Jean-Luc Mélenchon"
+},
+{
+"id": "d6b19b1fda01b889",
+"title": "Manifestations du 7 novembre: \"Les centre-villes seront protégés\", annonce Laurent Nuñez, ministre de l'Intérieur",
+"link": "https://www.bfmtv.com/politique/video-manifestations-du-7-novembre-les-centre-villes-seront-proteges-annonce-laurent-nunez-ministre-de-l-interieur_VN-202611060693.html",
+"summary": "VIDÉO - Face aux centaines de milliers de Français dans les rues pour réclamer une hausse de leur pouvoir d'achat, Sébastien Lecornu a annoncé une conférence sociale lundi avec les syndicats et le patronat.",
+"source": "BFMTV",
+"date": "2026-11-06T16:52:14+00:00",
+"added": "2026-11-07T21:23:43+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement"
+],
+"natures": [
+"Citation",
+"Annonce"
+],
+"speaker": "Laurent Nuñez"
 },
 {
 "id": "c38d8b94aaa9fdeb",
@@ -7426,6 +7937,28 @@
 "speaker": ""
 },
 {
+"id": "65a8b7ad4cf5263e",
+"title": "« Mais c'est Alexis Tsipras » : l'ex-Premier ministre grec a manifesté dans la capitale ce jeudi",
+"link": "https://www.bienpublic.com/politique/2026/11/05/mais-c-est-alexis-tsipras-l-ex-premier-ministre-grec-a-manifeste-dans-la-capitale-ce-jeudi",
+"summary": "Il a multiplié les contacts à gauche et défilé dans le cortège parisien ce jeudi. Il voulait ainsi dénoncer les effets des politiques néolibérales.",
+"source": "Le Bien Public",
+"date": "2026-11-06T06:04:49+00:00",
+"added": "2026-11-07T21:23:43+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "63add65da559e490",
 "title": "Adhésion au RN, « union des droites », soutien à Marine Le Pen : à Saint-Lô, l’élu Laurent Houssin clarifie sa ligne",
 "link": "https://www.ouest-france.fr/normandie/saint-lo-50000/adhesion-au-rn-union-des-droites-soutien-a-marine-le-pen-a-saint-lo-lelu-laurent-houssin-clarifie-sa-ligne-d10acfa0-d92d-11f1-b736-5b9907ef0b5a",
@@ -7543,6 +8076,26 @@
 "topics": [
 "partis",
 "presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "978129a4e0a339fe",
+"title": "Cour des comptes, conseil constitutionnel, banque de France... Ces proches d'Emmanuel Macron placés à des postes clés avant 2027",
+"link": "https://www.cnews.fr/france/2026-11-06/cour-des-comptes-conseil-constitutionnel-banque-de-france-ces-proches-demmanuel",
+"summary": "A quelques mois de la fin de son second quinquennat, Emmanuel Macron a procédé à plusieurs nominations dans les grandes institutions françaises.",
+"source": "CNews",
+"date": "2026-11-06T05:51:07+00:00",
+"added": "2026-11-07T21:23:43+00:00",
+"official": false,
+"also": [],
+"base": [
+"elysee"
+],
+"filtered": true,
+"topics": [
+"elysee"
 ],
 "natures": [],
 "speaker": ""
@@ -9337,6 +9890,25 @@
 ],
 "natures": [],
 "speaker": ""
+},
+{
+"id": "882edb2018f5ab88",
+"title": "Présidentielle 2027 : plutôt qu’une primaire, Macron veut une coalition allant de Glucksmann à Lisnard pour déjouer le duel Le Pen-Mélenchon",
+"link": "https://www.lefigaro.fr/elections/presidentielles/candidats/presidentielle-2027-plutot-qu-une-primaire-macron-veut-une-coalition-allant-de-glucksmann-a-lisnard-pour-dejouer-le-duel-le-pen-melenchon-20261104",
+"summary": "CONTRE-POINT - Estimant les candidats en lice inaudibles sur le fond, le président de la République aimerait qu’ils commencent par travailler ensemble sur le projet.",
+"source": "Le Figaro",
+"date": "2026-11-05T17:09:52+00:00",
+"added": "2026-11-07T21:23:43+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"presidentielle"
+],
+"natures": [],
+"speaker": "Emmanuel Macron"
 },
 {
 "id": "fb73e156af8b3a93",
@@ -12757,451 +13329,5 @@
 ],
 "natures": [],
 "speaker": ""
-},
-{
-"id": "b447bfd53093071f",
-"title": "Action du collectif \"Nous vivrons\" devant le Pavillon Wagram où Jordan Bardella lance son livre ce soir.",
-"link": "https://www.tf1info.fr/politique/videos/video-action-du-collectif-nous-vivrons-devant-le-pavillon-wagram-ou-jordan-bardella-lance-son-livre-ce-soir-40856-2473936.html",
-"summary": "",
-"source": "TF1 Info",
-"date": "2026-11-04T21:15:11+00:00",
-"added": "2026-11-04T21:38:30+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jordan Bardella"
-},
-{
-"id": "d9c827104f9f427e",
-"title": "\"Petit à petit, on vous colle une espèce d'étiquette\" : rencontre avec des militants assignés à résidence",
-"link": "https://www.franceinfo.fr/societe/justice/petit-a-petit-on-vous-colle-une-espece-d-etiquette-rencontre-avec-des-militants-assignes-a-residence_8268470.html#xtor=RSS-3-%5Bgeneral%5D",
-"summary": "Pour la manifestation du jeudi 5 novembre à Paris, la préfecture propose de relier République à Nation, après avoir refusé le parcours des syndicats.",
-"source": "franceinfo",
-"date": "2026-11-04T21:07:05+00:00",
-"added": "2026-11-04T21:38:30+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "c3ce70e6ba68ef38",
-"title": "Après la déroute des midterms, les règlements de compte commencent chez les républicains",
-"link": "https://www.france24.com/fr/am%C3%A9riques/20261104-etats-unis-apres-deroute-midterms-reglements-compte-republicains-donald-trump-jd-vance-ron-desantis",
-"summary": "",
-"source": "France 24",
-"date": "2026-11-04T21:04:50+00:00",
-"added": "2026-11-04T21:38:30+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "78fb2f47866404bb",
-"title": "Accueilli par des militants de «Nous Vivrons» au lancement de son livre, Gouverner, Bardella dénonce une «nostalgie des régimes totalitaires»",
-"link": "https://www.lefigaro.fr/elections/presidentielles/accueilli-par-des-militants-de-nous-vivrons-au-lancement-de-son-livre-gouverner-bardella-denonce-une-nostalgie-des-regimes-totalitaires-20261104",
-"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
-"source": "Le Figaro",
-"date": "2026-11-04T20:56:54+00:00",
-"added": "2026-11-04T21:38:30+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "Jordan Bardella"
-},
-{
-"id": "b2a628120e40653b",
-"title": "Colère lycéenne: face-à-face entre Ryad Rani (USL) et l'ancien ministre Jean-Michel Blanquer",
-"link": "https://www.bfmtv.com/societe/greves/video-colere-lyceenne-face-a-face-entre-ryad-rani-usl-et-l-ancien-ministre-jean-michel-blanquer_VN-202611040957.html",
-"summary": "VIDÉO - Ryad Rani, président de l'Union syndicale lycéenne et Jean-Michel Blanquer, ancien ministre de l'Éducation nationale étaient invités sur BFMTV ce mercredi 4 novembre 2026.",
-"source": "BFMTV",
-"date": "2026-11-04T20:49:51+00:00",
-"added": "2026-11-04T21:38:30+00:00",
-"official": false,
-"also": [],
-"base": [
-"matinales"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"gouvernement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "195f5d6ad6b3e3ca",
-"title": "Les républicains battus aux élections par le caddie des Américains",
-"link": "https://www.france24.com/fr/info-en-continu/20261104-les-r%C3%A9publicains-battus-aux-%C3%A9lections-par-le-caddie-des-am%C3%A9ricains",
-"summary": "",
-"source": "France 24",
-"date": "2026-11-04T20:27:54+00:00",
-"added": "2026-11-05T06:40:44+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "7ce6720da7554239",
-"title": "Les sénateurs pour « la suspension de la suspension » de la réforme des retraites",
-"link": "https://www.lefigaro.fr/economie/les-senateurs-pour-la-suspension-de-la-suspension-de-la-reforme-des-retraites-20261104",
-"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
-"source": "Le Figaro",
-"date": "2026-11-04T20:20:00+00:00",
-"added": "2026-11-05T11:43:40+00:00",
-"official": false,
-"also": [],
-"base": [
-"parlement"
-],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "1c4900431fda4c72",
-"title": "Présidentielle : Hollande ne lâche rien, malgré la victoire de Glucksmann",
-"link": "https://www.france24.com/fr/info-en-continu/20261104-pr%C3%A9sidentielle-hollande-ne-l%C3%A2che-rien-malgr%C3%A9-la-victoire-de-glucksmann",
-"summary": "",
-"source": "France 24",
-"date": "2026-11-04T20:19:59+00:00",
-"added": "2026-11-05T15:45:21+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": "François Hollande"
-},
-{
-"id": "9aa0f86fbc0201c5",
-"title": "\"Bloquer est devenu essentiel pour être écoutés\", estime Ryad Rani, président de l'Union syndicale lycéenne",
-"link": "https://www.bfmtv.com/politique/video-bloquer-est-devenu-essentiel-pour-etre-ecoutes-estime-ryad-rani-president-de-l-union-syndicale-lyceenne_VN-202611040937.html",
-"summary": "Ryad Rani, président de l'Union syndicale lycéenne et Jean-Michel Blanquer, ancien ministre de l'Éducation nationale étaient invités sur BFMTV ce mercredi 4 novembre 2026.",
-"source": "BFMTV",
-"date": "2026-11-04T20:17:59+00:00",
-"added": "2026-11-04T21:38:30+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Ryad Rani"
-},
-{
-"id": "7f93203718e30003",
-"title": "Sélection à l'université: \"On n'assume pas ce système\", assure Ryad Rani, président de l'Union syndicale lycéenne",
-"link": "https://www.bfmtv.com/politique/video-selection-a-l-universite-on-n-assume-pas-ce-systeme-assure-ryad-rani-president-de-l-union-syndicale-lyceenne_VN-202611040934.html",
-"summary": "Ryad Rani, président de l'Union syndicale lycéenne et Jean-Michel Blanquer, ancien ministre de l'Éducation nationale étaient invités sur BFMTV ce mercredi 4 novembre 2026.",
-"source": "BFMTV",
-"date": "2026-11-04T20:15:40+00:00",
-"added": "2026-11-04T21:38:30+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Ryad Rani"
-},
-{
-"id": "a6be98192cb7673c",
-"title": "Pour Jean-Michel Blanquer, ancien ministre de l'Éducation nationale, Parcousup a permis de \"sauver 500.000 personnes de l'échec\"",
-"link": "https://www.bfmtv.com/politique/video-pour-jean-michel-blanquer-ancien-ministre-de-l-education-nationale-parcousup-a-permis-de-sauver-500-000-personnes-de-l-echec_VN-202611040933.html",
-"summary": "Jean-Michel Blanquer, ancien ministre de l'Éducation nationale, était l'invité de BFMTV pour évoquer la colère lycéenne.",
-"source": "BFMTV",
-"date": "2026-11-04T20:13:40+00:00",
-"added": "2026-11-04T21:38:30+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"matinales",
-"gouvernement"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jean-Michel Blanquer"
-},
-{
-"id": "011df5e7e2df1615",
-"title": "La stratégie d’intimidation de Jean-Luc Mélenchon met les chaînes de télévision sous tension",
-"link": "https://www.lefigaro.fr/medias/la-strategie-d-intimidation-de-jean-luc-melenchon-met-les-chaines-de-television-sous-tension-20261104",
-"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
-"source": "Le Figaro",
-"date": "2026-11-04T20:13:25+00:00",
-"added": "2026-11-04T21:38:30+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "59e18740eaa70459",
-"title": "« Ça se met lentement en route » : au salon Euronaval à Villepinte, le début de campagne présidentielle poussif de Raphaël Glucksmann",
-"link": "https://www.leparisien.fr/elections/presidentielle/ca-se-met-lentement-en-route-au-salon-euronaval-a-villepinte-le-debut-de-campagne-presidentielle-poussif-de-raphael-glucksmann-04-11-2026-DIWMTYPTYVGSBO7AB2HGEMJRPE.php",
-"summary": "",
-"source": "Le Parisien",
-"date": "2026-11-04T20:12:48+00:00",
-"added": "2026-11-04T21:38:30+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "a58fa86d7b9bc28c",
-"title": "À Saint-Ouen, la main tendue de Glucksmann à Bouamrane",
-"link": "https://www.latribune.fr/article/la-tribune-dimanche/politique/62953846880993/a-saint-ouen-la-main-tendue-de-glucksmann-a-bouamrane",
-"summary": "Raphaël Glucksmann était présent mercredi soir à la soirée de lancement du livre de Karim Bouamrane.",
-"source": "La Tribune",
-"date": "2026-11-04T20:11:12+00:00",
-"added": "2026-11-04T21:38:30+00:00",
-"official": false,
-"also": [
-"Le Figaro",
-"Le Point",
-"Marianne"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "685df97740321d49",
-"title": "« Je remercie mes pieds » : parti de Morlaix vers Paris, l’écologiste Breton Jean-Yves Quéméneur a été reçu à l’Assemblée nationale",
-"link": "https://www.letelegramme.fr/finistere/morlaix-29600/je-remercie-mes-pieds-parti-de-morlaix-vers-paris-lecologiste-breton-jean-yves-quemeneur-a-ete-recu-a-lassemblee-nationale-7152473.php",
-"summary": "",
-"source": "Le Télégramme",
-"date": "2026-11-04T20:06:30+00:00",
-"added": "2026-11-04T21:38:30+00:00",
-"official": false,
-"also": [],
-"base": [
-"parlement"
-],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "f3c081d09734a25a",
-"title": "\"Je crois avoir montré que j'étais à la hauteur\", réagit Gabriel Attal, candidat Renaissance à l'élection présidentielle, après la publication de messages d'Emmanuel Macron",
-"link": "https://www.bfmtv.com/politique/video-je-crois-avoir-montre-que-j-etais-a-la-hauteur-reagit-gabriel-attal-candidat-renaissance-a-l-election-presidentielle-apres-la-publication-de-messages-d-emmanuel-macron_VN-202611040915.html",
-"summary": "Gabriel Attal, candidat Renaissance à l’élection présidentielle était l’invité de BFMTV ce mercredi 4 novembre.",
-"source": "BFMTV",
-"date": "2026-11-04T19:55:34+00:00",
-"added": "2026-11-04T21:38:30+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"matinales",
-"elysee",
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "Gabriel Attal"
-},
-{
-"id": "2ebfeedc7550355b",
-"title": "Soutien en cas de défaite à une primaire: \"C'est un débat qui est un peu hypocrite\", estime Gabriel Attal, candidat Renaissance à l'élection présidentielle",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-soutien-en-cas-de-defaite-a-une-primaire-c-est-un-debat-qui-est-un-peu-hypocrite-estime-gabriel-attal-candidat-renaissance-a-l-election-presidentielle_VN-202611040905.html",
-"summary": "Gabriel Attal, candidat Renaissance à l’élection présidentielle était l’invité de BFMTV ce mercredi 4 novembre.",
-"source": "BFMTV",
-"date": "2026-11-04T19:47:58+00:00",
-"added": "2026-11-04T21:38:30+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"matinales",
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Gabriel Attal"
-},
-{
-"id": "b9c930b2f8bc87e5",
-"title": "\"Il n'y a pas un candidat qui se détache dans les sondages\", constate Gabriel Attal, candidat Renaissance à l'élection présidentielle, à propos du centre et de la droite",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-il-n-y-a-pas-un-candidat-qui-se-detache-dans-les-sondages-constate-gabriel-attal-candidat-renaissance-a-l-election-presidentielle-a-propos-du-centre-et-de-la-droite_VN-202611040902.html",
-"summary": "Gabriel Attal, candidat Renaissance à l’élection présidentielle était l’invité de BFMTV ce mercredi 4 novembre.",
-"source": "BFMTV",
-"date": "2026-11-04T19:40:09+00:00",
-"added": "2026-11-04T19:45:39+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"matinales",
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Gabriel Attal"
-},
-{
-"id": "65d69a89db64b028",
-"title": "Gabriel Attal, candidat Renaissance à l'élection présidentielle, estime que \"doivent pouvoir participer à la primaire\" du centre et de la droite, \"ceux qui sont clairs sur le fait qu'ils ne feront aucune alliance avec LFI ou le RN\"",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-gabriel-attal-candidat-renaissance-a-l-election-presidentielle-estime-que-doivent-pouvoir-participer-a-la-primaire-du-centre-et-de-la-droite-ceux-qui-sont-clairs-sur-le-fait-qu-ils-ne-feront-aucune-alliance-avec-lfi-ou-le-rn_VN-202611040900.html",
-"summary": "Gabriel Attal, candidat Renaissance à l’élection présidentielle était l’invité de BFMTV ce mercredi 4 novembre.",
-"source": "BFMTV",
-"date": "2026-11-04T19:36:18+00:00",
-"added": "2026-11-04T19:45:39+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"matinales",
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Gabriel Attal"
-},
-{
-"id": "f308b16b7aebe191",
-"title": "Présidentielle 2027: \"Cette primaire, elle aura lieu\", assure Gabriel Attal, candidat Renaissance à l'élection présidentielle",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-2027-cette-primaire-elle-aura-lieu-assure-gabriel-attal-candidat-renaissance-a-l-election-presidentielle_VN-202611040897.html",
-"summary": "Opposé depuis des mois à une primaire du centre et de la droite, Édouard Philippe (Horizons) a réaffirmé sa position dimanche, quelques jours après la proposition lancée par son concurrent Gabriel Attal, y voyant \"une primaire de la division\" et de la \"confusion\".",
-"source": "BFMTV",
-"date": "2026-11-04T19:32:20+00:00",
-"added": "2026-11-04T19:45:39+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Gabriel Attal"
-},
-{
-"id": "787ac274b9aafa39",
-"title": "Pour Gabriel Attal, candidat Renaissance à l'élection présidentielle, le pays \"ne se relèverait pas\" d'un duel entre Jean-Luc Mélenchon et Marine Le Pen",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-pour-gabriel-attal-candidat-renaissance-a-l-election-presidentielle-le-pays-ne-se-releverait-pas-d-un-duel-entre-jean-luc-melenchon-et-marine-le-pen_VN-202611040894.html",
-"summary": "Gabriel Attal, candidat Renaissance à l’élection présidentielle était l’invité de BFMTV ce mercredi 4 novembre.",
-"source": "BFMTV",
-"date": "2026-11-04T19:29:57+00:00",
-"added": "2026-11-04T19:45:39+00:00",
-"official": false,
-"also": [
-"La Voix du Nord"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"matinales",
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Gabriel Attal"
 }
 ]
