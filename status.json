@@ -7,8 +7,9 @@
 },
 {
 "name": "Sénat – Communiqués",
-"ok": false,
-"error": "<urlopen error [Errno 101] Network is unreachable>"
+"ok": true,
+"items": 6,
+"new": 0
 },
 {
 "name": "LCP",
@@ -38,13 +39,13 @@
 "name": "Le Figaro",
 "ok": true,
 "items": 20,
-"new": 1
+"new": 0
 },
 {
 "name": "Libération",
 "ok": true,
 "items": 50,
-"new": 0
+"new": 1
 },
 {
 "name": "La Croix",
@@ -62,37 +63,37 @@
 "name": "BFMTV",
 "ok": true,
 "items": 30,
-"new": 8
+"new": 13
 },
 {
 "name": "20 Minutes",
 "ok": true,
 "items": 20,
-"new": 0
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 22,
-"new": 2
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 25,
-"new": 0
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 24,
 "new": 1
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 36,
+"items": 18,
 "new": 0
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 26,
+"new": 1
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 24,
+"new": 0
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 39,
+"new": 1
 },
 {
 "name": "Google Actualités",
@@ -103,14 +104,8 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 21,
-"new": 0
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 100,
-"new": 0
+"items": 20,
+"new": 1
 },
 {
 "name": "Google Actualités",
@@ -121,13 +116,19 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 59,
-"new": 0
+"items": 100,
+"new": 2
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 48,
+"items": 57,
+"new": 1
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 44,
 "new": 0
 },
 {
@@ -139,31 +140,31 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 18,
-"new": 0
+"items": 19,
+"new": 1
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 23,
-"new": 0
+"items": 26,
+"new": 3
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 94,
-"new": 0
+"items": 88,
+"new": 1
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 10,
-"new": 0
+"items": 24,
+"new": 1
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 29,
+"items": 31,
 "new": 0
 },
 {
