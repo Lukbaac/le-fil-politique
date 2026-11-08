@@ -1,5 +1,109 @@
 [
 {
+"id": "74ad1c6b64a2c895",
+"title": "Pour la présidentielle, Marine Le Pen veut surfer sur « le beau », et ce n’est pas joli-joli",
+"link": "https://www.huffingtonpost.fr/politique/video/pour-la-presidentielle-2027-marine-le-pen-veut-surfer-sur-le-beau-et-ce-n-est-pas-joli-joli_351278.html",
+"summary": "La lecture de ce contenu est susceptible d’entraîner un dépôt de cookies de la part de l’opérateur tiers qui l’héberge.",
+"source": "Le HuffPost",
+"date": "2026-11-08T06:50:07+00:00",
+"added": "2026-11-08T07:43:29+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Marine Le Pen"
+},
+{
+"id": "90c4dc987cd979b3",
+"title": "Colère sociale: des annonces attendues à l'issue de la conférence sociale lundi, \"le gouvernement fera sa part\" sur les hausses de salaires",
+"link": "https://www.bfmtv.com/politique/gouvernement/colere-sociale-des-annonces-attendues-a-l-issue-de-la-conference-sociale-lundi-le-gouvernement-fera-sa-part-sur-les-hausses-de-salaires_AN-202611080098.html",
+"summary": "Sébastien Lecornu tiendra, ce lundi 9 novembre, à Matignon, une conférence sociale avec les organisations syndicales et patronales.",
+"source": "BFMTV",
+"date": "2026-11-08T06:48:07+00:00",
+"added": "2026-11-08T07:43:29+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "dd90cd8e0dfcb3fe",
+"title": "Coalition de la droite et du centre, Le Pen, Mélenchon... Ce qu'Emmanuel Macron livre en coulisses aux parlementaires sur 2027",
+"link": "https://www.latribune.fr/article/la-tribune-dimanche/politique/presidentielle/78524666035477/coalition-de-la-droite-et-du-centre-le-pen-melenchon-ce-quemmanuel-macron-livre-en-coulisses-aux-parlementaires-sur-2027",
+"summary": "",
+"source": "La Tribune",
+"date": "2026-11-08T06:45:01+00:00",
+"added": "2026-11-08T07:43:29+00:00",
+"official": false,
+"also": [],
+"base": [
+"elysee"
+],
+"filtered": true,
+"topics": [
+"elysee",
+"parlement",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "c0e6f962aaaccea9",
+"title": "Baromètre Cluster17 – « Le Point » : Emmanuel Macron entraîne le bloc central dans sa chute",
+"link": "https://www.lepoint.fr/politique/barometre-cluster17-le-point-emmanuel-macron-entraine-le-bloc-central-dans-sa-chute-SCCWR5ANLVFEXJC5FSEDVWMPY4/",
+"summary": "",
+"source": "Le Point",
+"date": "2026-11-08T06:30:00+00:00",
+"added": "2026-11-08T07:43:29+00:00",
+"official": false,
+"also": [],
+"base": [
+"elysee"
+],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "2a42040cdbba0277",
+"title": "« On aurait dû lui péter le bras » : David Lisnard, l’agent perturbateur qui tracasse les Républicains",
+"link": "https://www.lepoint.fr/politique/on-aurait-du-lui-peter-le-bras-david-lisnard-lagent-perturbateur-qui-tracasse-les-republicains-AWEA3D43FFBSNNLX6QIZPB4XXQ/",
+"summary": "",
+"source": "Le Point",
+"date": "2026-11-08T06:30:00+00:00",
+"added": "2026-11-08T07:43:29+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "434ef87341bea4cf",
 "title": "« Il est à Le Pen ce que Richelieu était à Louis XIII » : Renaud Labaye, le cardinal de Le Pen",
 "link": "https://www.latribune.fr/article/la-tribune-dimanche/politique/presidentielle/97432721060876/il-est-a-le-pen-ce-que-richelieu-etait-a-louis-xiii-renaud-labaye-le-cardinal-de-le-pen",
@@ -18,6 +122,28 @@
 ],
 "natures": [],
 "speaker": ""
+},
+{
+"id": "f72e4478ff512d14",
+"title": "La gauche réclame des « États généraux des lycées » et un audit bâtimentaire dans la métropole de Nice, Éric Ciotti ne veut pas procéder « par injonctions »",
+"link": "https://www.nicematin.com/societe/politique/la-gauche-reclame-des-etats-generaux-des-lycees-et-un-audit-batimentaire-dans-la-metropole-de-nice-eric-ciotti-ne-veut-pas-proceder-par-injonctions-10754704",
+"summary": "« S’il convient de condamner sans ambiguïté les violences et les dégradations, il faut aussi écouter les revendications de la jeunesse », estiment les élus de gauche et écologistes siégeant au conseil métropolitain.",
+"source": "Nice-Matin",
+"date": "2026-11-08T06:15:00+00:00",
+"added": "2026-11-08T07:43:29+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Éric Ciotti"
 },
 {
 "id": "dc9e23752f5724e7",
@@ -55,6 +181,26 @@
 "filtered": true,
 "topics": [
 "partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "18e648dedb6f73f1",
+"title": "L'ÉDITO POLITIQUE - Présidentielle: en perte de vitesse dans les sondages, Édouard Philippe contraint à la primaire?",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-l-edito-politique-presidentielle-en-perte-de-vitesse-dans-les-sondages-edouard-philippe-contraint-a-la-primaire_VN-202611080077.html",
+"summary": "Plus de soixante parlementaires, en grande majorité Renaissance, appellent dans une tribune publiée ce week-end à une \"primaire des démocrates et des républicains\".",
+"source": "BFMTV",
+"date": "2026-11-08T05:59:35+00:00",
+"added": "2026-11-08T07:43:29+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement",
+"partis",
+"presidentielle"
 ],
 "natures": [],
 "speaker": ""
@@ -100,6 +246,27 @@
 "speaker": "Jean-Pierre Farandou"
 },
 {
+"id": "aeef9b4e73bd9df2",
+"title": "Colère des lycéens: le ministre de l'Éducation Édouard Geffray ne veut pas modifier le calendrier du bac pour tenir compte des heures perdues par les élèves en raison du mouvement",
+"link": "https://www.bfmtv.com/societe/education/colere-des-lyceens-le-ministre-de-l-education-edouard-geffray-ne-veut-pas-modifier-le-calendrier-du-bac-pour-tenir-compte-des-heures-perdues-par-les-eleves-en-raison-du-mouvement_AV-202611080072.html",
+"summary": "Le ministre de l'Éducation Édouard Geffray ne veut pas modifier le calendrier du bac pour tenir compte des heures perdues par les lycéens du fait du mouvement en cours, indique-t-il dans une interview publiée samedi par Le Parisien.",
+"source": "BFMTV",
+"date": "2026-11-08T05:37:57+00:00",
+"added": "2026-11-08T07:43:29+00:00",
+"official": false,
+"also": [],
+"base": [
+"matinales"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"gouvernement"
+],
+"natures": [],
+"speaker": "Édouard Geffray"
+},
+{
 "id": "7fc3706bcfd3d46c",
 "title": "Annie Genevard au Figaro : «Une primaire ne doit pas être crainte»",
 "link": "https://www.lefigaro.fr/elections/presidentielles/annie-genevard-au-figaro-une-primaire-ne-doit-pas-etre-crainte-20261108",
@@ -115,6 +282,24 @@
 "gouvernement",
 "partis",
 "presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "1062d0e8f1efb942",
+"title": "Colère sociale: Sébastien Lecornu devrait s'exprimer devant les Français ce lundi à l'issue de la conférence sociale",
+"link": "https://www.bfmtv.com/politique/video-colere-sociale-sebastien-lecornu-devrait-s-exprimer-devant-les-francais-ce-lundi-a-l-issue-de-la-conference-sociale_VN-202611080065.html",
+"summary": "Sébastien Lecornu tiendra lundi 9 novembre à Matignon une \"conférence sociale\" avec les organisations syndicales et patronales, ont annoncé ses services jeudi 5 novembre lors d'une journée de manifestations et de grèves sur le pouvoir d'achat à l'appel des syndicats.",
+"source": "BFMTV",
+"date": "2026-11-08T05:14:22+00:00",
+"added": "2026-11-08T07:43:29+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee"
 ],
 "natures": [],
 "speaker": ""
@@ -419,7 +604,11 @@
 "date": "2026-11-07T21:25:11+00:00",
 "added": "2026-11-08T06:29:20+00:00",
 "official": false,
-"also": [],
+"also": [
+"franceinfo",
+"BFMTV",
+"RFI"
+],
 "base": [
 "partis"
 ],
@@ -1625,7 +1814,10 @@
 "date": "2026-11-07T16:57:12+00:00",
 "added": "2026-11-08T06:29:20+00:00",
 "official": false,
-"also": [],
+"also": [
+"Le Nouvel Obs",
+"CNews"
+],
 "base": [
 "partis"
 ],
@@ -2425,6 +2617,26 @@
 ],
 "natures": [
 "Citation"
+],
+"speaker": ""
+},
+{
+"id": "e12ed9054240228a",
+"title": "Manifestations du 7 novembre: le ministère de l'Intérieur annonce 15.600 contrôles et 18 interpellations selon un bilan provisoire",
+"link": "https://www.bfmtv.com/police-justice/video-manifestations-du-7-novembre-le-ministere-de-l-interieur-annonce-15-600-controles-et-18-interpellations-selon-un-bilan-provisoire_VN-202611070339.html",
+"summary": "VIDÉO - Pour ce quatrième samedi d'affilée de mobilisation nationale ce samedi 7 novembre à l'appel d'organisations syndicales et de jeunesse ainsi que de gilets jaunes, quelque 70.000 policiers et gendarmes sont mobilisés sur l'ensemble du territoire.",
+"source": "BFMTV",
+"date": "2026-11-07T13:56:47+00:00",
+"added": "2026-11-08T07:43:29+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [
+"Annonce"
 ],
 "speaker": ""
 },
@@ -6416,6 +6628,26 @@
 "speaker": "Bruno Retailleau"
 },
 {
+"id": "6c709b9001ea3572",
+"title": "Présidentielle 2027 : c’est à La Rochelle et avec Gabriel Attal que sera lancé le grand oral des « petits patrons »",
+"link": "https://www.sudouest.fr/charente-maritime/la-rochelle/presidentielle-2027-c-est-a-la-rochelle-et-avec-gabriel-attal-que-sera-lance-le-grand-oral-des-petits-patrons-31395606.php",
+"summary": "",
+"source": "Sud Ouest",
+"date": "2026-11-06T14:22:19+00:00",
+"added": "2026-11-08T07:43:29+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "edeaac8da41fc100",
 "title": "Banquet du Canon français à Vannes : la France insoumise demande son interdiction au préfet",
 "link": "https://www.letelegramme.fr/morbihan/vannes-56000/banquet-du-canon-francais-a-vannes-la-france-insoumise-demande-son-interdiction-au-prefet-7153625.php",
@@ -6555,6 +6787,27 @@
 "Interview"
 ],
 "speaker": "Sarah Knafo"
+},
+{
+"id": "8f5f80eab93c818d",
+"title": "On connaît le montant de la hausse du Smic proposé par le gouvernement et ça fait réagir: \"C’est une aumône\"",
+"link": "https://rmc.bfmtv.com/actualites/economie/travail/on-connait-le-montant-de-la-hausse-du-smic-propose-par-le-gouvernement-et-ca-fait-reagir-c-est-une-aumone_AV-202611060550.html",
+"summary": "Alors que les syndicats réclament une hausse du salaire minimum et que le gouvernement cherche un compromis avec les partenaires sociaux, le ministre du Travail, Jean-Pierre Farandou, a jugé ce vendredi 6 novembre sur TF1 \"important\" d'essayer de franchir la barre des 1.500 euros net mensuels pour le Smic…",
+"source": "RMC",
+"date": "2026-11-06T13:39:24+00:00",
+"added": "2026-11-08T07:43:29+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [
+"Citation",
+"Annonce"
+],
+"speaker": ""
 },
 {
 "id": "217417506111b76f",
@@ -6975,7 +7228,9 @@
 "date": "2026-11-06T11:39:00+00:00",
 "added": "2026-11-06T15:35:19+00:00",
 "official": false,
-"also": [],
+"also": [
+"franceinfo"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -7920,7 +8175,9 @@
 "date": "2026-11-06T07:52:44+00:00",
 "added": "2026-11-06T09:49:15+00:00",
 "official": false,
-"also": [],
+"also": [
+"La Nouvelle République"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -13189,166 +13446,5 @@
 "Citation"
 ],
 "speaker": "Robert Ménard"
-},
-{
-"id": "a4c7dfcfe45351e4",
-"title": "VIDÉO. Budget 2027 : aucun député n'a voté en faveur du projet de loi de finances 2027, le texte part au Sénat",
-"link": "https://www.ouest-france.fr/economie/budget-collectivites-etat/video-budget-2027-aucun-depute-n-a-vote-en-faveur-du-projet-de-loi-de-finances-2027-le-texte-part-au-senat-2a261645-b14f-4ec1-8e21-1a7be97bdc07",
-"summary": "",
-"source": "Ouest-France",
-"date": "2026-11-05T07:40:03+00:00",
-"added": "2026-11-05T19:41:56+00:00",
-"official": false,
-"also": [],
-"base": [
-"parlement"
-],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "bf837df0235bbe52",
-"title": "Jordan Bardella",
-"link": "https://www.bfmtv.com/politique/front-national/jordan-bardella_DN-202403060432.html",
-"summary": "Déjà conseiller régional d'Île-de-France, député européen et président de parti, Jordan Bardella conduira pour une deuxième fois la liste du Rassemblement national (RN) lors des élections européennes organisées le 9 juin 2024.",
-"source": "BFMTV",
-"date": "2026-11-05T07:32:13+00:00",
-"added": "2026-11-05T07:58:47+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement",
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "443080cfa6229972",
-"title": "Présidentielle 2027 : «On a besoin de quelqu'un qui a une voix forte, mais pas hystérique», plaide Robert Ménard",
-"link": "https://www.cnews.fr/france/2026-11-05/presidentielle-2027-besoin-de-quelquun-qui-une-voix-forte-mais-pas-hysterique",
-"summary": "«On a besoin de quelqu'un qui a une voix forte, mais pas hystérique», a plaidé le maire divers droite de Béziers Robert Ménard, ce jeudi lors de La Grande Interview sur CNEWS, au sujet de l'hypothèse d'un candidat unique pour la droite et le centre.",
-"source": "CNews",
-"date": "2026-11-05T07:32:00+00:00",
-"added": "2026-11-05T17:47:20+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Robert Ménard"
-},
-{
-"id": "0760722aee0f4365",
-"title": "Des messages sans filtre d’Emmanuel Macron révélés dans le livre de l’éditorialiste de gauche Françoise Degois",
-"link": "https://fr.euronews.com/2026/11/05/des-messages-sans-filtre-demmanuel-macron-reveles-dans-le-livre-de-leditorialiste-de-gauch",
-"summary": "L'ancienne conseillère de Ségolène Royal, ex-journaliste politique à France Inter et chroniqueuse régulière des plateaux de télévision Françoise Degois publie jeudi 5 novembre \"Vous êtes tous trop durs avec moi\" (édition Robert Laffont), un livre choc tiré de ses conversations privées avec Emmanuel Macron, dont les…",
-"source": "Euronews",
-"date": "2026-11-05T07:23:59+00:00",
-"added": "2026-11-05T07:58:47+00:00",
-"official": false,
-"also": [],
-"base": [
-"elysee"
-],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "469f5be3d86e517f",
-"title": "Jordan Bardella rattrapé par ses propos antisémites à l’occasion du lancement de son nouveau livre",
-"link": "https://www.lemonde.fr/politique/article/2026/11/05/jordan-bardella-rattrape-par-ses-propos-antisemites-au-lancement-de-son-nouveau-livre_6806827_823448.html",
-"summary": "Le président du Rassemblement national voit sa promotion perturbée par le rappel de ses anciens propos antisémites dont il dément être l’auteur.",
-"source": "Le Monde",
-"date": "2026-11-05T06:51:34+00:00",
-"added": "2026-11-05T07:58:47+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "dd557d2859ae092f",
-"title": "L'édito d'Alba Ventura : Le Pen/Mélenchon, l’appel à la coalition d’Emmanuel Macron",
-"link": "https://www.tf1info.fr/politique/videos/video-l-edito-d-alba-ventura-le-pen-melenchon-l-appel-a-la-coalition-d-emmanuel-macron-59365-2473964.html",
-"summary": "Alba Ventura revient sur l’appel d’Emmanuel Macron à bâtir une coalition de la droite au centre-gauche. Cette initiative vise à faire barrage au duel annoncé entre Marine Le Pen et Jean-Luc Mélenchon à la présidentielle.",
-"source": "TF1 Info",
-"date": "2026-11-05T06:40:21+00:00",
-"added": "2026-11-05T11:43:40+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"elysee",
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "81fe6ffcbdb46b73",
-"title": "Crise du Logement : Marine Tondelier VS Bruno Retailleau",
-"link": "https://rmc.bfmtv.com/replay-emissions/5-7-le-morning-rmc/video-crise-du-logement-marine-tondelier-vs-bruno-retailleau_VN-202611050167.html",
-"summary": "VIDÉO - Chaque jour, RMC décrypte la proposition d'un candidat à la présidentielle.",
-"source": "RMC",
-"date": "2026-11-05T06:37:03+00:00",
-"added": "2026-11-05T06:40:44+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "4c4a7967c51be26f",
-"title": "Présidentielle 2027 : « Ils veulent nous intimider… » Raphaël Glucksmann peut-il encore aller dans les manifestations ?",
-"link": "https://www.20minutes.fr/politique/4260272-20261105-presidentielle-2027-veulent-intimider-raphael-glucksmann-peut-encore-aller-manifestations?at_medium=display&at_campaign=149",
-"summary": "Sa participation à la journée de mobilisation et de grève, ce jeudi 5 novembre, était jusqu’ici incertaine. « J’irai en manifestation parce que je soutiens les revendications des syndicats sur la vie chère et les salaires », a finalement confirmé Raphaël Glucksmann, lundi, sur BFMTV.",
-"source": "20 Minutes",
-"date": "2026-11-05T06:32:36+00:00",
-"added": "2026-11-05T06:40:44+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
 }
 ]
