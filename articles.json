@@ -1,5 +1,362 @@
 [
 {
+"id": "09fc1d4002e0981b",
+"title": "Marion Van Renterghem, journaliste : « Ceux qui pensent que Marine Le Pen se “méloniserait” au pouvoir se trompent »",
+"link": "https://www.latribune.fr/article/la-tribune-dimanche/opinions/66268760631367/marion-van-renterghem-journaliste-ceux-qui-pensent-que-marine-le-pen-se-meloniserait-au-pouvoir-se-trompent",
+"summary": "Dans « Femmes extrêmes », Marion Van Renterghem décrypte les parcours de trois dirigeantes de l’extrême droite européenne.",
+"source": "La Tribune",
+"date": "2026-11-08T17:20:02+00:00",
+"added": "2026-11-08T17:22:51+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "34dc266093efd970",
+"title": "À La France insoumise, la « révolution citoyenne » à l’épreuve du réel",
+"link": "https://www.la-croix.com/politique/a-la-france-insoumise-la-revolution-citoyenne-a-l-epreuve-du-reel-20261108",
+"summary": "Porté par des sondages favorables, le mouvement de Jean-Luc Mélenchon se projette déjà vers le pouvoir et promet une « révolution citoyenne ».",
+"source": "La Croix",
+"date": "2026-11-08T17:15:38+00:00",
+"added": "2026-11-08T17:22:51+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "116f000db7999923",
+"title": "\"Tout augmente sauf les salaires\", dénonce Raphaël Glucksmann, candidat PS-Place Publique à la présidentielle",
+"link": "https://www.bfmtv.com/replay-emissions/le-grand-oral-2027/video-tout-augmente-sauf-les-salaires-denonce-raphael-glucksmann-candidat-ps-place-publique-a-la-presidentielle_VN-202611080352.html",
+"summary": "",
+"source": "BFMTV",
+"date": "2026-11-08T17:15:23+00:00",
+"added": "2026-11-08T17:22:51+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "Raphaël Glucksmann"
+},
+{
+"id": "0345b9971dd702ea",
+"title": "Proposition d’adoption d’une règle d’or en urgence : le coup de comm’ de Bardella",
+"link": "https://www.lopinion.fr/economie/proposition-dadoption-dune-regle-dor-en-urgence-le-coup-de-comm-de-bardella",
+"summary": "Le président du RN a fait sa proposition face caméra, sur les réseaux sociaux jeudi 5 novembre au soir. « Je propose de mettre en œuvre dès maintenant la règle d’or proposée par Marine Le Pen dans le cadre de la présidentielle ».",
+"source": "L'Opinion",
+"date": "2026-11-08T17:15:00+00:00",
+"added": "2026-11-08T17:22:51+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "538f5398f9c11fca",
+"title": "\"Augmenter le Smic, c'est détruire des emplois\", estime Matthieu Valet, député européen RN",
+"link": "https://www.bfmtv.com/politique/video-augmenter-le-smic-c-est-detruire-des-emplois-estime-matthieu-valet-depute-europeen-rn_VN-202611080342.html",
+"summary": "À la veille de la conférence sociale à Matignon, le ministre du Travail Jean-Pierre Farandou se dit favorable à une hausse du Smic au-delà de 1.500 euros net, mais met en garde contre les conséquences d’une revalorisation trop importante sur l’emploi.",
+"source": "BFMTV",
+"date": "2026-11-08T16:56:29+00:00",
+"added": "2026-11-08T17:22:51+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement",
+"parlement",
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Matthieu Valet"
+},
+{
+"id": "4ba0cb2707c16cf0",
+"title": "A la veille d’un déplacement à Chartres, Edouard Philippe cerné par les appels à la primaire",
+"link": "https://www.liberation.fr/politique/elections/a-la-veille-dun-deplacement-a-chartres-edouard-philippe-cerne-par-les-appels-a-la-primaire-20261108_CPNO4X2F4ZHLZDEAJREX2ZA2YA/",
+"summary": "A l’instar de Laurent Wauquiez ce dimanche 8 novembre sur France 2, des voix du Modem et de Renaissance ont encore appelé à un vote pour désigner un candidat unique de droite en 2027.",
+"source": "Libération",
+"date": "2026-11-08T16:50:08+00:00",
+"added": "2026-11-08T17:22:51+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "846e09f62d3d37dd",
+"title": "Pouvoir d'achat: Nour Durand-Raucher, conseiller Les Écologistes de Paris, propos un Smic à \"2.000 euros brut\"",
+"link": "https://www.bfmtv.com/politique/video-pouvoir-d-achat-nour-durand-raucher-conseiller-les-ecologistes-de-paris-propos-un-smic-a-2-000-euros-brut_VN-202611080338.html",
+"summary": "À la veille de la conférence sociale à Matignon, le ministre du Travail Jean-Pierre Farandou se dit favorable à une hausse du Smic au-delà de 1.500 euros net, mais met en garde contre les conséquences d’une revalorisation trop importante sur l’emploi.",
+"source": "BFMTV",
+"date": "2026-11-08T16:28:12+00:00",
+"added": "2026-11-08T17:22:51+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "b5794a810970aa9c",
+"title": "Jad Zahab, porte-parole de Gabriel Attal, estime que la proposition d'augmenter le Smic à 1.700 euros net revient \"à mettre en faillite un certain nombre de petites entreprises\"",
+"link": "https://www.bfmtv.com/politique/video-jad-zahab-porte-parole-de-gabriel-attal-estime-que-la-proposition-d-augmenter-le-smic-a-1-700-euros-net-revient-a-mettre-en-faillite-un-certain-nombre-de-petites-entreprises_VN-202611080334.html",
+"summary": "À la veille de la conférence sociale à Matignon, le ministre du Travail Jean-Pierre Farandou se dit favorable à une hausse du Smic au-delà de 1.500 euros net, mais met en garde contre les conséquences d’une revalorisation trop importante sur l’emploi.",
+"source": "BFMTV",
+"date": "2026-11-08T16:23:14+00:00",
+"added": "2026-11-08T17:22:51+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement",
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Jad Zahab"
+},
+{
+"id": "45f7f21c86500a4f",
+"title": "La «Nouvelle France» rassemblée au meeting de Mélenchon au Bourget : une réalité à ne pas minimiser",
+"link": "https://www.liberation.fr/politique/elections/la-nouvelle-france-rassemblee-au-meeting-de-melenchon-au-bourget-une-realite-a-ne-pas-minimiser-20261108_CSFT2KNSAVFNTBBTO7EVTHKF5A/",
+"summary": "La chose est assez rare pour mériter d’être soulignée : l’assemblée réunie samedi 7 novembre pour écouter le candidat insoumis comptait dans ses rangs de très nombreuses personnes racisées, habituellement assez éloignées des campagnes électorales.",
+"source": "Libération",
+"date": "2026-11-08T15:53:46+00:00",
+"added": "2026-11-08T17:22:51+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement",
+"partis"
+],
+"natures": [
+"Discours"
+],
+"speaker": ""
+},
+{
+"id": "cc6f6aef045541eb",
+"title": "Hausse du Smic : \"Beaucoup de petites entreprises ne peuvent pas se le permettre\", estime Jordan Bardella, président du RN",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-hausse-du-smic-beaucoup-de-petites-entreprises-ne-peuvent-pas-se-le-permettre-estime-jordan-bardella-president-du-rn_VN-202611080318.html",
+"summary": "Plusieurs candidats à la présidentielle, Édouard Philippe (Horizons), Bruno Retailleau (LR), Gabriel Attal (Renaissance) et David Lisnard (Nouvelle Énergie) sont attendus aux Rencontres de l'Avenir dans le Var pour débattre.",
+"source": "BFMTV",
+"date": "2026-11-08T15:35:23+00:00",
+"added": "2026-11-08T17:22:51+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Hausse du Smic"
+},
+{
+"id": "01d191fa95edb090",
+"title": "Présidentielle 2027 : les insoumis se disent prêts à gouverner par décrets s’ils arrivent au pouvoir, au nom de «l’état d’urgence sociale»",
+"link": "https://www.liberation.fr/politique/elections/presidentielle-2027-les-insoumis-se-disent-prets-a-gouverner-par-decrets-sils-arrivent-au-pouvoir-au-nom-de-letat-durgence-sociale-20261108_K6MFRAEQXVFBDO5K26QTLCRUKE/",
+"summary": "Au lendemain du meeting du Bourget, Manuel Bompard et Clémence Guetté ont détaillé ce qu’un gouvernement LFI ferait dans les jours suivant l’élection.",
+"source": "Libération",
+"date": "2026-11-08T15:34:58+00:00",
+"added": "2026-11-08T17:22:51+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement",
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "1364048aa947b26b",
+"title": "\"Pour augmenter les salaires, il faut qu'on crée plus de richesses\", assure Arnaud Péricard, porte-parole d'Horizons",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-pour-augmenter-les-salaires-il-faut-qu-on-cree-plus-de-richesses-assure-arnaud-pericard-porte-parole-d-horizons_VN-202611080315.html",
+"summary": "À la veille de la conférence sociale à Matignon, le ministre du Travail Jean-Pierre Farandou se dit favorable à une hausse du Smic au-delà de 1.500 euros net, mais met en garde contre les conséquences d’une revalorisation trop importante sur l’emploi.",
+"source": "BFMTV",
+"date": "2026-11-08T15:32:24+00:00",
+"added": "2026-11-08T17:22:51+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement",
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Arnaud Péricard"
+},
+{
+"id": "a3da1323dadadb42",
+"title": "Pour Nathalie Arthaud, candidate Lutte Ouvrière à la présidentielle, il faut \"un minimum de 2.200 euros net\" pour vivre",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-pour-nathalie-arthaud-candidate-lutte-ouvriere-a-la-presidentielle-il-faut-un-minimum-de-2-200-euros-net-pour-vivre_VN-202611080316.html",
+"summary": "À la veille de la conférence sociale à Matignon, le ministre du Travail Jean-Pierre Farandou se dit favorable à une hausse du Smic au-delà de 1.500 euros net, mais met en garde contre les conséquences d’une revalorisation trop importante sur l’emploi.",
+"source": "BFMTV",
+"date": "2026-11-08T15:31:15+00:00",
+"added": "2026-11-08T17:22:51+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Nathalie Arthaud"
+},
+{
+"id": "3ed90f180feddaf6",
+"title": "Présidentielle 2027 : la surpuissance Mélenchon sur les réseaux sociaux",
+"link": "https://www.valeursactuelles.com/politique/presidentielle-2027-sur-les-reseaux-sociaux-les-chiffres-de-la-surpuissance-de-jean-luc-melenchon",
+"summary": "Du 9 octobre au 7 novembre, les publications de Jean-Luc Mélenchon ont concentré 25,4 % des likes, commentaires et partages recueillis par les 35 personnalités suivies dans l’observatoire présidentiel du cabinet Saper Vedere.",
+"source": "Valeurs actuelles",
+"date": "2026-11-08T15:30:37+00:00",
+"added": "2026-11-08T17:22:51+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "7793ea848e7fd15f",
+"title": "Domicile d'un policier incendié dans le Gers: \"Aller attaquer quelqu'un chez lui, c'est extrêmement grave\", déclare Jean-René Cazeneuve, député EPR du département",
+"link": "https://www.bfmtv.com/politique/video-domicile-d-un-policier-incendie-dans-le-gers-aller-attaquer-quelqu-un-chez-lui-c-est-extremement-grave-declare-jean-rene-cazeneuve-depute-epr-du-departement_VN-202611080313.html",
+"summary": "Le domicile d'un policier d'Auch, a été incendié samedi 7 novembre, selon le ministre de l'Intérieur Laurent Nuñez, pour qui cet agent a été visé en raison de sa profession.",
+"source": "BFMTV",
+"date": "2026-11-08T15:29:23+00:00",
+"added": "2026-11-08T17:22:51+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement",
+"parlement"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Jean-René Cazeneuve"
+},
+{
+"id": "172aab927c78a6f6",
+"title": "Présidentielle 2027 : en cas d'élection de Jean-Luc Mélenchon, LFI appliquerait des décrets immédiats",
+"link": "https://www.cnews.fr/france/2026-11-08/presidentielle-2027-en-cas-delection-de-jean-luc-melenchon-lfi-appliquerait-des",
+"summary": "En cas de victoire à l'élection présidentielle de 2027, La France Insoumise (LFI) prévoit d'instaurer immédiatement un «état d'urgence sociale» pour gouverner par décrets.",
+"source": "CNews",
+"date": "2026-11-08T15:28:52+00:00",
+"added": "2026-11-08T17:22:51+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "6bf8efb31115df69",
+"title": "Syndicats à Matignon, grève dans l'éducation… Une nouvelle semaine qui s'annonce tendue sur le front social",
+"link": "https://www.tf1info.fr/politique/syndicats-a-matignon-greve-dans-l-education-une-nouvelle-semaine-qui-s-annonce-tendue-sur-le-front-social-2474618.html",
+"summary": "Lycées, facs, gilets jaunes… Une France entre colère sociale et violences urbaines\nL'agenda social toujours chargé.",
+"source": "TF1 Info",
+"date": "2026-11-08T15:27:03+00:00",
+"added": "2026-11-08T17:22:51+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [
+"Annonce"
+],
+"speaker": ""
+},
+{
 "id": "e1a982014d708123",
 "title": "\"Un candidat sincère\" : à Montluçon, les Républicains de l'Allier affichent leur soutien à Bruno Retailleau",
 "link": "https://www.lamontagne.fr/montlucon-03100/actualites/un-candidat-sincere-a-montlucon-les-republicains-de-l-allier-affichent-leur-soutien-a-bruno-retailleau_15077724/",
@@ -28,7 +385,9 @@
 "date": "2026-11-08T15:04:11+00:00",
 "added": "2026-11-08T15:23:25+00:00",
 "official": false,
-"also": [],
+"also": [
+"Le Figaro"
+],
 "base": [
 "partis"
 ],
@@ -109,7 +468,10 @@
 "date": "2026-11-08T14:37:42+00:00",
 "added": "2026-11-08T15:23:25+00:00",
 "official": false,
-"also": [],
+"also": [
+"Le Monde",
+"L'Est Républicain"
+],
 "base": [
 "presidentielle"
 ],
@@ -122,6 +484,30 @@
 "Réaction"
 ],
 "speaker": "Gabriel Attal"
+},
+{
+"id": "74bf0c85b1b0f7cc",
+"title": "La ministre des Sports salue \"la grande responsabilité\" d'Edgar Grospiron après sa démission de la présidence du comité d'organisation des JO-2030",
+"link": "https://www.franceinfo.fr/les-jeux-olympiques/alpes-francaises-2030/la-ministre-des-sports-salue-la-grande-responsabilite-d-edgar-grospiron-apres-sa-demission-de-la-presidence-du-comite-d-organisation-des-jo-2030_8187806.html",
+"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
+"source": "franceinfo",
+"date": "2026-11-08T14:34:11+00:00",
+"added": "2026-11-08T17:22:51+00:00",
+"official": false,
+"also": [],
+"base": [
+"matinales"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"gouvernement"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "Edgar Grospiron"
 },
 {
 "id": "2f886f9bf29f40c5",
@@ -1090,6 +1476,30 @@
 "speaker": ""
 },
 {
+"id": "167b327321acf3fc",
+"title": "Emmanuel Macron insulté par Marcel, 8 ans : «Le plus grave, c'est de tendre le micro à un enfant pour parler de politique», critique Henri Guaino",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNF9KR0gxTVdEblBWczc4WUVsSU5MQTFxbzh2eGk3Y0toUVVpUjlPajhNX3hONURiQ1RCT3FtaU1xY1ptUjl4VW5QX0lmaWtNZERKWnhYTmwzOVl1ZmctNVM2TkhkN1lYUW4tZGllczA4WTBoTW5hM1VyUWFEdUJhcUUxZ0xDR2thTkVwNkFrSmp1T2R3eXo2OG9LZXA4OGVaaWRRSGNvUDFyWC1HdXlmWDdwMGtuVDVzM2RCR9IBwgFBVV95cUxOa3AzcW9IMWFsSlkwZWxtS2U3bm5abWRCRHV0cS16TlNCakxKdWZwT2JEZm1IZlpvZFVlQm9ITzVIdUhfQ1pnRWRIejBuWWU4OWhlMTdiUVpISk01UDJXb0JMYTZadHlialhXMExwVTBGMl9pOHN0b2UyTG04Z1k4a2tuTlZGR05iY2xpYnBqSDhtMFRYMHROYzVCUE1UTHFRNGtyZ2xHUGZwRGJhRVdWSW9faVBiNXlTME44Q09fclNCdw?oc=5",
+"summary": "",
+"source": "CNews",
+"date": "2026-11-08T10:49:45+00:00",
+"added": "2026-11-08T17:22:51+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"elysee",
+"partis"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "Henri Guaino"
+},
+{
 "id": "c3a5d6d57034a138",
 "title": "Colère sociale: \"Le principal problème, ce n'est pas tant le niveau du Smic, mais la part de Français bloqués au niveau du Smic\", affirme Gabriel Attal, candidat Renaissance à la présidentielle",
 "link": "https://www.bfmtv.com/politique/video-colere-sociale-le-principal-probleme-ce-n-est-pas-tant-le-niveau-du-smic-mais-la-part-de-francais-bloques-au-niveau-du-smic-affirme-gabriel-attal-candidat-renaissance-a-la-presidentielle_VN-202611080186.html",
@@ -1565,6 +1975,26 @@
 "topics": [
 "matinales",
 "gouvernement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "95fa681d51cc1987",
+"title": "Hollande intéresse la droite, l'après-Parcoursup… Nos informations confidentielles de la semaine",
+"link": "https://www.latribune.fr/article/la-tribune-dimanche/politique/25092512345003/hollande-interesse-la-droite-lapres-parcoursup-nos-informations-confidentielles-de-la-semaine",
+"summary": "François Hollande assiste à la 44ème édition de la Foire du Livre de Brive 2026.",
+"source": "La Tribune",
+"date": "2026-11-08T07:00:03+00:00",
+"added": "2026-11-08T17:22:51+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
 ],
 "natures": [],
 "speaker": ""
@@ -2575,6 +3005,29 @@
 "speaker": ""
 },
 {
+"id": "f8ec12ad86d8f06f",
+"title": "En Israël, le chef de l'opposition à Benyamin Nétanyahou, Gadi Eisenkot, sera chargé dimanche de former le prochain gouvernement, annonce la présidence",
+"link": "https://www.franceinfo.fr/monde/israel/en-israel-le-chef-de-l-opposition-a-benyamin-netanyahou-gadi-eisenkot-sera-charge-dimanche-de-former-le-prochain-gouvernement-annonce-la-presidence_8272685.html",
+"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
+"source": "franceinfo",
+"date": "2026-11-07T19:52:36+00:00",
+"added": "2026-11-08T17:22:51+00:00",
+"official": false,
+"also": [],
+"base": [
+"matinales"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"gouvernement"
+],
+"natures": [
+"Annonce"
+],
+"speaker": "Gadi Eisenkot"
+},
+{
 "id": "3696fb4e90bd9124",
 "title": "« Il est l’heure de tout changer » : au Bourget, LFI met en scène sa « Nouvelle France »",
 "link": "https://www.publicsenat.fr/actualites/politique/il-est-lheure-de-tout-changer-au-bourget-lfi-met-en-scene-sa-nouvelle-france",
@@ -2647,7 +3100,8 @@
 "official": false,
 "also": [
 "Le HuffPost",
-"La Nouvelle République"
+"La Nouvelle République",
+"L'Opinion"
 ],
 "base": [
 "partis"
@@ -4085,6 +4539,26 @@
 "presidentielle"
 ],
 "natures": [],
+"speaker": ""
+},
+{
+"id": "d3f0c3faebb836d5",
+"title": "Guerre en Iran : le Gouvernement annonce des mesures de soutien à l’activité économique",
+"link": "https://www.info.gouv.fr/actualite/guerre-en-iran-le-gouvernement-annonce-des-mesures-de-soutien-a-l-activite-economique",
+"summary": "",
+"source": "info.gouv.fr",
+"date": "2026-11-07T15:03:00+00:00",
+"added": "2026-11-08T17:22:51+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [
+"Annonce"
+],
 "speaker": ""
 },
 {
@@ -6900,6 +7374,24 @@
 "source": "Le Parisien",
 "date": "2026-11-06T18:58:23+00:00",
 "added": "2026-11-07T17:24:25+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "6c9c7d0ada411168",
+"title": "Parcoursup : Sébastien Lecornu va échanger lundi avec les lycéens et les étudiants, avant la réunion sur l’avenir de la plateforme",
+"link": "https://www.sudouest.fr/societe/parcoursup-sebastien-lecornu-va-echanger-lundi-avec-les-lyceens-et-les-etudiants-avant-la-reunion-sur-l-avenir-de-la-plateforme-31419870.php",
+"summary": "",
+"source": "Sud Ouest",
+"date": "2026-11-06T18:50:39+00:00",
+"added": "2026-11-08T17:22:51+00:00",
 "official": false,
 "also": [],
 "base": [],
@@ -12384,825 +12876,5 @@
 "Réaction"
 ],
 "speaker": "Matthieu Valet"
-},
-{
-"id": "47085c2a71a07f5d",
-"title": "Edouard Philippe, opération bad boy",
-"link": "https://www.lesechos.fr/elections/analyses/edouard-philippe-operation-bad-boy-2261403",
-"summary": "",
-"source": "Les Echos",
-"date": "2026-11-05T17:22:36+00:00",
-"added": "2026-11-05T17:47:20+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "bc2b25cf1418a021",
-"title": "Attentat raciste des Yvelines: des proches de Pengo Bossio Wangi ont été reçus par Emmanuel Macron",
-"link": "https://www.bfmtv.com/politique/elysee/attentat-raciste-des-yvelines-des-proches-de-pengo-bossio-wangi-ont-ete-recus-par-emmanuel-macron_AD-202611050670.html",
-"summary": "Des proches de Pengo Bossio Wangi, mort dans l'attentat raciste des Yvelines le 23 octobre, ont été reçus par Emmanuel Macron a annoncé leur avocat dans un communiqué.",
-"source": "BFMTV",
-"date": "2026-11-05T17:17:16+00:00",
-"added": "2026-11-05T17:47:20+00:00",
-"official": false,
-"also": [
-"Libération",
-"Ouest-France",
-"La Croix",
-"TF1 Info",
-"La Nouvelle République",
-"CNews"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "0454d582ebeb5216",
-"title": "Présidentielle : Macron suggère une «coalition» allant de Glucksmann à Lisnard en passant par Philippe et Attal, qui passent leur tour",
-"link": "https://www.liberation.fr/politique/pour-la-presidentielle-macron-veut-une-coalition-allant-de-raphael-glucksmann-a-david-lisnard-20261105_WZKJCENBGFDN7IUIWMV3P6PT2M/",
-"summary": "Refusant la perspective répétée d’un second tour entre Jean-Luc Mélenchon et Marine Le Pen, le Président appelle de ses voeux un très large arc politique regroupant le centre-gauche jusqu’à la droite libérale-conservatrice.",
-"source": "Libération",
-"date": "2026-11-05T17:14:03+00:00",
-"added": "2026-11-05T17:47:20+00:00",
-"official": false,
-"also": [
-"Valeurs actuelles"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "d2d7dc2440fc9ec2",
-"title": "«Je suis convaincu qu’on va faire campagne ensemble» : à Saint-Ouen, Glucksmann tend la main à Bouamrane",
-"link": "https://www.lefigaro.fr/politique/je-suis-convaincu-qu-on-va-faire-campagne-ensemble-a-saint-ouen-glucksmann-tend-la-main-a-bouamrane-20261104",
-"summary": "Le social-démocrate s’est rendu ce mercredi soir au lancement du livre du maire socialiste de la ville, lui aussi candidat déclaré à l’élection présidentielle.",
-"source": "Le Figaro",
-"date": "2026-11-05T17:09:59+00:00",
-"added": "2026-11-08T06:29:20+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "882edb2018f5ab88",
-"title": "Présidentielle 2027 : plutôt qu’une primaire, Macron veut une coalition allant de Glucksmann à Lisnard pour déjouer le duel Le Pen-Mélenchon",
-"link": "https://www.lefigaro.fr/elections/presidentielles/candidats/presidentielle-2027-plutot-qu-une-primaire-macron-veut-une-coalition-allant-de-glucksmann-a-lisnard-pour-dejouer-le-duel-le-pen-melenchon-20261104",
-"summary": "CONTRE-POINT - Estimant les candidats en lice inaudibles sur le fond, le président de la République aimerait qu’ils commencent par travailler ensemble sur le projet.",
-"source": "Le Figaro",
-"date": "2026-11-05T17:09:52+00:00",
-"added": "2026-11-07T21:23:43+00:00",
-"official": false,
-"also": [
-"20 Minutes"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"presidentielle"
-],
-"natures": [],
-"speaker": "Emmanuel Macron"
-},
-{
-"id": "fb73e156af8b3a93",
-"title": "Attentat de Trappes : Emmanuel Macron a reçu à l’Élysée la mère et des sœurs de Pengo Bossio Wangi",
-"link": "https://www.lefigaro.fr/politique/attentat-de-trappes-emmanuel-macron-a-recu-a-l-elysee-la-mere-et-des-soeurs-de-pengo-bossio-wangi-20261105",
-"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
-"source": "Le Figaro",
-"date": "2026-11-05T17:07:03+00:00",
-"added": "2026-11-05T17:47:20+00:00",
-"official": false,
-"also": [
-"La Voix du Nord"
-],
-"base": [
-"elysee"
-],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "27418eb8582e061d",
-"title": "\"Tout le monde déteste le PS\" : Raphaël Glucksmann exfiltré de la manifestation du 5 novembre à Paris",
-"link": "https://www.rtl.fr/actu/politique/tout-le-monde-deteste-le-ps-raphael-glucksmann-exfiltre-de-la-manifestation-du-5-novembre-a-paris-7900693158",
-"summary": "Raphaël Glucksmann, dans le cortège parisien, le jeudi 5 novembre 2026. Accueilli par des sifflets et des slogans hostiles, Raphaël Glucksmann a quitté la manifestation parisienne contre la vie chère, ce jeudi 5 novembre, après avoir été bloqué durant près d'une heure à son point de départ, place de la République.",
-"source": "RTL",
-"date": "2026-11-05T17:02:44+00:00",
-"added": "2026-11-05T17:47:20+00:00",
-"official": false,
-"also": [
-"Ouest-France",
-"Le Nouvel Obs"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "96ae135932e07e58",
-"title": "Présidentielle 2027 : Le Pen et Lisnard gagnent du terrain",
-"link": "https://www.valeursactuelles.com/politique/presidentielle-2027-marine-le-pen-reprend-la-premiere-place-dans-le-barometre-politique-du-figaro-magazine-sarah-knafo-et-david-lisnard-progressent",
-"summary": "Dans le baromètre politique du Figaro Magazine réalisé par Verian et publié le 4 novembre, Marine Le Pen caracole en tête. 43 % des personnes interrogées souhaitent voir la candidate du Rassemblement national jouer un rôle important dans les mois et les années à venir, soit quatre points de plus que lors de la…",
-"source": "Valeurs actuelles",
-"date": "2026-11-05T16:58:52+00:00",
-"added": "2026-11-05T17:47:20+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "801df9ae0434ac4c",
-"title": "Manifestations du 5 novembre: Sébastien Lecornu annonce une \"conférence sociale\" avec les syndicats et le patronat",
-"link": "https://www.bfmtv.com/politique/video-manifestations-du-5-novembre-sebastien-lecornu-annonce-une-conference-sociale-avec-les-syndicats-et-le-patronat_VN-202611050650.html",
-"summary": "La journée de jeudi sera-t-elle le point d'orgue d'un automne social très chaud ? Salariés et fonctionnaires sont appelés par les syndicats à faire grève pour leurs salaires, jeunes et retraités à les rejoindre en manifestation, quand le gouvernement est attendu sur des réponses concrètes.",
-"source": "BFMTV",
-"date": "2026-11-05T16:56:12+00:00",
-"added": "2026-11-05T17:47:20+00:00",
-"official": false,
-"also": [
-"Le Dauphiné Libéré",
-"Public Sénat",
-"Le Parisien",
-"franceinfo",
-"20 Minutes",
-"Le Monde",
-"Europe 1"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement"
-],
-"natures": [
-"Citation",
-"Annonce"
-],
-"speaker": "Sébastien Lecornu"
-},
-{
-"id": "c58ae4ffcb380296",
-"title": "Manifestation du 5 novembre: Manon Aubry appelle le gouvernement à \"céder aux revendications sociales\" ou \"partir\"",
-"link": "https://www.bfmtv.com/politique/la-france-insoumise/video-manifestation-du-5-novembre-manon-aubry-appelle-le-gouvernement-a-ceder-aux-revendications-sociales-ou-partir_VN-202611050649.html",
-"summary": "La journée de jeudi sera-t-elle le point d'orgue d'un automne social très chaud? Salariés et fonctionnaires sont appelés par les syndicats à faire grève pour leurs salaires, jeunes et retraités à les rejoindre en manifestation, quand le gouvernement est attendu sur des réponses concrètes.",
-"source": "BFMTV",
-"date": "2026-11-05T16:54:52+00:00",
-"added": "2026-11-05T17:47:20+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Manon Aubry"
-},
-{
-"id": "bfb7cc26d8251c8d",
-"title": "Pour la promo de son livre, Bardella percuté par ses messages antisémites",
-"link": "https://www.liberation.fr/politique/elections/pour-la-promo-de-son-livre-bardella-percute-par-ses-messages-antisemites-20261105_P25VB5SGOZETDHRLUP5HOQ5OIY/",
-"summary": "Entre un comité d’accueil d’associations de lutte contre l’antisémitisme et l’exclusion de médias de la soirée de lancement de son nouveau livre mercredi, le président du RN a du mal à se débarrasser des révélations de «Mediapart».",
-"source": "Libération",
-"date": "2026-11-05T16:51:31+00:00",
-"added": "2026-11-05T17:47:20+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "47c1ab1c987e9406",
-"title": "Pouvoir d'achat: Sébastien Lecornu réunira syndicats et patronat lundi pour \"apporter des réponses\"",
-"link": "https://lcp.fr/actualites/pouvoir-d-achat-sebastien-lecornu-reunira-syndicats-et-patronat-lundi-pour-apporter-des",
-"summary": "Le Premier minsitre, Sébastien Lecornu, réunira une \"conférence sociale\" avec les organisations syndicales et patronales lundi prochain, le 9 novembre, a annoncé Matignon ce jeudi, au soir de la journée de grèves et de manifestations sur le pouvoir d'achat à l'appel des syndicats.",
-"source": "LCP",
-"date": "2026-11-05T16:51:28+00:00",
-"added": "2026-11-05T17:47:20+00:00",
-"official": false,
-"also": [
-"Le Parisien"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "5261e7b470b95acb",
-"title": "Sébastien Lecornu exhorte les banques à financer les candidats à l’élection présidentielle",
-"link": "https://www.lemonde.fr/economie/article/2026/11/05/sebastien-lecornu-exhorte-les-banques-a-financer-les-candidats-a-la-presidentielle_6807149_3234.html",
-"summary": "Le premier ministre a envoyé deux nouveaux courriers aux banques françaises. Celles-ci plaident pour une solution impliquant des établissements financiers détenus directement ou indirectement par l’Etat.",
-"source": "Le Monde",
-"date": "2026-11-05T16:44:37+00:00",
-"added": "2026-11-05T17:47:20+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement",
-"presidentielle"
-],
-"natures": [],
-"speaker": "Sébastien Lecornu"
-},
-{
-"id": "bebc4e0cebfae2ec",
-"title": "Alexandre Portier sur la pétition de suppression de CNews : « LFI mène une offensive de muselage des avis contraires »",
-"link": "https://www.lefigaro.fr/politique/alexandre-portier-sur-la-petition-de-suppression-de-cnews-lfi-mene-une-offensive-de-muselage-des-avis-contraires-20261105",
-"summary": "ENTRETIEN EXCLUSIF - Le président LR de la commission des affaires culturelles de l’Assemblée considère que « la gauche est en train de rompre avec les fondamentaux du débat républicain ».",
-"source": "Le Figaro",
-"date": "2026-11-05T16:42:58+00:00",
-"added": "2026-11-05T17:47:20+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement",
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "fc945d5a208b4505",
-"title": "Présidentielle 2027 : la moitié des députés du groupe GDR, dont quatre communistes, annoncent leur soutien à Jean-Luc Mélenchon",
-"link": "https://www.humanite.fr/politique/elsa-faucillon/presidentielle-2027-la-moitie-des-deputes-du-groupe-gdr-dont-quatre-communistes-annoncent-leur-soutien-a-jean-luc-melenchon",
-"summary": "Dans un communiqué, neuf députés du groupe GDR annoncent leur choix de faire campagne auprès de Jean-Luc Mélenchon.",
-"source": "L'Humanité",
-"date": "2026-11-05T16:42:26+00:00",
-"added": "2026-11-05T17:47:20+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"parlement",
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "fc7ff122f49db0b5",
-"title": "« Méluche, c’est pas de la tarte », Olivier Faure « un mec très bien » : deux ans de SMS d’Emmanuel Macron dans un livre",
-"link": "https://www.ouest-france.fr/politique/emmanuel-macron/meluche-cest-pas-de-la-tarte-olivier-faure-un-mec-tres-bien-deux-ans-de-sms-demmanuel-macron-dans-un-livre-044d74ee-d924-11f1-b736-5b9907ef0b5a",
-"summary": "",
-"source": "Ouest-France",
-"date": "2026-11-05T16:38:04+00:00",
-"added": "2026-11-05T17:47:20+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"elysee",
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "1e1297f01b2616b3",
-"title": "« Ils nuiront gravement à l’économie » : au Sénat, le grand ras-le-bol des patrons face aux choix budgétaires du gouvernement",
-"link": "https://www.publicsenat.fr/actualites/economie/ils-nuiront-gravement-a-leconomie-au-senat-le-grand-ras-le-bol-des-patrons-face-aux-choix-budgetaires-du-gouvernement",
-"summary": "Réunies lors d’une table ronde ce 5 novembre, les organisations patronales (Medef, Les Entrepreneurs ou encore U2P) se sont indignées avec force des réductions des allègements généraux prévues par le gouvernement dans le budget.",
-"source": "Public Sénat",
-"date": "2026-11-05T16:33:09+00:00",
-"added": "2026-11-05T19:41:56+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement",
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "f3daed7434541809",
-"title": "La question du jour. Présidentielle : seriez-vous favorable à une coalition allant de Glucksmann à Lisnard ?",
-"link": "https://www.ouest-france.fr/elections/presidentielle/la-question-du-jour-presidentielle-seriez-vous-favorable-a-une-coalition-allant-de-glucksmann-a-lisnard-bca5fade-d91a-11f1-a1e1-ae8104d72c9a",
-"summary": "",
-"source": "Ouest-France",
-"date": "2026-11-05T16:32:06+00:00",
-"added": "2026-11-07T15:24:49+00:00",
-"official": false,
-"also": [
-"20 Minutes"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "207ec7d103cd6487",
-"title": "\"Carpentras insoumise\" : un nouveau groupe d’action créé par La France insoumise",
-"link": "https://www.laprovence.com/article/politique/10095177088087/carpentras-insoumise-un-nouveau-groupe-d-action-cree-par-la-france-insoumise",
-"summary": "En septembre dernier, une manifestation contre l'extrême droite avait été organisée à Carpentras.",
-"source": "La Provence",
-"date": "2026-11-05T16:31:01+00:00",
-"added": "2026-11-05T17:47:20+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "05cf6038c46a4735",
-"title": "grève du 5 novembre : entre 600 000 et 1,6 million de manifestants en France jeudi, une « conférence sociale » entre syndicats et patronat prévue à Matignon lundi",
-"link": "https://www.lemonde.fr/politique/live/2026/11/05/en-direct-greve-du-5-novembre-pres-de-600-000-manifestants-en-france-ce-jeudi-selon-une-estimation-provisoire-du-ministere-de-l-interieur_6806775_823448.html",
-"summary": "La CGT estime que les mobilisations ont réuni près de 1,6 million de personnes, dont 350 000 à Paris. Peu avant 17 heures, Beauvau a fait savoir que près de 600 000 personnes ont participé à la mobilisation, ajoutant qu’il s’agissait d’une estimation non définitive.",
-"source": "Le Monde",
-"date": "2026-11-05T16:19:20+00:00",
-"added": "2026-11-05T17:47:20+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "d4cf46b498e72ad4",
-"title": "Mobilisation sociale et TikTok : une étude bat en brèche le rôle joué par la plateforme dans les violences",
-"link": "https://www.lemonde.fr/pixels/article/2026/11/05/mobilisation-sociale-et-tiktok-une-etude-bat-en-breche-le-role-joue-par-la-plateforme-dans-les-violences_6807112_4408996.html",
-"summary": "Contrairement à ce qu’avance le gouvernement, les chercheurs n’ont pas trouvé de traces d’une coordination particulière des actions violentes sur le réseau social, ni d’une forte viralité des appels à en commettre.",
-"source": "Le Monde",
-"date": "2026-11-05T16:16:20+00:00",
-"added": "2026-11-05T17:47:20+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "aebf766ddfbcc965",
-"title": "SONDAGE EXCLUSIF - Contrôle continu, bac, Parcoursup, financement des universités : les Français veulent du changement",
-"link": "https://www.lesechos.fr/politique-societe/education/sondage-exclusif-controle-continu-bac-parcoursup-financement-des-universites-les-francais-veulent-du-changement-2261366",
-"summary": "",
-"source": "Les Echos",
-"date": "2026-11-05T16:15:50+00:00",
-"added": "2026-11-05T17:47:20+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "c95252f037695a66",
-"title": "Macron fait pire qu’Hollande et bat un record d’impopularité, selon un sondage",
-"link": "https://www.20minutes.fr/politique/4260714-20261105-macron-fait-pire-hollande-bat-record-impopularite-selon-sondage?at_medium=display&at_campaign=149",
-"summary": "Avec seulement 13 % de cote de confiance, Emmanuel Macron bat le record d’impopularité de son prédécesseur socialiste à l’Élysée François Hollande.",
-"source": "20 Minutes",
-"date": "2026-11-05T16:03:22+00:00",
-"added": "2026-11-05T17:47:20+00:00",
-"official": false,
-"also": [
-"Le Parisien",
-"Europe 1",
-"Public Sénat",
-"Sud Ouest",
-"Valeurs actuelles"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": "Emmanuel Macron"
-},
-{
-"id": "d1703c6c5ff655bd",
-"title": "Sifflé lors de la manifestation à Paris, Glucksmann se « contrefout » des militants « hostiles »",
-"link": "https://www.huffingtonpost.fr/politique/article/siffle-lors-de-la-manifestation-a-paris-raphael-glucksmann-se-contrefout-des-militants-hostiles_352514.html",
-"summary": "Bilan de la première manifestation du candidat Glucksmann : très mitigé. Pour son premier déplacement dans le cortège parisien depuis le début de la contestation, Raphaël Glucksmann a été accueilli ce jeudi 5 novembre par des sifflets et slogans hostiles.",
-"source": "Le HuffPost",
-"date": "2026-11-05T16:01:07+00:00",
-"added": "2026-11-05T17:47:20+00:00",
-"official": false,
-"also": [
-"Le Dauphiné Libéré"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "2c40d011cac96591",
-"title": "Présidentielle 2027 : les Français favorables à une primaire de la droite, David Lisnard confirme sa dynamique",
-"link": "https://www.lefigaro.fr/elections/presidentielles/sondages/presidentielle-2027-les-francais-favorables-a-une-primaire-de-la-droite-david-lisnard-confirme-sa-dynamique-20261105",
-"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
-"source": "Le Figaro",
-"date": "2026-11-05T16:00:10+00:00",
-"added": "2026-11-07T06:28:17+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": "David Lisnard"
-},
-{
-"id": "ae04d2abaec35405",
-"title": "« Tous nuls » : la prise de confiance de Jean-Luc Mélenchon et LFI",
-"link": "https://www.lopinion.fr/politique/tous-nuls-la-prise-de-confiance-de-jean-luc-melenchon-et-lfi",
-"summary": "Ca roule des mécaniques. Autour de Jean-Luc Mélenchon, on commence à prendre la confiance. Les démonstrations de force, ça aide.",
-"source": "L'Opinion",
-"date": "2026-11-05T16:00:00+00:00",
-"added": "2026-11-05T17:47:20+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "ea839bb566fae8e9",
-"title": "Grève du 5 novembre : Raphaël Glucksmann, empêché d’avancer avec le cortège, quitte la manifestation parisienne",
-"link": "https://www.lanouvellerepublique.fr/a-la-une/direct-greve-du-5-novembre-suivez-avec-nous-la-mobilisation-partout-en-france-1793859394",
-"summary": "À Paris, les manifestants se dirigent vers la place de la Nation. © (Photo Hans Lucas via AFP)\nCe direct est alimenté par les journalistes du service Informations générales.\n17 h 44.",
-"source": "La Nouvelle République",
-"date": "2026-11-05T15:51:05+00:00",
-"added": "2026-11-05T17:47:20+00:00",
-"official": false,
-"also": [
-"franceinfo",
-"TF1 Info"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "1a7d40a030a8bb95",
-"title": "Une pétition pour soutenir « la primaire des démocrates » de Gabriel Attal a du plomb dans l'aile",
-"link": "https://www.lopinion.fr/politique/une-petition-pour-soutenir-la-primaire-des-democrates-de-gabriel-attal-a-du-plomb-dans-laile",
-"summary": "La députée Renaissance de l’Ain, Olga Givernet fait circuler, selon nos informations, un appel à organiser une « primaire des démocrates et des républicains » mais ses propres collègues rechignent à signer de crainte que cela ne passe pour un soutien à Gabriel Attal.",
-"source": "L'Opinion",
-"date": "2026-11-05T15:50:00+00:00",
-"added": "2026-11-05T17:47:20+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"parlement",
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Gabriel Attal"
-},
-{
-"id": "913d84e5e1a5e633",
-"title": "\"On fait une campagne plan-plan\" : le doute gagne le camp d’Édouard Philippe pour la présidentielle 2027",
-"link": "https://www.rtl.fr/actu/politique/on-fait-une-campagne-plan-plan-le-doute-gagne-le-camp-d-edouard-philippe-pour-la-presidentielle-2027-7900693116",
-"summary": "À la peine dans les sondages, Édouard Philippe a des difficultés à rassembler. D'après la dernière étude Ifop pour LCI, publiée mardi 3 novembre, l'ancien Premier ministre est crédité de 15% des voix et 9,5 % en cas de maintien de Gabriel Attal).",
-"source": "RTL",
-"date": "2026-11-05T15:48:08+00:00",
-"added": "2026-11-05T17:47:20+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "c211efa2294994de",
-"title": "La majorité du groupe communiste à l’Assemblée soutiendra Mélenchon à la présidentielle",
-"link": "https://www.20minutes.fr/politique/4260692-20261105-majorite-groupe-communiste-assemblee-soutiendra-melenchon-presidentielle?at_medium=display&at_campaign=149",
-"summary": "Révolution ! La majorité du groupe communiste et ultramarin à l’Assemblée nationale (neuf députés sur 17), dont leur président Stéphane Peu, annonce, jeudi, soutenir la candidature de Jean-Luc Mélenchon (LFI), plutôt que celle du candidat du PCF, pour la présidentielle de 2027.",
-"source": "20 Minutes",
-"date": "2026-11-05T15:47:59+00:00",
-"added": "2026-11-05T17:47:20+00:00",
-"official": false,
-"also": [
-"Le Monde",
-"franceinfo",
-"Le Télégramme",
-"La Provence",
-"L'Est Républicain",
-"Le Figaro",
-"La Nouvelle République",
-"RTL"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement",
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "85e4f13e30040464",
-"title": "Euronaval : Edouard Philippe attaque Marine Le Pen et Jean-Luc Mélenchon sur l’Otan",
-"link": "https://www.lopinion.fr/politique/euronaval-edouard-philippe-attaque-marine-le-pen-et-jean-luc-melenchon-sur-lotan",
-"summary": "La défense s’invite dans la campagne présidentielle. Dédié à l’industrie de la défense navale, le salon international Euronaval accueille ce jeudi quatre candidats classés à droite et à l’extrême droite – Edouard Philippe, Bruno Retailleau, Marine Le Pen et Eric Zemmour.",
-"source": "L'Opinion",
-"date": "2026-11-05T15:45:29+00:00",
-"added": "2026-11-05T17:47:20+00:00",
-"official": false,
-"also": [
-"Midi Libre",
-"BFMTV",
-"Le Dauphiné Libéré"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": "Édouard Philippe"
-},
-{
-"id": "5d739495af1cd6f5",
-"title": "Présidentielle 2027 : Marine Le Pen refuse d’obliger les entreprises à augmenter les salaires sinon « on rentre dans l’URSS »",
-"link": "https://www.sudouest.fr/politique/marine-le-pen/presidentielle-2027-marine-le-pen-refuse-d-obliger-les-entreprises-a-augmenter-les-salaires-sinon-on-rentre-dans-l-urss-31396917.php",
-"summary": "",
-"source": "Sud Ouest",
-"date": "2026-11-05T15:45:15+00:00",
-"added": "2026-11-05T17:47:20+00:00",
-"official": false,
-"also": [
-"La Montagne"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Marine Le Pen"
-},
-{
-"id": "8f86fcff5b8f25b4",
-"title": "Dépenses du gouvernement : une étude relève « l’opacité » des rémunérations dans les cabinets ministériels",
-"link": "https://www.lemonde.fr/politique/article/2026/11/05/depenses-du-gouvernement-une-etude-releve-l-opacite-des-remunerations-dans-les-cabinets-ministeriels_6807040_823448.html",
-"summary": "Dans une note pour l’Observatoire de l’éthique publique, qu’il préside, l’ancien député René Dosière évalue le « coût du gouvernement Lecornu » à 165,7 millions d’euros en année pleine, soit moins d’un millième des dépenses publiques.",
-"source": "Le Monde",
-"date": "2026-11-05T15:38:59+00:00",
-"added": "2026-11-05T15:45:21+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement",
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "ea406854b167876b",
-"title": "À Orléans, il ne reste plus que quelques jours pour récupérer les vélos retirés de la rue en marge du congrès du RN",
-"link": "https://www.ouest-france.fr/centre-val-de-loire/orleans-45000/a-orleans-il-ne-reste-plus-que-quelques-jours-pour-recuperer-les-velos-retires-de-la-rue-en-marge-du-congres-du-rn-6064e916-d92d-11f1-9911-9179baff22e2",
-"summary": "",
-"source": "Ouest-France",
-"date": "2026-11-05T15:33:01+00:00",
-"added": "2026-11-05T19:41:56+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "9908d891a1c57094",
-"title": "\"Quelle fin de règne interminable\" : pourquoi aucun député, même parmi les macronistes, n'a voté en faveur de la première partie du budget",
-"link": "https://www.franceinfo.fr/economie/budget/quelle-fin-de-regne-interminable-pourquoi-aucun-depute-meme-parmi-les-macronistes-n-a-vote-en-faveur-de-la-premiere-partie-du-budget_8268995.html#xtor=RSS-3-%5Bgeneral%5D",
-"summary": "L'Assemblée nationale a rejeté mercredi en première lecture la partie recettes du projet de loi de finances. Tous les élus, y compris des groupes macronistes, ont voté contre le texte.",
-"source": "franceinfo",
-"date": "2026-11-05T15:32:35+00:00",
-"added": "2026-11-05T15:45:21+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "ade66cbf32520d9e",
-"title": "« Aux États-Unis, il y a un ras-le-bol des démocrates de voir la croyance chrétienne instrumentalisée par les républicains »",
-"link": "https://www.la-croix.com/religion/aux-etats-unis-il-y-a-un-ras-le-bol-des-democrates-de-voir-la-croyance-chretienne-instrumentalisee-par-les-republicains-20261105",
-"summary": "Beaucoup de candidats démocrates ont mis en avant leur foi ou leur appartenance religieuse lors de ces élections de mi-mandat.",
-"source": "La Croix",
-"date": "2026-11-05T15:29:21+00:00",
-"added": "2026-11-05T17:47:20+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "6a82b8dd1acf7455",
-"title": "Grève du 5 novembre : dans le cortège parisien, Macron ou Bardella mangés... par des plantes piranhas de Mario",
-"link": "https://www.ledauphine.com/videos/greve-du-5-novembre-dans-le-cortege-parisien-macron-ou-bardella-manges-par-des-plantes-piranhas-de-mario-3z3rsru",
-"summary": "",
-"source": "Le Dauphiné Libéré",
-"date": "2026-11-05T15:25:54+00:00",
-"added": "2026-11-05T15:45:21+00:00",
-"official": false,
-"also": [
-"Le Progrès"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"elysee",
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "b09122aa570cb0a3",
-"title": "VIDÉO. Manifestation du 5 novembre : Raphaël Glucksmann chahuté à Paris et contraint de quitter les cortèges",
-"link": "https://www.ouest-france.fr/societe/manifestation/video-manifestation-du-5-novembre-raphael-glucksmann-chahute-a-paris-et-contraint-de-quitter-les-corteges-195847d6-4445-4ad9-b6d2-80d45690bc1c",
-"summary": "",
-"source": "Ouest-France",
-"date": "2026-11-05T15:23:28+00:00",
-"added": "2026-11-05T15:45:21+00:00",
-"official": false,
-"also": [
-"Le Nouvel Obs"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
 }
 ]
