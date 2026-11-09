@@ -1,5 +1,674 @@
 [
 {
+"id": "95cda26c27084dbc",
+"title": "\"Arnaque\", \"opération pièces jaunes\": la CGT et LFI critiquent la hausse du Smic attendue à l'issue de la conférence sociale",
+"link": "https://lcp.fr/actualites/arnaque-operation-pieces-jaunes-la-cgt-et-lfi-critiquent-la-hausse-du-smic-attendue-a-l",
+"summary": "Avant même la conférence sociale qui a lieu ce matin, lundi 9 novembre, à Matignon, la secrétaire générale de la CGT, Sophie Binet, a évoqué le risque que celle-ci se résume, selon elle, à une \"opération pièces jaunes\", tandis que la présidente des députés LFI, Mathilde Panot, a considéré que la hausse attendue du…",
+"source": "LCP",
+"date": "2026-11-09T09:34:41+00:00",
+"added": "2026-11-09T09:47:26+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"parlement",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "d10e14d3270320b7",
+"title": "INFO BFMTV. Le Premier ministre va annoncer la reconduction de la prime carburant",
+"link": "https://www.bfmtv.com/economie/pouvoir-d-achat/info-bfmtv-le-premier-ministre-va-annoncer-la-reconduction-de-la-prime-carburant_AN-202611090390.html",
+"summary": "Le Premier ministre Sébastien Lecornu à la sortie de l'Elysée, à Paris, le 10 septembre 2026 - Ludovic MARIN\nSelon les informations de BFMTV ce lundi 9 novembre, Sébastien Lecornu va annoncer la reconduction de la prime carburant dans le cadre des mesures prises pour améliorer le pouvoir d'achat des Français.",
+"source": "BFMTV",
+"date": "2026-11-09T09:33:49+00:00",
+"added": "2026-11-09T09:47:26+00:00",
+"official": false,
+"also": [],
+"base": [
+"matinales"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"elysee",
+"gouvernement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "4e84b9ff701818a8",
+"title": "Colère sociale: \"Les marges de manœuvre sont inexistantes quasiment sur le plan budgétaire et politique\", estime Frédéric Valletoux, député Horizons de Seine-et-Marne",
+"link": "https://www.bfmtv.com/politique/video-colere-sociale-les-marges-de-man-uvre-sont-inexistantes-quasiment-sur-le-plan-budgetaire-et-politique-estime-frederic-valletoux-depute-horizons-de-seine-et-marne_VN-202611090391.html",
+"summary": "Sous pression des manifestants et sans marge financière, Sébastien Lecornu tente lundi de répondre à la colère sociale exprimée depuis plusieurs semaines par les syndicats et la jeunesse.",
+"source": "BFMTV",
+"date": "2026-11-09T09:32:54+00:00",
+"added": "2026-11-09T09:47:26+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"parlement",
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Frédéric Valletoux"
+},
+{
+"id": "4883c33eb6a28ac5",
+"title": "\"Ignoble\" : Marine Le Pen nie les discriminations en France, une déclaration qui provoque un tollé et l'indignation",
+"link": "https://www.laprovence.com/article/politique/10720754606444/marine-le-pen-est-dans-le-deni-ses-propos-sur-labsence-de-discrimination-en-france-provoquent-lindignation",
+"summary": "Dans un entretien pour l'émission \"60 minutes\" de la chaîne américaine, la candidate RN à la présidentielle explique que l'immigration a déstabilisé la société française et que le taux de chômage des étrangers est deux fois plus élevé que celui des Français.",
+"source": "La Provence",
+"date": "2026-11-09T09:28:49+00:00",
+"added": "2026-11-09T09:47:26+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "169d83d0fa01b86d",
+"title": "Jean-Luc Mélenchon veut une auto-déclaration d'arrêts-maladie sans carence: \"Une bonne idée mais à encadrer\", juge le médecin Jérôme Marty",
+"link": "https://rmc.bfmtv.com/actualites/economie/travail/jean-luc-melenchon-veut-une-auto-declaration-d-arrets-maladie-sans-carence-une-bonne-idee-mais-a-encadrer-juge-le-medecin-jerome-marty_AV-202611090384.html",
+"summary": "Vers une révolution sur les arrêts-maladie en cas de victoire de Jean-Luc Mélenchon? Ce samedi à l'occasion de la présentation de son programme pour l'élection présidentielle, le leader LFI a dévoilé l'une de ses mesures pour la santé et le travail: l’auto-déclaration des arrêts-maladie de courte durée.",
+"source": "RMC",
+"date": "2026-11-09T09:28:11+00:00",
+"added": "2026-11-09T09:47:26+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Jean-Luc Mélenchon"
+},
+{
+"id": "0b33bf6febdfad0c",
+"title": "[Podcasts] Meeting de Mélenchon : une démonstration de force ? - 09/11",
+"link": "https://rmc.bfmtv.com/replay-emissions/les-grandes-gueules/meeting-de-melenchon-une-demonstration-de-force-09-11_EN-202611090383.html",
+"summary": "A 10h, ce lundi 9 novembre 2026, les GG : Zohra Bitan, intervenante auprès de la jeunesse, Didier Giraud, éleveur de bovins, et Charles Consigny, avocat, débattent de : Meeting de Mélenchon, une démonstration de force ?",
+"source": "RMC",
+"date": "2026-11-09T09:26:33+00:00",
+"added": "2026-11-09T09:47:26+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Discours"
+],
+"speaker": ""
+},
+{
+"id": "2f83b0177a7a9db4",
+"title": "Pouvoir d'achat : face à la hausse du coût de la vie, les Français attendent des réponses du gouvernement",
+"link": "https://www.franceinfo.fr/politique/pouvoir-d-achat-face-a-la-hausse-du-cout-de-la-vie-les-francais-attendent-des-reponses-du-gouvernement_8274221.html#xtor=RSS-3-%5Bgeneral%5D",
+"summary": "Alors que les négociations sur le pouvoir d'achat se tiennent lundi 9 novembre, les Français témoignent de leurs difficultés face à la hausse du coût de la vie.",
+"source": "franceinfo",
+"date": "2026-11-09T09:22:25+00:00",
+"added": "2026-11-09T09:47:26+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "233f4691af8ff598",
+"title": "Hausse du Smic: Sarah Knafo, députée européenne Reconquête, estime que “ce n’est pas la solution”",
+"link": "https://www.bfmtv.com/politique/video-hausse-du-smic-sarah-knafo-deputee-europeenne-reconquete-estime-que-ce-n-est-pas-la-solution_VN-202611090379.html",
+"summary": "Sarah Knafo, députée européenne Reconquête !, était l’invitée du Face-à-Face sur BFMTV et RMC ce lundi 9 novembre 2026.",
+"source": "BFMTV",
+"date": "2026-11-09T09:12:36+00:00",
+"added": "2026-11-09T09:47:26+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"parlement",
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Sarah Knafo"
+},
+{
+"id": "46acc050dec88ab0",
+"title": "Marine Le Pen nie l'existence de discriminations en France dans une interview à la télévision américaine",
+"link": "https://www.franceinfo.fr/politique/marine-le-pen/marine-le-pen-nie-l-existence-de-discriminations-en-france-dans-une-interview-a-la-television-americaine_8274212.html#xtor=RSS-3-%5Bgeneral%5D",
+"summary": "La candidate du Rassemblement nationale à la présidentielle, interrogée par le média américain CBS, a également affirmé que la France est \"le pays le moins raciste au monde\", sans citer d'étude comparative.",
+"source": "franceinfo",
+"date": "2026-11-09T09:09:20+00:00",
+"added": "2026-11-09T09:47:26+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [
+"Interview"
+],
+"speaker": ""
+},
+{
+"id": "05063d79219aa51a",
+"title": "\"On va limiter un nombre de jours possibles dans l'année\": Éric Coquerel (LFI) sur la proposition d'auto-déclaration pour les arrêts de courte durée",
+"link": "https://www.bfmtv.com/politique/la-france-insoumise/video-on-va-limiter-un-nombre-de-jours-possibles-dans-l-annee-eric-coquerel-lfi-sur-la-proposition-d-auto-declaration-pour-les-arrets-de-courte-duree_VN-202611090371.html",
+"summary": "Dans son \"programme de la Nouvelle France\", toujours intitulé \"L'avenir en commun\", la France insoumise défend la mise en place d'une auto-déclaration pour les arrêts de courte durée.",
+"source": "BFMTV",
+"date": "2026-11-09T09:07:00+00:00",
+"added": "2026-11-09T09:47:26+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "31a225e839df5a79",
+"title": "Héritage: \"Ce n'est pas normal que quelqu'un ait plus de cinq logements dès qu'il est né\", estime Éric Coquerel (LFI)",
+"link": "https://www.bfmtv.com/politique/la-france-insoumise/video-heritage-ce-n-est-pas-normal-que-quelqu-un-ait-plus-de-cinq-logements-des-qu-il-est-ne-estime-eric-coquerel-lfi_VN-202611090369.html",
+"summary": "Éric Coquerel, député LFI de Seine-Saint-Denis, était l'invité de BFMTV pour évoquer \"L'avenir en commun\", le \"programme de la Nouvelle France\", que LFI compte appliquer en cas de victoire à l'élection présidentielle.",
+"source": "BFMTV",
+"date": "2026-11-09T09:04:44+00:00",
+"added": "2026-11-09T09:47:26+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"parlement",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Éric Coquerel"
+},
+{
+"id": "e9788351e37350ac",
+"title": "\"Nous n'arrivons pas, en France, à structurer des relations fluides et constructives entre les représentants des salariés et l'État\", analyse Olivier Rouquan, politologue et enseignant-chercheur en sciences politiques",
+"link": "https://www.franceinfo.fr/replay-jt/franceinfo/6h30-9h30/l-invite-du-6h30-9h30/nous-n-arrivons-pas-en-france-a-structurer-des-relations-fluides-et-constructives-entre-les-representants-des-salaries-et-l-etat-analyse-olivier-rouquan-politologue-et-enseignant-chercheur-en-sciences-politiques_8274203.html#xtor=RSS-3-%5Bgeneral%5D",
+"summary": "Olivier Rouquan, politologue et enseignant-chercheur en sciences politiques, est l'invité actu de la matinale du lundi 9 novembre, à l'occasion de la conférence sociale organisée par le gouvernement.",
+"source": "franceinfo",
+"date": "2026-11-09T09:01:15+00:00",
+"added": "2026-11-09T09:47:26+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"gouvernement"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Olivier Rouquan"
+},
+{
+"id": "63d849497c8d838f",
+"title": "[Podcasts] De Glucksmann à Retailleau : primaire souhaitable ? - 09/11",
+"link": "https://rmc.bfmtv.com/replay-emissions/les-grandes-gueules/de-glucksmann-a-retailleau-primaire-souhaitable-09-11_EN-202611090351.html",
+"summary": "Pour débuter l'émission de ce lundi 9 novembre 2026, les GG : Zohra Bitan, intervenante auprès de la jeunesse, Didier Giraud, éleveur de bovins, et Charles Consigny, avocat, débattent du sujet du jour : De Glucksmann à Retailleau, primaire souhaitable ?",
+"source": "RMC",
+"date": "2026-11-09T08:48:14+00:00",
+"added": "2026-11-09T09:47:26+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "6f96853af124b6fd",
+"title": "\"La France n'est pas un pays raciste, elle n'exerce pas de discriminations\", estime le député RN Sébastien Chenu",
+"link": "https://www.franceinfo.fr/societe/racisme/la-france-n-est-pas-un-pays-raciste-elle-n-exerce-pas-de-discriminations-estime-le-depute-rn-sebastien-chenu_8274200.html",
+"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
+"source": "franceinfo",
+"date": "2026-11-09T08:47:51+00:00",
+"added": "2026-11-09T09:47:26+00:00",
+"official": false,
+"also": [],
+"base": [
+"matinales"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"parlement",
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Sébastien Chenu"
+},
+{
+"id": "3d22b2d360a8f587",
+"title": "Présidentielle 2027 : « Elle peut nous sauver », Michel Sardou mise sur Christine Lagarde et adoube Sarah Knafo",
+"link": "https://www.valeursactuelles.com/politique/presidentielle-2027-elle-peut-nous-sauver-michel-sardou-mise-sur-christine-lagarde-et-adoube-sarah-knafo",
+"summary": "À bientôt 80 ans, Michel Sardou coule des jours tranquilles sur les hauteurs de Bormes-les-Mimosas, dans le Var.",
+"source": "Valeurs actuelles",
+"date": "2026-11-09T08:46:26+00:00",
+"added": "2026-11-09T09:47:26+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "739dc5ebe5ac119c",
+"title": "Edito. A fond Mélenchon !",
+"link": "https://www.nicematin.com/societe/debat/edito/edito-a-fond-melenchon-10755905",
+"summary": "Jean-Luc Mélenchon est lancé pied au plancher sur la route de la présidentielle. Les derniers sondages le placent désormais derrière Marine Le Pen au premier tour.",
+"source": "Nice-Matin",
+"date": "2026-11-09T08:45:02+00:00",
+"added": "2026-11-09T09:47:26+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "8fcd55e40f349c4d",
+"title": "Parcoursup: des \"évolutions\" possibles \"tout de suite\" assure un ministre de l'Enseignement supérieur \"ouvert à tout\" pour l'avenir",
+"link": "https://rmc.bfmtv.com/actualites/societe/education/parcoursup-des-evolutions-possibles-tout-de-suite-assure-un-ministre-de-l-enseignement-superieur-ouvert-a-tout-pour-l-avenir_AV-202611090347.html",
+"summary": "La plateforme Parcoursup cristallise les tensions entre les lycéens et le gouvernement. Le ministre de l'Enseignement supérieur, Philippe Baptiste, évoque, ce lundi 9 novembre sur RMC, une \"évolution en deux temps\" à venir de la plateforme.",
+"source": "RMC",
+"date": "2026-11-09T08:41:37+00:00",
+"added": "2026-11-09T09:47:26+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [
+"Citation"
+],
+"speaker": ""
+},
+{
+"id": "d5235240c758049b",
+"title": "Conférence sociale, pouvoir d'achat, racisme... Le \"8h30 franceinfo\" de Sébastien Chenu",
+"link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/conference-sociale-pouvoir-d-achat-racisme-le-8h30-franceinfo-de-sebastien-chenu_8253655.html",
+"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
+"source": "franceinfo",
+"date": "2026-11-09T08:38:34+00:00",
+"added": "2026-11-09T09:47:26+00:00",
+"official": false,
+"also": [],
+"base": [
+"matinales"
+],
+"filtered": true,
+"topics": [
+"matinales"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Sébastien Chenu"
+},
+{
+"id": "028cfc135fc8dd8a",
+"title": "Pour Marine Le Pen, \"il n'y a pas de discriminations\" en France",
+"link": "https://www.france24.com/fr/info-en-continu/20261109-pour-marine-le-pen-il-n-y-a-pas-de-discriminations-en-france",
+"summary": "",
+"source": "France 24",
+"date": "2026-11-09T08:34:01+00:00",
+"added": "2026-11-09T09:47:26+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Marine Le Pen"
+},
+{
+"id": "fc6591d4e82f68ef",
+"title": "Étienne Gernelle sur RTL : Mélenchon et la machine de guerre électorale LFI",
+"link": "https://www.lepoint.fr/video/l/etienne-gernelle-sur-rtl-melenchon-et-la-machine-de-guerre-electorale-lfi-3YZRX7IDZRDQPAPAER52MNJ5B4/",
+"summary": "",
+"source": "Le Point",
+"date": "2026-11-09T08:31:16+00:00",
+"added": "2026-11-09T09:47:26+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "c7c754f8c991ca8e",
+"title": "Mobilisation lycéenne : pour rattraper les heures perdues, le ministre de l’éducation propose des « cours de rattrapage » pendant les vacances",
+"link": "https://www.lemonde.fr/education/article/2026/11/09/heures-perdues-par-les-lyceens-edouard-geffray-propose-des-cours-de-rattrapage-ou-d-entrainement_6808629_1473685.html",
+"summary": "Edouard Geffray a de nouveau dénoncé, lundi sur France 2, les élèves qui « empêchent [leurs] camarades d’aller en cours », et a affirmé que ces pratiques, bien qu’elles ne « remettent pas en cause la légitimité des revendications », sont « illégales », rappelant le « droit à l’éducation » des élèves.",
+"source": "Le Monde",
+"date": "2026-11-09T08:30:35+00:00",
+"added": "2026-11-09T09:47:26+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [
+"Citation",
+"Annonce"
+],
+"speaker": ""
+},
+{
+"id": "783394816a8c4540",
+"title": "EDITORIAL. Le programme de Mélenchon pour 2027, une grande razzia des idées à gauche… qui fait cauchemarder",
+"link": "https://www.challenges.fr/politique/editorial-le-programme-de-melenchon-pour-2027-une-grande-razzia-des-idees-a-gauche-qui-fait-cauchemarder_646905",
+"summary": "Jean-Luc Mélenchon impose son hégémonie sur la gauche, marginalise ses rivaux sociaux-démocrates et séduit avec un programme radical.",
+"source": "Challenges",
+"date": "2026-11-09T08:30:00+00:00",
+"added": "2026-11-09T09:47:26+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "cacc1a0dad983f23",
+"title": "Blocages de lycées : \"Le premier des droits en France, c'est le droit à l'éducation. Vous ne pouvez pas priver votre camarade du droit à l'éducation\", réagit Édouard Geffray, ministre de l'Éducation nationale",
+"link": "https://www.franceinfo.fr/politique/blocages-de-lycees-le-premier-des-droits-en-france-c-est-le-droit-a-l-education-vous-ne-pouvez-pas-priver-votre-camarade-du-droit-a-l-education-reagit-edouard-geffray-ministre-de-l-education-nationale_8274158.html#xtor=RSS-3-%5Bgeneral%5D",
+"summary": "Invité des \"4V\" sur France 2, lundi 9 novembre, Édouard Geffray, ministre de l'Éducation nationale, est revenu sur les blocages de lycées, les violences lors des manifestations et les discussions à venir sur l'avenir de Parcoursup.",
+"source": "franceinfo",
+"date": "2026-11-09T08:29:41+00:00",
+"added": "2026-11-09T09:47:26+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "Édouard Geffray"
+},
+{
+"id": "f0eeca8e16a3b1e8",
+"title": "Pourquoi la sortie de Jean-Luc Mélenchon sur le Donbass lors de son meeting fait tant réagir les soutiens de l’Ukraine",
+"link": "https://www.rtl.fr/actu/international/pourquoi-la-sortie-de-jean-luc-melenchon-sur-le-donbass-lors-de-son-meeting-fait-tant-reagir-les-soutiens-de-l-ukraine-7900693919",
+"summary": "\"Nous ferons ce que nous disons\" : Ehpad non-lucratifs, Smic à 1.700€, nationalisation d'ArcelorMittal... sur RTL, Mathilde Panot justifie les propositions de Mélenchon\nJean-Luc Mélenchon a été critiqué ce week-end sur sa position sur l'Ukraine.",
+"source": "RTL",
+"date": "2026-11-09T08:28:41+00:00",
+"added": "2026-11-09T09:47:26+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Discours"
+],
+"speaker": ""
+},
+{
+"id": "2001520533206656",
+"title": "Mouvement lycéen : des cours de rattrapage possibles pendant les vacances en février ou à Pâques, annonce Edouard Geffray",
+"link": "https://www.publicsenat.fr/actualites/politique/mouvement-lyceen-des-cours-de-rattrapage-possibles-pendant-les-vacances-en-fevrier-ou-a-paques-annonce-edouard-geffray",
+"summary": "Des cours de rattrapage pourront être organisés pendant les vacances scolaires « en février » ou « à Pâques », a indiqué lundi sur France 2 le ministre de l'Éducation nationale Édouard Geffray, qui a par ailleurs rappelé le caractère \"illégal\" des blocages devant les lycées.",
+"source": "Public Sénat",
+"date": "2026-11-09T08:25:00+00:00",
+"added": "2026-11-09T09:47:26+00:00",
+"official": false,
+"also": [
+"La Provence"
+],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [
+"Annonce"
+],
+"speaker": "Edouard Geffray"
+},
+{
+"id": "3fb03843d9571af7",
+"title": "\"D'un seul coup et en masse\": en cas de victoire, les insoumis veulent gouverner vite en décrétant un état d'urgence sociale",
+"link": "https://lcp.fr/actualites/d-un-seul-coup-et-en-masse-en-cas-de-victoire-les-insoumis-veulent-gouverner-vite-en",
+"summary": "Lors de son meeting au Bourget, samedi 7 novembre, Jean-Luc Mélenchon a dit sa volonté d'agir \"d'un seul coup et en masse\" en cas d'accession au pouvoir.",
+"source": "LCP",
+"date": "2026-11-09T08:19:34+00:00",
+"added": "2026-11-09T09:47:26+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "3b129e7e9bfb7dc0",
+"title": "L'édito de Pascal Praud : «Jean-Luc Mélenchon apporte un peu de baume au cœur aux recalés du succès»",
+"link": "https://www.cnews.fr/france/2026-11-09/ledito-de-pascal-praud-jean-luc-melenchon-apporte-un-peu-de-baume-au-coeur-aux",
+"summary": "«Jean-Luc Mélenchon apporte un peu de baume au cœur aux recalés du succès», a lancé Pascal Praud dans son édito ce lundi sur CNEWS.",
+"source": "CNews",
+"date": "2026-11-09T08:15:50+00:00",
+"added": "2026-11-09T09:47:26+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Pascal Praud"
+},
+{
+"id": "4effad2939bd308b",
+"title": "conférence sociale : Sébastien Lecornu réunit, lundi matin à Matignon, les organisations syndicales et patronales pour aborder les thèmes du pouvoir d’achat et des salaires",
+"link": "https://www.lemonde.fr/politique/live/2026/11/09/en-direct-conference-sociale-sebastien-lecornu-recoit-les-partenaires-sociaux-a-matignon_6808627_823448.html",
+"summary": "Le premier ministre réunit, lundi matin, les organisations syndicales et patronales pour engager un dialogue sur le pouvoir d’achat et les salaires, avant de recevoir les représentants des lycéens et étudiants dans l’après-midi à Matignon.",
+"source": "Le Monde",
+"date": "2026-11-09T08:15:26+00:00",
+"added": "2026-11-09T09:47:26+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "293d3d006d33f8af",
+"title": "Thierry Breton \"ne ferme pas la porte\" à une candidature pour l'élection présidentielle en 2027",
+"link": "https://www.franceinfo.fr/elections/presidentielle/thierry-breton-ne-ferme-pas-la-porte-a-une-candidature-pour-l-election-presidentielle-en-2027_8274176.html#xtor=RSS-3-%5Bgeneral%5D",
+"summary": "L'ancien ministre de l'Économie dit attendre de \"voir ce qui émerge dans le bloc central\". Interrogé sur France Inter, Thierry Breton assure également qu'il y a \"un problème absolument majeur en France de pouvoir d'achat\", avant la \"conférence sociale\".",
+"source": "franceinfo",
+"date": "2026-11-09T08:12:37+00:00",
+"added": "2026-11-09T09:47:26+00:00",
+"official": false,
+"also": [
+"Le Parisien"
+],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "1db7472699b5eefa",
+"title": "Les coups de pouce au smic sont-ils \"exceptionnels\" et \"pas fréquents\", comme l'affirme le ministre du Travail ?",
+"link": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-les-coups-de-pouce-au-smic-sont-ils-exceptionnels-et-pas-frequents-comme-l-affirme-le-ministre-du-travail_8253661.html",
+"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
+"source": "franceinfo",
+"date": "2026-11-09T08:05:00+00:00",
+"added": "2026-11-09T09:47:26+00:00",
+"official": false,
+"also": [],
+"base": [
+"matinales"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"gouvernement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "d30c323db11da993",
+"title": "Conférence sociale : Sébastien Lecornu tiraillé entre hausse des salaires et préservation de l’emploi",
+"link": "https://www.lemonde.fr/politique/article/2026/11/09/conference-sociale-sebastien-lecornu-tiraille-entre-hausse-des-salaires-et-preservation-de-l-emploi_6808625_823448.html",
+"summary": "Le premier ministre, qui devait recevoir les principales organisations d’employeurs et de salariés du secteur privé, lundi 9 novembre, va tenter de dénouer un dialogue social miné par la crise.",
+"source": "Le Monde",
+"date": "2026-11-09T08:02:26+00:00",
+"added": "2026-11-09T09:47:26+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "be3373e679514169",
+"title": "Le Pen et Mélenchon en hausse, Philippe et Glucksmann encore en baisse",
+"link": "https://www.20minutes.fr/societe/4261552-20261109-presidentielle-2027-pen-melenchon-hausse-philippe-glucksmann-encore-baisse-selon-nouveau-sondage",
+"summary": "Marine Le Pen et Jean-Luc Mélenchon poursuivent leur route en tête. Selon un sondage Harris Interactive pour M6/RTL publié lundi, la candidate du RN (34 à 36 % des intentions de vote) devance largement le candidat LFI (entre 18 et 19 %).",
+"source": "20 Minutes",
+"date": "2026-11-09T08:02:00+00:00",
+"added": "2026-11-09T09:47:26+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "3223c8e44c613c52",
 "title": "\"Son combat est d'éviter la guerre civile\": Sarah Knafo défend les multiples condamnations pour incitation à la haine raciale d'Éric Zemmour",
 "link": "https://www.bfmtv.com/politique/video-son-combat-est-d-eviter-la-guerre-civile-sarah-knafo-defend-les-multiples-condamnations-pour-incitation-a-la-haine-raciale-d-eric-zemmour_VN-202611090313.html",
@@ -96,7 +765,9 @@
 "date": "2026-11-09T07:49:18+00:00",
 "added": "2026-11-09T08:03:49+00:00",
 "official": false,
-"also": [],
+"also": [
+"Le Parisien"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -143,7 +814,9 @@
 "date": "2026-11-09T07:46:00+00:00",
 "added": "2026-11-09T08:03:49+00:00",
 "official": false,
-"also": [],
+"also": [
+"20 Minutes"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -177,6 +850,28 @@
 "speaker": "Sarah Knafo"
 },
 {
+"id": "682b0838977824fb",
+"title": "«Jean-Luc Mélenchon est dangereux pour l'économie», affirme François-Xavier Bellamy",
+"link": "https://www.cnews.fr/france/2026-11-09/jean-luc-melenchon-est-dangereux-pour-leconomie-affirme-francois-xavier-bellamy",
+"summary": "«Jean-Luc Mélenchon est dangereux pour l'économie», a affirmé l'eurodéputé François-Xavier Bellamy ce lundi sur CNEWS.",
+"source": "CNews",
+"date": "2026-11-09T07:29:54+00:00",
+"added": "2026-11-09T09:47:26+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "François-Xavier Bellamy"
+},
+{
 "id": "e8c8755a4417b8cf",
 "title": "Présidentielle 2027: Marine Le Pen estime que la France est le pays \"le moins raciste\" au monde",
 "link": "https://www.bfmtv.com/politique/front-national/presidentielle-2027-marine-le-pen-estime-que-la-france-est-le-pays-le-moins-raciste-au-monde_AN-202611090255.html",
@@ -185,7 +880,12 @@
 "date": "2026-11-09T07:24:06+00:00",
 "added": "2026-11-09T08:03:49+00:00",
 "official": false,
-"also": [],
+"also": [
+"20 Minutes",
+"TF1 Info",
+"Le Figaro",
+"Le Télégramme"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -765,7 +1465,9 @@
 "date": "2026-11-09T05:29:31+00:00",
 "added": "2026-11-09T06:43:58+00:00",
 "official": false,
-"also": [],
+"also": [
+"La Nouvelle République"
+],
 "base": [
 "partis"
 ],
@@ -1396,7 +2098,8 @@
 "CNews",
 "La Voix du Nord",
 "Le HuffPost",
-"Le Dauphiné Libéré"
+"Le Dauphiné Libéré",
+"RTL"
 ],
 "base": [],
 "filtered": true,
@@ -1758,7 +2461,8 @@
 "also": [
 "LCP",
 "TF1 Info",
-"CNews"
+"CNews",
+"BFMTV"
 ],
 "base": [
 "partis"
@@ -4665,6 +5369,27 @@
 "Réaction"
 ],
 "speaker": "Dieynaba Diop"
+},
+{
+"id": "a6fd19b622b9bb01",
+"title": "Jean-Pierre Farandou, ministre du Travail, déclare à La Tribune Dimanche que \"porter le Smic à 1.700 euros net détruirait plus de 230.000 emplois\"",
+"link": "https://www.bfmtv.com/politique/video-jean-pierre-farandou-ministre-du-travail-declare-a-la-tribune-dimanche-que-porter-le-smic-a-1-700-euros-net-detruirait-plus-de-230-000-emplois_VN-202611070550.html",
+"summary": "VIDÉO - Pour ce quatrième samedi d'affilée de mobilisation nationale ce samedi 7 novembre à l'appel d'organisations syndicales et de jeunesse ainsi que de gilets jaunes, quelque 70.000 policiers et gendarmes sont mobilisés sur l'ensemble du territoire.",
+"source": "BFMTV",
+"date": "2026-11-07T22:39:00+00:00",
+"added": "2026-11-09T09:47:26+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [
+"Citation",
+"Tribune"
+],
+"speaker": "Jean-Pierre Farandou"
 },
 {
 "id": "bf1aba6bb1d6f31d",
@@ -10772,6 +11497,27 @@
 "speaker": "Laurence Garnier"
 },
 {
+"id": "e87eb80da750697c",
+"title": "Présidentielle 2027 : avec la « Nouvelle France », Jean-Luc Mélenchon fait de l’écologie la clé de voûte de son programme",
+"link": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-avec-la-nouvelle-france-jean-luc-melenchon-fait-de-lecologie-la-cle-de-voute-de-son-programme",
+"summary": "Avec 1 069 mesures, dont 238 nouvelles, La France insoumise dévoile vendredi 6 novembre une nouvelle édition de son programme présidentiel, L’Avenir en commun.",
+"source": "Public Sénat",
+"date": "2026-11-06T15:32:18+00:00",
+"added": "2026-11-09T09:47:26+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Jean-Luc Mélenchon"
+},
+{
 "id": "49d64a2f0b510b67",
 "title": "Après le succès du 5 novembre, les syndicats déterminés iront à Matignon lundi 9 pour obtenir des mesures concrètes",
 "link": "https://www.liberation.fr/economie/social/apres-le-succes-du-5-novembre-les-syndicats-determines-iront-a-matignon-lundi-9-pour-obtenir-des-mesures-concretes-20261106_NQNL5HRS5FEMZJYSZLCEQH5NWQ/",
@@ -12234,439 +12980,5 @@
 ],
 "natures": [],
 "speaker": ""
-},
-{
-"id": "571f60388b561bdb",
-"title": "Sondage présidentielle 2027 : 74 % des sympathisants de la droite et du centre favorables à l’organisation d’une primaire",
-"link": "https://www.leparisien.fr/elections/presidentielle/sondage-presidentielle-2027-74-des-sympathisants-de-la-droite-et-du-centre-favorables-a-lorganisation-dune-primaire-06-11-2026-J3YKELJA6ZGCRADNF5QXKAL7XY.php",
-"summary": "",
-"source": "Le Parisien",
-"date": "2026-11-06T09:45:21+00:00",
-"added": "2026-11-08T21:23:53+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "f2549b19dc18f35d",
-"title": "Jean-Luc Mélenchon mise tout sur Gaza au détriment de l’Ukraine, dans son programme pour la présidentielle",
-"link": "https://www.lemonde.fr/politique/article/2026/11/06/jean-luc-melenchon-mise-tout-sur-gaza-au-detriment-de-l-ukraine-dans-son-programme-pour-la-presidentielle_6807759_823448.html",
-"summary": "La France insoumise évoque la fin de la solution à deux Etats et propose la suspension de l’accord d’association entre Israël et l’Union européenne, dans « L’Avenir en commun », publié vendredi 6 novembre.",
-"source": "Le Monde",
-"date": "2026-11-06T09:33:42+00:00",
-"added": "2026-11-06T09:49:15+00:00",
-"official": false,
-"also": [
-"LCP",
-"Ouest-France",
-"Courrier international"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "71e9c9e8ae44111c",
-"title": "« La France compte deux fois plus de parlementaires que les États-Unis… pour cinq fois moins d’habitants ! »",
-"link": "https://www.ouest-france.fr/politique/institutions/la-france-compte-deux-fois-plus-de-parlementaires-que-les-etats-unis-pour-cinq-fois-moins-dhabitants-700a2682-d90b-11f1-a1e1-ae8104d72c9a",
-"summary": "",
-"source": "Ouest-France",
-"date": "2026-11-06T09:30:03+00:00",
-"added": "2026-11-06T11:41:11+00:00",
-"official": false,
-"also": [],
-"base": [
-"parlement"
-],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "749e955b72342495",
-"title": "Présidentielle 2027: François Ruffin retirera sa candidature \"si une solution se dégage pour battre Marine Le Pen\"",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/presidentielle-2027-francois-ruffin-retirera-sa-candidature-si-une-solution-se-degage-pour-battre-marine-le-pen_AD-202611060378.html",
-"summary": "Se référant \"aux sondages du deuxième tour\", l'ancien insoumis estime que la solution ne peut pas venir de Jean-Luc Mélenchon pour battre l'extrême droite.",
-"source": "BFMTV",
-"date": "2026-11-06T09:25:41+00:00",
-"added": "2026-11-06T09:49:15+00:00",
-"official": false,
-"also": [
-"Libération",
-"franceinfo"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "f88e2b59ff8ed6d0",
-"title": "Guerre en Ukraine : le RN isolé au Sénat sur sa volonté de réduction de l’aide à Kiev, LFI absente du débat",
-"link": "https://www.lemonde.fr/international/article/2026/11/06/guerre-en-ukraine-le-rn-isole-au-senat-sur-sa-volonte-de-reduction-de-l-aide-a-kiev-lfi-absente-du-debat_6807755_3210.html",
-"summary": "Le Rassemblement national a maintenu lors d’un débat mené jeudi au Palais du Luxembourg sa volonté de cesser le soutien financier à l’Ukraine.",
-"source": "Le Monde",
-"date": "2026-11-06T09:19:13+00:00",
-"added": "2026-11-06T09:49:15+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement",
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "2914068441cb988c",
-"title": "Présidentielle 2027 : en quels candidats les Français ont-ils encore (un peu) de confiance ?",
-"link": "https://www.lepoint.fr/debats/presidentielle-2027-en-quels-candidats-les-francais-ont-ils-encore-un-peu-de-confiance-HL3UQG3HM5EGDAQZY7RLRJIMOQ/",
-"summary": "",
-"source": "Le Point",
-"date": "2026-11-06T09:15:00+00:00",
-"added": "2026-11-06T09:49:15+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "ad25080634e1a1e7",
-"title": "\"Il faut être absolument intraitable\": le ministre Édouard Geffray condamne les menaces à l'encontre des chefs d'établissement",
-"link": "https://www.bfmtv.com/politique/video-il-faut-etre-absolument-intraitable-le-ministre-edouard-geffray-condamne-les-menaces-a-l-encontre-des-chefs-d-etablissement_VN-202611060367.html",
-"summary": "Le ministre de l'Éducation nationale, Édouard Geffray, prend la parole ce vendredi 6 novembre au sujet de menaces à l'encontre des chefs d'établissement, à l'occasion de sa visite dans le lycée Jules-Ferry de Conflans-Sainte-Honorine, dans les Yvelines.",
-"source": "BFMTV",
-"date": "2026-11-06T09:12:32+00:00",
-"added": "2026-11-06T09:49:15+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "Édouard Geffray"
-},
-{
-"id": "0f4f616724a06d87",
-"title": "Accès aux classes bloqués dans les établissements scolaires: \"Je rappelle que c'est illégal\", prévient Édouard Geffray",
-"link": "https://www.bfmtv.com/politique/video-acces-aux-classes-bloques-dans-les-etablissements-scolaires-je-rappelle-que-c-est-illegal-previent-edouard-geffray_VN-202611060366.html",
-"summary": "Édouard Geffray, le ministre de l'Éducation nationale a répondu aux questions des journalistes, lors d'un déplacement dans un lycée de Conflans-Sainte-Honorine (Yvelines) aux côtés de Valérie Pécresse, présidente de la région Ile-de-France, ce vendredi 6 novembre.",
-"source": "BFMTV",
-"date": "2026-11-06T09:11:44+00:00",
-"added": "2026-11-06T09:49:15+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Édouard Geffray"
-},
-{
-"id": "0287c3707e15caec",
-"title": "Philippe-Attal : la campagne présidentielle des héritiers du macronisme patine",
-"link": "https://www.france24.com/fr/france/20261106-france-edouard-philippe-gabriel-attal-la-campagne-presidentielle-2027-des-heritiers-du-macronisme-patine",
-"summary": "",
-"source": "France 24",
-"date": "2026-11-06T09:10:37+00:00",
-"added": "2026-11-06T19:41:40+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "078902c5ee73bc10",
-"title": "Hausse du SMIC : Marine Le Pen rejette l'augmentation de 10 % prônée par la CGT",
-"link": "https://www.europe1.fr/politique/hausse-du-smic-marine-le-pen-rejette-laugmentation-de-10-pronee-par-la-cgt-1212713",
-"summary": "Alors que le pouvoir d'achat reste au cœur de ses priorités, la candidate du Rassemblement national à la présidentielle s'oppose à toute hausse autoritaire du SMIC pour préserver des entreprises jugées trop fragiles.",
-"source": "Europe 1",
-"date": "2026-11-06T09:09:00+00:00",
-"added": "2026-11-06T11:41:11+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": "Marine Le Pen"
-},
-{
-"id": "47340d4a198866d2",
-"title": "«Choisissez un mode de connexion» : ce message de Meta démontre que Jordan Bardella a toujours un compte Facebook lié à son adresse Hotmail",
-"link": "https://www.liberation.fr/checknews/choisissez-un-mode-de-connexion-ce-message-de-meta-demontre-que-jordan-bardella-a-toujours-un-compte-facebook-lie-a-son-adresse-hotmail-20261106_X5CVQR2OCNFSJEVUTH5CMSA7VM/",
-"summary": "Sur TF1, le président du RN a de nouveau assuré ne plus avoir de compte sur le réseau social et donc ne plus pouvoir extraire ses conversations.",
-"source": "Libération",
-"date": "2026-11-06T09:06:54+00:00",
-"added": "2026-11-06T09:49:15+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "4e93d23781b382a5",
-"title": "Le Premier ministre annonce une “conférence sociale” lundi, face à l’ampleur du mouvement de contestation",
-"link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOYTVEYXpPblJsUHBHWEVBMm5xZ2xzUEozNkxOZ0wyeFdkbDJaa205SmE0MTBoUTA2UklwUXdHRXd2RjhaYkhHNHJybl9fZ18zbXJRTEQtVE02MFdPdGxIMjN1ZTRrMDNFOGlNMmtjc2Y0cXZ5QzM2dlRhSUpNSTc3cWpHTFFoMThyM2plUFU0TjRUOHprSU4wWnY0bjJNa3kwSExNbFAyUXFjb0g0a01McU4ybU5kcWZHUXVZZjlYcTN2LVk4X1kwUkxKUjdUSk9KdkFYRXdTVVQwUmFZOWtpYnZDNDhlZEIyQ1djaXZBaE9RRWl3X2c?oc=5",
-"summary": "",
-"source": "L'Est Républicain",
-"date": "2026-11-06T09:05:28+00:00",
-"added": "2026-11-06T09:49:15+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement"
-],
-"natures": [
-"Annonce"
-],
-"speaker": ""
-},
-{
-"id": "f422d8274442a478",
-"title": "Le ministre du Travail aimerait que le Smic puisse franchir ce cap symbolique",
-"link": "https://www.huffingtonpost.fr/politique/article/jean-pierre-farandou-aimerait-que-le-smic-puisse-franchir-ce-cap-symbolique_352907.html",
-"summary": "Effet d’annonce ou vraie promesse ? Invité sur le plateau de TF1 ce vendredi 6 novembre, le ministre du Travail Jean-Pierre Farandou a jugé « important » d’essayer de « franchir la barre » des 1 500 euros net pour le Smic mensuel qui est actuellement de 1 477,93 euros.",
-"source": "Le HuffPost",
-"date": "2026-11-06T09:04:08+00:00",
-"added": "2026-11-07T17:24:25+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"matinales",
-"gouvernement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "dbd7f7249789e7a0",
-"title": "Posez vos questions à Jean-Noël Barrot, invité du Grand Jury RTL avec Ouest-France",
-"link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQMU12TVZLTTVHSXN0OENtQTRuSE5JZURTcE1NWDhJZFFMVkZ0YnNsWWw3bzJLaW82NHIya284c2lkNWV4QXNRU2JjVUdYQXVyNmtUYzlQclBhVGoybzVhUThpZzFmc1lyMzJWd1Y0VnFqRTRMbTI3RWlfWF9wQVFiU3k0emdJcEVWR204NUxKT2U3SHFYT1ZMQzRhWmRGR2YxZ20zLUxKRUlCSG9JVTczR2MwTTRTT0xfS19zVE5ZRDZPNlZkd09rZVVmNUVXSUozUjJLdnRKbXBrX00yb3pJcFg0b21QNng0cHMxMEVLZWd2UDBfdGdRcHZMcDRfcUZyWEMwOG4xaVJkZWxIdlBKdkxYS0ZmMUdVUTY5SXV2NGhPaFFwcVBTeG45S05PRGVRQ3V4WGlzdVdyS0JoYVNnb2FIVkdlcXpVRmFPQUFNdUpwRXNmWHdVTXBwUDRNZmlHQ2ZZUlhn?oc=5",
-"summary": "",
-"source": "Ouest-France",
-"date": "2026-11-06T08:56:48+00:00",
-"added": "2026-11-06T09:49:15+00:00",
-"official": false,
-"also": [],
-"base": [
-"matinales"
-],
-"filtered": true,
-"topics": [
-"matinales"
-],
-"natures": [
-"Interview"
-],
-"speaker": ""
-},
-{
-"id": "955580a6a6e2b691",
-"title": "«J'ai une forme d'admiration pour Raphaël Glucksmann, il en prend \"plein la gueule\" sur le terrain», glisse Pascal Praud",
-"link": "https://www.cnews.fr/france/2026-11-06/jai-une-forme-dadmiration-pour-raphael-glucksmann-il-en-prend-plein-la-gueule-sur",
-"summary": "«J'ai une forme d'admiration pour Raphaël Glucksmann, il en prend \"plein la gueule sur le terrain\"», a glissé Pascal Praud, ce vendredi sur CNEWS, au sujet du candidat socialiste à l'élection présidentielle qui a été hué, jeudi 5 novembre, lors de la manifestation à Paris et qui est régulièrement pris pour cible par…",
-"source": "CNews",
-"date": "2026-11-06T08:56:00+00:00",
-"added": "2026-11-06T11:41:11+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Pascal Praud"
-},
-{
-"id": "35398aa045398ef3",
-"title": "Raphaël Glucksmann invectivé lors de la manifestation du 5 novembre: \"La clé de la victoire, c'est l'unité\", réagit Raquel Garrido, co-fondatrice du mouvement L'Après",
-"link": "https://www.bfmtv.com/politique/video-raphael-glucksmann-invective-lors-de-la-manifestation-du-5-novembre-la-cle-de-la-victoire-c-est-l-unite-reagit-raquel-garrido-co-fondatrice-du-mouvement-l-apres_VN-202611060352.html",
-"summary": "Raphaël Glucksmann a été hué et contraint de quitter le rassemblement parisien du 5 novembre sans pouvoir défiler.",
-"source": "BFMTV",
-"date": "2026-11-06T08:52:39+00:00",
-"added": "2026-11-06T09:49:15+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "Raquel Garrido"
-},
-{
-"id": "c260483cf81f5fb9",
-"title": "Vers un Smic au-dessus des 1 500 € net ? L’annonce choc du ministre du Travail qui pourrait accorder un coup de pouce historique",
-"link": "https://www.midilibre.fr/2026/11/06/vers-un-smic-au-dessus-des-1-500-eur-net-lannonce-choc-du-ministre-du-travail-qui-pourrait-accorder-un-coup-de-pouce-historique-13639245.php",
-"summary": "Le ministre du Travail, Jean-Pierre Farandou, a exprimé vendredi sur TF1 son souhait de porter le Smic mensuel net au-delà de 1 500 euros, actuellement à 1 477,93 euros.",
-"source": "Midi Libre",
-"date": "2026-11-06T08:48:00+00:00",
-"added": "2026-11-06T09:49:15+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [
-"Annonce"
-],
-"speaker": ""
-},
-{
-"id": "8a56e5a4f232b868",
-"title": "Salaires, pouvoir d'achat: que peut-on attendre de la conférence sociale du lundi 9 novembre?",
-"link": "https://lcp.fr/actualites/salaires-pouvoir-d-achat-que-peut-on-attendre-de-la-conference-sociale-du-lundi-9",
-"summary": "À l'issue d'une importante journée de mobilisation, jeudi 5 novembre, Sébastien Lecornu a annoncé réunir les syndicats et le patronat à Matignon lundi prochain dans le cadre d'une \"conférence sociale\".",
-"source": "LCP",
-"date": "2026-11-06T08:44:33+00:00",
-"added": "2026-11-06T09:49:15+00:00",
-"official": false,
-"also": [
-"Le Nouvel Obs"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "b3aabc55b3b8aa91",
-"title": "Donner moins d’argent à l’Europe : la proposition de Marine Le Pen est-elle réaliste ?",
-"link": "https://www.lemonde.fr/les-decodeurs/article/2026/11/06/donner-moins-d-argent-a-l-europe-la-proposition-de-marine-le-pen-est-elle-realiste_6807742_4355770.html",
-"summary": "« Les propositions à la loupe ». La candidate du Rassemblement national veut négocier un rabais d’un tiers sur la contribution française à l’Union européenne pour faire des économies.",
-"source": "Le Monde",
-"date": "2026-11-06T08:40:32+00:00",
-"added": "2026-11-06T09:49:15+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "5dc6d89714b076bd",
-"title": "\"Il faut mettre le smic net à 1 600 euros\", propose Nicolas Dupont-Aignan, candidat Debout la France à la présidentielle",
-"link": "https://www.franceinfo.fr/politique/il-faut-mettre-le-smic-net-a-1-600-euros-propose-nicolas-dupont-aignan-au-lendemain-de-la-mobilisation-contre-la-vie-chere_8270444.html#xtor=RSS-3-%5Bgeneral%5D",
-"summary": "Invité des \"4 Vérités\" vendredi 6 novembre, Nicolas Dupont-Aignan, candidat Debout la France à l'élection présidentielle, revient sur la mobilisation en France la veille.",
-"source": "franceinfo",
-"date": "2026-11-06T08:19:17+00:00",
-"added": "2026-11-06T09:49:15+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"matinales",
-"presidentielle"
-],
-"natures": [
-"Citation",
-"Annonce"
-],
-"speaker": "Nicolas Dupont-Aignan"
-},
-{
-"id": "505bc1bcf34455be",
-"title": "Mobilisations sociales, salaires, ses 40 chantiers pour \"remettre la France debout\"... Le \"8h30 franceinfo\" de François Ruffin",
-"link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/mobilisations-sociales-salaires-ses-40-chantiers-pour-remettre-la-france-debout-le-8h30-franceinfo-de-francois-ruffin_8249932.html",
-"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
-"source": "franceinfo",
-"date": "2026-11-06T08:17:41+00:00",
-"added": "2026-11-06T11:41:11+00:00",
-"official": false,
-"also": [],
-"base": [
-"matinales"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": "François Ruffin"
 }
 ]
