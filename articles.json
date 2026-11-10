@@ -1,5 +1,618 @@
 [
 {
+"id": "d2f5a1d1ff85a45a",
+"title": "INFO BFMTV. Présidentielle 2027: le RN obtient un préaccord pour un prêt de plus de 10 millions d’euros auprès de deux banques européennes",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/info-bfmtv-presidentielle-2027-le-rn-obtient-un-preaccord-pour-un-pret-de-plus-de-10-millions-d-euros-aupres-de-deux-banques-europeennes_AN-202611100497.html",
+"summary": "Le ciel s'éclaircit pour le Rassemblement national. Le parti d'extrême droite a trouvé un accord pour un prêt de plus de 10 millions d'euros auprès de deux banques européennes pour financer la campagne présidentielle.",
+"source": "BFMTV",
+"date": "2026-11-10T11:32:35+00:00",
+"added": "2026-11-10T11:40:54+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "a2738183ecbf3c7c",
+"title": "INFO FRANCEINFO. Le RN a un obtenu un pré-accord de deux banques européennes pour financer sa campagne pour la présidentielle",
+"link": "https://www.franceinfo.fr/politique/front-national/info-franceinfo-le-rn-a-un-obtenu-un-pre-accord-de-deux-banques-europeennes-pour-financer-sa-campagne-pour-la-presidentielle_8276195.html#xtor=RSS-3-%5Bgeneral%5D",
+"summary": "Le Rassemblement national espère obtenir ce prêt d'ici fin novembre. Le parti a besoin de plus de 10 millions d'euros pour financer sa campagne.",
+"source": "franceinfo",
+"date": "2026-11-10T11:29:57+00:00",
+"added": "2026-11-10T11:40:54+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "bccd631ab22e5d6e",
+"title": "\"Il ne faut pas dire que ce sont des miettes\": le gouvernement défend une \"démarche de sincérité\" après les annonces de la conférence sociale",
+"link": "https://www.bfmtv.com/politique/gouvernement/video-il-ne-faut-pas-dire-que-ce-sont-des-miettes-le-gouvernement-defend-une-demarche-de-sincerite-apres-les-annonces-de-la-conference-sociale_VN-202611100493.html",
+"summary": "Mathieu Lefèvre, le porte-parole par intérim du gouvernement, répond à une question sur la hausse du Smic et la colère sociale lors du compte-rendu du conseil des ministres, ce mardi 10 novembre, à Paris.",
+"source": "BFMTV",
+"date": "2026-11-10T11:27:59+00:00",
+"added": "2026-11-10T11:40:54+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": ""
+},
+{
+"id": "04b5483e14f6262a",
+"title": "2027 : le camp Retailleau le pousse à faire une campagne «de pirate» et plus «dirty»",
+"link": "https://www.liberation.fr/politique/2027-le-camp-retailleau-le-pousse-a-faire-une-campagne-de-pirate-et-plus-dirty-20261110_UG6M2NVWYFALXBAGKFRDA65AYI/",
+"summary": "Indiscrétions piquantes, maladresses vaches ou douces confessions : chaque jour, retrouvez les brèves qui auscultent le monde politique.",
+"source": "Libération",
+"date": "2026-11-10T11:24:59+00:00",
+"added": "2026-11-10T11:40:54+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "378705072fce217f",
+"title": "« Il est pas mal du tout »… Jusqu’où ira Riner dans sa quête de l’Elysée ?",
+"link": "https://www.20minutes.fr/politique/4261730-20261110-presidentielle-2027-mal-tout-jusqu-candidature-teddy-riner-peut-aller",
+"summary": "Teddy Riner réussira-t-il à s’imposer à la présidentielle 2027 et aux JO 2028 ? Ces deux défis sont bien différents mais en attendant, il a au moins réussi à désarçonner les analystes de la vie politique française en annonçant sa candidature surprise lundi sur les réseaux sociaux.",
+"source": "20 Minutes",
+"date": "2026-11-10T11:09:00+00:00",
+"added": "2026-11-10T11:40:54+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"elysee",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "46736964b6a77f75",
+"title": "Teddy Riner candidat à la présidentielle: \"Il est libre, comme chacun de nos concitoyens, de pouvoir se présenter aux suffrages des électeurs\", répond le gouvernement",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-teddy-riner-candidat-a-la-presidentielle-il-est-libre-comme-chacun-de-nos-concitoyens-de-pouvoir-se-presenter-aux-suffrages-des-electeurs-repond-le-gouvernement_VN-202611100479.html",
+"summary": "Mathieu Lefèvre, le porte-parole par intérim du gouvernement, répond à une question sur la candidature de Teddy Riner à l'élection présidentielle de 2027 lors du compte-rendu du conseil des ministres, ce mardi 10 novembre, à Paris.",
+"source": "BFMTV",
+"date": "2026-11-10T11:08:18+00:00",
+"added": "2026-11-10T11:40:54+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement",
+"presidentielle"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": ""
+},
+{
+"id": "9d2353f49c671c52",
+"title": "Auto-déclaration des arrêts de travail : le gouvernement scandalisé par cette idée de Mélenchon à laquelle il était favorable il y a deux ans",
+"link": "https://www.liberation.fr/politique/auto-declaration-des-arrets-de-travail-le-gouvernement-scandalise-par-cette-idee-de-melenchon-a-laquelle-il-etait-favorable-il-y-a-deux-ans-20261110_RLL67M47OZDTXIMG7WU76LQ7H4/",
+"summary": "Dans son programme pour 2027, La France insoumise propose d’éviter de passer par la case médecin pour les arrêts de courte durée.",
+"source": "Libération",
+"date": "2026-11-10T11:07:41+00:00",
+"added": "2026-11-10T11:40:54+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "36675d83776c0589",
+"title": "Les époux Macron déposent une nouvelle plainte aux Etats-Unis contre l’influenceuse Candace Owens",
+"link": "https://www.liberation.fr/societe/police-justice/les-epoux-macron-deposent-une-nouvelle-plainte-aux-etats-unis-contre-linfluenceuse-candace-owens-20261110_7R46P6QXQBA45ETVQFMY72MT44/",
+"summary": "De nouvelles poursuites en diffamation ont été déposées le 4 novembre dans le Tennessee où réside la figure de l’extrême droite américaine pro-Trump, qui diffuse outre-Atlantique des théories transphobes au sujet de la première dame.",
+"source": "Libération",
+"date": "2026-11-10T11:06:32+00:00",
+"added": "2026-11-10T11:40:54+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "1569cde2eb55adcb",
+"title": "Près de 300 personnels de l’Éducation nationale blessés depuis le début du mouvement, selon le porte-parole du gouvernement par intérim",
+"link": "https://www.bfmtv.com/politique/gouvernement/video-pres-de-300-personnels-de-l-education-nationale-blesses-depuis-le-debut-du-mouvement-selon-le-porte-parole-du-gouvernement-par-interim_VN-202611100476.html",
+"summary": "Mathieu Lefèvre, ministre chargé de la Transition écologique et porte-parole par intérim du gouvernement, s'exprime sur des violences qui touchent les établissements scolaires,en marge de la mobilisation des lycéens, lors du compte rendu du conseil des ministres, mardi 10 novembre à l'Élysée.",
+"source": "BFMTV",
+"date": "2026-11-10T11:06:08+00:00",
+"added": "2026-11-10T11:40:54+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "ca88e07e8d1126d4",
+"title": "Présidentielle 2027 : CNews, à la fois incontournable et infréquentable pour les candidats",
+"link": "https://www.lemonde.fr/politique/article/2026/11/10/presidentielle-2027-cnews-a-la-fois-incontournable-et-infrequentable-pour-les-candidats_6808825_823448.html",
+"summary": "A gauche comme ailleurs, les prétendants à l’Elysée repensent leur stratégie vis-à-vis des médias du groupe Bolloré, alors que les appels au boycott de la chaîne CNews se multiplient.",
+"source": "Le Monde",
+"date": "2026-11-10T11:00:02+00:00",
+"added": "2026-11-10T11:40:54+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "7ff1a15a4da850f7",
+"title": "Présidentielle 2027 : Florian Philippot veut remplacer les parrainages des élus par un «parrainage citoyen»",
+"link": "https://www.europe1.fr/politique/presidentielle-2027-florian-philippot-veut-remplacer-les-parrainages-des-elus-par-un-parrainage-citoyen-1222157",
+"summary": "Alors que Teddy Riner a annoncé sa candidature à l’élection présidentielle de 2027, Florian Philippot, lui aussi candidat, était l’invité de «L’Heure des Pros».",
+"source": "Europe 1",
+"date": "2026-11-10T10:57:00+00:00",
+"added": "2026-11-10T11:40:54+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Florian Philippot"
+},
+{
+"id": "087d793332c6aa53",
+"title": "Israël en pleine crise morale, par Serge July",
+"link": "https://www.liberation.fr/idees-et-debats/opinions/israel-en-pleine-crise-morale-par-serge-july-20261110_PJNAB5KT3VGCLMQNRZNMGT7REE/",
+"summary": "Alors que le chef du parti Yashar, Gadi Eisenkot, doit former son gouvernement, l’Etat hébreu est à un carrefour : céder aux ultraorthodoxes ou intégrer les partis arabes à la vie démocratique du pays.",
+"source": "Libération",
+"date": "2026-11-10T10:52:57+00:00",
+"added": "2026-11-10T11:40:54+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "3b1fa14234017175",
+"title": "Judo : Teddy Riner change d’entraîneur avant la campagne présidentielle 2027",
+"link": "https://www.cnews.fr/sport/2026-11-10/judo-teddy-riner-change-dentraineur-avant-la-campagne-presidentielle-2027-1951291",
+"summary": "Dans la foulée de sa candidature à l’élection présidentielle de 2026, le quotidien L’Equipe a révélé que le judoka Teddy Riner avait récemment changé d’entraîneur.",
+"source": "CNews",
+"date": "2026-11-10T10:52:53+00:00",
+"added": "2026-11-10T11:40:54+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "59970c9ad91552fb",
+"title": "Présidentielle 2027 : Gabriel Attal prêt à voter pour Bruno Retailleau ou David Lisnard en cas de victoire à la primaire",
+"link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-gabriel-attal-pret-a-voter-pour-bruno-retailleau-ou-david-lisnard-en-cas-de-victoire-a-la-primaire-20261110",
+"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
+"source": "Le Figaro",
+"date": "2026-11-10T10:35:59+00:00",
+"added": "2026-11-10T11:40:54+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "605290b20abda279",
+"title": "Colère sociale: \"Il faut arrêter les sanctions disciplinaires contre les lycéens\", affirme Mathilde Panot",
+"link": "https://www.bfmtv.com/politique/la-france-insoumise/video-colere-sociale-il-faut-arreter-les-sanctions-disciplinaires-contre-les-lyceens-affirme-mathilde-panot_VN-202611100451.html",
+"summary": "La présidente du groupe LFI à l'Assemblée nationale, Mathilde Panot, s'exprime lors du point presse hebdomadaire du groupe, ce mardi 10 novembre.",
+"source": "BFMTV",
+"date": "2026-11-10T10:35:21+00:00",
+"added": "2026-11-10T11:40:54+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement",
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Mathilde Panot"
+},
+{
+"id": "751bc5cab434da63",
+"title": "Saluée dans le bloc central, scepticisme à gauche: l'échiquier politique réagit à la candidature de Teddy Riner à la présidentielle 2027",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/saluee-dans-le-bloc-central-scepticisme-a-gauche-l-echiquier-politique-reagit-a-la-candidature-de-teddy-riner-a-la-presidentielle-2027_AN-202611100447.html",
+"summary": "Teddy Riner s'est porté candidat à l'élection présidentielle ce lundi 9 novembre. Celui qui ne se déclare \"ni de droite ni de gauche\" a fait mouche auprès du blob central, tandis que l'extrême droite l'a mis en garde contre les \"vautours\" du monde politique.",
+"source": "BFMTV",
+"date": "2026-11-10T10:29:08+00:00",
+"added": "2026-11-10T11:40:54+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [
+"Réaction"
+],
+"speaker": ""
+},
+{
+"id": "400b94d865ec9ecc",
+"title": "« En jetant le discrédit sur la Cour et sur ses magistrats » : La Cour des comptes recadre le député UDR Charles Alloncle après la publication de son livre",
+"link": "https://www.nicematin.com/societe/polemique/en-jetant-le-discredit-sur-la-cour-et-sur-ses-magistrats-la-cour-des-comptes-recadre-le-depute-udr-charles-alloncle-apres-la-publication-de-son-livre-10757396",
+"summary": "L’allié d’Eric Ciotti pointé par la Cour des Comptes...",
+"source": "Nice-Matin",
+"date": "2026-11-10T10:24:43+00:00",
+"added": "2026-11-10T11:40:54+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"parlement",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "37b523aa2e77d869",
+"title": "Taxe sur les superprofits, chèque énergie… Que contient le plan de «révolution écologique» à 200 milliards d’euros de Raphaël Glucksmann ?",
+"link": "https://www.lefigaro.fr/conjoncture/taxe-sur-les-superprofits-cheque-energie-que-contient-le-plan-de-revolution-ecologique-a-200-milliards-d-euros-de-raphael-glucksmann-20261110",
+"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
+"source": "Le Figaro",
+"date": "2026-11-10T10:24:40+00:00",
+"added": "2026-11-10T11:40:54+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "7ba87a4d5957cc90",
+"title": "SONDAGE Présidentielle 2027 : forte progression pour Lisnard, Le Pen et Mélenchon bien placés… les candidats les plus appréciés selon cette étude",
+"link": "https://www.midilibre.fr/2026/11/10/sondage-presidentielle-2027-forte-progression-pour-david-lisnard-marine-le-pen-et-jean-luc-melenchon-bien-places-qui-sont-les-candidats-les-plus-13645392.php",
+"summary": "Marine Le Pen et Jean-Luc Mélenchon dominent le baromètre des personnalités politiques publié ce lundi par Cluster 17 pour Le Point, avec respectivement 35 % et 26 % d’opinions favorables.",
+"source": "Midi Libre",
+"date": "2026-11-10T10:19:00+00:00",
+"added": "2026-11-10T11:40:54+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": "David Lisnard"
+},
+{
+"id": "f2546d3f04b721e7",
+"title": "« Je ne disparaîtrai pas d’un coup » : Marine Tondelier indique qu’elle ne se désistera pas pour la présidentielle 2027",
+"link": "https://www.leparisien.fr/elections/presidentielle/je-ne-disparaitrai-pas-dun-coup-marine-tondelier-indique-quelle-ne-se-desistera-pas-pour-la-presidentielle-2027-10-11-2026-Y5PNASTQQBFL7KVRGB5EMRLF4Y.php",
+"summary": "",
+"source": "Le Parisien",
+"date": "2026-11-10T10:18:52+00:00",
+"added": "2026-11-10T11:40:54+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Marine Tondelier"
+},
+{
+"id": "9e3241f4a3ac9c70",
+"title": "Candidature de Teddy Riner: \"Nous ne la jugeons ni favorablement ni défavorablement\", réagit Mathilde Panot",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-candidature-de-teddy-riner-nous-ne-la-jugeons-ni-favorablement-ni-defavorablement-reagit-mathilde-panot_VN-202611100438.html",
+"summary": "La présidente du groupe LFI à l'Assemblée Mathilde Panot s'exprime lors du point presse hebdomadaire du groupe mardi 10 novembre et s'exprime sur la conférence sociale.",
+"source": "BFMTV",
+"date": "2026-11-10T10:18:16+00:00",
+"added": "2026-11-10T11:40:54+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "Candidature de Teddy Riner"
+},
+{
+"id": "56690df7123718c3",
+"title": "À l’Assemblée nationale, deux geeks macronistes ont développé un simulateur de majorité en temps réel",
+"link": "https://www.lefigaro.fr/politique/a-l-assemblee-nationale-deux-geeks-macronistes-ont-developpe-un-simulateur-de-majorite-en-temps-reel-20261110",
+"summary": "DÉCRYPTAGE - Depuis quelques semaines, le widget est utilisé par les cadres du camp présidentiel pour savoir quand mobiliser les députés en séance.",
+"source": "Le Figaro",
+"date": "2026-11-10T10:15:44+00:00",
+"added": "2026-11-10T11:40:54+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "2b8fde76b9a7037e",
+"title": "« A l’approche de l’élection présidentielle de 2027, la question de la légitimité de l’ensemble des acteurs politiques et sociaux se pose »",
+"link": "https://www.lemonde.fr/idees/article/2026/11/10/a-l-approche-de-l-election-presidentielle-de-2027-la-question-de-la-legitimite-de-l-ensemble-des-acteurs-politiques-et-sociaux-se-pose_6808812_3232.html",
+"summary": "La conférence sociale convoquée par Sébastien Lecornu apparaît autant comme la bouée de sauvetage d’un pouvoir dont la légitimité s’épuise qu’une revanche pour des partenaires sociaux tenus à l’écart au lendemain du mouvement des « gilets jaunes », analyse, dans sa chronique, Françoise Fressoz, éditorialiste au «…",
+"source": "Le Monde",
+"date": "2026-11-10T10:15:08+00:00",
+"added": "2026-11-10T11:40:54+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "82223b2f9f949882",
+"title": "Candidature de Teddy Riner à la présidentielle : «C’est du Macron pur jus», dénonce le journaliste Yoann Usaï",
+"link": "https://www.europe1.fr/politique/candidature-de-teddy-riner-a-la-presidentielle-cest-du-macron-pur-jus-denonce-le-journaliste-yoann-usai-1222064",
+"summary": "Après l’annonce surprise de sa candidature à la présidentielle de 2027, Teddy Riner s’attire déjà les critiques.",
+"source": "Europe 1",
+"date": "2026-11-10T10:15:00+00:00",
+"added": "2026-11-10T11:40:54+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"elysee",
+"presidentielle"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": ""
+},
+{
+"id": "5f72e0b4a5325395",
+"title": "Présidentielle 2027 : stockage, retenues, réparer les fuites... les propositions des candidats sur la gestion de l'eau",
+"link": "https://www.laprovence.com/article/elections/35124037346077/presidentielle-2027-stockage-retenues-reparer-les-fuites-les-propositions-des-candidats-sur-la-gestion-de-l-eau",
+"summary": "La gestion de l’eau fait partie des sujets phares pour l’élection présidentielle de 2027. Depuis 2022, Jean-Luc Mélenchon propose dans son programme présidentiel de réorganiser les régions autour des bassins versants.",
+"source": "La Provence",
+"date": "2026-11-10T10:00:02+00:00",
+"added": "2026-11-10T11:40:54+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "345082701a405f4d",
+"title": "Nomination d’Amélie de Montchalin à la tête de la Cour des comptes : le Conseil d’Etat rejette le recours des députés RN",
+"link": "https://www.lemonde.fr/politique/article/2026/11/10/nomination-d-amelie-de-montchalin-a-la-tete-de-la-cour-des-comptes-le-conseil-d-etat-rejette-le-recours-des-deputes-rn_6808808_823448.html",
+"summary": "La requête des parlementaires menés par le député de la Somme Jean-Philippe Tanguy a été déclarée « irrecevable ».",
+"source": "Le Monde",
+"date": "2026-11-10T09:52:27+00:00",
+"added": "2026-11-10T11:40:54+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement",
+"partis"
+],
+"natures": [],
+"speaker": "Conseil d’Etat"
+},
+{
+"id": "dd94cd7c03f0697f",
+"title": "\"Des mesures de rétorsion\" : sur LCI, le porte-parole du gouvernement met la pression sur les branches en dessous du Smic",
+"link": "https://www.tf1info.fr/politique/des-mesures-de-retorsion-sur-lci-le-porte-parole-du-gouvernement-mathieu-lefevre-met-la-pression-sur-les-branches-en-dessous-du-smic-2474953.html",
+"summary": "Taxes, carburants, inflation... Les Français face à la vie (très) chère\nC'est un texte attendu de longue date par les syndicats.",
+"source": "TF1 Info",
+"date": "2026-11-10T09:49:17+00:00",
+"added": "2026-11-10T11:40:54+00:00",
+"official": false,
+"also": [],
+"base": [
+"gouvernement"
+],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "8a9b3230082f615d",
+"title": "Le porte-parole du gouvernement Mathieu Lefèvre juge «scandaleux» de critiquer la commémoration du 11 Novembre à l’école",
+"link": "https://www.lefigaro.fr/politique/le-porte-parole-du-gouvernement-mathieu-lefevre-juge-scandaleux-de-critiquer-la-commemoration-du-11-novembre-a-l-ecole-20261110",
+"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
+"source": "Le Figaro",
+"date": "2026-11-10T09:48:53+00:00",
+"added": "2026-11-10T11:40:54+00:00",
+"official": false,
+"also": [],
+"base": [
+"gouvernement"
+],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Mathieu Lefèvre"
+},
+{
+"id": "64037dd2f635e6e9",
+"title": "Hausse du Smic: \"Une arnaque totale du gouvernement\", estime Mathilde Panot",
+"link": "https://www.bfmtv.com/politique/la-france-insoumise/video-hausse-du-smic-une-arnaque-totale-du-gouvernement-estime-mathilde-panot_VN-202611100400.html",
+"summary": "La présidente du groupe LFI à l'Assemblée Mathilde Panot s'exprime lors du point presse hebdomadaire du groupe mardi 10 novembre et s'exprime sur la conférence sociale.",
+"source": "BFMTV",
+"date": "2026-11-10T09:37:25+00:00",
+"added": "2026-11-10T11:40:54+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement",
+"parlement",
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Hausse du Smic"
+},
+{
+"id": "bb4e855fd7c4c16e",
+"title": "« Pas plus illégitime qu'un autre » : Marina Ferrari réagit à la candidature de Riner",
+"link": "https://www.ledauphine.com/sport/2026/11/10/pas-plus-illegitime-qu-un-autre-marina-ferrari-reagit-a-la-candidature-de-riner",
+"summary": "La ministre des Sports s'est exprimée ce mardi sur l'annonce de la candidature de Teddy Riner à l'élection présidentielle 2027.",
+"source": "Le Dauphiné Libéré",
+"date": "2026-11-10T09:32:13+00:00",
+"added": "2026-11-10T11:40:54+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"gouvernement",
+"presidentielle"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "Marina Ferrari"
+},
+{
 "id": "3cb69ec3bc8d9e4f",
 "title": "Laurent Panifous, ministre des Relations avec le Parlement : «Il faut remettre dans le débat la question de la probité publique»",
 "link": "https://www.liberation.fr/politique/laurent-panifous-ministre-des-relations-avec-le-parlement-il-faut-remettre-dans-le-debat-la-question-de-la-probite-publique-20261110_RLFMGRK2OZCKROEJBTWQJDFU6M/",
@@ -104,6 +717,28 @@
 "speaker": ""
 },
 {
+"id": "ff49b745a571ca25",
+"title": "Présidentielle 2027 : fin des cours à 15 h 30, aide au financement pour chaque Français… Ce que le monde sportif propose",
+"link": "https://www.ouest-france.fr/sport/presidentielle-2027-fin-des-cours-a-15-h-30-aide-au-financement-pour-chaque-francais-ce-que-le-monde-sportif-propose-bd0d9c5a-dc78-11f1-81f5-8e32b0872d76",
+"summary": "",
+"source": "Ouest-France",
+"date": "2026-11-10T09:03:17+00:00",
+"added": "2026-11-10T11:40:54+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [
+"Annonce"
+],
+"speaker": ""
+},
+{
 "id": "9c3245a2cdfcce6f",
 "title": "Teddy Riner, une candidature inattendue qui vient bousculer un peu plus la campagne présidentielle pour 2027",
 "link": "https://www.lemonde.fr/politique/article/2026/11/10/teddy-riner-une-candidature-inattendue-qui-vient-bousculer-un-peu-plus-la-campagne-presidentielle_6808802_823448.html",
@@ -112,7 +747,12 @@
 "date": "2026-11-10T08:59:19+00:00",
 "added": "2026-11-10T09:43:27+00:00",
 "official": false,
-"also": [],
+"also": [
+"La Croix",
+"20 Minutes",
+"franceinfo",
+"Europe 1"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -141,6 +781,26 @@
 ],
 "natures": [],
 "speaker": ""
+},
+{
+"id": "bc4875e46537861d",
+"title": "Face aux ingérences étrangères, \"il faut que chacun sache ce qu'il aura à faire\", martèle Dominique de Villepin",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-face-aux-ingerences-etrangeres-il-faut-que-chacun-sache-ce-qu-il-aura-a-faire-martele-dominique-de-villepin_VN-202611100362.html",
+"summary": "Dominique de Villepin était l'invité du Face-à-face de RMC-BFMTV ce mardi 10 novembre. Il a notamment abordé la question des ingérences étrangères.",
+"source": "BFMTV",
+"date": "2026-11-10T08:48:17+00:00",
+"added": "2026-11-10T11:40:54+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Dominique de Villepin"
 },
 {
 "id": "9fc7c81350e43a91",
@@ -205,6 +865,26 @@
 "speaker": "Sophie Binet"
 },
 {
+"id": "d56ba725d518d3ff",
+"title": "Revue de presse internationale - À la Une: pléthore de candidats à l’élection présidentielle en France…",
+"link": "https://www.rfi.fr/fr/podcasts/revue-de-presse-internationale/20261110-%C3%A0-la-une-pl%C3%A9thore-de-candidats-%C3%A9lection-pr%C3%A9sidentielle-france",
+"summary": "Dernière candidature en date, celle du judoka Teddy Riner… Ce qui inspire cette caricature au quotidien belge Le Soir : on y voit le quintuple champion olympique en kimono, avec sa ceinture noire et une écharpe présidentielle.",
+"source": "RFI",
+"date": "2026-11-10T08:31:03+00:00",
+"added": "2026-11-10T11:40:54+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "06d97164cd913acc",
 "title": "Présidentielle 2027 : Marine Le Pen atteint un niveau historique",
 "link": "https://www.valeursactuelles.com/politique/presidentielle-2027-marine-le-pen-atteint-un-niveau-historique-david-lisnard-et-bruno-retailleau-en-hausse-teddy-riner-seduit-les-electeurs-lfi",
@@ -226,6 +906,29 @@
 "speaker": ""
 },
 {
+"id": "f24c1ff49be5ab2d",
+"title": "\"Nous prendrons toutes les mesures pour dissuader toute nouvelle attaque et sanctionner les auteurs de cette agression inacceptable\", déclare Jean-Noël Barrot, ministre de l'Europe et des Affaires étrangères.",
+"link": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/nous-prendrons-toutes-les-mesures-pour-dissuader-toute-nouvelle-attaque-et-sanctionner-les-auteurs-de-cette-agression-inacceptable-declare-jean-noel-barrot-ministre-de-l-europe-et-des-affaires-etrangeres_8246569.html",
+"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
+"source": "franceinfo",
+"date": "2026-11-10T08:09:38+00:00",
+"added": "2026-11-10T11:40:54+00:00",
+"official": false,
+"also": [],
+"base": [
+"matinales"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"gouvernement"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Jean-Noël Barrot"
+},
+{
 "id": "e9366d2d9b9ffba3",
 "title": "Présidentielle 2027 : qui monte et qui baisse dans les sondages ? La courbe pour comprendre la dynamique des candidats",
 "link": "https://www.midilibre.fr/2026/11/10/sondage-presidentielle-2027-le-pen-melenchon-philippe-glucksmann-lisnard-qui-monte-et-qui-baisse-la-courbe-qui-resume-la-dynamique-des-candidats-13643708.php",
@@ -245,6 +948,26 @@
 ],
 "natures": [],
 "speaker": ""
+},
+{
+"id": "712e7a972bcca246",
+"title": "Cérémonie obligatoire à l'école autour du 11-Novembre: pour Dominique de Villepin, \"c'est quelque chose qui se prépare\"",
+"link": "https://www.bfmtv.com/politique/video-ceremonie-obligatoire-a-l-ecole-autour-du-11-novembre-pour-dominique-de-villepin-c-est-quelque-chose-qui-se-prepare_VN-202611100318.html",
+"summary": "Dominique de Villepin, fondateur du mouvement La France Humaniste, était l’invité du Face-à-Face sur BFMTV et RMC ce mardi 10 novembre 2026.",
+"source": "BFMTV",
+"date": "2026-11-10T08:00:40+00:00",
+"added": "2026-11-10T11:40:54+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Dominique de Villepin"
 },
 {
 "id": "5f2b462f52dcbc75",
@@ -490,6 +1213,27 @@
 "speaker": "Jean-Philippe Tanguy"
 },
 {
+"id": "43c7ba44cc569bec",
+"title": "Riner candidat à la présidentielle 2027 : « La politique, c’est un autre domaine », réagit Hollande",
+"link": "https://www.20minutes.fr/politique/4261823-20261110-riner-candidat-presidentielle-2027-politique-autre-domaine-reagit-hollande?at_medium=display&at_campaign=149",
+"summary": "La politique n’est pas une compétition comme les autres. François Hollande a réagi lundi sur RMC à la candidature de Teddy Riner à l’élection présidentielle de 2027.",
+"source": "20 Minutes",
+"date": "2026-11-10T07:30:31+00:00",
+"added": "2026-11-10T11:40:54+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "François Hollande"
+},
+{
 "id": "bf545a09da7c0071",
 "title": "« La présidentielle, ce n’est pas les JO »… Hollande met en garde Teddy Riner",
 "link": "https://www.20minutes.fr/politique/4261823-20261110-riner-candidat-presidentielle-2027-politique-autre-domaine-reagit-hollande",
@@ -657,6 +1401,28 @@
 ],
 "filtered": true,
 "topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "92fbbb33e55d0dc7",
+"title": "Alexandre Ouizille, le jeune loup de Glucksmann aux commandes de sa campagne présidentielle",
+"link": "https://www.nouvelobs.com/politique/20261110.OBS120002/alexandre-ouizille-le-jeune-loup-de-glucksmann-aux-commandes-de-sa-campagne-presidentielle.html",
+"summary": "Alexandre Ouizille, sénateur de l’Oise, au QG de campagne de Raphaël Glucksmann, à Paris, le 6 novembre 2026. AGNÈS DHERBEYS POUR « LE NOUVEL OBS »",
+"source": "Le Nouvel Obs",
+"date": "2026-11-10T06:30:16+00:00",
+"added": "2026-11-10T11:40:54+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"parlement",
+"partis",
 "presidentielle"
 ],
 "natures": [],
@@ -951,6 +1717,26 @@
 "official": false,
 "also": [],
 "base": [],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "1f0ddfc05dcecebd",
+"title": "Les députés décident ce mardi s'ils classent ou examinent la pétition appelant à \"supprimer Cnews\"",
+"link": "https://www.bfmtv.com/people/medias-tv/les-deputes-decident-ce-mardi-s-ils-classent-ou-examinent-la-petition-appelant-a-supprimer-cnews_AD-202611100147.html",
+"summary": "Une pétition visant à supprimer CNews de l'audiovisuel français a dépassé les 500.000 signatures.",
+"source": "BFMTV",
+"date": "2026-11-10T05:55:20+00:00",
+"added": "2026-11-10T11:40:54+00:00",
+"official": false,
+"also": [],
+"base": [
+"parlement"
+],
 "filtered": true,
 "topics": [
 "parlement"
@@ -2288,6 +3074,29 @@
 "speaker": "Marine Le Pen"
 },
 {
+"id": "c5c2513a1a0e475c",
+"title": "200 milliards investis : le candidat à la présidentielle, Glucksmann a dévoilé une partie de son plan en faveur d’une « révolution écologique",
+"link": "https://www.letelegramme.fr/politique/200-milliards-investis-le-candidat-a-la-presidentielle-glucksmann-a-devoile-une-partie-de-son-plan-en-faveur-dune-revolution-ecologique-7156320.php",
+"summary": "",
+"source": "Le Télégramme",
+"date": "2026-11-09T18:05:24+00:00",
+"added": "2026-11-10T11:40:54+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Annonce"
+],
+"speaker": ""
+},
+{
 "id": "413952f06422272c",
 "title": "Présidentielle 2027 : la candidature de Teddy Riner ajoute un peu plus de confusion au sein de la droite et du centre",
 "link": "https://www.lesechos.fr/elections/analyses/presidentielle-2027-la-candidature-de-teddy-riner-ajoute-un-peu-plus-de-confusion-au-sein-de-la-droite-et-du-centre-2261947",
@@ -3471,7 +4280,9 @@
 "date": "2026-11-09T14:52:00+00:00",
 "added": "2026-11-09T15:47:30+00:00",
 "official": false,
-"also": [],
+"also": [
+"CNews"
+],
 "base": [
 "presidentielle"
 ],
@@ -13145,6 +13956,26 @@
 "speaker": "Jean-Luc Mélenchon"
 },
 {
+"id": "94c2c6a1be942915",
+"title": "Présidentielle 2027 : Jean-Luc Mélenchon peut-il vraiment se qualifier pour le second tour ?",
+"link": "https://www.lefigaro.fr/politique/presidentielle-quelles-sont-les-chances-de-jean-luc-melenchon-de-se-qualifier-au-second-tour-20261107",
+"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
+"source": "Le Figaro",
+"date": "2026-11-07T16:01:00+00:00",
+"added": "2026-11-10T11:40:54+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "ac6ac71e15703abc",
 "title": "Présidentielle 2027. Édouard Philippe à Rillieux-la-Pape le 19 novembre : une étape de son « grand tour »",
 "link": "https://www.leprogres.fr/elections/2026/11/07/edouard-philippe-a-rillieux-la-pape-le-19-novembre-une-etape-de-son-grand-tour",
@@ -13894,399 +14725,6 @@
 "matinales",
 "parlement",
 "partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "b4c7dde8f6e0ab7c",
-"title": "Les messages subliminaux derrière l’affiche de Jean-Luc Mélenchon",
-"link": "https://www.huffingtonpost.fr/politique/article/les-messages-subliminaux-derriere-l-affiche-de-jean-luc-melenchon_353136.html",
-"summary": "Lors d’une campagne électorale, rien n’est laissé au hasard. Vraiment rien. L’affiche de campagne de Jean-Luc Mélenchon, opportunément dévoilée la veille de son grand meeting au Bourget prévu ce samedi 7 novembre, fait partie des éléments de communication savamment élaborés dans le but de marquer les esprits.",
-"source": "Le HuffPost",
-"date": "2026-11-07T11:14:29+00:00",
-"added": "2026-11-07T11:23:25+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "5f3e38675cdb9ec3",
-"title": "Présidentielle 2027 : laïcité stricte et nouveaux droits sociétaux au programme de Jean-Luc Mélenchon",
-"link": "https://www.la-croix.com/politique/presidentielle-2027-laicite-stricte-et-nouveaux-droits-societaux-au-programme-de-jean-luc-melenchon-20261107",
-"summary": "Le candidat de La France insoumise a publié vendredi 6 novembre 2026 son programme présidentiel pour 2027. Cette cinquième édition, depuis 2016, de « L’avenir en commun » confirme l’attachement de Jean-Luc Mélenchon à « une République laïque ».",
-"source": "La Croix",
-"date": "2026-11-07T11:09:18+00:00",
-"added": "2026-11-07T11:23:25+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "8e758ac9482a6dd2",
-"title": "Colère lycéenne: \"Ça fait plus d'un mois qu'on se mobilise, et on n'a eu aucune réponse concrète du gouvernement\", déplore l'Union syndicale lycéenne",
-"link": "https://www.bfmtv.com/politique/video-colere-lyceenne-ca-fait-plus-d-un-mois-qu-on-se-mobilise-et-on-n-a-eu-aucune-reponse-concrete-du-gouvernement-deplore-l-union-syndicale-lyceenne_VN-202611070219.html",
-"summary": "Pour ce quatrième samedi d'affilée de mobilisation nationale ce samedi 7 novembre à l'appel d'organisations syndicales et de jeunesse ainsi que de gilets jaunes, quelque 70.000 policiers et gendarmes sont mobilisés sur l'ensemble du territoire.",
-"source": "BFMTV",
-"date": "2026-11-07T11:06:24+00:00",
-"added": "2026-11-07T13:40:07+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [
-"Citation"
-],
-"speaker": ""
-},
-{
-"id": "a0c50e7db3b352da",
-"title": "Dans son programme pour 2027, Mélenchon mise sur la confrontation avec Bruxelles",
-"link": "https://www.courrierinternational.com/article/politique-dans-son-programme-pour-2027-jean-luc-melenchon-mise-sur-la-confrontation-avec-bruxelles_285585",
-"summary": "Confrontation avec l’Union européenne (UE) et sortie de l’Organisation du Traité de l’Atlantique nord (Otan). Le programme de La France insoumise (LFI) publié vendredi 6 novembre dévoile les grandes lignes de forces du parti de gauche pour l’élection présidentielle de 2027.",
-"source": "Courrier international",
-"date": "2026-11-07T11:06:14+00:00",
-"added": "2026-11-07T19:29:53+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "78597738de6c82bd",
-"title": "Présidentielle 2027 : Marine Le Pen critique fortement le programme de LFI, Jean-Luc Mélenchon lui répond",
-"link": "https://www.ouest-france.fr/politique/jean-luc-melenchon/presidentielle-2027-marine-le-pen-critique-fortement-le-programme-de-lfi-jean-luc-melenchon-lui-repond-74c5fdf0-da95-11f1-a45f-49114163a350",
-"summary": "",
-"source": "Ouest-France",
-"date": "2026-11-07T11:01:38+00:00",
-"added": "2026-11-07T11:23:25+00:00",
-"official": false,
-"also": [
-"La Nouvelle République",
-"LCP"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Réaction"
-],
-"speaker": "Marine Le Pen"
-},
-{
-"id": "739750071e8d3ad7",
-"title": "Marine Le Pen",
-"link": "https://www.bfmtv.com/politique/marine-le-pen_DN-201201010011.html",
-"summary": "Marine le Pen est la candidate du Rassemblement national pour l'élection présidentielle de 2027. Il s'agit de sa quatrième tentative depuis 2012, après avoir accédé par deux fois au second tour en 2017 et 2022.",
-"source": "BFMTV",
-"date": "2026-11-07T10:59:13+00:00",
-"added": "2026-11-07T13:40:07+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "e43209ca501094ba",
-"title": "Affaire Quentin Le Gaillard : l’opposition interpelle les sénateurs du Finistère au sujet du maire de Concarneau",
-"link": "https://www.ouest-france.fr/bretagne/concarneau-29900/affaire-quentin-le-gaillard-lopposition-interpelle-les-senateurs-du-finistere-au-sujet-du-maire-de-concarneau-4642cb58-da94-11f1-81f5-8e32b0872d76",
-"summary": "",
-"source": "Ouest-France",
-"date": "2026-11-07T10:55:32+00:00",
-"added": "2026-11-08T06:29:20+00:00",
-"official": false,
-"also": [],
-"base": [
-"parlement"
-],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "e58d8bd93ee10a1f",
-"title": "\"La primaire est un instrument de division\", affirme Jérémie Patrier-Leitus, porte-parole d'Edouard Philippe pour 2027",
-"link": "https://www.franceinfo.fr/elections/presidentielle/la-primaire-est-un-instrument-de-division-affirme-jeremie-patrier-leitus-porte-parole-d-edouard-philippe-pour-2027_8272208.html",
-"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
-"source": "franceinfo",
-"date": "2026-11-07T10:53:44+00:00",
-"added": "2026-11-08T13:39:09+00:00",
-"official": false,
-"also": [
-"BFMTV"
-],
-"base": [
-"matinales"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jérémie Patrier-Leitus"
-},
-{
-"id": "96880d88750b2681",
-"title": "Présidentielle 2027 : Le Pen pense que le programme de LFI est un « projet de démantèlement de la France »",
-"link": "https://www.20minutes.fr/politique/4261144-20261107-presidentielle-2027-pen-pense-programme-lfi-projet-demantelement-france?at_medium=display&at_campaign=149",
-"summary": "C’est un corpus riche de plus de mille propositions, une mise à jour de « L’Avenir en commun ». LFI a publié vendredi en librairie son programme présidentiel pour 2027, avant que son candidat Jean-Luc Mélenchon ne le présente en détail ce samedi lors d’un grand meeting au Bourget (Seine-Saint-Denis).",
-"source": "20 Minutes",
-"date": "2026-11-07T10:53:29+00:00",
-"added": "2026-11-07T11:23:25+00:00",
-"official": false,
-"also": [
-"Sud Ouest",
-"France 24",
-"Europe 1"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "28e53b132f022767",
-"title": "Faut-il supprimer CNews de la télé, comme le réclame une pétition ? Les Français sont partagés",
-"link": "https://www.20minutes.fr/politique/assemblee_nationale/4261141-20261107-faut-supprimer-cnews-tele-comme-reclame-petition-francais-partages?at_medium=display&at_campaign=149",
-"summary": "Au dernier pointage ce samedi matin, elle en était à 963.000 signataires. La pétition « Supprimer CNews de l’audiovisuel français » continue sa percée, au point que les députés devront décider dans les prochains jours d’organiser ou non un débat sur le sujet devant l’Assemblée nationale.",
-"source": "20 Minutes",
-"date": "2026-11-07T10:33:16+00:00",
-"added": "2026-11-07T11:23:25+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "0b5f08e0f3fe4dd8",
-"title": "Édouard Philippe, candidat Horizons, s'exprime avant une réunion publique à La Ciotat",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-edouard-philippe-candidat-horizons-s-exprime-avant-une-reunion-publique-a-la-ciotat_VN-202611070201.html",
-"summary": "Avant sa réunion publique de La Ciotat, le candidat Horizons Édouard Philippe évoque les manifestations de jeudi.",
-"source": "BFMTV",
-"date": "2026-11-07T10:30:57+00:00",
-"added": "2026-11-07T13:40:07+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "8c8709364959f33f",
-"title": "En Guadeloupe, la ministre Naïma Moutchou ne promet rien lors de son déplacement",
-"link": "https://www.lemonde.fr/politique/article/2026/11/07/en-guadeloupe-la-ministre-naima-moutchou-ne-promet-rien-lors-de-son-deplacement_6808267_823448.html",
-"summary": "Pour la première fois depuis sa nomination en octobre 2025, la ministre des outre-mer est venue dans l’archipel pour un passage en revue de tous les sujets, mais sans décision majeure à proposer.",
-"source": "Le Monde",
-"date": "2026-11-07T10:30:16+00:00",
-"added": "2026-11-07T11:23:25+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [
-"Annonce"
-],
-"speaker": "Naïma Moutchou"
-},
-{
-"id": "9ce8806cd523381a",
-"title": "Mélenchon et l’Otan, une longue histoire de désamour",
-"link": "https://www.nouvelobs.com/politique/20261107.OBS119921/melenchon-et-l-otan-une-longue-histoire-de-desamour.html",
-"summary": "Jean-Luc Mélenchon, candidat des insoumis à la présidentielle, lors d’une conférence de presse, à Paris, le 28 octobre 2026.",
-"source": "Le Nouvel Obs",
-"date": "2026-11-07T10:30:12+00:00",
-"added": "2026-11-07T11:23:25+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "b8c4eda832c35e1c",
-"title": "« Nous voulons les confronter aux réalités du terrain azuréen » : les chefs d’entreprise de l’UPE 06 lancent « Le face-à-face » avec les candidats à la présidentielle 2027",
-"link": "https://www.nicematin.com/societe/politique/nous-voulons-les-confronter-aux-realites-du-terrain-azureen-les-chefs-d-entreprise-de-l-upe-06-lancent-le-face-a-face-avec-les-candidats-a-la-presidentielle-2027-10755080",
-"summary": "Objectif : élection présidentielle 2027. L’Union patronale des Alpes-Maritimes (UPE 06) inaugure un cycle de rencontres économiques.",
-"source": "Nice-Matin",
-"date": "2026-11-07T10:30:08+00:00",
-"added": "2026-11-07T11:23:25+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "d66158a691857b3a",
-"title": "Conférence sociale: \"Je crains qu'on ne soit pas en mesure de régler durablement les problèmes avant l'élection présidentielle\", déplore Édouard Philippe, candidat \"Horizons à la présidentielle",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-conference-sociale-je-crains-qu-on-ne-soit-pas-en-mesure-de-regler-durablement-les-problemes-avant-l-election-presidentielle-deplore-edouard-philippe-candidat-horizons-a-la-presidentielle_VN-202611070199.html",
-"summary": "À six mois de l'élection présidentielle, Édouard Philippe (Horizons) doit donner une réunion publique à La Ciotat et participera à un débat aux Rencontres de l'Avenir dans le Var.",
-"source": "BFMTV",
-"date": "2026-11-07T10:26:35+00:00",
-"added": "2026-11-07T13:40:07+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Édouard Philippe"
-},
-{
-"id": "c10146b1c1bca5c3",
-"title": "Écologie, international, Smic, retraites... les 1.000 mesures de Jean-Luc Mélenchon",
-"link": "https://www.tf1info.fr/politique/elections/presidentielle/video-ecologie-international-smic-retraites-les-1-000-mesures-de-jean-luc-melenchon-analysees-par-david-revault-d-allonnes-2474436.html",
-"summary": "La campagne est bel et bien lancée du côté de La France insoumise. La publication vendredi 6 novembre du programme de Jean-Luc Mélenchon L'avenir en commun, sous la forme d'un livre, est suivie samedi après-midi d'un nouveau meeting au Bourget (Seine-Saint-Denis).",
-"source": "TF1 Info",
-"date": "2026-11-07T10:20:39+00:00",
-"added": "2026-11-07T11:23:25+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "d1780ed6f7cda83b",
-"title": "Édouard Philippe, candidat \"Horizons\" à la présidentielle, veut \"faire en sorte que la France soit un peu plus forte plutôt qu'un peu trop faible\" pour répondre à la colère",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-edouard-philippe-candidat-horizons-a-la-presidentielle-veut-faire-en-sorte-que-la-france-soit-un-peu-plus-forte-plutot-qu-un-peu-trop-faible-pour-repondre-a-la-colere_VN-202611070192.html",
-"summary": "À six mois de l'élection présidentielle, le candidat insoumis Jean-Luc Mélenchon doit donner un meeting au Bourget pour présenter son programme ce samedi 7 novembre.",
-"source": "BFMTV",
-"date": "2026-11-07T10:04:18+00:00",
-"added": "2026-11-07T13:40:07+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Édouard Philippe"
-},
-{
-"id": "5e49d032e850f6c6",
-"title": "Présidentielle 2027 : David Lisnard peut-il gagner la bataille à droite ?",
-"link": "https://rmc.bfmtv.com/actualites/politique/video-presidentielle-2027-david-lisnard-peut-il-gagner-la-bataille-a-droite_VN-202611070188.html",
-"summary": "VIDÉO - 📈 Il est un des candidats qui monte dans les sondages : le libéral David Lisnard, maire de Cannes, joue sur les réseaux sociaux pour se faire connaître.",
-"source": "RMC",
-"date": "2026-11-07T10:00:05+00:00",
-"added": "2026-11-08T15:23:25+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "7b78a980183bb8e7",
-"title": "Edito. La primaire sous perfusion",
-"link": "https://www.nicematin.com/societe/debat/edito/edito-la-primaire-sous-perfusion-10754701",
-"summary": "Édouard Philippe, Bruno Retailleau, David Lisnard, Gabriel Attal : le casting proposé ce week-end par les Rencontres de l’Avenir à Saint-Raphaël a des airs de tour de chauffe avant une primaire de la droite et du centre.",
-"source": "Nice-Matin",
-"date": "2026-11-07T09:45:06+00:00",
-"added": "2026-11-07T11:23:25+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
 ],
 "natures": [],
 "speaker": ""
