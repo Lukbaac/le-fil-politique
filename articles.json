@@ -1,5 +1,450 @@
 [
 {
+"id": "4a7c0fc8aa9556aa",
+"title": "Weah, Chilavert, Kasparov… Avant Teddy Riner, ces sportifs qui ont brigué la tête de leur pays",
+"link": "https://www.la-croix.com/sport/weah-chilavert-kasparov-avant-teddy-riner-ces-sportifs-qui-ont-brigue-la-tete-de-leur-pays-20261110",
+"summary": "Surprise dans la course à l’Élysée. Teddy Riner, judoka multimédaillé, a annoncé sa candidature à l’élection présidentielle, lundi 9 novembre 2026.",
+"source": "La Croix",
+"date": "2026-11-10T17:28:50+00:00",
+"added": "2026-11-10T17:37:21+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "b4da45389dbb810b",
+"title": "Guerre en Ukraine : les positions alambiquées de LFI et Jean-Luc Mélenchon sur les « concessions territoriales »",
+"link": "https://www.lopinion.fr/politique/guerre-en-ukraine-les-positions-alambiquees-de-lfi-et-jean-luc-melenchon-sur-les-concessions-territoriales",
+"summary": "La France insoumise s’estime incomprise. Après avoir dénoncé des « accusations grotesques » et les « attaques coordonnées » (sic) de la presse française, le mouvement de Jean-Luc Mélenchon tente de clarifier les propos tenus samedi par son candidat sur la question ukrainienne.",
+"source": "L'Opinion",
+"date": "2026-11-10T17:28:36+00:00",
+"added": "2026-11-10T17:37:21+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "96ee1be46543c9f2",
+"title": "\"Le drapeau palestinien est associé à LFI\" : comment Jean-Luc Mélenchon utilise Gaza dans la présidentielle",
+"link": "https://www.lexpress.fr/politique/le-drapeau-palestinien-est-associe-a-lfi-comment-jean-luc-melenchon-utilise-gaza-dans-la-HD6ZAXN56JEM5H3WN5R6Q3R7WI/",
+"summary": "Jean-Luc Mélenchon n’oublie jamais Gaza. Il ne faut pas attendre longtemps : de Saint-Denis au Bourget , en passant par Clermont-Ferrand, le candidat insoumis ouvre chacun de ses meetings par une pensée pour le peuple martyr, la condamnation du \"génocide\", de la complicité de l’Europe et \"des puissants\".",
+"source": "L'Express",
+"date": "2026-11-10T17:22:04+00:00",
+"added": "2026-11-10T17:37:21+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "2cd8ffa86fff359c",
+"title": "« On est sur un phénomène qui s’aggrave » : vingt organisations interpellent les candidats à la présidentielle 2027 sur la précarité énergétique",
+"link": "https://www.leparisien.fr/elections/presidentielle/on-est-sur-un-phenomene-qui-saggrave-vingt-organisations-interpellent-les-candidats-a-la-presidentielle-sur-la-precarite-energetique-10-11-2026-NDHIOSR3MJCLBJ7WPQGXI2J25U.php",
+"summary": "",
+"source": "Le Parisien",
+"date": "2026-11-10T17:20:39+00:00",
+"added": "2026-11-10T17:37:21+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "5fd1564a9105c42e",
+"title": "Loi sur la cybersécurité: la mesure décriée sur les messageries chiffrées supprimée par les députés",
+"link": "https://lcp.fr/actualites/loi-sur-la-cybersecurite-la-mesure-decriee-sur-les-messageries-chiffrees-supprimee-par",
+"summary": "Les députés ont écarté du projet de loi visant à renforcer la cybersécurité l'article qui garantissait l'inviolabilité des messageries chiffrées.",
+"source": "LCP",
+"date": "2026-11-10T17:13:34+00:00",
+"added": "2026-11-10T17:37:21+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "79b54a0556103347",
+"title": "Vote dans le Donbass : la fausse bonne idée de Mélenchon",
+"link": "https://www.mediapart.fr/journal/international/101126/vote-dans-le-donbass-la-fausse-bonne-idee-de-melenchon",
+"summary": "En promouvant l’idée d’une autodétermination des populations du Donbass, le dirigeant insoumis ne redonne pas le pouvoir aux peuples, comme il l’assure : il avalise une politique d’annexion, d’occupation et de russification forcée.",
+"source": "Mediapart",
+"date": "2026-11-10T17:12:40+00:00",
+"added": "2026-11-10T17:37:21+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "9a42f14aacace34e",
+"title": "Présidentielle 2027 : LFI annonce la réimpression de 300 000 exemplaires du livre-programme de Jean-Luc Mélenchon",
+"link": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-lfi-annonce-la-reimpression-de-300-000-exemplaires-du-livre-programme-de-jean-luc-melenchon-10-11-2026-Q2S5JUJG6NHGPFJRP3WRUCHWQE.php",
+"summary": "",
+"source": "Le Parisien",
+"date": "2026-11-10T17:06:15+00:00",
+"added": "2026-11-10T17:37:21+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Annonce"
+],
+"speaker": ""
+},
+{
+"id": "fafb4cdba4d7b59f",
+"title": "Le gouvernement veut renforcer la Haute Autorité pour la transparence de la vie publique avant l’élection présidentielle",
+"link": "https://www.lemonde.fr/politique/article/2026/11/10/le-gouvernement-veut-renforcer-la-haute-autorite-pour-la-transparence-de-la-vie-publique-avant-l-election-presidentielle_6808882_823448.html",
+"summary": "Deux projets de loi présentés en conseil des ministres, mardi 10 novembre, prévoient d’étendre le pouvoir de sanction de la HATVP.",
+"source": "Le Monde",
+"date": "2026-11-10T17:00:25+00:00",
+"added": "2026-11-10T17:37:21+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "08b350058f552ce0",
+"title": "Lisnard s'invite parmi les personnalités politiques les plus populaires",
+"link": "https://www.valeursactuelles.com/politique/presidentielle-2027-david-lisnard-sinvite-parmi-les-personnalites-politiques-les-plus-populaires-marine-le-pen-toujours-premiere-selon-un-sondage",
+"summary": "Encore six points de plus en un mois. David Lisnard est passé de 19 % d’opinions favorables chez les Français en octobre à 25 % en novembre.",
+"source": "Valeurs actuelles",
+"date": "2026-11-10T16:50:43+00:00",
+"added": "2026-11-10T17:37:21+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Interview"
+],
+"speaker": ""
+},
+{
+"id": "d3ca47dadbe29127",
+"title": "Manifestant renversé à Morlaix : La France insoumise condamne « une agression d’une extrême gravité",
+"link": "https://www.letelegramme.fr/finistere/morlaix-29600/manifestant-renverse-a-morlaix-la-france-insoumise-condamne-une-agression-dune-extreme-gravite-7156947.php",
+"summary": "",
+"source": "Le Télégramme",
+"date": "2026-11-10T16:43:51+00:00",
+"added": "2026-11-10T17:37:21+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Réaction"
+],
+"speaker": ""
+},
+{
+"id": "a1b0e952786f26f4",
+"title": "Présidentielle 2027 : Teddy Riner au défi de transformer « son capital sympathie en capital électoral »",
+"link": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-teddy-riner-au-defi-de-transformer-son-capital-sympathie-en-capital-electoral",
+"summary": "Lundi, le quintuple champion olympique Teddy Riner a décidé de franchir le pas et de concrétiser une ambition qu’il avait déjà exprimée sur les plateaux de télévision il y a plus de dix ans : se présenter à l’élection présidentielle.",
+"source": "Public Sénat",
+"date": "2026-11-10T16:41:43+00:00",
+"added": "2026-11-10T17:37:21+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "2c26269a122a0d96",
+"title": "INFO RTL - Présidentielle 2027 : le programme de Mélenchon cartonne en librairie, loin devant le nouveau livre de Bardella",
+"link": "https://www.rtl.fr/actu/politique/info-rtl-presidentielle-2027-le-programme-de-melenchon-cartonne-en-librairie-loin-devant-le-nouveau-livre-de-bardella-7900694934",
+"summary": "Le livre à 4,90 euros de Jean-Luc Mélenchon connaît un succès fulgurant en librairie. L'Avenir en commun, le programme de la Nouvelle France du candidat insoumis sorti vendredi 6 novembre, cartonne : il a déjà été vendu à plus de 45.000 exemplaires, d'après les chiffres de NielsenIQ Book Data consulté par RTL.",
+"source": "RTL",
+"date": "2026-11-10T16:32:20+00:00",
+"added": "2026-11-10T17:37:21+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "6f00ace0748c8f43",
+"title": "Présidentielle 2027: divisés entre Mélenchon et Roussel, les députés communistes s'imposent le silence sur le sujet dans l'hémicycle",
+"link": "https://lcp.fr/actualites/presidentielle-2027-divises-entre-melenchon-et-roussel-les-deputes-communistes-s",
+"summary": "Le groupe Gauche démocrate et républicaine, au sein duquel siègent les députés communistes et des députés ultramarins, est divisé entre \"au moins quatre positions différentes\" sur la question de la course à l'Elysée, selon son président Stéphane Peu.",
+"source": "LCP",
+"date": "2026-11-10T16:32:19+00:00",
+"added": "2026-11-10T17:37:21+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"parlement",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "8083af0a9e102063",
+"title": "Devant le tribunal, la municipalité RN de La Flèche a fait appel à un avocat qui a déjà représenté Marine Le Pen",
+"link": "https://www.ouest-france.fr/politique/rassemblement-national/devant-le-tribunal-la-municipalite-rn-de-la-fleche-a-fait-appel-a-un-avocat-qui-a-deja-represente-marine-le-pen-c5a76c1c-dc2b-11f1-a45f-49114163a350",
+"summary": "",
+"source": "Ouest-France",
+"date": "2026-11-10T16:29:03+00:00",
+"added": "2026-11-10T17:37:21+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "4124b13e53a37045",
+"title": "Présidentielle 2027 : Teddy Riner, le champion-candidat qui voit toujours plus grand",
+"link": "https://www.la-croix.com/politique/presidentielle-2027-teddy-riner-le-champion-candidat-qui-voit-toujours-plus-grand-20261110",
+"summary": "Teddy Riner a créé la surprise en annonçant, lundi 9 novembre, sa candidature à l’élection présidentielle de 2027.",
+"source": "La Croix",
+"date": "2026-11-10T16:26:08+00:00",
+"added": "2026-11-10T17:37:21+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "93562dd063441108",
+"title": "\"Je suis le plan B\" : Thierry Breton et ses arrière-pensées présidentielles",
+"link": "https://www.lexpress.fr/politique/je-suis-le-plan-b-thierry-breton-et-ses-arriere-pensees-presidentielles-OH563PPXQVGJZDEEDDPYHUYQPI/",
+"summary": "L'ancien commissaire européen a fait la tournée des candidats pour leur soumettre sa règle d'or. Il rêve que Macron convoque les deux assemblées.",
+"source": "L'Express",
+"date": "2026-11-10T16:00:00+00:00",
+"added": "2026-11-10T17:37:21+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "5ec1bb33892a6e3f",
+"title": "Référendum et \"cadre diplomatique\": ce que Jean-Luc Mélenchon dit vraiment sur la guerre en Ukraine",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/referendum-et-cadre-diplomatique-ce-que-jean-luc-melenchon-dit-vraiment-sur-la-guerre-en-ukraine_AN-202611100671.html",
+"summary": "Jean-Luc Mélenchon en meeting au Bourget, le 7 novembre 2027. - BFMTV\nPresque cinq ans après le début du conflit entre l'Ukraine et Moscou, des négociations directes ont commencé ce mardi 10 novembre et se poursuivent ce mercredi, sous médiation américaine.",
+"source": "BFMTV",
+"date": "2026-11-10T15:56:45+00:00",
+"added": "2026-11-10T17:37:21+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Jean-Luc Mélenchon"
+},
+{
+"id": "f5c3796d383ae691",
+"title": "\"Nous avons le choix entre le mauvais et le pire\" : les députés arabes israéliens soutiennent Gadi Eizenkot du bout des lèvres",
+"link": "https://www.franceinfo.fr/politique/nous-avons-le-choix-entre-le-mauvais-et-le-pire-les-deputes-arabes-israeliens-soutiennent-gadi-eizenkot-du-bout-des-levres_8276405.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "Les 120 parlementaires israéliens élus lors des élections législatives du 27 octobre font leur rentrée à la Knesset ce mardi.",
+"source": "franceinfo",
+"date": "2026-11-10T15:55:47+00:00",
+"added": "2026-11-10T17:37:21+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "db1f96a0630f1388",
+"title": "Présidentielle 2027 : et vous, de quelle France rêvez-vous ? Professeur, patron de bar, agricultrice… Ils se confient",
+"link": "https://www.ouest-france.fr/elections/presidentielle/presidentielle-2027-et-vous-de-quelle-france-revez-vous-professeur-patron-de-bar-agricultrice-ils-se-confient-739067b4-dd14-11f1-86b6-0a2fbb1d8ed9",
+"summary": "",
+"source": "Ouest-France",
+"date": "2026-11-10T15:50:27+00:00",
+"added": "2026-11-10T17:37:21+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "54caf9d172b5afec",
+"title": "Le gouvernement étrille cette proposition phare de Mélenchon… qu’il envisageait pourtant",
+"link": "https://www.huffingtonpost.fr/politique/article/le-gouvernement-etrille-cette-proposition-phare-de-melenchon-qu-il-envisageait-pourtant_355151.html",
+"summary": "La mémoire qui flanche. Depuis que La France insoumise a publié son programme, l’Avenir en commun, pour l’élection présidentielle, les adversaires de Jean-Luc Mélenchon n’en finissent plus de disséquer les mesures qu’il contient.",
+"source": "Le HuffPost",
+"date": "2026-11-10T15:50:14+00:00",
+"added": "2026-11-10T17:37:21+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"gouvernement",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Réaction"
+],
+"speaker": ""
+},
+{
+"id": "4fd05124d1365773",
+"title": "Présidentielle : le RN tient enfin une piste à l'étranger pour financer sa campagne",
+"link": "https://fr.euronews.com/2026/11/10/presidentielle-le-rn-tient-enfin-une-piste-a-letranger-pour-financer-sa-campagne",
+"summary": "Le Rassemblement national a peut-être trouvé une solution à ses difficultés de financement.",
+"source": "Euronews",
+"date": "2026-11-10T15:43:45+00:00",
+"added": "2026-11-10T17:37:21+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "e036bfea37d36a66",
+"title": "« Un robinet à saloperies racistes » : la pétition contre CNews classée après un débat houleux à l’Assemblée",
+"link": "https://www.lepoint.fr/politique/petition-contre-cnews-les-deputes-votent-son-classement-a-trois-voix-pres-H3WXITGSXZHUBNVXFPMUUJSMPU/",
+"summary": "",
+"source": "Le Point",
+"date": "2026-11-10T15:33:11+00:00",
+"added": "2026-11-10T17:37:21+00:00",
+"official": false,
+"also": [],
+"base": [
+"parlement"
+],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "d44a586329932a25",
 "title": "Taxer les grandes entreprises et les plus fortunés, le pari risqué de Jean-Luc Mélenchon pour financer de nouvelles dépenses",
 "link": "https://www.letelegramme.fr/france/taxer-les-grandes-entreprises-et-les-plus-fortunes-le-pari-risque-de-jean-luc-melenchon-pour-financer-de-nouvelles-depenses-7156877.php",
@@ -41,6 +486,26 @@
 "speaker": ""
 },
 {
+"id": "71d42c01a0eedbfc",
+"title": "Teddy Riner candidat à la présidentielle : les précédents ratés et réussis des sportifs de haut niveau en Europe",
+"link": "https://www.lexpress.fr/monde/europe/teddy-riner-candidat-a-la-presidentielle-les-precedents-rates-et-reussis-des-sportifs-de-haut-niveau-TTERVAK33JB5FCCAASW2BJ63LM/",
+"summary": "\"Le combat a toujours fait partie de moi.\" Le 9 novembre, Teddy Riner a troqué son kimono pour un costume et une chemise blanche, mais il n'a pas oublié comment lancer un défi.",
+"source": "L'Express",
+"date": "2026-11-10T15:30:00+00:00",
+"added": "2026-11-10T17:37:21+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "9e81c76c370ed5c6",
 "title": "\"1502€. M.le Ministre, c'est une provocation !\": le ministre du Travail interpellé à l'Assemblée par une députée LFI",
 "link": "https://www.bfmtv.com/politique/gouvernement/video-1502-m-le-ministre-c-est-une-provocation-le-ministre-du-travail-interpelle-a-l-assemblee-par-une-deputee-lfi_VN-202611100643.html",
@@ -59,6 +524,50 @@
 ],
 "natures": [],
 "speaker": ""
+},
+{
+"id": "2c4f3676dad15abb",
+"title": "Présidentielle 2027 : François Braun s'engage aux côtés de Teddy Riner",
+"link": "https://www.estrepublicain.fr/videos/presidentielle-2027-francois-braun-s-engage-aux-cotes-de-teddy-riner-3z8vklf",
+"summary": "Ancien ministre de la Santé et aujourd’hui conseiller auprès de la direction générale du CHR Metz-Thionville, l’urgentiste François Braun a confirmé, lundi 9 novembre, faire partie de l’équipe de campagne de Teddy Riner, champion olympique et candidat à l’élection présidentielle.",
+"source": "L'Est Républicain",
+"date": "2026-11-10T15:12:01+00:00",
+"added": "2026-11-10T17:37:21+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"gouvernement",
+"presidentielle"
+],
+"natures": [],
+"speaker": "François Braun"
+},
+{
+"id": "dc66bb62cf53dc33",
+"title": "\"L'idée, c'était de jauger sa volonté\" : dans les coulisses de l'annonce de Teddy Riner, candidat à la présidentielle",
+"link": "https://www.tf1info.fr/politique/elections/presidentielle/video-l-idee-c-etait-de-jauger-sa-volonte-dans-les-coulisses-de-l-annonce-de-teddy-riner-candidat-a-la-presidentielle-2475065.html",
+"summary": "Il souhaite devenir un président qui \"fédère\". Dans un entretien exclusif au Parisien, Teddy Riner a annoncé sa candidature à l'élection présidentielle de 2027.",
+"source": "TF1 Info",
+"date": "2026-11-10T15:11:39+00:00",
+"added": "2026-11-10T17:37:21+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [
+"Citation",
+"Annonce"
+],
+"speaker": "Teddy Riner"
 },
 {
 "id": "0d1b06f2967c798e",
@@ -110,7 +619,9 @@
 "date": "2026-11-10T15:03:08+00:00",
 "added": "2026-11-10T15:33:48+00:00",
 "official": false,
-"also": [],
+"also": [
+"France 24"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -450,7 +961,8 @@
 "added": "2026-11-10T13:58:25+00:00",
 "official": false,
 "also": [
-"RTL"
+"RTL",
+"Le Parisien"
 ],
 "base": [],
 "filtered": true,
@@ -553,6 +1065,26 @@
 "filtered": true,
 "topics": [
 "presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "0894621044ac2a45",
+"title": "La pétition contre CNews est enterrée par l'Assemblée nationale",
+"link": "https://www.france24.com/fr/info-en-continu/20261110-p%C3%A9tition-contre-cnews-les-d%C3%A9put%C3%A9s-d%C3%A9cident-des-suites-%C3%A0-donner",
+"summary": "",
+"source": "France 24",
+"date": "2026-11-10T13:16:02+00:00",
+"added": "2026-11-10T17:37:21+00:00",
+"official": false,
+"also": [],
+"base": [
+"parlement"
+],
+"filtered": true,
+"topics": [
+"parlement"
 ],
 "natures": [],
 "speaker": ""
@@ -1496,7 +2028,9 @@
 "date": "2026-11-10T09:48:53+00:00",
 "added": "2026-11-10T11:40:54+00:00",
 "official": false,
-"also": [],
+"also": [
+"TF1 Info"
+],
 "base": [
 "gouvernement"
 ],
@@ -1540,7 +2074,9 @@
 "date": "2026-11-10T09:32:13+00:00",
 "added": "2026-11-10T11:40:54+00:00",
 "official": false,
-"also": [],
+"also": [
+"L'Est Républicain"
+],
 "base": [
 "presidentielle"
 ],
@@ -2660,7 +3196,8 @@
 "official": false,
 "also": [
 "franceinfo",
-"RTL"
+"RTL",
+"France 24"
 ],
 "base": [],
 "filtered": true,
@@ -2999,7 +3536,9 @@
 "date": "2026-11-10T04:44:00+00:00",
 "added": "2026-11-10T06:36:27+00:00",
 "official": false,
-"also": [],
+"also": [
+"RTL"
+],
 "base": [
 "presidentielle"
 ],
@@ -3051,6 +3590,27 @@
 "natures": [
 "Discours"
 ],
+"speaker": ""
+},
+{
+"id": "d59f5ee5f8ebfc4d",
+"title": "\"Immense joie\", \"grosses craintes\" : Place publique et Parti socialiste de la Vienne réagissent à la victoire de Glucksmann à la primaire",
+"link": "https://www.lanouvellerepublique.fr/vienne/immense-joie-grosses-craintes-place-publique-et-parti-socialiste-de-la-vienne-reagissent-a-la-victoire-de-glucksmann-a-la-primaire-1791738612",
+"summary": "Le coréférent du parti Place publique Christophe Rabussier et le premier fédéral du Parti socialiste Nathan Bernard ont réagi à l’élection de Raphaël Glucksmann au premier tour de la primaire. © (Photo NR, Boris Granger)\n« On sentait que quelque chose était en train de se passer. »",
+"source": "La Nouvelle République",
+"date": "2026-11-10T01:57:43+00:00",
+"added": "2026-11-10T17:37:21+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
 "speaker": ""
 },
 {
@@ -4659,7 +5219,8 @@
 "added": "2026-11-09T17:46:29+00:00",
 "official": false,
 "also": [
-"L'Est Républicain"
+"L'Est Républicain",
+"France 24"
 ],
 "base": [
 "presidentielle"
@@ -4738,7 +5299,9 @@
 "date": "2026-11-09T16:34:57+00:00",
 "added": "2026-11-09T17:46:29+00:00",
 "official": false,
-"also": [],
+"also": [
+"CNews"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -9476,7 +10039,8 @@
 "Le Figaro",
 "Libération",
 "RTL",
-"Nice-Matin"
+"Nice-Matin",
+"La Nouvelle République"
 ],
 "base": [],
 "filtered": true,
@@ -14040,7 +14604,8 @@
 "RTL",
 "Le Dauphiné Libéré",
 "Le Télégramme",
-"Sud Ouest"
+"Sud Ouest",
+"Le Bien Public"
 ],
 "base": [
 "elysee"
@@ -14138,1035 +14703,6 @@
 "natures": [
 "Interview"
 ],
-"speaker": ""
-},
-{
-"id": "4e87bdedea014337",
-"title": "“La société française est dans un état d’inquiétude spectaculaire” : Édouard Philippe réagit à la vision pessimiste de l’avenir des Français",
-"link": "https://www.bfmtv.com/politique/video-la-societe-francaise-est-dans-un-etat-d-inquietude-spectaculaire-edouard-philippe-reagit-a-la-vision-pessimiste-de-l-avenir-des-francais_VN-202611070446.html",
-"summary": "Édouard Philippe, candidat Horizons à l'élection présidentielle, a réagi, ce samedi 7 novembre, lors des Rencontres de l’Avenir, à Saint-Raphaël (Var), à la vision pessimiste de l’avenir des Français, expliquant que la société française était dans un état d’inquiétude spectaculaire.",
-"source": "BFMTV",
-"date": "2026-11-07T17:32:08+00:00",
-"added": "2026-11-07T19:29:53+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "Édouard Philippe"
-},
-{
-"id": "af39c0fa55cfb51f",
-"title": "Du changement au gouvernement : Mathieu Lefèvre remplace Maud Bregeon, Arnaud Viala nommé ministre de la Ruralité",
-"link": "https://www.lefigaro.fr/politique/du-changement-au-gouvernement-mathieu-lefevre-remplace-maud-bregeon-arnaud-viala-nomme-ministre-de-la-ruralite-20261107",
-"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
-"source": "Le Figaro",
-"date": "2026-11-07T17:23:06+00:00",
-"added": "2026-11-07T19:29:53+00:00",
-"official": false,
-"also": [
-"BFMTV",
-"TF1 Info"
-],
-"base": [
-"gouvernement"
-],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "fb8c674db1a2f2c3",
-"title": "\"Il est temps de redonner un cap pour le pays” : Élisabeth Borne revient sur ses difficultés à faire passer des lois et des réformes.",
-"link": "https://www.bfmtv.com/politique/video-il-est-temps-de-redonner-un-cap-pour-le-pays-elisabeth-borne-revient-sur-ses-difficultes-a-faire-passer-des-lois-et-des-reformes_VN-202611070440.html",
-"summary": "Élisabeth Borne est revenue, ce samedi, à Saint-Raphaël (Var), lors des Rencontres de l’Avenir, sur ses difficultés à faire passer des lois et des réformes lorsqu’elle était Première ministre et défend qu’il est temps de redonner un cap pour le pays.",
-"source": "BFMTV",
-"date": "2026-11-07T17:20:53+00:00",
-"added": "2026-11-07T19:29:53+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "26fa5b15c638b742",
-"title": "Présidentielle 2027 : à La Ciotat, Édouard Philippe assume toujours son refus d’une primaire, qualifiée d'\"opération de division\"",
-"link": "https://www.lanouvellerepublique.fr/a-la-une/presidentielle-2027-a-la-ciotat-edouard-philippe-assume-toujours-son-refus-d-une-primaire-qualifiee-d-operation-de-division-1794071778",
-"summary": "Édouard Philippe, candidat Horizons à la présidentielle, a organisé une réunion publique à La Ciotat, dans les Bouches-du-Rhône, samedi 7 novembre 2026. © (Photo AFP)\nÀ La Ciotat, environ 300 personnes étaient réunies samedi 7 novembre pour écouter Édouard Philippe.",
-"source": "La Nouvelle République",
-"date": "2026-11-07T17:16:08+00:00",
-"added": "2026-11-07T17:24:25+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Édouard Philippe"
-},
-{
-"id": "29d7ce52b798f542",
-"title": "Présidentielle : hors la primaire, la contre-programmation d'Édouard Philippe",
-"link": "https://www.france24.com/fr/info-en-continu/20261107-pr%C3%A9sidentielle-hors-la-primaire-la-contre-programmation-d-%C3%A9douard-philippe",
-"summary": "",
-"source": "France 24",
-"date": "2026-11-07T17:14:03+00:00",
-"added": "2026-11-07T17:24:25+00:00",
-"official": false,
-"also": [
-"Europe 1"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "3ef7888e7f24a6a8",
-"title": "Mathieu Lefèvre va remplacer momentanément comme porte-parole du gouvernement Maud Bregeon, qui va partir en congé maternité",
-"link": "https://www.lemonde.fr/politique/article/2026/11/07/mathieu-lefevre-va-remplacer-momentanement-comme-porte-parole-du-gouvernement-maud-bregeon-qui-va-partir-en-conge-maternite_6808304_823448.html",
-"summary": "Mathieu Lefèvre, un proche du garde des sceaux, Gérald Darmanin, conservera son poste de ministre délégué à la transition écologique pendant cet intérim d’environ cinq semaines.",
-"source": "Le Monde",
-"date": "2026-11-07T17:13:25+00:00",
-"added": "2026-11-07T17:24:25+00:00",
-"official": false,
-"also": [
-"BFMTV",
-"TF1 Info",
-"Le HuffPost",
-"Le Dauphiné Libéré",
-"Le Télégramme",
-"France 24",
-"Sud Ouest",
-"RTL"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "c0666655bfc77460",
-"title": "\"Nous proposons une VIe République organisée autour de la souveraineté populaire permanente\", lance Jean-Luc Mélenchon, candidat à la présidentielle",
-"link": "https://www.bfmtv.com/politique/video-nous-proposons-une-v-ie-republique-organisee-autour-de-la-souverainete-populaire-permanente-lance-jean-luc-melenchon-candidat-a-la-presidentielle_VN-202611070438.html",
-"summary": "À six mois de l'élection présidentielle, le candidat insoumis Jean-Luc Mélenchon tient un meeting au Bourget pour présenter son programme ce samedi 7 novembre.",
-"source": "BFMTV",
-"date": "2026-11-07T17:10:36+00:00",
-"added": "2026-11-07T17:24:25+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jean-Luc Mélenchon"
-},
-{
-"id": "2f4b8992b0616113",
-"title": "\"Je vous parle de la nouvelle France\", déclare Jean-Luc Mélenchon, candidat LFI à l'élection présidentielle",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-je-vous-parle-de-la-nouvelle-france-declare-jean-luc-melenchon-candidat-lfi-a-l-election-presidentielle_VN-202611070437.html",
-"summary": "À six mois de l'élection présidentielle, le candidat insoumis Jean-Luc Mélenchon tient un meeting au Bourget pour présenter son programme ce samedi 7 novembre.",
-"source": "BFMTV",
-"date": "2026-11-07T17:09:03+00:00",
-"added": "2026-11-07T17:24:25+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jean-Luc Mélenchon"
-},
-{
-"id": "420a0b6dcc390e6f",
-"title": "\"Nous allons créer un pôle public du médicament (...) nous ferons le 100% sécu\", annonce Jean-Luc Mélenchon, candidat LFI à la présidentielle",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-nous-allons-creer-un-pole-public-du-medicament-nous-ferons-le-100-secu-annonce-jean-luc-melenchon-candidat-lfi-a-la-presidentielle_VN-202611070436.html",
-"summary": "À six mois de l'élection présidentielle, le candidat insoumis Jean-Luc Mélenchon tient un meeting au Bourget pour présenter son programme ce samedi 7 novembre.",
-"source": "BFMTV",
-"date": "2026-11-07T17:07:49+00:00",
-"added": "2026-11-07T17:24:25+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation",
-"Annonce"
-],
-"speaker": "Jean-Luc Mélenchon"
-},
-{
-"id": "680b45f0b093b64e",
-"title": "manifestations du 7 novembre : 146 000 personnes ont défilé en France samedi, selon le ministère de l’intérieur, 250 000, selon l’intersyndicale de la jeunesse",
-"link": "https://www.lemonde.fr/societe/live/2026/11/07/en-direct-manifestations-du-7-novembre-146-000-personnes-ont-defile-en-france-samedi-selon-le-ministere-de-l-interieur-250-000-selon-l-intersyndicale-de-la-jeunesse_6808254_3224.html",
-"summary": "La situation sur l’ensemble du territoire national, au regard du maintien de l’ordre, « demeure globalement calme et maîtrisée », a indiqué le ministère de l’intérieur dans l’après-midi.",
-"source": "Le Monde",
-"date": "2026-11-07T17:07:26+00:00",
-"added": "2026-11-07T17:24:25+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "5c42f18cfe272fe8",
-"title": "\"La santé est devenue un problème central pour la survie de notre espèce, beaucoup refusent de le voir et de l'admettre\", dénonce Jean-Luc Mélenchon, candidat LFI à l'élection présidentielle",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-la-sante-est-devenue-un-probleme-central-pour-la-survie-de-notre-espece-beaucoup-refusent-de-le-voir-et-de-l-admettre-denonce-jean-luc-melenchon-candidat-lfi-a-l-election-presidentielle_VN-202611070434.html",
-"summary": "À six mois de l'élection présidentielle, le candidat insoumis Jean-Luc Mélenchon tient un meeting au Bourget pour présenter son programme ce samedi 7 novembre.",
-"source": "BFMTV",
-"date": "2026-11-07T17:06:43+00:00",
-"added": "2026-11-07T17:24:25+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "Jean-Luc Mélenchon"
-},
-{
-"id": "fc36b2822ee3bfb1",
-"title": "« Il faut tout changer » : le grand show de Mélenchon pour lancer sa campagne",
-"link": "https://www.letelegramme.fr/france/il-faut-tout-changer-le-grand-show-de-melenchon-pour-lancer-sa-campagne-7154236.php",
-"summary": "",
-"source": "Le Télégramme",
-"date": "2026-11-07T17:01:47+00:00",
-"added": "2026-11-07T17:24:25+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "7c6011a77a159284",
-"title": "Hervé Le Bras, historien : « Une France de technocrates est en train d’être remplacée par une France de tribuns »",
-"link": "https://www.lemonde.fr/societe/article/2026/11/07/herve-le-bras-historien-une-france-de-technocrates-est-en-train-d-etre-remplacee-par-une-france-de-tribuns_6808301_3224.html",
-"summary": "Dans un entretien au « Monde », Hervé Le Bras explique comment une partie de la population française en perte de repères traditionnels et se sentant exclue pourrait écarter les élites actuelles au profit d’un gouvernement autoritaire qui redonnerait au peuple une place centrale.",
-"source": "Le Monde",
-"date": "2026-11-07T17:00:33+00:00",
-"added": "2026-11-07T17:24:25+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "ba7d12cd90a04f72",
-"title": "Présidentielle 2027: \"Certains me recommandent de mettre de l'eau dans mon vin pour séduire et être moins clivant, je ne le ferai pas\", assure Jean-Luc Mélenchon, candidat LFI",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-2027-certains-me-recommandent-de-mettre-de-l-eau-dans-mon-vin-pour-seduire-et-etre-moins-clivant-je-ne-le-ferai-pas-assure-jean-luc-melenchon-candidat-lfi_VN-202611070428.html",
-"summary": "À six mois de l'élection présidentielle, le candidat insoumis Jean-Luc Mélenchon tient un meeting au Bourget pour présenter son programme ce samedi 7 novembre.",
-"source": "BFMTV",
-"date": "2026-11-07T17:00:15+00:00",
-"added": "2026-11-07T17:24:25+00:00",
-"official": false,
-"also": [
-"franceinfo",
-"CNews"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jean-Luc Mélenchon"
-},
-{
-"id": "025de7897ae0ba33",
-"title": "Les automnes de la Présidentielle",
-"link": "https://www.franceinfo.fr/replay-radio/l-info-de-l-histoire/les-automnes-de-la-presidentielle_8251696.html#xtor=RSS-3-%5Bgeneral%5D",
-"summary": "Cette semaine le débat pour l’élection présidentielle est tendu sur les primaires au centre et à droite. De nouvelles candidatures émergent comme celle de David Lisnard, alors que d’autres semblent s’essouffler, comme le trou d’air traversé par Edouard Philippe.",
-"source": "franceinfo",
-"date": "2026-11-07T17:00:03+00:00",
-"added": "2026-11-07T17:24:25+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "aa45d95bec3022da",
-"title": "La \"nouvelle France\" de Jean-Luc Mélenchon m'évoque la Roumanie communiste dans laquelle je suis né, par Nicolas Lecaussin",
-"link": "https://www.lexpress.fr/idees-et-debats/la-nouvelle-france-de-jean-luc-melenchon-mevoque-la-roumanie-communiste-dans-laquelle-je-suis-ne-par-OWHY6AXNSVBSPIVA53TESXUBCU/",
-"summary": "Le programme que La France insoumise présente pour 2027 s’intitule \"L’Avenir en commun\". Le programme de la Nouvelle France.",
-"source": "L'Express",
-"date": "2026-11-07T17:00:00+00:00",
-"added": "2026-11-07T17:24:25+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jean-Luc Mélenchon"
-},
-{
-"id": "24d247de9aea3e02",
-"title": "Le Grand Dossier \"Mélenchon détaille son programme au Bourget\" du samedi 7 novembre 2026",
-"link": "https://www.tf1info.fr/replay-lci/videos/video-le-grand-dossier-melenchon-detaille-son-programme-au-bourget-du-samedi-7-novembre-2026-2474521.html",
-"summary": "Le candidat de la France insoumise à la présidentielle de 2027, Jean-Luc Mélenchon, organise un discours au Bourget pour présenter son programme devant ses soutiens.",
-"source": "TF1 Info",
-"date": "2026-11-07T16:57:12+00:00",
-"added": "2026-11-08T06:29:20+00:00",
-"official": false,
-"also": [
-"Le Nouvel Obs",
-"CNews"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "b9965853670a838b",
-"title": "\"Nous allons nous battre jusqu'à la dernière seconde et à la fin nous allons gagner\", déclare Jean-Luc Mélenchon, candidat LFI à l'élection présidentielle",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-nous-allons-nous-battre-jusqu-a-la-derniere-seconde-et-a-la-fin-nous-allons-gagner-declare-jean-luc-melenchon-candidat-lfi-a-l-election-presidentielle_VN-202611070426.html",
-"summary": "À six mois de l'élection présidentielle, le candidat insoumis Jean-Luc Mélenchon tient un meeting au Bourget pour présenter son programme ce samedi 7 novembre.",
-"source": "BFMTV",
-"date": "2026-11-07T16:56:17+00:00",
-"added": "2026-11-07T17:24:25+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jean-Luc Mélenchon"
-},
-{
-"id": "417170531a6125cd",
-"title": "\"Dans ce pays, le Code du travail a été abîmé dès la première heure par Emmanuel Macron\", déclare Jean-Luc Mélenchon, candidat LFI à l'élection présidentielle",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-dans-ce-pays-le-code-du-travail-a-ete-abime-des-la-premiere-heure-par-emmanuel-macron-declare-jean-luc-melenchon-candidat-lfi-a-l-election-presidentielle_VN-202611070425.html",
-"summary": "À six mois de l'élection présidentielle, le candidat insoumis Jean-Luc Mélenchon tient un meeting au Bourget pour présenter son programme ce samedi 7 novembre.",
-"source": "BFMTV",
-"date": "2026-11-07T16:55:03+00:00",
-"added": "2026-11-07T17:24:25+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jean-Luc Mélenchon"
-},
-{
-"id": "7f455fa4869e5938",
-"title": "Pour Jean-Luc Mélenchon, l'intelligence artificielle est \"un défi existentiel\" qu'il faut \"réguler\" à l'échelle \"mondiale\"",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-pour-jean-luc-melenchon-l-intelligence-artificielle-est-un-defi-existentiel-qu-il-faut-reguler-a-l-echelle-mondiale_VN-202611070424.html",
-"summary": "À six mois de l'élection présidentielle, le candidat insoumis Jean-Luc Mélenchon tient un meeting au Bourget pour présenter son programme ce samedi 7 novembre.",
-"source": "BFMTV",
-"date": "2026-11-07T16:54:01+00:00",
-"added": "2026-11-07T17:24:25+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jean-Luc Mélenchon"
-},
-{
-"id": "d0f0ca0ad9effb9a",
-"title": "Écologie: \"Nous organiserons un changement complet\", détaille Jean-Luc Mélenchon, candidat LFI à l'élection présidentielle",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-ecologie-nous-organiserons-un-changement-complet-detaille-jean-luc-melenchon-candidat-lfi-a-l-election-presidentielle_VN-202611070423.html",
-"summary": "À six mois de l'élection présidentielle, le candidat insoumis Jean-Luc Mélenchon tient un meeting au Bourget pour présenter son programme ce samedi 7 novembre.",
-"source": "BFMTV",
-"date": "2026-11-07T16:51:42+00:00",
-"added": "2026-11-07T17:24:25+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "92ed49d1cdc77600",
-"title": "Jean-Luc Mélenchon veut \"agir frontalement au secours des Palestiniens contre le génocide à Gaza et contre l'annexion progressive de la Cisjordanie\" en cas de victoire à l'élection présidentielle",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-jean-luc-melenchon-veut-agir-frontalement-au-secours-des-palestiniens-contre-le-genocide-a-gaza-et-contre-l-annexion-progressive-de-la-cisjordanie-en-cas-de-victoire-a-l-election-presidentielle_VN-202611070422.html",
-"summary": "À six mois de l'élection présidentielle, le candidat insoumis Jean-Luc Mélenchon tient un meeting au Bourget pour présenter son programme ce samedi 7 novembre.",
-"source": "BFMTV",
-"date": "2026-11-07T16:50:14+00:00",
-"added": "2026-11-07T17:24:25+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jean-Luc Mélenchon"
-},
-{
-"id": "656a586ca48604e1",
-"title": "\"Il faut remettre à l'ordre du jour le désarmement nucléaire de la planète région par région\", déclare Jean-Luc Mélenchon, candidat LFI à l'élection présidentielle",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-il-faut-remettre-a-l-ordre-du-jour-le-desarmement-nucleaire-de-la-planete-region-par-region-declare-jean-luc-melenchon-candidat-lfi-a-l-election-presidentielle_VN-202611070421.html",
-"summary": "À six mois de l'élection présidentielle, le candidat insoumis Jean-Luc Mélenchon tient un meeting au Bourget pour présenter son programme ce samedi 7 novembre.",
-"source": "BFMTV",
-"date": "2026-11-07T16:47:58+00:00",
-"added": "2026-11-07T17:24:25+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jean-Luc Mélenchon"
-},
-{
-"id": "25edb5a01d5031e8",
-"title": "Le ministre délégué Mathieu Lefèvre va être nommé porte-parole du gouvernement par intérim",
-"link": "https://www.franceinfo.fr/politique/le-ministre-delegue-mathieu-lefevre-va-etre-nomme-porte-parole-du-gouvernement-par-interim_8272532.html#xtor=RSS-3-%5Bgeneral%5D",
-"summary": "Cette nomination intervient alors que l'actuelle porte-parole du gouvernement, Maud Bregeon, va bientôt entamer son congé maternité.",
-"source": "franceinfo",
-"date": "2026-11-07T16:47:21+00:00",
-"added": "2026-11-07T17:24:25+00:00",
-"official": false,
-"also": [
-"Le Parisien",
-"CNews"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "718f4c26bbb97d28",
-"title": "\"Nous n'avons rien à faire dans l'Otan\", lance Jean-Luc Mélenchon, candidat à la présidentielle",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-nous-n-avons-rien-a-faire-dans-l-otan-lance-jean-luc-melenchon-candidat-a-la-presidentielle_VN-202611070419.html",
-"summary": "À six mois de l'élection présidentielle, le candidat insoumis Jean-Luc Mélenchon tient un meeting au Bourget pour présenter son programme ce samedi 7 novembre.",
-"source": "BFMTV",
-"date": "2026-11-07T16:47:07+00:00",
-"added": "2026-11-07T17:24:25+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jean-Luc Mélenchon"
-},
-{
-"id": "ed0ab4e58030b996",
-"title": "Présidentielle 2027 : La France insoumise fait de l’écologie sa priorité",
-"link": "https://www.la-croix.com/planete/presidentielle-2027-la-france-insoumise-fait-de-l-ecologie-sa-priorite-20261107",
-"summary": "La bifurcation écologique, la priorité des priorités.",
-"source": "La Croix",
-"date": "2026-11-07T16:46:21+00:00",
-"added": "2026-11-07T17:24:25+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "75a4f4d4db8cc2ec",
-"title": "\"Il faudrait immédiatement bloquer les prix, augmenter le SMIC, indexer les salaires sur l'inflation \", détaille Jean-Luc Mélenchon, candidat LFI à l'élection présidentielle",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-il-faudrait-immediatement-bloquer-les-prix-augmenter-le-smic-indexer-les-salaires-sur-l-inflation-detaille-jean-luc-melenchon-candidat-lfi-a-l-election-presidentielle_VN-202611070418.html",
-"summary": "À six mois de l'élection présidentielle, le candidat insoumis Jean-Luc Mélenchon tient un meeting au Bourget pour présenter son programme ce samedi 7 novembre.",
-"source": "BFMTV",
-"date": "2026-11-07T16:45:57+00:00",
-"added": "2026-11-07T17:24:25+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "ed0d8a1be100476e",
-"title": "Jean-Luc Mélenchon veut \"une politique de relance\" avec \"des milliards orientés vers les besoins écologiques et sociaux\"",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-jean-luc-melenchon-veut-une-politique-de-relance-avec-des-milliards-orientes-vers-les-besoins-ecologiques-et-sociaux_VN-202611070417.html",
-"summary": "À six mois de l'élection présidentielle, le candidat insoumis Jean-Luc Mélenchon tient un meeting au Bourget pour présenter son programme ce samedi 7 novembre.",
-"source": "BFMTV",
-"date": "2026-11-07T16:43:43+00:00",
-"added": "2026-11-07T17:24:25+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jean-Luc Mélenchon"
-},
-{
-"id": "283f6cdf4ab59b7d",
-"title": "\"Marine Le Pen et Jordan Bardella sont devenus les plus hostiles aux droits sociaux du peuple en France\", dénonce Jean-Luc Mélenchon, candidat LFI à l'élection présidentielle",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-marine-le-pen-et-jordan-bardella-sont-devenus-les-plus-hostiles-aux-droits-sociaux-du-peuple-en-france-denonce-jean-luc-melenchon-candidat-lfi-a-l-election-presidentielle_VN-202611070413.html",
-"summary": "À six mois de l'élection présidentielle, le candidat insoumis Jean-Luc Mélenchon tient un meeting au Bourget pour présenter son programme ce samedi 7 novembre.",
-"source": "BFMTV",
-"date": "2026-11-07T16:38:35+00:00",
-"added": "2026-11-07T17:24:25+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "Jean-Luc Mélenchon"
-},
-{
-"id": "94a587184c3c71e0",
-"title": "\"Tu nais ici, tu es Français\": Jean-Luc Mélenchon, candidat LFI à l'élection présidentielle, défend le droit du sol",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-tu-nais-ici-tu-es-francais-jean-luc-melenchon-candidat-lfi-a-l-election-presidentielle-defend-le-droit-du-sol_VN-202611070410.html",
-"summary": "À six mois de l'élection présidentielle, le candidat insoumis Jean-Luc Mélenchon tient un meeting au Bourget pour présenter son programme ce samedi 7 novembre.",
-"source": "BFMTV",
-"date": "2026-11-07T16:33:12+00:00",
-"added": "2026-11-07T17:24:25+00:00",
-"official": false,
-"also": [
-"TF1 Info"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "Jean-Luc Mélenchon"
-},
-{
-"id": "f5c805349cd566ce",
-"title": "Pourquoi Jean-Luc Mélenchon veut redessiner la carte de France avec ses « écorégions »",
-"link": "https://www.nouvelobs.com/politique/20261107.OBS119935/pourquoi-jean-luc-melenchon-veut-redessiner-la-carte-de-france-avec-ses-ecoregions.html",
-"summary": "Jean-Luc Mélenchon au Salon Batimat, le 28 septembre 2026 à Paris. BASTIEN OHIER/HANS LUCAS VIA AFP\nS’abonner permet de commenter les articles.",
-"source": "Le Nouvel Obs",
-"date": "2026-11-07T16:30:35+00:00",
-"added": "2026-11-07T17:24:25+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jean-Luc Mélenchon"
-},
-{
-"id": "4b7a3c4120eb57a5",
-"title": "Dettes privées, IA: \"Tout cela va effondrer le système financier international, il faut démanteler les citadelles de ce système pourri\", déclare Jean-Luc Mélenchon, candidat LFI à l'élection présidentielle",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-dettes-privees-ia-tout-cela-va-effondrer-le-systeme-financier-international-il-faut-demanteler-les-citadelles-de-ce-systeme-pourri-declare-jean-luc-melenchon-candidat-lfi-a-l-election-presidentielle_VN-202611070407.html",
-"summary": "À six mois de l'élection présidentielle, le candidat insoumis Jean-Luc Mélenchon tient un meeting au Bourget pour présenter son programme ce samedi 7 novembre.",
-"source": "BFMTV",
-"date": "2026-11-07T16:26:15+00:00",
-"added": "2026-11-07T17:24:25+00:00",
-"official": false,
-"also": [
-"France 24"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jean-Luc Mélenchon"
-},
-{
-"id": "fc7357c9e2e5689e",
-"title": "\"Tout le monde déteste le pouvoir macroniste\", déclare Jean-Luc Mélenchon, candidat LFI à l'élection présidentielle",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-tout-le-monde-deteste-le-pouvoir-macroniste-declare-jean-luc-melenchon-candidat-lfi-a-l-election-presidentielle_VN-202611070401.html",
-"summary": "À six mois de l'élection présidentielle, le candidat insoumis Jean-Luc Mélenchon tient un meeting au Bourget pour présenter son programme ce samedi 7 novembre.",
-"source": "BFMTV",
-"date": "2026-11-07T16:24:33+00:00",
-"added": "2026-11-07T17:24:25+00:00",
-"official": false,
-"also": [
-"L'Humanité"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jean-Luc Mélenchon"
-},
-{
-"id": "1b33425515aa0c04",
-"title": "Colère lycéenne: pour Jean-Luc Mélenchon, candidat LFI à la présidentielle, \"Parcoursup\" est un \"emblème répugnant du projet libéral\"",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-colere-lyceenne-pour-jean-luc-melenchon-candidat-lfi-a-la-presidentielle-parcoursup-est-un-embleme-repugnant-du-projet-liberal_VN-202611070402.html",
-"summary": "À six mois de l'élection présidentielle, le candidat insoumis Jean-Luc Mélenchon tient un meeting au Bourget pour présenter son programme ce samedi 7 novembre.",
-"source": "BFMTV",
-"date": "2026-11-07T16:23:36+00:00",
-"added": "2026-11-07T17:24:25+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jean-Luc Mélenchon"
-},
-{
-"id": "b2282c66327a2928",
-"title": "André Chassaigne attristé par le \"comportement d’auto-entrepreneurs\" des députés communistes ralliés à Jean-Luc Mélenchon",
-"link": "https://www.lamontagne.fr/paris-75000/actualites/andre-chassaigne-attriste-par-le-comportement-dauto-entrepreneurs-des-deputes-communistes-rallies-a-jean-luc-melenchon_15077417/",
-"summary": "",
-"source": "La Montagne",
-"date": "2026-11-07T16:23:00+00:00",
-"added": "2026-11-07T17:24:25+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"parlement",
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "9663236cd2a92eb1",
-"title": "Présidentielle 2027 : « Je n’ai qu’une chose raisonnable à vous proposer : il faut tout changer », lance Jean-Luc Mélenchon en introduction de son meeting au Bourget",
-"link": "https://www.lemonde.fr/politique/article/2026/11/07/presidentielle-2027-je-n-ai-qu-une-chose-raisonnable-a-vous-proposer-il-faut-tout-changer-lance-jean-luc-melenchon-en-introduction-de-son-meeting-au-bourget_6808296_823448.html",
-"summary": "« Nous sommes en train d’ouvrir le chemin d’un grand changement politique en France », a affirmé le candidat « insoumis » samedi, lors d’un meeting de campagne pour la présentation du programme présidentiel de La France insoumise.",
-"source": "Le Monde",
-"date": "2026-11-07T16:21:22+00:00",
-"added": "2026-11-07T17:24:25+00:00",
-"official": false,
-"also": [
-"BFMTV",
-"La Nouvelle République",
-"France 24",
-"Le Dauphiné Libéré",
-"franceinfo"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation",
-"Discours"
-],
-"speaker": "Jean-Luc Mélenchon"
-},
-{
-"id": "0b0364b06a5fcb03",
-"title": "Manifestations : \"Les jeunes ont réussi un exploit : être rejoints par leurs parents et les syndicats\", se réjouit Jean-Luc Mélenchon",
-"link": "https://www.tf1info.fr/politique/elections/presidentielle/videos/video-manifestations-les-jeunes-ont-reussi-un-exploit-etre-rejoints-par-leurs-parents-et-les-syndicats-se-rejouit-jean-luc-melenchon-32763-2474511.html",
-"summary": "En meeting au Bourget (Seine-Saint-Denis), Jean-Luc Mélenchon a évidemment eu un mot pour le mouvement de manifestations d'ampleur.",
-"source": "TF1 Info",
-"date": "2026-11-07T16:20:11+00:00",
-"added": "2026-11-07T19:29:53+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "6b73013c85527680",
-"title": "\"Une fois au pouvoir nous poursuivrons au peigne fin le racisme par tous les moyens légaux\", déclare Jean-Luc Mélenchon, candidat LFI à l'élection présidentielle",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-une-fois-au-pouvoir-nous-poursuivrons-au-peigne-fin-le-racisme-par-tous-les-moyens-legaux-declare-jean-luc-melenchon-candidat-lfi-a-l-election-presidentielle_VN-202611070400.html",
-"summary": "À six mois de l'élection présidentielle, le candidat insoumis Jean-Luc Mélenchon tient un meeting au Bourget pour présenter son programme ce samedi 7 novembre.",
-"source": "BFMTV",
-"date": "2026-11-07T16:18:26+00:00",
-"added": "2026-11-07T17:24:25+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jean-Luc Mélenchon"
-},
-{
-"id": "9b24a7412c8aee9f",
-"title": "\"Bienvenue à qui veut agir avec nous\", déclare Jean-Luc Mélenchon, candidat LFI à l'élection présidentielle, pour saluer le soutien d'une partie des députés communistes",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-bienvenue-a-qui-veut-agir-avec-nous-declare-jean-luc-melenchon-candidat-lfi-a-l-election-presidentielle-pour-saluer-le-soutien-d-une-partie-des-deputes-communistes_VN-202611070399.html",
-"summary": "À six mois de l'élection présidentielle, le candidat insoumis Jean-Luc Mélenchon tient un meeting au Bourget pour présenter son programme ce samedi 7 novembre.",
-"source": "BFMTV",
-"date": "2026-11-07T16:15:43+00:00",
-"added": "2026-11-07T17:24:25+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement",
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jean-Luc Mélenchon"
-},
-{
-"id": "84aa8d8e89804008",
-"title": "\"Nous sommes confrontés à une crise globale de la civilisation humaine\", déclare Jean-Luc Mélenchon, candidat LFI à l'élection présidentielle",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-nous-sommes-confrontes-a-une-crise-globale-de-la-civilisation-humaine-declare-jean-luc-melenchon-candidat-lfi-a-l-election-presidentielle_VN-202611070398.html",
-"summary": "À six mois de l'élection présidentielle, le candidat insoumis Jean-Luc Mélenchon tient un meeting au Bourget pour présenter son programme ce samedi 7 novembre.",
-"source": "BFMTV",
-"date": "2026-11-07T16:13:46+00:00",
-"added": "2026-11-07T17:24:25+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jean-Luc Mélenchon"
-},
-{
-"id": "e0e04ce08762158e",
-"title": "Jean-Luc Mélenchon, candidat LFI à l'élection présidentielle, appelle à observer une minute de silence en hommage à Pengo Bossio Wangi tué lors de l'attentat raciste de Trappes",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-jean-luc-melenchon-candidat-lfi-a-l-election-presidentielle-appelle-a-observer-une-minute-de-silence-en-hommage-a-pengo-bossio-wangi-tue-lors-de-l-attentat-raciste-de-trappes_VN-202611070393.html",
-"summary": "À six mois de l'élection présidentielle, le candidat insoumis Jean-Luc Mélenchon tient un meeting au Bourget pour présenter son programme ce samedi 7 novembre.",
-"source": "BFMTV",
-"date": "2026-11-07T16:06:57+00:00",
-"added": "2026-11-07T17:24:25+00:00",
-"official": false,
-"also": [
-"TF1 Info"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": "Jean-Luc Mélenchon"
-},
-{
-"id": "de003e478a850deb",
-"title": "\"Nous sommes en train d'ouvrir le chemin d'un grand changement\", déclare Jean-Luc Mélenchon, candidat LFI à l'élection présidentielle",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-nous-sommes-en-train-d-ouvrir-le-chemin-d-un-grand-changement-declare-jean-luc-melenchon-candidat-lfi-a-l-election-presidentielle_VN-202611070392.html",
-"summary": "À six mois de l'élection présidentielle, le candidat insoumis Jean-Luc Mélenchon tient un meeting au Bourget pour présenter son programme ce samedi 7 novembre.",
-"source": "BFMTV",
-"date": "2026-11-07T16:05:29+00:00",
-"added": "2026-11-07T17:24:25+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jean-Luc Mélenchon"
-},
-{
-"id": "94c2c6a1be942915",
-"title": "Présidentielle 2027 : Jean-Luc Mélenchon peut-il vraiment se qualifier pour le second tour ?",
-"link": "https://www.lefigaro.fr/politique/presidentielle-quelles-sont-les-chances-de-jean-luc-melenchon-de-se-qualifier-au-second-tour-20261107",
-"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
-"source": "Le Figaro",
-"date": "2026-11-07T16:01:00+00:00",
-"added": "2026-11-10T11:40:54+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "ac6ac71e15703abc",
-"title": "Présidentielle 2027. Édouard Philippe à Rillieux-la-Pape le 19 novembre : une étape de son « grand tour »",
-"link": "https://www.leprogres.fr/elections/2026/11/07/edouard-philippe-a-rillieux-la-pape-le-19-novembre-une-etape-de-son-grand-tour",
-"summary": "L’ancien Premier ministre Édouard Philippe fera étape à Rillieux-la-Pape le jeudi 19 novembre, à l’Espace 140.",
-"source": "Le Progrès",
-"date": "2026-11-07T16:00:24+00:00",
-"added": "2026-11-07T17:24:25+00:00",
-"official": false,
-"also": [
-"RFI"
-],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "eb3f3a7471edc6c3",
-"title": "L’interview de Sarah Knafo dans la matinale de franceinfo",
-"link": "https://www.franceinfo.fr/replay-radio/le-rendez-vous-du-mediateur/l-interview-de-sarah-knafo-dans-la-matinale-de-franceinfo_8251666.html#xtor=RSS-3-%5Bgeneral%5D",
-"summary": "L’interview de Sarah Knafo dans le 8.30 de franceinfo le 28 octobre 2026, menée par les journalistes Simon Le Baron et Audrey Tison a suscité de nombreuses réactions de la part des auditeurs.",
-"source": "franceinfo",
-"date": "2026-11-07T16:00:02+00:00",
-"added": "2026-11-07T17:24:25+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"matinales"
-],
-"natures": [
-"Interview"
-],
-"speaker": "Sarah Knafo"
-},
-{
-"id": "ce59ad7a7d1047d8",
-"title": "« Un candidat de rupture et d’alternative » : les LR de Moselle au soutien de Bruno Retailleau",
-"link": "https://www.republicain-lorrain.fr/politique/2026/11/07/un-candidat-de-rupture-et-d-alternative-les-lr-de-moselle-au-soutien-de-bruno-retailleau",
-"summary": "« Il a l’avantage de pouvoir susciter une rupture sans le chaos », argue Julien Freyburger, maire de Maizières-lès-Metz , premier vice-président du Département et nouveau président de la fédération LR de Moselle.",
-"source": "Le Republicain Lorrain",
-"date": "2026-11-07T15:59:50+00:00",
-"added": "2026-11-07T17:24:25+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "99cc015c680fec5d",
-"title": "Nouvelle-Zélande : malgré des scores très serrés, le Premier ministre conservateur affirme pouvoir former un gouvernement",
-"link": "https://www.sudouest.fr/international/nouvelle-zelande-malgre-des-scores-tres-serres-le-premier-ministre-conservateur-affirme-pouvoir-former-un-gouvernement-31427451.php",
-"summary": "",
-"source": "Sud Ouest",
-"date": "2026-11-07T15:44:32+00:00",
-"added": "2026-11-07T17:24:25+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "8df5d46cb0fc89fa",
-"title": "Présidentielle 2027 : ce qu’il faut retenir du Conseil national du PCF après le retrait d’élus communistes en faveur de Jean-Luc Mélenchon",
-"link": "https://www.humanite.fr/politique/fabien-roussel/presidentielle-2027-le-conseil-national-du-pcf-rappelle-lexigence-du-respect-des-choix-democratiques-des-adherents",
-"summary": "Le Conseil national du PCF, qui s’est réuni ce samedi 7 novembre, a appelé à poursuivre la campagne de Fabien Roussel et à s’engager dans le mouvement social.",
-"source": "L'Humanité",
-"date": "2026-11-07T15:40:11+00:00",
-"added": "2026-11-08T13:39:09+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
 "speaker": ""
 }
 ]
