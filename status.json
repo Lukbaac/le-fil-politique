@@ -33,13 +33,13 @@
 "name": "franceinfo",
 "ok": true,
 "items": 20,
-"new": 2
+"new": 3
 },
 {
 "name": "Le Figaro",
 "ok": true,
 "items": 20,
-"new": 1
+"new": 2
 },
 {
 "name": "Libération",
@@ -57,42 +57,42 @@
 "name": "L'Express",
 "ok": true,
 "items": 100,
-"new": 1
+"new": 0
 },
 {
 "name": "BFMTV",
 "ok": true,
 "items": 30,
-"new": 7
+"new": 3
 },
 {
 "name": "20 Minutes",
 "ok": true,
 "items": 20,
-"new": 0
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 35,
-"new": 0
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 21,
 "new": 1
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 29,
-"new": 1
+"items": 33,
+"new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
 "items": 22,
+"new": 0
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 30,
+"new": 0
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 24,
 "new": 0
 },
 {
@@ -117,31 +117,31 @@
 "name": "Google Actualités",
 "ok": true,
 "items": 100,
-"new": 2
+"new": 7
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 66,
+"items": 64,
+"new": 3
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 88,
 "new": 1
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 90,
+"items": 18,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 19,
+"items": 25,
 "new": 0
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 26,
-"new": 1
 },
 {
 "name": "Google Actualités",
@@ -153,24 +153,24 @@
 "name": "Google Actualités",
 "ok": true,
 "items": 100,
-"new": 1
+"new": 3
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 16,
+"items": 15,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 51,
+"items": 44,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 59,
+"items": 66,
 "new": 0
 }
 ]
