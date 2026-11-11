@@ -1,5 +1,219 @@
 [
 {
+"id": "db7d53b1144dbb47",
+"title": "FORUM BFMTV - Pierre-Henri Dumont, porte-parole de Bruno Retailleau, affirme “qu’il y a une angoisse” autour de Parcoursup",
+"link": "https://www.bfmtv.com/politique/video-forum-bfmtv-pierre-henri-dumont-porte-parole-de-bruno-retailleau-affirme-qu-il-y-a-une-angoisse-autour-de-parcoursup_VN-202611110816.html",
+"summary": "VIDÉO - BFMTV propose un nouveau numéro du FORUM BFMTV: “Manifs : face aux violences, comment stopper l’engrenage ?“.",
+"source": "BFMTV",
+"date": "2026-11-11T21:55:29+00:00",
+"added": "2026-11-11T21:59:59+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Pierre-Henri Dumont"
+},
+{
+"id": "456b9f9957bac5e9",
+"title": "«Pour que Jean-Luc Mélenchon qualifie Teddy Riner de \"mec de droite\", c'est qu'il sent le danger», estime le député Modem Richard Ramos",
+"link": "https://www.cnews.fr/france/2026-11-11/pour-que-jean-luc-melenchon-qualifie-teddy-riner-de-mec-de-droite-cest-quil-sent",
+"summary": "",
+"source": "CNews",
+"date": "2026-11-11T21:32:00+00:00",
+"added": "2026-11-11T21:59:59+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"parlement",
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Richard Ramos"
+},
+{
+"id": "bb85d2753e9bc9a9",
+"title": "\"La primaire, c’est deux à trois mois de division\", déplore Maël de Calan, soutien d’Edouard Philippe",
+"link": "https://www.franceinfo.fr/elections/presidentielle/candidats/la-primaire-c-est-deux-a-trois-mois-de-division-deplore-mael-de-calan-soutien-d-edouard-philippe_8278346.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "Une primaire serait un \"suicide collectif\", estime, mercredi sur franceinfo, celui qui est aussi président du conseil départemental du Finistère.",
+"source": "franceinfo",
+"date": "2026-11-11T21:19:49+00:00",
+"added": "2026-11-11T21:59:59+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Maël de Calan"
+},
+{
+"id": "186a0b99010f561a",
+"title": "Présidentielle 2027 : caution universelle, accession à la propriété, l’ordonnance de Gabriel Attal face à la crise du logement",
+"link": "https://www.sudouest.fr/politique/gabriel-attal/presidentielle-2027-caution-universelle-accession-a-la-propriete-l-ordonnance-de-gabriel-attal-face-a-la-crise-du-logement-31482763.php",
+"summary": "",
+"source": "Sud Ouest",
+"date": "2026-11-11T21:16:04+00:00",
+"added": "2026-11-11T21:59:59+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "676ecd0811a0c93f",
+"title": "Primaire du centre et de la droite: \"Une réunion de campagne est prévue mardi avec les équipes de Bruno Retailleau, de David Lisnard et de Gabriel Attal\", explique Céline Géraud, porte-parole de la campagne de Gabriel Attal",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-primaire-du-centre-et-de-la-droite-une-reunion-de-campagne-est-prevue-mardi-avec-les-equipes-de-bruno-retailleau-de-david-lisnard-et-de-gabriel-attal-explique-celine-geraud-porte-parole-de-la-campagne-de-gabriel-attal_VN-202611110755.html",
+"summary": "VIDÉO - Les directeurs de campagne de Gabriel Attal, Bruno Retailleau et David Lisnard vont se réunir le mardi 17 novembre afin de discuter ensemble de l'organisation d'une primaire de la droite et du centre.",
+"source": "BFMTV",
+"date": "2026-11-11T20:06:03+00:00",
+"added": "2026-11-11T21:59:59+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Céline Géraud"
+},
+{
+"id": "8bd7ed0f63ec05b1",
+"title": "Le livre-programme de Jean-Luc Mélenchon pour la présidentielle se vend davantage que le roman de Philippe Jaenada lauréat du prix Goncourt",
+"link": "https://www.franceinfo.fr/culture/livres/le-livre-programme-de-jean-luc-melenchon-attire-plus-de-lecteurs-que-le-laureat-du-goncourt_8278001.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "\"L'Avenir en commun, le programme de la Nouvelle France\", distribué en librairie, était le livre le plus vendu en France la semaine de sa publication, devançant \"L'inconnue du quai de Javel\", mais aussi le nouvel ouvrage de Jordan Bardella.",
+"source": "franceinfo",
+"date": "2026-11-11T20:03:28+00:00",
+"added": "2026-11-11T21:59:59+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "8c97c081bdebeeb8",
+"title": "Présidentielle 2027 : le fisc réclame près de 250.000 euros à une société gérée par Teddy Riner",
+"link": "https://www.cnews.fr/france/2026-11-11/presidentielle-2027-le-fisc-reclame-pres-de-250000-euros-une-societe-geree-par",
+"summary": "L'administration fiscale réclame plus de 244.000 euros à une société gérée par Teddy Riner, candidat déclaré à l'élection présidentielle, dans le cadre d'un nouveau contentieux avec le judoka.",
+"source": "CNews",
+"date": "2026-11-11T20:02:00+00:00",
+"added": "2026-11-11T21:59:59+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "fe19bdd114de448b",
+"title": "Teddy Riner candidat à la présidentielle 2027 : la réponse de Zinédine Zidane",
+"link": "https://www.lefigaro.fr/sports/football/ligue-des-nations/teddy-riner-candidat-a-la-presidentielle-2027-la-reponse-de-zinedine-zidane-20261111",
+"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
+"source": "Le Figaro",
+"date": "2026-11-11T20:01:11+00:00",
+"added": "2026-11-11T21:59:59+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "15802a87e84d74ad",
+"title": "«Je voterai très certainement Marine Le Pen», en cas de second tour face à Jean-Luc Mélenchon, déclare la maire de Romans-sur-Isère",
+"link": "https://www.lefigaro.fr/politique/je-voterai-tres-certainement-marine-le-pen-en-cas-de-second-tour-face-a-jean-luc-melenchon-declare-la-maire-de-romans-sur-isere-20261111",
+"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
+"source": "Le Figaro",
+"date": "2026-11-11T19:56:44+00:00",
+"added": "2026-11-11T21:59:59+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": ""
+},
+{
+"id": "f7a636e0d1930e86",
+"title": "\"Enfin la droite a un candidat qui ressemble à quelque chose\": Jean-Luc Mélenchon réagit à la candidature de Teddy Riner à l'élection présidentielle",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/enfin-la-droite-a-un-candidat-qui-ressemble-a-quelque-chose-jean-luc-melenchon-reagit-a-la-candidature-de-teddy-riner-a-l-election-presidentielle_AD-202611110743.html",
+"summary": "\"Il a de l'allure le gars\". En meeting dans la Creuse ce mercredi 11 novembre, Jean-Luc Mélenchon a réagi à la candidature de Teddy Riner à l'élection présidentielle, estimant qu'\"enfin la droite a un candidat qui ressemble à quelque chose\".",
+"source": "BFMTV",
+"date": "2026-11-11T19:54:42+00:00",
+"added": "2026-11-11T21:59:59+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "Jean-Luc Mélenchon"
+},
+{
 "id": "489c4bcc1b4d16f6",
 "title": "Référendum dans le Donbass : pourquoi la proposition de Jean-Luc Mélenchon fait réagir jusqu’à Kiev",
 "link": "https://www.franceinfo.fr/vrai-ou-fake/referendum-dans-le-donbass-pourquoi-la-proposition-de-jean-luc-melenchon-fait-reagir-jusqu-a-kiev_8278241.html#xtor=RSS-3-%5Bpolitique%5D",
@@ -70,7 +284,9 @@
 "date": "2026-11-11T19:35:51+00:00",
 "added": "2026-11-11T19:46:48+00:00",
 "official": false,
-"also": [],
+"also": [
+"Le Monde"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -176,7 +392,10 @@
 "date": "2026-11-11T19:16:43+00:00",
 "added": "2026-11-11T19:46:48+00:00",
 "official": false,
-"also": [],
+"also": [
+"Le HuffPost",
+"BFMTV"
+],
 "base": [
 "partis"
 ],
@@ -240,7 +459,9 @@
 "date": "2026-11-11T19:10:21+00:00",
 "added": "2026-11-11T19:46:48+00:00",
 "official": false,
-"also": [],
+"also": [
+"CNews"
+],
 "base": [
 "presidentielle"
 ],
@@ -1616,7 +1837,10 @@
 "date": "2026-11-11T12:00:34+00:00",
 "added": "2026-11-11T14:02:09+00:00",
 "official": false,
-"also": [],
+"also": [
+"franceinfo",
+"Franceinfo"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -3917,6 +4141,27 @@
 "Citation"
 ],
 "speaker": "Jordan Bardella"
+},
+{
+"id": "d85b1735f962d424",
+"title": "Jordan Bardella n'est \"pas favorable\" au droit de vote à 16 ans",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-jordan-bardella-n-est-pas-favorable-au-droit-de-vote-a-16-ans_VN-202611100971.html",
+"summary": "VIDÉO - Pouvoir d’achat, immigration, dette, retraites, mobilisation des lycéens, école...Quelles sont les propositions du Rassemblement national à l’approche de l’élection présidentielle?",
+"source": "BFMTV",
+"date": "2026-11-10T21:42:04+00:00",
+"added": "2026-11-11T21:59:59+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
 },
 {
 "id": "a87bb5a8a25b7e27",
@@ -8216,7 +8461,8 @@
 "official": false,
 "also": [
 "La Provence",
-"franceinfo"
+"franceinfo",
+"Sud Ouest"
 ],
 "base": [
 "partis"
@@ -9070,6 +9316,24 @@
 "filtered": true,
 "topics": [
 "parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "c10c7760bff25ee5",
+"title": "Social. Fonction publique : que peuvent attendre les syndicats de leur rencontre avec Sébastien Lecornu vendredi ?",
+"link": "https://www.ledauphine.com/social/2026/11/10/fonction-publique-que-peuvent-attendre-les-syndicats-de-leur-rencontre-avec-sebastien-lecornu-vendredi",
+"summary": "Les représentants de la fonction publique ont été exclus de la conférence sociale organisée lundi par Sébastien Lecornu.",
+"source": "Le Dauphiné Libéré",
+"date": "2026-11-10T05:45:51+00:00",
+"added": "2026-11-11T21:59:59+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee"
 ],
 "natures": [],
 "speaker": ""
@@ -15354,6 +15618,27 @@
 "speaker": ""
 },
 {
+"id": "623259491edf39c1",
+"title": "Raphaël Glucksmann affirme avoir refusé le poste de Premier ministre en 2024 après la dissolution",
+"link": "https://www.liberation.fr/politique/raphael-glucksmann-affirme-avoir-refuse-le-poste-de-premier-ministre-en-2024-20261108_VB6A55NENJCL3BZF43VE646YX4/",
+"summary": "Interrogé sur BFMTV ce dimanche 8 novembre, le candidat social-démocrate à la présidentielle, associé au macronisme par les insoumis, a juré que «depuis dix ans», il avait décliné tous les postes proposés par Emmanuel Macron.",
+"source": "Libération",
+"date": "2026-11-09T05:51:02+00:00",
+"added": "2026-11-11T21:59:59+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement",
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": "Raphaël Glucksmann"
+},
+{
 "id": "4f08047ab1f63da3",
 "title": "Présidentielle 2027 : Édouard Philippe et Raphaël Glucksmann en perte de vitesse, selon un dernier sondage",
 "link": "https://www.cnews.fr/france/2026-11-09/presidentielle-2027-edouard-philippe-et-raphael-glucksmann-en-perte-de-vitesse",
@@ -15957,241 +16242,5 @@
 "Citation"
 ],
 "speaker": "Jérémie Patrier-Leitus"
-},
-{
-"id": "2c123a373fb6a903",
-"title": "«Avec Jean-Luc Mélenchon, tous les journalistes auront une cible dans le dos», craint Julien Odoul",
-"link": "https://www.cnews.fr/videos/france/2026-11-08/avec-jean-luc-melenchon-tous-les-journalistes-auront-une-cible-dans-le-dos",
-"summary": "«Avec Jean-Luc Mélenchon, tous les journalistes auront une cible dans le dos», a craint ce dimanche sur CNEWS Julien Odoul, porte-parole et député RN de l'Yonne.",
-"source": "CNews",
-"date": "2026-11-08T21:39:23+00:00",
-"added": "2026-11-09T06:43:58+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"parlement",
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "70ef113408979967",
-"title": "2027, Mélenchon... Sardou dit tout - 08/11",
-"link": "https://www.bfmtv.com/replay-emissions/100-mabrouk/video-2027-melenchon-sardou-dit-tout-08-11_VN-202611080426.html",
-"summary": "VIDÉO - Retrouvez le replay de 100% Mabrouk sur BFMTV.",
-"source": "BFMTV",
-"date": "2026-11-08T21:17:51+00:00",
-"added": "2026-11-09T06:43:58+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "5494cb1d88812836",
-"title": "«Le gouvernement pourrait baisser la TVA pour calmer la colère sociale», suggère Andréa Kotarac",
-"link": "https://www.cnews.fr/videos/france/2026-11-08/le-gouvernement-pourrait-baisser-la-tva-pour-calmer-la-colere-sociale",
-"summary": "«Le gouvernement pourrait baisser la TVA pour calmer la colère sociale», a proposé ce dimanche sur CNEWS Andréa Kotarac, porte-parole du Rassemblement national.",
-"source": "CNews",
-"date": "2026-11-08T21:08:09+00:00",
-"added": "2026-11-08T21:23:53+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"gouvernement",
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "e37804dd5742015b",
-"title": "La pétition appelant à fermer CNews atteint un million de signatures sur le site de l'Assemblée nationale",
-"link": "https://lcp.fr/actualites/la-petition-appelant-a-fermer-cnews-atteint-un-million-de-signatures-sur-le-site-de-l",
-"summary": "La pétition sur le site de l'Assemblée nationale appelant à fermer Cnews atteint ce dimanche plus d'un million de signataires.",
-"source": "LCP",
-"date": "2026-11-08T21:01:05+00:00",
-"added": "2026-11-08T21:23:53+00:00",
-"official": false,
-"also": [
-"20 Minutes",
-"Le Figaro",
-"Libération",
-"RTL",
-"Nice-Matin",
-"La Nouvelle République",
-"Le Télégramme",
-"Sud Ouest"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "ca93c8b132b93fff",
-"title": "Présidentielle 2027 : Fabien Roussel ira « jusqu’au bout », malgré le ralliement de députés communistes à Mélenchon",
-"link": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/08/presidentielle-2027-fabien-roussel-ira-jusqu-au-bout-malgre-le-ralliement-de-deputes-communistes-a-melenchon_6808471_6205049.html",
-"summary": "Crédité de 2 % à 3 % des intentions de vote, le patron du Parti communiste français « regrette » le choix de neuf députés de son groupe et assure que le chef de file de La France Insoumise « ne gagnera jamais ».",
-"source": "Le Monde",
-"date": "2026-11-08T21:00:53+00:00",
-"added": "2026-11-08T21:23:53+00:00",
-"official": false,
-"also": [
-"Le Figaro",
-"Sud Ouest"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement",
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "6d20d2d182d812a5",
-"title": "«Jean-Luc Mélenchon ne veut pas d'élection, il veut une insurrection», dénonce Jonas Haddad",
-"link": "https://www.cnews.fr/videos/france/2026-11-08/jean-luc-melenchon-ne-veut-pas-delection-il-veut-une-insurrection-denonce",
-"summary": "«Jean-Luc Mélenchon ne veut pas d'élection, il veut une insurrection», a dénoncé ce dimanche sur CNEWS Jonas Haddad, vice-président de la Région Normandie et porte-parole des Républicains.",
-"source": "CNews",
-"date": "2026-11-08T20:24:22+00:00",
-"added": "2026-11-09T06:43:58+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "Jonas Haddad"
-},
-{
-"id": "b22b1aefa72bd99e",
-"title": "Sur l’Ukraine, Jean-Luc Mélenchon s’obstine dans l’erreur",
-"link": "https://www.lanouvellerepublique.fr/a-la-une/sur-l-ukraine-jean-luc-melenchon-s-obstine-dans-l-erreur-1794168859",
-"summary": "Dans son discours du Bourget samedi, point d’orgue d’une séquence consacrée à la présentation du programme des Insoumis à l’élection présidentielle, un élément, en particulier, a retenu l’attention tant il illustre l’égarement dont fait preuve Jean-Luc Mélenchon lorsqu’il est question de l’Ukraine et de son avenir.",
-"source": "La Nouvelle République",
-"date": "2026-11-08T20:14:17+00:00",
-"added": "2026-11-08T21:23:53+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "86f01dfe4bde41ac",
-"title": "Jordan Bardella attendu en Gironde samedi",
-"link": "https://www.sudouest.fr/gironde/jordan-bardella-attendu-en-gironde-samedi-31450592.php",
-"summary": "",
-"source": "Sud Ouest",
-"date": "2026-11-08T20:13:40+00:00",
-"added": "2026-11-08T21:23:53+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "e4b396f396379eab",
-"title": "«Le programme de Jean-Luc Mélenchon est dénué de sens», affirme Hélène Roué",
-"link": "https://www.cnews.fr/videos/france/2026-11-08/le-programme-de-jean-luc-melenchon-est-denue-de-sens-affirme-helene-roue",
-"summary": "«Le programme de Jean-Luc Mélenchon est dénué de sens», a affirmé ce dimanche sur CNEWS la journaliste Hélène Roué.",
-"source": "CNews",
-"date": "2026-11-08T20:11:04+00:00",
-"added": "2026-11-08T21:23:53+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Hélène Roué"
-},
-{
-"id": "7d034641b7536108",
-"title": "[Édito] Jusqu’où ira Mélenchon ?",
-"link": "https://www.letelegramme.fr/opinions/edito-jusquou-ira-melenchon-7155035.php",
-"summary": "",
-"source": "Le Télégramme",
-"date": "2026-11-08T20:00:01+00:00",
-"added": "2026-11-08T21:23:53+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "462c2358e7ba2087",
-"title": "Présidentielle 2027 : Wauquiez pour un seul candidat, Roussel candidat malgré les départs et Glucksmann balance sur 2024",
-"link": "https://www.20minutes.fr/politique/4261353-20261108-presidentielle-2027-wauquiez-seul-candidat-roussel-candidat-malgre-departs-glucksmann-balance-2024?at_medium=display&at_campaign=149",
-"summary": "Vous avez passé un bon dimanche ? On se réjouit pour vous, nous, on a suivi les émissions politiques du jour, lu les pages politiques des quotidiens…",
-"source": "20 Minutes",
-"date": "2026-11-08T19:54:44+00:00",
-"added": "2026-11-08T21:23:53+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
 }
 ]
