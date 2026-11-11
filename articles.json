@@ -1,5 +1,404 @@
 [
 {
+"id": "57bfbf96cbc42ba6",
+"title": "Présidentielle 2027: financements, soutiens, déplacements... Les coulisses de la candidature surprise de Teddy Riner",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/presidentielle-2027-financements-soutiens-deplacements-les-coulisses-de-la-candidature-surprise-de-teddy-riner_AV-202611110354.html",
+"summary": "L'icône du sport français, Teddy Riner, prépare sa candidature surprise à l'élection présidentielle depuis des mois.",
+"source": "BFMTV",
+"date": "2026-11-11T09:45:25+00:00",
+"added": "2026-11-11T09:46:23+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "3bb4a55cae590f23",
+"title": "11 novembre: Sébastien Lecornu arrive sur le lieu des commémorations à Paris",
+"link": "https://www.bfmtv.com/politique/video-11-novembre-sebastien-lecornu-arrive-sur-le-lieu-des-commemorations-a-paris_VN-202611110351.html",
+"summary": "Les dirigeants politiques de tout bord s'apprêtent à commémorer l'armistice ce mercredi 11 novembre, dans un contexte social et budgétaire toujours tendu malgré ce répit accordé par le jour férié.",
+"source": "BFMTV",
+"date": "2026-11-11T09:38:55+00:00",
+"added": "2026-11-11T09:46:23+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "5890131ef0f4ff4d",
+"title": "11 novembre: les dernières commémorations de l'armistice présidées par Emmanuel Macron vont débuter",
+"link": "https://www.bfmtv.com/politique/video-11-novembre-les-dernieres-commemorations-de-l-armistice-presidees-par-emmanuel-macron-vont-debuter_VN-202611110347.html",
+"summary": "Les dirigeants politiques de tout bord s'apprêtent à commémorer l'armistice ce mercredi 11 novembre, dans un contexte social et budgétaire toujours tendu malgré ce répit accordé par le jour férié.",
+"source": "BFMTV",
+"date": "2026-11-11T09:33:24+00:00",
+"added": "2026-11-11T09:46:23+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "87fd7a58eaa1fb9a",
+"title": "Destitution : Pete Hegseth, sauvé par les républicains, obtient un sursis",
+"link": "https://www.lexpress.fr/monde/amerique/destitution-aux-etats-unis-pete-hegseth-sauve-par-les-republicains-obtient-un-sursis-7RTS4SOU3FFHVDINCNFVKCPKPQ/",
+"summary": "Un répit pour Pete Hegseth, mais peut-être pas pour longtemps. La Chambre américaine des représentants, contrôlée par les républicains, a bloqué mardi 10 novembre une démarche destinée à engager une procédure de destitution contre le chef du Pentagone.",
+"source": "L'Express",
+"date": "2026-11-11T09:04:58+00:00",
+"added": "2026-11-11T09:46:23+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "538e51aff91da64a",
+"title": "Appels sur l'actualité - Nigeria : l’opposition sera-t-elle présente à la présidentielle de 2027?",
+"link": "https://www.rfi.fr/fr/podcasts/appels-sur-l-actualit%C3%A9/20261111-nigeria-l-opposition-sera-t-elle-pr%C3%A9sente-%C3%A0-la-pr%C3%A9sidentielle-de-2027",
+"summary": "Au Nigeria, la candidature du principal opposant Atiku Abubakar à la présidentielle de 2027 a été invalidée après une décision de justice visant la direction de son parti, le Congrès démocratique africain (ADC).",
+"source": "RFI",
+"date": "2026-11-11T09:00:50+00:00",
+"added": "2026-11-11T09:46:23+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "0710e26f5de03737",
+"title": "Le « vigilantisme », la violence de citoyens qui entendent se substituer à l’Etat",
+"link": "https://www.lemonde.fr/idees/article/2026/11/11/le-vigilantisme-la-violence-de-citoyens-qui-entendent-se-substituer-a-l-etat_6808948_3232.html",
+"summary": "Le 24 octobre, des militants d’extrême droite, répondant pour certains à l’appel d’un influenceur, prétendaient vouloir défendre les commerces contre les casseurs.",
+"source": "Le Monde",
+"date": "2026-11-11T09:00:07+00:00",
+"added": "2026-11-11T09:46:23+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "c459a7b19affb716",
+"title": "Teddy Riner candidat à la présidentielle 2027 : Philippe Véran, le Provençal qui se cache derrière le judoka",
+"link": "https://www.laprovence.com/article/politique/4599653221250414/teddy-riner-candidat-a-la-presidentielle-2027-philippe-veran-le-provencal-qui-se-cache-derriere-le-judoka",
+"summary": "Philippe Véran lors d’un débat à La Provence en mai dernier. Déjà, les sondeurs se sont mis au travail.",
+"source": "La Provence",
+"date": "2026-11-11T08:50:01+00:00",
+"added": "2026-11-11T09:46:23+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "682cc07946ff722a",
+"title": "Éric Zemmour lancera sa campagne présidentielle par un meeting au Zénith de Toulon",
+"link": "https://www.nicematin.com/societe/politique/eric-zemmour-lancera-sa-campagne-presidentielle-par-un-meeting-au-zenith-de-toulon-10757949",
+"summary": "Le vrai coup d’envoi sera donné dans le Var. Après avoir annoncé officiellement sa candidature à la présidentielle mardi soir sur le plateau du journal de 20 heures de TF1, le président du parti d’extrême droite Reconquête !",
+"source": "Nice-Matin",
+"date": "2026-11-11T08:46:17+00:00",
+"added": "2026-11-11T09:46:23+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Discours"
+],
+"speaker": ""
+},
+{
+"id": "a4af6cd842869284",
+"title": "Lycée: \"Je ne vais pas donner à cette génération (...) un bac au rabais\", affirme Édouard Geffray",
+"link": "https://www.bfmtv.com/politique/video-lycee-je-ne-vais-pas-donner-a-cette-generation-un-bac-au-rabais-affirme-edouard-geffray_VN-202611110322.html",
+"summary": "Édouard Geffray, ministre de l'Éducation nationale, assure sur BFMTV/RMC qu'il n'y a \"aujourd'hui quasiment plus de lycées bloqués\".",
+"source": "BFMTV",
+"date": "2026-11-11T08:43:10+00:00",
+"added": "2026-11-11T09:46:23+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Édouard Geffray"
+},
+{
+"id": "fd4b8b73edd68ea9",
+"title": "Le gouvernement prêt à puiser une nouvelle fois dans les stocks stratégiques pour maintenir les prix à la pompe",
+"link": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/le-gouvernement-pret-a-puiser-une-nouvelle-fois-dans-les-stocks-strategiques-pour-maintenir-les-prix-a-la-pompe_8256619.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "Le prix du gazole recule grâce au déblocage des stocks stratégiques décidé par le gouvernement. Les cours du pétrole sont également en baisse.",
+"source": "franceinfo",
+"date": "2026-11-11T08:37:47+00:00",
+"added": "2026-11-11T09:46:23+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "48dd57ef2c46f6d6",
+"title": "La France \"poursuit pleinement\" sa \"mobilisation\" pour obtenir la libération de Christophe Gleizes assure le ministre délégué chargé de l'Europe",
+"link": "https://www.franceinfo.fr/culture/livres/emprisonnement-du-journaliste-christophe-gleizes-en-algerie/la-france-poursuit-pleinement-sa-mobilisation-pour-obtenir-la-liberation-de-christophe-gleizes-assure-le-ministre-delegue-charge-de-l-europe_8277506.html",
+"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
+"source": "franceinfo",
+"date": "2026-11-11T08:34:40+00:00",
+"added": "2026-11-11T09:46:23+00:00",
+"official": false,
+"also": [],
+"base": [
+"matinales"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"gouvernement"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Christophe Gleizes"
+},
+{
+"id": "bc039cdae2b43762",
+"title": "Colère lycéenne: Édouard Geffray dénonce une \"violence inouïe\" de personnes qui veulent \"détruire l'institution scolaire\"",
+"link": "https://www.bfmtv.com/politique/gouvernement/colere-lyceenne-edouard-geffray-denonce-une-violence-inouie-de-personnes-qui-veulent-detruite-l-institution-scolaire_AV-202611110317.html",
+"summary": "Le ministre de l'Éducation nationale, Édouard Geffray, dénonce sur BFMTV-RMC ce mercredi 11 novembre une \"violence inouïe\" dans quelques lycées sur fond de mobilisation sociale.",
+"source": "BFMTV",
+"date": "2026-11-11T08:33:06+00:00",
+"added": "2026-11-11T09:46:23+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "Édouard Geffray"
+},
+{
+"id": "71a46fb6802aa3b0",
+"title": "Parcours, retraites, rapport à l’extrême droite… Retailleau-Lisnard, le jeu des 7 différences",
+"link": "https://www.leparisien.fr/elections/presidentielle/parcours-retraites-rapport-a-lextreme-droite-retailleau-lisnard-le-jeu-des-7-differences-11-11-2026-6NYTELAVGVEKBO3VNWJSN4LGGU.php",
+"summary": "",
+"source": "Le Parisien",
+"date": "2026-11-11T08:30:00+00:00",
+"added": "2026-11-11T09:46:23+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "cd47cd2114c8a3ff",
+"title": "Le ministre de l'Éducation nationale dénonce \"une violence inouïe\" dans certains lycées",
+"link": "https://www.bfmtv.com/politique/video-le-ministre-de-l-education-nationale-denonce-une-violence-inouie-dans-certains-lycees_VN-202611110316.html",
+"summary": "Édouard Geffray, ministre de l’Éducation nationale, était l’invité du Face-à-Face de ce mercredi 11 novembre sur BFMTV et RMC.",
+"source": "BFMTV",
+"date": "2026-11-11T08:24:48+00:00",
+"added": "2026-11-11T09:46:23+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"gouvernement"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": ""
+},
+{
+"id": "f2b311c9e88a4e68",
+"title": "\"Complément d'enquête\". Gabriel Attal, l'enfant pas si chéri de la Macronie",
+"link": "https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/complement-d-enquete-gabriel-attal-l-enfant-pas-si-cheri-de-la-macronie_8249824.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "Jusqu'à présent, son histoire était celle d'une ascension fulgurante, portée par une communication de choc. \"Complément d’enquête\" sur un ambitieux plus que jamais \"en marche\"... mais qui pourrait être contraint de renoncer à ses ambitions élyséennes.",
+"source": "franceinfo",
+"date": "2026-11-11T08:12:37+00:00",
+"added": "2026-11-11T09:46:23+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "c7148cff8eb98246",
+"title": "À Clermont-Ferrand, Jean-Luc Mélenchon fait salle comble et déroule ses propositions sur la jeunesse et l'éducation",
+"link": "https://www.franceinfo.fr/elections/presidentielle/a-clermont-ferrand-jean-luc-melenchon-fait-salle-comble-et-deroule-ses-propositions-sur-la-jeunesse-et-l-education_8232880.html",
+"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
+"source": "franceinfo",
+"date": "2026-11-11T08:06:09+00:00",
+"added": "2026-11-11T09:46:23+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": "Jean-Luc Mélenchon"
+},
+{
+"id": "d0f7a10560030538",
+"title": "Édouard Geffray, ministre de l’Éducation nationale: \"La radicalité, c'est le berceau de la haine\"",
+"link": "https://www.bfmtv.com/politique/video-edouard-geffray-ministre-de-l-education-nationale-la-radicalite-c-est-le-berceau-de-la-haine_VN-202611110296.html",
+"summary": "Édouard Geffray, ministre de l’Éducation nationale, était l’invité du Face-à-Face de ce mercredi 11 novembre sur BFMTV et RMC.",
+"source": "BFMTV",
+"date": "2026-11-11T08:02:22+00:00",
+"added": "2026-11-11T09:46:23+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"gouvernement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "aa9cb4c9d1e4e72a",
+"title": "Cérémonies de commémoration du 11 novembre:\"Je n'ai eu aucun écho de moments de tensions ou de refus sur le terrain\", confie Édouard Geffray, ministre de l'Éducation nationale",
+"link": "https://www.bfmtv.com/politique/video-ceremonies-de-commemoration-du-11-novembre-je-n-ai-eu-aucun-echo-de-moments-de-tensions-ou-de-refus-sur-le-terrain-confie-edouard-geffray-ministre-de-l-education-nationale_VN-202611110295.html",
+"summary": "Édouard Geffray, ministre de l'Éducation national, était l'invité du Face-à-Face sur BFMTV et RMC ce mercredi 11 novembre 2026.",
+"source": "BFMTV",
+"date": "2026-11-11T08:01:32+00:00",
+"added": "2026-11-11T09:46:23+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"gouvernement"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Édouard Geffray"
+},
+{
+"id": "777888b298da070f",
+"title": "Chômage des jeunes: \"Il y a une espèce de culte des études supérieures\", estime Édouard Geffray, ministre de l'Éducation nationale",
+"link": "https://www.bfmtv.com/politique/video-chomage-des-jeunes-il-y-a-une-espece-de-culte-des-etudes-superieures-estime-edouard-geffray-ministre-de-l-education-nationale_VN-202611110288.html",
+"summary": "Édouard Geffray, ministre de l'Éducation national, était l'invité du Face-à-Face sur BFMTV et RMC ce mercredi 11 novembre 2026.",
+"source": "BFMTV",
+"date": "2026-11-11T07:59:12+00:00",
+"added": "2026-11-11T09:46:23+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"gouvernement"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Édouard Geffray"
+},
+{
+"id": "851409a504722834",
+"title": "Édouard Geffray sur les responsables syndicaux qui ont quitté la première réunion du comité de réforme de Parcoursup: \"Je suis en désaccord profond avec le RN mais ils sont au Parlement\"",
+"link": "https://www.bfmtv.com/politique/video-edouard-geffray-sur-les-responsables-syndicaux-qui-ont-quitte-la-premiere-reunion-du-comite-de-reforme-de-parcoursup-je-suis-en-desaccord-profond-avec-le-rn-mais-ils-sont-au-parlement_VN-202611110285.html",
+"summary": "Édouard Geffray, ministre de l’Éducation nationale, était l’invité du Face-à-Face de ce mercredi 11 novembre sur BFMTV et RMC.",
+"source": "BFMTV",
+"date": "2026-11-11T07:57:24+00:00",
+"added": "2026-11-11T09:46:23+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"gouvernement",
+"parlement",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "08541c148d2e85b0",
 "title": "\"Le lycée Nelson-Mandela à Nantes rouvrira lundi, mais pas l'internat\", annonce Édouard Geffray, ministre de l'Éducation nationale plus d'un mois après l'incendie",
 "link": "https://www.bfmtv.com/politique/video-le-lycee-nelson-mandela-a-nantes-rouvrira-lundi-mais-pas-l-internat-annonce-edouard-geffray-ministre-de-l-education-nationale-plus-d-un-mois-apres-l-incendie_VN-202611110282.html",
@@ -372,6 +771,27 @@
 "speaker": ""
 },
 {
+"id": "8fc9bcbb98487c03",
+"title": "Comment l’aveuglement de Jean-Luc Mélenchon sur l’Ukraine fragilise sa candidature",
+"link": "https://www.huffingtonpost.fr/politique/article/comment-l-aveuglement-de-jean-luc-melenchon-sur-l-ukraine-fragilise-sa-candidature_354984.html",
+"summary": "Les observateurs attentifs de la vie politique connaissent la chorégraphie par cœur. Sur les sujets internationaux, Jean-Luc Mélenchon applique un logiciel jugé en décalage avec la réalité géopolitique.",
+"source": "Le HuffPost",
+"date": "2026-11-11T06:00:00+00:00",
+"added": "2026-11-11T09:46:23+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "6e3733cd1c01a37d",
 "title": "Une proposition pour la France : Raphaël Glucksmann, un million de voitures électriques à 100 euros par mois - 11/11",
 "link": "https://rmc.bfmtv.com/replay-emissions/5-7-le-morning-rmc/video-une-proposition-pour-la-france-raphael-glucksmann-un-million-de-voitures-electriques-a-100-euros-par-mois-11-11_VN-202611110176.html",
@@ -426,7 +846,8 @@
 "Le Parisien",
 "Nice-Matin",
 "Le Télégramme",
-"CNews"
+"CNews",
+"La Croix"
 ],
 "base": [],
 "filtered": true,
@@ -1136,6 +1557,29 @@
 "speaker": "Jordan Bardella"
 },
 {
+"id": "7876349caff5491e",
+"title": "\"Je fermerai les mosquées radicales, j'expulserai les étrangers radicalisés qui diffusent l'idéologie islamiste\", assure Jordan Bardella, président du RN",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-je-fermerai-les-mosquees-radicales-j-expulserai-les-etrangers-radicalises-qui-diffusent-l-ideologie-islamiste-assure-jordan-bardella-president-du-rn_VN-202611100937.html",
+"summary": "VIDÉO - Pouvoir d’achat, immigration, dette, retraites, mobilisation des lycéens, école...Quelles sont les propositions du Rassemblement national à l’approche de l’élection présidentielle?",
+"source": "BFMTV",
+"date": "2026-11-10T21:03:16+00:00",
+"added": "2026-11-11T09:46:23+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Jordan Bardella"
+},
+{
 "id": "f7dd1546304fa2a8",
 "title": "\"Teddy Riner a le droit d'être candidat à la présidentielle, il n'y a pas de problème avec ça\", lance Jordan Bardella, président du RN",
 "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-teddy-riner-a-le-droit-d-etre-candidat-a-la-presidentielle-il-n-y-a-pas-de-probleme-avec-ca-lance-jordan-bardella-president-du-rn_VN-202611100932.html",
@@ -1397,7 +1841,8 @@
 "official": false,
 "also": [
 "La Montagne",
-"franceinfo"
+"franceinfo",
+"Franceinfo"
 ],
 "base": [
 "partis"
@@ -2532,6 +2977,28 @@
 "presidentielle"
 ],
 "natures": [],
+"speaker": ""
+},
+{
+"id": "2c33da9afabe8b59",
+"title": "La pétition contre CNews classée par l'Assemblée nationale : «La démocratie a gagné», affirme un auditeur",
+"link": "https://www.europe1.fr/medias-tele/la-petition-contre-cnews-classee-par-lassemblee-nationale-la-democratie-a-gagne-affirme-un-auditeur-1223087",
+"summary": "La commission des Affaires culturelles de l'Assemblée nationale a décidé ce mardi de classer sans suite la pétition réclamant la suppression de CNews.",
+"source": "Europe 1",
+"date": "2026-11-10T16:40:00+00:00",
+"added": "2026-11-11T09:46:23+00:00",
+"official": false,
+"also": [],
+"base": [
+"parlement"
+],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [
+"Citation"
+],
 "speaker": ""
 },
 {
@@ -3682,7 +4149,9 @@
 "date": "2026-11-10T12:49:13+00:00",
 "added": "2026-11-10T13:58:25+00:00",
 "official": false,
-"also": [],
+"also": [
+"Franceinfo"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -8184,7 +8653,8 @@
 "also": [
 "Le Figaro",
 "Libération",
-"franceinfo"
+"franceinfo",
+"Franceinfo"
 ],
 "base": [],
 "filtered": true,
@@ -9028,7 +9498,8 @@
 "official": false,
 "also": [
 "Ouest-France",
-"RMC"
+"RMC",
+"RFI"
 ],
 "base": [
 "elysee"
@@ -15441,215 +15912,5 @@
 "Citation"
 ],
 "speaker": "Jean-Luc Mélenchon"
-},
-{
-"id": "b725df5e9c1aa1ba",
-"title": "HugoDécrypte met l'Elysée en BD pour rajeunir la politique",
-"link": "https://www.france24.com/fr/info-en-continu/20261108-hugod%C3%A9crypte-met-l-elys%C3%A9e-en-bd-pour-rajeunir-la-politique",
-"summary": "",
-"source": "France 24",
-"date": "2026-11-08T09:32:00+00:00",
-"added": "2026-11-08T11:24:30+00:00",
-"official": false,
-"also": [],
-"base": [
-"elysee"
-],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "9980f79b17dd2087",
-"title": "Revalorisation du Smic, mobilisation sociale, campagne présidentielle de Jean-Luc Mélenchon... Le \"8h30 franceinfo\" d'Antoine Léaument",
-"link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/revalorisation-du-smic-mobilisation-sociale-campagne-presidentielle-de-jean-luc-melenchon-le-8h30-franceinfo-d-antoine-leaument_8232082.html#xtor=RSS-3-%5Bgeneral%5D",
-"summary": "Le député La France insoumise de l'Essonne était l'invité du \"8h30 franceinfo\" dimanche. Il répondait aux questions de Camille Girerd et Benjamin Recouvreur.",
-"source": "franceinfo",
-"date": "2026-11-08T09:27:31+00:00",
-"added": "2026-11-08T09:33:14+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"matinales",
-"parlement",
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "7f95991eb41f5b73",
-"title": "Politique : \"Je n'attends plus grand-chose de ce gouvernement, à part de le remplacer par nous-mêmes\", tacle le député LFI Antoine Léaument",
-"link": "https://www.franceinfo.fr/politique/direct-politique-je-n-attends-plus-grand-chose-de-ce-gouvernement-a-part-de-le-remplacer-par-nous-memes-tacle-le-depute-lfi-antoine-leaument_8273093.html#xtor=RSS-3-%5Bgeneral%5D",
-"summary": "Invité sur franceinfo dimanche, l'élu de l'Essonne plaide aussi pour que le smic soit revalorisé à 1 700 euros net, afin de répondre à la colère sociale.",
-"source": "franceinfo",
-"date": "2026-11-08T09:25:50+00:00",
-"added": "2026-11-08T09:33:14+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement",
-"parlement",
-"partis"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "Antoine Léaument"
-},
-{
-"id": "93a01468f3e744d2",
-"title": "Présidentielle 2027 : au Bourget, Jean-Luc Mélenchon mise sur la rupture pour conquérir l'Elysée",
-"link": "https://www.lexpress.fr/economie/presidentielle-2027-au-bourget-jean-luc-melenchon-mise-sur-la-rupture-pour-conquerir-lelysee-LOUEYCV6DVAEZOJYYRZHQ5V3CI/",
-"summary": "\"Il faut tout changer.\" C'est le message lancé par Jean-Luc Mélenchon devant tous ses partisans, samedi 7 novembre, au parc des expositions du Bourget.",
-"source": "L'Express",
-"date": "2026-11-08T09:13:08+00:00",
-"added": "2026-11-08T09:33:14+00:00",
-"official": false,
-"also": [
-"BFMTV",
-"TF1 Info",
-"La Nouvelle République",
-"CNews"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "749a851af0706a49",
-"title": "Présidentielle : contraint de quitter le cortège parisien jeudi, Raphaël Glucksmann affirme qu'il retournera aux prochaines manifestations de l'intersyndicale",
-"link": "https://www.franceinfo.fr/politique/direct-politique-je-n-attends-plus-grand-chose-de-ce-gouvernement-a-part-de-le-remplacer-par-nous-memes-tacle-le-depute-lfi-antoine-leaument_8273093.html",
-"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
-"source": "franceinfo",
-"date": "2026-11-08T08:59:04+00:00",
-"added": "2026-11-09T06:43:58+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": "Raphaël Glucksmann"
-},
-{
-"id": "17109b2d6bccc07a",
-"title": "La popularité d’Emmanuel Macron dégringole et établit un nouveau record à la baisse depuis 2017",
-"link": "https://www.huffingtonpost.fr/politique/article/la-popularite-d-emmanuel-macron-degringole-et-etablit-un-nouveau-record-a-la-baisse-depuis-2017_352937.html",
-"summary": "Il touche le fond. Jamais depuis son arrivée à l’Élysée, Emmanuel Macron n’a été aussi impopulaire. La vague de novembre du baromètre que YouGov réalise chaque mois pour Le HuffPost fait apparaître une chute de sept points de la popularité du président de la République.",
-"source": "Le HuffPost",
-"date": "2026-11-08T08:55:09+00:00",
-"added": "2026-11-08T09:33:14+00:00",
-"official": false,
-"also": [],
-"base": [
-"elysee"
-],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "04b164d1ae0bd1e1",
-"title": "En dessous de 1 700 euros net, toute revalorisation du Smic équivaudrait à \"des miettes accordées par des gens qui ont distribué des milliards aux plus riches\", déclare le député LFI Antoine Léaument",
-"link": "https://www.franceinfo.fr/economie/entreprises/en-dessous-de-1-700-euros-net-toute-revalorisation-du-smic-equivaudrait-a-des-miettes-accordees-par-des-gens-qui-ont-distribues-des-milliards-aux-plus-riches-declare-le-depute-lfi-antoine-leaument_8273108.html#xtor=RSS-3-%5Bgeneral%5D",
-"summary": "Le député La France insoumise de l'Essonne affirme que \"ce qui s'est passé dans les années précédentes avec Emmanuel Macron, c'est un appauvrissement généralisé de la population.\"",
-"source": "franceinfo",
-"date": "2026-11-08T08:49:59+00:00",
-"added": "2026-11-08T09:33:14+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"parlement",
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Antoine Léaument"
-},
-{
-"id": "f4317d52f791fb0e",
-"title": "Hausse du Smic : jusqu’à 700 € de plus, « mauvaise piste »… Que proposent les candidats à la présidentielle ?",
-"link": "https://www.ouest-france.fr/economie/pouvoir-d-achat/hausse-du-smic-jusqua-700-euros-de-plus-mauvaise-piste-que-proposent-les-candidats-a-la-presidentielle-9dfbeee8-db42-11f1-81f5-8e32b0872d76",
-"summary": "",
-"source": "Ouest-France",
-"date": "2026-11-08T08:47:19+00:00",
-"added": "2026-11-08T09:33:14+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "775c5edb75cc490b",
-"title": "\"On me demande de mettre de l'eau dans mon vin, je ne le ferai pas\"",
-"link": "https://www.franceinfo.fr/politique/melenchon/on-me-demande-de-mettre-de-l-eau-dans-mon-vin-je-ne-le-ferai-pas_8273105.html#xtor=RSS-3-%5Bgeneral%5D",
-"summary": "A six mois de la présidentielle, Jean-Luc Mélenchon a tenu un meeting au Parc des expositions du Bourget (Seine-Saint-Denis), samedi 7 novembre. “Nous sommes en train d’ouvrir le chemin d’un grand changement politique”, a-t-il lancé au début de sa prise de parole.",
-"source": "franceinfo",
-"date": "2026-11-08T08:38:36+00:00",
-"added": "2026-11-08T09:33:14+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "73ac104b7ff63979",
-"title": "L'édito de Soazig Quemener: Raphaël Glucksmann lancera véritablement sa campagne en décembre",
-"link": "https://rmc.bfmtv.com/actualites/societe/video-l-edito-de-soazig-quemener-raphael-glucksmann-lancera-veritablement-sa-campagne-en-decembre_VN-202611080129.html",
-"summary": "VIDÉO - Samedi et dimanche de 7h à 9h, Anaïs Castagna n’a pas besoin de forcer la bonne humeur, chez elle c’est naturel !",
-"source": "RMC",
-"date": "2026-11-08T08:16:41+00:00",
-"added": "2026-11-08T09:33:14+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
 }
 ]
