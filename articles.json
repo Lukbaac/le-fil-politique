@@ -1,12 +1,96 @@
 [
 {
-"id": "6c719aa0795f630c",
-"title": "Présidentielle 2027 : \"On m’a cherché noise sur le sujet\"… Jean-Luc Mélenchon revient sur prise de position sur l’Ukraine",
-"link": "https://www.midilibre.fr/2026/11/11/presidentielle-2027-on-ma-cherche-noise-sur-le-sujet-jean-luc-melenchon-revient-sur-prise-de-position-sur-lukraine-13647261.php",
-"summary": "Jean-Luc Mélenchon, critiqué pour ses propos sur un référendum dans le Donbass, a réaffirmé mercredi que toute modification de frontière doit être validée par les populations concernées.",
-"source": "Midi Libre",
-"date": "2026-11-11T13:57:00+00:00",
-"added": "2026-11-11T14:02:09+00:00",
+"id": "e76e7a31ef00ab46",
+"title": "Sophie de Menthon : « Lettre ouverte aux enfants gâtés qui votent Mélenchon et à leurs parents »",
+"link": "https://www.lefigaro.fr/vox/politique/sophie-de-menthon-lettre-ouverte-aux-enfants-gates-qui-votent-melenchon-et-a-leurs-parents-20261111",
+"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
+"source": "Le Figaro",
+"date": "2026-11-11T14:58:02+00:00",
+"added": "2026-11-11T15:36:58+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation",
+"Tribune"
+],
+"speaker": "Sophie de Menthon"
+},
+{
+"id": "db1a290e824b2d69",
+"title": "Commémorations du 11-Novembre : Ultime remontée des Champs-Élysées pour Emmanuel Macron en président",
+"link": "https://www.20minutes.fr/politique/4262188-20261111-commemorations-11-novembre-ultime-remontee-champs-elysees-emmanuel-macron-president?at_medium=display&at_campaign=149",
+"summary": "C’était ses dernières commémorations de l’Armistice. Emmanuel Macron a présidé mercredi son ultime cérémonie à Paris en tant que chef de l’État, tandis que les candidats à sa succession ont affiché leurs positions.",
+"source": "20 Minutes",
+"date": "2026-11-11T14:54:12+00:00",
+"added": "2026-11-11T15:36:58+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "fd2a3d1b649f0ef1",
+"title": "« À qui voulez-vous faire la guerre ? » : l’Allemagne veut avoir l’armée la plus puissante d’Europe, Mélenchon « n’accepte pas l’idée »",
+"link": "https://www.leparisien.fr/elections/presidentielle/a-qui-voulez-vous-faire-la-guerre-lallemagne-veut-avoir-larmee-la-plus-puissante-deurope-melenchon-naccepte-pas-lidee-11-11-2026-SZQTXKJ43NFLVB5C4FWUD3VXCM.php",
+"summary": "",
+"source": "Le Parisien",
+"date": "2026-11-11T14:33:44+00:00",
+"added": "2026-11-11T15:36:58+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": ""
+},
+{
+"id": "ed89cdbc07c0a359",
+"title": "Serge Papin avait affirmé que le gouvernement débloquerait de nouveaux stocks de carburant \"s'il le faut\": le cabinet du ministre du Commerce rectifie ses propos et assure que cette mesure \"n'est pas à l'ordre du jour\"",
+"link": "https://www.bfmtv.com/economie/entreprises/energie/serge-papin-avait-affirme-que-le-gouvernement-debloquerait-de-nouveaux-stocks-de-carburant-s-il-le-faut-le-cabinet-du-ministre-du-commerce-rectifie-ses-propos-et-assure-que-cette-mesure-n-est-pas-a-l-ordre-du-jour_AD-202611110536.html",
+"summary": "Le cabinet du ministre du Commerce et des PME, Serge Papin, a nuancé mercredi des propos tenus mardi par le ministre, à savoir que le gouvernement français \"continuera s'il le faut\" à débloquer une partie de ses réserves stratégiques de carburant, une mesure qui, selon son cabinet, n'est \"pas à l'ordre du jour\".",
+"source": "BFMTV",
+"date": "2026-11-11T14:27:50+00:00",
+"added": "2026-11-11T15:36:58+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [
+"Citation"
+],
+"speaker": ""
+},
+{
+"id": "719f555c76864fbf",
+"title": "\"On ne vous demande pas de vous marier avec!\": le message de Manon Aubry aux électeurs de gauche rebutés par Jean-Luc Mélenchon",
+"link": "https://rmc.bfmtv.com/actualites/politique/on-ne-vous-demande-pas-de-vous-marier-avec-le-message-de-manon-aubry-aux-electeurs-de-gauche-rebutes-par-jean-luc-melenchon_AV-202611110533.html",
+"summary": "La dynamique de Jean-Luc Mélenchon dans les sondages se poursuit, le candidat insoumis apparaît de plus en plus capable de se qualifier au second tour de la présidentielle, face à Marine Le Pen.",
+"source": "RMC",
+"date": "2026-11-11T14:20:13+00:00",
+"added": "2026-11-11T15:36:58+00:00",
 "official": false,
 "also": [],
 "base": [
@@ -19,6 +103,93 @@
 ],
 "natures": [],
 "speaker": ""
+},
+{
+"id": "6595d8f0091b28c7",
+"title": "Présidentielle 2027 : chez Teddy Riner, c’est la parole très à droite qui fait peur",
+"link": "https://www.liberation.fr/idees-et-debats/tribunes/presidentielle-2027-chez-teddy-riner-cest-la-parole-tres-a-droite-qui-fait-peur-20261111_OE3UN5N2KVBDHJQPVYBEPOLPDA/",
+"summary": "",
+"source": "Libération",
+"date": "2026-11-11T14:15:00+00:00",
+"added": "2026-11-11T15:36:58+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "ced737adfc78391b",
+"title": "Présidentielle 2027 : la députée de Martinique Béatrice Bellay « rétropédale » sur son parrainage évoqué à Teddy Riner",
+"link": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-la-deputee-de-martinique-beatrice-bellay-retropedale-sur-son-parrainage-evoque-a-teddy-riner-11-11-2026-CWQGLKKAJNGSRKLCBJ2PC2KPVA.php",
+"summary": "",
+"source": "Le Parisien",
+"date": "2026-11-11T14:04:53+00:00",
+"added": "2026-11-11T15:36:58+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"parlement",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "6c719aa0795f630c",
+"title": "Présidentielle 2027 : \"On m’a cherché noise sur le sujet\"… Jean-Luc Mélenchon revient sur prise de position sur l’Ukraine",
+"link": "https://www.midilibre.fr/2026/11/11/presidentielle-2027-on-ma-cherche-noise-sur-le-sujet-jean-luc-melenchon-revient-sur-prise-de-position-sur-lukraine-13647261.php",
+"summary": "Jean-Luc Mélenchon, critiqué pour ses propos sur un référendum dans le Donbass, a réaffirmé mercredi que toute modification de frontière doit être validée par les populations concernées.",
+"source": "Midi Libre",
+"date": "2026-11-11T13:57:00+00:00",
+"added": "2026-11-11T14:02:09+00:00",
+"official": false,
+"also": [
+"20 Minutes"
+],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "5c00d1d9930a1f5a",
+"title": "« Il faut demander aux populations » : accusé de complaisance envers la Russie, Jean-Luc Mélenchon défend sa position sur l’Ukraine",
+"link": "https://www.leparisien.fr/elections/presidentielle/il-faut-demander-aux-populations-accuse-de-complaisance-envers-la-russie-jean-luc-melenchon-defend-sa-position-sur-lukraine-11-11-2026-MEUUSG37I5H5RLAKP5MYC364II.php",
+"summary": "",
+"source": "Le Parisien",
+"date": "2026-11-11T13:55:44+00:00",
+"added": "2026-11-11T15:36:58+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "Jean-Luc Mélenchon"
 },
 {
 "id": "9844349b5af92db9",
@@ -68,7 +239,10 @@
 "date": "2026-11-11T13:37:26+00:00",
 "added": "2026-11-11T14:02:09+00:00",
 "official": false,
-"also": [],
+"also": [
+"Le Monde",
+"Libération"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -206,7 +380,10 @@
 "date": "2026-11-11T12:38:09+00:00",
 "added": "2026-11-11T14:02:09+00:00",
 "official": false,
-"also": [],
+"also": [
+"La Croix",
+"20 Minutes"
+],
 "base": [
 "presidentielle"
 ],
@@ -444,7 +621,9 @@
 "date": "2026-11-11T11:53:59+00:00",
 "added": "2026-11-11T14:02:09+00:00",
 "official": false,
-"also": [],
+"also": [
+"France 24"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -486,7 +665,8 @@
 "added": "2026-11-11T14:02:09+00:00",
 "official": false,
 "also": [
-"CNews"
+"CNews",
+"franceinfo"
 ],
 "base": [],
 "filtered": true,
@@ -570,7 +750,8 @@
 "official": false,
 "also": [
 "Le Monde",
-"La Provence"
+"La Provence",
+"Le Parisien"
 ],
 "base": [],
 "filtered": true,
@@ -700,7 +881,8 @@
 "also": [
 "La Croix",
 "TF1 Info",
-"Le Parisien"
+"Le Parisien",
+"Ouest-France"
 ],
 "base": [
 "presidentielle"
@@ -1951,7 +2133,9 @@
 "CNews",
 "La Croix",
 "franceinfo",
-"Franceinfo"
+"Franceinfo",
+"Le Monde",
+"France 24"
 ],
 "base": [],
 "filtered": true,
@@ -2722,6 +2906,26 @@
 "Citation"
 ],
 "speaker": "Jordan Bardella"
+},
+{
+"id": "ed140b04ff30c035",
+"title": "Remise du rapport du Conseil consultatif pour l'égalité de genre.",
+"link": "https://www.elysee.fr/emmanuel-macron/2026/11/10/remise-du-rapport-du-conseil-consultatif-pour-legalite-de-genre",
+"summary": "En marge du Forum de Paris pour la Paix, les expertes et experts indépendants du Conseil consultatif pour l'égalité de genre (Gender Equality Advisory Council – GEAC) ont remis au Président leur rapport intitulé « Repenser les enjeux démographiques sous un angle féministe », dans le cadre de la Présidence française du…",
+"source": "Élysée",
+"date": "2026-11-10T21:05:00+00:00",
+"added": "2026-11-11T15:36:58+00:00",
+"official": true,
+"also": [],
+"base": [
+"elysee"
+],
+"filtered": false,
+"topics": [
+"elysee"
+],
+"natures": [],
+"speaker": ""
 },
 {
 "id": "4252ec05026cd87f",
@@ -3686,6 +3890,26 @@
 "speaker": ""
 },
 {
+"id": "356fa4cd5b252fea",
+"title": "Charte d’engagement pour une intelligence artificielle plus sûre pour les enfants.",
+"link": "https://www.elysee.fr/emmanuel-macron/2026/11/10/charte-dengagement-pour-une-intelligence-artificielle-plus-sure-pour-les-enfants",
+"summary": "L’intelligence artificielle générative fait son entrée dans des environnements essentiels au développement des enfants, notamment l’éducation, le jeu, la communication, la recherche d’informations, la création, le soutien émotionnel et la vie familiale.",
+"source": "Élysée",
+"date": "2026-11-10T18:25:00+00:00",
+"added": "2026-11-11T15:36:58+00:00",
+"official": true,
+"also": [],
+"base": [
+"elysee"
+],
+"filtered": false,
+"topics": [
+"elysee"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "66b19a7d31efb2f5",
 "title": "\"La violence n’a pas sa place en démocratie\": Emmanuel Macron apporte son soutien à l'élue agressée devant un lycée à Chelles",
 "link": "https://www.bfmtv.com/politique/elysee/la-violence-n-a-pas-sa-place-en-democratie-emmmanuel-macron-apporte-son-soutien-a-l-elue-agressee-devant-un-lycee-a-chelles_AD-202611100809.html",
@@ -3929,6 +4153,27 @@
 "speaker": ""
 },
 {
+"id": "e143984f090ba2a2",
+"title": "\"Il n'y a pas de discrimination en France\" : pourquoi Marine Le Pen se trompe (encore) ?",
+"link": "https://www.nouvelobs.com/videos/xbvjt96.DMT/il-n-y-a-pas-de-discrimination-en-france-pourquoi-marine-le-pen-se-trompe-encore.html",
+"summary": "Vidéo Invitée de l'émission \"60 Minutes\" de la chaîne américaine CBS, Marine Le Pen décide d'attaquer les étrangers qui ne travaillent pas, en affirmant que la discrimination n'existe pas en France et que c'est le pays le moins raciste du monde.",
+"source": "Le Nouvel Obs",
+"date": "2026-11-10T17:39:09+00:00",
+"added": "2026-11-11T15:36:58+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "a2820c6b5c19c59a",
 "title": "Protéger les enfants des dangers de l'IA, \"sans attendre 15 ans\": le plan d'Emmanuel Macron pour la législation européenne",
 "link": "https://www.bfmtv.com/tech/actualites/proteger-les-enfants-des-dangers-de-l-ia-sans-attendre-15-ans-le-plan-d-emmanuel-macron-pour-la-legislation-europeenne_AV-202611100757.html",
@@ -3987,6 +4232,26 @@
 "filtered": true,
 "topics": [
 "partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "9ba593ac9bd244c5",
+"title": "Le groupe de pilotage franco-britannique sur le nucléaire fait avancer les travaux dans le cadre de la Déclaration de Northwood.",
+"link": "https://www.elysee.fr/emmanuel-macron/2026/11/10/le-groupe-de-pilotage-franco-britannique-sur-le-nucleaire-fait-avancer-les-travaux-dans-le-cadre-de-la-declaration-de-northwood",
+"summary": "Des hauts responsables et des personnels militaires français et britanniques se sont réunis à Londres afin de faire progresser la coopération nucléaire issue de la Déclaration de Northwood.",
+"source": "Élysée",
+"date": "2026-11-10T17:25:00+00:00",
+"added": "2026-11-11T15:36:58+00:00",
+"official": true,
+"also": [],
+"base": [
+"elysee"
+],
+"filtered": false,
+"topics": [
+"elysee"
 ],
 "natures": [],
 "speaker": ""
@@ -4238,6 +4503,27 @@
 "speaker": ""
 },
 {
+"id": "e2330e065be78dd9",
+"title": "Compte rendu du Conseil des ministres du 10 novembre 2026.",
+"link": "https://www.elysee.fr/emmanuel-macron/2026/11/10/compte-rendu-du-conseil-des-ministres-du-10-novembre-2026",
+"summary": "Retrouvez le compte rendu du Conseil des ministres du mardi 10 novembre 2026.",
+"source": "Élysée",
+"date": "2026-11-10T16:35:00+00:00",
+"added": "2026-11-11T15:36:58+00:00",
+"official": true,
+"also": [],
+"base": [
+"elysee"
+],
+"filtered": false,
+"topics": [
+"elysee",
+"gouvernement"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "2c26269a122a0d96",
 "title": "INFO RTL - Présidentielle 2027 : le programme de Mélenchon cartonne en librairie, loin devant le nouveau livre de Bardella",
 "link": "https://www.rtl.fr/actu/politique/info-rtl-presidentielle-2027-le-programme-de-melenchon-cartonne-en-librairie-loin-devant-le-nouveau-livre-de-bardella-7900694934",
@@ -4312,6 +4598,26 @@
 "filtered": true,
 "topics": [
 "presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "a620b06dbe46d393",
+"title": "9ème édition du Forum de Paris sur la Paix.",
+"link": "https://www.elysee.fr/emmanuel-macron/2026/11/10/9eme-edition-du-forum-de-paris-sur-la-paix",
+"summary": "Le Président Emmanuel Macron a participé à la 9e édition du Forum de Paris sur la Paix, les lundi 9 et mardi 10 novembre 2026 au Palais de Chaillot à Paris.",
+"source": "Élysée",
+"date": "2026-11-10T16:15:00+00:00",
+"added": "2026-11-11T15:36:58+00:00",
+"official": true,
+"also": [],
+"base": [
+"elysee"
+],
+"filtered": false,
+"topics": [
+"elysee"
 ],
 "natures": [],
 "speaker": ""
@@ -4481,6 +4787,26 @@
 "natures": [
 "Réaction"
 ],
+"speaker": ""
+},
+{
+"id": "f1cd387e09002463",
+"title": "Disparition de Solange Alexandre.",
+"link": "https://www.elysee.fr/emmanuel-macron/2026/11/10/disparition-de-solange-alexandre",
+"summary": "Toute sa vie durant, Solange Alexandre s’est fait une certaine idée de l’honneur. Résistante du premier jour sous le nom de « Corlay », fondatrice et cheffe d’un Maquis en Sarthe, elle s’est éteinte à l’âge de 104 ans, offrant à la France libre le devoir de poursuivre son combat de liberté.",
+"source": "Élysée",
+"date": "2026-11-10T15:45:00+00:00",
+"added": "2026-11-11T15:36:58+00:00",
+"official": true,
+"also": [],
+"base": [
+"elysee"
+],
+"filtered": false,
+"topics": [
+"elysee"
+],
+"natures": [],
 "speaker": ""
 },
 {
@@ -6712,7 +7038,10 @@
 "date": "2026-11-10T08:00:00+00:00",
 "added": "2026-11-11T14:02:09+00:00",
 "official": false,
-"also": [],
+"also": [
+"La Provence",
+"franceinfo"
+],
 "base": [
 "partis"
 ],
@@ -7544,6 +7873,24 @@
 "filtered": true,
 "topics": [
 "parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "afbcee4c4a386541",
+"title": "Les mesures annoncées par Lecornu ne suffisent pas à éteindre la colère (et il le sait)",
+"link": "https://www.huffingtonpost.fr/politique/article/la-hausse-du-smic-et-les-autres-mesures-annoncees-par-sebastien-lecornu-ne-suffisent-pas-a-eteindre-la-colere-et-il-le-sait_354393.html",
+"summary": "Les semaines se suivent et se ressemblent. Ce mardi, les enseignants, les lycéens et les étudiants sont appelés à descendre une nouvelle fois dans la rue pour exiger davantage de moyens dans l’Éducation nationale.",
+"source": "Le HuffPost",
+"date": "2026-11-10T05:45:07+00:00",
+"added": "2026-11-11T15:36:58+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee"
 ],
 "natures": [],
 "speaker": ""
@@ -15596,499 +15943,6 @@
 "natures": [
 "Discours"
 ],
-"speaker": ""
-},
-{
-"id": "cc6f6aef045541eb",
-"title": "Hausse du Smic : \"Beaucoup de petites entreprises ne peuvent pas se le permettre\", estime Jordan Bardella, président du RN",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-hausse-du-smic-beaucoup-de-petites-entreprises-ne-peuvent-pas-se-le-permettre-estime-jordan-bardella-president-du-rn_VN-202611080318.html",
-"summary": "Plusieurs candidats à la présidentielle, Édouard Philippe (Horizons), Bruno Retailleau (LR), Gabriel Attal (Renaissance) et David Lisnard (Nouvelle Énergie) sont attendus aux Rencontres de l'Avenir dans le Var pour débattre.",
-"source": "BFMTV",
-"date": "2026-11-08T15:35:23+00:00",
-"added": "2026-11-08T17:22:51+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Hausse du Smic"
-},
-{
-"id": "01d191fa95edb090",
-"title": "Présidentielle 2027 : les insoumis se disent prêts à gouverner par décrets s’ils arrivent au pouvoir, au nom de «l’état d’urgence sociale»",
-"link": "https://www.liberation.fr/politique/elections/presidentielle-2027-les-insoumis-se-disent-prets-a-gouverner-par-decrets-sils-arrivent-au-pouvoir-au-nom-de-letat-durgence-sociale-20261108_K6MFRAEQXVFBDO5K26QTLCRUKE/",
-"summary": "Au lendemain du meeting du Bourget, Manuel Bompard et Clémence Guetté ont détaillé ce qu’un gouvernement LFI ferait dans les jours suivant l’élection.",
-"source": "Libération",
-"date": "2026-11-08T15:34:58+00:00",
-"added": "2026-11-08T17:22:51+00:00",
-"official": false,
-"also": [
-"La Nouvelle République"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement",
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "1364048aa947b26b",
-"title": "\"Pour augmenter les salaires, il faut qu'on crée plus de richesses\", assure Arnaud Péricard, porte-parole d'Horizons",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-pour-augmenter-les-salaires-il-faut-qu-on-cree-plus-de-richesses-assure-arnaud-pericard-porte-parole-d-horizons_VN-202611080315.html",
-"summary": "À la veille de la conférence sociale à Matignon, le ministre du Travail Jean-Pierre Farandou se dit favorable à une hausse du Smic au-delà de 1.500 euros net, mais met en garde contre les conséquences d’une revalorisation trop importante sur l’emploi.",
-"source": "BFMTV",
-"date": "2026-11-08T15:32:24+00:00",
-"added": "2026-11-08T17:22:51+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement",
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Arnaud Péricard"
-},
-{
-"id": "a3da1323dadadb42",
-"title": "Pour Nathalie Arthaud, candidate Lutte Ouvrière à la présidentielle, il faut \"un minimum de 2.200 euros net\" pour vivre",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-pour-nathalie-arthaud-candidate-lutte-ouvriere-a-la-presidentielle-il-faut-un-minimum-de-2-200-euros-net-pour-vivre_VN-202611080316.html",
-"summary": "À la veille de la conférence sociale à Matignon, le ministre du Travail Jean-Pierre Farandou se dit favorable à une hausse du Smic au-delà de 1.500 euros net, mais met en garde contre les conséquences d’une revalorisation trop importante sur l’emploi.",
-"source": "BFMTV",
-"date": "2026-11-08T15:31:15+00:00",
-"added": "2026-11-08T17:22:51+00:00",
-"official": false,
-"also": [
-"Ouest-France"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Nathalie Arthaud"
-},
-{
-"id": "3ed90f180feddaf6",
-"title": "Présidentielle 2027 : la surpuissance Mélenchon sur les réseaux sociaux",
-"link": "https://www.valeursactuelles.com/politique/presidentielle-2027-sur-les-reseaux-sociaux-les-chiffres-de-la-surpuissance-de-jean-luc-melenchon",
-"summary": "Du 9 octobre au 7 novembre, les publications de Jean-Luc Mélenchon ont concentré 25,4 % des likes, commentaires et partages recueillis par les 35 personnalités suivies dans l’observatoire présidentiel du cabinet Saper Vedere.",
-"source": "Valeurs actuelles",
-"date": "2026-11-08T15:30:37+00:00",
-"added": "2026-11-08T17:22:51+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "923a2c7f7e0b132c",
-"title": "« Ce pays dont le prince est un enfant », de Catherine Nay : Manu avant Macron",
-"link": "https://www.latribune.fr/article/la-tribune-dimanche/culture-lifestyle/livres/1061934646233714/ce-pays-dont-le-prince-est-un-enfant-de-catherine-nay-manu-avant-macron",
-"summary": "Emmanuel Macron, de l’enfance à l’Élysée : Catherine Nay enquête sur les ressorts d’un parcours unique.",
-"source": "La Tribune",
-"date": "2026-11-08T15:30:02+00:00",
-"added": "2026-11-10T13:58:25+00:00",
-"official": false,
-"also": [],
-"base": [
-"elysee"
-],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "7793ea848e7fd15f",
-"title": "Domicile d'un policier incendié dans le Gers: \"Aller attaquer quelqu'un chez lui, c'est extrêmement grave\", déclare Jean-René Cazeneuve, député EPR du département",
-"link": "https://www.bfmtv.com/politique/video-domicile-d-un-policier-incendie-dans-le-gers-aller-attaquer-quelqu-un-chez-lui-c-est-extremement-grave-declare-jean-rene-cazeneuve-depute-epr-du-departement_VN-202611080313.html",
-"summary": "Le domicile d'un policier d'Auch, a été incendié samedi 7 novembre, selon le ministre de l'Intérieur Laurent Nuñez, pour qui cet agent a été visé en raison de sa profession.",
-"source": "BFMTV",
-"date": "2026-11-08T15:29:23+00:00",
-"added": "2026-11-08T17:22:51+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement",
-"parlement"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jean-René Cazeneuve"
-},
-{
-"id": "172aab927c78a6f6",
-"title": "Présidentielle 2027 : en cas d'élection de Jean-Luc Mélenchon, LFI appliquerait des décrets immédiats",
-"link": "https://www.cnews.fr/france/2026-11-08/presidentielle-2027-en-cas-delection-de-jean-luc-melenchon-lfi-appliquerait-des",
-"summary": "En cas de victoire à l'élection présidentielle de 2027, La France Insoumise (LFI) prévoit d'instaurer immédiatement un «état d'urgence sociale» pour gouverner par décrets.",
-"source": "CNews",
-"date": "2026-11-08T15:28:52+00:00",
-"added": "2026-11-08T17:22:51+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "6bf8efb31115df69",
-"title": "Syndicats à Matignon, grève dans l'éducation… Une nouvelle semaine qui s'annonce tendue sur le front social",
-"link": "https://www.tf1info.fr/politique/syndicats-a-matignon-greve-dans-l-education-une-nouvelle-semaine-qui-s-annonce-tendue-sur-le-front-social-2474618.html",
-"summary": "Lycées, facs, gilets jaunes… Une France entre colère sociale et violences urbaines\nL'agenda social toujours chargé.",
-"source": "TF1 Info",
-"date": "2026-11-08T15:27:03+00:00",
-"added": "2026-11-08T17:22:51+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [
-"Annonce"
-],
-"speaker": ""
-},
-{
-"id": "e1a982014d708123",
-"title": "\"Un candidat sincère\" : à Montluçon, les Républicains de l'Allier affichent leur soutien à Bruno Retailleau",
-"link": "https://www.lamontagne.fr/montlucon-03100/actualites/un-candidat-sincere-a-montlucon-les-republicains-de-l-allier-affichent-leur-soutien-a-bruno-retailleau_15077724/",
-"summary": "",
-"source": "La Montagne",
-"date": "2026-11-08T15:05:00+00:00",
-"added": "2026-11-08T15:23:25+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "f69fe6aac734bb69",
-"title": "Présidentielle 2027 : Wauquiez réclame un \"candidat unique\" de la droite et une \"rupture avec le macronisme\"",
-"link": "https://www.laprovence.com/article/elections/2696067076250914/presidentielle-2027-wauquiez-reclame-un-candidat-unique-de-la-droite-et-une-rupture-avec-le-macronisme",
-"summary": "Lauren Wauquiez souhaite une entente en Bruno Retailleau, David Lisnad et Édouard Philippe notamment pour avoir un candidat unique à droite.",
-"source": "La Provence",
-"date": "2026-11-08T15:04:11+00:00",
-"added": "2026-11-08T15:23:25+00:00",
-"official": false,
-"also": [
-"Le Figaro",
-"CNews",
-"TF1 Info"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Laurent Wauquiez"
-},
-{
-"id": "e6c180f824bf42cb",
-"title": "Bruno Retailleau",
-"link": "https://www.bfmtv.com/politique/gouvernement/bruno-retailleau_DN-202410030418.html",
-"summary": "Bruno Retailleau est le candidat des Républicains pour l'élection présidentielle de 2027. Avant cela, il a notamment été nommé ministre de l’Intérieur du gouvernement de Michel Barnier le 22 septembre 2024.",
-"source": "BFMTV",
-"date": "2026-11-08T15:01:56+00:00",
-"added": "2026-11-08T15:23:25+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "50149ba734dfdff1",
-"title": "Laurent Wauquiez",
-"link": "https://www.bfmtv.com/politique/laurent-wauquiez_DN-202108310696.html",
-"summary": "Laurent Wauquiez a solennellement demandé ce dimanche 8 novembre que les \"candidats déclarés de la droite\" s'accordent \"avant Noël\" sur un \"candidat unique\" pour l'élection présidentielle.",
-"source": "BFMTV",
-"date": "2026-11-08T15:01:56+00:00",
-"added": "2026-11-08T15:23:25+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "497f6233d8e48ad1",
-"title": "Tags anti-RN et excréments : le restaurant de La Seyne-sur-Mer qui a reçu Jordan Bardella en dédicace samedi a été dégradé avant son passage",
-"link": "https://www.nicematin.com/faits-divers/tags-anti-rn-et-excrements-le-restaurant-de-la-seyne-sur-mer-qui-a-recu-jordan-bardella-en-dedicace-samedi-a-ete-degrade-avant-son-passage-10755771",
-"summary": "Le Rassemblement national enregistre des intentions de vote jamais égalées, mais n’en demeure pas moins un parti profondément clivant.",
-"source": "Nice-Matin",
-"date": "2026-11-08T14:58:55+00:00",
-"added": "2026-11-08T15:23:25+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "54ed18fc808ce095",
-"title": "Présidentielle 2027 : Gabriel Attal défend une primaire « inéluctable » face à Édouard Philippe",
-"link": "https://www.sudouest.fr/politique/presidentielle-2027-gabriel-attal-defend-une-primaire-ineluctable-face-a-edouard-philippe-31443435.php",
-"summary": "",
-"source": "Sud Ouest",
-"date": "2026-11-08T14:37:42+00:00",
-"added": "2026-11-08T15:23:25+00:00",
-"official": false,
-"also": [
-"Le Monde",
-"L'Est Républicain",
-"Le Figaro",
-"Europe 1"
-],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "Gabriel Attal"
-},
-{
-"id": "74bf0c85b1b0f7cc",
-"title": "La ministre des Sports salue \"la grande responsabilité\" d'Edgar Grospiron après sa démission de la présidence du comité d'organisation des JO-2030",
-"link": "https://www.franceinfo.fr/les-jeux-olympiques/alpes-francaises-2030/la-ministre-des-sports-salue-la-grande-responsabilite-d-edgar-grospiron-apres-sa-demission-de-la-presidence-du-comite-d-organisation-des-jo-2030_8187806.html",
-"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
-"source": "franceinfo",
-"date": "2026-11-08T14:34:11+00:00",
-"added": "2026-11-08T17:22:51+00:00",
-"official": false,
-"also": [],
-"base": [
-"matinales"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"gouvernement"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "Edgar Grospiron"
-},
-{
-"id": "2f886f9bf29f40c5",
-"title": "\"Le gouvernement sera responsable si la colère sociale monte encore d'un cran ces prochains jours\", estime Julien Troccaz, Secrétaire fédéral SUD-Rail , à la veille de la conférence sociale à Matignon",
-"link": "https://www.bfmtv.com/politique/gouvernement/video-le-gouvernement-sera-responsable-si-la-colere-sociale-monte-encore-d-un-cran-ces-prochains-jours-estime-julien-troccaz-secretaire-federal-sud-rail-a-la-veille-de-la-conference-sociale-a-matignon_VN-202611080299.html",
-"summary": "À la veille de la conférence sociale à Matignon, le ministre du Travail Jean-Pierre Farandou se dit favorable à une hausse du Smic au-delà de 1.500 euros net, mais met en garde contre les conséquences d’une revalorisation trop importante sur l’emploi.",
-"source": "BFMTV",
-"date": "2026-11-08T14:29:51+00:00",
-"added": "2026-11-08T15:23:25+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Julien Troccaz"
-},
-{
-"id": "bf5a0cff8409b6d1",
-"title": "“La responsabilité des politiques, c'est de redonner un désir d'avenir”, estime Ségolène Royal, ancienne ministre de la Transition écologique",
-"link": "https://www.bfmtv.com/politique/video-la-responsabilite-des-politiques-c-est-de-redonner-un-desir-d-avenir-estime-segolene-royal-ancienne-ministre-de-la-transition-ecologique_VN-202611080289.html",
-"summary": "Ségolène Royal, ancienne ministre de la Transition écologique, a tenté d’expliquer, ce dimanche 8 novembre, lors des Rencontres de l’Avenir, à Saint-Raphaël (Var), la baisse d’intérêt des Français sur la présidentielle en évoquant une perte de crédibilité des politiques.",
-"source": "BFMTV",
-"date": "2026-11-08T14:13:32+00:00",
-"added": "2026-11-08T15:23:25+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Ségolène Royal"
-},
-{
-"id": "e47c2fa5a11ff833",
-"title": "Partie de campagne, épisode 8 : Jean-Luc Mélenchon au Bourget, défections au PCF et pression sur Édouard Philippe",
-"link": "https://www.tf1info.fr/politique/video-chronique-semaine-politique-partie-de-campagne-episode-8-jean-luc-melenchon-au-bourget-defections-au-pcf-et-pression-sur-edouard-philippe-2474553.html",
-"summary": "Élection présidentielle 2027 : la course aux candidatures est lancée\nAvec sa convention samedi après-midi au Bourget, Jean-Luc Mélenchon montre ses forces et aspire, cette semaine, tout l'oxygène politique à gauche, comme le montre la chronique de TF1 \"Partie de campagne\", visible ci-dessus.",
-"source": "TF1 Info",
-"date": "2026-11-08T14:11:10+00:00",
-"added": "2026-11-08T15:23:25+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "786b0f96bf5c6a83",
-"title": "“Il faut demander à la grande distribution de bloquer les prix sur 100 produits alimentaires et d’hygiène de qualité” : les propositions de Ségolène Royal pour redonner du pouvoir d’achat aux Français",
-"link": "https://www.bfmtv.com/politique/video-il-faut-demander-a-la-grande-distribution-de-bloquer-les-prix-sur-100-produits-alimentaires-et-d-hygiene-de-qualite-les-propositions-de-segolene-royal-pour-redonner-du-pouvoir-d-achat-aux-francais_VN-202611080286.html",
-"summary": "Ségolène Royal, ancienne ministre de la Transition écologique, a fait des propositions, ce dimanche 8 novembre, lors des Rencontres de l’Avenir, à Saint-Raphaël (Var), à la crise afin de redonner du pouvoir d’achat aux Français, en évoquant la possibilité de demander à la grande distribution de bloquer les prix sur…",
-"source": "BFMTV",
-"date": "2026-11-08T14:10:27+00:00",
-"added": "2026-11-08T15:23:25+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "f71be42db202c630",
-"title": "“Comment ça se fait qu’on n’écoute pas la jeunesse?” : Ségolène Royal réagit à la crise sociale que traverse la France et à la mobilisation des lycéens",
-"link": "https://www.bfmtv.com/politique/video-comment-ca-se-fait-qu-on-n-ecoute-pas-la-jeunesse-segolene-royal-reagit-a-la-crise-sociale-que-traverse-la-france-et-a-la-mobilisation-des-lyceens_VN-202611080285.html",
-"summary": "Ségolène Royal, ancienne ministre de la Transition écologique, a réagi, ce dimanche 8 novembre, lors des Rencontres de l’Avenir à Saint-Raphaël (Var), à la crise sociale que traverse la France et à la mobilisation des lycéens.",
-"source": "BFMTV",
-"date": "2026-11-08T14:09:01+00:00",
-"added": "2026-11-08T15:23:25+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "Ségolène Royal"
-},
-{
-"id": "8999809261dff4d1",
-"title": "\"Que ce jeu de massacre cesse\" : Laurent Wauquiez veut une rencontre des candidats de droite à la présidentielle dans les 15 jours pour s'accorder sur un nom",
-"link": "https://www.franceinfo.fr/elections/presidentielle/que-ce-jeu-de-massacre-cesse-laurent-wauquiez-veut-une-rencontre-des-candidats-de-droite-a-la-presidentielle-dans-les-15-jours-pour-aboutir-a-un-seul-nom_8273387.html#xtor=RSS-3-%5Bgeneral%5D",
-"summary": "Le patron des Républicains à l'Assemblée nationale souhaite un candidat \"avec un programme unique à droite\" et ce, \"avant Noël\" afin d'établir une rupture claire avec le macronisme.",
-"source": "franceinfo",
-"date": "2026-11-08T14:07:29+00:00",
-"added": "2026-11-08T15:23:25+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Laurent Wauquiez"
-},
-{
-"id": "8696683f0b2c4c13",
-"title": "Présidentielle 2027 : le plan de Mélenchon pour déconstruire la France",
-"link": "https://www.valeursactuelles.com/clubvaleurs/politique/presidentielle-2027-le-plan-de-jean-luc-melenchon-pour-deconstruire-la-france",
-"summary": "Il nous est parvenu. Proposé en librairie pour quatre euros quatre-vingt-dix, le programme « L’Avenir en commun » de Mélenchon est désormais connu.",
-"source": "Valeurs actuelles",
-"date": "2026-11-08T14:03:12+00:00",
-"added": "2026-11-08T15:23:25+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
 "speaker": ""
 }
 ]
