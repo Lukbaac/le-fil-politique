@@ -1,5 +1,605 @@
 [
 {
+"id": "01f28be060061d4f",
+"title": "Mobilisation lycéenne : Carole Delga, présidente de l’Occitanie, refuse que les régions soient « rendues responsables » par l’Etat",
+"link": "https://www.lemonde.fr/politique/article/2026/11/12/mobilisation-lyceenne-carole-delga-presidente-de-l-occitanie-refuse-que-les-regions-soient-rendues-responsables-par-l-etat_6809109_823448.html",
+"summary": "La présidente socialiste de l’association Régions de France, défend les investissements effectués pour la construction et l’entretien des lycées malgré les ponctions du gouvernement, qu’elle accuse de « manipulation grotesque » après la publication d’une « enquête » fondée sur les seules remontées des lycéens.",
+"source": "Le Monde",
+"date": "2026-11-12T14:00:08+00:00",
+"added": "2026-11-12T14:04:30+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement",
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Carole Delga"
+},
+{
+"id": "0390dc2191e9d1a7",
+"title": "« Assurer la protection du président » : à quoi servent les gardes républicains de l’Élysée ?",
+"link": "https://www.leparisien.fr/politique/assurer-la-protection-du-president-a-quoi-servent-les-gardes-republicains-de-lelysee-12-11-2026-MH25XVL37FAK5HBRG55X7XTUCI.php",
+"summary": "",
+"source": "Le Parisien",
+"date": "2026-11-12T14:00:00+00:00",
+"added": "2026-11-12T14:04:30+00:00",
+"official": false,
+"also": [],
+"base": [
+"elysee"
+],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "b911d2679c9ad897",
+"title": "VIDÉO. Élysée : deux gardes républicains font un malaise pendant une cérémonie protocolaire",
+"link": "https://www.ouest-france.fr/politique/emmanuel-macron/video-elysee-deux-gardes-republicains-font-un-malaise-pendant-une-ceremonie-protocolaire-1464d830-58fd-4891-b024-91f78f8f79e1",
+"summary": "",
+"source": "Ouest-France",
+"date": "2026-11-12T13:58:53+00:00",
+"added": "2026-11-12T14:04:30+00:00",
+"official": false,
+"also": [],
+"base": [
+"elysee"
+],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "f735c2d08d00e630",
+"title": "Présidentielle 2027: une primaire se dessine pour désigner le candidat de la droite et du centre",
+"link": "https://www.rfi.fr/fr/france/20261112-pr%C3%A9sidentielle-2027-primaire-d%C3%A9signer-candidat-de-droite-centre-edouard-philippe",
+"summary": "",
+"source": "RFI",
+"date": "2026-11-12T13:55:19+00:00",
+"added": "2026-11-12T14:04:30+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "696c4ada314b8018",
+"title": "Grand oral de France Info sur les services publics : l’absence calculée de Marine Le Pen",
+"link": "https://www.humanite.fr/politique/budget/grand-oral-de-france-info-sur-les-services-publics-labsence-calculee-de-marine-le-pen",
+"summary": "Invitée, comme d’autres candidats à la présidentielle, à défendre sa vision de l’État lors d’un grand oral, Marine Le Pen a préféré décliner l’invitation.",
+"source": "L'Humanité",
+"date": "2026-11-12T13:53:55+00:00",
+"added": "2026-11-12T14:04:30+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "ddaf34f872a8cdf8",
+"title": "\"Je n'ai jamais entendu un politique dire que c'était scandaleux qu'on me menace\", assure Eric Zemmour, après la découverte d'une liste de personnalités de gauche chez le suspect de l'attentat raciste de Trappes",
+"link": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/liste-de-personnalites-de-gauche-retrouvee-chez-le-suspect-de-l-attentat-raciste-de-trappes-moi-meme-je-vis-sous-protection-policiere-depuis-des-annees-reagit-eric-zemmour_8279345.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "Invité de la journée spéciale \"Nos Services Publics\", le candidat Reconquête à la présidentielle réagissait à la découverte d'une liste de personnalités de gauche et d'extrême gauche lors d'une perquisition au domicile de Kévin Tessier.",
+"source": "franceinfo",
+"date": "2026-11-12T13:49:52+00:00",
+"added": "2026-11-12T14:04:30+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Éric Zemmour"
+},
+{
+"id": "ffca56728ce0a8d4",
+"title": "Alertes à la bombe en Europe: Emmanuel Macron affirme qu'il est trop tôt pour déterminer les responsables",
+"link": "https://www.bfmtv.com/politique/elysee/alertes-a-la-bombe-en-europe-emmanuel-macron-affirme-qu-il-est-trop-tot-pour-determiner-les-responsables_AV-202611120582.html",
+"summary": "Il est trop tôt pour attribuer les alertes à la bombe qui se mutiplient en Europe à des puissances étrangères, selon Emmanuel Macron.",
+"source": "BFMTV",
+"date": "2026-11-12T13:42:53+00:00",
+"added": "2026-11-12T14:04:30+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [],
+"speaker": "Emmanuel Macron"
+},
+{
+"id": "514abccbc0e49d92",
+"title": "Lycées: les aides de l'Île-de-France suspendues pour les auteurs de dégradations",
+"link": "https://www.bfmtv.com/politique/video-lycees-les-aides-de-l-ile-de-france-suspendues-pour-les-auteurs-de-degradations_VN-202611120580.html",
+"summary": "La présidente LR de la Région Île-de-France Valérie Pécresse a annoncé jeudi une suspension d'aides pour les auteurs de dégradations dans les lycées, et veut proposer d'installer des caméras dans les établissements où des intrusions violentes ont eu lieu.",
+"source": "BFMTV",
+"date": "2026-11-12T13:39:22+00:00",
+"added": "2026-11-12T14:04:30+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "97a977f29b805b2c",
+"title": "Présidentielle 2027: pour la droite et le centre, la primaire apparaît désormais comme le seul moyen d'accéder au second tour",
+"link": "https://rmc.bfmtv.com/actualites/politique/presidentielle-2027-pour-la-droite-et-le-centre-la-primaire-apparait-desormais-comme-le-seul-moyen-d-acceder-au-second-tour_AV-202611120574.html",
+"summary": "La primaire de la droite et du centre va-t-elle finir par avoir lieu? Le président et candidat LR à l'élection présidentielle, Bruno Retailleau, propose désormais les dates du 31 janvier et 7 février.",
+"source": "RMC",
+"date": "2026-11-12T13:32:00+00:00",
+"added": "2026-11-12T14:04:30+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "d51c03348399ffdf",
+"title": "Un premier sponsor de Teddy Riner se retire après l'annonce de sa candidature à la présidentielle 2027",
+"link": "https://www.bfmtv.com/politique/video-un-premier-sponsor-de-teddy-riner-se-retire-apres-l-annonce-de-sa-candidature-a-la-presidentielle-2027_VN-202611120564.html",
+"summary": "L'annonce de la candidature de Teddy Riner à l'élection présidentielle 2027 provoque une première retombée avec le retrait d'une des nombreux sponsors de la star du judo.",
+"source": "BFMTV",
+"date": "2026-11-12T13:13:52+00:00",
+"added": "2026-11-12T14:04:30+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [
+"Annonce"
+],
+"speaker": ""
+},
+{
+"id": "5a1dd9edee3c4fe5",
+"title": "Sondage présidentielle 2027 : David Lisnard continue de progresser et atteint 10 % des intentions de vote, le double de Bruno Retailleau",
+"link": "https://www.leparisien.fr/elections/presidentielle/sondage-presidentielle-2027-david-lisnard-continue-de-progresser-et-atteint-10-des-intentions-de-vote-le-double-de-bruno-retailleau-12-11-2026-53IAVVSDQRHWDBTUHHBO33EVGQ.php",
+"summary": "",
+"source": "Le Parisien",
+"date": "2026-11-12T13:02:00+00:00",
+"added": "2026-11-12T14:04:30+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "20de9dbca77c743e",
+"title": "Le milliardaire Pierre-Edouard Stérin sera jugé après son boycott de la commission d’enquête à l’Assemblée",
+"link": "https://www.20minutes.fr/politique/assemblee_nationale/4262371-20261112-milliardaire-pierre-edouard-sterin-juge-apres-boycott-commission-enquete-assemblee?at_medium=display&at_campaign=149",
+"summary": "Le milliardaire conservateur Pierre-Edouard Stérin doit comparaître en janvier 2027 devant le tribunal correctionnel de Paris pour son refus répété de se présenter devant une commission d’enquête de l’Assemblée nationale, a-t-on appris jeudi auprès du parquet.",
+"source": "20 Minutes",
+"date": "2026-11-12T13:01:37+00:00",
+"added": "2026-11-12T14:04:30+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "a819c772897c9bc7",
+"title": "Meurtre de Thomas à Crépol : La maire de Romans-sur-Isère préférerait voter Le Pen que Mélenchon",
+"link": "https://www.20minutes.fr/politique/4262365-20261112-meurtre-thomas-crepol-maire-romans-isere-prefererait-voter-pen-melenchon?at_medium=display&at_campaign=149",
+"summary": "Invitée de Sud Radio, Marie-Hélène Thoraval, maire de Romans-sur-Isère, a annoncé qu’elle ne voterait « jamais » pour le candidat de La France insoumise Jean-Luc Mélenchon à l’occasion l’élection présidentielle 2027, a repéré « Le Figaro »",
+"source": "20 Minutes",
+"date": "2026-11-12T12:37:30+00:00",
+"added": "2026-11-12T14:04:30+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "18b37853fac67cb5",
+"title": "Teddy Riner candidat à la présidentielle : \"Ni de droite, ni de gauche, c'est ce qu'on a vu pendant 10 ans\", ironise Raphaël Glucksmann",
+"link": "https://www.franceinfo.fr/sports/judo/teddy-riner/teddy-riner-candidat-a-la-presidentielle-ni-de-droite-ni-de-gauche-c-est-ce-qu-on-a-vu-pendant-10-ans-ironise-raphael-glucksmann_8279291.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "Invité de la journée évènement franceinfo consacrée aux services publics, jeudi 12 novembre, Raphaël Glucksmann a réagi à l'actualité politique.",
+"source": "franceinfo",
+"date": "2026-11-12T12:35:23+00:00",
+"added": "2026-11-12T14:04:30+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Raphaël Glucksmann"
+},
+{
+"id": "7c313631cd87441b",
+"title": "Présidentielle 2027 : pourquoi Marine Le Pen boycotte-t-elle les plateaux de BFMTV ? Cette rencontre tendue avec le patron de la chaîne qui a tout changé",
+"link": "https://www.midilibre.fr/2026/11/12/presidentielle-2027-pourquoi-marine-le-pen-boycotte-t-elle-les-plateaux-de-bfmtv-cette-rencontre-tendue-avec-le-patron-de-la-chaine-qui-a-tout-change-13648873.php",
+"summary": "Marine Le Pen n’est plus apparue sur BFMTV depuis février 2026, en raison d’une brouille avec Rodolphe Saadé, propriétaire de la chaîne.",
+"source": "Midi Libre",
+"date": "2026-11-12T12:34:00+00:00",
+"added": "2026-11-12T14:04:30+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "c3c4d4be3e9f0ba9",
+"title": "Les Français aiment leurs services publics, selon Jean-Daniel Levy",
+"link": "https://www.franceinfo.fr/economie/impots/les-francais-aiment-leurs-services-publics-selon-jean-daniel-levy_8279267.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
+"source": "franceinfo",
+"date": "2026-11-12T12:30:01+00:00",
+"added": "2026-11-12T14:04:30+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": "Jean-Daniel Levy"
+},
+{
+"id": "bf2f71ea831a69ec",
+"title": "Présidentielle : Fabien Roussel propose la mise en place de 60 000 \"policiers, gendarmes et douaniers\" de proximité",
+"link": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-fabien-roussel-propose-la-mise-en-place-de-60-000-policiers-gendarmes-et-douaniers-de-proximite_8279156.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "Dans le cadre de la journée évènement franceinfo consacrée aux services publics, Fabien Roussel, candidat communiste à la présidentielle, a détaillé son programme sur cet enjeu majeur du scrutin, jeudi 12 novembre, au studio 104 de la Maison de la Radio et de la Musique.",
+"source": "franceinfo",
+"date": "2026-11-12T12:29:18+00:00",
+"added": "2026-11-12T14:04:30+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation",
+"Annonce"
+],
+"speaker": "Fabien Roussel"
+},
+{
+"id": "bebba8ed6424d75a",
+"title": "Violences dans certains lycées: \"Les complices seront poursuivis\", assure Sébastien Lecornu",
+"link": "https://www.bfmtv.com/politique/video-violences-dans-certains-lycees-les-complices-seront-poursuivis-assure-sebastien-lecornu_VN-202611120535.html",
+"summary": "Ce jeudi matin, plusieurs individus ont tiré avec des mortiers d'artifices à l'intérieur de différents établissements scolaires.",
+"source": "BFMTV",
+"date": "2026-11-12T12:26:59+00:00",
+"added": "2026-11-12T14:04:30+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Sébastien Lecornu"
+},
+{
+"id": "95a400730f449848",
+"title": "Présidentielle 2027 : Christine Lagarde testée pour la première fois à 14% dans un sondage",
+"link": "https://www.rtl.fr/actu/politique/presidentielle-2027-christine-lagarde-testee-pour-la-premiere-fois-a-14-dans-un-sondage-7900695410",
+"summary": "Christine Lagarde, s'exprime lors d'un débat en séance plénière au Parlement européen en 2023\nElle n'est pas encore candidate, mais dépasse déjà Édouard Philippe.",
+"source": "RTL",
+"date": "2026-11-12T12:26:21+00:00",
+"added": "2026-11-12T14:04:30+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"parlement",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "4631b9125e72b9de",
+"title": "« Nous sommes devant Jordan Bardella et Sarah Knafo » : le livre programme du candidat LFI à la présidentielle Jean-Luc Mélenchon plus vendu que le prix Goncourt",
+"link": "https://www.nicematin.com/societe/politique/nous-sommes-devant-jordan-bardella-et-sarah-knafo-le-livre-programme-du-candidat-lfi-a-la-presidentielle-jean-luc-melenchon-plus-vendu-que-le-prix-goncourt-10758589",
+"summary": "Le livre programme du candidat LFI à la présidentielle Jean-Luc Mélenchon a pris la tête des best-sellers après sa sortie, selon les chiffres publiés ce jeudi 12 novembre 2026 par Livres-Hebdo.",
+"source": "Nice-Matin",
+"date": "2026-11-12T12:14:02+00:00",
+"added": "2026-11-12T14:04:30+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "ecfa9bd191a95fee",
+"title": "Agriculture: Annie Genevard annonce \"un plan à 725 millions d'euros\"",
+"link": "https://www.bfmtv.com/politique/gouvernement/video-agriculture-annie-genevard-annonce-un-plan-a-725-millions-d-euros_VN-202611120527.html",
+"summary": "Le gouvernement a présenté son plan de relance agricole, face à la presse, ce jeudi 12 novembre. Annie Genevard, ministre de l'Agriculture, de l'Agro-alimentaire et de la Souveraineté alimentaire, a notamment annoncé \"un plan à 725 millions d'euros\" pour aider le secteur.",
+"source": "BFMTV",
+"date": "2026-11-12T12:11:08+00:00",
+"added": "2026-11-12T14:04:30+00:00",
+"official": false,
+"also": [
+"Ouest-France"
+],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [
+"Citation",
+"Annonce"
+],
+"speaker": "Annie Genevard"
+},
+{
+"id": "d9a9604331809340",
+"title": "Présidentielle 2027 : les candidats face aux petits patrons, Gabriel Attal premier invité de l'U2P à suivre sur LCI ce jeudi à 16h30",
+"link": "https://www.tf1info.fr/politique/elections/presidentielle/presidentielle-2027-les-candidats-face-aux-petits-patrons-gabriel-attal-premier-invite-de-l-u2p-a-suivre-en-direct-sur-lci-ce-jeudi-a-16h30-2475440.html",
+"summary": "Que proposent les candidats à la présidentielle pour les TPE et les PME ?",
+"source": "TF1 Info",
+"date": "2026-11-12T12:01:19+00:00",
+"added": "2026-11-12T14:04:30+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"presidentielle"
+],
+"natures": [
+"Interview"
+],
+"speaker": ""
+},
+{
+"id": "aa6efbb81ff3da03",
+"title": "Les députés votent une loi pour obliger Google et les autres géants du numérique à mieux rémunérer la presse",
+"link": "https://lcp.fr/actualites/les-deputes-votent-une-loi-pour-obliger-google-et-les-autres-geants-du-numerique-a-mieux",
+"summary": "L'Assemblée nationale a adopté à l'unanimité, ce jeudi 12 novembre, une proposition de loi dont le but est de rééquilibrer les négociations entre les entreprises du numérique, comme les GAFAM, et les médias français, afin que ces derniers soient mieux rémunérés lorsque leurs contenus sont réutilisés sur internet.",
+"source": "LCP",
+"date": "2026-11-12T11:59:17+00:00",
+"added": "2026-11-12T14:04:30+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "b1b76c73588e2619",
+"title": "Jordan Bardella accusé d’antisémitisme : le président du RN a porté plainte contre X après les révélations de Mediapart",
+"link": "https://www.midilibre.fr/2026/11/12/jordan-bardella-accuse-dantisemitisme-le-president-du-rn-a-porte-plainte-contre-x-apres-les-revelations-de-mediapart-13648999.php",
+"summary": "Jordan Bardella, président du Rassemblement national, a déposé plainte contre X jeudi 12 novembre pour \"faux et usage de faux\" après une enquête de Mediapart publiée fin septembre.",
+"source": "Midi Libre",
+"date": "2026-11-12T11:56:00+00:00",
+"added": "2026-11-12T14:04:30+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Réaction"
+],
+"speaker": ""
+},
+{
+"id": "f64db2302b4048e8",
+"title": "Le Goncourt 2026 s’incline devant le livre de Mélenchon en tête des ventes la semaine dernière",
+"link": "https://www.lefigaro.fr/livres/le-goncourt-2026-s-incline-devant-le-livre-de-melenchon-en-tete-des-ventes-la-semaine-derniere-20261112",
+"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
+"source": "Le Figaro",
+"date": "2026-11-12T11:54:08+00:00",
+"added": "2026-11-12T14:04:30+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "863ae4261f4cb1da",
+"title": "présidentielle 2027 | Suivez le grand oral de huit candidats sur les services publics : Bruno Retailleau souhaite créer 40 000 places de prison et propose un référendum sur la politique pénale",
+"link": "https://www.lemonde.fr/politique/live/2026/11/12/en-direct-presidentielle-2027-suivez-le-grand-oral-de-huit-candidats-sur-les-services-publics-raphael-glucksmann-souhaite-une-refonte-et-un-sauvetage-de-l-ecole-publique-dans-son-ensemble_6809070_823448.html",
+"summary": "Gabriel Attal a défendu la sélection à l’université et estime que Parcoursup peut être amélioré. Fabien Roussel veut, lui, recruter 500 000 fonctionnaires en cinq ans, tandis que Raphaël Glucksmann souhaite une « refonte et un sauvetage de l’école publique ».",
+"source": "Le Monde",
+"date": "2026-11-12T11:50:45+00:00",
+"added": "2026-11-12T14:04:30+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [
+"Annonce"
+],
+"speaker": "Bruno Retailleau"
+},
+{
+"id": "604c1925c2ec6877",
+"title": "Candidature de Teddy Riner à la présidentielle : «Jean-Luc Mélenchon a très bien senti le danger», analyse Mémona Hintermann",
+"link": "https://www.cnews.fr/france/2026-11-12/candidature-de-teddy-riner-la-presidentielle-jean-luc-melenchon-tres-bien-senti",
+"summary": "Invitée de l'émission 100% Frontières, Mémona Hintermann, grand reporter, est revenue sur la candidature de Teddy Riner à l'élection présidentielle 2027 : «Jean-Luc Mélenchon a très bien senti le danger».",
+"source": "CNews",
+"date": "2026-11-12T11:49:13+00:00",
+"added": "2026-11-12T14:04:30+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Mémona Hintermann"
+},
+{
+"id": "426068adf1b0200f",
+"title": "Présidentielle: \"On a eu déjà eu beaucoup de candidatures cette semaine, ce n'est pas la peine d'en rajouter une\", répond Bruno Le Maire",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-on-a-eu-deja-eu-beaucoup-de-candidatures-cette-semaine-ce-n-est-pas-la-peine-d-en-rajouter-une-repond-bruno-le-maire_VN-202611120505.html",
+"summary": "L'ancien ministre de l'Économie Bruno Le Maire a présenté ses propositions pour une \"autre France\", jeudi 12 novembre à Paris.",
+"source": "BFMTV",
+"date": "2026-11-12T11:46:32+00:00",
+"added": "2026-11-12T14:04:30+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement",
+"presidentielle"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "Bruno Le Maire"
+},
+{
+"id": "f0a5eba68439f562",
+"title": "Présidentielle 2027 : Teddy Riner « incarne la France qui gagne »… De Jean-Luc Mélenchon à Édouard Philippe, pourquoi sa candidature fait trembler la classe politique",
+"link": "https://www.sudouest.fr/elections/presidentielle/presidentielle-2027-teddy-riner-incarne-la-france-qui-gagne-de-jean-luc-melenchon-a-edouard-philippe-pourquoi-cette-annonce-fait-trembler-la-classe-politique-31492089.php",
+"summary": "",
+"source": "Sud Ouest",
+"date": "2026-11-12T11:43:46+00:00",
+"added": "2026-11-12T14:04:30+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": ""
+},
+{
 "id": "b8f8de733ead3026",
 "title": "Écrits antisémites attribués à Jordan Bardella : le patron du RN a porté plainte pour faux et usage de faux",
 "link": "https://www.rtl.fr/actu/politique/ecrits-antisemites-attribues-a-jordan-bardella-le-patron-du-rn-a-porte-plainte-pour-faux-et-usage-de-faux-7900695418",
@@ -8,7 +608,27 @@
 "date": "2026-11-12T11:43:17+00:00",
 "added": "2026-11-12T11:45:15+00:00",
 "official": false,
-"also": [],
+"also": [
+"Le Monde",
+"franceinfo",
+"Libération",
+"La Croix",
+"BFMTV",
+"20 Minutes",
+"CNews",
+"TF1 Info",
+"Le Figaro",
+"France 24",
+"Ouest-France",
+"Le Parisien",
+"Europe 1",
+"Nice-Matin",
+"La Nouvelle République",
+"L'Est Républicain",
+"La Provence",
+"La Voix du Nord",
+"Le Télégramme"
+],
 "base": [
 "partis"
 ],
@@ -50,7 +670,8 @@
 "added": "2026-11-12T11:45:15+00:00",
 "official": false,
 "also": [
-"BFMTV"
+"BFMTV",
+"Le Monde"
 ],
 "base": [],
 "filtered": true,
@@ -329,7 +950,9 @@
 "date": "2026-11-12T11:04:52+00:00",
 "added": "2026-11-12T11:45:15+00:00",
 "official": false,
-"also": [],
+"also": [
+"Le Parisien"
+],
 "base": [
 "presidentielle"
 ],
@@ -589,7 +1212,8 @@
 "added": "2026-11-12T11:45:15+00:00",
 "official": false,
 "also": [
-"franceinfo"
+"franceinfo",
+"LCP"
 ],
 "base": [],
 "filtered": true,
@@ -681,6 +1305,26 @@
 "speaker": ""
 },
 {
+"id": "ca76b55e9d075c98",
+"title": "Gabriel Attal",
+"link": "https://www.bfmtv.com/politique/gabriel-attal_DN-202108310662.html",
+"summary": "Gabriel Attal est candidat à la présidentielle de 2027 pour le parti Renaissance. Auparavant membre du Parti socialiste, il a été élu député de la 11e circonscription des Hauts-de-Seine en 2017, sous l'étiquette En Marche.",
+"source": "BFMTV",
+"date": "2026-11-12T10:04:28+00:00",
+"added": "2026-11-12T14:04:30+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement",
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "dcf90828dd7c29b0",
 "title": "\"Je n’ai rien à voir avec les macronistes\": Dominique de Villepin écarte toute participation à une éventuelle primaire de la droite et du centre",
 "link": "https://www.bfmtv.com/politique/elections/presidentielle/je-n-ai-rien-a-voir-avec-les-macronistes-dominique-de-villepin-ecarte-toute-participation-a-une-eventuelle-primaire-de-la-droite-et-du-centre_AN-202611120432.html",
@@ -711,7 +1355,9 @@
 "date": "2026-11-12T10:01:23+00:00",
 "added": "2026-11-12T11:45:15+00:00",
 "official": false,
-"also": [],
+"also": [
+"Le Parisien"
+],
 "base": [
 "presidentielle"
 ],
@@ -793,7 +1439,9 @@
 "date": "2026-11-12T09:39:55+00:00",
 "added": "2026-11-12T09:45:12+00:00",
 "official": false,
-"also": [],
+"also": [
+"BFMTV"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -862,6 +1510,26 @@
 "natures": [
 "Citation"
 ],
+"speaker": ""
+},
+{
+"id": "0a77c45a4b305870",
+"title": "LFI/Bagnolet : «C'est peut-être l'après Mélenchon qui se joue avec cette séquence», souligne Pasc...",
+"link": "https://www.europe1.fr/emissions/lheure-des-pros/lfi-bagnolet-cest-peut-etre-lapres-melenchon-qui-se-joue-avec-cette-sequence-souligne-pasc-1227548",
+"summary": "",
+"source": "Europe 1",
+"date": "2026-11-12T09:05:01+00:00",
+"added": "2026-11-12T14:04:30+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
 "speaker": ""
 },
 {
@@ -966,6 +1634,26 @@
 "Citation"
 ],
 "speaker": "Bruno Le Maire"
+},
+{
+"id": "5b3726bdeec18735",
+"title": "Violences : Jean-Luc Mélenchon dédouane les lycéens",
+"link": "https://www.europe1.fr/emissions/lheure-des-pros/violences-jean-luc-melenchon-dedouane-les-lyceens-1227425",
+"summary": "Tous les jours, actualité, débats et bonne humeur rythment L'Heure des pros.",
+"source": "Europe 1",
+"date": "2026-11-12T08:35:01+00:00",
+"added": "2026-11-12T14:04:30+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
 },
 {
 "id": "60555e5a9bb59b4c",
@@ -1335,7 +2023,9 @@
 "official": false,
 "also": [
 "RTL",
-"Le HuffPost"
+"Le HuffPost",
+"Le Figaro",
+"Euronews"
 ],
 "base": [],
 "filtered": true,
@@ -5105,7 +5795,9 @@
 "date": "2026-11-11T07:30:00+00:00",
 "added": "2026-11-11T07:57:58+00:00",
 "official": false,
-"also": [],
+"also": [
+"Marianne"
+],
 "base": [
 "partis"
 ],
@@ -5354,7 +6046,8 @@
 "also": [
 "Euronews",
 "La Nouvelle République",
-"TF1 Info"
+"TF1 Info",
+"Sud Ouest"
 ],
 "base": [
 "partis"
@@ -6231,6 +6924,29 @@
 "speaker": "Jordan Bardella"
 },
 {
+"id": "e79758f859df6f1a",
+"title": "\"La France est le pays le moins raciste du monde\": Jordan Bardella \"partage à 300%\" les propos de Marine Le Pen",
+"link": "https://www.bfmtv.com/politique/front-national/video-la-france-est-le-pays-le-moins-raciste-du-monde-jordan-bardella-partage-a-300-les-propos-de-marine-le-pen_VN-202611100973.html",
+"summary": "VIDÉO - Le président du Rassemblement national est \"Face à BFM\" à partir de 21h. Celui qui pourrait devenir Premier ministre en cas de victoire de Marine Le Pen à l'élection présidentielle répondra aux questions des journalistes de la rédaction.",
+"source": "BFMTV",
+"date": "2026-11-10T21:44:42+00:00",
+"added": "2026-11-12T14:04:30+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement",
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "d85b1735f962d424",
 "title": "Jordan Bardella n'est \"pas favorable\" au droit de vote à 16 ans",
 "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-jordan-bardella-n-est-pas-favorable-au-droit-de-vote-a-16-ans_VN-202611100971.html",
@@ -6296,6 +7012,27 @@
 "Citation"
 ],
 "speaker": "Jordan Bardella"
+},
+{
+"id": "9f661e533c178be5",
+"title": "Crise du logement: Jordan Bardella détaille les propositions du RN",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-crise-du-logement-jordan-bardella-detaille-les-propositions-du-rn_VN-202611100961.html",
+"summary": "VIDÉO - Pouvoir d’achat, immigration, dette, retraites, mobilisation des lycéens, école...Quelles sont les propositions du Rassemblement national à l’approche de l’élection présidentielle?",
+"source": "BFMTV",
+"date": "2026-11-10T21:23:46+00:00",
+"added": "2026-11-12T14:04:30+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
 },
 {
 "id": "a32a0c250bbca7c8",
@@ -7363,7 +8100,8 @@
 "official": false,
 "also": [
 "20 Minutes",
-"Le Télégramme"
+"Le Télégramme",
+"Le Monde"
 ],
 "base": [
 "partis"
@@ -9024,7 +9762,9 @@
 "date": "2026-11-10T13:32:20+00:00",
 "added": "2026-11-11T06:38:33+00:00",
 "official": false,
-"also": [],
+"also": [
+"Acteurs Publics"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -14580,851 +15320,6 @@
 ],
 "filtered": true,
 "topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "19ab82a1171cb233",
-"title": "Présidentielle 2027 : quels sont les 31 candidats actuellement déclarés ?",
-"link": "https://www.nouvelobs.com/politique/20261109.OBS119985/presidentielle-2027-quels-sont-les-31-candidats-actuellement-declares.html",
-"summary": "Le palais de l’Elysée, objet de nombreuses convoitises, le 15 avril 2026. LUDOVIC MARIN/AFP\nS’abonner permet de commenter les articles.",
-"source": "Le Nouvel Obs",
-"date": "2026-11-09T13:58:55+00:00",
-"added": "2026-11-09T14:04:42+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"elysee",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "2c20f310c31032d4",
-"title": "France : Teddy Riner candidat à l'élection présidentielle de 2027",
-"link": "https://www.france24.com/fr/vid%C3%A9o/20261109-france-teddy-riner-candidat-%C3%A0-l-%C3%A9lection-pr%C3%A9sidentielle-de-2027",
-"summary": "",
-"source": "France 24",
-"date": "2026-11-09T13:58:43+00:00",
-"added": "2026-11-09T15:47:30+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "e24d1178ac66acfe",
-"title": "Augmentation du smic, allègements de charges pour les entreprises... Ce qu'il faut retenir des annonces du gouvernement à l'issue de la conférence sociale",
-"link": "https://www.franceinfo.fr/economie/greve/augmentation-du-smic-allegements-de-charges-pour-les-entreprises-ce-qu-il-faut-retenir-des-annonces-du-gouvernement-a-l-issue-de-la-conference-sociale_8274527.html#xtor=RSS-3-%5Bgeneral%5D",
-"summary": "Le Premier ministre Sébastien Lecornu a notamment promis une revalorisation du smic au-delà de l'inflation dès le 1er décembre.",
-"source": "franceinfo",
-"date": "2026-11-09T13:55:41+00:00",
-"added": "2026-11-09T14:04:42+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "0b3519b729caa19e",
-"title": "Smic : le gouvernement annonce une hausse de 1,6 %, les syndicats dénoncent des \"miettes\"",
-"link": "https://www.lexpress.fr/economie/emploi/smic-le-gouvernement-annonce-une-hausse-de-16-les-syndicats-denoncent-des-miettes-VGQRX5E3SRAJXJOJJ6GKH7NFNM/",
-"summary": "Le gouvernement tente de répondre à la colère sociale. Le Premier ministre Sébastien Lecornu a annoncé lundi 9 novembre une hausse de 1,6 % du salaire minimum à compter du 1er décembre, portant le Smic à 1 502 euros net par mois, contre 1 477,93 euros actuellement.",
-"source": "L'Express",
-"date": "2026-11-09T13:49:29+00:00",
-"added": "2026-11-09T14:04:42+00:00",
-"official": false,
-"also": [
-"L'Opinion",
-"La Provence",
-"LCP",
-"Le Monde"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement"
-],
-"natures": [
-"Annonce"
-],
-"speaker": ""
-},
-{
-"id": "3042253ab4007c8a",
-"title": "« Les gens m’ont poussé à me présenter » : des JO de Paris à la présidentielle, les coulisses de la candidature de Teddy Riner",
-"link": "https://www.leparisien.fr/elections/presidentielle/les-gens-mont-pousse-a-me-presenter-des-jo-de-paris-a-la-presidentielle-les-coulisses-de-la-candidature-de-teddy-riner-09-11-2026-2CRPIYFKPFG43FTC777BRBLUEE.php",
-"summary": "",
-"source": "Le Parisien",
-"date": "2026-11-09T13:48:14+00:00",
-"added": "2026-11-09T14:04:42+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "4d109f5e43940ee5",
-"title": "Candidat à l’élection présidentielle, l’immense combat de Teddy Riner",
-"link": "https://www.lefigaro.fr/elections/presidentielles/candidats/candidat-a-l-election-presidentielle-le-nouveau-combat-de-teddy-riner-20261109",
-"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
-"source": "Le Figaro",
-"date": "2026-11-09T13:38:34+00:00",
-"added": "2026-11-09T14:04:42+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "d2ca09dcd02e06d5",
-"title": "[Podcasts] Michel Drucker : \"Mélenchon, c'est le meilleur ! Si au 2e tour il y a Mélenchon/Le Pen, je souhaite bien du plaisir à cette dernière. Mélenchon est un tribun excellent. Mais les extrêmes, très peu pour moi\" - 09/11",
-"link": "https://rmc.bfmtv.com/replay-emissions/les-grandes-gueules/michel-drucker-melenchon-c-est-le-meilleur-si-au-2e-tour-il-y-a-melenchon-le-pen-je-souhaite-bien-du-plaisir-a-cette-derniere-melenchon-est-un-tribun-excellent-mais-les-extremes-tres-peu-pour-moi-09-11_EN-202611090581.html",
-"summary": "Aujourd'hui, Zohra Bitan, intervenante auprès de la jeunesse, Didier Giraud, éleveur de bovins, et Charles Consigny, avocat, débattent de l'actualité autour d'Alain Marschall et Olivier Truchot.",
-"source": "RMC",
-"date": "2026-11-09T13:38:12+00:00",
-"added": "2026-11-09T14:04:42+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Michel Drucker"
-},
-{
-"id": "102865409043f727",
-"title": "Pass mobilité, nucléaire, leasing social à 100 euros par mois... Les propositions de Raphaël Glucksmann pour sa \"révolution écologique\"",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/pass-mobilite-nucleaire-leasing-social-a-100-euros-par-mois-les-propositions-de-raphael-glucksmann-pour-sa-revolution-ecologique_AN-202611090579.html",
-"summary": "Le candidat social-démocrate a dévoilé ce lundi ses propositions sur le volet écologie de son programme. Entouré de l'écologiste Yannick Jadot, Raphaël Glucksmann veut \"redonner la fierté d'être Français\" en plaçant le pays comme à \"l'avant-garde\" de la lutte contre le réchauffement climatique.",
-"source": "BFMTV",
-"date": "2026-11-09T13:37:42+00:00",
-"added": "2026-11-09T14:04:42+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "b66acc6ac09a70e3",
-"title": "Hausse du Smic à 1.502 euros jugée \"insuffisante\": certains syndicats appellent à manifester",
-"link": "https://www.bfmtv.com/politique/video-hausse-du-smic-a-1-502-euros-jugee-insuffisante-certains-syndicats-appellent-a-manifester_VN-202611090574.html",
-"summary": "Une nouvelle semaine de mobilisation sociale a débuté ce lundi 9 novembre, avec une conférence sociale à Matignon qui a réuni organisations syndicales et patronales.",
-"source": "BFMTV",
-"date": "2026-11-09T13:29:57+00:00",
-"added": "2026-11-09T14:04:42+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "a96c97d262e82f4b",
-"title": "Colère sociale en France: Sébastien Lecornu cherche une sortie de crise et augmente le salaire minimum de 1,6%",
-"link": "https://www.rfi.fr/fr/france/20261109-col%C3%A8re-sociale-en-france-s%C3%A9bastien-lecornu-cherche-une-sortie-de-crise-et-augmente-le-salaire-minimum-de-1-6",
-"summary": "",
-"source": "RFI",
-"date": "2026-11-09T13:23:07+00:00",
-"added": "2026-11-09T15:47:30+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "c61584186c2ba6bd",
-"title": "Hausse du Smic : les syndicats jugent la réponse insuffisante et la CGT appelle à la grève le 17 novembre",
-"link": "https://www.publicsenat.fr/actualites/politique/hausse-du-smic-les-syndicats-jugent-la-reponse-insuffisante-et-la-cgt-appelle-a-la-greve-le-17-novembre",
-"summary": "À la sortie de la conférence sociale de Matignon, la CFDT salue la méthode mais juge la hausse de 1,6 % « insuffisante ».",
-"source": "Public Sénat",
-"date": "2026-11-09T13:23:03+00:00",
-"added": "2026-11-09T21:38:07+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "ed04f2a425f384b0",
-"title": "SONDAGE Présidentielle 2027 : qui est le favori du scrutin selon les Français ? Voici ce qu’ils pronostiquent en fonction de leur bord politique",
-"link": "https://www.midilibre.fr/2026/11/09/sondage-presidentielle-2027-qui-est-le-favori-du-scrutin-selon-les-francais-voici-ce-quils-pronostiquent-en-fonction-de-leur-bord-politique-13643826.php",
-"summary": "Selon un sondage Toluna-Harris Interactive publié le 9 novembre, Marine Le Pen est perçue comme la favorite pour l’élection présidentielle par 48 % des Français.",
-"source": "Midi Libre",
-"date": "2026-11-09T13:01:00+00:00",
-"added": "2026-11-09T14:04:42+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "e3652296f252385b",
-"title": "États-Unis : après la déroute des midterms, les républicains pensent déjà à 2028",
-"link": "https://www.la-croix.com/international/etats-unis-apres-la-deroute-des-midterms-les-republicains-pensent-deja-a-2028-20261109",
-"summary": "Aux États-Unis, les cycles politiques sont si courts qu’une élection en cache toujours une autre… Dès le 3 novembre, alors que l’ampleur du tsunami démocrate ne faisait plus de doute, beaucoup d’acteurs se sont déjà tournés vers le scrutin présidentiel de 2028.",
-"source": "La Croix",
-"date": "2026-11-09T12:57:37+00:00",
-"added": "2026-11-09T14:04:42+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "81e744d29f04245f",
-"title": "Présidentielle 2027 : Raphaël Glucksmann, avec Yannick Jadot, présente ses « 100 jours de la révolution écologique »",
-"link": "https://www.lemonde.fr/politique/article/2026/11/09/presidentielle-2027-le-duo-glucksmann-jadot-presente-ses-100-jours-de-la-revolution-ecologique_6808651_823448.html",
-"summary": "Le vainqueur de la primaire sociale-démocrate a promis, lundi, de déclarer « l’état d’urgence écologique » et d’inscrire cette préoccupation dans la Constitution.",
-"source": "Le Monde",
-"date": "2026-11-09T12:49:09+00:00",
-"added": "2026-11-09T14:04:42+00:00",
-"official": false,
-"also": [
-"Sud Ouest",
-"France 24",
-"La Croix",
-"RFI"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "787cc8ff1afe2021",
-"title": "Des tatamis à l'Élysée ? Teddy Riner candidat surprise à la présidentielle",
-"link": "https://www.france24.com/fr/info-en-continu/20261109-des-tatamis-%C3%A0-l-elys%C3%A9e-teddy-riner-annonce-sa-candidature-%C3%A0-la-pr%C3%A9sidentielle",
-"summary": "",
-"source": "France 24",
-"date": "2026-11-09T12:48:04+00:00",
-"added": "2026-11-09T21:38:07+00:00",
-"official": false,
-"also": [
-"Ouest-France",
-"RMC",
-"RFI"
-],
-"base": [
-"elysee"
-],
-"filtered": true,
-"topics": [
-"elysee",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "db4078494f73af44",
-"title": "Dernière minute. Présidentielle de 2027 : la légende du judo Teddy Riner candidat pour \"redresser la France\"",
-"link": "https://fr.euronews.com/2026/11/09/presidentielle-de-2027-la-legende-du-judo-teddy-riner-candidat-pour-redresser-la-france",
-"summary": "La star française du judo Teddy Riner, quintuple champion olympique, a déclaré lundi qu'il était candidat à l'élection présidentielle, à moins de six mois du scrutin prévu au printemps.",
-"source": "Euronews",
-"date": "2026-11-09T12:45:15+00:00",
-"added": "2026-11-09T14:04:42+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "9e93d1efe09b93d5",
-"title": "Bac 2027 : malgré les blocages, le ministre exclut tout aménagement des épreuves",
-"link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/bac-2027-malgre-les-blocages-le-ministre-exclut-tout-amenagement-des-epreuves_8274542.html",
-"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
-"source": "franceinfo",
-"date": "2026-11-09T12:43:57+00:00",
-"added": "2026-11-09T14:04:42+00:00",
-"official": false,
-"also": [],
-"base": [
-"matinales"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"gouvernement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "02969a547eb4836f",
-"title": "\"Auto-déclaration des arrêts maladie\" : comment Mélenchon veut permettre aux salariés de s'arrêter quelques jours sans certificat médical",
-"link": "https://www.rtl.fr/actu/politique/auto-declaration-des-arrets-maladie-comment-melenchon-veut-permettre-aux-salaries-de-s-arreter-quelques-jours-sans-certificat-medical-7900694225",
-"summary": "C'est l'une des mesures du programme de LFI qui a fait le plus réagir ce week-end. Dans son programme pour la présidentielle de 2027, L'Avenir en commun, La France insoumise propose qu'un salarié puisse s'arrêter quelques jours sans passer systématiquement par la case médecin.",
-"source": "RTL",
-"date": "2026-11-09T12:43:24+00:00",
-"added": "2026-11-09T14:04:42+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jean-Luc Mélenchon"
-},
-{
-"id": "22f6ff88dd998555",
-"title": "Smic à 1.502 euros, prime carburant...: les annonces du gouvernement sur le pouvoir d'achat",
-"link": "https://lcp.fr/actualites/smic-a-1502-euros-prime-carburant-les-annonces-du-gouvernement-sur-le-pouvoir-d-achat",
-"summary": "Face à la colère sociale, le gouvernement a annoncé plusieurs mesures, ce lundi 9 novembre, dont celle attendue de la hausse du Smic.",
-"source": "LCP",
-"date": "2026-11-09T12:35:06+00:00",
-"added": "2026-11-09T14:04:42+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "0878b6cc67bfb3f2",
-"title": "Retraite à 60 ans selon Jean-Luc Mélenchon : plusieurs responsables de gauche contredisent la proposition du candidat LFI à la présidentielle",
-"link": "https://www.cnews.fr/france/2026-11-09/retraite-60-ans-selon-jean-luc-melenchon-plusieurs-responsables-de-gauche",
-"summary": "Plusieurs candidats à la présidentielle classés à gauche ont marqué leur désaccord avec la proposition de Jean-Luc Mélenchon consistant à «restaurer le droit à la retraite à 60 ans».",
-"source": "CNews",
-"date": "2026-11-09T12:34:55+00:00",
-"added": "2026-11-09T14:04:42+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": "Jean-Luc Mélenchon"
-},
-{
-"id": "419507a56025140b",
-"title": "Sébastien Chenu dénonce le programme non chiffré de LFI",
-"link": "https://www.franceinfo.fr/elections/presidentielle/sebastien-chenu-denonce-le-programme-non-chiffre-de-lfi_8274515.html#xtor=RSS-3-%5Bgeneral%5D",
-"summary": "Sébastien Chenu, vice-président RN de l'Assemblée nationale dénonce le \"deux poids, deux mesures\", entre le contre-programme économique du RN et celui de LFI, pour l'instant non chiffré.",
-"source": "franceinfo",
-"date": "2026-11-09T12:30:02+00:00",
-"added": "2026-11-09T14:04:42+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement",
-"partis"
-],
-"natures": [
-"Réaction"
-],
-"speaker": "Sébastien Chenu"
-},
-{
-"id": "8c295735ce1864bb",
-"title": "Pouvoir d’achat : Sébastien Lecornu annonce une hausse anticipée du Smic à 1 502 euros dès le 1er décembre",
-"link": "https://www.publicsenat.fr/actualites/politique/pouvoir-dachat-sebastien-lecornu-annonce-une-hausse-anticipee-du-smic-a-1-502-euros-des-le-1er-decembre",
-"summary": "Un premier geste, mais pas « un solde de tout compte ». Face aux revendications syndicales sur le pouvoir d’achat, Sébastien Lecornu a annoncé, lundi 9 novembre, une revalorisation anticipée du Smic de 1,6 % à compter du 1er décembre.",
-"source": "Public Sénat",
-"date": "2026-11-09T12:29:01+00:00",
-"added": "2026-11-09T14:04:42+00:00",
-"official": false,
-"also": [
-"BFMTV",
-"France 24"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [
-"Annonce"
-],
-"speaker": "Sébastien Lecornu"
-},
-{
-"id": "b41c6605974d2de6",
-"title": "Hausse du Smic de 1,6 %, baisse du prix du gazole de 21 %… Ce qu’il faut retenir de la conférence sociale à Matignon",
-"link": "https://www.ouest-france.fr/economie/social/hausse-du-smic-de-1-6-pourcent-comite-de-suivi-des-salaires-ce-quil-faut-retenir-de-la-conference-sociale-de-ce-lundi-ae41feee-dc34-11f1-81f5-8e32b0872d76",
-"summary": "",
-"source": "Ouest-France",
-"date": "2026-11-09T12:27:36+00:00",
-"added": "2026-11-09T14:04:42+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "458d0166ca10b3e8",
-"title": "Teddy Riner candidat à la présidentielle 2027: \"Il faudrait qu'il règle ses histoires de voitures de luxe déjà...\", tacle Daniel Riolo",
-"link": "https://rmc.bfmtv.com/actualites/politique/teddy-riner-candidat-a-la-presidentielle-2027-il-faudrait-qu-il-regle-ses-histoires-de-voitures-de-luxe-deja-tacle-daniel-riolo_AV-202611090544.html",
-"summary": "Un nouveau candidat surprise! \"Je m'appelle Teddy Riner et, aujourd'hui, je vous le dis les yeux dans les yeux, je suis candidat à l'élection présidentielle de 2027\".",
-"source": "RMC",
-"date": "2026-11-09T12:22:02+00:00",
-"added": "2026-11-09T14:04:42+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "Daniel Riolo"
-},
-{
-"id": "118f3cfb20420b4d",
-"title": "Teddy Riner candidat à l'élection présidentielle",
-"link": "https://www.franceinfo.fr/elections/presidentielle/candidats/teddy-riner-candidat-a-l-election-presidentielle_8274530.html",
-"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
-"source": "franceinfo",
-"date": "2026-11-09T12:16:53+00:00",
-"added": "2026-11-09T14:04:42+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "2d578bdce4fa024d",
-"title": "“Les organisations patronales ont toutes exprimé un grand sens des responsabilités”, déclare Jean-Pierre Farandou, ministre du Travail",
-"link": "https://www.bfmtv.com/politique/video-les-organisations-patronales-ont-toutes-exprime-un-grand-sens-des-responsabilites-declare-jean-pierre-farandou-ministre-du-travail_VN-202611090534.html",
-"summary": "Dans le court terme, Sébastien Lecornu veut \"libérer l'ensemble des outils qui sont à la main du gouvernement en matière de pouvoir d'achat\".",
-"source": "BFMTV",
-"date": "2026-11-09T12:07:03+00:00",
-"added": "2026-11-09T14:04:42+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jean-Pierre Farandou"
-},
-{
-"id": "dbd078c861bdcfcc",
-"title": "Crise sociale: \"Les fonctionnaires, qui rendent le service public de ce pays, sont aussi au cœur de nos attentions\", assure Sébastien Lecornu",
-"link": "https://www.bfmtv.com/politique/video-crise-sociale-les-fonctionnaires-qui-rendent-le-service-public-de-ce-pays-sont-aussi-au-c-ur-de-nos-attentions-assure-sebastien-lecornu_VN-202611090532.html",
-"summary": "Une nouvelle semaine de mobilisation sociale débute ce lundi 9 novembre, avec une conférence sociale organisée par Matignon réunissant organisations syndicales et patronales.",
-"source": "BFMTV",
-"date": "2026-11-09T12:05:36+00:00",
-"added": "2026-11-09T14:04:42+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Sébastien Lecornu"
-},
-{
-"id": "b5ce17d09972c54d",
-"title": "[Podcasts] L'échec du jour - Olivier Truchot : \"Mélenchon est en ordre de marche : le programme, les troupes, le meeting, c'est carré. Marine Le Pen, c'est pareil. Et les autres sont là à se poser des questions\" - 09/11",
-"link": "https://rmc.bfmtv.com/replay-emissions/les-grandes-gueules/l-echec-du-jour-olivier-truchot-melenchon-est-en-ordre-de-marche-le-programme-les-troupes-le-meeting-c-est-carre-marine-le-pen-c-est-pareil-et-les-autres-sont-la-a-se-poser-des-questions-09-11_EN-202611090527.html",
-"summary": "Aujourd'hui, Zohra Bitan, intervenante auprès de la jeunesse, Didier Giraud, éleveur de bovins, et Charles Consigny, avocat, débattent de l'actualité autour d'Alain Marschall et Olivier Truchot.",
-"source": "RMC",
-"date": "2026-11-09T12:03:42+00:00",
-"added": "2026-11-09T14:04:42+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Citation",
-"Discours"
-],
-"speaker": "Olivier Truchot"
-},
-{
-"id": "efebc4be9215e223",
-"title": "\"C'est le meilleur, c'est un tribun, il est excellent\": Michel Drucker fait ses pronostics pour la présidentielle 2027",
-"link": "https://rmc.bfmtv.com/actualites/people-culture/c-est-le-meilleur-c-est-un-tribun-il-est-excellent-michel-drucker-fait-ses-pronostics-pour-la-presidentielle-2027_AV-202611090523.html",
-"summary": "Après les pronostics des Grandes Gueules, c'est au tour de Michel Drucker de se laisser aller à une prédiction pour la présidentielle de 2027 sur le même plateau.",
-"source": "RMC",
-"date": "2026-11-09T12:02:09+00:00",
-"added": "2026-11-09T19:44:47+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Michel Drucker"
-},
-{
-"id": "fa98a01af47cac04",
-"title": "Présidentielle 2027 : « Si les Français m’y autorisent… », malgré sa candidature, Teddy Riner rêve toujours des JO de Los Angeles 2028",
-"link": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-si-les-francais-my-autorisent-malgre-sa-candidature-teddy-riner-reve-toujours-des-jo-de-los-angeles-2028-09-11-2026-PO6E3MLAIFB6BLE7V2WCBDEDTM.php",
-"summary": "",
-"source": "Le Parisien",
-"date": "2026-11-09T12:01:24+00:00",
-"added": "2026-11-09T14:04:42+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "53730022cebbe8ed",
-"title": "« La France doit apprendre à dépenser mieux pour pouvoir distribuer du pouvoir d’achat »",
-"link": "https://www.lemonde.fr/idees/article/2026/11/09/la-france-doit-apprendre-a-depenser-mieux-pour-pouvoir-distribuer-du-pouvoir-d-achat_6808649_3232.html",
-"summary": "Réduire les déficits est indispensable. Encore faut-il préserver les dépenses qui préparent la prospérité de demain.",
-"source": "Le Monde",
-"date": "2026-11-09T12:00:02+00:00",
-"added": "2026-11-09T14:04:42+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "49757a00018a04dc",
-"title": "Quand Trotski éclipse les Lumières, par Jean-François Copé",
-"link": "https://www.lexpress.fr/france/quand-trotski-eclipse-les-lumieres-par-jean-francois-cope-X4C2LYBYJ5DUVLSOZMRNBA5MUA/",
-"summary": "Dans sa conquête du pouvoir, La France insoumise s’attaque méthodiquement aux piliers de l’Etat de droit, c’est-à-dire à l’Etat lui-même.",
-"source": "L'Express",
-"date": "2026-11-09T12:00:00+00:00",
-"added": "2026-11-09T14:04:42+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "e2964cd1e12e5e42",
-"title": "Le gouvernement porte le SMIC à 1.502 euros par mois (+1,6%), dès le 1er décembre",
-"link": "https://www.bfmtv.com/politique/video-le-gouvernement-porte-le-smic-a-1-502-euros-par-mois-1-6-des-le-1er-decembre_VN-202611090518.html",
-"summary": "Le ministre du Travail et des Solidarités, Jean-Pierre Farandou, a annoncé ce lundi 9 novembre une hausse de 1,6% du SMIC en France.",
-"source": "BFMTV",
-"date": "2026-11-09T11:58:10+00:00",
-"added": "2026-11-09T14:04:42+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "ec80a11ad1b75f74",
-"title": "Augmentation du Smic: Sébastien Lecornu, Premier ministre, affirme que “cela va être la deuxième hausse la plus importante en 20 ans”",
-"link": "https://www.bfmtv.com/politique/video-augmentation-du-smic-sebastien-lecornu-premier-ministre-affirme-que-cela-va-etre-la-deuxieme-hausse-la-plus-importante-en-20-ans_VN-202611090516.html",
-"summary": "Le ministre du Travail Jean-Pierre Farandou annonce une augmentation du Smic de 1,6% pour le 1er décembre, soit un salaire minimum à 1.502 euros nets.",
-"source": "BFMTV",
-"date": "2026-11-09T11:56:46+00:00",
-"added": "2026-11-09T14:04:42+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Sébastien Lecornu"
-},
-{
-"id": "918a5be767709822",
-"title": "Prime de partage de la valeur: “On va l’ouvrir aux entreprises au-dessus de 50 salariés”, explique Serge Papin, ministre des PME et du Commerce",
-"link": "https://www.bfmtv.com/politique/video-prime-de-partage-de-la-valeur-on-va-l-ouvrir-aux-entreprises-au-dessus-de-50-salaries-explique-serge-papin-ministre-des-pme-et-du-commerce_VN-202611090513.html",
-"summary": "Une nouvelle semaine de mobilisation sociale débute ce lundi 9 novembre, avec une conférence sociale organisée par Matignon réunissant organisations syndicales et patronales.",
-"source": "BFMTV",
-"date": "2026-11-09T11:54:57+00:00",
-"added": "2026-11-09T14:04:42+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Serge Papin"
-},
-{
-"id": "34a80c6b0b509be3",
-"title": "Présidentielle 2027, faut-il être prophète ou pasteur ?",
-"link": "https://www.la-croix.com/politique/presidentielle-2027-faut-il-etre-prophete-ou-pasteur-20261109",
-"summary": "Dans sa chronique hebdomadaire LE ROYAUME ET LA CITÉ, Loup Besmond de Senneville revient sur la méthode des évêques français pour faire entendre leur voix dans la perspective de la prochaine présidentielle.",
-"source": "La Croix",
-"date": "2026-11-09T11:53:40+00:00",
-"added": "2026-11-09T14:04:42+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "e870210a0b2d104a",
-"title": "Prime carburant: Roland Lescure, ministre de l’Économie, indique “prolonger en 2027 le relèvement du plafond”",
-"link": "https://www.bfmtv.com/politique/video-prime-carburant-roland-lescure-ministre-de-l-economie-indique-prolonger-en-2027-le-relevement-du-plafond_VN-202611090506.html",
-"summary": "Dans le court terme, Sébastien Lecornu veut \"libérer l'ensemble des outils qui sont à la main du gouvernement en matière de pouvoir d'achat\".",
-"source": "BFMTV",
-"date": "2026-11-09T11:52:49+00:00",
-"added": "2026-11-09T14:04:42+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Roland Lescure"
-},
-{
-"id": "de3325d1123708d2",
-"title": "Crise sociale: “L’État a pris ses responsabilités”, dit Jean-Pierre Farandou, ministre du Travail",
-"link": "https://www.bfmtv.com/politique/video-crise-sociale-l-etat-a-pris-ses-responsabilites-dit-jean-pierre-farandou-ministre-du-travail_VN-202611090505.html",
-"summary": "Une nouvelle semaine de mobilisation sociale débute ce lundi 9 novembre, avec une conférence sociale organisée par Matignon réunissant organisations syndicales et patronales.",
-"source": "BFMTV",
-"date": "2026-11-09T11:50:18+00:00",
-"added": "2026-11-09T14:04:42+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jean-Pierre Farandou"
-},
-{
-"id": "f2ca7e7f0f9ec7df",
-"title": "\"Une contrainte supplémentaire pour les entreprises\": le patron des petites entreprises réagit à l'annonce de la hausse du Smic",
-"link": "https://www.bfmtv.com/politique/video-une-contrainte-supplementaire-pour-les-entreprises-le-patron-des-petites-entreprises-reagit-a-l-annonce-de-la-hausse-du-smic_VN-202611090503.html",
-"summary": "Les syndicats et représentants du patronat reçus à Matignon, ce lundi 9 novembre, s'expriment sur les annonces du Premier ministre Sébastien Lecornu sur la hausse du Smic.",
-"source": "BFMTV",
-"date": "2026-11-09T11:48:45+00:00",
-"added": "2026-11-09T14:04:42+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement"
-],
-"natures": [
-"Citation",
-"Annonce",
-"Réaction"
-],
-"speaker": ""
-},
-{
-"id": "8684cac01caa0ad5",
-"title": "[Podcasts] L'analyse du jour - Charles Consigny : \"Je pense que les Insoumis sont moins stratèges que ce qu'on pense. Ils naviguent à vue. Ils vont faire élire Marine Le Pen et ils se prendront pour des résistants\" - 09/11",
-"link": "https://rmc.bfmtv.com/replay-emissions/les-grandes-gueules/l-analyse-du-jour-charles-consigny-je-pense-que-les-insoumis-sont-moins-strateges-que-ce-qu-on-pense-ils-naviguent-a-vue-ils-vont-faire-elire-marine-le-pen-et-ils-se-prendront-pour-des-resistants-09-11_EN-202611090502.html",
-"summary": "Aujourd'hui, Zohra Bitan, intervenante auprès de la jeunesse, Didier Giraud, éleveur de bovins, et Charles Consigny, avocat, débattent de l'actualité autour d'Alain Marschall et Olivier Truchot.",
-"source": "RMC",
-"date": "2026-11-09T11:48:31+00:00",
-"added": "2026-11-09T14:04:42+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Charles Consigny"
-},
-{
-"id": "667a2a383a60788d",
-"title": "Présidentielle 2027 : les sympathisants RN et LFI unanimes sur la victoire de leurs candidats, selon un sondage",
-"link": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-les-sympathisants-rn-et-lfi-unanimes-sur-la-victoire-de-leurs-candidats-selon-un-sondage-09-11-2026-VYFEPP343RCJND7F6SCMBTWNMY.php",
-"summary": "",
-"source": "Le Parisien",
-"date": "2026-11-09T11:47:20+00:00",
-"added": "2026-11-09T14:04:42+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"partis",
 "presidentielle"
 ],
 "natures": [],
