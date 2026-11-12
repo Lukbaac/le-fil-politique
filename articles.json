@@ -1,5 +1,461 @@
 [
 {
+"id": "1e841eb8020d1f1a",
+"title": "Deux membres de la garde républicaine s'effondrent près d'Emmanuel Macron dans la cour de l'Élysée",
+"link": "https://www.bfmtv.com/politique/elysee/deux-membres-de-la-garde-republicaine-s-effondrent-pres-d-emmanuel-macron-dans-la-cour-de-l-elysee_AV-202611120206.html",
+"summary": "Deux gardes républicains se sont effondrés sur le parvis de l'Élysée lors de la cérémonie d'accueil du président slovaque Peter Pellegrini ce mercredi 11 novembre, à deux pas d'Emmanuel Macron.",
+"source": "BFMTV",
+"date": "2026-11-12T06:36:39+00:00",
+"added": "2026-11-12T06:41:40+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "ee72da9eafe71245",
+"title": "Edouard Philippe passe-t-il à côté de sa campagne ? Nos journalistes répondent dans «Chez Pol, l’émission»",
+"link": "https://www.liberation.fr/politique/elections/edouard-philippe-passe-t-il-a-cote-de-sa-campagne-nos-journalistes-repondent-dans-chez-pol-lemission-20261112_WHIPEBCP6FEFFLNOEZ3MNTQLDA/",
+"summary": "En direct sur Twitch et YouTube avec les journalistes politiques de «Libération», on se penche sur le cas d’Edouard Philippe qui dévisse dans les sondages.",
+"source": "Libération",
+"date": "2026-11-12T06:35:40+00:00",
+"added": "2026-11-12T06:41:40+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "75860a48cbb10ec9",
+"title": "L'ÉDITO ÉCO - Un sondage révèle que les Français ne maîtrisent pas le système de retraite actuel",
+"link": "https://www.bfmtv.com/replay-emissions/bfm-premiere/video-l-edito-eco-un-sondage-revele-que-les-francais-ne-maitrisent-pas-le-systeme-de-retraite-actuel_VN-202611120196.html",
+"summary": "VIDÉO - Selon un sondage Ifop,  les règles de base de la retraite restent mal connues, mais une large majorité est déjà prête à faire évoluer le modèle.",
+"source": "BFMTV",
+"date": "2026-11-12T06:26:53+00:00",
+"added": "2026-11-12T06:41:40+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "2f289b7feda67956",
+"title": "À l'Élysée, deux gardes d’honneur s’effondrent à côté d’Emmanuel Macron",
+"link": "https://www.tf1info.fr/justice-faits-divers/video-paris-a-l-elysee-deux-gardes-d-honneur-s-effondrent-a-cote-d-emmanuel-macron-2475351.html",
+"summary": "Une scène rarissime qui a marqué les esprits. Mercredi, en fin de journée, deux gardes d’honneur du palais de l’Élysée se sont effondrés à proximité directe d'Emmanuel Macron.",
+"source": "TF1 Info",
+"date": "2026-11-12T06:20:38+00:00",
+"added": "2026-11-12T06:41:40+00:00",
+"official": false,
+"also": [
+"Le Parisien",
+"Le Dauphiné Libéré"
+],
+"base": [
+"elysee"
+],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "2b74ff9456dec62c",
+"title": "Présidentielle 2027. 101 départements en 101 jours : le pari fou d’Olivier Becht pour se faire un nom et viser l’Élysée",
+"link": "https://www.ledauphine.com/elections/2026/11/12/101-departements-en-101-jours-le-pari-fou-d-olivier-becht-pour-se-faire-un-nom-et-viser-l-elysee",
+"summary": "Ancien ministre, député du Haut-Rhin et candidat à la présidentielle, Olivier Becht reste largement méconnu du grand public.",
+"source": "Le Dauphiné Libéré",
+"date": "2026-11-12T06:20:10+00:00",
+"added": "2026-11-12T06:41:40+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement",
+"parlement",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "60a1af00133b7d6e",
+"title": "Budget 2027 : le Sénat veut sauver le projet rejeté par l’Assemblée nationale",
+"link": "https://www.lemonde.fr/politique/article/2026/11/12/budget-2027-le-senat-veut-sauver-le-projet-rejete-par-l-assemblee-nationale_6809064_823448.html",
+"summary": "Les sénateurs ont commencé à étudier le projet de loi rejeté à l’unanimité par les députés le 4 novembre. Leur ambition : muscler le texte, pour s’assurer que le déficit public sera effectivement réduit.",
+"source": "Le Monde",
+"date": "2026-11-12T06:00:11+00:00",
+"added": "2026-11-12T06:41:40+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "812bb4b3324347df",
+"title": "Sur l’Ukraine, Mélenchon à la roulette russe",
+"link": "https://www.latribune.fr/article/la-tribune-dimanche/politique/11696228530785/sur-l-ukraine-melenchon-a-la-roulette-russe",
+"summary": "Jean-Luc Mélenchon lors d'un meeting de campagne à La Souterraine, le 11 novembre 2026.",
+"source": "La Tribune",
+"date": "2026-11-12T06:00:04+00:00",
+"added": "2026-11-12T06:41:40+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "400c3f21c521aad0",
+"title": "L'ÉDITO POLITIQUE DE GUILLAUME DARET - Marine Tondelier: une candidate en difficulté",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-l-edito-politique-de-guillaume-daret-marine-tondelier-une-candidate-en-difficulte_VN-202611120167.html",
+"summary": "Marine Tondelier, candidate écologiste à la présidentielle, est l'invitée de \"Vous présidente\" ce jeudi à 21h sur BFMTV.",
+"source": "BFMTV",
+"date": "2026-11-12T05:52:40+00:00",
+"added": "2026-11-12T06:41:40+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "7f7a1eac7da3f12c",
+"title": "Rejetée par les députés, sauvée par les sénateurs: ce que contient cette proposition de nouvelle \"taxe sucre\" visant glaces, biscuits et bonbons",
+"link": "https://www.bfmtv.com/economie/entreprises/rejetee-par-les-deputes-sauvee-par-les-senateurs-ce-que-contient-cette-proposition-de-nouvelle-taxe-sucre-visant-glaces-biscuits-et-bonbons_AV-202611120160.html",
+"summary": "La \"taxe sucre\" n'a pas encore dit son dernier mot: rejetée par l'Assemblée nationale, elle vient pourtant de décrocher le feu vert du Sénat.",
+"source": "BFMTV",
+"date": "2026-11-12T05:49:15+00:00",
+"added": "2026-11-12T06:41:40+00:00",
+"official": false,
+"also": [],
+"base": [
+"parlement"
+],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "10982982cbf45be4",
+"title": "Présidentielle : vers un « accord de majorité » entre LFI et les Verts ?",
+"link": "https://www.latribune.fr/article/la-tribune-dimanche/politique/presidentielle/11909643578236/presidentielle-vers-un-accord-de-majorite-entre-lfi-et-les-verts",
+"summary": "Les Écologistes trancheront dans un mois, le 13 décembre, leur stratégie pour la présidentielle. D’ici là, le parti de Marine Tondelier souhaite négocier avec les équipes de Raphaël Glucksmann et celles de Jean-Luc Mélenchon pour envisager un éventuel soutien.",
+"source": "La Tribune",
+"date": "2026-11-12T05:45:01+00:00",
+"added": "2026-11-12T06:41:40+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "6149b43cdbbc71c0",
+"title": "Présidentielle 2027 : baisse des prix de l’énergie, «entreprises patriotes»… Nicolas Dupont-Aignan dévoile son programme économique ce jeudi",
+"link": "https://www.cnews.fr/france/2026-11-12/presidentielle-2027-baisse-des-prix-de-lenergie-entreprises-patriotes-nicolas",
+"summary": "Le candidat à l’élection présidentielle Nicolas Dupont-Aignan dévoile son programme économique depuis son QG, ce jeudi 12 novembre.",
+"source": "CNews",
+"date": "2026-11-12T05:32:00+00:00",
+"added": "2026-11-12T06:41:40+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [
+"Annonce"
+],
+"speaker": ""
+},
+{
+"id": "56adfb45a7797a30",
+"title": "Présidentielle 2027 : comment les influenceurs attisent les convoitises des équipes de campagne",
+"link": "https://www.lemonde.fr/pixels/article/2026/11/12/presidentielle-2027-comment-les-influenceurs-attisent-les-convoitises-des-equipes-de-campagne_6809062_4408996.html",
+"summary": "Invités à prendre part à des meetings ou à relayer la communication de candidats sur les réseaux sociaux, les créateurs de contenu sur Internet sont, à cinq mois du scrutin, sollicités de toutes parts.",
+"source": "Le Monde",
+"date": "2026-11-12T05:30:10+00:00",
+"added": "2026-11-12T06:41:40+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "44da3edcc1f861bd",
+"title": "Présidentielle 2027 : défenseur d’une «refonte radicale du système», le candidat Olivier Becht entame son tour de France ce jeudi",
+"link": "https://www.cnews.fr/france/2026-11-12/presidentielle-2027-defenseur-dune-refonte-radicale-du-systeme-le-candidat",
+"summary": "L’ancien ministre qui se classe lui-même à «l’extrême-centre» entend ainsi présenter son projet visant à refonder entièrement le modèle de l’État.",
+"source": "CNews",
+"date": "2026-11-12T05:16:05+00:00",
+"added": "2026-11-12T06:41:40+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"gouvernement",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "07dadcfb5743a9ce",
+"title": "Déficit de militants, traumatisme des années Juppé… Pourquoi Édouard Philippe ne veut pas d'une primaire",
+"link": "https://www.europe1.fr/politique/deficit-de-militants-traumatisme-des-annees-juppe-pourquoi-edouard-philippe-ne-veut-pas-dune-primaire-1225835",
+"summary": "Malgré la proposition de Bruno Retailleau d'organiser une primaire, pour désigner un candidat unique de la droite et du centre en vue de la présidentielle, Édouard Philippe continue de ne pas l'envisager.",
+"source": "Europe 1",
+"date": "2026-11-12T05:15:00+00:00",
+"added": "2026-11-12T06:41:40+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": "Édouard Philippe"
+},
+{
+"id": "55756ab714c292cf",
+"title": "Quand ? Avec qui ? Comment ? A droite et au centre, l'idée d'une primaire fait encore débat à six mois de la présidentielle",
+"link": "https://www.franceinfo.fr/elections/presidentielle/quand-avec-qui-comment-a-droite-et-au-centre-l-idee-d-une-primaire-fait-encore-debat-a-six-mois-de-la-presidentielle_8277515.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "L'idée, portée par l'ancien Premier ministre Gabriel Attal, séduit plusieurs de ses concurrents. Mais alors qu'Edouard Philippe refuse toujours d'y participer, les modalités d'un éventuel scrutin restent encore floues.",
+"source": "franceinfo",
+"date": "2026-11-12T05:04:08+00:00",
+"added": "2026-11-12T06:41:40+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "5e755ccfce3110a2",
+"title": "« Véritable punition collective, le projet de loi “casseur-payeur” dissuadera de manifester et viendra museler l’expression de toute opposition au pouvoir »",
+"link": "https://www.lemonde.fr/idees/article/2026/11/12/veritable-punition-collective-le-projet-de-loi-casseur-payeur-dissuadera-de-manifester-et-viendra-museler-l-expression-de-toute-opposition-au-pouvoir_6809055_3232.html",
+"summary": "S’il était définitivement adopté, le texte inscrirait dans la loi le basculement de notre pays vers l’autoritarisme, s’alarment, dans une tribune au « Monde », les avocats du collectif Colère noire, aux côtés de personnalités, parmi lesquelles l’acteur Swann Arlaud, la politiste Vanessa Codaccioni et l’écrivaine Alice…",
+"source": "Le Monde",
+"date": "2026-11-12T05:00:33+00:00",
+"added": "2026-11-12T06:41:40+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "6d19893ab77dfec7",
+"title": "Éric Ciotti bientôt chargé du régalien dans la campagne de Marine Le Pen ?",
+"link": "https://www.latribune.fr/article/la-tribune-dimanche/politique/4368064673755514/eric-ciotti-bientot-charge-du-regalien-dans-la-campagne-de-marine-le-pen",
+"summary": "Éric Ciotti et Marine Le Pen au salon des équipements de défense navale à Villepinte, près de Paris, le 5 novembre 2026.",
+"source": "La Tribune",
+"date": "2026-11-12T05:00:02+00:00",
+"added": "2026-11-12T06:41:40+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "4133e4c85e97a768",
+"title": "«Edouard Philippe va être obligé de céder» : à droite, la question de la primaire devient centrale",
+"link": "https://www.liberation.fr/politique/edouard-philippe-va-etre-oblige-de-ceder-a-droite-la-question-de-la-primaire-devient-centrale-20261112_P5EEAIDSWVEKXASNXECZJBSBIA/",
+"summary": "A cinq mois du premier tour, Gabriel Attal et Bruno Retailleau tentent de contraindre le maire du Havre à une primaire de la droite et du centre.",
+"source": "Libération",
+"date": "2026-11-12T05:00:00+00:00",
+"added": "2026-11-12T06:41:40+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "8447534c49c8ec54",
+"title": "Le dessin du jeudi 11 novembre : le programme de Jean-Luc Mélenchon publié en librairie",
+"link": "https://www.sudouest.fr/redaction/le-dessin-du-jour/le-dessin-du-jeudi-11-novembre-le-programme-de-jean-luc-melenchon-publie-en-librairie-31486813.php",
+"summary": "",
+"source": "Sud Ouest",
+"date": "2026-11-12T05:00:00+00:00",
+"added": "2026-11-12T06:41:40+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "3e0a9aedf53b3044",
+"title": "Présidentielle 2027 : et si Teddy Riner était le cheval de Troie d’Emmanuel Macron, façon ultime carte dans la manche…",
+"link": "https://www.midilibre.fr/2026/11/12/presidentielle-2027-et-si-teddy-riner-etait-le-cheval-de-troie-demmanuel-macron-facon-ultime-carte-dans-la-manche-13647652.php",
+"summary": "Le président de la République pourrait avoir une convergence d’intérêts avec le judoka désormais candidat. Faire en sorte, dans un coup de poker, d’évincer Jean-Luc Mélenchon du second tour.",
+"source": "Midi Libre",
+"date": "2026-11-12T05:00:00+00:00",
+"added": "2026-11-12T06:41:40+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"elysee",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "11009d2e07ef164b",
+"title": "Présidentielle 2027 : Sans être candidate à l’Élysée, Lagarde fait mieux que Philippe dans un sondage",
+"link": "https://www.20minutes.fr/politique/4262263-20261112-presidentielle-2027-etre-candidate-elysee-lagarde-fait-mieux-philippe-sondage?at_medium=display&at_campaign=149",
+"summary": "Après la dernière candidature en date, celle de Teddy Riner, la liste des prétendants à l’Élysée va-t-elle encore s’allonger ?",
+"source": "20 Minutes",
+"date": "2026-11-12T03:16:07+00:00",
+"added": "2026-11-12T06:41:40+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "a732b06a429cbe98",
+"title": "La hausse du smic mettra 164 branches professionnelles dans l’« illégalité », alerte la CGT",
+"link": "https://www.lemonde.fr/economie/article/2026/11/12/la-hausse-du-smic-mettra-164-branches-professionnelles-dans-l-illegalite-pointe-la-cgt_6809037_3234.html",
+"summary": "La revalorisation du salaire minimum, annoncée lundi par le gouvernement et prévue le 1ᵉʳ décembre, pourrait entraîner la non-conformité d’un grand nombre de branches qui se retrouveraient avec une rémunération de base située en dessous du smic, dénonce le syndicat.",
+"source": "Le Monde",
+"date": "2026-11-12T01:18:19+00:00",
+"added": "2026-11-12T06:41:40+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "272b3a9682708db5",
+"title": "« Nous sommes de nouveau sur la pente de la guerre ! » Jean-Luc Mélenchon déroule en Creuse le volet international de son programme 2027",
+"link": "https://www.lamontagne.fr/souterraine-23300/actualites/nous-sommes-de-nouveau-sur-la-pente-de-la-guerre-jean-luc-melenchon-deroule-en-creuse-le-volet-international-de-son-programme-2027_15080121/",
+"summary": "Jusqu’à 1.500 euros d’amende : 657 communes de France interdisent désormais les feux de cheminée, êtes-vous concerné ?",
+"source": "La Montagne",
+"date": "2026-11-11T22:07:00+00:00",
+"added": "2026-11-12T06:41:40+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "db7d53b1144dbb47",
 "title": "FORUM BFMTV - Pierre-Henri Dumont, porte-parole de Bruno Retailleau, affirme “qu’il y a une angoisse” autour de Parcoursup",
 "link": "https://www.bfmtv.com/politique/video-forum-bfmtv-pierre-henri-dumont-porte-parole-de-bruno-retailleau-affirme-qu-il-y-a-une-angoisse-autour-de-parcoursup_VN-202611110816.html",
@@ -22,6 +478,24 @@
 "speaker": "Pierre-Henri Dumont"
 },
 {
+"id": "799c56dc588c5dba",
+"title": "FORUM BFMTV - Mouvement lycéen: \"J'ai des établissements où il n'y a pas de prof de français depuis la rentrée\", témoigne Sabrina Sebaihi, députée \"Écologiste et social\" des Hauts-de-Seine",
+"link": "https://www.bfmtv.com/politique/video-forum-bfmtv-mouvement-lyceen-j-ai-des-etablissements-ou-il-n-y-a-pas-de-prof-de-francais-depuis-la-rentree-temoigne-sabrina-sebaihi-deputee-ecologiste-et-social-des-hauts-de-seine_VN-202611110812.html",
+"summary": "BFMTV propose un nouveau numéro du FORUM BFMTV: “Manifs : face aux violences, comment stopper l’engrenage ?“. La chaîne propose une soirée spéciale pour permettre de débattre en direct des sujets au cœur des préoccupations des Français tels que le pouvoir d’achat et la colère sociale.",
+"source": "BFMTV",
+"date": "2026-11-11T21:38:51+00:00",
+"added": "2026-11-12T06:41:40+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "456b9f9957bac5e9",
 "title": "«Pour que Jean-Luc Mélenchon qualifie Teddy Riner de \"mec de droite\", c'est qu'il sent le danger», estime le député Modem Richard Ramos",
 "link": "https://www.cnews.fr/france/2026-11-11/pour-que-jean-luc-melenchon-qualifie-teddy-riner-de-mec-de-droite-cest-quil-sent",
@@ -30,7 +504,9 @@
 "date": "2026-11-11T21:32:00+00:00",
 "added": "2026-11-11T21:59:59+00:00",
 "official": false,
-"also": [],
+"also": [
+"BFMTV"
+],
 "base": [
 "partis"
 ],
@@ -86,6 +562,45 @@
 "speaker": ""
 },
 {
+"id": "a201f71f61c9f213",
+"title": "Cette nouvelle annonce de Lecornu ne devrait pas calmer la colère des étudiants",
+"link": "https://www.huffingtonpost.fr/politique/article/cette-nouvelle-annonce-de-sebastien-lecornu-ne-devrait-pas-calmer-la-colere-des-etudiants_356105.html",
+"summary": "Le Premier ministre fait un pas de plus vers les étudiants, mais pas sûr que cela change grand-chose à leur colère actuelle.",
+"source": "Le HuffPost",
+"date": "2026-11-11T21:02:55+00:00",
+"added": "2026-11-12T06:41:40+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement"
+],
+"natures": [
+"Annonce"
+],
+"speaker": "Sébastien Lecornu"
+},
+{
+"id": "251eb06049a1f11e",
+"title": "Palais de l'Élysée: un membre de la garde d'honneur s'effondre près d'Emmanuel Macron",
+"link": "https://www.bfmtv.com/politique/elysee/video-palais-de-l-elysee-un-membre-de-la-garde-d-honneur-s-effondre-pres-d-emmanuel-macron_VN-202611110770.html",
+"summary": "Ce 11 novembre, un membre de la garde d'honneur s'est effondré près d'Emmanuel Macron à l'arrivée du président slovaque à l'Élysée.",
+"source": "BFMTV",
+"date": "2026-11-11T20:37:00+00:00",
+"added": "2026-11-12T06:41:40+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "676ecd0811a0c93f",
 "title": "Primaire du centre et de la droite: \"Une réunion de campagne est prévue mardi avec les équipes de Bruno Retailleau, de David Lisnard et de Gabriel Attal\", explique Céline Géraud, porte-parole de la campagne de Gabriel Attal",
 "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-primaire-du-centre-et-de-la-droite-une-reunion-de-campagne-est-prevue-mardi-avec-les-equipes-de-bruno-retailleau-de-david-lisnard-et-de-gabriel-attal-explique-celine-geraud-porte-parole-de-la-campagne-de-gabriel-attal_VN-202611110755.html",
@@ -94,7 +609,9 @@
 "date": "2026-11-11T20:06:03+00:00",
 "added": "2026-11-11T21:59:59+00:00",
 "official": false,
-"also": [],
+"also": [
+"RMC"
+],
 "base": [
 "partis"
 ],
@@ -117,7 +634,9 @@
 "date": "2026-11-11T20:03:28+00:00",
 "added": "2026-11-11T21:59:59+00:00",
 "official": false,
-"also": [],
+"also": [
+"20 Minutes"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -155,7 +674,9 @@
 "date": "2026-11-11T20:01:11+00:00",
 "added": "2026-11-11T21:59:59+00:00",
 "official": false,
-"also": [],
+"also": [
+"BFMTV"
+],
 "base": [
 "presidentielle"
 ],
@@ -198,7 +719,10 @@
 "date": "2026-11-11T19:54:42+00:00",
 "added": "2026-11-11T21:59:59+00:00",
 "official": false,
-"also": [],
+"also": [
+"CNews",
+"TF1 Info"
+],
 "base": [
 "partis"
 ],
@@ -230,6 +754,25 @@
 ],
 "natures": [],
 "speaker": "Jean-Luc Mélenchon"
+},
+{
+"id": "10a53e06918dac28",
+"title": "Un ancien élu rennais reçoit la Légion d’honneur des mains du Premier ministre",
+"link": "https://www.ouest-france.fr/bretagne/rennes-35000/un-ancien-elu-rennais-recoit-la-legion-dhonneur-des-mains-du-premier-ministre-d433761c-de02-11f1-a62b-776e3051b0df",
+"summary": "",
+"source": "Ouest-France",
+"date": "2026-11-11T19:40:34+00:00",
+"added": "2026-11-12T06:41:40+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement"
+],
+"natures": [],
+"speaker": ""
 },
 {
 "id": "1406dc7b170b2b9c",
@@ -285,7 +828,9 @@
 "added": "2026-11-11T19:46:48+00:00",
 "official": false,
 "also": [
-"Le Monde"
+"Le Monde",
+"BFMTV",
+"La Montagne"
 ],
 "base": [],
 "filtered": true,
@@ -460,7 +1005,8 @@
 "added": "2026-11-11T19:46:48+00:00",
 "official": false,
 "also": [
-"CNews"
+"CNews",
+"BFMTV"
 ],
 "base": [
 "presidentielle"
@@ -483,7 +1029,8 @@
 "official": false,
 "also": [
 "BFMTV",
-"Sud Ouest"
+"Sud Ouest",
+"franceinfo"
 ],
 "base": [],
 "filtered": true,
@@ -748,7 +1295,8 @@
 "also": [
 "Le Monde",
 "La Croix",
-"L'Opinion"
+"L'Opinion",
+"20 Minutes"
 ],
 "base": [
 "partis"
@@ -854,6 +1402,27 @@
 ],
 "filtered": true,
 "topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "3e404b7e1ea67afe",
+"title": "11-Novembre : entre mémoire nationale et pacifisme, les hommages de Macron, Le Pen et Mélenchon",
+"link": "https://fr.euronews.com/2026/11/11/11-novembre-entre-memoire-nationale-et-pacifisme-les-hommages-de-macron-le-pen-et-melencho",
+"summary": "La France a commémoré ce mercredi la fin des combats de la Première Guerre mondiale. Comme chaque année, les cérémonies du 11-Novembre ont rassemblé élus, militaires, anciens combattants et citoyens autour des monuments aux morts à travers tout le pays.",
+"source": "Euronews",
+"date": "2026-11-11T16:43:25+00:00",
+"added": "2026-11-12T06:41:40+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"elysee",
 "partis"
 ],
 "natures": [],
@@ -1944,7 +2513,9 @@
 "date": "2026-11-11T11:42:04+00:00",
 "added": "2026-11-11T11:43:25+00:00",
 "official": false,
-"also": [],
+"also": [
+"RMC"
+],
 "base": [
 "partis"
 ],
@@ -2121,7 +2692,8 @@
 "TF1 Info",
 "Le Parisien",
 "Ouest-France",
-"Europe 1"
+"Europe 1",
+"Le Télégramme"
 ],
 "base": [
 "presidentielle"
@@ -2296,6 +2868,29 @@
 "speaker": ""
 },
 {
+"id": "f3057c906608379b",
+"title": "Qu'est-ce que la «motion de censure constructive», que défend le vice-président de l'Assemblée nationale Christophe Blanchet ?",
+"link": "https://www.cnews.fr/france/2026-11-11/quest-ce-qua-la-motion-de-censure-constructive-que-defend-le-vice-president-de",
+"summary": "Député démocrate et vice-président de l’Assemblée nationale, Christophe Blanchet défend une proposition de loi constitutionnelle visant à mettre en place le principe d’une «motion de censure constructive».",
+"source": "CNews",
+"date": "2026-11-11T10:14:02+00:00",
+"added": "2026-11-12T06:41:40+00:00",
+"official": false,
+"also": [],
+"base": [
+"parlement"
+],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": ""
+},
+{
 "id": "bfb51e20fdf84564",
 "title": "Avec cette initiative pro-primaire, Retailleau maintient Philippe sous pression",
 "link": "https://www.huffingtonpost.fr/politique/article/avec-cette-initiative-pro-primaire-retailleau-maintient-philippe-sous-pression_355709.html",
@@ -2304,7 +2899,9 @@
 "date": "2026-11-11T10:12:12+00:00",
 "added": "2026-11-11T11:43:25+00:00",
 "official": false,
-"also": [],
+"also": [
+"Le Monde"
+],
 "base": [
 "partis"
 ],
@@ -2721,6 +3318,28 @@
 "Réaction"
 ],
 "speaker": "Édouard Geffray"
+},
+{
+"id": "4b79dcccf398bf72",
+"title": "Pourparlers sur la guerre en Ukraine, détention de Christophe Gleizes... Le \"8h30 franceinfo\" de Benjamin Haddad",
+"link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/pourparlers-sur-la-guerre-en-ukraine-detention-de-christophe-gleizes-le-8h30-franceinfo-de-benjamin-haddad_8256586.html",
+"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
+"source": "franceinfo",
+"date": "2026-11-11T08:30:37+00:00",
+"added": "2026-11-12T06:41:40+00:00",
+"official": false,
+"also": [],
+"base": [
+"matinales"
+],
+"filtered": true,
+"topics": [
+"matinales"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Benjamin Haddad"
 },
 {
 "id": "71a46fb6802aa3b0",
@@ -3317,6 +3936,24 @@
 "speaker": ""
 },
 {
+"id": "8ff43082ac6d9ccb",
+"title": "Pourquoi l’aide promise par le gouvernement au lycée Joliot-Curie d’Aubagne ne devrait pas arriver ?",
+"link": "https://www.laprovence.com/article/politique/45065118823840/pourquoi-l-aide-promise-par-le-gouvernement-au-lycee-joliot-curie-d-aubagne-ne-devrait-pas-arriver",
+"summary": "Le lycée Joliot Curie d’Aubagne fait partie des 200 établissements prioritaires identifiés par le gouvernement pour recevoir une rénovation bâtimentaire.",
+"source": "La Provence",
+"date": "2026-11-11T06:05:03+00:00",
+"added": "2026-11-12T06:41:40+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "8fc9bcbb98487c03",
 "title": "Comment l’aveuglement de Jean-Luc Mélenchon sur l’Ukraine fragilise sa candidature",
 "link": "https://www.huffingtonpost.fr/politique/article/comment-l-aveuglement-de-jean-luc-melenchon-sur-l-ukraine-fragilise-sa-candidature_354984.html",
@@ -3397,7 +4034,8 @@
 "franceinfo",
 "Franceinfo",
 "Le Monde",
-"France 24"
+"France 24",
+"La Voix du Nord"
 ],
 "base": [],
 "filtered": true,
@@ -3532,6 +4170,25 @@
 "elysee",
 "partis",
 "presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "5176670ac9b8a5cd",
+"title": "Le dessin de Chaunu. Le Premier ministre face à une colère sociale qui ne s’apaise pas",
+"link": "https://www.ouest-france.fr/medias/ouest-france/chaunu/le-dessin-de-chaunu-le-premier-ministre-face-a-une-colere-sociale-qui-ne-sapaise-pas-832388c2-dd47-11f1-86b6-0a2fbb1d8ed9",
+"summary": "",
+"source": "Ouest-France",
+"date": "2026-11-11T04:45:04+00:00",
+"added": "2026-11-12T06:41:40+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement"
 ],
 "natures": [],
 "speaker": ""
@@ -5413,7 +6070,8 @@
 "La Croix",
 "RMC",
 "franceinfo",
-"20 Minutes"
+"20 Minutes",
+"Le Dauphiné Libéré"
 ],
 "base": [
 "presidentielle"
@@ -6203,6 +6861,27 @@
 "topics": [
 "partis",
 "presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "ece210d3be089bdb",
+"title": "La pétition signée par plus d’un million de personnes pour fermer CNews classée par l’Assemblée nationale",
+"link": "https://www.lanouvellerepublique.fr/a-la-une/la-petition-signee-par-plus-d-un-million-de-personnes-pour-fermer-cnews-classee-par-l-assemblee-nationale-1794325223",
+"summary": "Le député LR Alexandre Portier a demandé un débat plus large sur la liberté des médias. © capture écran Assemblée nationale\nLes députés ont décidé de classer mardi 10 novembre 2026 en commission la pétition réclamant de « supprimer CNews de l’audiovisuel français », malgré plus d’un million de signatures, par 28 voix…",
+"source": "La Nouvelle République",
+"date": "2026-11-10T15:40:13+00:00",
+"added": "2026-11-12T06:41:40+00:00",
+"official": false,
+"also": [],
+"base": [
+"parlement"
+],
+"filtered": true,
+"topics": [
+"parlement",
+"partis"
 ],
 "natures": [],
 "speaker": ""
@@ -7238,6 +7917,24 @@
 "filtered": true,
 "topics": [
 "gouvernement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "be720b506bbff284",
+"title": "Mobilisations en France : une revalorisation qu'il \"ne faut pas mépriser\" (Lecornu)",
+"link": "https://www.france24.com/fr/vid%C3%A9o/20261110-mobilisations-en-france-une-revalorisation-qu-il-ne-faut-pas-m%C3%A9priser",
+"summary": "",
+"source": "France 24",
+"date": "2026-11-10T12:08:25+00:00",
+"added": "2026-11-12T06:41:40+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee"
 ],
 "natures": [],
 "speaker": ""
@@ -14843,7 +15540,8 @@
 "official": false,
 "also": [
 "La Nouvelle République",
-"Le Parisien"
+"Le Parisien",
+"Le Figaro"
 ],
 "base": [
 "partis"
@@ -15395,852 +16093,5 @@
 ],
 "natures": [],
 "speaker": ""
-},
-{
-"id": "cb2d9f479af607b0",
-"title": "100% Sénat — 100% Sénat",
-"link": "https://www.publicsenat.fr/emission/100-senat/100-senat-e62-1",
-"summary": "100% Sénat diffuse et décrypte les moments forts de l'examen des textes dans l'Hémicycle, ainsi que des auditions d'experts et de personnalités politiques entendues par les commissions du Sénat.",
-"source": "Public Sénat",
-"date": "2026-11-09T06:40:27+00:00",
-"added": "2026-11-09T08:03:49+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "64a66117fe99799a",
-"title": "Conférence sociale à Matignon, COP31 en Turquie, procès du skipper Kévin Escoffier… L’actu de ce lundi 9 novembre au matin",
-"link": "https://www.liberation.fr/international/europe/conference-sociale-a-matignon-cop31-en-turquie-proces-du-skipper-kevin-escoffier-lactu-de-ce-lundi-9-novembre-au-matin-20261109_CN6YJVFU4ZFAPFTXDE5Q7HVMKU/",
-"summary": "",
-"source": "Libération",
-"date": "2026-11-09T06:36:00+00:00",
-"added": "2026-11-09T06:43:58+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "a38a1d0ca3a007b2",
-"title": "Cybersécurité: les secteurs \"hautement critiques\" bientôt inscrits dans la loi",
-"link": "https://lcp.fr/actualites/cybersecurite-les-secteurs-hautement-critiques-bientot-inscrits-dans-la-loi-444844",
-"summary": "Les députés vont examiner ce lundi 9 novembre le projet de loi relatif au renforcement de la cybersécurité. Le texte prévoit notamment une reconnaissance précise des secteurs \"hautement critiques\", établissant une liste d'entités essentielles et importantes qui devront s'astreindre à des obligations supplémentaires.",
-"source": "LCP",
-"date": "2026-11-09T06:35:02+00:00",
-"added": "2026-11-09T06:43:58+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "7c8e4e7a47993226",
-"title": "Mediterraneo — Epi#014:MEDITERRANEO 2026/2027 – Migration Bulgarie – Amour Cisjordanie 31/33",
-"link": "https://www.publicsenat.fr/emission/mediterraneo/epi-014-mediterraneo-2026-2027-migration-bulgarie-amour-cisjordanie-31-33-e14",
-"summary": "Dans Mediterraneo cette semaine : le retour des Bulgares dans leur pays, après des décennies d'émigration pour fuir misère et l'austérité.",
-"source": "Public Sénat",
-"date": "2026-11-09T06:34:17+00:00",
-"added": "2026-11-09T08:03:49+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "eef082f83281351b",
-"title": "Meurthe-et-Moselle. Glucksmann, Jojo le chimpanzé, l’eau : les indiscrétions politiques de la semaine",
-"link": "https://www.estrepublicain.fr/elections/2026/11/09/glucksmann-jojo-le-chimpanze-l-eau-les-indiscretions-politiques-de-la-semaine",
-"summary": "Raphaël Glucksmann, large vainqueur de la primaire sociale-démocrate, a dévoilé vendredi 6 novembre l’équipe qui portera sa candidature pour l’Élysée.",
-"source": "L'Est Républicain",
-"date": "2026-11-09T06:12:25+00:00",
-"added": "2026-11-09T06:43:58+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"elysee",
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "eb2083ea1d054f5b",
-"title": "Modernes contre anciens, les candidats du nouveau monde électoral ne sont pas ceux que vous croyez, par Denis Pingaud",
-"link": "https://www.liberation.fr/idees-et-debats/tribunes/modernes-contre-anciens-les-candidats-du-nouveau-monde-electoral-ne-sont-pas-ceux-que-vous-croyez-par-denis-pingaud-20261109_HT464Y4D7ZHAFGJOOZPESHHWTI/",
-"summary": "Alors que les candidats de l’ancien monde, Glucksmann ou Philippe, peaufinent leurs programmes et organigrammes, les modernes – Mélenchon, Le Pen ou Lisnard – ont compris qu’une campagne se joue surtout sur la capacité à accompagner les humeurs et les angoisses des Français.",
-"source": "Libération",
-"date": "2026-11-09T06:12:00+00:00",
-"added": "2026-11-09T06:43:58+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "0354d48261692f3e",
-"title": "Jean-Luc Mélenchon accusé de complaisance envers la Russie",
-"link": "https://rmc.bfmtv.com/actualites/politique/video-jean-luc-melenchon-accuse-de-complaisance-envers-la-russie_VN-202611090155.html",
-"summary": "VIDÉO - Jean-Luc Mélenchon défend la possibilité pour le Donbass, région de l'Est de l'Ukraine, de devenir russe après un vote des habitants.",
-"source": "RMC",
-"date": "2026-11-09T06:11:44+00:00",
-"added": "2026-11-09T06:43:58+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Réaction"
-],
-"speaker": ""
-},
-{
-"id": "6b053cd8d047119a",
-"title": "Une proposition pour la France : Jean-Luc Mélenchon propose l’auto-déclaration des arrêts-maladie de courte duré - 09/11",
-"link": "https://rmc.bfmtv.com/replay-emissions/5-7-le-morning-rmc/video-une-proposition-pour-la-france-jean-luc-melenchon-propose-l-auto-declaration-des-arrets-maladie-de-courte-dure-09-11_VN-202611090153.html",
-"summary": "",
-"source": "RMC",
-"date": "2026-11-09T06:09:41+00:00",
-"added": "2026-11-09T06:43:58+00:00",
-"official": false,
-"also": [
-"Le Parisien",
-"BFMTV"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Annonce"
-],
-"speaker": "Jean-Luc Mélenchon"
-},
-{
-"id": "b44a2651109eefef",
-"title": "Présidentielle 2027 : Glucksmann se décide enfin à passer la seconde",
-"link": "https://www.lesechos.fr/elections/presidentielle/presidentielle-2027-glucksmann-se-decide-enfin-a-passer-la-seconde-2261747",
-"summary": "",
-"source": "Les Echos",
-"date": "2026-11-09T06:09:31+00:00",
-"added": "2026-11-09T06:43:58+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "75708f73d66e720a",
-"title": "De la banalisation à l’alliance ? Comment la droite ouvre de plus en plus grand sa porte au RN",
-"link": "https://www.humanite.fr/politique/alliance-rn-les-republicains/de-la-banalisation-a-lalliance-comment-la-droite-ouvre-de-plus-en-plus-grand-sa-porte-au-rn",
-"summary": "Ceux qui préparent le terrain à l’extrême droite (5 épisodes)\nNormalisation des idées xénophobes, État de droit bafoué, exercice autoritaire du pouvoir…",
-"source": "L'Humanité",
-"date": "2026-11-09T06:00:00+00:00",
-"added": "2026-11-09T08:03:49+00:00",
-"official": false,
-"also": [],
-"base": [
-"gouvernement"
-],
-"filtered": true,
-"topics": [
-"gouvernement",
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "7a4ff8e1867494f9",
-"title": "L'ÉDITO POLITIQUE DE GUILLAUME DARET - La nouvelle passe d'armes entre Raphaël Glucksmann et Jean-Luc Mélenchon",
-"link": "https://www.bfmtv.com/politique/video-l-edito-politique-de-guillaume-daret-la-nouvelle-passe-d-armes-entre-raphael-glucksmann-et-jean-luc-melenchon_VN-202611090130.html",
-"summary": "Hué à la manifestation du jeudi 5 novembre contre la vie chère à Paris, le candidat à la présidentielle Raphaël Glucksmann maintient que \"sa place était aux côtés des travailleurs et des syndicats\".",
-"source": "BFMTV",
-"date": "2026-11-09T05:53:49+00:00",
-"added": "2026-11-09T06:43:58+00:00",
-"official": false,
-"also": [
-"L'Opinion"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "623259491edf39c1",
-"title": "Raphaël Glucksmann affirme avoir refusé le poste de Premier ministre en 2024 après la dissolution",
-"link": "https://www.liberation.fr/politique/raphael-glucksmann-affirme-avoir-refuse-le-poste-de-premier-ministre-en-2024-20261108_VB6A55NENJCL3BZF43VE646YX4/",
-"summary": "Interrogé sur BFMTV ce dimanche 8 novembre, le candidat social-démocrate à la présidentielle, associé au macronisme par les insoumis, a juré que «depuis dix ans», il avait décliné tous les postes proposés par Emmanuel Macron.",
-"source": "Libération",
-"date": "2026-11-09T05:51:02+00:00",
-"added": "2026-11-11T21:59:59+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement",
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": "Raphaël Glucksmann"
-},
-{
-"id": "4f08047ab1f63da3",
-"title": "Présidentielle 2027 : Édouard Philippe et Raphaël Glucksmann en perte de vitesse, selon un dernier sondage",
-"link": "https://www.cnews.fr/france/2026-11-09/presidentielle-2027-edouard-philippe-et-raphael-glucksmann-en-perte-de-vitesse",
-"summary": "Alors que Marine Le Pen et Jean-Luc Mélenchon sont toujours en tête des intentions de vote au premier tour de l'élection présidentielle, Édouard Philippe et Raphaël Glucksmann continuent de chuter, selon un sondage Harris Interactive pour M6/RTL publié ce lundi.",
-"source": "CNews",
-"date": "2026-11-09T05:50:49+00:00",
-"added": "2026-11-09T06:43:58+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "2f1af482f2bfcafc",
-"title": "Refus du poste de Premier ministre par Raphaël Glucksmann en 2024 : «Il a besoin de prouver qu'il n'a rien en commun avec Emmanuel Macron», analyse Yoann Usaï",
-"link": "https://www.cnews.fr/france/2026-11-09/refus-du-poste-de-premier-ministre-par-raphael-glucksmann-en-2024-il-besoin-de",
-"summary": "«Il a besoin de prouver qu'il n'a rien en commun avec Emmanuel Macron», a analysé notre journaliste Yoann Usaï ce lundi sur CNEWS, après que Raphaël Glucksmann a révélé avoir refusé le poste de Premier ministre en 2024.",
-"source": "CNews",
-"date": "2026-11-09T05:46:51+00:00",
-"added": "2026-11-09T08:03:49+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement",
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Yoann Usaï"
-},
-{
-"id": "359aa118880004be",
-"title": "« Du pain béni pour les extrêmes » : Henry Lemoine alerte sur la crise et mise sur Retailleau pour la présidentielle",
-"link": "https://www.estrepublicain.fr/economie/2026/11/09/du-pain-beni-pour-les-extremes-henry-lemoine-alerte-sur-la-crise-et-mise-sur-retailleau-pour-la-presidentielle",
-"summary": "« Cette colère lycéenne correspond à une ambiance nationale de rejet de certaines politiques. Une des raisons, c’est que les jeunes n’ont pas de perspectives.",
-"source": "L'Est Républicain",
-"date": "2026-11-09T05:41:48+00:00",
-"added": "2026-11-09T06:43:58+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Henry Lemoine"
-},
-{
-"id": "62ee1dd4433f7f16",
-"title": "Budget de la sécu : ce que proposent les sénateurs qui étudient le projet de loi à partir de ce lundi",
-"link": "https://www.cnews.fr/france/2026-11-09/budget-de-la-secu-ce-que-proposent-les-senateurs-qui-etudient-le-projet-de-loi",
-"summary": "À partir de ce lundi 9 novembre et jusqu'au 18, les sénateurs vont examiner le texte sur le budget de la Sécu, rejeté par l'Assemblée nationale.",
-"source": "CNews",
-"date": "2026-11-09T05:31:21+00:00",
-"added": "2026-11-09T06:43:58+00:00",
-"official": false,
-"also": [],
-"base": [
-"parlement"
-],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "42a5283deac2298a",
-"title": "Guillaume Tabard : «Jean-Luc Mélenchon, une stratégie efficace, une idéologie dangereuse»",
-"link": "https://www.lefigaro.fr/elections/presidentielles/guillaume-tabard-jean-luc-melenchon-une-strategie-efficace-une-ideologie-dangereuse-20261109",
-"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
-"source": "Le Figaro",
-"date": "2026-11-09T05:30:00+00:00",
-"added": "2026-11-09T06:43:58+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Guillaume Tabard"
-},
-{
-"id": "d00ccd36b9c722fd",
-"title": "SONDAGE. Présidentielle 2027 : Marine Le Pen toujours loin devant, Jean-Luc Mélenchon progresse alors qu’Édouard Philippe recule",
-"link": "https://www.sudouest.fr/elections/presidentielle/sondage-presidentielle-2027-marine-le-pen-toujours-loin-devant-jean-luc-melenchon-progresse-alors-qu-edouard-philippe-recule-31452887.php",
-"summary": "",
-"source": "Sud Ouest",
-"date": "2026-11-09T05:29:31+00:00",
-"added": "2026-11-09T06:43:58+00:00",
-"official": false,
-"also": [
-"La Nouvelle République"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "795746ed1f9e9066",
-"title": "L'ÉDITO ÉCO - Jean-Luc Mélenchon, l'alchimiste de l'économie française",
-"link": "https://www.bfmtv.com/economie/video-l-edito-eco-jean-luc-melenchon-l-alchimiste-de-l-economie-francaise_VN-202611090106.html",
-"summary": "VIDÉO - Le candidat insoumis Jean-Luc Mélenchon a proposé samedi à ses partisans de \"tout changer\", une position \"raisonnable\", a-t-il dit lors d'un meeting de campagne pour la présentation du programme présidentiel de La France insoumise (LFI) au Bourget (Seine-Saint-Denis).",
-"source": "BFMTV",
-"date": "2026-11-09T05:26:56+00:00",
-"added": "2026-11-10T07:55:08+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "f3fb3307cca3f4b1",
-"title": "Conférence sociale : \"Le compte n'y est pas\", déplore Olivier Faure après les annonces du gouvernement",
-"link": "https://www.franceinfo.fr/economie/greve/direct-conference-sociale-pour-repondre-a-la-colere-le-premier-ministre-reunit-lundi-matin-les-syndicats_8273954.html",
-"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
-"source": "franceinfo",
-"date": "2026-11-09T05:22:55+00:00",
-"added": "2026-11-10T06:36:27+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement",
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Olivier Faure"
-},
-{
-"id": "5d2785362013dded",
-"title": "Présidentielle: Jean-Luc Mélenchon et Marine Le Pen en tête pour le second tour, Édouard Philippe et Raphaël Glucksmann en baisse, selon un sondage",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/presidentielle-jean-luc-melenchon-et-marine-le-pen-en-tete-pour-le-second-tour-edouard-philippe-et-raphael-glucksmann-en-baisse-selon-un-sondage_AD-202611090096.html",
-"summary": "Selon un sondage Harris Interactive pour M6/RTL publié lundi 9 novembre, Marine Le Pen et Jean-Luc Mélenchon poursuivent leur route en tête des intentions de vote.",
-"source": "BFMTV",
-"date": "2026-11-09T05:16:06+00:00",
-"added": "2026-11-09T06:43:58+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "98e4434a54fa2afd",
-"title": "SMIC, salaires, coût du travail : Lecornu au défi de sortir de la crise avec sa conférence sociale",
-"link": "https://www.lesechos.fr/politique-societe/gouvernement/smic-salaires-cout-du-travail-lecornu-au-defi-de-sortir-de-la-crise-avec-sa-conference-sociale-2261739",
-"summary": "",
-"source": "Les Echos",
-"date": "2026-11-09T05:05:09+00:00",
-"added": "2026-11-09T06:43:58+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "7b4abd2bf29f71e9",
-"title": "\"Il faut sortir de l'hypocrisie\": les députés PS défendent un texte pour régulariser 300.000 travailleurs sans-papiers",
-"link": "https://lcp.fr/actualites/il-faut-sortir-de-l-hypocrisie-les-deputes-ps-defendent-un-texte-pour-regulariser-300000",
-"summary": "La proposition de loi \"visant à régulariser les travailleurs sans-papiers\", déposée par le groupe Socialistes, va être examiné en commission des lois ce lundi 9 novembre.",
-"source": "LCP",
-"date": "2026-11-09T05:05:02+00:00",
-"added": "2026-11-09T06:43:58+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement",
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "3e31a53a7042bb2b",
-"title": "Après un été de cyberattaques et un an de blocage, la loi « résilience » de retour à l’Assemblée nationale",
-"link": "https://www.lemonde.fr/pixels/article/2026/11/09/apres-un-ete-de-cyberattaques-et-un-an-de-blocage-la-loi-resilience-de-retour-a-l-assemblee-nationale_6808612_4408996.html",
-"summary": "Le gouvernement espère faire voter ce texte très attendu en matière de cybersécurité, sans son article 16 bis, qui hérisse les services de renseignement.",
-"source": "Le Monde",
-"date": "2026-11-09T05:00:42+00:00",
-"added": "2026-11-09T06:43:58+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement",
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "81a2a4b67dc79022",
-"title": "Revendications des syndicats, pistes du gouvernement, fonction publique absente… Trois questions sur la conférence sociale organisée à Matignon",
-"link": "https://www.franceinfo.fr/economie/pouvoir-achat/revendications-des-syndicats-pistes-du-gouvernement-fonction-publique-absente-trois-questions-sur-la-conference-sociale-organisee-a-matignon_8273354.html",
-"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
-"source": "franceinfo",
-"date": "2026-11-09T04:52:42+00:00",
-"added": "2026-11-09T14:04:42+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "729455d7ac9cfc18",
-"title": "Le dessin de Chaunu : la conférence sociale convoquée par le Premier ministre et le programme de Jean-Luc Mélenchon",
-"link": "https://www.ouest-france.fr/medias/ouest-france/chaunu/le-dessin-de-chaunu-la-conference-sociale-convoquee-par-le-premier-ministre-et-le-programme-de-jean-luc-melenchon-58aae996-dba3-11f1-a45f-49114163a350",
-"summary": "",
-"source": "Ouest-France",
-"date": "2026-11-09T04:45:04+00:00",
-"added": "2026-11-09T06:43:58+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement",
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "7bbcb5565d5f5851",
-"title": "Présidentielle 2027 : « Il n’y a pas de discrimination en France », à la télé américaine, Marine Le Pen étonne par sa vision de la société française",
-"link": "https://www.leparisien.fr/elections/presidentielle/il-ny-a-pas-de-discrimination-en-france-a-la-tele-americaine-marine-le-pen-etonne-par-sa-vision-de-la-societe-francaise-09-11-2026-GVUMAEMWYFFYLGNJSJYAOVDP2U.php",
-"summary": "",
-"source": "Le Parisien",
-"date": "2026-11-09T04:42:53+00:00",
-"added": "2026-11-09T06:43:58+00:00",
-"official": false,
-"also": [
-"Le HuffPost"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "91f852beaadba609",
-"title": "Mobilisation sociale : pour Sébastien Lecornu, la semaine de toutes les négociations",
-"link": "https://www.lemonde.fr/politique/article/2026/11/09/mobilisation-sociale-pour-sebastien-lecornu-la-semaine-de-toutes-les-negociations_6808601_823448.html",
-"summary": "Le premier ministre doit recevoir lundi les partenaires sociaux puis les lycéens, avant de réunir, en fin de semaine, les agents de la fonction publique.",
-"source": "Le Monde",
-"date": "2026-11-09T04:30:38+00:00",
-"added": "2026-11-09T06:43:58+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement"
-],
-"natures": [],
-"speaker": "Sébastien Lecornu"
-},
-{
-"id": "2296104bf18c28be",
-"title": "Les Républicains de la 3e circonscription s’organisent pour l’élection présidentielle",
-"link": "https://www.midilibre.fr/2026/11/09/les-republicains-de-la-3e-circonscription-sorganisent-pour-lelection-presidentielle-13643250.php",
-"summary": "Mardi 3 novembre, les responsables villeneuvois des Républicains de la 3e circonscription du Gard, Sophie Galateau et Farès Orcet, ont organisé une réunion d’information, au Castel, afin de présenter le programme de Bruno Retailleau pour l’élection présidentielle.",
-"source": "Midi Libre",
-"date": "2026-11-09T04:05:00+00:00",
-"added": "2026-11-09T06:43:58+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "cdb96d440ada4f13",
-"title": "Présidentielle 2027 : Edouard Philippe tente le pari risqué du virage à droite pour sa campagne",
-"link": "https://www.lemonde.fr/politique/article/2026/11/09/presidentielle-2027-edouard-philippe-tente-le-pari-risque-du-virage-a-droite-pour-sa-campagne_6808565_823448.html",
-"summary": "En durcissant son discours sur l’immigration afin de consolider son socle électoral, l’ancien premier ministre pourrait s’aliéner les électeurs modérés dont il a besoin pour franchir le premier tour.",
-"source": "Le Monde",
-"date": "2026-11-09T04:00:05+00:00",
-"added": "2026-11-09T06:43:58+00:00",
-"official": false,
-"also": [
-"La Croix"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "4817bbe2e0bf5fae",
-"title": "SONDAGE RTL - Présidentielle 2027 : Le Pen et Mélenchon creusent l’écart avec Philippe, la percée de Lisnard se confirme",
-"link": "https://www.rtl.fr/actu/politique/sondage-rtl-presidentielle-2027-le-pen-et-melenchon-creusent-l-ecart-avec-philippe-la-percee-de-lisnard-se-confirme-7900693811",
-"summary": "Marine Le Pen continue de dominer largement les intentions de vote pour la présidentielle de 2027. Dans la neuvième vague du baromètre Toluna Harris Interactive pour RTL et M6, publiée ce lundi 9 novembre, la candidate du Rassemblement national est créditée de 34% à 36% des voix selon les hypothèses testées.",
-"source": "RTL",
-"date": "2026-11-09T04:00:00+00:00",
-"added": "2026-11-09T06:43:58+00:00",
-"official": false,
-"also": [
-"Le Télégramme",
-"Valeurs actuelles"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": "David Lisnard"
-},
-{
-"id": "95f8013afb8cd064",
-"title": "Smic, Parcoursup… Lecornu au front pour tenter de calmer la colère sociale",
-"link": "https://www.20minutes.fr/politique/4261380-20261109-smic-parcoursup-lecornu-front-tenter-calmer-colere-sociale?at_medium=display&at_campaign=149",
-"summary": "À moins de six mois de la présidentielle, les manifestations continuent de s’enchaîner en France. La colère sociale est vive face notamment à la hausse des prix des carburants dans le sillage de la guerre entre les États-Unis et l’Iran, et les lycéens maintiennent la pression sur le gouvernement.",
-"source": "20 Minutes",
-"date": "2026-11-09T01:44:47+00:00",
-"added": "2026-11-09T06:43:58+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "5981d82caa967763",
-"title": "Cybersécurité : un projet de loi très attendu débattu à l'Assemblée",
-"link": "https://www.france24.com/fr/info-en-continu/20261109-cybers%C3%A9curit%C3%A9-un-projet-de-loi-tr%C3%A8s-attendu-arrive-%C3%A0-l-assembl%C3%A9e",
-"summary": "",
-"source": "France 24",
-"date": "2026-11-09T01:34:04+00:00",
-"added": "2026-11-09T19:44:47+00:00",
-"official": false,
-"also": [],
-"base": [
-"parlement"
-],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "925b143eb721bd49",
-"title": "France : une conférence sociale à Matignon pour écouter la colère des syndicats et lycéens",
-"link": "https://www.france24.com/fr/france/20261109-france-une-conf%C3%A9rence-sociale-%C3%A0-matignon-pour-%C3%A9couter-la-col%C3%A8re-des-syndicats-et-lyc%C3%A9ens",
-"summary": "",
-"source": "France 24",
-"date": "2026-11-09T00:58:05+00:00",
-"added": "2026-11-09T06:43:58+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "b29860a772e0e9fb",
-"title": "Affaire Penelope Fillon : le président du Sénat, Gérard Larcher, s'inquiète de la vitesse de la justice",
-"link": "https://www.tf1info.fr/politique/elections/presidentielle/affaire-penelope-fillon-le-president-du-senat-gerard-larcher-s-inquiete-de-la-vitesse-de-la-justice-2024191.html",
-"summary": "Le calendrier politico-judiciaire inquiète Gérard Larcher.",
-"source": "TF1 Info",
-"date": "2026-11-09T00:53:42+00:00",
-"added": "2026-11-10T06:36:27+00:00",
-"official": false,
-"also": [],
-"base": [
-"parlement"
-],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "387023dc42f27f31",
-"title": "Budget: le Sénat prend la main, l'incertitude demeure",
-"link": "https://www.france24.com/fr/info-en-continu/20261109-budget-le-s%C3%A9nat-prend-la-main-l-incertitude-demeure",
-"summary": "",
-"source": "France 24",
-"date": "2026-11-09T00:16:04+00:00",
-"added": "2026-11-09T17:46:29+00:00",
-"official": false,
-"also": [],
-"base": [
-"parlement"
-],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "8296fb2a4a7cea59",
-"title": "Sécurité, terrorisme, pétrole... Emmanuel Macron reçoit lundi le Premier ministre irakien pour renforcer la coopération entre les deux pays",
-"link": "https://www.europe1.fr/international/securite-terrorisme-petrole-emmanuel-macron-recoit-lundi-le-premier-ministre-irakien-pour-renforcer-la-cooperation-entre-les-deux-pays-1071650",
-"summary": "Les deux hommes doivent se rencontrer afin de \"renforcer leur coopération en matière de sécurité et de défense\", notamment dans la lutte contre le jihadisme.",
-"source": "Europe 1",
-"date": "2026-11-08T23:57:50+00:00",
-"added": "2026-11-09T06:43:58+00:00",
-"official": false,
-"also": [],
-"base": [
-"elysee"
-],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "172b2d6faef1e354",
-"title": "Primaire de la droite et du centre: \"Si Édouard Philippe n'entend pas les appels, qu'il écoute alors ses sympathisants\", explique Prisca Thévenot, députée Renaissance",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-primaire-de-la-droite-et-du-centre-si-edouard-philippe-n-entend-pas-les-appels-qu-il-ecoute-alors-ses-sympathisants-explique-prisca-thevenot-deputee-renaissance_VN-202611080458.html",
-"summary": "\"Les choses s'accélèrent dans les discussions\" sur les modalités et le calendrier d'une primaire de la droite et du centre pour l'élection présidentielle, de sorte que ce processus pourrait aboutir \"rapidement\", a affirmé ce vendredi 6 novembre le candidat Renaissance Gabriel Attal.",
-"source": "BFMTV",
-"date": "2026-11-08T22:58:22+00:00",
-"added": "2026-11-09T06:43:58+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement",
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Prisca Thévenot"
-},
-{
-"id": "6512f5fd9ada6b59",
-"title": "Revalorisation du Smic: \"Je ne suis pas favorable à cela\", détaille Geoffroy Didier, président délégué LR de la région Île-de-France",
-"link": "https://www.bfmtv.com/politique/video-revalorisation-du-smic-je-ne-suis-pas-favorable-a-cela-detaille-geoffroy-didier-president-delegue-lr-de-la-region-ile-de-france_VN-202611080450.html",
-"summary": "Le gouvernement va accepter une revalorisation anticipée du Smic au 1er décembre, au-delà de 1.500 euros nets contre 1.477 euros actuellement, a appris BFMTV ce dimanche 8 novembre.",
-"source": "BFMTV",
-"date": "2026-11-08T22:34:34+00:00",
-"added": "2026-11-09T06:43:58+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement",
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Revalorisation du Smic"
-},
-{
-"id": "0bba3cc790153032",
-"title": "Revalorisation du SMIC : Fabien Roussel souhaite \"l’augmentation généralisée des salaires\"",
-"link": "https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/revalorisation-du-smic-fabien-roussel-souhaite-l-augmentation-generalisee-des-salaires_8273774.html#xtor=RSS-3-%5Bgeneral%5D",
-"summary": "Fabien Roussel, candidat PCF à la présidentielle, était l’invité du Grand Enjeu ce dimanche 8 novembre sur franceinfo.",
-"source": "franceinfo",
-"date": "2026-11-08T22:08:42+00:00",
-"added": "2026-11-09T06:43:58+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"matinales",
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Fabien Roussel"
-},
-{
-"id": "c1100b99d7f3a922",
-"title": "\"Les artistes ont le droit d'exprimer leurs convictions politiques\", déclare Jérémie Patrier-Leitus, porte-parole d'Édouard Philippe",
-"link": "https://www.bfmtv.com/replay-emissions/100-mabrouk/video-les-artistes-ont-le-droit-d-exprimer-leurs-convictions-politiques-declare-jeremie-patrier-leitus-porte-parole-d-edouard-philippe_VN-202611080439.html",
-"summary": "VIDÉO - Plusieurs candidats à la présidentielle, Édouard Philippe (Horizons), Bruno Retailleau (LR), Gabriel Attal (Renaissance) et David Lisnard (Nouvelle Énergie) sont attendus aux Rencontres de l'Avenir dans le Var pour débattre.",
-"source": "BFMTV",
-"date": "2026-11-08T22:01:04+00:00",
-"added": "2026-11-10T13:58:25+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jérémie Patrier-Leitus"
 }
 ]
