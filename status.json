@@ -21,19 +21,19 @@
 "name": "Public Sénat",
 "ok": true,
 "items": 60,
-"new": 0
+"new": 1
 },
 {
 "name": "Le Monde",
 "ok": true,
 "items": 20,
-"new": 0
+"new": 2
 },
 {
 "name": "franceinfo",
 "ok": true,
 "items": 20,
-"new": 0
+"new": 4
 },
 {
 "name": "Le Figaro",
@@ -45,13 +45,13 @@
 "name": "Libération",
 "ok": true,
 "items": 50,
-"new": 2
+"new": 1
 },
 {
 "name": "La Croix",
 "ok": true,
 "items": 50,
-"new": 1
+"new": 0
 },
 {
 "name": "L'Express",
@@ -63,7 +63,7 @@
 "name": "BFMTV",
 "ok": true,
 "items": 30,
-"new": 1
+"new": 2
 },
 {
 "name": "20 Minutes",
@@ -74,20 +74,20 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 45,
-"new": 2
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 26,
+"items": 61,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 27,
+"items": 23,
 "new": 1
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 28,
+"new": 0
 },
 {
 "name": "Google Actualités",
@@ -98,20 +98,20 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 54,
-"new": 1
+"items": 50,
+"new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 22,
+"items": 21,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
 "items": 100,
-"new": 0
+"new": 1
 },
 {
 "name": "Google Actualités",
@@ -122,7 +122,7 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 45,
+"items": 36,
 "new": 0
 },
 {
@@ -134,13 +134,13 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 22,
+"items": 20,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 24,
+"items": 23,
 "new": 0
 },
 {
@@ -153,24 +153,24 @@
 "name": "Google Actualités",
 "ok": true,
 "items": 100,
+"new": 2
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 14,
+"new": 1
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 42,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 12,
-"new": 0
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 40,
-"new": 0
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 52,
+"items": 53,
 "new": 1
 }
 ]
