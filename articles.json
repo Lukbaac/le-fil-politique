@@ -1,5 +1,327 @@
 [
 {
+"id": "b90875e1ffcfd0d2",
+"title": "\"Monsieur Macron fait des choses qui humainement sont dégueulasses\", lance Marine Tondelier, candidate Les Écologistes à l’élection présidentielle",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-monsieur-macron-fait-des-choses-qui-humainement-sont-degueulasses-lance-marine-tondelier-candidate-les-ecologistes-a-l-election-presidentielle_VN-202611120948.html",
+"summary": "VIDÉO - La candidate à l'élection présidentielle Marine Tondelier est l'invitée de BFMTV, ce jeudi 12 novembre dès 21h.",
+"source": "BFMTV",
+"date": "2026-11-12T21:27:58+00:00",
+"added": "2026-11-12T21:35:46+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"elysee",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Marine Tondelier"
+},
+{
+"id": "de9d345d29607633",
+"title": "\"Toutes les personnes qui travaillent en France, qui ont des enfants qui sont scolarisés en France, devraient être régularisées\", estime Marine Tondelier, candidate Les Écologistes à l’élection présidentielle",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-toutes-les-personnes-qui-travaillent-en-france-qui-ont-des-enfants-qui-sont-scolarises-en-france-devraient-etre-regularisees-estime-marine-tondelier-candidate-les-ecologistes-a-l-election-presidentielle_VN-202611120945.html",
+"summary": "VIDÉO - La candidate à l'élection présidentielle Marine Tondelier est l'invitée de BFMTV, ce jeudi 12 novembre dès 21h.",
+"source": "BFMTV",
+"date": "2026-11-12T21:19:37+00:00",
+"added": "2026-11-12T21:35:46+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Marine Tondelier"
+},
+{
+"id": "714c24c2e01e4f9f",
+"title": "Jean-Luc Mélenchon interdit sur le sol israélien : Jean-Noël Barrot fustige une «décision démagogique»",
+"link": "https://www.europe1.fr/international/jean-luc-melenchon-interdit-sur-le-sol-israelien-jean-noel-barrot-fustige-une-decision-demagogique-1228988",
+"summary": "La diplomatie israélienne a décidé d'interdire de son territoire Jean-Luc Mélenchon et Mathilde Panot, accusés de « position extrêmement hostile » envers l'État hébreu.",
+"source": "Europe 1",
+"date": "2026-11-12T21:07:22+00:00",
+"added": "2026-11-12T21:35:46+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "Jean-Noël Barrot"
+},
+{
+"id": "6d2767def70ca712",
+"title": "Primaire à droite et au centre, les Verts courtisés à gauche… Le point sur la \"Bataille de l'Elysée\" ce 12 novembre",
+"link": "https://www.franceinfo.fr/elections/primaire-a-droite-et-au-centre-les-verts-courtises-a-gauche-le-point-sur-la-bataille-de-l-elysee-ce-12-novembre_8280032.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "Comme tous les jeudis, \"La bataille de l’Élysée\" fait le point sur la campagne à cinq mois de la présidentielle.",
+"source": "franceinfo",
+"date": "2026-11-12T21:01:05+00:00",
+"added": "2026-11-12T21:35:46+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "2c826efae57c4c34",
+"title": "Budget 2027 de la Sécurité sociale : le Sénat cible les boissons énergisantes ultra-alcoolisées",
+"link": "https://www.publicsenat.fr/actualites/sante/budget-2027-de-la-securite-sociale-le-senat-cible-les-boissons-energisantes-ultra-alcoolisees",
+"summary": "La dernière loi de financement de la Sécurité sociale avait déjà élargi la taxe sur les premix (ces mélanges combinant un alcool de base à un ingrédient non alcoolisé) aux alcoolisées contenant certaines substances stimulantes.",
+"source": "Public Sénat",
+"date": "2026-11-12T21:00:52+00:00",
+"added": "2026-11-12T21:35:46+00:00",
+"official": false,
+"also": [],
+"base": [
+"parlement"
+],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "24d1b73ba7958061",
+"title": "Candidats à la présidentielle : que veulent-ils faire pour la justice ?",
+"link": "https://www.franceinfo.fr/elections/candidats-a-la-presidentielle-que-veulent-ils-faire-pour-la-justice_8279930.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "Les candidats à la présidentielle face à “Nos services publics”. Plus d’argent, plus d’emplois, et moins de syndicalisme, etc.",
+"source": "franceinfo",
+"date": "2026-11-12T21:00:02+00:00",
+"added": "2026-11-12T21:35:46+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "b9b7caf387870b2a",
+"title": "Présidentielle 2027 : la percée de David Lisnard dans un nouveau sondage bouscule les équilibres à droite et au centre",
+"link": "https://www.rtl.fr/actu/politique/presidentielle-2027-la-percee-de-david-lisnard-dans-un-nouveau-sondage-bouscule-les-equilibres-a-droite-et-au-centre-7900695646",
+"summary": "David Lisnard, maire de Cannes, président de l'Association des maires de France (AMF)\nLa percée de David Lisnard se confirme dans les sondages.",
+"source": "RTL",
+"date": "2026-11-12T20:46:00+00:00",
+"added": "2026-11-12T21:35:46+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "f816ece9470be6e0",
+"title": "Candidature de Teddy Riner: \"La politique ne doit pas appartenir qu'à des professionnels de la politique\", estime Marine Tondelier, candidate Les Écologistes à l’élection présidentielle",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-candidature-de-teddy-riner-la-politique-ne-doit-pas-appartenir-qu-a-des-professionnels-de-la-politique-estime-marine-tondelier-candidate-les-ecologistes-a-l-election-presidentielle_VN-202611120926.html",
+"summary": "La candidate à l'élection présidentielle Marine Tondelier est l'invitée de BFMTV, ce jeudi 12 novembre dès 21h.",
+"source": "BFMTV",
+"date": "2026-11-12T20:42:53+00:00",
+"added": "2026-11-12T21:35:46+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Candidature de Teddy Riner"
+},
+{
+"id": "8ab468e1c954d976",
+"title": "\"C'est la campagne la plus dangereuse qu'on ait eue à vivre\", juge Marine Tondelier",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-c-est-la-campagne-la-plus-dangereuse-qu-on-ait-eue-a-vivre-juge-marine-tondelier_VN-202611120923.html",
+"summary": "Marine Tondelier, candidate Les Écologistes à l'élection présidentielle, est l'invitée de \"Vous présidente\" sur BFMTV.",
+"source": "BFMTV",
+"date": "2026-11-12T20:39:57+00:00",
+"added": "2026-11-12T21:35:46+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Marine Tondelier"
+},
+{
+"id": "1e989281fc29d272",
+"title": "\"Comment on va tenir jusqu'à l'élection présidentielle ?\" dans un moment où \"tout est extrêmement tendu\", interroge Marine Tondelier, candidate Les Écologistes à l’élection présidentielle",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-comment-on-va-tenir-jusqu-a-l-election-presidentielle-dans-un-moment-ou-tout-est-extremement-tendu-interroge-marine-tondelier-candidate-les-ecologistes-a-l-election-presidentielle_VN-202611120917.html",
+"summary": "Marine Tondelier, candidate Les Écologistes à l'élection présidentielle, est l'invitée de \"Vous présidente\" sur BFMTV.",
+"source": "BFMTV",
+"date": "2026-11-12T20:28:42+00:00",
+"added": "2026-11-12T21:35:46+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "e1985860ca7bfbb4",
+"title": "Budget 2027 de la Sécurité sociale : le Sénat adopte une taxe sur les sucres ajoutés contenus dans les produits alimentaires destinés aux bébés et petits enfants",
+"link": "https://www.publicsenat.fr/actualites/sante/budget-2027-de-la-securite-sociale-le-senat-adopte-une-taxe-sur-les-sucres-ajoutes-contenus-dans-les-produits-alimentaires-destines-aux-bebes-et-petits-enfants",
+"summary": "Le sénateur Xavier Iacovelli repart en guerre contre les sucres ajoutés contenus dans les produits alimentaires destinés aux nourrissons et aux enfants en bas âge.",
+"source": "Public Sénat",
+"date": "2026-11-12T20:26:21+00:00",
+"added": "2026-11-12T21:35:46+00:00",
+"official": false,
+"also": [],
+"base": [
+"parlement"
+],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "973068fc21bd2106",
+"title": "Colère lycéenne: \"Dans une démocratie, la violence devrait délégitimiser toute revendication\", assure François-Xavier Bellamy, eurodéputé LR",
+"link": "https://www.bfmtv.com/politique/video-colere-lyceenne-dans-une-democratie-la-violence-devrait-delegitimiser-toute-revendication-assure-francois-xavier-bellamy-eurodepute-lr_VN-202611120911.html",
+"summary": "Quatre mineurs ont été interpellés jeudi 12 novembre dans le cadre de l'enquête sur un incendie devant un lycée lyonnais qui s'est propagé à l'entrée de l'établissement, a indiqué le parquet.",
+"source": "BFMTV",
+"date": "2026-11-12T20:25:16+00:00",
+"added": "2026-11-12T21:35:46+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "François-Xavier Bellamy"
+},
+{
+"id": "3e2307473911cd03",
+"title": "Éric Zemmour dans une primaire de la droite? \"Pourquoi pas\", déclare François-Xavier Bellamy, député européen LR",
+"link": "https://www.bfmtv.com/replay-emissions/100-mabrouk/video-eric-zemmour-dans-une-primaire-de-la-droite-pourquoi-pas-declare-francois-xavier-bellamy-depute-europeen-lr_VN-202611120910.html",
+"summary": "VIDÉO - Invité de 100% Mabrouk sur BFMTV, François-Xavier Bellamy, député européen Les Républicains (LR), est revenu sur l'éventualité d'une primaire de la droite et du centre.",
+"source": "BFMTV",
+"date": "2026-11-12T20:23:51+00:00",
+"added": "2026-11-12T21:35:46+00:00",
+"official": false,
+"also": [],
+"base": [
+"matinales"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"parlement",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "François-Xavier Bellamy"
+},
+{
+"id": "8b4fafd8e865364b",
+"title": "Election présidentielle : les pistes des candidats pour les services publics",
+"link": "https://www.ouest-france.fr/elections/presidentielle/election-presidentielle-les-pistes-des-candidats-pour-les-services-publics-c81b5584-ded4-11f1-a9f2-6a7c5f1bd185",
+"summary": "",
+"source": "Ouest-France",
+"date": "2026-11-12T20:20:48+00:00",
+"added": "2026-11-12T21:35:46+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "a779827e548e5d21",
+"title": "«Des gens tuent en son nom» : après les propos de Marine Tondelier sur l’attentat de Trappes, le RN va porter plainte en diffamation",
+"link": "https://www.liberation.fr/politique/elections/des-gens-tuent-en-son-nom-apres-les-propos-de-marine-tondelier-sur-lattentat-de-trappes-le-rn-va-porter-plainte-en-diffamation-20261112_HFJ4OYDV7ZEXNKWYRG32QKOHDA/",
+"summary": "La candidate des écologistes à la présidentielle dénonçait la semaine dernière le fait que des «tracts» du Rassemblement national ont été retrouvés au domicile de Kévin Tessier.",
+"source": "Libération",
+"date": "2026-11-12T20:15:20+00:00",
+"added": "2026-11-12T21:35:46+00:00",
+"official": false,
+"also": [
+"BFMTV",
+"Ouest-France",
+"France 24"
+],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "8d0d3a121a8bf60d",
 "title": "Budget 2027 : fonctionnaires, retraites, aide médicale d’État… Le Sénat veut faire 6 milliards d’euros d’économies en plus",
 "link": "https://www.leparisien.fr/economie/budget-2027-fonctionnaires-retraites-aide-medicale-detat-le-senat-veut-faire-6-milliards-deuros-deconomies-en-plus-12-11-2026-W73UEEPTTNCIJKXK7TDCBNLTTM.php",
@@ -235,7 +557,14 @@
 "date": "2026-11-12T18:47:21+00:00",
 "added": "2026-11-12T19:42:50+00:00",
 "official": false,
-"also": [],
+"also": [
+"Libération",
+"BFMTV",
+"France 24",
+"Le Parisien",
+"Europe 1",
+"La Provence"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -254,7 +583,9 @@
 "date": "2026-11-12T18:46:56+00:00",
 "added": "2026-11-12T19:42:50+00:00",
 "official": false,
-"also": [],
+"also": [
+"franceinfo"
+],
 "base": [
 "presidentielle"
 ],
@@ -281,6 +612,26 @@
 "topics": [
 "elysee",
 "partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "ff633b039c876fa8",
+"title": "Panne électrique à Casablanca : première réaction du gouvernement",
+"link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNeGNjcXJCWUxNVU14dGlaM3F5bkNUdC03ekZFdnJjMDBaYlZha0RmejIzaThhNzhqYTJKZjRjNnEtb0tEektFblo2c21qVVdHZVdoM2JxUm0wZi12Qmw5c0dvd1JRR2lCWGswalBsZWdKcWZCT2llZlBJT3FNSXRCQ2hXbU5vdjVWbGIyUGhwd2RaVTM1Qm5PYkVDMmN3dnNQMEozeUNiMjBHb2tBV0dudmVoX3VmS1dWNk1jSEhsUjdxMzNMODlmd0FMbklpemo3LTV2RFRvRVNuRUh3ZmkxM0ZYUjllaWhleV8yMXlWd2FJdXZndEhURldzaTRpRUFHZjc4aXNGQzlST0RGTXJ4MU5pSmk4ZWVkdjNv?oc=5",
+"summary": "",
+"source": "L'Opinion",
+"date": "2026-11-12T18:40:46+00:00",
+"added": "2026-11-12T21:35:46+00:00",
+"official": false,
+"also": [],
+"base": [
+"gouvernement"
+],
+"filtered": true,
+"topics": [
+"gouvernement"
 ],
 "natures": [],
 "speaker": ""
@@ -316,6 +667,26 @@
 "official": false,
 "also": [],
 "base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "67a61ded4cf0062b",
+"title": "\"Nos services publics\" : retrouvez les interviews de huit des principaux candidats à la présidentielle",
+"link": "https://www.franceinfo.fr/elections/replay-nos-services-publics-retrouvez-les-interviews-de-huit-des-principaux-candidats-a-la-presidentielle_8279891.html",
+"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
+"source": "franceinfo",
+"date": "2026-11-12T18:32:52+00:00",
+"added": "2026-11-12T21:35:46+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
 "filtered": true,
 "topics": [
 "presidentielle"
@@ -383,6 +754,26 @@
 "speaker": ""
 },
 {
+"id": "0206fdf64da339c3",
+"title": "Fin de l’abattement pour les retraités, non-remplacement d’un fonctionnaire sur deux : le Sénat veut renforcer l’effort budgétaire « de l’ordre de 6 milliards d’euros »",
+"link": "https://www.publicsenat.fr/actualites/parlementaire/fin-de-labattement-pour-les-retraites-non-remplacement-dun-fonctionnaire-sur-deux-le-senat-veut-renforcer-leffort-budgetaire-de-lordre-de-6",
+"summary": "La rapporteure du budget du Sénat, Christine Lavarde, veut supprimer l’abattement de 10 % pour les retraités, dans le cadre du budget 2027.",
+"source": "Public Sénat",
+"date": "2026-11-12T18:16:26+00:00",
+"added": "2026-11-12T21:35:46+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [
+"Citation"
+],
+"speaker": ""
+},
+{
 "id": "cc5c9de49f80e3d0",
 "title": "Présidentielle 2027 : Édouard Philippe veut «interdire» aux magistrats le droit de se syndiquer",
 "link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-edouard-philippe-veut-interdire-aux-magistrats-le-droit-de-se-syndiquer-20261112",
@@ -391,7 +782,9 @@
 "date": "2026-11-12T18:14:24+00:00",
 "added": "2026-11-12T19:42:50+00:00",
 "official": false,
-"also": [],
+"also": [
+"Le Parisien"
+],
 "base": [
 "presidentielle"
 ],
@@ -557,7 +950,8 @@
 "La Montagne",
 "La Nouvelle République",
 "Le Télégramme",
-"L'Est Républicain"
+"L'Est Républicain",
+"RMC"
 ],
 "base": [],
 "filtered": true,
@@ -578,7 +972,8 @@
 "official": false,
 "also": [
 "Le Nouvel Obs",
-"L'Humanité"
+"L'Humanité",
+"RFI"
 ],
 "base": [],
 "filtered": true,
@@ -974,6 +1369,27 @@
 ],
 "natures": [],
 "speaker": ""
+},
+{
+"id": "ca5d24dc0e56dc3e",
+"title": "Plan de relance agricole : « Une des thématiques majeures du compromis budgétaire », affirme Sébastien Lecornu",
+"link": "https://www.publicsenat.fr/actualites/politique/plan-de-relance-agricole-une-des-thematiques-majeures-du-compromis-budgetaire-affirme-sebastien-lecornu",
+"summary": "Après un été de canicule historique, le gouvernement a dévoilé ce jeudi son plan de relance pour l’agriculture sur 10 ans qui s’élève à 725 millions d’euros.",
+"source": "Public Sénat",
+"date": "2026-11-12T16:28:53+00:00",
+"added": "2026-11-12T21:35:46+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Sébastien Lecornu"
 },
 {
 "id": "9b4cdeb29cf20e87",
@@ -1767,6 +2183,26 @@
 "speaker": "Éric Zemmour"
 },
 {
+"id": "5fd2c70451bbf360",
+"title": "Emmanuel Macron",
+"link": "https://www.bfmtv.com/politique/emmanuel-macron_DN-201609010121.html",
+"summary": "Emmanuel Macron a été élu président de la République en 2017 et 2022 après avoir participé au gouvernement sous François Hollande en tant que ministre de l'Économie.",
+"source": "BFMTV",
+"date": "2026-11-12T13:42:54+00:00",
+"added": "2026-11-12T21:35:46+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "ffca56728ce0a8d4",
 "title": "Alertes à la bombe en Europe: Emmanuel Macron affirme qu'il est trop tôt pour déterminer les responsables",
 "link": "https://www.bfmtv.com/politique/elysee/alertes-a-la-bombe-en-europe-emmanuel-macron-affirme-qu-il-est-trop-tot-pour-determiner-les-responsables_AV-202611120582.html",
@@ -1903,6 +2339,26 @@
 "filtered": true,
 "topics": [
 "parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "8862c4636c126c64",
+"title": "Fin de l’emploi à vie des fonctionnaires, hausse de la TVA et du salaire net, RIC, suppression du département et du 49.3 : le projet de Bruno Le Maire, non-candidat à la présidentielle",
+"link": "https://www.publicsenat.fr/actualites/politique/fin-de-lemploi-a-vie-des-fonctionnaires-hausse-de-la-tva-et-du-salaire-net-ric-suppression-du-departement-et-du-49-3-le-projet-de-bruno-le-maire-non-candidat-a-la-presidentielle",
+"summary": "Au moment où le bloc central et la droite pataugent dans les débats internes et s’enfoncent dans les sondages, l’ancien ministre de l’Economie, Bruno Le Maire, tente d’incarner, sans l’assumer, une alternative.",
+"source": "Public Sénat",
+"date": "2026-11-12T12:44:03+00:00",
+"added": "2026-11-12T21:35:46+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement",
+"parlement",
+"presidentielle"
 ],
 "natures": [],
 "speaker": ""
@@ -2059,7 +2515,10 @@
 "date": "2026-11-12T12:25:01+00:00",
 "added": "2026-11-12T19:42:50+00:00",
 "official": false,
-"also": [],
+"also": [
+"Le Monde",
+"Libération"
+],
 "base": [
 "matinales"
 ],
@@ -2224,6 +2683,24 @@
 "filtered": true,
 "topics": [
 "partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "968d25dd05e67ef0",
+"title": "Violences en marge des blocus lycéens : le gouvernement durcit le ton",
+"link": "https://www.publicsenat.fr/actualites/education/violences-en-marge-des-blocus-lyceens-le-gouvernement-durcit-le-ton",
+"summary": "Le gouvernement a tapé du poing sur la table ce jeudi pour « mettre fin » aux violences aux abords des lycées, souhaitant une saisine « systématique » de la justice pour les actes visant des personnels de l’Éducation nationale dans le cadre du mouvement lycéen.",
+"source": "Public Sénat",
+"date": "2026-11-12T11:51:27+00:00",
+"added": "2026-11-12T21:35:46+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
 ],
 "natures": [],
 "speaker": ""
@@ -3928,6 +4405,26 @@
 "elysee",
 "gouvernement",
 "parlement",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "5743dc73ed075667",
+"title": "63% des Français pensent que les minimas sociaux «découragent de travailler», selon un sondage",
+"link": "https://www.cnews.fr/france/2026-11-12/63-des-francais-pensent-que-les-minimas-sociaux-decouragent-de-travailler-selon",
+"summary": "Le Secours catholique a publié ce jeudi 12 novembre son rapport annuel sur la pauvreté, en partenariat avec OpinionWay.",
+"source": "CNews",
+"date": "2026-11-12T06:18:39+00:00",
+"added": "2026-11-12T21:35:46+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
 "presidentielle"
 ],
 "natures": [],
@@ -12439,6 +12936,24 @@
 "speaker": ""
 },
 {
+"id": "e0054132be034c32",
+"title": "Pétition contre CNews : quelles suites possibles à l’Assemblée nationale ?",
+"link": "https://www.lefigaro.fr/medias/petition-contre-cnews-quelles-suites-possibles-a-l-assemblee-nationale-20261109",
+"summary": "La pétition demandant la fermeture de la chaîne, qui a recueilli plus d’un million de signatures, sera examinée en commission des affaires culturelles et de l’éducation mardi 10 novembre à 13 heures.",
+"source": "Le Figaro",
+"date": "2026-11-10T11:05:20+00:00",
+"added": "2026-11-12T21:35:46+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "3c4b84bb0bf92f47",
 "title": "Un coup de fil de 90 minutes avec Poutine avait rendu furieuse la Première ministre danoise: Copenhague fait un don de 642 millions d'euros d'aide militaire à l'Ukraine",
 "link": "https://www.bfmtv.com/economie/international/un-coup-de-fil-de-90-minutes-avec-poutine-avait-rendu-furieuse-la-premiere-ministre-danoise-copenhague-fait-un-don-de-642-millions-d-euros-d-aide-militaire-a-l-ukraine_AD-202611100472.html",
@@ -14899,328 +15414,6 @@
 "filtered": true,
 "topics": [
 "partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "c6bb8cbdc2a7427c",
-"title": "\"Ce gouvernement donne des leçons mais ne sait communiquer à personne\", estime Alain Bauer",
-"link": "https://www.bfmtv.com/societe/video-ce-gouvernement-donne-des-lecons-mais-ne-sait-communiquer-a-personne-estime-alain-bauer_VN-202611090923.html",
-"summary": "",
-"source": "BFMTV",
-"date": "2026-11-09T21:00:51+00:00",
-"added": "2026-11-09T21:38:07+00:00",
-"official": false,
-"also": [],
-"base": [
-"matinales"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"gouvernement"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Alain Bauer"
-},
-{
-"id": "d45f530d12c33a59",
-"title": "\"Il n'y a pas de discriminations en France\" pour Marine Le Pen",
-"link": "https://www.franceinfo.fr/politique/marine-le-pen/il-n-y-a-pas-de-discriminations-en-france-pour-marine-le-pen_8275169.html#xtor=RSS-3-%5Bgeneral%5D",
-"summary": "Marine Le Pen estime qu'il \"n'y a pas de discriminations en France\" et considère que la France est \"le pays le moins raciste au monde\" dans un entretien au média américain CBS.",
-"source": "franceinfo",
-"date": "2026-11-09T21:00:02+00:00",
-"added": "2026-11-09T21:38:07+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "6ab497a5acffc365",
-"title": "Présidentielle : \"Je ne me désisterai pas, je ne disparaîtrai pas d'un coup de l'élection présidentielle, par contre Les Écologistes sont prêts à rejoindre une coalition, à nous dépasser pour quelque chose de plus grand que nous\", Marine Tondelier,...",
-"link": "https://www.tf1info.fr/politique/videos/video-presidentielle-je-ne-me-desisterai-pas-je-ne-disparaitrai-pas-d-un-coup-de-l-election-presidentielle-par-contre-les-ecologistes-sont-prets-a-rejoindre-une-coalition-a-nous-depasser-pour-quelque-chose-de-plus-grand-que-nous-marine-tondelier-92845-2474898.html",
-"summary": "",
-"source": "TF1 Info",
-"date": "2026-11-09T20:35:10+00:00",
-"added": "2026-11-09T21:38:07+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "4275c10a68ab1a9e",
-"title": "La France ne peut \"s'en porter complice\": Olivier Faure (PS) défend une proposition de loi pour interdire la vente de produits provenant de colonies israéliennes",
-"link": "https://www.bfmtv.com/economie/video-la-france-ne-peut-s-en-porter-complice-olivier-faure-ps-defend-une-proposition-de-loi-pour-interdire-la-vente-de-produits-provenant-de-colonies-israeliennes_VN-202611090906.html",
-"summary": "VIDÉO - La commission des affaires économiques débat sur l'examen de la proposition de loi pour interdire la vente de produits en France provenant de colonies israéliennes, ce lundi 9 novembre.",
-"source": "BFMTV",
-"date": "2026-11-09T20:25:39+00:00",
-"added": "2026-11-09T21:38:07+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"parlement",
-"partis"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "Olivier Faure"
-},
-{
-"id": "3680410ac978218f",
-"title": "Marine Tondelier, candidate à la présidentielle : « Je ne me désisterai pas »",
-"link": "https://www.lanouvellerepublique.fr/a-la-une/marine-tondelier-je-ne-me-desisterai-pas-1794255528",
-"summary": "Marine Tondelier s’est exprimée au 20 h de TF1 ce lundi 9 novembre 2026. © (Photo capture écran TF1)\nMarine Tondelier, candidate Les Écologistes à la présidentielle, était l’invitée du 20 h de TF1, lundi 9 novembre 2026.",
-"source": "La Nouvelle République",
-"date": "2026-11-09T20:18:38+00:00",
-"added": "2026-11-09T21:38:07+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "c382aaa196e30202",
-"title": "« Il est hors norme et le prouve encore » : le président du Dojo romanais réagit à la candidature de Teddy Riner",
-"link": "https://www.ledauphine.com/sport/2026/11/09/il-est-hors-norme-et-le-prouve-encore-le-president-du-dojo-romanais-reagit-a-la-candidature-de-teddy-riner",
-"summary": "À la suite de l’annonce de la candidature de Teddy Riner à l’élection présidentielle, ce lundi, David Gougouzian, le président du Dojo romanais qui avait accueilli le champion en 2011, n’est pas surpris mais reste dubitatif.",
-"source": "Le Dauphiné Libéré",
-"date": "2026-11-09T20:17:21+00:00",
-"added": "2026-11-09T21:38:07+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": ""
-},
-{
-"id": "5f439d4068003291",
-"title": "Appel à la « responsabilité » pour l’examen du budget 2027 : la chasse aux milliards reprend au Sénat",
-"link": "https://www.challenges.fr/politique/appel-a-la-responsabilite-pour-lexamen-du-budget-2027-la-chasse-aux-milliards-reprend-au-senat_646927",
-"summary": "L'examen du PLFSS 2027 a démarré ce lundi au Sénat. Après le rejet à l’Assemblée nationale, la chambre haute entend afficher sa responsabilité face au dérapage des finances publiques.",
-"source": "Challenges",
-"date": "2026-11-09T20:09:55+00:00",
-"added": "2026-11-09T21:38:07+00:00",
-"official": false,
-"also": [],
-"base": [
-"parlement"
-],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "fa63d41471b7c97d",
-"title": "Primaire de la droite et du centre : Hervé Morin souhaite une «réunion» des principaux candidats",
-"link": "https://www.lefigaro.fr/elections/presidentielles/primaire-de-la-droite-et-du-centre-herve-morin-souhaite-une-reunion-des-principaux-candidats-20261109",
-"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
-"source": "Le Figaro",
-"date": "2026-11-09T20:06:07+00:00",
-"added": "2026-11-09T21:38:07+00:00",
-"official": false,
-"also": [
-"BFMTV"
-],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Hervé Morin"
-},
-{
-"id": "72931cd54101a559",
-"title": "\"L'enjeu de Mélenchon, ce n'est pas que rassembler la gauche au second tour en 2027, mais aussi fédérer le peuple\" : ManuelCervera-Marzal, sociologue",
-"link": "https://www.franceinfo.fr/elections/presidentielle/l-enjeu-de-melenchon-ce-n-est-pas-que-rassembler-la-gauche-au-second-tour-en-2027-mais-aussi-federer-le-peuple-manuel-cervera-marzal-sociologue_8275076.html",
-"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
-"source": "franceinfo",
-"date": "2026-11-09T20:05:02+00:00",
-"added": "2026-11-09T21:38:07+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "c1570afd80eaf5f9",
-"title": "Quand Houellebecq répond à un journaliste espagnol sur l’IA, Marine Le Pen et sa réputation de “facho”",
-"link": "https://www.nouvelobs.com/bibliobs/20261109.OBS119997/quand-houellebecq-repond-a-un-journaliste-espagnol-sur-l-ia-marine-le-pen-et-sa-reputation-de-facho.html",
-"summary": "S’abonner permet de commenter les articles. Et pas que : vous pouvez les consulter et les offrir à vos proches.",
-"source": "Le Nouvel Obs",
-"date": "2026-11-09T20:00:11+00:00",
-"added": "2026-11-09T21:38:07+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Réaction"
-],
-"speaker": ""
-},
-{
-"id": "32ee2d2992602623",
-"title": "\"Ça arrange Mélenchon que Le Pen gagne la présidentielle\" : Lucile Schmid, présidente de la Fabrique écologique",
-"link": "https://www.franceinfo.fr/elections/presidentielle/ca-arrange-melenchon-que-le-pen-gagne-la-presidentielle-lucile-schmid-presidente-de-la-fabrique-ecologique_8275073.html",
-"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
-"source": "franceinfo",
-"date": "2026-11-09T20:00:01+00:00",
-"added": "2026-11-09T21:38:07+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "0adad54e4802a3c0",
-"title": "Communiqué : réunion IA et sécurité.",
-"link": "https://www.elysee.fr/emmanuel-macron/2026/11/09/communique-reunion-ia-et-securite",
-"summary": "Réunion « IA et sécurité » : États, développeurs d'intelligence artificielle et chercheurs s'engagent pour des actions concrètes en faveur de la sécurité des modèles d'IA les plus avancés\nLe Président de la République a réuni ce jour les chefs d’Etat et de gouvernement de huit États (Bahreïn, Canada, Finlande, Japon…",
-"source": "Élysée",
-"date": "2026-11-09T20:00:00+00:00",
-"added": "2026-11-10T15:33:48+00:00",
-"official": true,
-"also": [],
-"base": [
-"elysee"
-],
-"filtered": false,
-"topics": [
-"elysee"
-],
-"natures": [
-"Communiqué"
-],
-"speaker": ""
-},
-{
-"id": "ff5203c591d92371",
-"title": "Présidentielle 2027: \"Teddy Riner peut incarner des valeurs de travail, de mérite, de respectabilité énorme\", estime Pierre Gattaz, ancien président du Medef",
-"link": "https://www.bfmtv.com/politique/video-presidentielle-2027-teddy-riner-peut-incarner-des-valeurs-de-travail-de-merite-de-respectabilite-enorme-estime-pierre-gattaz-ancien-president-du-medef_VN-202611090886.html",
-"summary": "VIDÉO - L'annonce de la candidature de Teddy Riner à la présidentielle 2027 continue de faire réagir le monde économique.",
-"source": "BFMTV",
-"date": "2026-11-09T19:59:09+00:00",
-"added": "2026-11-09T21:38:07+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Pierre Gattaz"
-},
-{
-"id": "7ae7023f5591abd9",
-"title": "La revalorisation du smic par Lecornu, une considération méprisable accordée du bout des doigts",
-"link": "https://www.liberation.fr/idees-et-debats/editorial/la-revalorisation-du-smic-par-lecornu-une-consideration-meprisable-accordee-du-bout-des-doigts-20261109_MKSWTKOO3BHVVE65UVUVTIWHUM/",
-"summary": "En actant un «coup de pouce» pour les plus bas salaires ce lundi 9 novembre, le gouvernement peut se dire qu’il avance, mais cette réponse n’est pas à la hauteur des maux et des angoisses exprimées dans la rue ces dernières semaines.",
-"source": "Libération",
-"date": "2026-11-09T19:52:05+00:00",
-"added": "2026-11-09T21:38:07+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "ab5e635650cf15f7",
-"title": "Présidentielle 2027. Teddy Riner candidat : le symbole d’une ruée des profils hors politique",
-"link": "https://www.ledauphine.com/elections/2026/11/09/teddy-riner-candidat-le-symbole-d-une-ruee-des-profils-hors-politique",
-"summary": "Teddy Riner, quintuple champion olympique de judo, a annoncé ce lundi sa volonté de se présenter à l’élection présidentielle de 2027.",
-"source": "Le Dauphiné Libéré",
-"date": "2026-11-09T19:45:33+00:00",
-"added": "2026-11-09T21:38:07+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
 ],
 "natures": [],
 "speaker": ""
