@@ -1,5 +1,204 @@
 [
 {
+"id": "370c64348048029e",
+"title": "Plainte de Bardella contre Mediapart : un coup de com’ peu risqué face à l’inertie de la procédure judiciaire",
+"link": "https://www.marianne.net/societe/police-et-justice/plainte-de-bardella-contre-mediapart-un-coup-de-com-peu-risque-face-a-l-inertie-de-la-procedure-judiciaire",
+"summary": "",
+"source": "Marianne",
+"date": "2026-11-13T15:30:15+00:00",
+"added": "2026-11-13T15:35:44+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "4cc7cc85ea1a9922",
+"title": "Présidentielle 2027 : Teddy Riner, LFI et l’assignation identitaire",
+"link": "https://www.la-croix.com/a-vif/presidentielle-2027-teddy-riner-lfi-et-l-assignation-identitaire-20261113",
+"summary": "Je suis moi-même ceinture verte. C’est dire si j’ai entendu, sans trop y croire, qu’au judo le gabarit de l’adversaire ne compte pas : il faut retourner sa force contre lui.",
+"source": "La Croix",
+"date": "2026-11-13T15:08:23+00:00",
+"added": "2026-11-13T15:35:44+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "58b3707701402b46",
+"title": "\"Avec Mélenchon, la liberté est pensée d’en haut, organisée par l’État et soumise à une conception préalable\"",
+"link": "https://www.marianne.net/agora/humeurs/avec-melenchon-la-liberte-est-pensee-d-en-haut-organisee-par-l-etat-et-soumise-a-une-conception-prealable",
+"summary": "",
+"source": "Marianne",
+"date": "2026-11-13T15:00:11+00:00",
+"added": "2026-11-13T15:35:44+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "67afcce5798e2478",
+"title": "Présidentielle 2027 : « J’ai écouté, j’ai noté »… Teddy Riner fait sa première visite de candidat dans un hôpital",
+"link": "https://www.20minutes.fr/politique/4262734-20261113-presidentielle-2027-ecoute-note-teddy-riner-fait-premiere-visite-candidat-hopital?at_medium=display&at_campaign=149",
+"summary": "Le nouveau candidat à la présidentielle a choisi un hôpital de Saint-Denis pour son premier déplacement de campagne ce vendredi.",
+"source": "20 Minutes",
+"date": "2026-11-13T14:57:38+00:00",
+"added": "2026-11-13T15:35:44+00:00",
+"official": false,
+"also": [
+"Sud Ouest"
+],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Teddy Riner"
+},
+{
+"id": "07ebe67531fe05a1",
+"title": "Mobilisation du 14 novembre : la Préfecture de police de Paris redoute une manifestation « à forte coloration antipolice »",
+"link": "https://www.lemonde.fr/societe/article/2026/11/13/mobilisation-du-14-novembre-la-prefecture-de-police-de-paris-redoute-une-manifestation-a-forte-coloration-anti-police_6809334_3224.html",
+"summary": "Une note indique des risques de troubles à l’ordre public samedi, liés notamment à l’opposition au projet de loi sur la présomption d’usage légitime des armes par les forces de l’ordre qui arrive au Sénat le 19 novembre, et à la tenue du procès des policiers qui ont passé à tabac Michel Zecler.",
+"source": "Le Monde",
+"date": "2026-11-13T14:37:11+00:00",
+"added": "2026-11-13T15:35:44+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "40c27d5074a46ddf",
+"title": "Présidentielle 2027 : Temanuata Girard, élue près de Tours, intègre l’équipe de campagne de Raphaël Glucksmann",
+"link": "https://www.lanouvellerepublique.fr/indre-et-loire/commune/luynes/presidentielle-2027-temanuata-girard-elue-pres-de-tours-integre-l-equipe-de-campagne-de-raphael-glucksmann-1794580484",
+"summary": "Temanuata Girard, vice-présidente de la Région et élue d'opposition à Luynes intègre l'équipe de campagne de Raphaël Glucksmann. © Photo NR, Quentin Cillard\nAprès une 20e place sur la liste des européennes en 2024, une bonne place dans l’équipe de campagne présidentielle.",
+"source": "La Nouvelle République",
+"date": "2026-11-13T14:34:36+00:00",
+"added": "2026-11-13T15:35:44+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "782a41fe478f252b",
+"title": "Violences dans les lycées : les syndicats de l’éducation nationale dénoncent les propos de Sébastien Lecornu sur de possibles « complicités »",
+"link": "https://www.lemonde.fr/lycee/article/2026/11/13/violences-dans-les-lycees-les-syndicats-de-l-education-nationale-denoncent-les-propos-de-sebastien-lecornu-sur-de-possibles-complicites_6809333_5019416.html",
+"summary": "Les syndicats, en rappelant leur devoir de neutralité, fustigent les propos du premier ministre et l’accusent d’attiser les tensions dans une situation déjà tendue.",
+"source": "Le Monde",
+"date": "2026-11-13T14:27:12+00:00",
+"added": "2026-11-13T15:35:44+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "d32ed6b4c2d2606a",
+"title": "« Je ne suis pas homme à changer d'avis au gré des circonstances » : la primaire de la droite et du centre prend forme sans Edouard Philippe",
+"link": "https://www.lesechos.fr/elections/presidentielle/je-ne-suis-pas-homme-a-changer-davis-au-gre-des-circonstances-la-primaire-de-la-droite-et-du-centre-prend-forme-sans-edouard-philippe-2262577",
+"summary": "",
+"source": "Les Echos",
+"date": "2026-11-13T14:23:17+00:00",
+"added": "2026-11-13T15:35:44+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "15db78159ec2da08",
+"title": "Sébastien Lecornu pointe du doigt certains agents de l'Education nationale complices de violences lors du mouvement lycéen",
+"link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/sebastien-lecornu-pointe-du-doigt-certains-agents-de-l-education-nationale-complices-de-violences-lors-du-mouvement-lyceen_8281178.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "Au moins 40 membres du personnel de l’Éducation nationale auraient fait preuve de complicité lors des violences en marge du mouvement lycéen, a avancé, jeudi 12 novembre, le Premier ministre, Sébastien Lecornu.",
+"source": "franceinfo",
+"date": "2026-11-13T14:18:32+00:00",
+"added": "2026-11-13T15:35:44+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "cffac62b0b45e86e",
+"title": "Fonction publique : les syndicats de fonctionnaires sortent remontés de Matignon, la CFDT rejoint l’appel à la grève le 17 novembre",
+"link": "https://www.liberation.fr/economie/social/fonction-publique-les-syndicats-de-fonctionnaires-sortent-remontes-de-matignon-la-cfdt-rejoint-lappel-a-la-greve-le-17-novembre-20261113_RL3E4D7CT5BCXHNSO2ZZSOFAWI/",
+"summary": "",
+"source": "Libération",
+"date": "2026-11-13T14:08:00+00:00",
+"added": "2026-11-13T15:35:44+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "65634d4fb286a168",
 "title": "En Ukraine, la presse reproche à Jean-Luc Mélenchon son “socialisme à visage poutinien”",
 "link": "https://www.courrierinternational.com/article/vu-de-kiev-en-ukraine-la-presse-reproche-a-jean-luc-melenchon-son-socialisme-a-visage-poutinien_286984",
@@ -52,7 +251,11 @@
 "date": "2026-11-13T13:33:54+00:00",
 "added": "2026-11-13T14:00:24+00:00",
 "official": false,
-"also": [],
+"also": [
+"Le Parisien",
+"Europe 1",
+"RTL"
+],
 "base": [
 "partis"
 ],
@@ -157,6 +360,25 @@
 "speaker": "Marine Le Pen"
 },
 {
+"id": "c4871e8ee8324f6e",
+"title": "Eric Zemmour",
+"link": "https://www.bfmtv.com/politique/eric-zemmour_DN-202110270595.html",
+"summary": "Eric Zemmour a été candidat à l'élection présidentielle de 2022 pour le parti Reconquête et ambitionne de se présenter à nouveau en 2027.",
+"source": "BFMTV",
+"date": "2026-11-13T13:17:13+00:00",
+"added": "2026-11-13T15:35:44+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "488ea1aa4a78d135",
 "title": "Présidentielle 2027. Primaire à droite : Eric Zemmour « espère » que David Lisnard fera en sorte de l’intégrer",
 "link": "https://www.ouest-france.fr/elections/presidentielle/presidentielle-2027-primaire-a-droite-eric-zemmour-espere-que-david-lisnard-fera-en-sorte-de-lintegrer-4ebcd8b0-df61-11f1-9a29-f4bab172af08",
@@ -166,7 +388,9 @@
 "added": "2026-11-13T14:00:24+00:00",
 "official": false,
 "also": [
-"BFMTV"
+"BFMTV",
+"Midi Libre",
+"Sud Ouest"
 ],
 "base": [
 "partis"
@@ -188,7 +412,9 @@
 "date": "2026-11-13T13:06:06+00:00",
 "added": "2026-11-13T14:00:24+00:00",
 "official": false,
-"also": [],
+"also": [
+"BFMTV"
+],
 "base": [
 "presidentielle"
 ],
@@ -218,6 +444,26 @@
 "speaker": ""
 },
 {
+"id": "94e18e151c9f480b",
+"title": "\"J'avais besoin d'entendre ce [que les soignants] avaient besoin de faire passer comme message\", explique Teddy Riner, candidat à l'élection présidentielle après son premier déplacement de campagne",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-j-avais-besoin-d-entendre-ce-que-les-soignants-avaient-besoin-de-faire-passer-comme-message-explique-teddy-riner-candidat-a-l-election-presidentielle-apres-son-premier-deplacement-de-campagne_VN-202611130531.html",
+"summary": "Teddy Riner, désormais candidat déclaré à la présidentielle, effectue son premier déplacement sur le terrain à l'hôpital Delafontaine de Saint-Denis.",
+"source": "BFMTV",
+"date": "2026-11-13T13:00:07+00:00",
+"added": "2026-11-13T15:35:44+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Teddy Riner"
+},
+{
 "id": "0e62aaeb0ba16176",
 "title": "Alertes à la bombe : \"Une possibilité d'ingérence étrangère\", déclare le ministre de l'Intérieur Laurent Nuñez",
 "link": "https://www.tf1info.fr/justice-faits-divers/videos/video-alertes-a-la-bombe-une-possibilite-d-ingerence-etrangere-declare-le-ministre-de-l-interieur-laurent-nunez-81116-2475678.html",
@@ -236,6 +482,27 @@
 "Citation"
 ],
 "speaker": "Laurent Nuñez"
+},
+{
+"id": "9d23c50d77ee9748",
+"title": "\"Je serai ravi d'être candidat dans cette primaire\", déclare Éric Zemmour, candidat Reconquête à la présidentielle, au salon \"Made In France\"",
+"link": "https://www.bfmtv.com/politique/les-republicains/video-je-serai-ravi-d-etre-candidat-dans-cette-primaire-declare-eric-zemmour-candidat-reconquete-a-la-presidentielle-au-salon-made-in-france_VN-202611130526.html",
+"summary": "Les directeurs de campagne de Gabriel Attal, Bruno Retailleau et David Lisnard vont se réunir le mardi 17 novembre afin de discuter ensemble de l'organisation d'une primaire de la droite et du centre.",
+"source": "BFMTV",
+"date": "2026-11-13T12:48:52+00:00",
+"added": "2026-11-13T15:35:44+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Éric Zemmour"
 },
 {
 "id": "1ff96d2f7147dcf1",
@@ -279,6 +546,27 @@
 "presidentielle"
 ],
 "natures": [],
+"speaker": ""
+},
+{
+"id": "42173833ac005adb",
+"title": "Fonctionnaires : Matignon lance une discussion d’un mois sur la « revalorisation des bas salaires », la CGT tacle un décalage « complet »",
+"link": "https://www.leparisien.fr/politique/fonctionnaires-sebastien-lecornu-ouvre-une-discussion-dun-mois-avec-les-syndicats-portant-notamment-sur-la-revalorisation-des-bas-salaires-13-11-2026-P4GOYQ4DRJH3TDDGE7QBC5BSGA.php",
+"summary": "",
+"source": "Le Parisien",
+"date": "2026-11-13T12:15:18+00:00",
+"added": "2026-11-13T15:35:44+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
 "speaker": ""
 },
 {
@@ -362,6 +650,27 @@
 "speaker": ""
 },
 {
+"id": "b22fadcde59f87ec",
+"title": "Blocage des lycées: \"Un professeur stagiaire a lancé un pavé sur les forces de l'ordre\", indique le ministre de l'Éducation nationale",
+"link": "https://www.bfmtv.com/politique/video-blocage-des-lycees-un-professeur-stagiaire-a-lance-un-pave-sur-les-forces-de-l-ordre-indique-le-ministre-de-l-education-nationale_VN-202611130498.html",
+"summary": "Sébastien Lecornu a déclaré, ce jeudi, qu'il souhaite que \"les complices\" de violences dans les lycées soient poursuivis, \"y compris parmi les personnels de l'Éducation nationale\".",
+"source": "BFMTV",
+"date": "2026-11-13T11:56:57+00:00",
+"added": "2026-11-13T15:35:44+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement"
+],
+"natures": [
+"Citation"
+],
+"speaker": ""
+},
+{
 "id": "5a269893db51149c",
 "title": "Élus listés par le suspect de l'attentat de Trappes: \"Le ministère de l'Intérieur a un comportement inhumain\", dénonce Jean-Luc Mélenchon",
 "link": "https://www.bfmtv.com/politique/la-france-insoumise/video-elus-listes-par-le-suspect-de-l-attentat-de-trappes-le-ministere-de-l-interieur-a-un-comportement-inhumain-denonce-jean-luc-melenchon_VN-202611130496.html",
@@ -427,6 +736,27 @@
 "partis"
 ],
 "natures": [],
+"speaker": ""
+},
+{
+"id": "4ba7423410b0fda1",
+"title": "Colère lycéenne: \"Nous avons effectivement aujourd'hui des personnels qui font l'objet de poursuites judiciaires parce qu'ils ont participé à des violences\", reconnaît le ministre de l'Éducation nationale",
+"link": "https://www.bfmtv.com/politique/video-colere-lyceenne-nous-avons-effectivement-aujourd-hui-des-personnels-qui-font-l-objet-de-poursuites-judiciaires-parce-qu-ils-ont-participe-a-des-violences-reconnait-le-ministre-de-l-education-nationale_VN-202611130494.html",
+"summary": "Sébastien Lecornu a déclaré, ce jeudi, qu'il souhaite que \"les complices\" de violences dans les lycées soient poursuivis, \"y compris parmi les personnels de l'Éducation nationale\".",
+"source": "BFMTV",
+"date": "2026-11-13T11:43:43+00:00",
+"added": "2026-11-13T15:35:44+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement"
+],
+"natures": [
+"Citation"
+],
 "speaker": ""
 },
 {
@@ -1233,7 +1563,8 @@
 "BFMTV",
 "Le Figaro",
 "La Provence",
-"Sud Ouest"
+"Sud Ouest",
+"20 Minutes"
 ],
 "base": [
 "partis"
@@ -1266,6 +1597,25 @@
 "natures": [
 "Annonce"
 ],
+"speaker": ""
+},
+{
+"id": "eb29acb36749c626",
+"title": "Gel du point d’indice, pouvoir d’achat… Après le rendez-vous des syndicats de fonctionnaires à Matignon, l’appel à la grève le 17 novembre s’élargit",
+"link": "https://www.humanite.fr/politique/budget-2027/gel-du-point-dindice-pouvoir-dachat-les-syndicats-de-fonctionnaires-recus-a-matignon-par-un-gouvernement-qui-semble-navoir-rien-a-proposer",
+"summary": "Le premier ministre Sébastien Lecornu a convoqué ce vendredi à 9 h 30 les syndicats de fonctionnaires. Ces derniers une hausse du point d’indice.",
+"source": "L'Humanité",
+"date": "2026-11-13T08:00:00+00:00",
+"added": "2026-11-13T15:35:44+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement"
+],
+"natures": [],
 "speaker": ""
 },
 {
@@ -2606,6 +2956,26 @@
 "speaker": ""
 },
 {
+"id": "c8b97d0c2be9fd1a",
+"title": "Declaration on key principles of European security.",
+"link": "https://www.elysee.fr/emmanuel-macron/2026/11/12/declaration-on-key-principles-of-european-security",
+"summary": "Committed to peace and upholding international law, and in the face of unprovoked full-scale Russian aggression against Ukraine and growing threats to Europe stability, the signatory states, gathered for the 9th Summit of the European Political Community in Dublin on the 12th of November 2026, consider strengthening…",
+"source": "Élysée",
+"date": "2026-11-12T20:50:00+00:00",
+"added": "2026-11-13T15:35:44+00:00",
+"official": true,
+"also": [],
+"base": [
+"elysee"
+],
+"filtered": false,
+"topics": [
+"elysee"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "b9b7caf387870b2a",
 "title": "Présidentielle 2027 : la percée de David Lisnard dans un nouveau sondage bouscule les équilibres à droite et au centre",
 "link": "https://www.rtl.fr/actu/politique/presidentielle-2027-la-percee-de-david-lisnard-dans-un-nouveau-sondage-bouscule-les-equilibres-a-droite-et-au-centre-7900695646",
@@ -3280,6 +3650,26 @@
 "speaker": ""
 },
 {
+"id": "f626f42d36d8db97",
+"title": "9ème sommet de la Communauté politique européenne à Dublin.",
+"link": "https://www.elysee.fr/emmanuel-macron/2026/11/12/9eme-sommet-de-la-communaute-politique-europeenne-a-dublin",
+"summary": "Le Président Emmanuel Macron s’est rendu à Dublin, ce jeudi afin de participer au 9ᵉ sommet de la Communauté politique européenne.",
+"source": "Élysée",
+"date": "2026-11-12T18:15:00+00:00",
+"added": "2026-11-13T15:35:44+00:00",
+"official": true,
+"also": [],
+"base": [
+"elysee"
+],
+"filtered": false,
+"topics": [
+"elysee"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "cc5c9de49f80e3d0",
 "title": "Présidentielle 2027 : Édouard Philippe veut «interdire» aux magistrats le droit de se syndiquer",
 "link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-edouard-philippe-veut-interdire-aux-magistrats-le-droit-de-se-syndiquer-20261112",
@@ -3290,7 +3680,8 @@
 "official": false,
 "also": [
 "Le Parisien",
-"Libération"
+"Libération",
+"Public Sénat"
 ],
 "base": [
 "presidentielle"
@@ -4212,6 +4603,26 @@
 "speaker": ""
 },
 {
+"id": "275bd54603d69eb1",
+"title": "Déclaration à l'issue de la réunion des dirigeants du Core Group de soutien à l'Arménie.",
+"link": "https://www.elysee.fr/emmanuel-macron/2026/11/12/declaration-a-lissue-de-la-reunion-des-dirigeants-du-core-group-de-soutien-a-larmenie",
+"summary": "Les dirigeants et représentants de la France, de la Lettonie, de la Lituanie, de l'Estonie, de la Pologne et du Royaume-Uni, ainsi que le président du Conseil européen, la présidente de la Commission européenne et la Haute Représentante de l'Union pour les affaires étrangères et la politique de sécurité, ont rencontré…",
+"source": "Élysée",
+"date": "2026-11-12T15:10:00+00:00",
+"added": "2026-11-13T15:35:44+00:00",
+"official": true,
+"also": [],
+"base": [
+"elysee"
+],
+"filtered": false,
+"topics": [
+"elysee"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "033a63ef14487e53",
 "title": "Révision de la Constitution : 110 constitutionnalistes rappellent à Marine Le Pen et Jean-Luc Mélenchon qu’ils ne pourront pas avoir recours au référendum via l’article 11",
 "link": "https://www.publicsenat.fr/actualites/politique/revision-de-la-constitution-110-constitutionnalistes-rappellent-a-marine-le-pen-et-jean-luc-melenchon-quils-ne-pourront-pas-avoir-recours-au-referendum-via-larticle-11",
@@ -4777,6 +5188,24 @@
 "speaker": ""
 },
 {
+"id": "efceed47bdadc30a",
+"title": "Pouvoir d’achat : les syndicats de la fonction publique reçus à Matignon sans grandes illusions",
+"link": "https://acteurspublics.fr/articles/pouvoir-dachat-les-syndicats-de-la-fonction-publique-recus-a-matignon-sans-grandes-illusions/",
+"summary": "Le rendez-vous était attendu, et même réclamé depuis plusieurs mois par les organisations syndicales de la fonction publique.",
+"source": "Acteurs Publics",
+"date": "2026-11-12T13:23:38+00:00",
+"added": "2026-11-13T15:35:44+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "d21738ed8644d839",
 "title": "\"Ouvrez tout de suite des négociations flash\": le ministre du Travail Jean-Pierre Farandou somme le patronat d'augmenter les minima (trop souvent sous le Smic)",
 "link": "https://www.bfmtv.com/economie/emploi/ouvrez-tout-de-suite-des-negociations-flash-le-ministre-du-travail-jean-pierre-farandou-somme-le-patronat-d-augmenter-les-minima-trop-souvent-sous-le-smic_AD-202611120568.html",
@@ -4910,7 +5339,9 @@
 "date": "2026-11-12T12:35:23+00:00",
 "added": "2026-11-12T14:04:30+00:00",
 "official": false,
-"also": [],
+"also": [
+"BFMTV"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -14180,460 +14611,6 @@
 "topics": [
 "parlement",
 "partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "56357e2ddf9a6eee",
-"title": "Présidentielle 2027 : «Teddy Riner doit prouver qu'il a le sens de l'Etat», souligne cet ancien conseiller de Nicolas Sarkozy",
-"link": "https://www.cnews.fr/france/2026-11-10/presidentielle-2027-teddy-riner-doit-prouver-quil-le-sens-de-letat-souligne-cet",
-"summary": "«Teddy Riner doit prouver qu'il a le sens de l'Etat», a souligné Thierry Saussez, ancien conseiller de Nicolas Sarkozy, ce mardi sur CNEWS, au sujet de la candidature du judoka à l'élection présidentielle de 2027.",
-"source": "CNews",
-"date": "2026-11-10T15:34:00+00:00",
-"added": "2026-11-10T19:39:51+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "e036bfea37d36a66",
-"title": "« Un robinet à saloperies racistes » : la pétition contre CNews classée après un débat houleux à l’Assemblée",
-"link": "https://www.lepoint.fr/politique/petition-contre-cnews-les-deputes-votent-son-classement-a-trois-voix-pres-H3WXITGSXZHUBNVXFPMUUJSMPU/",
-"summary": "",
-"source": "Le Point",
-"date": "2026-11-10T15:33:11+00:00",
-"added": "2026-11-10T17:37:21+00:00",
-"official": false,
-"also": [],
-"base": [
-"parlement"
-],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "d44a586329932a25",
-"title": "Taxer les grandes entreprises et les plus fortunés, le pari risqué de Jean-Luc Mélenchon pour financer de nouvelles dépenses",
-"link": "https://www.letelegramme.fr/france/taxer-les-grandes-entreprises-et-les-plus-fortunes-le-pari-risque-de-jean-luc-melenchon-pour-financer-de-nouvelles-depenses-7156877.php",
-"summary": "",
-"source": "Le Télégramme",
-"date": "2026-11-10T15:31:58+00:00",
-"added": "2026-11-10T15:33:48+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "c4a094dcdcaa0067",
-"title": "Accusé de se faire le \"porte-parole du Kremlin\", Jean-Luc Mélenchon réplique sur l'Ukraine",
-"link": "https://lcp.fr/actualites/accuse-de-se-faire-le-porte-parole-du-kremlin-jean-luc-melenchon-replique-sur-l-ukraine",
-"summary": "Jean-Luc Mélenchon est accusé par le ministre des Affaires étrangères Jean-Noël Barrot de se faire \"le porte-parole du Kremlin\".",
-"source": "LCP",
-"date": "2026-11-10T15:31:34+00:00",
-"added": "2026-11-10T15:33:48+00:00",
-"official": false,
-"also": [
-"BFMTV"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement",
-"partis"
-],
-"natures": [
-"Réaction"
-],
-"speaker": ""
-},
-{
-"id": "71d42c01a0eedbfc",
-"title": "Teddy Riner candidat à la présidentielle : les précédents ratés et réussis des sportifs de haut niveau en Europe",
-"link": "https://www.lexpress.fr/monde/europe/teddy-riner-candidat-a-la-presidentielle-les-precedents-rates-et-reussis-des-sportifs-de-haut-niveau-TTERVAK33JB5FCCAASW2BJ63LM/",
-"summary": "\"Le combat a toujours fait partie de moi.\" Le 9 novembre, Teddy Riner a troqué son kimono pour un costume et une chemise blanche, mais il n'a pas oublié comment lancer un défi.",
-"source": "L'Express",
-"date": "2026-11-10T15:30:00+00:00",
-"added": "2026-11-10T17:37:21+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "9e81c76c370ed5c6",
-"title": "\"1502€. M.le Ministre, c'est une provocation !\": le ministre du Travail interpellé à l'Assemblée par une députée LFI",
-"link": "https://www.bfmtv.com/politique/gouvernement/video-1502-m-le-ministre-c-est-une-provocation-le-ministre-du-travail-interpelle-a-l-assemblee-par-une-deputee-lfi_VN-202611100643.html",
-"summary": "Jean-Pierre Farandou, le ministre du Travail et des Solidarités, répond à la députée LFI de la Sarthe Élise Leboucher lors des questions au gouvernement de ce mardi 10 novembre, à l'Assemblée nationale.",
-"source": "BFMTV",
-"date": "2026-11-10T15:12:59+00:00",
-"added": "2026-11-10T15:33:48+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement",
-"parlement",
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "2c4f3676dad15abb",
-"title": "Présidentielle 2027 : François Braun s'engage aux côtés de Teddy Riner",
-"link": "https://www.estrepublicain.fr/videos/presidentielle-2027-francois-braun-s-engage-aux-cotes-de-teddy-riner-3z8vklf",
-"summary": "Ancien ministre de la Santé et aujourd’hui conseiller auprès de la direction générale du CHR Metz-Thionville, l’urgentiste François Braun a confirmé, lundi 9 novembre, faire partie de l’équipe de campagne de Teddy Riner, champion olympique et candidat à l’élection présidentielle.",
-"source": "L'Est Républicain",
-"date": "2026-11-10T15:12:01+00:00",
-"added": "2026-11-10T17:37:21+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"gouvernement",
-"presidentielle"
-],
-"natures": [],
-"speaker": "François Braun"
-},
-{
-"id": "dc66bb62cf53dc33",
-"title": "\"L'idée, c'était de jauger sa volonté\" : dans les coulisses de l'annonce de Teddy Riner, candidat à la présidentielle",
-"link": "https://www.tf1info.fr/politique/elections/presidentielle/video-l-idee-c-etait-de-jauger-sa-volonte-dans-les-coulisses-de-l-annonce-de-teddy-riner-candidat-a-la-presidentielle-2475065.html",
-"summary": "Il souhaite devenir un président qui \"fédère\". Dans un entretien exclusif au Parisien, Teddy Riner a annoncé sa candidature à l'élection présidentielle de 2027.",
-"source": "TF1 Info",
-"date": "2026-11-10T15:11:39+00:00",
-"added": "2026-11-10T17:37:21+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [
-"Citation",
-"Annonce"
-],
-"speaker": "Teddy Riner"
-},
-{
-"id": "0d1b06f2967c798e",
-"title": "CNews : les organisations lycéennes et la CGT font front contre la chaîne ; Catherine Pégard, la ministre de la culture, appelle à ne pas « trier les journalistes »",
-"link": "https://www.lemonde.fr/actualite-medias/article/2026/11/10/cnews-les-organisations-lyceennes-et-la-cgt-font-front-contre-la-chaine-catherine-pegard-la-ministre-de-la-culture-appelle-a-ne-pas-trier-les-journalistes_6808855_3236.html",
-"summary": "Alors que la CGT et les organisations lycéennes refusent de répondre aux questions de la presse en présence des journalistes de la chaîne, le gouvernement, la droite et l’extrême droite appellent à respecter la liberté de la presse.",
-"source": "Le Monde",
-"date": "2026-11-10T15:06:42+00:00",
-"added": "2026-11-10T15:33:48+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Catherine Pégard"
-},
-{
-"id": "8d22d8a739122577",
-"title": "Présidentielle 2027 : « Des accusations grotesques »… LFI précise sa position sur Ukraine après des vives critiques visant Jean-Luc Mélenchon",
-"link": "https://www.leparisien.fr/elections/presidentielle/presidentielles-2027-des-accusations-grotesques-lfi-precise-sa-position-sur-ukraine-apres-des-vives-critiques-visant-jean-luc-melenchon-10-11-2026-ZMAEISETARG5FG3U3IZ2GYASOM.php",
-"summary": "",
-"source": "Le Parisien",
-"date": "2026-11-10T15:03:22+00:00",
-"added": "2026-11-10T15:33:48+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "678a323ab7d1826c",
-"title": "Présidentielle 2027 : Teddy Riner, un candidat macroniste plombé par le soutien du président de la République ?",
-"link": "https://www.20minutes.fr/politique/4261856-20261110-presidentielle-2027-teddy-riner-candidat-macroniste-plombe-soutien-president-republique?at_medium=display&at_campaign=149",
-"summary": "Lundi, le judoka onze fois champion du monde a annoncé sa candidature à l’élection présidentielle de 2027. Cette énième candidature cache-t-elle derrière elle le président sortant ?",
-"source": "20 Minutes",
-"date": "2026-11-10T15:03:08+00:00",
-"added": "2026-11-10T15:33:48+00:00",
-"official": false,
-"also": [
-"France 24"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "a9df5f81748e21bd",
-"title": "Pétition « Supprimer CNews » : les députés ferment la porte à un débat à l’Assemblée",
-"link": "https://www.lopinion.fr/politique/petition-supprimer-cnews-les-deputes-ferment-la-porte-a-un-debat-a-lassemblee",
-"summary": "Un million de signatures, trois voix d'écart. Au terme d’un débat tendu, la commission des affaires culturelles de l’Assemblée nationale a classé, ce mardi, la pétition « Supprimer CNews de l’audiovisuel français » à 28 voix contre 25.",
-"source": "L'Opinion",
-"date": "2026-11-10T15:03:04+00:00",
-"added": "2026-11-11T06:38:33+00:00",
-"official": false,
-"also": [
-"RTL",
-"Libération"
-],
-"base": [
-"parlement"
-],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "f1199ebc0dc40ab6",
-"title": "Teddy Riner, candidat chouchou de Macron ?",
-"link": "https://www.20minutes.fr/politique/4261856-20261110-presidentielle-2027-teddy-riner-candidat-macroniste-plombe-soutien-president-republique",
-"summary": "Du tatami à la course à l’Élysée, le grand saut est officialisé. Dans une brève vidéo diffusée sur ses réseaux, Teddy Riner a pris l’ensemble de la classe politique à revers en annonçant sa candidature pour la présidentielle de 2027.",
-"source": "20 Minutes",
-"date": "2026-11-10T15:03:00+00:00",
-"added": "2026-11-10T15:33:48+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"elysee",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "a6ff96d6e78ecb56",
-"title": "Pete Hegseth, visé par une procédure de destitution, dénonce une « mise en scène politique »",
-"link": "https://www.lemonde.fr/international/article/2026/11/10/vise-par-une-procedure-de-destitution-pete-hegseth-denonce-une-mise-en-scene-politique_6808854_3210.html",
-"summary": "Le ministre de la défense américain est accusé d’avoir enfreint la loi en menant la guerre contre l’Iran sans avoir obtenu l’autorisation du Congrès, et ce « au grand préjudice de la cause du droit et de la justice, et au détriment manifeste du peuple des Etats-Unis d’Amérique ».",
-"source": "Le Monde",
-"date": "2026-11-10T15:02:53+00:00",
-"added": "2026-11-10T15:33:48+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "Pete Hegseth"
-},
-{
-"id": "db06b53e02fc65d8",
-"title": "Mélenchon renforcé, mobilisation contestée, gouvernement désavoué… Notre sondage sur la colère lycéenne",
-"link": "https://www.lepoint.fr/politique/melenchon-renforce-mobilisation-contestee-gouvernement-desavoue-notre-sondage-sur-la-colere-lyceenne-C7HPSDGSWRAYBAGWGJNRQX6IMI/",
-"summary": "",
-"source": "Le Point",
-"date": "2026-11-10T15:01:14+00:00",
-"added": "2026-11-10T15:33:48+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"gouvernement",
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "39f7a54f51f12cd6",
-"title": "Présidentielle 2027 : aucune banque française ne veut prêter de l’argent au RN… voici comment Marine Le Pen pourrait financer sa campagne",
-"link": "https://www.midilibre.fr/2026/11/10/presidentielle-2027-aucune-banque-francaise-ne-veut-preter-de-largent-au-rn-voici-comment-marine-le-pen-pourrait-financer-sa-campagne-13645735.php",
-"summary": "Alors que les banques françaises ne désirent plus attribuer de prêts aux partis, deux banques européennes pourraient bien soutenir le parti de Marine Le Pen et accorder au Rassemblent national un prêt de 10,6 millions d’euros, nécessaires pour la campagne présidentielle.",
-"source": "Midi Libre",
-"date": "2026-11-10T14:51:00+00:00",
-"added": "2026-11-10T15:33:48+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "9a4e9fc246bbadae",
-"title": "Pourquoi Jean-Luc Mélenchon ne choisit-il pas de rassembler ?",
-"link": "https://www.lamontagne.fr/paris-75000/actualites/pourquoi-jean-luc-melenchon-ne-choisit-il-pas-de-rassembler_15079409/",
-"summary": "Jusqu’à 1.500 euros d’amende : 657 communes de France interdisent désormais les feux de cheminée, êtes-vous concerné ?",
-"source": "La Montagne",
-"date": "2026-11-10T14:44:00+00:00",
-"added": "2026-11-11T17:44:47+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "ace05c2afd78198f",
-"title": "Budget 2027 de la Sécurité sociale : unanime, le Sénat s’oppose à la fin des exonérations de cotisations sociales en faveur des chantiers d’insertion publics",
-"link": "https://www.publicsenat.fr/actualites/economie/budget-2027-de-la-securite-sociale-unanime-le-senat-soppose-a-la-fin-des-exonerations-de-cotisations-sociales-en-faveur-des-chantiers-dinsertion-publics",
-"summary": "C’est un article du projet de loi de financement de la Sécurité sociale (PLFSS) pour 2027 qui a fait l’unanimité contre lui.",
-"source": "Public Sénat",
-"date": "2026-11-10T14:28:48+00:00",
-"added": "2026-11-10T15:33:48+00:00",
-"official": false,
-"also": [],
-"base": [
-"parlement"
-],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "97217cd779cd41c7",
-"title": "Yaël Braun-Pivet adresse \"la solidarité de la représentation nationale\" à la députée Farida Amrani, touchée par un tir de mortier ce samedi",
-"link": "https://www.bfmtv.com/politique/video-yael-braun-pivet-adresse-la-solidarite-de-la-representation-nationale-a-la-deputee-farida-amrani-touchee-par-un-tir-de-mortier-ce-samedi_VN-202611100613.html",
-"summary": "En ouverture de la séance des questions au Gouvernement, ce mardi 10 novembre 2026, Yaël Braun-Pivet a apporté au nom de l’ensemble de l’Assemblée nationale sa solidarité auprès de la députée Farida Amrani, visée par un tir de mortier ce samedi dans un salon de coiffure de l’Essonne",
-"source": "BFMTV",
-"date": "2026-11-10T14:17:42+00:00",
-"added": "2026-11-10T15:33:48+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement",
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "d42d5ecf7306ffd4",
-"title": "Programme de Jean-Luc Mélenchon : quelles mesures vous concernent ?",
-"link": "https://www.lefigaro.fr/elections/presidentielles/programmes/programme-de-jean-luc-melenchon-quelles-mesures-vous-concernent-20261110",
-"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
-"source": "Le Figaro",
-"date": "2026-11-10T14:14:08+00:00",
-"added": "2026-11-10T15:33:48+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "4572158705dd669c",
-"title": "Boycott de CNews par Sophie Binet : «personne n’a le droit de trier les journalistes», estime la ministre de la Culture",
-"link": "https://www.liberation.fr/economie/medias/boycott-de-cnews-par-sophie-binet-personne-na-le-droit-de-trier-parmi-les-journalistes-la-ministre-de-la-culture-20261110_MFVHBKH6J5DH7HG5F5PPYSZL54/",
-"summary": "Catherine Pégard a réagi ce mardi au refus de la secrétaire générale de la CGT de parler à la chaîne d’extrême droite.",
-"source": "Libération",
-"date": "2026-11-10T14:05:03+00:00",
-"added": "2026-11-10T15:33:48+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Sophie Binet"
-},
-{
-"id": "325a9c02c9eb452e",
-"title": "A Chelles, une bouteille d’essence jetée sur une élue devant le lycée Gaston-Bachelard",
-"link": "https://www.lemonde.fr/politique/article/2026/11/10/a-chelles-une-bouteille-d-essence-jetee-sur-une-elue-devant-le-lycee-gaston-bachelard_6808842_823448.html",
-"summary": "La conseillère régionale a porté plainte pour tentative de meurtre, a fait savoir la présidente de la région Ile-de-France, Valérie Pécresse, en déplorant une « forte intensité de violence » dans le mouvement lycéen.",
-"source": "Le Monde",
-"date": "2026-11-10T14:01:21+00:00",
-"added": "2026-11-10T15:33:48+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
 ],
 "natures": [],
 "speaker": ""
