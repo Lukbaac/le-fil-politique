@@ -27,13 +27,13 @@
 "name": "Le Monde",
 "ok": true,
 "items": 20,
-"new": 2
+"new": 1
 },
 {
 "name": "franceinfo",
 "ok": true,
 "items": 19,
-"new": 1
+"new": 5
 },
 {
 "name": "Le Figaro",
@@ -45,7 +45,7 @@
 "name": "Libération",
 "ok": true,
 "items": 50,
-"new": 1
+"new": 0
 },
 {
 "name": "La Croix",
@@ -63,7 +63,7 @@
 "name": "BFMTV",
 "ok": true,
 "items": 30,
-"new": 0
+"new": 3
 },
 {
 "name": "20 Minutes",
@@ -74,31 +74,31 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 80,
+"items": 84,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 6,
+"items": 5,
+"new": 1
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 27,
+"new": 1
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 31,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 29,
-"new": 0
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 38,
-"new": 0
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 43,
+"items": 46,
 "new": 0
 },
 {
@@ -111,66 +111,66 @@
 "name": "Google Actualités",
 "ok": true,
 "items": 100,
-"new": 1
+"new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
 "items": 100,
-"new": 2
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 33,
-"new": 0
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 97,
-"new": 0
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 19,
-"new": 0
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 16,
-"new": 0
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 27,
-"new": 2
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 100,
-"new": 1
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 20,
-"new": 0
+"new": 3
 },
 {
 "name": "Google Actualités",
 "ok": true,
 "items": 34,
+"new": 1
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 95,
+"new": 2
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 17,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 65,
+"items": 18,
+"new": 1
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 25,
+"new": 3
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 100,
+"new": 2
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 18,
+"new": 0
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 35,
+"new": 0
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 76,
 "new": 0
 }
 ]
