@@ -1,5 +1,228 @@
 [
 {
+"id": "78b46685deab803e",
+"title": "\"Peut-il mettre à mal l'annonce faite d'un combat entre le RN et LFI ?\" : Jean-Charles Orsucci, porte-parole de campagne de Gabriel Attal, ne ferme par la porte à Teddy Riner",
+"link": "https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/peut-il-mettre-a-mal-l-annonce-faite-d-un-combat-entre-le-rn-et-lfi-jean-charles-orsucci-porte-parole-de-campagne-de-gabriel-attal-ne-ferme-par-la-porte-a-teddy-riner_8281595.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "Vendredi 13 novembre, Jean-Charles Orsucci, porte-parole de campagne de Gabriel Attal, et Aleksandar Nikolic, porte-parole de la campagne de Marine Le Pen, étaient les invités du \"Duel\" sur franceinfo.",
+"source": "franceinfo",
+"date": "2026-11-13T21:31:29+00:00",
+"added": "2026-11-13T21:36:21+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Annonce"
+],
+"speaker": ""
+},
+{
+"id": "04fbcc7067e907ea",
+"title": "Budget 2027 de la Sécurité sociale : le Sénat adopte un volet recettes affaibli",
+"link": "https://www.publicsenat.fr/actualites/politique/budget-2027-de-la-securite-sociale-le-senat-adopte-un-volet-recettes-affaibli",
+"summary": "L’heure de la mi-temps a sonné sur le projet de loi de financement de la Sécurité sociale (PLFSS) pour 2027 au Sénat.",
+"source": "Public Sénat",
+"date": "2026-11-13T21:16:40+00:00",
+"added": "2026-11-13T21:36:21+00:00",
+"official": false,
+"also": [],
+"base": [
+"parlement"
+],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "f85c006ae638c8d1",
+"title": "Budget de la Sécu : le Sénat adopte les recettes et promet des économies sur les dépenses",
+"link": "https://www.lefigaro.fr/flash-eco/budget-de-la-secu-le-senat-adopte-les-recettes-et-promet-des-economies-sur-les-depenses-20261113",
+"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
+"source": "Le Figaro",
+"date": "2026-11-13T20:53:19+00:00",
+"added": "2026-11-13T21:36:21+00:00",
+"official": false,
+"also": [],
+"base": [
+"parlement"
+],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [
+"Annonce"
+],
+"speaker": ""
+},
+{
+"id": "761584d7bd579a64",
+"title": "Prime de risque : Laurent Nuñez propose une revalorisation jugée « insuffisante » voire « inadmissible » par les syndicats",
+"link": "https://www.lemonde.fr/politique/article/2026/11/13/prime-de-risque-laurent-nunez-propose-une-revalorisation-jugee-insuffisante-voire-inadmissible-par-les-syndicats_6809385_823448.html",
+"summary": "Un plan de revalorisation de la prime ISSP, qui n’avait pas évolué depuis 2019, a été présenté par le ministre de l’intérieur aux organisations représentatives, vendredi, « compte tenu des risques inouïs auxquels sont exposés actuellement les policiers et les gendarmes ».",
+"source": "Le Monde",
+"date": "2026-11-13T20:47:11+00:00",
+"added": "2026-11-13T21:36:21+00:00",
+"official": false,
+"also": [
+"franceinfo"
+],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [
+"Citation",
+"Annonce"
+],
+"speaker": "Laurent Nuñez"
+},
+{
+"id": "f8342182a7a807b3",
+"title": "Glucksmann, Le Pen... des candidats harcelés ? - 13/11",
+"link": "https://www.bfmtv.com/replay-emissions/fauvelle-week-end/video-glucksmann-le-pen-des-candidats-harceles-13-11_VN-202611130858.html",
+"summary": "VIDÉO - Retrouvez le replay de Fauvelle Week-end sur BFMTV.",
+"source": "BFMTV",
+"date": "2026-11-13T20:29:02+00:00",
+"added": "2026-11-13T21:36:21+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "494207766ee855f8",
+"title": "Présidentielle 2027 : Teddy Riner, le seul candidat adoubé par Emmanuel Macron",
+"link": "https://www.lemonde.fr/politique/video/2026/11/13/presidentielle-2027-teddy-riner-le-seul-candidat-adoube-par-emmanuel-macron_6809383_823448.html",
+"summary": "Après l’annonce de la candidature du judoka français, les liens entre l’athlète et le président de la République sont analysés par Nathalie Segaunes, journaliste politique au « Monde ».",
+"source": "Le Monde",
+"date": "2026-11-13T20:23:08+00:00",
+"added": "2026-11-13T21:36:21+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "77d8146a949df92b",
+"title": "Programme de LFI, Teddy Riner...: Aurélie Trouvé (LFI) répond",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-programme-de-lfi-teddy-riner-aurelie-trouve-lfi-repond_VN-202611130851.html",
+"summary": "Face à une salle pleine, Jean-Luc Mélenchon a développé les idées de son programme présidentiel au Bourget (Seine-Saint-Denis).",
+"source": "BFMTV",
+"date": "2026-11-13T20:18:23+00:00",
+"added": "2026-11-13T21:36:21+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Réaction"
+],
+"speaker": "Aurélie Trouvé"
+},
+{
+"id": "e1e122306b9a7c75",
+"title": "La France insoumise : un programme qui divise - 13/11",
+"link": "https://www.bfmtv.com/replay-emissions/fauvelle-week-end/video-la-france-insoumise-un-programme-qui-divise-13-11_VN-202611130844.html",
+"summary": "VIDÉO - Retrouvez le replay de Fauvelle Week-end sur BFMTV.",
+"source": "BFMTV",
+"date": "2026-11-13T20:10:01+00:00",
+"added": "2026-11-13T21:36:21+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "12af12a2ad9f5309",
+"title": "Moscou n'est «pas en position» d'avoir des exigences sur la sécurité de l'Europe, affirme le premier ministre letton",
+"link": "https://www.lefigaro.fr/international/moscou-n-est-pas-en-position-d-avoir-des-exigences-sur-la-securite-de-l-europe-affirme-le-premier-ministre-letton-20261113",
+"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
+"source": "Le Figaro",
+"date": "2026-11-13T19:59:52+00:00",
+"added": "2026-11-13T21:36:21+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement"
+],
+"natures": [
+"Citation"
+],
+"speaker": ""
+},
+{
+"id": "caa82eb6888fbc8e",
+"title": "Présidentielle : Teddy Riner, poids lourd ou poids plume ?",
+"link": "https://www.liberation.fr/idees-et-debats/editorial/presidentielle-teddy-riner-poids-lourd-ou-poids-plume-20261113_3GUNMQ7S5JBNPLAK7MENDYAVBE/",
+"summary": "Alors que la menace de l’extrême droite n’a jamais été aussi forte, émettre des doutes à l’égard de la candidature du judoka n’est en rien méprisant.",
+"source": "Libération",
+"date": "2026-11-13T19:59:33+00:00",
+"added": "2026-11-13T21:36:21+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "3127a99c470c76c7",
+"title": "« Une question de méthode ! » : union sacrée au Sénat pour s’opposer à la baisse du remboursement des cures thermales, dans le budget 2027 de la Sécurité sociale",
+"link": "https://www.publicsenat.fr/actualites/sante/une-question-de-methode-union-sacree-au-senat-pour-sopposer-a-la-baisse-du-remboursement-des-cures-thermales-dans-le-budget-2027-de-la-securite-sociale",
+"summary": "Les sénateurs ont amendé le projet de loi de financement de la Sécurité sociale (PLFSS) pour 2027 pour garantir que le niveau de prise en charge des cures thermales ne soit pas modifié l’an prochain.",
+"source": "Public Sénat",
+"date": "2026-11-13T19:54:39+00:00",
+"added": "2026-11-13T21:36:21+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "5b6f248b93e42d3f",
 "title": "Bruno Le Maire souhaite doubler le salaire médian en France",
 "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-bruno-le-maire-souhaite-doubler-le-salaire-median-en-france_VN-202611130822.html",
@@ -255,7 +478,10 @@
 "added": "2026-11-13T19:41:26+00:00",
 "official": false,
 "also": [
-"TF1 Info"
+"TF1 Info",
+"CNews",
+"La Voix du Nord",
+"RFI"
 ],
 "base": [],
 "filtered": true,
@@ -338,7 +564,9 @@
 "date": "2026-11-13T17:54:00+00:00",
 "added": "2026-11-13T19:41:26+00:00",
 "official": false,
-"also": [],
+"also": [
+"Le Parisien"
+],
 "base": [
 "partis"
 ],
@@ -1696,6 +1924,26 @@
 "speaker": ""
 },
 {
+"id": "334406df9a9043f2",
+"title": "Gel de la réforme des retraites : « Un cadeau qui coûte très cher », selon la rapporteure générale du budget",
+"link": "https://www.publicsenat.fr/actualites/politique/gel-de-la-reforme-des-retraites-un-cadeau-qui-coute-tres-cher-selon-la-rapporteure-generale-du-budget",
+"summary": "Alors que le budget 2027 est actuellement en examen au Sénat, le député PS Arthur Delaporte et la sénatrice LR Christine Lavarde ont débattu sur le gel de la réforme des retraites ce vendredi sur le plateau de l’émission Parlement Hebdo.",
+"source": "Public Sénat",
+"date": "2026-11-13T12:00:35+00:00",
+"added": "2026-11-13T21:36:21+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"parlement",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "877e5b0d1082e557",
 "title": "Services publics ? Marine Le Pen aux abonnés absents",
 "link": "https://www.marianne.net/politique/le-pen/services-publics-marine-le-pen-aux-abonnes-absents",
@@ -1878,6 +2126,24 @@
 "topics": [
 "partis",
 "presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "abb8b3752aa5de65",
+"title": "Sénat en action — SENAT EN ACTION 2026/2027",
+"link": "https://www.publicsenat.fr/emission/senat-en-action/senat-en-action-2026-2027-e1",
+"summary": "Sénat en action s'immerge dans les coulisses du Sénat pour montrer le travail des 348 élus de la chambre haute, l'élaboration d'une loi et son application sur le terrain.",
+"source": "Public Sénat",
+"date": "2026-11-13T11:32:03+00:00",
+"added": "2026-11-13T21:36:21+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement"
 ],
 "natures": [],
 "speaker": ""
@@ -2304,7 +2570,8 @@
 "also": [
 "franceinfo",
 "BFMTV",
-"Le Parisien"
+"Le Parisien",
+"Franceinfo"
 ],
 "base": [
 "partis"
@@ -4939,7 +5206,8 @@
 "Les Echos",
 "La Voix du Nord",
 "LCP",
-"Marianne"
+"Marianne",
+"Franceinfo"
 ],
 "base": [],
 "filtered": true,
@@ -5738,7 +6006,9 @@
 "date": "2026-11-12T15:01:38+00:00",
 "added": "2026-11-12T15:45:42+00:00",
 "official": false,
-"also": [],
+"also": [
+"Franceinfo"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -6694,7 +6964,8 @@
 "Le Télégramme",
 "La Montagne",
 "Le Nouvel Obs",
-"L'Est Républicain"
+"L'Est Républicain",
+"Franceinfo"
 ],
 "base": [
 "partis"
@@ -9536,6 +9807,26 @@
 "filtered": true,
 "topics": [
 "partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "568db880d6d89127",
+"title": "Présidentielle 2027. Christine Lagarde créditée de 14 % en cas de candidature, Teddy Riner de 2 %, selon un sondage",
+"link": "https://www.ledauphine.com/elections/2026/11/11/christine-lagarde-creditee-de-14-en-cas-de-candidature-teddy-riner-de-2-selon-un-sondage",
+"summary": "Christine Lagarde, qui ne s'est pas déclarée candidate à l'élection présidentielle, pourrait être créditée de 14 % selon un sondage Cluster 17.",
+"source": "Le Dauphiné Libéré",
+"date": "2026-11-11T18:54:00+00:00",
+"added": "2026-11-13T21:36:21+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
 ],
 "natures": [],
 "speaker": ""
@@ -13436,6 +13727,29 @@
 "speaker": "Jordan Bardella"
 },
 {
+"id": "d98153e0c168a4c2",
+"title": "Présidentielle 2027: 22% des électeurs seraient \"prêts\" à voter pour Teddy Riner selon un sondage",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/presidentielle-2027-22-des-electeurs-seraient-prets-a-voter-pour-teddy-riner-selon-un-sondage_AD-202611100975.html",
+"summary": "Teddy Riner lors du match de NFL à Paris, le 25 octobre 2026 - Johnny Fidelin/ICON Sport\nPlus d'un électeur sur cinq seraient prêts à voter pour le judoka Teddy Riner en 2027, selon un sondage publié ce mardi 10 novembre par l'Ifop pour LCI et Sud Radio, au lendemain de la déclaration surprise de candidature du…",
+"source": "BFMTV",
+"date": "2026-11-10T21:56:09+00:00",
+"added": "2026-11-13T21:36:21+00:00",
+"official": false,
+"also": [
+"RTL",
+"Midi Libre"
+],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "a853d86bb5ac877a",
 "title": "Jordan Bardella assure que \"l'État sera pro-police\" si Marine Le Pen est élue présidente et s'il est nommé Premier ministre",
 "link": "https://www.bfmtv.com/politique/front-national/jordan-bardella-assure-que-l-etat-sera-pro-police-si-marine-le-pen-est-elue-presidente-et-s-il-est-nomme-premier-ministre_AV-202611100972.html",
@@ -13546,737 +13860,5 @@
 "Citation"
 ],
 "speaker": "Jordan Bardella"
-},
-{
-"id": "9f661e533c178be5",
-"title": "Crise du logement: Jordan Bardella détaille les propositions du RN",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-crise-du-logement-jordan-bardella-detaille-les-propositions-du-rn_VN-202611100961.html",
-"summary": "VIDÉO - Pouvoir d’achat, immigration, dette, retraites, mobilisation des lycéens, école...Quelles sont les propositions du Rassemblement national à l’approche de l’élection présidentielle?",
-"source": "BFMTV",
-"date": "2026-11-10T21:23:46+00:00",
-"added": "2026-11-12T14:04:30+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "a32a0c250bbca7c8",
-"title": "Présidentielle 2027 : «Eric Zemmour va devoir étonner pour convaincre», estime Erik Tegnér",
-"link": "https://www.cnews.fr/france/2026-11-10/presidentielle-2027-eric-zemmour-va-devoir-etonner-pour-convaincre-estime-erik",
-"summary": "«Eric Zemmour va devoir étonner pour convaincre», a estimé Erik Tegnér, ce mardi sur CNEWS, au sujet de la candidature du chef de Reconquête à l'élection présidentielle de 2027.",
-"source": "CNews",
-"date": "2026-11-10T21:17:00+00:00",
-"added": "2026-11-11T14:02:09+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Erik Tegnér"
-},
-{
-"id": "51c33ec5b0a9eaf0",
-"title": "\"Le système des retraites aujourd'hui n'est pas soutenable\", déclare Jordan Bardella, président du RN #FaceABFM",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-le-systeme-des-retraites-aujourd-hui-n-est-pas-soutenable-declare-jordan-bardella-president-du-rn-face-abfm_VN-202611100946.html",
-"summary": "VIDÉO - Pouvoir d’achat, immigration, dette, retraites, mobilisation des lycéens, école...Quelles sont les propositions du Rassemblement national à l’approche de l’élection présidentielle?",
-"source": "BFMTV",
-"date": "2026-11-10T21:08:19+00:00",
-"added": "2026-11-11T14:02:09+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jordan Bardella"
-},
-{
-"id": "ed140b04ff30c035",
-"title": "Remise du rapport du Conseil consultatif pour l'égalité de genre.",
-"link": "https://www.elysee.fr/emmanuel-macron/2026/11/10/remise-du-rapport-du-conseil-consultatif-pour-legalite-de-genre",
-"summary": "En marge du Forum de Paris pour la Paix, les expertes et experts indépendants du Conseil consultatif pour l'égalité de genre (Gender Equality Advisory Council – GEAC) ont remis au Président leur rapport intitulé « Repenser les enjeux démographiques sous un angle féministe », dans le cadre de la Présidence française du…",
-"source": "Élysée",
-"date": "2026-11-10T21:05:00+00:00",
-"added": "2026-11-11T15:36:58+00:00",
-"official": true,
-"also": [],
-"base": [
-"elysee"
-],
-"filtered": false,
-"topics": [
-"elysee"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "4252ec05026cd87f",
-"title": "\"L'État sera pro-police\": Jordan Bardella annonce une \"présomption de légitime défense\" pour les forces de l'ordre si le RN arrive au pouvoir",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-l-etat-sera-pro-police-jordan-bardella-annonce-une-presomption-de-legitime-defense-pour-les-forces-de-l-ordre-si-le-rn-arrive-au-pouvoir_VN-202611100940.html",
-"summary": "VIDÉO - Pouvoir d’achat, immigration, dette, retraites, mobilisation des lycéens, école...Quelles sont les propositions du Rassemblement national à l’approche de l’élection présidentielle?",
-"source": "BFMTV",
-"date": "2026-11-10T21:04:59+00:00",
-"added": "2026-11-10T21:28:29+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation",
-"Annonce"
-],
-"speaker": "Jordan Bardella"
-},
-{
-"id": "f7d304b2b803f61e",
-"title": "\"C'est aux Ukrainiens de décider\" : La France insoumise répond à la polémique sur les propos de Jean-Luc Mélenchon évoquant le Donbass",
-"link": "https://www.franceinfo.fr/politique/melenchon/c-est-aux-ukrainiens-de-decider-la-france-insoumise-repond-a-la-polemique-sur-les-propos-de-jean-luc-melenchon-evoquant-le-donbass_8276936.html",
-"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
-"source": "franceinfo",
-"date": "2026-11-10T21:04:23+00:00",
-"added": "2026-11-12T17:42:15+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": ""
-},
-{
-"id": "7876349caff5491e",
-"title": "\"Je fermerai les mosquées radicales, j'expulserai les étrangers radicalisés qui diffusent l'idéologie islamiste\", assure Jordan Bardella, président du RN",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-je-fermerai-les-mosquees-radicales-j-expulserai-les-etrangers-radicalises-qui-diffusent-l-ideologie-islamiste-assure-jordan-bardella-president-du-rn_VN-202611100937.html",
-"summary": "VIDÉO - Pouvoir d’achat, immigration, dette, retraites, mobilisation des lycéens, école...Quelles sont les propositions du Rassemblement national à l’approche de l’élection présidentielle?",
-"source": "BFMTV",
-"date": "2026-11-10T21:03:16+00:00",
-"added": "2026-11-11T09:46:23+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jordan Bardella"
-},
-{
-"id": "427ccba8a830a6c1",
-"title": "Éducation: \"Nous souhaitons mettre en place une tenue commune, un uniforme à l'école\", déclare Jordan Bardella, président du RN",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-education-nous-souhaitons-mettre-en-place-une-tenue-commune-un-uniforme-a-l-ecole-declare-jordan-bardella-president-du-rn_VN-202611100935.html",
-"summary": "VIDÉO - Pouvoir d’achat, immigration, dette, retraites, mobilisation des lycéens, école...Quelles sont les propositions du Rassemblement national à l’approche de l’élection présidentielle?",
-"source": "BFMTV",
-"date": "2026-11-10T21:00:41+00:00",
-"added": "2026-11-11T14:02:09+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jordan Bardella"
-},
-{
-"id": "f7dd1546304fa2a8",
-"title": "\"Teddy Riner a le droit d'être candidat à la présidentielle, il n'y a pas de problème avec ça\", lance Jordan Bardella, président du RN",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-teddy-riner-a-le-droit-d-etre-candidat-a-la-presidentielle-il-n-y-a-pas-de-probleme-avec-ca-lance-jordan-bardella-president-du-rn_VN-202611100932.html",
-"summary": "VIDÉO - Pouvoir d’achat, immigration, dette, retraites, mobilisation des lycéens, école...Quelles sont les propositions du Rassemblement national à l’approche de l’élection présidentielle?",
-"source": "BFMTV",
-"date": "2026-11-10T20:59:29+00:00",
-"added": "2026-11-10T21:28:29+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jordan Bardella"
-},
-{
-"id": "a6f500e48feae1ec",
-"title": "Présidentielle 2027 : qui sont les candidats en lice ?",
-"link": "https://www.cnews.fr/france/2026-11-10/presidentielle-2027-qui-sont-les-candidats-en-lice-1621746",
-"summary": "A quelques mois de la fin du mandat d'Emmanuel Macron, plusieurs personnalités politiques ont fait part de leur intention de se présenter à l’élection présidentielle de 2027.",
-"source": "CNews",
-"date": "2026-11-10T20:56:00+00:00",
-"added": "2026-11-11T06:38:33+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"elysee",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "26a32d7bcfee022f",
-"title": "\"Une écrasante majorité à droite voterait pour Le Pen face à Mélenchon au second tour...» Baptiste Roger-Lacan, historien",
-"link": "https://www.franceinfo.fr/elections/presidentielle/une-ecrasante-majorite-a-droite-voterait-pour-le-pen-face-a-melenchon-au-second-tour-baptiste-roger-lacan-historien_8276939.html",
-"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
-"source": "franceinfo",
-"date": "2026-11-10T20:54:51+00:00",
-"added": "2026-11-10T21:28:29+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "ea0073ad0af4da89",
-"title": "Forum de la paix à Paris: Emmanuel Macron propose un dîner à l'Élysée",
-"link": "https://www.bfmtv.com/politique/elysee/video-forum-de-la-paix-a-paris-emmanuel-macron-propose-un-diner-a-l-elysee_VN-202611100922.html",
-"summary": "VIDÉO - Le président de la République Emmanuel Macron propose un dîner à l'Élysée en marge du Forum de Paris sur la Paix, ce mardi 10 novembre.",
-"source": "BFMTV",
-"date": "2026-11-10T20:45:00+00:00",
-"added": "2026-11-10T21:28:29+00:00",
-"official": false,
-"also": [],
-"base": [
-"elysee"
-],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [
-"Annonce"
-],
-"speaker": "Emmanuel Macron"
-},
-{
-"id": "2b9bd1407da061d0",
-"title": "\"Nous avons toujours condamné toutes les formes de violence\", lance Jordan Bardella, président du RN",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-nous-avons-toujours-condamne-toutes-les-formes-de-violence-lance-jordan-bardella-president-du-rn_VN-202611100924.html",
-"summary": "VIDÉO - Pouvoir d’achat, immigration, dette, retraites, mobilisation des lycéens, école...Quelles sont les propositions du Rassemblement national à l’approche de l’élection présidentielle?",
-"source": "BFMTV",
-"date": "2026-11-10T20:44:39+00:00",
-"added": "2026-11-10T21:28:29+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "Jordan Bardella"
-},
-{
-"id": "834dbeef57a30ed8",
-"title": "Jordan Bardella accuse \"des dirigeants de gauche et d'extrême gauche\" de \"mettre des fatwas et des cibles sur le dos\" de responsables politiques",
-"link": "https://www.bfmtv.com/politique/front-national/jordan-bardella-accuse-des-dirigeants-de-gauche-et-d-extreme-gauche-de-mettre-des-fatwas-et-des-cibles-sur-le-dos-de-responsables-politiques_AN-202611100920.html",
-"summary": "Le président du Rassemblement national Jordan Bardella ce mardi 10 novembre sur BFMTV a estimé que des dirigeants politiques \"de gauche et d'extrême gauche\" mettent des \"fatwas\" (un avis juridique religieux dans l'islam; ndlr) et \"des cibles sur le dos de responsable politiques\", notamment depuis l'attentat raciste à…",
-"source": "BFMTV",
-"date": "2026-11-10T20:43:31+00:00",
-"added": "2026-11-10T21:28:29+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "Jordan Bardella"
-},
-{
-"id": "6b45855632d435f0",
-"title": "\"La France insoumise a une responsabilité très lourde dans la dégradation du climat\", estime Jordan Bardella, président du RN",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-la-france-insoumise-a-une-responsabilite-tres-lourde-dans-la-degradation-du-climat-estime-jordan-bardella-president-du-rn_VN-202611100916.html",
-"summary": "VIDÉO - Pouvoir d’achat, immigration, dette, retraites, mobilisation des lycéens, école...Quelles sont les propositions du Rassemblement national à l’approche de l’élection présidentielle?",
-"source": "BFMTV",
-"date": "2026-11-10T20:37:53+00:00",
-"added": "2026-11-10T21:28:29+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jordan Bardella"
-},
-{
-"id": "28d4395d06b516d7",
-"title": "Jordan Bardella assure que des députés issus du RN et de sa coalition “seront naturellement ministres” en cas de victoire du RN à l’élection présidentielle",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-edwige-diaz-charles-alloncle-laurent-jacobelli-des-personnalites-qui-seront-naturellement-ministres-si-marine-le-pen-remporte-la-presidentielle-declare-jordan-bardella-president-du-rn_VN-202611100910.html",
-"summary": "VIDÉO - Pouvoir d’achat, immigration, dette, retraites, mobilisation des lycéens, école...Quelles sont les propositions du Rassemblement national à l’approche de l’élection présidentielle?",
-"source": "BFMTV",
-"date": "2026-11-10T20:29:35+00:00",
-"added": "2026-11-11T06:38:33+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"gouvernement",
-"parlement",
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jordan Bardella"
-},
-{
-"id": "17119876c12f0b1f",
-"title": "Vie chère: Jordan Bardella, président du RN, souhaite \"baisser la TVA de 20% à 5,5% sur le carburant et sur l'énergie\"",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-vie-chere-jordan-bardella-president-du-rn-souhaite-baisser-la-tva-de-20-a-5-5-sur-le-carburant-et-sur-l-energie_VN-202611100909.html",
-"summary": "VIDÉO - Pouvoir d’achat, immigration, dette, retraites, mobilisation des lycéens, école...Quelles sont les propositions du Rassemblement national à l’approche de l’élection présidentielle?",
-"source": "BFMTV",
-"date": "2026-11-10T20:28:40+00:00",
-"added": "2026-11-10T21:28:29+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jordan Bardella"
-},
-{
-"id": "48cb6e1a614f45dc",
-"title": "Jordan Bardella, président du RN veut \"indexer le Smic sur l'inflation\", en cas de victoire du RN à l'élection présidentielle",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-jordan-bardella-president-du-rn-veut-indexer-le-smic-sur-l-inflation-en-cas-de-victoire-du-rn-a-l-election-presidentielle_VN-202611100905.html",
-"summary": "VIDÉO - Pouvoir d’achat, immigration, dette, retraites, mobilisation des lycéens, école...Quelles sont les propositions du Rassemblement national à l’approche de l’élection présidentielle?",
-"source": "BFMTV",
-"date": "2026-11-10T20:23:33+00:00",
-"added": "2026-11-10T21:28:29+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": ""
-},
-{
-"id": "7942bcf27379e1c4",
-"title": "Drôme. Marie-Hélène Thoraval votera Marine Le Pen au second tour : « Elle est en roue libre », estime son opposant David Buisson",
-"link": "https://www.ledauphine.com/politique/2026/11/10/marie-helene-thoraval-votera-marine-le-pen-au-second-tour-elle-est-en-roue-libre-estime-son-opposant-david-buisson",
-"summary": "En annonçant sur Sud Radio qu’elle voterait pour Marine Le Pen (RN) en cas de second tour face à Jean-Luc Mélenchon (LFI), la maire (DVD) de Romans-sur-Isère franchit un cap décisif.",
-"source": "Le Dauphiné Libéré",
-"date": "2026-11-10T20:20:23+00:00",
-"added": "2026-11-10T21:28:29+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": ""
-},
-{
-"id": "53855e24089c69ff",
-"title": "Augmentation du Smic: selon Jordan Bardella, président du RN, c'est un \"sparadrap sur une plaie immense\"",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-augmentation-du-smic-selon-jordan-bardella-president-du-rn-c-est-un-sparadrap-sur-une-plaie-immense_VN-202611100903.html",
-"summary": "VIDÉO - Pouvoir d’achat, immigration, dette, retraites, mobilisation des lycéens, école...Quelles sont les propositions du Rassemblement national à l’approche de l’élection présidentielle?",
-"source": "BFMTV",
-"date": "2026-11-10T20:20:03+00:00",
-"added": "2026-11-10T21:28:29+00:00",
-"official": false,
-"also": [
-"La Montagne",
-"franceinfo",
-"Franceinfo"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jordan Bardella"
-},
-{
-"id": "c93e40ee426cfe73",
-"title": "Présidentielle 2027 : Eric Zemmour se lance à nouveau dans la course à l'Elysée",
-"link": "https://www.lesechos.fr/elections/presidentielle/presidentielle-2027-eric-zemmour-se-lance-a-nouveau-dans-la-course-a-lelysee-2262138",
-"summary": "",
-"source": "Les Echos",
-"date": "2026-11-10T20:18:42+00:00",
-"added": "2026-11-10T21:28:29+00:00",
-"official": false,
-"also": [
-"Le Figaro"
-],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"elysee",
-"presidentielle"
-],
-"natures": [],
-"speaker": "Éric Zemmour"
-},
-{
-"id": "2821b9e43b55db5b",
-"title": "Violences dans les lycées, candidature de Teddy Riner: Louise Montangon et Alexis Corbière réagissent",
-"link": "https://www.bfmtv.com/societe/video-violences-dans-les-lycees-candidature-de-teddy-riner-louise-montangon-et-alexis-corbiere-reagissent_VN-202611100919.html",
-"summary": "VIDÉO - Invités sur BFMTV, le député de la Seine-Saint-Denis Alexis Corbière, et la responsable étudiante de l'UNI Louise Montangon sont intervenus sur les sujets chauds de l'actualité politique et sociale.",
-"source": "BFMTV",
-"date": "2026-11-10T20:18:13+00:00",
-"added": "2026-11-11T06:38:33+00:00",
-"official": false,
-"also": [],
-"base": [
-"matinales"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"parlement",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "fc8d9fde62dc53a4",
-"title": "Éducation: le gouvernement a \"baissé les bras\", déplore Jordan Bardella, président du Rassemblement national",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-education-le-gouvernement-a-baisse-les-bras-deplore-jordan-bardella-president-du-rassemblement-national_VN-202611100901.html",
-"summary": "VIDÉO - Pouvoir d’achat, immigration, dette, retraites, mobilisation des lycéens, école...Quelles sont les propositions du Rassemblement national à l’approche de l’élection présidentielle?",
-"source": "BFMTV",
-"date": "2026-11-10T20:17:28+00:00",
-"added": "2026-11-10T21:28:29+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"gouvernement",
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jordan Bardella"
-},
-{
-"id": "5e4d5e64cf9c96e1",
-"title": "Violences: Jordan Bardella, président du RN, propose \"une révision totale de notre politique sécuritaire\", en cas de victoire à l'élection présidentielle",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-violences-jordan-bardella-president-du-rn-propose-une-revision-totale-de-notre-politique-securitaire-en-cas-de-victoire-a-l-election-presidentielle_VN-202611100898.html",
-"summary": "VIDÉO - Pouvoir d’achat, immigration, dette, retraites, mobilisation des lycéens, école...Quelles sont les propositions du Rassemblement national à l’approche de l’élection présidentielle?",
-"source": "BFMTV",
-"date": "2026-11-10T20:13:01+00:00",
-"added": "2026-11-11T17:44:47+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation",
-"Annonce"
-],
-"speaker": "Jordan Bardella"
-},
-{
-"id": "a73ea4d31fa5ddf9",
-"title": "Eric Zemmour, leader du parti d'extrême droite Reconquête, officialise sa candidature à l'élection présidentielle de 2027",
-"link": "https://www.franceinfo.fr/elections/presidentielle/eric-zemmour-leader-du-parti-d-extreme-droite-reconquete-officialise-sa-candidature-a-la-presidentielle_8276858.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "Déjà en lice en 2022, le polémiste plusieurs fois condamné avait fini quatrième du premier tour de l'élection présidentielle, avec 7% des voix.",
-"source": "franceinfo",
-"date": "2026-11-10T20:10:55+00:00",
-"added": "2026-11-10T21:28:29+00:00",
-"official": false,
-"also": [
-"La Provence",
-"20 Minutes",
-"BFMTV",
-"TF1 Info",
-"RTL"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "9b15a50a7e5a9fe9",
-"title": "Élue visée par un jet de bouteille d'essence à Chelles: \"On n'est plus dans des revendications\", déclare Jordan Bardella, président du RN",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-elue-visee-par-un-jet-de-bouteille-d-essence-a-chelles-on-n-est-plus-dans-des-revendications-declare-jordan-bardella-president-du-rn_VN-202611100890.html",
-"summary": "VIDÉO - Pouvoir d’achat, immigration, dette, retraites, mobilisation des lycéens, école...Quelles sont les propositions du Rassemblement national à l’approche de l’élection présidentielle?",
-"source": "BFMTV",
-"date": "2026-11-10T20:08:30+00:00",
-"added": "2026-11-11T06:38:33+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jordan Bardella"
-},
-{
-"id": "a5318c903e3d7968",
-"title": "Présidentielle : Retailleau propose de fixer la primaire aux 31 janvier et 7 février 2027, «le temps d’en définir les modalités et de faire campagne»",
-"link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-retailleau-propose-de-fixer-la-primaire-aux-31-janvier-et-7-fevrier-le-temps-d-en-definir-les-modalites-et-de-faire-campagne-20261110",
-"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
-"source": "Le Figaro",
-"date": "2026-11-10T20:04:56+00:00",
-"added": "2026-11-10T21:28:29+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation",
-"Annonce"
-],
-"speaker": "Bruno Retailleau"
-},
-{
-"id": "b6134d718bc69236",
-"title": "Présidentielle 2027. Éric Zemmour officiellement candidat, il promet « deux millions d’immigrés en moins »",
-"link": "https://www.ledauphine.com/politique/2026/11/10/eric-zemmour-officiellement-candidat-il-promet-deux-millions-d-immigres-en-moins",
-"summary": "Le président de Reconquête, quatrième en 2022, se lance de nouveau dans la course à l’Élysée. Il veut expulser les chômeurs étrangers de plus de six mois, même en situation régulière.",
-"source": "Le Dauphiné Libéré",
-"date": "2026-11-10T20:01:58+00:00",
-"added": "2026-11-10T21:28:29+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"elysee",
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation",
-"Annonce"
-],
-"speaker": ""
-},
-{
-"id": "d4f8f47a5f6e51d8",
-"title": "Budget de la Sécu : le Sénat approuve la création d’une taxe sur les produits sucrés",
-"link": "https://www.sudouest.fr/sante/budget-de-la-secu-le-senat-approuve-la-creation-d-une-taxe-sur-les-produits-sucres-31475123.php",
-"summary": "",
-"source": "Sud Ouest",
-"date": "2026-11-10T19:54:32+00:00",
-"added": "2026-11-11T11:43:25+00:00",
-"official": false,
-"also": [
-"France 24"
-],
-"base": [
-"parlement"
-],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "ad7eaab60ff8fbfd",
-"title": "Présidentielle 2027 : il avait déjà fait part de ses intentions… Eric Zemmour officialise sa candidature pour \"conserver une France française\"",
-"link": "https://www.midilibre.fr/2026/11/10/presidentielle-2027-il-avait-deja-fait-part-de-ses-intentions-eric-zemmour-officialise-sa-candidature-pour-conserver-une-france-francaise-13646293.php",
-"summary": "Eric Zemmour a confirmé ce mardi 10 novembre être candidat à l’élection présidentielle de 2027. Eric Zemmour avait annoncé sa candidature à l’élection présidentielle sur BFMTV, courant septembre.",
-"source": "Midi Libre",
-"date": "2026-11-10T19:49:00+00:00",
-"added": "2026-11-10T21:28:29+00:00",
-"official": false,
-"also": [
-"Europe 1",
-"Le Parisien"
-],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": ""
-},
-{
-"id": "f5899c9d3926f94d",
-"title": "Sophie Binet est-elle la première dirigeante de la CGT à n'avoir jamais travaillé dans le privé, comme l'affirme le député RN Jean-Philippe Tanguy ?",
-"link": "https://www.franceinfo.fr/economie/syndicats/sophie-binet-est-elle-la-premiere-dirigeante-de-la-cgt-a-n-avoir-jamais-travaille-dans-le-prive-comme-l-affirme-le-depute-rn-jean-philippe-tanguy_8276849.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "Sur CNews, le député du Rassemblement national Jean-Philippe Tanguy a déclaré que Sophie Binet était la première dirigeante de la CGT à ne jamais avoir travaillé dans le secteur privé.",
-"source": "franceinfo",
-"date": "2026-11-10T19:47:19+00:00",
-"added": "2026-11-10T21:28:29+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement",
-"partis"
-],
-"natures": [],
-"speaker": "Jean-Philippe Tanguy"
-},
-{
-"id": "184005ffc3db074d",
-"title": "Budget 2027 : après un passage chaotique à l’Assemblée, les sénateurs prennent le relais",
-"link": "https://www.lefigaro.fr/politique/budget-2027-apres-un-passage-chaotique-a-l-assemblee-les-senateurs-prennent-le-relais-20261110",
-"summary": "DÉCRYPTAGE - Après que l’Assemblée a unanimement rejeté le texte budgétaire pour la première fois de l’histoire de la Ve République, le Sénat va à son tour se saisir du texte.",
-"source": "Le Figaro",
-"date": "2026-11-10T19:45:00+00:00",
-"added": "2026-11-10T21:28:29+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [],
-"speaker": ""
 }
 ]
