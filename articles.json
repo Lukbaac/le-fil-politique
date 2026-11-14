@@ -1,5 +1,189 @@
 [
 {
+"id": "60594d834a448277",
+"title": "Dominique Schnapper, politiste : « Les partis de la droite républicaine et de la social-démocratie ne sont plus des lieux de débat politique »",
+"link": "https://www.lemonde.fr/idees/article/2026/11/14/dominique-schnapper-politiste-les-partis-de-la-droite-republicaine-et-de-la-social-democratie-ne-sont-plus-des-lieux-de-debat-politique_6810281_3232.html",
+"summary": "Les différences entre les candidats des partis de gouvernement à l’élection présidentielle tiennent plus au style des personnes et au discours qu’à de réelles divergences politiques, note la politiste dans un entretien au « Monde ».",
+"source": "Le Monde",
+"date": "2026-11-14T13:30:09+00:00",
+"added": "2026-11-14T13:41:31+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "5e6d3900774a86be",
+"title": "«Jean-Luc Mélenchon est l'homme qui prend le parti de tous ceux qui détestent l'\"ancienne France\"», tacle Michel Onfray",
+"link": "https://www.cnews.fr/videos/france/2026-11-14/jean-luc-melenchon-est-lhomme-qui-prend-le-parti-de-tous-ceux-qui",
+"summary": "«Jean-Luc Mélenchon est l'homme qui prend le parti de tous ceux qui détestent l'ancienne France», a affirmé le philosophe Michel Onfray, ce samedi sur CNEWS.",
+"source": "CNews",
+"date": "2026-11-14T12:55:00+00:00",
+"added": "2026-11-14T13:41:31+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "Michel Onfray"
+},
+{
+"id": "0da561124fcd061e",
+"title": "Présidentielle 2027 : premier couac de campagne pour Teddy Riner, lâché par un de ses principaux soutiens politiques",
+"link": "https://www.midilibre.fr/2026/11/14/presidentielle-2027-premier-couac-dans-la-campagne-pour-teddy-riner-lache-par-un-de-ses-principaux-soutiens-politiques-13652541.php",
+"summary": "Cinq jours après avoir annoncé sa candidature à la présidentielle de 2027, Teddy Riner voit son soutien politique, l’ex-ministre de la Santé François Braun, se retirer de sa campagne.",
+"source": "Midi Libre",
+"date": "2026-11-14T12:30:00+00:00",
+"added": "2026-11-14T13:41:31+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"gouvernement",
+"presidentielle"
+],
+"natures": [],
+"speaker": "Teddy Riner"
+},
+{
+"id": "66b4c4748188355a",
+"title": "Saint-Denis : La « prime au mérite » enterrée par la majorité de Bally Bagayoko",
+"link": "https://www.20minutes.fr/politique/4262854-20261114-saint-denis-prime-merite-enterree-majorite-bally-bagayoko?at_medium=display&at_campaign=149",
+"summary": "Le conseil municipal a supprimé jeudi soir la baisse de la prime des agents en cas d’arrêt maladie, instaurée en 2021.",
+"source": "20 Minutes",
+"date": "2026-11-14T12:21:50+00:00",
+"added": "2026-11-14T13:41:31+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "39a18e7895520f7e",
+"title": "Politique, le choix de la semaine - Raphaël Glucksmann: le soufflé de la primaire est-il déjà retombé?",
+"link": "https://www.rfi.fr/fr/podcasts/politique-le-choix-de-la-semaine/20261114-rapha%C3%ABl-glucksmann-le-souffl%C3%A9-de-la-primaire-est-il-d%C3%A9j%C3%A0-retomb%C3%A9",
+"summary": "Il y a un mois, Raphaël Glucksmann remportait haut la main la primaire de la gauche avec 66% des voix. Un plébiscite qui devait lui servir de tremplin vers l'Élysée.",
+"source": "RFI",
+"date": "2026-11-14T12:13:29+00:00",
+"added": "2026-11-14T13:41:31+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"elysee",
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "18d1e9359c4b30c3",
+"title": "Sarkozy dit non à l’interdiction de LFI, contrairement à Retailleau",
+"link": "https://www.20minutes.fr/politique/4262846-20261114-presidentielle-2027-nicolas-sarkozy-veut-interdire-lfi-rebours-bruno-retailleau",
+"summary": "Interdire La France Insoumise ? Nicolas Sarkozy n’est pas favorable à cette idée. Dans un entretien au Figaro, parut ce vendredi, et relayé par BFM, l’ancien président de la République estime qu’une telle mesure « n’aurait aucun sens ».",
+"source": "20 Minutes",
+"date": "2026-11-14T11:43:00+00:00",
+"added": "2026-11-14T13:41:31+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"elysee",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "e4a484fb07fb6709",
+"title": "Le gouvernement réduit la pratique de la médecine esthétique à 30 % du temps de travail des médecins",
+"link": "https://www.lemonde.fr/societe/article/2026/11/14/le-gouvernement-reduit-la-pratique-de-la-medecine-esthetique-a-30-du-temps-de-travail-des-medecins_6810149_3224.html",
+"summary": "Un décret paru samedi met en place un quota d’activité esthétique. Les jeunes praticiens devront en outre exercer cinq ans dans leur spécialité d’origine avant de pouvoir intégrer la future formation à la médecine esthétique.",
+"source": "Le Monde",
+"date": "2026-11-14T11:36:44+00:00",
+"added": "2026-11-14T13:41:31+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "ae99db35a5139054",
+"title": "Primaire de la droite et du centre: \"C'est une chamaillerie de perdants\", affirme Sylvain Berrios, député \"Horizons\" du Val-de-Marne et soutien d'Édouard Philippe",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-primaire-de-la-droite-et-du-centre-c-est-une-chamaillerie-de-perdants-affirme-sylvain-berrios-depute-horizons-du-val-de-marne-et-soutien-d-edouard-philippe_VN-202611140226.html",
+"summary": "L'organisation d'une primaire entre Gabriel Attal (Renaissance), Édouard Philippe (Horizons) et Bruno Retailleau (LR) et David Lisnard (Nouvelle Énergie) a repris de la vigueur ces derniers jours, LR plaidant fortement en ce sens à la suite de Gabriel Attal.",
+"source": "BFMTV",
+"date": "2026-11-14T11:26:23+00:00",
+"added": "2026-11-14T13:41:31+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Sylvain Berrios"
+},
+{
+"id": "e2b04bf9ad366151",
+"title": "Emmanuel Macron est arrivé au Cambodge pour le sommet de la Francophonie",
+"link": "https://www.franceinfo.fr/politique/emmanuel-macron/emmanuel-macron-est-arrive-au-cambodge-pour-le-sommet-de-la-francophonie_8282396.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "Le président français doit y signer une dizaine d'accords dans divers domaines (IA, énergie, santé, patrimoine...) et participer dimanche et lundi au XXe sommet de la Francophonie.",
+"source": "franceinfo",
+"date": "2026-11-14T11:25:30+00:00",
+"added": "2026-11-14T13:41:31+00:00",
+"official": false,
+"also": [
+"BFMTV"
+],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "8745b711529ba04a",
 "title": "La semaine vue par Coco : au Bourget, un Mélenchon inflexible",
 "link": "https://www.liberation.fr/idees-et-debats/editorial/la-semaine-vue-par-coco-au-bourget-un-melenchon-inflexible-20261114_QDHAWLJXQNG25MYKV6SSGNNP7Y/",
@@ -35,6 +219,29 @@
 "partis"
 ],
 "natures": [],
+"speaker": ""
+},
+{
+"id": "88c5f465ada372e0",
+"title": "\"Ça suffit\": le ministre de l'Enseignement supérieur déplore une \"intensification de la violence\" dans le mouvement étudiant, après l'agression d'un vice-président d'université",
+"link": "https://www.bfmtv.com/societe/education/ca-suffit-le-ministre-de-l-enseignement-superieur-deplore-une-intensification-de-la-violence-dans-le-mouvement-etudiant-apres-l-agression-d-un-vice-president-d-universite_AV-202611140210.html",
+"summary": "\"Ça suffit.\" Sur le plateau de BFMTV ce samedi 14 novembre, le ministre de l'Enseignement supérieur, de la Recherche et de l'Espace Philippe Baptiste fait un appel solennel.",
+"source": "BFMTV",
+"date": "2026-11-14T10:54:58+00:00",
+"added": "2026-11-14T13:41:31+00:00",
+"official": false,
+"also": [],
+"base": [
+"matinales"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"gouvernement"
+],
+"natures": [
+"Citation"
+],
 "speaker": ""
 },
 {
@@ -286,7 +493,8 @@
 "official": false,
 "also": [
 "Midi Libre",
-"Sud Ouest"
+"Sud Ouest",
+"CNews"
 ],
 "base": [
 "presidentielle"
@@ -311,7 +519,8 @@
 "official": false,
 "also": [
 "Le Figaro",
-"Le Dauphiné Libéré"
+"Le Dauphiné Libéré",
+"franceinfo"
 ],
 "base": [],
 "filtered": true,
@@ -663,6 +872,26 @@
 "speaker": ""
 },
 {
+"id": "aa56108a6e040f0f",
+"title": "Sondage : 72% des Français pour l'instauration de très courtes peines de prison à l’encontre des lycéens auteurs de violences lors des blocus",
+"link": "https://www.cnews.fr/france/2026-11-14/sondage-72-des-francais-pour-linstauration-de-tres-courtes-peines-de-prison",
+"summary": "Selon un sondage CSA pour CNEWS, Europe 1 et le JDD paru ce samedi 14 novembre, près de 3 Français sur 4 (72%) sont en faveur de l'instauration de très courtes peines de prison à l’encontre des lycéens auteurs de violences lors des blocus.",
+"source": "CNews",
+"date": "2026-11-14T05:00:00+00:00",
+"added": "2026-11-14T13:41:31+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "359c2a46b5b1fe3e",
 "title": "Crise financière: \"Monsieur Sarkozy est le dernier à pouvoir donner des leçons\", estime Danièle Obono, députée LFI de Paris",
 "link": "https://www.bfmtv.com/politique/la-france-insoumise/video-crise-financiere-monsieur-sarkozy-est-le-dernier-a-pouvoir-donner-des-lecons-estime-daniele-obono-deputee-lfi-de-paris_VN-202611130908.html",
@@ -851,6 +1080,29 @@
 ],
 "natures": [],
 "speaker": ""
+},
+{
+"id": "4181fabe410819e6",
+"title": "Présidentielle 2027 : «Tous les proches d'Emmanuel Macron seront balayés», analyse Jules Torres",
+"link": "https://www.cnews.fr/france/2026-11-13/presidentielle-2027-tous-les-proches-demmanuel-macron-seront-balayes-analyse",
+"summary": "«Tous les proches d'Emmanuel Macron seront balayés», a analysé le journaliste Jules Torres, ce vendredi sur CNEWS, au sujet des candidats à l'élection présidentielle de 2027.",
+"source": "CNews",
+"date": "2026-11-13T21:11:00+00:00",
+"added": "2026-11-14T13:41:31+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"elysee",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Jules Torres"
 },
 {
 "id": "f85c006ae638c8d1",
@@ -1296,7 +1548,8 @@
 "TF1 Info",
 "CNews",
 "La Voix du Nord",
-"RFI"
+"RFI",
+"Le Dauphiné Libéré"
 ],
 "base": [],
 "filtered": true,
@@ -1525,7 +1778,9 @@
 "date": "2026-11-13T17:37:00+00:00",
 "added": "2026-11-13T19:41:26+00:00",
 "official": false,
-"also": [],
+"also": [
+"20 Minutes"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -5978,7 +6233,9 @@
 "date": "2026-11-12T18:02:18+00:00",
 "added": "2026-11-12T19:42:50+00:00",
 "official": false,
-"also": [],
+"also": [
+"RTL"
+],
 "base": [
 "partis"
 ],
@@ -11406,6 +11663,24 @@
 "speaker": "Raphaël Stainville"
 },
 {
+"id": "8be2427193c64bf2",
+"title": "Présidentielle 2027 : quelles sont les chances d’Éric Zemmour, à nouveau candidat ?",
+"link": "https://www.la-croix.com/politique/presidentielle-2027-quelles-sont-les-chances-d-eric-zemmour-a-nouveau-candidat-20261111",
+"summary": "Le polémiste d’extrême droite Éric Zemmour a annoncé, mardi 10 novembre 2026, sa candidature à l’élection présidentielle de 2027.",
+"source": "La Croix",
+"date": "2026-11-11T16:05:46+00:00",
+"added": "2026-11-14T13:41:31+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "dca7a3ab8bae38cf",
 "title": "Présidentielle et conseil constitutionnel : Richard Ferrand et Marine Le Pen, le silence de l'amer",
 "link": "https://www.lopinion.fr/politique/presidentielle-et-conseil-constitutionnel-richard-ferrand-et-marine-le-pen-le-silence-de-lamer",
@@ -11822,633 +12097,5 @@
 ],
 "natures": [],
 "speaker": ""
-},
-{
-"id": "40c71f339eeadf1d",
-"title": "La Russie interdit l'entrée sur son territoire à deux députés et deux journalistes français, en réponse à l'expulsion de Xenia Fedorova",
-"link": "https://www.franceinfo.fr/monde/russie/la-russie-interdit-l-entree-sur-son-territoire-a-deux-deputes-et-deux-journalistes-francais-en-reponse-a-l-expulsion-de-xenia-fedorova_8277836.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "La décision a été prise \"en raison de leur participation au harcèlement\" de la chroniqueuse pro-Kremlin de CNews, a revendiqué Moscou.",
-"source": "franceinfo",
-"date": "2026-11-11T13:37:26+00:00",
-"added": "2026-11-11T14:02:09+00:00",
-"official": false,
-"also": [
-"Le Monde",
-"Libération",
-"L'Opinion"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "85d35bb13a5ec77f",
-"title": "Présidentielle 2027 : Eric Zemmour, candidat à l'élection, est « celui qui donne l'impulsion », selon Marc Menant",
-"link": "https://www.europe1.fr/politique/presidentielle-2027-eric-zemmour-candidat-a-lelection-est-celui-qui-donne-limpulsion-selon-marc-menant-1225265",
-"summary": "Eric Zemmour a officialisé, mardi 10 novembre, sa candidature à l'élection présidentielle de 2027. Pour le journaliste Marc Menant, invité dans l'émission « Christine Kelly et vous », cette candidature est logique.",
-"source": "Europe 1",
-"date": "2026-11-11T13:30:20+00:00",
-"added": "2026-11-11T14:02:09+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Marc Menant"
-},
-{
-"id": "a3ac6e68367660ea",
-"title": "Vincent Caure, un macroniste de la première heure à la tête de la commission d’enquête sur le 17 octobre",
-"link": "https://www.lemonde.fr/politique/article/2026/11/11/vincent-caure-un-macroniste-de-la-premiere-heure-a-la-tete-de-la-commission-d-enquete-sur-le-17-octobre_6808975_823448.html",
-"summary": "Proche de Stéphane Séjourné, le député de la circonscription des Français de l’étranger d’Europe du Nord élu en 2024 fait partie de l’aventure macroniste depuis 2016.",
-"source": "Le Monde",
-"date": "2026-11-11T13:30:02+00:00",
-"added": "2026-11-11T14:02:09+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "b471d910e51901d3",
-"title": "La campagne présidentielle s'invite aux commémorations pour le dernier 11-Novembre de Macron",
-"link": "https://www.france24.com/fr/info-en-continu/20261111-dernier-11-novembre-pour-macron-le-pen-appelle-%C3%A0-l-unit%C3%A9-m%C3%A9lenchon-%C3%A0-se-souvenir-de-l-histoire",
-"summary": "",
-"source": "France 24",
-"date": "2026-11-11T13:28:03+00:00",
-"added": "2026-11-11T19:46:48+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"elysee",
-"partis",
-"presidentielle"
-],
-"natures": [
-"Interview"
-],
-"speaker": ""
-},
-{
-"id": "d3f0c3faebb836d5",
-"title": "Guerre en Iran : le Gouvernement annonce des mesures de soutien à l’activité économique",
-"link": "https://www.info.gouv.fr/actualite/guerre-en-iran-le-gouvernement-annonce-des-mesures-de-soutien-a-l-activite-economique",
-"summary": "",
-"source": "info.gouv.fr",
-"date": "2026-11-11T13:23:23+00:00",
-"added": "2026-11-13T06:39:26+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [
-"Annonce"
-],
-"speaker": ""
-},
-{
-"id": "fdbd2667392297d2",
-"title": "Présidentielle 2027 : face à ses multiples condamnations judiciaires, Éric Zemmour dénonce un « harcèlement judiciaire",
-"link": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-face-a-ses-multiples-condamnations-judiciaires-eric-zemmour-denonce-un-harcelement-judiciaire-11-11-2026-RKZEHX7ATZFWNOVMKPJ4IGSZPI.php",
-"summary": "",
-"source": "Le Parisien",
-"date": "2026-11-11T13:14:20+00:00",
-"added": "2026-11-11T14:02:09+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [
-"Réaction"
-],
-"speaker": "Éric Zemmour"
-},
-{
-"id": "14f0e09c26b54522",
-"title": "Élection présidentielle 2027 : dates et vote",
-"link": "https://www.info.gouv.fr/actualite/election-presidentielle-2027",
-"summary": "",
-"source": "info.gouv.fr",
-"date": "2026-11-11T13:13:39+00:00",
-"added": "2026-11-12T19:42:50+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "586456dc79474386",
-"title": "Posez vos questions à Éric Trappier, invité du Grand Jury RTL avec Ouest-France",
-"link": "https://www.ouest-france.fr/politique/posez-vos-questions-a-eric-trappier-invite-du-grand-jury-rtl-avec-ouest-france-451dfdfc-dceb-11f1-86b6-0a2fbb1d8ed9",
-"summary": "",
-"source": "Ouest-France",
-"date": "2026-11-11T13:06:20+00:00",
-"added": "2026-11-11T14:02:09+00:00",
-"official": false,
-"also": [],
-"base": [
-"matinales"
-],
-"filtered": true,
-"topics": [
-"matinales"
-],
-"natures": [
-"Interview"
-],
-"speaker": ""
-},
-{
-"id": "2a69a44d4f6f8392",
-"title": "Présidentielle 2027 : « Que la Constitution soit complexe à réviser ne donne pas le droit de s’affranchir des règles qu’elle impose »",
-"link": "https://www.lemonde.fr/idees/article/2026/11/11/presidentielle-2027-que-la-constitution-soit-complexe-a-reviser-ne-donne-pas-le-droit-de-s-affranchir-des-regles-qu-elle-impose_6808972_3232.html",
-"summary": "A l’initiative du professeur en droit public Julien Bonnet, 110 universitaires spécialisés en droit constitutionnel soutiennent, dans une tribune au « Monde », que le recours au référendum (article 11), envisagé par Marine Le Pen pour réviser le texte fondateur de la Vᵉ République, serait irrégulier.",
-"source": "Le Monde",
-"date": "2026-11-11T13:00:08+00:00",
-"added": "2026-11-11T14:02:09+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "67d06578c1902ae8",
-"title": "En remettant en cause le fonds chaleur et le programme Actee, le gouvernement rabote les financements de la transition écologique dans les territoires",
-"link": "https://www.lemonde.fr/planete/article/2026/11/11/en-remettant-en-cause-le-fonds-chaleur-et-le-programme-actee-le-gouvernement-rabote-les-financements-de-la-transition-ecologique-dans-les-territoires_6808973_3244.html",
-"summary": "Par économie budgétaire, l’exécutif vient de s’attaquer à deux dispositifs utilisés par les collectivités locales pour le financement de l’adaptation au changement climatique et la décarbonation.",
-"source": "Le Monde",
-"date": "2026-11-11T13:00:06+00:00",
-"added": "2026-11-11T14:02:09+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "6d18d81f63e26697",
-"title": "Présidentielle 2027: l’ombre du macronisme plane sur la candidature de Teddy Riner",
-"link": "https://www.rfi.fr/fr/france/20261111-teddy-rimer-pr%C3%A9sidentielle-2027-ombre-emmanuel-macron-macronisme-plane-candidature-philippe-veran",
-"summary": "",
-"source": "RFI",
-"date": "2026-11-11T12:38:09+00:00",
-"added": "2026-11-11T14:02:09+00:00",
-"official": false,
-"also": [
-"La Croix",
-"20 Minutes",
-"Le Monde"
-],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "6c5a45ba720d3901",
-"title": "EN IMAGES. Commémoration du 11-Novembre : Emmanuel Macron, Jean-Luc Mélenchon… Les hommages de la classe politique",
-"link": "https://www.ouest-france.fr/societe/fetes/11-novembre/en-images-commemoration-du-11-novembre-emmanuel-macron-jean-luc-melenchon-les-hommages-de-la-classe-politique-e23019b4-ddb7-11f1-a62b-776e3051b0df",
-"summary": "",
-"source": "Ouest-France",
-"date": "2026-11-11T12:33:30+00:00",
-"added": "2026-11-11T14:02:09+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"elysee",
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "132828eb68a7a1a8",
-"title": "Ministres, parlementaires… Le gouvernement veut mieux contrôler la déclaration de patrimoine des responsables politiques",
-"link": "https://www.20minutes.fr/politique/4262157-20261111-ministres-parlementaires-gouvernement-veut-mieux-controler-declaration-patrimoine-responsables-politiques?at_medium=display&at_campaign=149",
-"summary": "Attention aux retardataires et aux récalcitrants. Le gouvernement souhaite réformer la Haute Autorité de la transparence de la vie publique (HATVP) via deux projets de loi portés par le ministre en charge des relations avec le Parlement, Laurent Panifous.",
-"source": "20 Minutes",
-"date": "2026-11-11T12:29:04+00:00",
-"added": "2026-11-11T14:02:09+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement",
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "fa846c899684cb48",
-"title": "Primaire de la droite et du centre: \"Édouard Philippe ne participera pas car il est candidat à l'élection présidentielle\", justifie Jérémie Patrier-Leitrus, député Horizons du Calvados",
-"link": "https://www.bfmtv.com/politique/elections/video-primaire-de-la-droite-et-du-centre-edouard-philippe-ne-participera-pas-car-il-est-candidat-a-l-election-presidentielle-justifie-jeremie-patrier-leitrus-depute-horizons-du-calvados_VN-202611110468.html",
-"summary": "Gabriel Attal, Édouard Philippe et David Lisnard ont été conviés par Bruno Retailleau a participé à une primaire de la droite et du centre en début d'année prochaine afin \"d'agir vite\" contre le \"choc brutal entre le Rassemblement national et la France insoumise\".",
-"source": "BFMTV",
-"date": "2026-11-11T12:27:37+00:00",
-"added": "2026-11-11T14:02:09+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement",
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jérémie Patrier-Leitrus"
-},
-{
-"id": "ba2f3ccab17e3ce1",
-"title": "Présidentielle 2027: \"Le risque c'est qu'on abandonne la France à un match entre Marine Le Pen et Jean-Luc Mélenchon\", estime Bruno Retailleau, candidat LR à l'élection",
-"link": "https://www.bfmtv.com/politique/elections/video-presidentielle-2027-le-risque-c-est-qu-on-abandonne-la-france-a-un-match-entre-marine-le-pen-et-jean-luc-melenchon-estime-bruno-retailleau-candidat-lr-a-l-election_VN-202611110465.html",
-"summary": "Gabriel Attal, Édouard Philippe et David Lisnard ont été conviés par Bruno Retailleau a participé à une primaire de la droite et du centre en début d'année prochaine afin \"d'agir vite\" contre le \"choc brutal entre le Rassemblement national et la France insoumise\".",
-"source": "BFMTV",
-"date": "2026-11-11T12:20:11+00:00",
-"added": "2026-11-11T14:02:09+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Bruno Retailleau"
-},
-{
-"id": "a1eb27e3816ea461",
-"title": "Catherine Vautrin, ministre des Armées: \"À un moment où le monde se réarme, nous avons besoin d'armées entraînées et équipées (...) C'est absolument indispensable pour la souveraineté de notre pays\"",
-"link": "https://www.bfmtv.com/politique/video-catherine-vautrin-ministre-des-armees-a-un-moment-ou-le-monde-se-rearme-nous-avons-besoin-d-armees-entrainees-et-equipees-c-est-absolument-indispensable-pour-la-souverainete-de-notre-pays_VN-202611110462.html",
-"summary": "Catherine Vautrin, ministre des Armées, évoque le budget alloué à son ministère dans le prochain projet de loi de finances.",
-"source": "BFMTV",
-"date": "2026-11-11T12:14:01+00:00",
-"added": "2026-11-11T14:02:09+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement",
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "99809c66ec2ad7e2",
-"title": "Présidentielle 2027 : Marine Le Pen a rencontré plusieurs dirigeants de grandes entreprises, dont Renault et Dassault, fin octobre",
-"link": "https://www.lemonde.fr/economie/article/2026/11/11/presidentielle-2027-marine-le-pen-a-rencontre-plusieurs-dirigeants-de-grandes-entreprises-dont-renault-et-totalenergies-fin-octobre_6808967_3234.html",
-"summary": "La candidate du Rassemblement national à l’élection présidentielle a été reçue par la fédération professionnelle France Industrie.",
-"source": "Le Monde",
-"date": "2026-11-11T12:07:18+00:00",
-"added": "2026-11-11T14:02:09+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "8d7bde6ff317f96b",
-"title": "11-Novembre: \"Toutes celles et ceux qui se sont engagés pour le pays nous obligent\", affirme Catherine Vautrin, ministre des Armées et des Anciens combattants",
-"link": "https://www.bfmtv.com/politique/video-11-novembre-toutes-celles-et-ceux-qui-se-sont-engages-pour-le-pays-nous-obligent-affirme-catherine-vautrin-ministre-des-armees-et-des-anciens-combattants_VN-202611110454.html",
-"summary": "Emmanuel Macron a commémoré mercredi le 108e anniversaire de l'Armistice de 1918, pour la dernière fois en tant que chef de l'État, lors de la traditionnelle cérémonie sur les Champs-Élysées et à l'Arc de Triomphe.",
-"source": "BFMTV",
-"date": "2026-11-11T12:03:49+00:00",
-"added": "2026-11-11T14:02:09+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Catherine Vautrin"
-},
-{
-"id": "bad35af98b9c5300",
-"title": "Des arcanes de l’Elysée à la présidence chaotique du Mucem, Pierre-Olivier Costa, un fidèle des Macron en pleine tourmente",
-"link": "https://www.liberation.fr/culture/des-arcanes-de-lelysee-a-la-presidence-chaotique-du-mucem-pierre-olivier-costa-un-fidele-des-macron-en-pleine-tourmente-20261111_S3535OAMEFB7DMAKFVHD4SIMJA/",
-"summary": "L’ex-directeur de cabinet de la première dame, parachuté en 2022 à la tête du musée marseillais fait l’objet d’accusations de «harcèlement sexuel et moral», qui ont conduit à son retrait puis à sa réintégration récente, à la fureur des agents.",
-"source": "Libération",
-"date": "2026-11-11T12:01:44+00:00",
-"added": "2026-11-11T14:02:09+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "919496d333ca4e28",
-"title": "\"Il est extrêmement important de faire Nation\": la ministre des Armées réagit à la polémique sur la commémoration du 11-Novembre à l'école",
-"link": "https://www.bfmtv.com/politique/video-il-est-extremement-important-de-faire-nation-la-ministre-des-armees-reagit-a-la-polemique-sur-la-commemoration-du-11-novembre-a-l-ecole_VN-202611110452.html",
-"summary": "Une circulaire parue début juillet instaure une cérémonie annuelle \"d'hommage à tous les 'Morts pour la France'\" pour les élèves du CM1 à la terminale autour du 11-Novembre, à laquelle des élus ou des militaires pourraient participer.",
-"source": "BFMTV",
-"date": "2026-11-11T12:01:11+00:00",
-"added": "2026-11-11T14:02:09+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": ""
-},
-{
-"id": "c4cfda2f5abb2da6",
-"title": "11-Novembre: la dernière cérémonie de commémorations présidée par Emmanuel Macron",
-"link": "https://www.bfmtv.com/politique/video-11-novembre-la-derniere-ceremonie-de-commemorations-presidee-par-emmanuel-macron_VN-202611110474.html",
-"summary": "Pour la dernière fois en tant que président de la République, Emmanuel Macron a présidé les commémorations du 11 novembre et ravivé la flamme du soldat inconnu.",
-"source": "BFMTV",
-"date": "2026-11-11T12:00:52+00:00",
-"added": "2026-11-11T14:02:09+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "4ce81a3e69f7abc8",
-"title": "11-Novembre : Emmanuel Macron a présidé sa dernière cérémonie de commémoration à Paris ; Jean-Luc Mélenchon a appelé à se souvenir de l’histoire, Marine Le Pen à « l’unité »",
-"link": "https://www.lemonde.fr/politique/article/2026/11/11/11-novembre-emmanuel-macron-preside-la-ceremonie-de-commemoration-pour-la-derniere-fois_6808966_823448.html",
-"summary": "Le président de la République a pris part, dans la matinée, au traditionnel dépôt de gerbe devant la statue de Georges Clemenceau puis à l’hommage au Soldat inconnu et au ravivage de la flamme sous l’Arc de triomphe.",
-"source": "Le Monde",
-"date": "2026-11-11T12:00:34+00:00",
-"added": "2026-11-11T14:02:09+00:00",
-"official": false,
-"also": [
-"franceinfo",
-"Franceinfo"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "690a51c429ad3d0e",
-"title": "11-Novembre: Jean-Luc Mélenchon appelle à se souvenir de l’Histoire pour ne pas \"la voir se renouveler\"",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-11-novembre-jean-luc-melenchon-appelle-a-se-souvenir-de-l-histoire-pour-ne-pas-la-voir-se-renouveler_VN-202611110446.html",
-"summary": "Le candidat de LFI à l'élection présidentielle, Jean-Luc Mélenchon, participe à une cérémonie pacifiste dans la Creuse à l'occasion de la commémoration de l'Armistice du 11-Novembre 1918.",
-"source": "BFMTV",
-"date": "2026-11-11T11:53:59+00:00",
-"added": "2026-11-11T14:02:09+00:00",
-"official": false,
-"also": [
-"France 24"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jean-Luc Mélenchon"
-},
-{
-"id": "4aa9527a2bce6c33",
-"title": "Présidentielle 2027 : «Teddy Riner nous surprend comme il le faisait sur les tatamis», souligne Fabien Galthié",
-"link": "https://www.lefigaro.fr/sports/rugby/presidentielle-2027-teddy-riner-nous-surprend-comme-il-le-faisait-sur-les-tatamis-souligne-fabien-galthie-20261111",
-"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
-"source": "Le Figaro",
-"date": "2026-11-11T11:53:03+00:00",
-"added": "2026-11-11T14:02:09+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "c0ad394a72f66a28",
-"title": "11-Novembre: \"On ne construit pas la paix, ni le sentiment d'appartenance nationale, si nécessaire à la cohésion sociale, sur l'oubli\", affirme Marine Le Pen, candidate RN à la présidentielle",
-"link": "https://www.bfmtv.com/politique/video-11-novembre-on-ne-construit-pas-la-paix-ni-le-sentiment-d-appartenance-nationale-si-necessaire-a-la-cohesion-sociale-sur-l-oubli-affirme-marine-le-pen-candidate-rn-a-la-presidentielle_VN-202611110440.html",
-"summary": "Les dirigeants politiques de tout bord commémorent l'armistice ce mercredi 11 novembre, dans un contexte social et budgétaire toujours tendu malgré ce répit accordé par le jour férié.",
-"source": "BFMTV",
-"date": "2026-11-11T11:45:45+00:00",
-"added": "2026-11-11T14:02:09+00:00",
-"official": false,
-"also": [
-"CNews",
-"franceinfo"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Marine Le Pen"
-},
-{
-"id": "a34c2f98e7f80240",
-"title": "11-Novembre: Emmanuel Macron a ravivé la flamme du soldat inconnu, suivez les hommages",
-"link": "https://www.bfmtv.com/politique/direct-11-novembre-des-commemorations-de-l-armistice-partout-en-france-dans-un-contexte-social-toujours-tendu_LN-202611110183.html",
-"summary": "Les dirigeants politiques de tout bord s'apprêtent à commémorer l'armistice ce mercredi 11 novembre, dans un contexte social et budgétaire toujours tendu malgré ce répit accordé par le jour férié.",
-"source": "BFMTV",
-"date": "2026-11-11T11:42:18+00:00",
-"added": "2026-11-11T11:43:25+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "a29643ebc1bcbafa",
-"title": "\"Il était ultra-favori, il ne l'est plus\" : le camp Retailleau met la pression sur Édouard Philippe pour une primaire à droite et au centre",
-"link": "https://www.rtl.fr/actu/politique/il-etait-ultra-favori-il-ne-l-est-plus-le-camp-retailleau-met-la-pression-sur-edouard-philippe-pour-une-primaire-a-droite-et-au-centre-7900695120",
-"summary": "Bruno Retailleau, candidat des Républicains à l'élection présidentielle, lors d'un discours à Paris, le 14 octobre 2026.",
-"source": "RTL",
-"date": "2026-11-11T11:42:04+00:00",
-"added": "2026-11-11T11:43:25+00:00",
-"official": false,
-"also": [
-"RMC",
-"BFMTV",
-"Le Parisien"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "e249c7d973ec1794",
-"title": "11-Novembre: \"Face aux malheurs du pays, on ne peut rester spectateurs ou commentateurs\", déclare Marine Le Pen, candidate RN à la présidentielle",
-"link": "https://www.bfmtv.com/politique/video-11-novembre-face-aux-malheurs-du-pays-on-ne-peut-rester-spectateurs-ou-commentateurs-declare-marine-le-pen-candidate-rn-a-la-presidentielle_VN-202611110438.html",
-"summary": "Les dirigeants politiques de tout bord commémorent l'armistice ce mercredi 11 novembre, dans un contexte social et budgétaire toujours tendu malgré ce répit accordé par le jour férié.",
-"source": "BFMTV",
-"date": "2026-11-11T11:39:47+00:00",
-"added": "2026-11-11T11:43:25+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Marine Le Pen"
-},
-{
-"id": "5de085e699116603",
-"title": "Le président de SOS Racisme estime que la candidature d'Éric Zemmour, condamné pour provocation à la haine raciale, pose un \"problème républicain\"",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/le-president-de-sos-racisme-estime-que-la-candidature-d-eric-zemmour-condamne-pour-provocation-a-la-haine-raciale-pose-un-probleme-republicain_AV-202611110433.html",
-"summary": "Au lendemain de l'annonce de la candidature d'Éric Zemmour à l'élection présidentielle, le président de SOS Racisme estime que son passé judiciaire pose un \"problème républicain\".",
-"source": "BFMTV",
-"date": "2026-11-11T11:35:37+00:00",
-"added": "2026-11-11T11:43:25+00:00",
-"official": false,
-"also": [
-"Le Monde",
-"La Provence",
-"Le Parisien"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [
-"Réaction"
-],
-"speaker": ""
-},
-{
-"id": "db811dae92996320",
-"title": "11 novembre: Emmanuel Macron salue le Premier ministre, le président du Sénat, la présidente de l'Assemblée ou encore l'ancien président Nicolas Sarkozy",
-"link": "https://www.bfmtv.com/politique/video-11-novembre-emmanuel-macron-salue-le-premier-ministre-le-president-du-senat-la-presidente-de-l-assemblee-ou-encore-l-ancien-president-nicolas-sarkozy_VN-202611110429.html",
-"summary": "Emmanuel Macron a ravivé la flamme du soldat inconnu sous l'Arc de Triomphe, après avoir déposé une gerbe sur la tombe.",
-"source": "BFMTV",
-"date": "2026-11-11T11:26:28+00:00",
-"added": "2026-11-11T11:43:25+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement",
-"parlement"
-],
-"natures": [
-"Réaction"
-],
-"speaker": "Emmanuel Macron"
 }
 ]

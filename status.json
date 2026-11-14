@@ -27,13 +27,13 @@
 "name": "Le Monde",
 "ok": true,
 "items": 20,
-"new": 1
+"new": 2
 },
 {
 "name": "franceinfo",
 "ok": true,
 "items": 20,
-"new": 2
+"new": 1
 },
 {
 "name": "Le Figaro",
@@ -51,7 +51,7 @@
 "name": "La Croix",
 "ok": true,
 "items": 50,
-"new": 0
+"new": 1
 },
 {
 "name": "L'Express",
@@ -69,18 +69,18 @@
 "name": "20 Minutes",
 "ok": true,
 "items": 20,
+"new": 1
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 30,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 37,
-"new": 0
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 20,
+"items": 21,
 "new": 0
 },
 {
@@ -92,7 +92,7 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 36,
+"items": 35,
 "new": 0
 },
 {
@@ -122,14 +122,14 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 42,
-"new": 0
+"items": 41,
+"new": 1
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 65,
-"new": 0
+"items": 61,
+"new": 1
 },
 {
 "name": "Google Actualités",
@@ -146,31 +146,31 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 28,
-"new": 0
+"items": 29,
+"new": 1
 },
 {
 "name": "Google Actualités",
 "ok": true,
 "items": 100,
+"new": 2
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 15,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 18,
+"items": 42,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 40,
-"new": 0
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 65,
-"new": 0
+"items": 71,
+"new": 1
 }
 ]
