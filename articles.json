@@ -1,5 +1,91 @@
 [
 {
+"id": "6ecef5a8cd7702b7",
+"title": "Présidentielle 2027 : «Je ne fais partie d'aucune famille politique», assure Teddy Riner",
+"link": "https://www.cnews.fr/france/2026-11-14/presidentielle-2027-je-ne-fais-partie-daucune-famille-politique-assure-teddy",
+"summary": "«Je ne fais partie d'aucune famille politique», a martelé Teddy Riner, candidat à l'élection présidentielle, lors de son déplacement au salon Made in France, ce samedi 14 novembre.",
+"source": "CNews",
+"date": "2026-11-14T17:17:48+00:00",
+"added": "2026-11-14T17:25:08+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Teddy Riner"
+},
+{
+"id": "0fad6f16b51df442",
+"title": "Présidentielle 2027: Gérard Larcher veut rencontrer tous les candidats de la droite et du centre pour fixer \"la méthode de départage\"",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/presidentielle-2027-gerard-larcher-veut-rencontrer-tous-les-candidats-de-la-droite-et-du-centre-pour-fixer-la-methode-de-departage_AD-202611140309.html",
+"summary": "Gérard Larcher, président du Sénat français, arrive à l'Élysée avant l'arrivée du pape Léon XIV, le 25 septembre 2026 à Paris, en France. - MUSTAFA YALCIN\nLe président du Sénat Gérard Larcher a proposé ce samedi 14 novembre aux candidats de la droite et du centre de \"se retrouver dans les meilleurs délais\" pour…",
+"source": "BFMTV",
+"date": "2026-11-14T17:15:48+00:00",
+"added": "2026-11-14T17:25:08+00:00",
+"official": false,
+"also": [
+"Le Figaro",
+"Franceinfo",
+"Le Parisien"
+],
+"base": [
+"parlement"
+],
+"filtered": true,
+"topics": [
+"elysee",
+"parlement",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Gérard Larcher"
+},
+{
+"id": "8e8606390ce82dbc",
+"title": "Manifestations du 14 novembre : 106 000 personnes ont défilé samedi dans toute la France, selon le ministère de l’intérieur ; 200 000, selon l’intersyndicale de la jeunesse",
+"link": "https://www.lemonde.fr/politique/article/2026/11/14/manifestations-du-14-novembre-106-000-personnes-ont-defile-samedi-dans-toute-la-france-selon-le-ministere-de-l-interieur-contre-la-vie-chere-pour-la-protection-des-enfants-ou-davantage-de-moyens-pour-l-education_6809818_823449.html",
+"summary": "Le gouvernement a déployé autant de forces de l’ordre que lors des trois derniers samedis, soit quelque 70 000 policiers et gendarmes.",
+"source": "Le Monde",
+"date": "2026-11-14T16:29:53+00:00",
+"added": "2026-11-14T17:25:08+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "d508464c2301900b",
+"title": "Le grand oral des candidats sur franceinfo",
+"link": "https://www.franceinfo.fr/replay-radio/le-rendez-vous-du-mediateur/le-grand-oral-des-candidats-sur-franceinfo_8261240.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "À l'occasion de la présidentielle 2027, franceinfo a organisé, jeudi 12 novembre, un grand oral des candidats, sur les services publics.",
+"source": "franceinfo",
+"date": "2026-11-14T16:00:02+00:00",
+"added": "2026-11-14T17:25:08+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "81f522cce36f5111",
 "title": "« Je cherche la pâte humaine » : Catherine Nay, l’indétrônable romancière du pouvoir",
 "link": "https://www.lefigaro.fr/politique/je-cherche-la-pate-humaine-catherine-nay-l-indetronable-romanciere-du-pouvoir-20261114",
@@ -30,7 +116,8 @@
 "BFMTV",
 "Le Parisien",
 "RTL",
-"Midi Libre"
+"Midi Libre",
+"CNews"
 ],
 "base": [],
 "filtered": true,
@@ -115,7 +202,9 @@
 "date": "2026-11-14T13:17:47+00:00",
 "added": "2026-11-14T15:26:37+00:00",
 "official": false,
-"also": [],
+"also": [
+"BFMTV"
+],
 "base": [
 "matinales"
 ],
@@ -172,6 +261,25 @@
 ],
 "natures": [],
 "speaker": "Teddy Riner"
+},
+{
+"id": "2c6c8a492d5a65d7",
+"title": "L’ancien ministre qui soutenait Teddy Riner le lâche déjà",
+"link": "https://www.huffingtonpost.fr/politique/article/francois-braun-ancien-ministre-et-soutien-de-teddy-riner-lache-deja-le-judoka_357821.html",
+"summary": "En fait, non. L’ancien ministre de la Santé d’Emmanuel Macron François Braun annonce à la presse se retirer de la campagne de Teddy Riner.",
+"source": "Le HuffPost",
+"date": "2026-11-14T12:27:13+00:00",
+"added": "2026-11-14T17:25:08+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement"
+],
+"natures": [],
+"speaker": ""
 },
 {
 "id": "66b4c4748188355a",
@@ -879,6 +987,26 @@
 "filtered": true,
 "topics": [
 "elysee"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "94e4529f1e52eb1e",
+"title": "La caravane de la France Insoumise à la foire de Giat pour échanger avec les habitants",
+"link": "https://www.lamontagne.fr/giat-63620/actualites/la-caravane-de-la-france-insoumise-a-la-foire-de-giat-pour-echanger-avec-les-habitants_15082456/",
+"summary": "",
+"source": "La Montagne",
+"date": "2026-11-14T05:38:00+00:00",
+"added": "2026-11-14T17:25:08+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
 ],
 "natures": [],
 "speaker": ""
@@ -2480,7 +2608,8 @@
 "official": false,
 "also": [
 "Les Echos",
-"Europe 1"
+"Europe 1",
+"La Nouvelle République"
 ],
 "base": [
 "partis"
@@ -2720,6 +2849,27 @@
 "speaker": ""
 },
 {
+"id": "f165ccedb2976b6b",
+"title": "\"Nous adorons les principes\" : Pete Hegseth, ministre de la Défense américain, décore le soldat qui l'a sèchement réprimandé",
+"link": "https://www.franceinfo.fr/monde/usa/nous-adorons-les-principes-pete-hegseth-ministre-de-la-defense-americain-decore-le-soldat-qui-l-a-sechement-reprimande_8281181.html",
+"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
+"source": "Franceinfo",
+"date": "2026-11-13T14:22:28+00:00",
+"added": "2026-11-14T17:25:08+00:00",
+"official": false,
+"also": [],
+"base": [
+"matinales"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"gouvernement"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "15db78159ec2da08",
 "title": "Sébastien Lecornu pointe du doigt certains agents de l'Education nationale complices de violences lors du mouvement lycéen",
 "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/sebastien-lecornu-pointe-du-doigt-certains-agents-de-l-education-nationale-complices-de-violences-lors-du-mouvement-lyceen_8281178.html#xtor=RSS-3-%5Bpolitique%5D",
@@ -2936,6 +3086,26 @@
 "filtered": true,
 "topics": [
 "partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "14f0e09c26b54522",
+"title": "Élection présidentielle 2027 : dates et vote",
+"link": "https://www.info.gouv.fr/actualite/election-presidentielle-2027",
+"summary": "",
+"source": "info.gouv.fr",
+"date": "2026-11-13T13:14:45+00:00",
+"added": "2026-11-14T17:25:08+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
 "presidentielle"
 ],
 "natures": [],
@@ -11470,513 +11640,5 @@
 "Citation"
 ],
 "speaker": "Henri Guaino"
-},
-{
-"id": "c12d5254b36222a0",
-"title": "De Mélenchon à Le Pen, qui doit s’inquiéter de la candidature de Teddy Riner",
-"link": "https://www.huffingtonpost.fr/politique/article/teddy-riner-candidat-a-la-presidentielle-de-melenchon-a-le-pen-qui-doit-craindre-son-aventure_355775.html",
-"summary": "Le colosse dans un jeu de quilles. Depuis que Teddy Riner s’est lancé à l’assaut de l’élection présidentielle, lundi 9 novembre, à la surprise générale, sa candidature suscite bon nombre de questions dans la sphère politique.",
-"source": "Le HuffPost",
-"date": "2026-11-11T17:15:08+00:00",
-"added": "2026-11-11T17:44:47+00:00",
-"official": false,
-"also": [
-"Le Monde",
-"La Croix",
-"L'Opinion",
-"20 Minutes"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "0e04aca51b173783",
-"title": "Teddy Riner candidat à la présidentielle : entrepreneur ultralibéral, ancien ministre d’Emmanuel Macron… qui sont les soutiens du judoka",
-"link": "https://www.leparisien.fr/elections/presidentielle/teddy-riner-candidat-a-la-presidentielle-entrepreneur-ultraliberal-ancien-ministre-demmanuel-macron-qui-accompagne-le-judoka-11-11-2026-NWM5VUUCEBFNLC7QHSHIWYFYGY.php",
-"summary": "",
-"source": "Le Parisien",
-"date": "2026-11-11T17:06:59+00:00",
-"added": "2026-11-11T17:44:47+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "446f2a9c15fe375e",
-"title": "Présidentielle 2027 : Edouard Philippe fait la course entêté",
-"link": "https://www.liberation.fr/politique/elections/presidentielle-2027-edouard-philippe-fait-la-course-entete-20261111_WLI24ITDQZDDXNWRBU75PXUOGI/",
-"summary": "Désormais dépassé par Jean-Luc Mélenchon dans les sondages, le candidat Horizons reste fermement opposé à l’idée de participer à une primaire de la droite et du centre.",
-"source": "Libération",
-"date": "2026-11-11T17:06:41+00:00",
-"added": "2026-11-11T17:44:47+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": "Édouard Philippe"
-},
-{
-"id": "abd072477e2609b2",
-"title": "Présidentielle 2027 : des hauts fonctionnaires dénoncent un « Etat incapable » et alertent sur l’« urgence de gouverner autrement »",
-"link": "https://www.lemonde.fr/politique/article/2026/11/11/presidentielle-2027-des-hauts-fonctionnaires-denoncent-un-etat-incapable-et-alertent-sur-l-urgence-de-gouverner-autrement_6809007_823448.html",
-"summary": "Dans deux ouvrages parus en octobre, Alexandre Pointier et François Perret posent un regard critique sur le fonctionnement actuel de la puissance publique et esquissent leur vision de l’Etat de demain.",
-"source": "Le Monde",
-"date": "2026-11-11T17:00:18+00:00",
-"added": "2026-11-11T17:44:47+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "e7659668e8f63cc8",
-"title": "Voile à l'école : l'autre bataille culturelle chez les insoumis",
-"link": "https://www.lexpress.fr/politique/voile-a-lecole-lautre-bataille-culturelle-chez-les-insoumis-GERQNLAQQZAXPPDMBMXSTBUVQI/",
-"summary": "En mars dernier, Jean-Luc Mélenchon est bousculé par les \"nouveaux médias\". \"TataDrapi\", forte de ses dizaines de milliers d’abonnés, s’enquiert de la position du prétendant à l’Elysée sur \"la loi de 2004\".",
-"source": "L'Express",
-"date": "2026-11-11T17:00:00+00:00",
-"added": "2026-11-11T17:44:47+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "b086935bfb143e96",
-"title": "Marine Le Pen, pschitt le racisme",
-"link": "https://www.liberation.fr/idees-et-debats/opinions/marine-le-pen-pschitt-le-racisme-20261112_JAKII3OPQRD4LE3F757LZT7BHY/",
-"summary": "",
-"source": "Libération",
-"date": "2026-11-11T16:59:46+00:00",
-"added": "2026-11-11T17:44:47+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "3e404b7e1ea67afe",
-"title": "11-Novembre : entre mémoire nationale et pacifisme, les hommages de Macron, Le Pen et Mélenchon",
-"link": "https://fr.euronews.com/2026/11/11/11-novembre-entre-memoire-nationale-et-pacifisme-les-hommages-de-macron-le-pen-et-melencho",
-"summary": "La France a commémoré ce mercredi la fin des combats de la Première Guerre mondiale. Comme chaque année, les cérémonies du 11-Novembre ont rassemblé élus, militaires, anciens combattants et citoyens autour des monuments aux morts à travers tout le pays.",
-"source": "Euronews",
-"date": "2026-11-11T16:43:25+00:00",
-"added": "2026-11-12T06:41:40+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"elysee",
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "5ded4796a9d95ee0",
-"title": "\"Une tentative d'intimider les démocrates\": les députés Arthur Delaporte et Sacha Houlié réagissent à leur interdiction d'entrée en Russie",
-"link": "https://www.bfmtv.com/politique/une-tentative-d-intimider-les-democrates-les-deputes-arthur-delaporte-et-sacha-houlie-reagissent-a-leur-interdiction-d-entree-en-russie_AV-202611110608.html",
-"summary": "Les députés Arthur Delaporte (PS) et Sacha Houlié (Place publique) ont dénoncé la stratégie d'ingérence du Kremlin après la mesure prise par Moscou d'interdire aux deux parlementaires ainsi qu'à deux journalistes leur entrée sur le territoire russe.",
-"source": "BFMTV",
-"date": "2026-11-11T16:43:01+00:00",
-"added": "2026-11-11T17:44:47+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement",
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "51b662b59d174b97",
-"title": "Bruno Retailleau : « Il est hors de question que j’utilise ma famille pour me mettre en avant »",
-"link": "https://www.lefigaro.fr/elections/presidentielles/bruno-retailleau-il-est-hors-de-question-que-j-utilise-ma-famille-pour-me-mettre-en-avant-20261111",
-"summary": "ENTRETIEN.- Invité d’« Empreintes », l’émission du Figaro, Bruno Retailleau se confie sur les êtres et les lieux qui l’ont façonné.",
-"source": "Le Figaro",
-"date": "2026-11-11T16:39:58+00:00",
-"added": "2026-11-11T17:44:47+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Bruno Retailleau"
-},
-{
-"id": "f84d8df4f1987bee",
-"title": "11 novembre : la «der» pour Macron, «l’unité» pour Le Pen et «la paix» pour Mélenchon",
-"link": "https://www.liberation.fr/politique/elections/11-novembre-la-der-pour-macron-lunite-pour-le-pen-et-la-paix-pour-melenchon-20261111_2ZTOOXWLZZDQJAFGLF6TA2KYNM/",
-"summary": "Les commémorations du 108e anniversaire de l’armistice de la Première Guerre mondiale ont été, ce mercredi, l’occasion de messages politiques, à près de cinq mois du premier tour de la présidentielle.",
-"source": "Libération",
-"date": "2026-11-11T16:38:45+00:00",
-"added": "2026-11-11T17:44:47+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Emmanuel Macron"
-},
-{
-"id": "049ae2bf4f43c024",
-"title": "Présidentielle 2027: Édouard Philippe et Gabriel Attal \"n'ont rien à proposer\", assure Jean-Luc Mélenchon, candidat LFI",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-2027-edouard-philippe-et-gabriel-attal-n-ont-rien-a-proposer-assure-jean-luc-melenchon-candidat-lfi_VN-202611110604.html",
-"summary": "Le candidat LFI à l'élection présidentielle Jean-Luc Mélenchon livre un discours à l'occasion des commémorations du 11-Novembre dans la Creuse.",
-"source": "BFMTV",
-"date": "2026-11-11T16:31:38+00:00",
-"added": "2026-11-11T17:44:47+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jean-Luc Mélenchon"
-},
-{
-"id": "fbb334fbb5a1b99c",
-"title": "« La frustration est digérée, nous sommes tournés vers l’avenir » : Aymeric Jégou, nouveau responsable du Parti socialiste de Douarnenez et du Cap présente sa feuille de route",
-"link": "https://www.letelegramme.fr/finistere/douarnenez-29100/la-frustration-est-digeree-nous-sommes-tournes-vers-lavenir-aymeric-jegou-nouveau-responsable-du-parti-socialiste-de-douarnenez-et-du-cap-presente-sa-feuille-de-route-7157578.php",
-"summary": "",
-"source": "Le Télégramme",
-"date": "2026-11-11T16:23:59+00:00",
-"added": "2026-11-11T17:44:47+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "bafb739b2bb2fb75",
-"title": "Présidentielle 2027 : « Je sais pour qui je ne voterai jamais », la rescapée de la Shoah Ginette Kolinka tacle Marine Le Pen",
-"link": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-je-sais-pour-qui-je-ne-voterai-jamais-la-rescapee-de-la-shoah-ginette-kolinka-tacle-marine-le-pen-11-11-2026-UGJ2FM4SN5HYDOP7OO53DABDAY.php",
-"summary": "",
-"source": "Le Parisien",
-"date": "2026-11-11T16:22:25+00:00",
-"added": "2026-11-11T17:44:47+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "Shoah Ginette Kolinka"
-},
-{
-"id": "e38dfbcf3de673e1",
-"title": "Emmanuel Macron a présidé sa dernière cérémonie du 11-Novembre",
-"link": "https://www.franceinfo.fr/societe/guerre-de-14-18/11-novembre/emmanuel-macron-a-preside-sa-derniere-ceremonie-du-11-novembre_8278010.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "Emmanuel Macron a exprimé d'un ton ému son \"immense gratitude\" aux anciens combattants. \"C'est une immense fierté pour moi, depuis près de dix ans, d'être là où je suis\", a-t-il déclaré.",
-"source": "franceinfo",
-"date": "2026-11-11T16:21:48+00:00",
-"added": "2026-11-11T17:44:47+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "c23c89155364261c",
-"title": "Sardoche, Thaïs d’Escufon, Louise Montangon... qui sont les « voix d’Internet » venues confronter Éric Zemmour sur YouTube",
-"link": "https://www.leparisien.fr/elections/presidentielle/sardoche-thais-descufon-louise-montangon-qui-sont-les-voix-dinternet-venues-confronter-eric-zemmour-sur-youtube-11-11-2026-RVVDVE3WTFGWDMEXF23MIKJ5P4.php",
-"summary": "",
-"source": "Le Parisien",
-"date": "2026-11-11T16:16:31+00:00",
-"added": "2026-11-11T17:44:47+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "a428302b6d2a5c63",
-"title": "A droite, Riner sème le trouble",
-"link": "https://www.liberation.fr/politique/elections/a-droite-riner-seme-le-trouble-20261111_A33KEHULKBBR5NEWLIECFAZV2I/",
-"summary": "L’arrivée dans la campagne du judoka a été saluée par Edouard Philippe et Gabriel Attal. Mais cette candidature pourrait vite les embarrasser tant ses premières positions sonnent très macronistes.",
-"source": "Libération",
-"date": "2026-11-11T16:15:53+00:00",
-"added": "2026-11-11T17:44:47+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "e8a2dd0c0ee93b07",
-"title": "Présidentielle 2027 : «Les cadres de LFI ont compris le danger de la candidature de Teddy Riner», estime Raphaël Stainville",
-"link": "https://www.cnews.fr/france/2026-11-11/presidentielle-2027-les-cadres-de-lfi-ont-compris-le-danger-de-la-candidature-de",
-"summary": "«Les cadres de LFI ont compris le danger de la candidature de Teddy Riner» à l'élection présidentielle de 2027, a estimé le journaliste Raphaël Stainville, ce mercredi sur CNEWS.",
-"source": "CNews",
-"date": "2026-11-11T16:10:00+00:00",
-"added": "2026-11-11T19:46:48+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Raphaël Stainville"
-},
-{
-"id": "8be2427193c64bf2",
-"title": "Présidentielle 2027 : quelles sont les chances d’Éric Zemmour, à nouveau candidat ?",
-"link": "https://www.la-croix.com/politique/presidentielle-2027-quelles-sont-les-chances-d-eric-zemmour-a-nouveau-candidat-20261111",
-"summary": "Le polémiste d’extrême droite Éric Zemmour a annoncé, mardi 10 novembre 2026, sa candidature à l’élection présidentielle de 2027.",
-"source": "La Croix",
-"date": "2026-11-11T16:05:46+00:00",
-"added": "2026-11-14T13:41:31+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "dca7a3ab8bae38cf",
-"title": "Présidentielle et conseil constitutionnel : Richard Ferrand et Marine Le Pen, le silence de l'amer",
-"link": "https://www.lopinion.fr/politique/presidentielle-et-conseil-constitutionnel-richard-ferrand-et-marine-le-pen-le-silence-de-lamer",
-"summary": "Comment parler sans parler ? Richard Ferrand ronge son frein. Mais parfois, ça déborde. Pas assez pour enfreindre les règles strictes de neutralité que lui impose sa fonction.",
-"source": "L'Opinion",
-"date": "2026-11-11T16:00:00+00:00",
-"added": "2026-11-11T17:44:47+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "0bd5e55e9d25efad",
-"title": "Un ministre annoncé en visite au Mans ce jeudi 12 novembre pour évoquer la sécurité du quotidien",
-"link": "https://www.ouest-france.fr/societe/securite/un-ministre-annonce-en-visite-au-mans-ce-jeudi-12-novembre-pour-evoquer-la-securite-du-quotidien-72c5e070-dde1-11f1-a62b-776e3051b0df",
-"summary": "",
-"source": "Ouest-France",
-"date": "2026-11-11T15:57:02+00:00",
-"added": "2026-11-11T17:44:47+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [
-"Annonce"
-],
-"speaker": ""
-},
-{
-"id": "b656c39cf4cf5bd3",
-"title": "11-Novembre: la prise de parole de Sébastien Lecornu",
-"link": "https://www.bfmtv.com/politique/video-11-novembre-la-prise-de-parole-de-sebastien-lecornu_VN-202611110587.html",
-"summary": "Les dirigeants politiques de tout bord commémorent l'armistice ce mercredi 11 novembre, dans un contexte social et budgétaire toujours tendu malgré ce répit accordé par le jour férié.",
-"source": "BFMTV",
-"date": "2026-11-11T15:56:26+00:00",
-"added": "2026-11-11T17:44:47+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "1f82a668f25d9b6f",
-"title": "11-Novembre: Sébastien Lecornu évoque \"le devoir de faire vivre cette mémoire\"",
-"link": "https://www.bfmtv.com/politique/video-11-novembre-sebastien-lecornu-evoque-le-devoir-de-faire-vivre-cette-memoire_VN-202611110584.html",
-"summary": "Les dirigeants politiques de tout bord commémorent l'armistice ce mercredi 11 novembre, dans un contexte social et budgétaire toujours tendu malgré ce répit accordé par le jour férié.",
-"source": "BFMTV",
-"date": "2026-11-11T15:52:28+00:00",
-"added": "2026-11-11T17:44:47+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Sébastien Lecornu"
-},
-{
-"id": "e76d2461c3097c38",
-"title": "« Je n'ai pas dit que qui que ce soit avait le droit d'envahir son voisin », déclare Jean-Luc Mélenchon en meeting en Creuse",
-"link": "https://www.lamontagne.fr/souterraine-23300/actualites/des-milliers-de-personnes-venues-assister-au-meeting-de-jean-luc-melenchon-a-la-souterraine-en-creuse_15080032/",
-"summary": "Jusqu’à 1.500 euros d’amende : 657 communes de France interdisent désormais les feux de cheminée, êtes-vous concerné ?",
-"source": "La Montagne",
-"date": "2026-11-11T15:46:00+00:00",
-"added": "2026-11-11T19:46:48+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Citation",
-"Discours"
-],
-"speaker": "Jean-Luc Mélenchon"
-},
-{
-"id": "95e92a2f6e910473",
-"title": "En réaction à l’expulsion de Fedorova, la Russie interdit de territoire deux députés et deux journalistes français",
-"link": "https://www.liberation.fr/international/europe/en-reaction-a-lexpulsion-de-fedorova-la-russie-interdit-de-territoire-deux-deputes-et-deux-journalistes-francais-20261111_HN2JUTQSGZAALCIS22HOVBGC4U/",
-"summary": "La porte-parole du ministère des Affaires étrangères russe a annoncé ce mercredi 11 novembre cette mesure visant Sacha Houlié, Arthur Delaporte, Ariane Chemin et Paul Gogo, en réponse à l’expulsion de la chroniqueuse pro-Kremlin.",
-"source": "Libération",
-"date": "2026-11-11T15:40:51+00:00",
-"added": "2026-11-14T15:26:37+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement",
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "df67b6636735d137",
-"title": "Cérémonie de commémoration du 108e anniversaire de l’Armistice du 11 novembre 1918.",
-"link": "https://www.elysee.fr/emmanuel-macron/2026/11/11/ceremonie-de-commemoration-du-108e-anniversaire-de-larmistice-du-11-novembre-1918",
-"summary": "Le Chef de l’État a présidé ce mercredi la cérémonie de commémoration du 108e anniversaire de l’Armistice du 11 novembre 1918, à l’Arc de Triomphe.",
-"source": "Élysée",
-"date": "2026-11-11T15:30:00+00:00",
-"added": "2026-11-12T15:45:42+00:00",
-"official": true,
-"also": [],
-"base": [
-"elysee"
-],
-"filtered": false,
-"topics": [
-"elysee"
-],
-"natures": [],
-"speaker": ""
 }
 ]
