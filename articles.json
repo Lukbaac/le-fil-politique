@@ -1,5 +1,93 @@
 [
 {
+"id": "81f522cce36f5111",
+"title": "« Je cherche la pâte humaine » : Catherine Nay, l’indétrônable romancière du pouvoir",
+"link": "https://www.lefigaro.fr/politique/je-cherche-la-pate-humaine-catherine-nay-l-indetronable-romanciere-du-pouvoir-20261114",
+"summary": "PORTRAIT - La grande voix d’Europe 1 poursuit son exploration des passions du pouvoir avec un livre consacré à Emmanuel Macron, Ce pays dont le prince est un enfant (Plon).",
+"source": "Le Figaro",
+"date": "2026-11-14T15:00:00+00:00",
+"added": "2026-11-14T15:26:37+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "ecfb9d5c5dbbb607",
+"title": "Présidentielle 2027 : « Je ne suis pas un macroniste », rejette Teddy Riner, qui qualifie les félicitations d’Emmanuel Macron de « baiser empoisonné »",
+"link": "https://www.lemonde.fr/politique/article/2026/11/14/presidentielle-2027-je-ne-suis-pas-un-macroniste-rejette-teddy-riner-qui-qualifie-les-felicitations-d-emmanuel-macron-de-baiser-empoisonne_6810346_823448.html",
+"summary": "« Moi, je ne suis pas l’envoyé du président », a affirmé le nouveau candidat à la présidentielle depuis le salon du Made in France.",
+"source": "Le Monde",
+"date": "2026-11-14T14:47:45+00:00",
+"added": "2026-11-14T15:26:37+00:00",
+"official": false,
+"also": [
+"BFMTV",
+"Le Parisien",
+"RTL",
+"Midi Libre"
+],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Teddy Riner"
+},
+{
+"id": "1568e489e483d4c6",
+"title": "« Un baiser empoisonné » : Teddy Riner dénonce le soutien affiché d'Emmanuel Macron",
+"link": "https://www.estrepublicain.fr/elections/2026/11/14/un-baiser-empoisonne-teddy-riner-denonce-le-soutien-affiche-d-emmanuel-macron",
+"summary": "Le champion olympique et candidat à la présidentielle certifie qu'il n'est « pas macroniste » et qualifie les félicitations d'Emmanuel Macron à sa candidature de « baiser empoisonné ».",
+"source": "L'Est Républicain",
+"date": "2026-11-14T14:26:31+00:00",
+"added": "2026-11-14T15:26:37+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"elysee",
+"presidentielle"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "Teddy Riner"
+},
+{
+"id": "85f7e1d8bec5d045",
+"title": "Présidentielle 2027 : après Mortal Kombat, Mortal Kampagne, le jeu vidéo \"de baston\" où les personnalités politiques s’affrontent",
+"link": "https://www.midilibre.fr/2026/11/14/presidentielle-2027-apres-mortal-kombat-mortal-kampagne-le-jeu-video-de-baston-ou-les-personnalites-politiques-saffrontent-13652597.php",
+"summary": "Vincent Flibustier a lancé \"Mortal Kampagne\", un jeu vidéo en ligne où 32 candidats et huit anciens présidents s’affrontent.",
+"source": "Midi Libre",
+"date": "2026-11-14T14:21:00+00:00",
+"added": "2026-11-14T15:26:37+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "60594d834a448277",
 "title": "Dominique Schnapper, politiste : « Les partis de la droite républicaine et de la social-démocratie ne sont plus des lieux de débat politique »",
 "link": "https://www.lemonde.fr/idees/article/2026/11/14/dominique-schnapper-politiste-les-partis-de-la-droite-republicaine-et-de-la-social-democratie-ne-sont-plus-des-lieux-de-debat-politique_6810281_3232.html",
@@ -16,6 +104,29 @@
 "presidentielle"
 ],
 "natures": [],
+"speaker": ""
+},
+{
+"id": "fc8ce710585f816d",
+"title": "Vice-président d'université agressé dans les Yvelines : le ministre de l'Enseignement supérieur invité de LCI",
+"link": "https://www.tf1info.fr/player/2883e7af-be58-4b35-b8f2-ce934636f038/",
+"summary": "",
+"source": "TF1 Info",
+"date": "2026-11-14T13:17:47+00:00",
+"added": "2026-11-14T15:26:37+00:00",
+"official": false,
+"also": [],
+"base": [
+"matinales"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"gouvernement"
+],
+"natures": [
+"Interview"
+],
 "speaker": ""
 },
 {
@@ -472,7 +583,9 @@
 "date": "2026-11-14T08:19:06+00:00",
 "added": "2026-11-14T09:32:21+00:00",
 "official": false,
-"also": [],
+"also": [
+"Franceinfo"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -520,7 +633,8 @@
 "also": [
 "Le Figaro",
 "Le Dauphiné Libéré",
-"franceinfo"
+"franceinfo",
+"Franceinfo"
 ],
 "base": [],
 "filtered": true,
@@ -1059,6 +1173,27 @@
 "natures": [
 "Annonce"
 ],
+"speaker": ""
+},
+{
+"id": "d63c66d7aa1dc6b8",
+"title": "Proposition de nomination de Thibaut Guilluy en qualité de directeur général de France Travail.",
+"link": "https://www.elysee.fr/emmanuel-macron/2026/11/13/proposition-de-nomination-de-thibaut-guilluy-en-qualite-de-directeur-general-de-france-travail",
+"summary": "Le Président de la République envisage, sur proposition du Premier ministre, de renouveler Thibaut Guilluy en qualité de directeur général de France Travail.",
+"source": "Élysée",
+"date": "2026-11-13T21:25:00+00:00",
+"added": "2026-11-14T15:26:37+00:00",
+"official": true,
+"also": [],
+"base": [
+"elysee"
+],
+"filtered": false,
+"topics": [
+"elysee",
+"gouvernement"
+],
+"natures": [],
 "speaker": ""
 },
 {
@@ -2044,7 +2179,8 @@
 "also": [
 "LCP",
 "La Croix",
-"RTL"
+"RTL",
+"Sud Ouest"
 ],
 "base": [],
 "filtered": true,
@@ -2343,7 +2479,8 @@
 "added": "2026-11-13T17:38:37+00:00",
 "official": false,
 "also": [
-"Les Echos"
+"Les Echos",
+"Europe 1"
 ],
 "base": [
 "partis"
@@ -2751,7 +2888,8 @@
 "franceinfo",
 "BFMTV",
 "France 24",
-"La Nouvelle République"
+"La Nouvelle République",
+"La Montagne"
 ],
 "base": [],
 "filtered": true,
@@ -5439,6 +5577,26 @@
 "filtered": true,
 "topics": [
 "presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "12f656851e61b2cb",
+"title": "Déclaration sur les principes clés de la sécurité européenne.",
+"link": "https://www.elysee.fr/emmanuel-macron/2026/11/12/declaration-sur-les-principes-cles-de-la-securite-europeenne",
+"summary": "Attachés à la paix et au respect du droit international, et face à l’agression à grande échelle de la Russie contre l’Ukraine, qui ne fait suite à aucune provocation, ainsi qu’aux menaces croissantes pesant sur la stabilité européenne, les États signataires, réunis à l’occasion du 9e sommet de la Communauté politique…",
+"source": "Élysée",
+"date": "2026-11-12T21:00:00+00:00",
+"added": "2026-11-14T15:26:37+00:00",
+"official": true,
+"also": [],
+"base": [
+"elysee"
+],
+"filtered": false,
+"topics": [
+"elysee"
 ],
 "natures": [],
 "speaker": ""
@@ -11783,6 +11941,25 @@
 "speaker": "Jean-Luc Mélenchon"
 },
 {
+"id": "95e92a2f6e910473",
+"title": "En réaction à l’expulsion de Fedorova, la Russie interdit de territoire deux députés et deux journalistes français",
+"link": "https://www.liberation.fr/international/europe/en-reaction-a-lexpulsion-de-fedorova-la-russie-interdit-de-territoire-deux-deputes-et-deux-journalistes-francais-20261111_HN2JUTQSGZAALCIS22HOVBGC4U/",
+"summary": "La porte-parole du ministère des Affaires étrangères russe a annoncé ce mercredi 11 novembre cette mesure visant Sacha Houlié, Arthur Delaporte, Ariane Chemin et Paul Gogo, en réponse à l’expulsion de la chroniqueuse pro-Kremlin.",
+"source": "Libération",
+"date": "2026-11-11T15:40:51+00:00",
+"added": "2026-11-14T15:26:37+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement",
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "df67b6636735d137",
 "title": "Cérémonie de commémoration du 108e anniversaire de l’Armistice du 11 novembre 1918.",
 "link": "https://www.elysee.fr/emmanuel-macron/2026/11/11/ceremonie-de-commemoration-du-108e-anniversaire-de-larmistice-du-11-novembre-1918",
@@ -11798,302 +11975,6 @@
 "filtered": false,
 "topics": [
 "elysee"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "e76e7a31ef00ab46",
-"title": "Sophie de Menthon : « Lettre ouverte aux enfants gâtés qui votent Mélenchon et à leurs parents »",
-"link": "https://www.lefigaro.fr/vox/politique/sophie-de-menthon-lettre-ouverte-aux-enfants-gates-qui-votent-melenchon-et-a-leurs-parents-20261111",
-"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
-"source": "Le Figaro",
-"date": "2026-11-11T14:58:02+00:00",
-"added": "2026-11-11T15:36:58+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Citation",
-"Tribune"
-],
-"speaker": "Sophie de Menthon"
-},
-{
-"id": "4b2ddc60319cea7f",
-"title": "La Russie interdit l'entrée sur son territoire à Sacha Houlié : le député affirme ne pas être \"surpris\"",
-"link": "https://www.tf1info.fr/international/video-la-russie-interdit-l-entree-sur-son-territoire-a-sacha-houlie-sur-lci-le-depute-affirme-ne-pas-etre-surpris-par-cette-sanction-2475274.html",
-"summary": "Deux députés français et deux journalistes dans le viseur de la Russie. Ils ne sont plus autorisés à pénétrer sur le territoire russe \"en raison de leur participation au harcèlement de [Xenia] Fedorova et de leurs appels à son expulsion\", indique Moscou, mercredi 11 novembre.",
-"source": "TF1 Info",
-"date": "2026-11-11T14:57:59+00:00",
-"added": "2026-11-13T09:45:44+00:00",
-"official": false,
-"also": [],
-"base": [
-"matinales"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "db1a290e824b2d69",
-"title": "Commémorations du 11-Novembre : Ultime remontée des Champs-Élysées pour Emmanuel Macron en président",
-"link": "https://www.20minutes.fr/politique/4262188-20261111-commemorations-11-novembre-ultime-remontee-champs-elysees-emmanuel-macron-president?at_medium=display&at_campaign=149",
-"summary": "C’était ses dernières commémorations de l’Armistice. Emmanuel Macron a présidé mercredi son ultime cérémonie à Paris en tant que chef de l’État, tandis que les candidats à sa succession ont affiché leurs positions.",
-"source": "20 Minutes",
-"date": "2026-11-11T14:54:12+00:00",
-"added": "2026-11-11T15:36:58+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "fd2a3d1b649f0ef1",
-"title": "« À qui voulez-vous faire la guerre ? » : l’Allemagne veut avoir l’armée la plus puissante d’Europe, Mélenchon « n’accepte pas l’idée »",
-"link": "https://www.leparisien.fr/elections/presidentielle/a-qui-voulez-vous-faire-la-guerre-lallemagne-veut-avoir-larmee-la-plus-puissante-deurope-melenchon-naccepte-pas-lidee-11-11-2026-SZQTXKJ43NFLVB5C4FWUD3VXCM.php",
-"summary": "",
-"source": "Le Parisien",
-"date": "2026-11-11T14:33:44+00:00",
-"added": "2026-11-11T15:36:58+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": ""
-},
-{
-"id": "ed89cdbc07c0a359",
-"title": "Serge Papin avait affirmé que le gouvernement débloquerait de nouveaux stocks de carburant \"s'il le faut\": le cabinet du ministre du Commerce rectifie ses propos et assure que cette mesure \"n'est pas à l'ordre du jour\"",
-"link": "https://www.bfmtv.com/economie/entreprises/energie/serge-papin-avait-affirme-que-le-gouvernement-debloquerait-de-nouveaux-stocks-de-carburant-s-il-le-faut-le-cabinet-du-ministre-du-commerce-rectifie-ses-propos-et-assure-que-cette-mesure-n-est-pas-a-l-ordre-du-jour_AD-202611110536.html",
-"summary": "Le cabinet du ministre du Commerce et des PME, Serge Papin, a nuancé mercredi des propos tenus mardi par le ministre, à savoir que le gouvernement français \"continuera s'il le faut\" à débloquer une partie de ses réserves stratégiques de carburant, une mesure qui, selon son cabinet, n'est \"pas à l'ordre du jour\".",
-"source": "BFMTV",
-"date": "2026-11-11T14:27:50+00:00",
-"added": "2026-11-11T15:36:58+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [
-"Citation"
-],
-"speaker": ""
-},
-{
-"id": "719f555c76864fbf",
-"title": "\"On ne vous demande pas de vous marier avec!\": le message de Manon Aubry aux électeurs de gauche rebutés par Jean-Luc Mélenchon",
-"link": "https://rmc.bfmtv.com/actualites/politique/on-ne-vous-demande-pas-de-vous-marier-avec-le-message-de-manon-aubry-aux-electeurs-de-gauche-rebutes-par-jean-luc-melenchon_AV-202611110533.html",
-"summary": "La dynamique de Jean-Luc Mélenchon dans les sondages se poursuit, le candidat insoumis apparaît de plus en plus capable de se qualifier au second tour de la présidentielle, face à Marine Le Pen.",
-"source": "RMC",
-"date": "2026-11-11T14:20:13+00:00",
-"added": "2026-11-11T15:36:58+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "6595d8f0091b28c7",
-"title": "Présidentielle 2027 : chez Teddy Riner, c’est la parole très à droite qui fait peur",
-"link": "https://www.liberation.fr/idees-et-debats/tribunes/presidentielle-2027-chez-teddy-riner-cest-la-parole-tres-a-droite-qui-fait-peur-20261111_OE3UN5N2KVBDHJQPVYBEPOLPDA/",
-"summary": "",
-"source": "Libération",
-"date": "2026-11-11T14:15:00+00:00",
-"added": "2026-11-11T15:36:58+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "ce535ac8b5552256",
-"title": "REPORTAGE. 11-Novembre : \"On ne construit pas la paix ni le sentiment d'appartenance nationale sur l'oubli\", prononce Marine Le Pen à Hénin-Beaumont après les refus d'hommages dans certaines écoles",
-"link": "https://www.franceinfo.fr/societe/guerre-de-14-18/11-novembre/11-novembre-on-ne-construit-pas-la-paix-ni-le-sentiment-d-appartenance-nationale-sur-l-oubli-prononce-marine-le-pen-a-henin-beaumont-apres-les-refus-d-hommages-dans-certaines-ecoles_8277827.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "Prenant la parole, mercredi, pour les commémorations du 11-Novembre dans son fief de Hénin-Beaumont, dans le Pas-de-Calais, Marine Le Pen répond à ceux qui, dans les établissements scolaires, ont refusé d'organiser un temps pour les \"Morts pour la France\".",
-"source": "franceinfo",
-"date": "2026-11-11T14:13:08+00:00",
-"added": "2026-11-11T17:44:47+00:00",
-"official": false,
-"also": [
-"CNews"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "884b46613c4709c7",
-"title": "Présidentielle 2027: \"L’occasion de parler d’autres sujets que la politique monétaire\", répond Christine Lagarde",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-2027-l-occasion-de-parler-d-autres-sujets-que-la-politique-monetaire-repond-christine-lagarde_VN-202611110529.html",
-"summary": "La présidente de la Banque centrale européenne (BCE), Christine Lagarde, prend la parole ce mercredi 11 novembre au Forum de Paris sur la paix alors que l'hypothèse d'une candidature à l'élection présidentielle questionne à droite et au sein du bloc central.",
-"source": "BFMTV",
-"date": "2026-11-11T14:09:22+00:00",
-"added": "2026-11-11T17:44:47+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "Christine Lagarde"
-},
-{
-"id": "ced737adfc78391b",
-"title": "Présidentielle 2027 : la députée de Martinique Béatrice Bellay « rétropédale » sur son parrainage évoqué à Teddy Riner",
-"link": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-la-deputee-de-martinique-beatrice-bellay-retropedale-sur-son-parrainage-evoque-a-teddy-riner-11-11-2026-CWQGLKKAJNGSRKLCBJ2PC2KPVA.php",
-"summary": "",
-"source": "Le Parisien",
-"date": "2026-11-11T14:04:53+00:00",
-"added": "2026-11-11T15:36:58+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"parlement",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "6c719aa0795f630c",
-"title": "Présidentielle 2027 : \"On m’a cherché noise sur le sujet\"… Jean-Luc Mélenchon revient sur prise de position sur l’Ukraine",
-"link": "https://www.midilibre.fr/2026/11/11/presidentielle-2027-on-ma-cherche-noise-sur-le-sujet-jean-luc-melenchon-revient-sur-prise-de-position-sur-lukraine-13647261.php",
-"summary": "Jean-Luc Mélenchon, critiqué pour ses propos sur un référendum dans le Donbass, a réaffirmé mercredi que toute modification de frontière doit être validée par les populations concernées.",
-"source": "Midi Libre",
-"date": "2026-11-11T13:57:00+00:00",
-"added": "2026-11-11T14:02:09+00:00",
-"official": false,
-"also": [
-"20 Minutes"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "5c00d1d9930a1f5a",
-"title": "« Il faut demander aux populations » : accusé de complaisance envers la Russie, Jean-Luc Mélenchon défend sa position sur l’Ukraine",
-"link": "https://www.leparisien.fr/elections/presidentielle/il-faut-demander-aux-populations-accuse-de-complaisance-envers-la-russie-jean-luc-melenchon-defend-sa-position-sur-lukraine-11-11-2026-MEUUSG37I5H5RLAKP5MYC364II.php",
-"summary": "",
-"source": "Le Parisien",
-"date": "2026-11-11T13:55:44+00:00",
-"added": "2026-11-11T15:36:58+00:00",
-"official": false,
-"also": [
-"20 Minutes",
-"RFI"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "Jean-Luc Mélenchon"
-},
-{
-"id": "9844349b5af92db9",
-"title": "Primaire de la droite et du centre: \"Il n'y a pas un sauveur\", soutient Geoffroy Boulard, maire LR du 17ème arrondissement de Paris et proche de David Lisnard",
-"link": "https://www.bfmtv.com/politique/video-primaire-de-la-droite-et-du-centre-il-n-y-a-pas-un-sauveur-soutient-geoffroy-boulard-maire-lr-du-17eme-arrondissement-de-paris-et-proche-de-david-lisnard_VN-202611110518.html",
-"summary": "Gabriel Attal, Édouard Philippe et David Lisnard ont été conviés par Bruno Retailleau a participé à une primaire de la droite et du centre en début d'année prochaine afin \"d'agir vite\" contre le \"choc brutal entre le Rassemblement national et la France insoumise\".",
-"source": "BFMTV",
-"date": "2026-11-11T13:51:56+00:00",
-"added": "2026-11-11T14:02:09+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "2824e64d46efe51a",
-"title": "Présidentielle 2027 : les Français pressés de s’exprimer, selon un sondage sur les primaires",
-"link": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-les-francais-presses-de-sexprimer-selon-un-sondage-sur-les-primaires-11-11-2026-N7UEZ6LQFBF7XD2VCP3MML35FM.php",
-"summary": "",
-"source": "Le Parisien",
-"date": "2026-11-11T13:41:57+00:00",
-"added": "2026-11-11T14:02:09+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
 ],
 "natures": [],
 "speaker": ""
