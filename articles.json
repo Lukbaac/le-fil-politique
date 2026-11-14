@@ -1,5 +1,234 @@
 [
 {
+"id": "fd782b6553699ddb",
+"title": "Dans son long texte sur la guerre en Ukraine, Emmanuel Macron s’adresse surtout à Marine Le Pen",
+"link": "https://www.huffingtonpost.fr/france/article/dans-son-long-texte-sur-la-guerre-en-ukraine-emmanuel-macron-s-adresse-surtout-a-marine-le-pen_358184.html",
+"summary": "Une mise en garde. Dans un long texte publié sur X ce samedi 14 novembre, Emmanuel Macron a alerté contre « ceux qui veulent rationner les moyens de l’Ukraine » et « l’obliger à une paix injuste », au risque d’une « vulnérabilisation durable » de toute l’Europe.",
+"source": "Le HuffPost",
+"date": "2026-11-14T21:03:07+00:00",
+"added": "2026-11-14T21:25:05+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"elysee",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "003c740f08a6e8fd",
+"title": "Michel Destot, ancien maire PS de Grenoble et député de l’Isère, est mort",
+"link": "https://www.lemonde.fr/disparitions/article/2026/11/14/michel-destot-ancien-maire-ps-de-grenoble-et-depute-de-l-isere-est-mort_6810610_3382.html",
+"summary": "Elu maire en 1995, il a accompli trois mandats, tout en étant député de la troisième circonscription du département de 1988 à 2017 et conseiller général de l’Isère de 1985 à 1995.",
+"source": "Le Monde",
+"date": "2026-11-14T20:53:06+00:00",
+"added": "2026-11-14T21:25:05+00:00",
+"official": false,
+"also": [
+"BFMTV"
+],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "7a070ce79ae1b669",
+"title": "Les \"patrons ont la parole du gouvernement\": en cas de relance salariale, Jean-Pierre Farandou promet de limiter la progression du coût du travail",
+"link": "https://www.bfmtv.com/politique/gouvernement/les-patrons-ont-la-parole-du-gouvernement-en-cas-de-relance-salariale-jean-pierre-farandou-promet-de-limiter-la-progression-du-cout-du-travail_AD-202611140378.html",
+"summary": "À l’issue d'un \"comité de suivi des salaires\", le ministre du Travail, Jean-Pierre Farandou promet aux patrons que la progression du coût du travail sera limitée, si la relance salariale est effective.",
+"source": "BFMTV",
+"date": "2026-11-14T20:51:14+00:00",
+"added": "2026-11-14T21:25:05+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [
+"Citation",
+"Annonce"
+],
+"speaker": "Jean-Pierre Farandou"
+},
+{
+"id": "306ad6b2916f2ba2",
+"title": "Élection présidentielle 2027 : un sondage donne Marine Le Pen largement en tête, Jean-Luc Mélenchon deuxième et Teddy Riner à 4,5 %",
+"link": "https://www.sudouest.fr/elections/presidentielle/election-presidentielle-2027-un-sondage-donne-marine-le-pen-largement-en-tete-jean-luc-melenchon-deuxieme-et-teddy-riner-a-4-5-31529430.php",
+"summary": "",
+"source": "Sud Ouest",
+"date": "2026-11-14T20:46:43+00:00",
+"added": "2026-11-14T21:25:05+00:00",
+"official": false,
+"also": [
+"RTL"
+],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "834c1f8c3504d110",
+"title": "Teddy Riner crédité de 4,5% des intentions de vote dans un sondage: \"Ce qui est très inquiétant au-delà des personnes, c'est surtout que les deux extrêmes sont en train d'arriver au second tour\", déclare Florence Portelli, vice-présidente des LR",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-teddy-riner-credite-de-4-5-des-intentions-de-vote-dans-un-sondage-ce-qui-est-tres-inquietant-au-dela-des-personnes-c-est-surtout-que-les-deux-extremes-sont-en-train-d-arriver-au-second-tour-declare-florence-portelli-vice-presidente-des-lr_VN-202611140375.html",
+"summary": "Le candidat surprise à la présidentielle était en déplacement au salon Made in France, Porte de Versailles à Paris, ce samedi 14 novembre.",
+"source": "BFMTV",
+"date": "2026-11-14T20:36:15+00:00",
+"added": "2026-11-14T21:25:05+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Florence Portelli"
+},
+{
+"id": "1d1019cf63300c7b",
+"title": "Éducation: \"On veut remettre le baccalauréat tel qu'il était avant la réforme Blanquer\", déclare Thomas Ménagé, porte-parole du groupe RN à l'Assemblée nationale",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-education-on-veut-remettre-le-baccalaureat-tel-qu-il-etait-avant-la-reforme-blanquer-declare-thomas-menage-porte-parole-du-groupe-rn-a-l-assemblee-nationale_VN-202611140374.html",
+"summary": "Selon un sondage Elabe réalisé pour La Tribune dimanche et BFMTV et publié ce samedi 14 novembre, Édouard Philippe est considéré comme le candidat le plus solide pour représenter la droite et le centre à la prochaine élection présidentielle.",
+"source": "BFMTV",
+"date": "2026-11-14T20:34:19+00:00",
+"added": "2026-11-14T21:25:05+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Thomas Ménagé"
+},
+{
+"id": "98ee3922fa7f3b13",
+"title": "Manifestations du 14 novembre : retour en images sur la journée de mobilisation en France",
+"link": "https://www.lemonde.fr/politique/video/2026/11/14/manifestations-du-14-novembre-retour-en-images-sur-la-journee-de-mobilisation-en-france_6810577_823448.html",
+"summary": "Des manifestations aux revendications multiples se sont déroulées partout en France. Les cortèges ont défilé globalement dans le calme, malgré des « incidents » relevés par le ministère de l’intérieur dans plusieurs villes.",
+"source": "Le Monde",
+"date": "2026-11-14T20:26:38+00:00",
+"added": "2026-11-14T21:25:05+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "23187888087307c9",
+"title": "LIGNE ROUGE - Teddy Riner, le champion qui bouscule la campagne",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-ligne-rouge-teddy-riner-le-champion-qui-bouscule-la-campagne_VN-202611140361.html",
+"summary": "Selon un sondage Elabe réalisé pour La Tribune dimanche et BFMTV et publié ce samedi 14 novembre, Édouard Philippe est considéré comme le candidat le plus solide pour représenter la droite et le centre à la prochaine élection présidentielle.",
+"source": "BFMTV",
+"date": "2026-11-14T20:16:12+00:00",
+"added": "2026-11-14T21:25:05+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "642c3f8b942e391d",
+"title": "Teddy Riner crédité de 4,5% des intentions de vote dans un sondage: \"La question, c'est qu'au sein de la gauche, si elle se rassemblait, elle peut gagner\", analyse Alexis Corbière, député L'Après",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-teddy-riner-credite-de-4-5-des-intentions-de-vote-dans-un-sondage-la-question-c-est-qu-au-sein-de-la-gauche-si-elle-se-rassemblait-elle-peut-gagner-analyse-alexis-corbiere-depute-l-apres_VN-202611140353.html",
+"summary": "Le candidat surprise à la présidentielle était en déplacement au salon Made in France, Porte de Versailles à Paris, ce samedi 14 novembre.",
+"source": "BFMTV",
+"date": "2026-11-14T19:54:18+00:00",
+"added": "2026-11-14T21:25:05+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Alexis Corbière"
+},
+{
+"id": "f71aba1e1ead7146",
+"title": "Emmanuel Macron alerte sur les risques d’une « paix injuste » en Ukraine",
+"link": "https://www.20minutes.fr/monde/ukraine/4262895-20261114-ukraine-emmanuel-macron-alerte-dangers-paix-injuste-apres-declarations-marine-pen",
+"summary": "C’est sur X qu’Emmanuel Macron a pris la parole, ce samedi 14 novembre, en début de soirée.",
+"source": "20 Minutes",
+"date": "2026-11-14T19:49:00+00:00",
+"added": "2026-11-14T21:25:05+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"elysee",
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Emmanuel Macron"
+},
+{
+"id": "1c4a3618b504a11f",
+"title": "Présidentielle 2026 : ce que révèle le sondage Elabe sur la droite et le centre",
+"link": "https://www.laprovence.com/article/politique/8042133668633614/presidentielle-2026-ce-que-revele-le-sondage-elabe-sur-la-droite-et-le-centre",
+"summary": "Le maire du Havre est désormais au coude-à-coude avec Raphaël Glucksmann, en forte baisse, pour la troisième place des intentions de vote.",
+"source": "La Provence",
+"date": "2026-11-14T19:43:16+00:00",
+"added": "2026-11-14T21:25:05+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "a6f6f2e2561012bd",
 "title": "Emmanuel Macron attaque Marine Le Pen sur son projet de tarir les aides à l'Ukraine, sans épargner Mélenchon",
 "link": "https://www.laprovence.com/article/elections/8017145596007314/emmanuel-macron-attaque-marine-le-pen-sur-son-projet-de-tarir-les-aides-a-lukraine-sans-epargner-melenchon",
@@ -50,7 +279,9 @@
 "date": "2026-11-14T19:10:08+00:00",
 "added": "2026-11-14T19:31:12+00:00",
 "official": false,
-"also": [],
+"also": [
+"Le Dauphiné Libéré"
+],
 "base": [
 "presidentielle"
 ],
@@ -72,7 +303,9 @@
 "date": "2026-11-14T19:08:49+00:00",
 "added": "2026-11-14T19:31:12+00:00",
 "official": false,
-"also": [],
+"also": [
+"La Voix du Nord"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -101,6 +334,26 @@
 ],
 "natures": [],
 "speaker": ""
+},
+{
+"id": "dd81ea812efec9c9",
+"title": "Guerre en Ukraine: Emmanuel Macron estime que \"ceux qui veulent rationner\" l'aide à Kiev veulent \"obliger\" les Ukrainiens \"à une paix injuste\"",
+"link": "https://www.bfmtv.com/politique/elysee/guerre-en-ukraine-emmanuel-macron-estime-que-ceux-qui-veulent-rationner-l-aide-a-kiev-veulent-obliger-les-ukrainiens-a-une-paix-injuste_AD-202611140339.html",
+"summary": "Dans un message publié sur son compte X ce samedi 14 novembre, le président de la République estime que \"rationner les moyens de l'Ukraine\" est \"la recette pour la guerre d'après\".",
+"source": "BFMTV",
+"date": "2026-11-14T19:00:25+00:00",
+"added": "2026-11-14T21:25:05+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Emmanuel Macron"
 },
 {
 "id": "bd7f37bba78c24e0",
@@ -133,7 +386,9 @@
 "date": "2026-11-14T19:00:00+00:00",
 "added": "2026-11-14T19:31:12+00:00",
 "official": false,
-"also": [],
+"also": [
+"Le Figaro"
+],
 "base": [
 "partis"
 ],
@@ -230,6 +485,67 @@
 "speaker": "Paul Amar"
 },
 {
+"id": "4105efb60ed5dd21",
+"title": "\"Il a été profondément choqué\" : sur RTL, le ministre de l'Enseignement supérieur condamne l'agression \"inqualifiable\" du vice-président de la fac de Versailles",
+"link": "https://www.rtl.fr/actu/debats-societe/il-a-ete-profondement-choque-sur-rtl-le-ministre-de-l-enseignement-superieur-condamne-l-agression-inqualifiable-du-vice-president-de-la-fac-de-versailles-7900696236",
+"summary": "Philippe Baptiste, ministre de l'Enseignement supérieur, invité de RTL le 14 novembre 2026. \"Il a été profondément choqué\" : sur RTL, le ministre de l'Enseignement supérieur condamne l'agression \"inqualifiable\" du vice-président de la fac de Versailles\nC'est \"une agression inqualifiable\".",
+"source": "RTL",
+"date": "2026-11-14T17:48:17+00:00",
+"added": "2026-11-14T21:25:05+00:00",
+"official": false,
+"also": [],
+"base": [
+"matinales"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"gouvernement"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": ""
+},
+{
+"id": "28a3791a95c04f08",
+"title": "Raphaël Glucksmann",
+"link": "https://www.bfmtv.com/politique/raphael-glucksmann_DN-202405270322.html",
+"summary": "Raphaël Glucksmann est le cofondateur de Place publique, un mouvement politique proche du Parti socialiste. Il a ainsi mené la tête de liste aux européennes de son parti et du PS en 2019 et 2024.",
+"source": "BFMTV",
+"date": "2026-11-14T17:45:07+00:00",
+"added": "2026-11-14T21:25:05+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "739750071e8d3ad7",
+"title": "Marine Le Pen",
+"link": "https://www.bfmtv.com/politique/marine-le-pen_DN-201201010011.html",
+"summary": "Marine le Pen est la candidate du Rassemblement national pour l'élection présidentielle de 2027. Il s'agit de sa quatrième tentative depuis 2012, après avoir accédé par deux fois au second tour en 2017 et 2022.",
+"source": "BFMTV",
+"date": "2026-11-14T17:45:07+00:00",
+"added": "2026-11-14T21:25:05+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "6ebe93e4e3dc3023",
 "title": "Présidentielle: Larcher veut réunir les candidats de la droite et du centre, la pression monte sur Philippe",
 "link": "https://www.france24.com/fr/info-en-continu/20261114-pr%C3%A9sidentielle-larcher-veut-r%C3%A9unir-les-candidats-de-la-droite-et-du-centre-la-pression-monte-sur-philippe",
@@ -238,7 +554,10 @@
 "date": "2026-11-14T17:33:31+00:00",
 "added": "2026-11-14T19:31:12+00:00",
 "official": false,
-"also": [],
+"also": [
+"Les Echos",
+"Le Dauphiné Libéré"
+],
 "base": [
 "parlement"
 ],
@@ -300,7 +619,9 @@
 "date": "2026-11-14T17:23:00+00:00",
 "added": "2026-11-14T19:31:12+00:00",
 "official": false,
-"also": [],
+"also": [
+"RTL"
+],
 "base": [
 "parlement"
 ],
@@ -3291,6 +3612,27 @@
 "speaker": ""
 },
 {
+"id": "467aa7edbcb98afc",
+"title": "Présidentielle 2027 : Bruno Retailleau, en déplacement en Loire-Atlantique, très à l’aise devant 250 personnes à Sautron",
+"link": "https://www.ouest-france.fr/politique/bruno-retailleau/presidentielle-2027-bruno-retailleau-en-deplacement-en-loire-atlantique-tres-a-laise-devant-250-personnes-a-sautron-0c66d558-d861-11f1-a1e1-ae8104d72c9a",
+"summary": "",
+"source": "Ouest-France",
+"date": "2026-11-13T13:39:34+00:00",
+"added": "2026-11-14T21:25:05+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "62f80efae135a026",
 "title": "Gérald Darmanin proche de la sortie, le « nouvel impôt de production » de Marine Le Pen... les indiscrétions politiques de Challenges",
 "link": "https://www.challenges.fr/politique/gerald-darmanin-proche-de-la-sortie-le-nouvel-impot-de-production-de-marine-le-pen-les-indiscretions-politiques-de-challenges_646971",
@@ -3325,7 +3667,9 @@
 "Le Parisien",
 "Europe 1",
 "RTL",
-"franceinfo"
+"franceinfo",
+"20 Minutes",
+"Le Point"
 ],
 "base": [
 "partis"
@@ -3359,6 +3703,26 @@
 "Citation"
 ],
 "speaker": "Teddy Riner"
+},
+{
+"id": "d3f0c3faebb836d5",
+"title": "Guerre en Iran : le Gouvernement annonce des mesures de soutien à l’activité économique",
+"link": "https://www.info.gouv.fr/actualite/guerre-en-iran-le-gouvernement-annonce-des-mesures-de-soutien-a-l-activite-economique",
+"summary": "",
+"source": "info.gouv.fr",
+"date": "2026-11-13T13:31:46+00:00",
+"added": "2026-11-14T21:25:05+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [
+"Annonce"
+],
+"speaker": ""
 },
 {
 "id": "b2ff0809917e221d",
@@ -9851,6 +10215,29 @@
 "speaker": ""
 },
 {
+"id": "1bb479cfd8d778f8",
+"title": "SONDAGE. Présidentielle 2027 : Christine Lagarde créditée de 14 % des intentions de vote au premier tour si elle se présente",
+"link": "https://www.sudouest.fr/elections/presidentielle/sondage-presidentielle-2027-christine-lagarde-creditee-de-14-des-intentions-de-vote-au-premier-tour-si-elle-se-presente-31492220.php",
+"summary": "",
+"source": "Sud Ouest",
+"date": "2026-11-12T09:51:01+00:00",
+"added": "2026-11-14T21:25:05+00:00",
+"official": false,
+"also": [
+"Ouest-France",
+"BFMTV"
+],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "1c6cf8c45f110126",
 "title": "\"Tous les visiteurs doivent maintenir une atmosphère de silence\" : le ministre de la Défense américain rappelé à l'ordre par un garde lors des commémoration du 11-Novembre",
 "link": "https://www.franceinfo.fr/monde/usa/tous-les-visiteurs-doivent-maintenir-une-atmosphere-de-silence-le-ministre-de-la-defense-americain-reprimande-par-un-garde-lors-de-la-ceremonie-de-commemoration-du-11-novembre_8279003.html",
@@ -10580,6 +10967,27 @@
 "speaker": ""
 },
 {
+"id": "0a3c585cbe644ded",
+"title": "Guillaume Tabard : « Zemmour à la recherche d’une nouvelle utilité politique »",
+"link": "https://www.lefigaro.fr/politique/guillaume-tabard-zemmour-a-la-recherche-d-une-nouvelle-utilite-politique-20261111",
+"summary": "CONTRE-POINT - Pour sa deuxième candidature à l’élection présidentielle, le patron de Reconquête ne peut plus jouer du même effet de surprise, de nouveauté ou de transgression.",
+"source": "Le Figaro",
+"date": "2026-11-12T06:25:42+00:00",
+"added": "2026-11-14T21:25:05+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Guillaume Tabard"
+},
+{
 "id": "2f289b7feda67956",
 "title": "À l'Élysée, deux gardes d’honneur s’effondrent à côté d’Emmanuel Macron",
 "link": "https://www.tf1info.fr/justice-faits-divers/video-paris-a-l-elysee-deux-gardes-d-honneur-s-effondrent-a-cote-d-emmanuel-macron-2475351.html",
@@ -11159,378 +11567,5 @@
 "Citation"
 ],
 "speaker": "Richard Ramos"
-},
-{
-"id": "bb85d2753e9bc9a9",
-"title": "\"La primaire, c’est deux à trois mois de division\", déplore Maël de Calan, soutien d’Edouard Philippe",
-"link": "https://www.franceinfo.fr/elections/presidentielle/candidats/la-primaire-c-est-deux-a-trois-mois-de-division-deplore-mael-de-calan-soutien-d-edouard-philippe_8278346.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "Une primaire serait un \"suicide collectif\", estime, mercredi sur franceinfo, celui qui est aussi président du conseil départemental du Finistère.",
-"source": "franceinfo",
-"date": "2026-11-11T21:19:49+00:00",
-"added": "2026-11-11T21:59:59+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Maël de Calan"
-},
-{
-"id": "186a0b99010f561a",
-"title": "Présidentielle 2027 : caution universelle, accession à la propriété, l’ordonnance de Gabriel Attal face à la crise du logement",
-"link": "https://www.sudouest.fr/politique/gabriel-attal/presidentielle-2027-caution-universelle-accession-a-la-propriete-l-ordonnance-de-gabriel-attal-face-a-la-crise-du-logement-31482763.php",
-"summary": "",
-"source": "Sud Ouest",
-"date": "2026-11-11T21:16:04+00:00",
-"added": "2026-11-11T21:59:59+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "a48205834d08a63f",
-"title": "Les menaces d'ingérence de la Russie \"sont à prendre très au sérieux\", réagit le député Sacha Houlié après son interdiction de territoire par Moscou",
-"link": "https://www.franceinfo.fr/monde/russie/les-menaces-d-ingerence-de-la-russie-sont-a-prendre-tres-au-serieux-reagit-le-depute-sacha-houlie-apres-son-interdiction-de-territoire-par-moscou_8278337.html",
-"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
-"source": "franceinfo",
-"date": "2026-11-11T21:07:53+00:00",
-"added": "2026-11-13T09:45:44+00:00",
-"official": false,
-"also": [],
-"base": [
-"matinales"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"parlement"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "Sacha Houlié"
-},
-{
-"id": "a201f71f61c9f213",
-"title": "Cette nouvelle annonce de Lecornu ne devrait pas calmer la colère des étudiants",
-"link": "https://www.huffingtonpost.fr/politique/article/cette-nouvelle-annonce-de-sebastien-lecornu-ne-devrait-pas-calmer-la-colere-des-etudiants_356105.html",
-"summary": "Le Premier ministre fait un pas de plus vers les étudiants, mais pas sûr que cela change grand-chose à leur colère actuelle.",
-"source": "Le HuffPost",
-"date": "2026-11-11T21:02:55+00:00",
-"added": "2026-11-12T06:41:40+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement"
-],
-"natures": [
-"Annonce"
-],
-"speaker": "Sébastien Lecornu"
-},
-{
-"id": "251eb06049a1f11e",
-"title": "Palais de l'Élysée: un membre de la garde d'honneur s'effondre près d'Emmanuel Macron",
-"link": "https://www.bfmtv.com/politique/elysee/video-palais-de-l-elysee-un-membre-de-la-garde-d-honneur-s-effondre-pres-d-emmanuel-macron_VN-202611110770.html",
-"summary": "Ce 11 novembre, un membre de la garde d'honneur s'est effondré près d'Emmanuel Macron à l'arrivée du président slovaque à l'Élysée.",
-"source": "BFMTV",
-"date": "2026-11-11T20:37:00+00:00",
-"added": "2026-11-12T06:41:40+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "676ecd0811a0c93f",
-"title": "Primaire du centre et de la droite: \"Une réunion de campagne est prévue mardi avec les équipes de Bruno Retailleau, de David Lisnard et de Gabriel Attal\", explique Céline Géraud, porte-parole de la campagne de Gabriel Attal",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-primaire-du-centre-et-de-la-droite-une-reunion-de-campagne-est-prevue-mardi-avec-les-equipes-de-bruno-retailleau-de-david-lisnard-et-de-gabriel-attal-explique-celine-geraud-porte-parole-de-la-campagne-de-gabriel-attal_VN-202611110755.html",
-"summary": "VIDÉO - Les directeurs de campagne de Gabriel Attal, Bruno Retailleau et David Lisnard vont se réunir le mardi 17 novembre afin de discuter ensemble de l'organisation d'une primaire de la droite et du centre.",
-"source": "BFMTV",
-"date": "2026-11-11T20:06:03+00:00",
-"added": "2026-11-11T21:59:59+00:00",
-"official": false,
-"also": [
-"RMC"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Céline Géraud"
-},
-{
-"id": "8bd7ed0f63ec05b1",
-"title": "Le livre-programme de Jean-Luc Mélenchon pour la présidentielle se vend davantage que le roman de Philippe Jaenada lauréat du prix Goncourt",
-"link": "https://www.franceinfo.fr/culture/livres/le-livre-programme-de-jean-luc-melenchon-attire-plus-de-lecteurs-que-le-laureat-du-goncourt_8278001.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "\"L'Avenir en commun, le programme de la Nouvelle France\", distribué en librairie, était le livre le plus vendu en France la semaine de sa publication, devançant \"L'inconnue du quai de Javel\", mais aussi le nouvel ouvrage de Jordan Bardella.",
-"source": "franceinfo",
-"date": "2026-11-11T20:03:28+00:00",
-"added": "2026-11-11T21:59:59+00:00",
-"official": false,
-"also": [
-"20 Minutes"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "8c97c081bdebeeb8",
-"title": "Présidentielle 2027 : le fisc réclame près de 250.000 euros à une société gérée par Teddy Riner",
-"link": "https://www.cnews.fr/france/2026-11-11/presidentielle-2027-le-fisc-reclame-pres-de-250000-euros-une-societe-geree-par",
-"summary": "L'administration fiscale réclame plus de 244.000 euros à une société gérée par Teddy Riner, candidat déclaré à l'élection présidentielle, dans le cadre d'un nouveau contentieux avec le judoka.",
-"source": "CNews",
-"date": "2026-11-11T20:02:00+00:00",
-"added": "2026-11-11T21:59:59+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "fe19bdd114de448b",
-"title": "Teddy Riner candidat à la présidentielle 2027 : la réponse de Zinédine Zidane",
-"link": "https://www.lefigaro.fr/sports/football/ligue-des-nations/teddy-riner-candidat-a-la-presidentielle-2027-la-reponse-de-zinedine-zidane-20261111",
-"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
-"source": "Le Figaro",
-"date": "2026-11-11T20:01:11+00:00",
-"added": "2026-11-11T21:59:59+00:00",
-"official": false,
-"also": [
-"BFMTV",
-"Ouest-France"
-],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "15802a87e84d74ad",
-"title": "«Je voterai très certainement Marine Le Pen», en cas de second tour face à Jean-Luc Mélenchon, déclare la maire de Romans-sur-Isère",
-"link": "https://www.lefigaro.fr/politique/je-voterai-tres-certainement-marine-le-pen-en-cas-de-second-tour-face-a-jean-luc-melenchon-declare-la-maire-de-romans-sur-isere-20261111",
-"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
-"source": "Le Figaro",
-"date": "2026-11-11T19:56:44+00:00",
-"added": "2026-11-11T21:59:59+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": ""
-},
-{
-"id": "f7a636e0d1930e86",
-"title": "\"Enfin la droite a un candidat qui ressemble à quelque chose\": Jean-Luc Mélenchon réagit à la candidature de Teddy Riner à l'élection présidentielle",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/enfin-la-droite-a-un-candidat-qui-ressemble-a-quelque-chose-jean-luc-melenchon-reagit-a-la-candidature-de-teddy-riner-a-l-election-presidentielle_AD-202611110743.html",
-"summary": "\"Il a de l'allure le gars\". En meeting dans la Creuse ce mercredi 11 novembre, Jean-Luc Mélenchon a réagi à la candidature de Teddy Riner à l'élection présidentielle, estimant qu'\"enfin la droite a un candidat qui ressemble à quelque chose\".",
-"source": "BFMTV",
-"date": "2026-11-11T19:54:42+00:00",
-"added": "2026-11-11T21:59:59+00:00",
-"official": false,
-"also": [
-"CNews",
-"TF1 Info",
-"RMC",
-"Le Parisien",
-"Le HuffPost"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "Jean-Luc Mélenchon"
-},
-{
-"id": "489c4bcc1b4d16f6",
-"title": "Référendum dans le Donbass : pourquoi la proposition de Jean-Luc Mélenchon fait réagir jusqu’à Kiev",
-"link": "https://www.franceinfo.fr/vrai-ou-fake/referendum-dans-le-donbass-pourquoi-la-proposition-de-jean-luc-melenchon-fait-reagir-jusqu-a-kiev_8278241.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "Depuis les propos de Jean-Luc Mélenchon sur la possibilité de consulter la population du Donbass pour savoir si elle souhaite rester ukrainienne ou devenir russe, les réactions se multiplient.",
-"source": "franceinfo",
-"date": "2026-11-11T19:43:12+00:00",
-"added": "2026-11-11T19:46:48+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": "Jean-Luc Mélenchon"
-},
-{
-"id": "10a53e06918dac28",
-"title": "Un ancien élu rennais reçoit la Légion d’honneur des mains du Premier ministre",
-"link": "https://www.ouest-france.fr/bretagne/rennes-35000/un-ancien-elu-rennais-recoit-la-legion-dhonneur-des-mains-du-premier-ministre-d433761c-de02-11f1-a62b-776e3051b0df",
-"summary": "",
-"source": "Ouest-France",
-"date": "2026-11-11T19:40:34+00:00",
-"added": "2026-11-12T06:41:40+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "1406dc7b170b2b9c",
-"title": "Défense: la guerre, \"moi je n'en veux pas\", martèle Jean-Luc Mélenchon dans la Creuse",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-defense-la-guerre-moi-je-n-en-veux-pas-martele-jean-luc-melenchon-dans-la-creuse_VN-202611110736.html",
-"summary": "Le candidat LFI à l'élection présidentielle Jean-Luc Mélenchon s'exprime lors d'un discours à l'occasion des commémorations du 11-Novembre dans la Creuse.",
-"source": "BFMTV",
-"date": "2026-11-11T19:39:18+00:00",
-"added": "2026-11-11T19:46:48+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jean-Luc Mélenchon"
-},
-{
-"id": "7565260228aaeeab",
-"title": "Ukraine: des négociations \"sans les Européens et sans les Français\", déplore Jean-Luc Mélenchon",
-"link": "https://www.bfmtv.com/international/europe/ukraine/video-ukraine-des-negociations-sans-les-europeens-et-sans-les-francais-deplore-jean-luc-melenchon_VN-202611110737.html",
-"summary": "VIDÉO - Le candidat LFI à l'élection présidentielle Jean-Luc Mélenchon s'exprime lors d'un discours à l'occasion des commémorations du 11-Novembre dans la Creuse.",
-"source": "BFMTV",
-"date": "2026-11-11T19:37:57+00:00",
-"added": "2026-11-11T19:46:48+00:00",
-"official": false,
-"also": [
-"Le HuffPost"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jean-Luc Mélenchon"
-},
-{
-"id": "be9f0d994e3e2944",
-"title": "Sébastien Lecornu formalise la création de 5 000 places supplémentaires en licence",
-"link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/sebastien-lecornu-formalise-la-creation-de-5-000-places-supplementaires-en-licence_8278265.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "Dans une lettre adressée aux présidents d'universités, le Premier ministre évoque également son \"soutien personnel et celui du gouvernement\", dans \"cette période de fortes tensions\".",
-"source": "franceinfo",
-"date": "2026-11-11T19:35:51+00:00",
-"added": "2026-11-11T19:46:48+00:00",
-"official": false,
-"also": [
-"Le Monde",
-"BFMTV",
-"La Montagne",
-"LCP"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "1369796ffe944317",
-"title": "Candidat dans un espace réduit à l'extrême droite, pourquoi Zemmour tente de se relancer avec la présidentielle",
-"link": "https://www.laprovence.com/article/politique/18220747847577/presidentielle-2027-eric-zemmour-reconquete-tente-de-se-relancer-avec-lelection-du-printemps-prochain",
-"summary": "Éric Zemmour à Orange l’an dernier, lors de l’université d’été de Reconquête !. Si Éric Zemmour a voulu choisir le moment le plus opportun pour se déclarer officiellement à la présidentielle, c’est raté.",
-"source": "La Provence",
-"date": "2026-11-11T19:33:05+00:00",
-"added": "2026-11-11T19:46:48+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
 }
 ]
