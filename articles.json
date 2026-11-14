@@ -1,5 +1,101 @@
 [
 {
+"id": "8745b711529ba04a",
+"title": "La semaine vue par Coco : au Bourget, un Mélenchon inflexible",
+"link": "https://www.liberation.fr/idees-et-debats/editorial/la-semaine-vue-par-coco-au-bourget-un-melenchon-inflexible-20261114_QDHAWLJXQNG25MYKV6SSGNNP7Y/",
+"summary": "",
+"source": "Libération",
+"date": "2026-11-14T11:07:15+00:00",
+"added": "2026-11-14T11:25:28+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "bdd0f814e938d878",
+"title": "Aide à l'Ukraine : E. Diaz assume vouloir stopper les financements français",
+"link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/aide-a-l-ukraine-e-diaz-assume-vouloir-stopper-les-financements-francais_8282348.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "Au salon du Made in France hier, Marine Le Pen a indiqué qu'elle accepterait de rencontrer Volodymyr Zelensky à Bruxelles.",
+"source": "franceinfo",
+"date": "2026-11-14T11:00:02+00:00",
+"added": "2026-11-14T11:25:28+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "3a6e25fb8f63bf57",
+"title": "Budget de la « Sécu » 2027 : le retour du débat sur les 35 heures au Sénat",
+"link": "https://www.lemonde.fr/politique/article/2026/11/14/budget-de-la-secu-2027-le-retour-du-debat-sur-les-35-heures-au-senat_6810049_823448.html",
+"summary": "Vendredi, le Palais du Luxembourg a adopté un amendement qui prévoit d’augmenter de deux heures la durée hebdomadaire du travail.",
+"source": "Le Monde",
+"date": "2026-11-14T10:50:45+00:00",
+"added": "2026-11-14T11:25:28+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "d6af2de4149ad510",
+"title": "Mobilisation du 14 novembre, guerre en Ukraine, parrainages et financement de la campagne de Marine Le Pen… Le \"8h30 franceinfo d'Edwige Diaz",
+"link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/mobilisation-du-14-novembre-guerre-en-ukraine-parrainages-et-financement-de-la-campagne-le-8h30-franceinfo-d-edwige-diaz_8261291.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "Edwige Diaz, présidente du groupe Rassemblement national au Sénat, et sénatrice de la Gironde, répondait aux questions de Camille Girerd et Benjamin Recouvreur.",
+"source": "franceinfo",
+"date": "2026-11-14T10:32:35+00:00",
+"added": "2026-11-14T11:25:28+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"parlement",
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "8708ffbb45d4546f",
+"title": "«Il faut réserver le marché européen aux productions européennes»: Raphaël Glucksmann développe sa vision de l’industrie française et européenne",
+"link": "https://www.bfmtv.com/politique/video-il-faut-reserver-le-marche-europeen-aux-productions-europeennes-raphael-glucksmann-developpe-sa-vision-de-l-industrie-francaise-et-europeenne_VN-202611140189.html",
+"summary": "En visite au Salon du Made in France, à Paris, ce samedi 14 novembre 2026, Raphaël Glucksmann, candidat à l'élection présidentielle et co-président de Place publique, a développé sa vision de l’industrie française et européenne, en disant vouloir réserver le marché européen aux productions européennes.",
+"source": "BFMTV",
+"date": "2026-11-14T09:57:46+00:00",
+"added": "2026-11-14T11:25:28+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "756bbc8d3358d77c",
 "title": "Edouard Philippe",
 "link": "https://www.bfmtv.com/politique/edouard-philippe_DN-202108310657.html",
@@ -108,7 +204,9 @@
 "date": "2026-11-14T08:32:43+00:00",
 "added": "2026-11-14T09:32:21+00:00",
 "official": false,
-"also": [],
+"also": [
+"Sud Ouest"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -187,7 +285,8 @@
 "added": "2026-11-14T09:32:21+00:00",
 "official": false,
 "also": [
-"Midi Libre"
+"Midi Libre",
+"Sud Ouest"
 ],
 "base": [
 "presidentielle"
@@ -210,7 +309,10 @@
 "date": "2026-11-14T07:40:37+00:00",
 "added": "2026-11-14T09:32:21+00:00",
 "official": false,
-"also": [],
+"also": [
+"Le Figaro",
+"Le Dauphiné Libéré"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -1686,7 +1788,8 @@
 "official": false,
 "also": [
 "LCP",
-"La Croix"
+"La Croix",
+"RTL"
 ],
 "base": [],
 "filtered": true,
@@ -12347,522 +12450,5 @@
 "Réaction"
 ],
 "speaker": "Emmanuel Macron"
-},
-{
-"id": "0a82bf24cb6707ab",
-"title": "Présidentielle 2027 : 22 % des Français prêts à voter pour Teddy Riner, ce que dit (et ne dit pas) ce premier sondage",
-"link": "https://www.rtl.fr/actu/politique/presidentielle-2027-22-des-francais-prets-a-voter-pour-teddy-riner-ce-que-dit-et-ne-dit-pas-ce-premier-sondage-7900695126",
-"summary": "Teddy Riner peut-il devenir un candidat crédible à l'élection présidentielle de 2027 ? Au lendemain de son annonce surprise - et fracassante - ce lundi 9 novembre, un premier sondage Ifop-Fiducial pour TF1/LCI et Sud Radio, publié mardi 3 novembre, apporte un début de réponse.",
-"source": "RTL",
-"date": "2026-11-11T11:13:39+00:00",
-"added": "2026-11-14T07:44:50+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": "Teddy Riner"
-},
-{
-"id": "2c20dba456a473b7",
-"title": "Présidentielle 2027 : «Ceux qui prennent Teddy Riner de haut font une lourde erreur», avertit le président de la Fédération de judo",
-"link": "https://www.lefigaro.fr/sports/autres-sports/riner-candidat-ceux-qui-prennent-teddy-de-haut-font-une-lourde-erreur-avertit-le-president-de-la-federation-de-judo-20261111",
-"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
-"source": "Le Figaro",
-"date": "2026-11-11T11:10:31+00:00",
-"added": "2026-11-11T11:43:25+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": ""
-},
-{
-"id": "ba838386e33d9b62",
-"title": "Présidentielle : de nombreux candidats déclarés, mais seront-ils tous sur la ligne de départ pour le premier tour",
-"link": "https://www.tf1info.fr/politique/video-presidentielle-2027-de-nombreux-candidats-declares-mais-seront-ils-tous-sur-la-ligne-de-depart-pour-le-premier-tour-2475202.html",
-"summary": "Élection présidentielle 2027 : la course aux candidatures bat son plein\nLa liste des prétendants s'allonge. Teddy Riner et Éric Zemmour ont récemment annoncé leur candidature à la prochaine élection présidentielle.",
-"source": "TF1 Info",
-"date": "2026-11-11T11:04:59+00:00",
-"added": "2026-11-11T11:43:25+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "bcddf1b07792eb0c",
-"title": "Luc Ferry : « Mélenchon, la nuisance des meilleurs est la pire ! »",
-"link": "https://www.lefigaro.fr/vox/politique/luc-ferry-melenchon-la-nuisance-des-meilleurs-est-la-pire-20261111",
-"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
-"source": "Le Figaro",
-"date": "2026-11-11T11:03:37+00:00",
-"added": "2026-11-11T11:43:25+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Luc Ferry"
-},
-{
-"id": "e0e3bd07a2ed18db",
-"title": "QUIZ. De de Gaulle à Macron, saurez-vous retrouver les présidents de la Ve République ?",
-"link": "https://www.ouest-france.fr/le-mag/quiz/quiz-de-de-gaulle-a-macron-saurez-vous-retrouver-les-presidents-de-la-ve-republique-a8327bbe-dc6b-11f1-81f5-8e32b0872d76",
-"summary": "",
-"source": "Ouest-France",
-"date": "2026-11-11T10:48:02+00:00",
-"added": "2026-11-11T14:02:09+00:00",
-"official": false,
-"also": [],
-"base": [
-"elysee"
-],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "03f0df51b4031a4d",
-"title": "Présidentielle 2027 : \"Le temps joue contre nous\"… Bruno Retailleau met la pression sur ses rivaux et propose deux dates pour une primaire",
-"link": "https://www.midilibre.fr/2026/11/11/presidentielle-2027-le-temps-joue-contre-nous-bruno-retailleau-met-la-pression-sur-ses-rivaux-et-propose-deux-dates-pour-une-primaire-13647033.php",
-"summary": "Bruno Retailleau a proposé à Édouard Philippe, Gabriel Attal et David Lisnard d’organiser une primaire de la droite et du centre les 31 janvier et 7 février 2027, en vue de l’élection présidentielle.",
-"source": "Midi Libre",
-"date": "2026-11-11T10:44:00+00:00",
-"added": "2026-11-11T11:43:25+00:00",
-"official": false,
-"also": [
-"La Croix",
-"TF1 Info",
-"Le Parisien",
-"Ouest-France",
-"Europe 1",
-"Le Télégramme",
-"LCP"
-],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [
-"Citation",
-"Annonce"
-],
-"speaker": ""
-},
-{
-"id": "3c2c704a2bf6d357",
-"title": "« Vous vous prenez pour qui ? »… Séquence très tendue entre Alexis Corbière et Louise Montangon sur le plateau de BFMTV",
-"link": "https://www.20minutes.fr/arts-stars/medias/4262130-20261111-prenez-sequence-tres-tendue-entre-alexis-corbiere-louise-montangon-plateau-bfmtv?at_medium=display&at_campaign=149",
-"summary": "Il n’aura pas fallu longtemps pour que le débat vire au clash. Figure du mouvement anti-blocus, Louise Montangon était l’invitée mardi soir de l’émission « 100 % Mabrouk » sur BMFTV pour parler des « violences dans les lycées » face au député Alexis Corbière.",
-"source": "20 Minutes",
-"date": "2026-11-11T10:41:13+00:00",
-"added": "2026-11-11T11:43:25+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"matinales",
-"parlement"
-],
-"natures": [
-"Interview"
-],
-"speaker": ""
-},
-{
-"id": "9e2701457de6b9ec",
-"title": "11 novembre: La Marseillaise chantée par le Chœur de l'Armée française",
-"link": "https://www.bfmtv.com/politique/video-11-novembre-la-marseillaise-chantee-par-le-ch-ur-de-l-armee-francaise_VN-202611110404.html",
-"summary": "La Marseillaise est chantée par le Chœur de l'Armée française après qu'Emmanuel Macron a ravivé la flamme du Soldat inconnu.",
-"source": "BFMTV",
-"date": "2026-11-11T10:38:41+00:00",
-"added": "2026-11-11T11:43:25+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "aa5303f5321e0d5f",
-"title": "11 novembre: Emmanuel Macron procède à la revue des troupes",
-"link": "https://www.bfmtv.com/politique/video-11-novembre-emmanuel-macron-procede-a-la-revue-des-troupes_VN-202611110397.html",
-"summary": "Emmanuel Macron salue les autorités militaires sur la place de l'Étoile et passe en revue les troupes. Cinq drapeaux et fanions s'inclinent par ailleurs devant le président de la République, en hommage aux cinq soldats morts pour la France cette année.",
-"source": "BFMTV",
-"date": "2026-11-11T10:31:30+00:00",
-"added": "2026-11-11T11:43:25+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "d5f43e079560cca6",
-"title": "Présidentielle 2027 : cinq ans après sa première tentative, quelles sont les chances d'Eric Zemmour ?",
-"link": "https://www.europe1.fr/politique/presidentielle-2027-cinq-ans-apres-sa-premiere-tentative-quelles-sont-les-chances-deric-zemmour-1224755",
-"summary": "Éric Zemmour a annoncé sa candidature à la présidentielle. Crédité d'environ 4% dans les sondages, il compte sur la radicalité de ses propositions, dont la \"remigration\", pour retrouver la dynamique de 2022.",
-"source": "Europe 1",
-"date": "2026-11-11T10:29:30+00:00",
-"added": "2026-11-11T11:43:25+00:00",
-"official": false,
-"also": [
-"La Croix"
-],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "4245b7ce152356a2",
-"title": "11 novembre: Emmanuel Macron rend honneur au drapeau au son de La Marseillaise",
-"link": "https://www.bfmtv.com/politique/video-11-novembre-emmanuel-macron-rend-honneur-au-drapeau-au-son-de-la-marseillaise_VN-202611110393.html",
-"summary": "Emmanuel Macron salue les autorités militaires sur la place de l'Étoile et passe en revue les troupes. Cinq drapeaux et fanions s'inclinent par ailleurs devant le président de la République, en hommage aux cinq soldats morts pour la France cette année.",
-"source": "BFMTV",
-"date": "2026-11-11T10:28:47+00:00",
-"added": "2026-11-11T11:43:25+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "53ea56a1ea310563",
-"title": "Présidentielle 2027 : la question du financement de la campagne enfin résolue pour Marine Le Pen",
-"link": "https://www.europe1.fr/politique/presidentielle-2027-la-question-du-financement-de-la-campagne-enfin-resolue-pour-marine-le-pen-1224581",
-"summary": "À quelques mois de l'élection présidentielle, Marine le Pen a enfin trouvé des banques pour financer sa campagne.",
-"source": "Europe 1",
-"date": "2026-11-11T10:25:49+00:00",
-"added": "2026-11-11T11:43:25+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "34e56f5bfde96845",
-"title": "11 novembre: Emmanuel Macron remonte les Champs-Élysées à bord du véhicule présidentiel",
-"link": "https://www.bfmtv.com/politique/video-11-novembre-emmanuel-macron-remonte-les-champs-elysees-a-bord-du-vehicule-presidentiel_VN-202611110388.html",
-"summary": "Emmanuel Macron remonte à bord de sa voiture les Champs-Élysées, accompagné de la garde républicaine, jusqu'à l'Arc de Triomphe où il présidera la cérémonie de ravivage de la flamme du soldat inconnu.",
-"source": "BFMTV",
-"date": "2026-11-11T10:24:33+00:00",
-"added": "2026-11-11T11:43:25+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "5ea23b22f070c5e8",
-"title": "Jean-Luc Mélenchon accueilli par plusieurs centaines de personnes, à Gentioux, sur le plateau de Millevaches en Creuse",
-"link": "https://www.lamontagne.fr/gentioux-pigerolles-23340/actualites/jean-luc-melenchon-accueilli-par-plusieurs-centaines-de-personnes-a-gentioux-sur-le-plateau-de-millevaches-en-creuse_15079939/",
-"summary": "Jusqu’à 1.500 euros d’amende : 657 communes de France interdisent désormais les feux de cheminée, êtes-vous concerné ?",
-"source": "La Montagne",
-"date": "2026-11-11T10:20:00+00:00",
-"added": "2026-11-11T11:43:25+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"partis"
-],
-"natures": [
-"Interview"
-],
-"speaker": ""
-},
-{
-"id": "f3057c906608379b",
-"title": "Qu'est-ce que la «motion de censure constructive», que défend le vice-président de l'Assemblée nationale Christophe Blanchet ?",
-"link": "https://www.cnews.fr/france/2026-11-11/quest-ce-qua-la-motion-de-censure-constructive-que-defend-le-vice-president-de",
-"summary": "Député démocrate et vice-président de l’Assemblée nationale, Christophe Blanchet défend une proposition de loi constitutionnelle visant à mettre en place le principe d’une «motion de censure constructive».",
-"source": "CNews",
-"date": "2026-11-11T10:14:02+00:00",
-"added": "2026-11-12T06:41:40+00:00",
-"official": false,
-"also": [],
-"base": [
-"parlement"
-],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": ""
-},
-{
-"id": "bfb51e20fdf84564",
-"title": "Avec cette initiative pro-primaire, Retailleau maintient Philippe sous pression",
-"link": "https://www.huffingtonpost.fr/politique/article/avec-cette-initiative-pro-primaire-retailleau-maintient-philippe-sous-pression_355709.html",
-"summary": "Et maintenant, les dates. Le président des Républicains, Bruno Retailleau, a écrit mardi 10 novembre à Édouard Philippe, Gabriel Attal et David Lisnard pour leur proposer l’organisation d’une primaire de la droite et du centre les 31 janvier et 7 février.",
-"source": "Le HuffPost",
-"date": "2026-11-11T10:12:12+00:00",
-"added": "2026-11-11T11:43:25+00:00",
-"official": false,
-"also": [
-"Le Monde",
-"La Provence",
-"20 Minutes"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": "Bruno Retailleau"
-},
-{
-"id": "ea67e3b24de4ad9d",
-"title": "Présidentielle 2027 : Éric Zemmour candidat à l’élection, à combien est-il donné dans les derniers sondages",
-"link": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-eric-zemmour-candidat-a-lelection-a-combien-est-il-donne-dans-les-derniers-sondages-11-11-2026-U2ZWG4ORAVFFTOFFOVJYWHHV6Y.php",
-"summary": "",
-"source": "Le Parisien",
-"date": "2026-11-11T10:10:59+00:00",
-"added": "2026-11-11T11:43:25+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "27f13c29122d31d2",
-"title": "Éric Zemmour, le candidat rétréci",
-"link": "https://www.lepoint.fr/politique/presidentielle-2027-pourquoi-la-future-campagne-deric-zemmour-va-souffrir-du-contraste-avec-2022-XYYD6UYTYJH5ZOIWATIP5DBYCU/",
-"summary": "",
-"source": "Le Point",
-"date": "2026-11-11T10:07:16+00:00",
-"added": "2026-11-11T11:43:25+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "b37ad718ced09fcf",
-"title": "11 novembre: Emmanuel Macron échange avec les membres de la famille de Georges Clemenceau",
-"link": "https://www.bfmtv.com/politique/video-11-novembre-emmanuel-macron-echange-avec-les-membres-de-la-famille-de-georges-clemenceau_VN-202611110374.html",
-"summary": "Comme le veut la tradition, Emmanuel Macron a déposé une gerbe au pied de la statue de Georges Clemenceau, l'un des artisans de la victoire de la France à l'issue de la Première guerre mondiale.",
-"source": "BFMTV",
-"date": "2026-11-11T10:06:53+00:00",
-"added": "2026-11-11T11:43:25+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "44fb335b0062a447",
-"title": "11 novembre: Emmanuel Macron dépose une gerbe au pied de la statue de Georges Clemenceau",
-"link": "https://www.bfmtv.com/politique/video-11-novembre-emmanuel-macron-depose-une-gerbe-au-pied-de-la-statue-de-georges-clemenceau_VN-202611110362.html",
-"summary": "Les dirigeants politiques de tout bord s'apprêtent à commémorer l'armistice ce mercredi 11 novembre, dans un contexte social et budgétaire toujours tendu malgré ce répit accordé par le jour férié.",
-"source": "BFMTV",
-"date": "2026-11-11T09:55:33+00:00",
-"added": "2026-11-11T11:43:25+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "ab325724235d0884",
-"title": "Candidature d'Éric Zemmour : «Jean-Luc Mélenchon n'est pas interrogé de la même manière», note Pa...",
-"link": "https://www.europe1.fr/emissions/lheure-des-pros/candidature-deric-zemmour-jean-luc-melenchon-nest-pas-interroge-de-la-meme-maniere-note-pa-1224974",
-"summary": "",
-"source": "Europe 1",
-"date": "2026-11-11T09:55:01+00:00",
-"added": "2026-11-11T11:43:25+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Candidature d'Éric Zemmour"
-},
-{
-"id": "ba5c36c7310ae2c6",
-"title": "11-Novembre: Marine Le Pen dépose une gerbe de fleurs à Hénin-Beaumont",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-11-novembre-marine-le-pen-depose-une-gerbe-de-fleurs-a-henin-beaumont_VN-202611110360.html",
-"summary": "La candidate du RN à l'élection présidentielle, Marine Le Pen, dépose une gerbe de fleurs lors de la cérémonie de commémoration de l'Armistice à Hénin-Beaumont, ce mercredi 11 novembre.",
-"source": "BFMTV",
-"date": "2026-11-11T09:54:41+00:00",
-"added": "2026-11-11T11:43:25+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "57bfbf96cbc42ba6",
-"title": "Présidentielle 2027: financements, soutiens, déplacements... Les coulisses de la candidature surprise de Teddy Riner",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/presidentielle-2027-financements-soutiens-deplacements-les-coulisses-de-la-candidature-surprise-de-teddy-riner_AV-202611110354.html",
-"summary": "L'icône du sport français, Teddy Riner, prépare sa candidature surprise à l'élection présidentielle depuis des mois.",
-"source": "BFMTV",
-"date": "2026-11-11T09:45:25+00:00",
-"added": "2026-11-11T09:46:23+00:00",
-"official": false,
-"also": [
-"La Croix"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "3bb4a55cae590f23",
-"title": "11 novembre: Sébastien Lecornu arrive sur le lieu des commémorations à Paris",
-"link": "https://www.bfmtv.com/politique/video-11-novembre-sebastien-lecornu-arrive-sur-le-lieu-des-commemorations-a-paris_VN-202611110351.html",
-"summary": "Les dirigeants politiques de tout bord s'apprêtent à commémorer l'armistice ce mercredi 11 novembre, dans un contexte social et budgétaire toujours tendu malgré ce répit accordé par le jour férié.",
-"source": "BFMTV",
-"date": "2026-11-11T09:38:55+00:00",
-"added": "2026-11-11T09:46:23+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "5890131ef0f4ff4d",
-"title": "11 novembre: les dernières commémorations de l'armistice présidées par Emmanuel Macron vont débuter",
-"link": "https://www.bfmtv.com/politique/video-11-novembre-les-dernieres-commemorations-de-l-armistice-presidees-par-emmanuel-macron-vont-debuter_VN-202611110347.html",
-"summary": "Les dirigeants politiques de tout bord s'apprêtent à commémorer l'armistice ce mercredi 11 novembre, dans un contexte social et budgétaire toujours tendu malgré ce répit accordé par le jour férié.",
-"source": "BFMTV",
-"date": "2026-11-11T09:33:24+00:00",
-"added": "2026-11-11T09:46:23+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [],
-"speaker": ""
 }
 ]
