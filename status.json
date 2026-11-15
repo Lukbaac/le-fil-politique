@@ -27,7 +27,7 @@
 "name": "Le Monde",
 "ok": true,
 "items": 20,
-"new": 2
+"new": 3
 },
 {
 "name": "franceinfo",
@@ -39,7 +39,7 @@
 "name": "Le Figaro",
 "ok": true,
 "items": 20,
-"new": 1
+"new": 0
 },
 {
 "name": "Libération",
@@ -57,42 +57,42 @@
 "name": "L'Express",
 "ok": true,
 "items": 100,
-"new": 0
+"new": 1
 },
 {
 "name": "BFMTV",
 "ok": true,
 "items": 30,
-"new": 8
+"new": 3
 },
 {
 "name": "20 Minutes",
 "ok": true,
 "items": 20,
-"new": 0
+"new": 1
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 24,
-"new": 0
+"items": 27,
+"new": 1
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 18,
+"items": 23,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
 "items": 29,
-"new": 1
+"new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 38,
+"items": 33,
 "new": 0
 },
 {
@@ -105,72 +105,72 @@
 "name": "Google Actualités",
 "ok": true,
 "items": 17,
-"new": 0
+"new": 1
 },
 {
 "name": "Google Actualités",
 "ok": true,
 "items": 90,
-"new": 3
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 100,
-"new": 0
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 37,
-"new": 0
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 48,
 "new": 1
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 17,
+"items": 100,
+"new": 6
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 40,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 10,
+"items": 50,
 "new": 0
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 16,
+"new": 0
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 14,
+"new": 1
 },
 {
 "name": "Google Actualités",
 "ok": true,
 "items": 29,
-"new": 1
+"new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
 "items": 100,
+"new": 1
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 6,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 9,
+"items": 36,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 42,
-"new": 0
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 79,
-"new": 2
+"items": 73,
+"new": 1
 }
 ]

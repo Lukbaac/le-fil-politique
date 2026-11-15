@@ -1,5 +1,363 @@
 [
 {
+"id": "30c0651048fdaa70",
+"title": "\"Il faut faire campagne sur les deux bords\" : coincé entre deux lignes, Raphaël Glucksmann sur la ligne de crête",
+"link": "https://www.lexpress.fr/politique/il-faut-faire-campagne-sur-les-deux-bords-coince-entre-deux-lignes-raphael-glucksmann-sur-la-ligne-UPHEPC52SFEKBAYX72Y4D7PBEA/",
+"summary": "Il est des passés plus avantageux que d’autres. En la matière, Raphaël Glucksmann préfère jouer cartes sur table…",
+"source": "L'Express",
+"date": "2026-11-15T06:30:00+00:00",
+"added": "2026-11-15T06:34:08+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "636b2d8a6b970361",
+"title": "Mélenchon garde un œil sur Hollande, la pétition contre CNews pas enterrée… Nos indiscrétions de la semaine",
+"link": "https://www.leparisien.fr/elections/presidentielle/melenchon-garde-un-oeil-sur-hollande-la-petition-contre-cnews-pas-enterree-nos-indiscretions-de-la-semaine-15-11-2026-V557WLBLXJA57B6KYVUUTMH4XI.php",
+"summary": "",
+"source": "Le Parisien",
+"date": "2026-11-15T06:20:00+00:00",
+"added": "2026-11-15T06:34:08+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "19387825b44b3591",
+"title": "\"Elle joue contre la France\": Emmanuel Macron estime que \"si Marine Le Pen décide de tout couper à l’Ukraine, elle nous isolera en Europe\"",
+"link": "https://www.bfmtv.com/politique/elysee/elle-joue-contre-la-france-emmanuel-macron-estime-que-si-marine-le-pen-decide-de-tout-couper-a-l-ukraine-elle-nous-isolera-en-europe_AV-202611150092.html",
+"summary": "Emmanuel Macron a estimé, selon son entourage à BFMTV, que la décision que pourrait prendre Marine Le Pen, si elle devenait présidente en 2027, de \"tout couper à l'Ukraine\" pourrait \"jouer contre la France\".",
+"source": "BFMTV",
+"date": "2026-11-15T06:14:44+00:00",
+"added": "2026-11-15T06:34:08+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Emmanuel Macron"
+},
+{
+"id": "676f76a48a51451c",
+"title": "En images : Mélenchon, Chirac, Sarkozy, Royal… Les insultes marquantes de la Ve République",
+"link": "https://www.20minutes.fr/diaporama/diaporama-4261582-images-melenchon-chirac-sarkozy-royal-insultes-marquantes-ve-republique",
+"summary": "«Casse-toi, pauv' con ! », lance Nicolas Sarkozy le 23 février 2008, lors de sa visite au Salon international de l’agriculture à Paris.",
+"source": "20 Minutes",
+"date": "2026-11-15T06:02:37+00:00",
+"added": "2026-11-15T06:34:08+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "ccbe49284ae863a2",
+"title": "Dans l’œil du dessinateur Frap. Les ambiguïtés de Jean-Luc Mélenchon sur la Russie",
+"link": "https://www.ouest-france.fr/actualite-en-continu/dans-lil-du-dessinateur-frap-les-ambiguites-de-jean-luc-melenchon-sur-la-russie-1d9fa11e-df74-11f1-b029-43a761592972",
+"summary": "",
+"source": "Ouest-France",
+"date": "2026-11-15T05:36:02+00:00",
+"added": "2026-11-15T06:34:08+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "262a2b494012c29f",
+"title": "« Le compromis, c’est sa deuxième nature » : comment Gérard Larcher tente de sauver la droite et le centre du fiasco",
+"link": "https://www.leparisien.fr/elections/presidentielle/le-compromis-cest-sa-deuxieme-nature-comment-gerard-larcher-tente-de-sauver-la-droite-et-le-centre-du-fiasco-15-11-2026-3B5GDPG3XFACPML27ZSGL2P3EA.php",
+"summary": "",
+"source": "Le Parisien",
+"date": "2026-11-15T05:30:00+00:00",
+"added": "2026-11-15T06:34:08+00:00",
+"official": false,
+"also": [],
+"base": [
+"parlement"
+],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "60ac07a3625de65a",
+"title": "SONDAGE. La bonne dynamique de David Lisnard",
+"link": "https://www.latribune.fr/article/la-tribune-dimanche/politique/2084992542706614/sondage-la-bonne-dynamique-de-david-lisnard",
+"summary": "David Lisnard au siège de l'AMF à Paris, le 12 novembre 2024.",
+"source": "La Tribune",
+"date": "2026-11-15T05:15:01+00:00",
+"added": "2026-11-15T06:34:08+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "14a4bff004ff7d39",
+"title": "« Souvenez-vous de cette journée pluvieuse, où nous avons appris qu’il y a un invincible espoir » : 3 000 personnes réunies à Nice pour soutenir Jean-Luc Mélenchon",
+"link": "https://www.nicematin.com/societe/politique/souvenez-vous-de-cette-journee-pluvieuse-ou-nous-avons-appris-qu-il-y-a-un-invincible-espoir-3-000-personnes-reunies-a-nice-pour-soutenir-jean-luc-melenchon-10760886",
+"summary": "Malgré une météo pluvieuse, quelque 3 000 personnes se sont massées, ce samedi soir, à Nice pour assister au premier grand meeting de soutien à la candidature de Jean-Luc Mélenchon, au gymnase Leyrit, dans le quartier populaire de Saint-Roch.",
+"source": "Nice-Matin",
+"date": "2026-11-15T05:00:04+00:00",
+"added": "2026-11-15T06:34:08+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "5f462c5887771778",
+"title": "Présidentielle 2027 : Edouard Philippe tente de déployer son contre-agenda face aux vents contraires",
+"link": "https://www.lemonde.fr/politique/article/2026/11/15/presidentielle-2027-edouard-philippe-tente-de-deployer-son-contre-agenda-face-aux-vents-contraires_6810973_823448.html",
+"summary": "Sous pression de ses concurrents de la droite et du centre qui veulent une primaire, le candidat maintient son refus d’y participer.",
+"source": "Le Monde",
+"date": "2026-11-15T04:30:08+00:00",
+"added": "2026-11-15T06:34:08+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "cd2ce5d66fde9388",
+"title": "Présidentielle 2027 : Teddy Riner découvre le combat politique, entre popularité et agacement",
+"link": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/15/presidentielle-2027-teddy-riner-decouvre-le-combat-politique-entre-popularite-et-agacement_6810907_6205049.html",
+"summary": "Le judoka a passé son samedi après-midi au salon du Made in France alors que sa campagne connaît déjà des premières turbulences.",
+"source": "Le Monde",
+"date": "2026-11-15T04:15:01+00:00",
+"added": "2026-11-15T06:34:08+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "62e391c002dd60d2",
+"title": "Présidentielle 2027 : Teddy Riner ne renverse pas la table, selon un sondage",
+"link": "https://www.20minutes.fr/politique/4262902-20261115-presidentielle-2027-teddy-riner-renverse-table-selon-sondage?at_medium=display&at_campaign=149",
+"summary": "Candidat depuis lundi pour s’installer dans le fauteuil d’Emmanuel Macron, Teddy Riner ne parvient pas pour le moment à chambouler la course vers l’Élysée.",
+"source": "20 Minutes",
+"date": "2026-11-15T01:27:31+00:00",
+"added": "2026-11-15T06:34:08+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "986ccff411df35e5",
+"title": "Manifestations du 14 novembre : à Paris comme à Lyon, des cortèges hétéroclites mais déterminés",
+"link": "https://www.lemonde.fr/societe/article/2026/11/15/manifestations-du-14-novembre-a-paris-comme-a-lyon-des-corteges-heteroclites-mais-determines_6810709_3224.html",
+"summary": "Les cortèges qui ont défilé, samedi, à l’appel de nombreuses organisations ont surtout été dominés par le rejet du projet de loi qualifié de « permis de tuer », qui prévoit d’instaurer la présomption de légitime défense pour les policiers et gendarmes.",
+"source": "Le Monde",
+"date": "2026-11-14T23:39:08+00:00",
+"added": "2026-11-15T06:34:08+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "1c70eab09b702548",
+"title": "Selon le sondage Elabe pour La Tribune dimanche et BFMTV sur la présidentielle, 55% des interrogés sont certains de leur choix, 45% peuvent changer d'avis",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-selon-le-sondage-elabe-pour-la-tribune-dimanche-et-bfmtv-sur-la-presidentielle-55-des-interroges-sont-certains-de-leur-choix-45-peuvent-changer-d-avis_VN-202611140417.html",
+"summary": "Selon un sondage Elabe réalisé pour La Tribune dimanche et BFMTV et publié ce samedi 14 novembre, Édouard Philippe est considéré comme le candidat le plus solide pour représenter la droite et le centre à la prochaine élection présidentielle.",
+"source": "BFMTV",
+"date": "2026-11-14T22:33:32+00:00",
+"added": "2026-11-15T06:34:08+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [
+"Tribune"
+],
+"speaker": ""
+},
+{
+"id": "c12ddc2eb2d819cc",
+"title": "Candidature de Teddy Riner: \"On a l'impression qu'il est quand même là téléguidé par une partie du système\", observe Danielle Simonnet, députée L'Après",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-candidature-de-teddy-riner-on-a-l-impression-qu-il-est-quand-meme-la-teleguide-par-une-partie-du-systeme-observe-danielle-simonnet-deputee-l-apres_VN-202611140416.html",
+"summary": "Selon un sondage Elabe réalisé pour La Tribune dimanche et BFMTV et publié ce samedi 14 novembre, Édouard Philippe est considéré comme le candidat le plus solide pour représenter la droite et le centre à la prochaine élection présidentielle.",
+"source": "BFMTV",
+"date": "2026-11-14T22:32:22+00:00",
+"added": "2026-11-15T06:34:08+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Candidature de Teddy Riner"
+},
+{
+"id": "ba07375dc0525c8d",
+"title": "Présidentielle en France: Teddy Riner attire les foules mais ne dévoile encore rien de son programme",
+"link": "https://www.rfi.fr/fr/france/20261114-pr%C3%A9sidentielle-en-france-teddy-riner-attire-les-foules-mais-ne-d%C3%A9voile-encore-rien-de-son-programme",
+"summary": "",
+"source": "RFI",
+"date": "2026-11-14T22:27:16+00:00",
+"added": "2026-11-15T06:34:08+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [
+"Annonce"
+],
+"speaker": ""
+},
+{
+"id": "7af31ad0fd5a93a2",
+"title": "2027 : Mélenchon, le cauchemar des socialistes ? - 14/11",
+"link": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-2027-melenchon-le-cauchemar-des-socialistes-14-11_VN-202611140400.html",
+"summary": "VIDÉO - Chaque week-end, Alice Darfeuille vous accompagne de 21h à 00h dans BFM Grand Soir.",
+"source": "BFMTV",
+"date": "2026-11-14T21:51:21+00:00",
+"added": "2026-11-15T06:34:08+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "6623f4abfa61bd8c",
+"title": "Présidentielle 2027 : Marine Le Pen large favorite des deux tours selon un nouveau sondage, Teddy Riner crédité de 4",
+"link": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-marine-le-pen-large-favorite-des-deux-tours-selon-dun-nouveau-sondage-teddy-riner-credite-de-4-14-11-2026-ZLZO7KJKCNGVHGZGY4HJNTZXGU.php",
+"summary": "",
+"source": "Le Parisien",
+"date": "2026-11-14T21:34:48+00:00",
+"added": "2026-11-15T06:34:08+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "7e305dd7cb2bed70",
+"title": "Élysée : à qui le tour ?",
+"link": "https://www.lanouvellerepublique.fr/a-la-une/elysee-a-qui-le-tour-1794691344",
+"summary": "Cette semaine, Teddy Riner et Éric Zemmour sont venus rejoindre la liste déjà longue des candidats officiels à la présidentielle.",
+"source": "La Nouvelle République",
+"date": "2026-11-14T21:22:22+00:00",
+"added": "2026-11-15T06:34:08+00:00",
+"official": false,
+"also": [],
+"base": [
+"elysee"
+],
+"filtered": true,
+"topics": [
+"elysee",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "fd782b6553699ddb",
 "title": "Dans son long texte sur la guerre en Ukraine, Emmanuel Macron s’adresse surtout à Marine Le Pen",
 "link": "https://www.huffingtonpost.fr/france/article/dans-son-long-texte-sur-la-guerre-en-ukraine-emmanuel-macron-s-adresse-surtout-a-marine-le-pen_358184.html",
@@ -72,7 +430,9 @@
 "added": "2026-11-14T21:25:05+00:00",
 "official": false,
 "also": [
-"RTL"
+"RTL",
+"BFMTV",
+"Le Figaro"
 ],
 "base": [
 "partis"
@@ -325,7 +685,9 @@
 "date": "2026-11-14T19:05:27+00:00",
 "added": "2026-11-14T19:31:12+00:00",
 "official": false,
-"also": [],
+"also": [
+"BFMTV"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -344,7 +706,9 @@
 "date": "2026-11-14T19:00:25+00:00",
 "added": "2026-11-14T21:25:05+00:00",
 "official": false,
-"also": [],
+"also": [
+"France 24"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -365,7 +729,8 @@
 "added": "2026-11-14T19:31:12+00:00",
 "official": false,
 "also": [
-"La Provence"
+"La Provence",
+"Le HuffPost"
 ],
 "base": [],
 "filtered": true,
@@ -556,7 +921,8 @@
 "official": false,
 "also": [
 "Les Echos",
-"Le Dauphiné Libéré"
+"Le Dauphiné Libéré",
+"20 Minutes"
 ],
 "base": [
 "parlement"
@@ -578,7 +944,9 @@
 "date": "2026-11-14T17:30:00+00:00",
 "added": "2026-11-14T19:31:12+00:00",
 "official": false,
-"also": [],
+"also": [
+"BFMTV"
+],
 "base": [
 "partis"
 ],
@@ -672,7 +1040,8 @@
 "20 Minutes",
 "Les Echos",
 "Europe 1",
-"Le Télégramme"
+"Le Télégramme",
+"franceinfo"
 ],
 "base": [
 "parlement"
@@ -2492,7 +2861,8 @@
 "CNews",
 "La Voix du Nord",
 "RFI",
-"Le Dauphiné Libéré"
+"Le Dauphiné Libéré",
+"France 24"
 ],
 "base": [],
 "filtered": true,
@@ -3924,6 +4294,29 @@
 "speaker": "Teddy Riner"
 },
 {
+"id": "249bc2cfab716415",
+"title": "Présidentielle 2027 : « Il y aura d’autres élections », Marine Tondelier fait un pas de plus vers le retrait de sa candidature",
+"link": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-il-y-aura-dautres-elections-marine-tondelier-fait-un-pas-de-plus-vers-le-retrait-de-sa-candidature-13-11-2026-MDLOB322VBGLXPT4QFOJ6DZNCE.php",
+"summary": "",
+"source": "Le Parisien",
+"date": "2026-11-13T12:58:32+00:00",
+"added": "2026-11-15T06:34:08+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Marine Tondelier"
+},
+{
 "id": "0e62aaeb0ba16176",
 "title": "Alertes à la bombe : \"Une possibilité d'ingérence étrangère\", déclare le ministre de l'Intérieur Laurent Nuñez",
 "link": "https://www.tf1info.fr/justice-faits-divers/videos/video-alertes-a-la-bombe-une-possibilite-d-ingerence-etrangere-declare-le-ministre-de-l-interieur-laurent-nunez-81116-2475678.html",
@@ -3973,7 +4366,9 @@
 "date": "2026-11-13T12:29:00+00:00",
 "added": "2026-11-13T14:00:24+00:00",
 "official": false,
-"also": [],
+"also": [
+"CNews"
+],
 "base": [
 "presidentielle"
 ],
@@ -4357,6 +4752,29 @@
 ],
 "natures": [],
 "speaker": ""
+},
+{
+"id": "868a31e82b8f8a15",
+"title": "Jean-Luc Mélenchon sur la candidature de Teddy Riner: \"On connaît le truc, ni de droite ni de gauche égal pas de gauche\"",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-jean-luc-melenchon-sur-la-candidature-de-teddy-riner-on-connait-le-truc-ni-de-droite-ni-de-gauche-egal-pas-de-gauche_VN-202611130483.html",
+"summary": "VIDÉO - Jean-Luc Mélenchon, candidat La France insoumise à l’élection présidentielle, s’exprime lors d’un micro tendu au salon du Made in France.",
+"source": "BFMTV",
+"date": "2026-11-13T11:23:56+00:00",
+"added": "2026-11-15T06:34:08+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Teddy Riner"
 },
 {
 "id": "fdfd72ea0313a882",
@@ -10945,627 +11363,5 @@
 ],
 "natures": [],
 "speaker": ""
-},
-{
-"id": "75860a48cbb10ec9",
-"title": "L'ÉDITO ÉCO - Un sondage révèle que les Français ne maîtrisent pas le système de retraite actuel",
-"link": "https://www.bfmtv.com/replay-emissions/bfm-premiere/video-l-edito-eco-un-sondage-revele-que-les-francais-ne-maitrisent-pas-le-systeme-de-retraite-actuel_VN-202611120196.html",
-"summary": "VIDÉO - Selon un sondage Ifop,  les règles de base de la retraite restent mal connues, mais une large majorité est déjà prête à faire évoluer le modèle.",
-"source": "BFMTV",
-"date": "2026-11-12T06:26:53+00:00",
-"added": "2026-11-12T06:41:40+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "0a3c585cbe644ded",
-"title": "Guillaume Tabard : « Zemmour à la recherche d’une nouvelle utilité politique »",
-"link": "https://www.lefigaro.fr/politique/guillaume-tabard-zemmour-a-la-recherche-d-une-nouvelle-utilite-politique-20261111",
-"summary": "CONTRE-POINT - Pour sa deuxième candidature à l’élection présidentielle, le patron de Reconquête ne peut plus jouer du même effet de surprise, de nouveauté ou de transgression.",
-"source": "Le Figaro",
-"date": "2026-11-12T06:25:42+00:00",
-"added": "2026-11-14T21:25:05+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Guillaume Tabard"
-},
-{
-"id": "2f289b7feda67956",
-"title": "À l'Élysée, deux gardes d’honneur s’effondrent à côté d’Emmanuel Macron",
-"link": "https://www.tf1info.fr/justice-faits-divers/video-paris-a-l-elysee-deux-gardes-d-honneur-s-effondrent-a-cote-d-emmanuel-macron-2475351.html",
-"summary": "Une scène rarissime qui a marqué les esprits. Mercredi, en fin de journée, deux gardes d’honneur du palais de l’Élysée se sont effondrés à proximité directe d'Emmanuel Macron.",
-"source": "TF1 Info",
-"date": "2026-11-12T06:20:38+00:00",
-"added": "2026-11-12T06:41:40+00:00",
-"official": false,
-"also": [
-"Le Parisien",
-"Le Dauphiné Libéré",
-"La Voix du Nord",
-"La Montagne",
-"20 Minutes",
-"Le Progrès"
-],
-"base": [
-"elysee"
-],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "2b74ff9456dec62c",
-"title": "Présidentielle 2027. 101 départements en 101 jours : le pari fou d’Olivier Becht pour se faire un nom et viser l’Élysée",
-"link": "https://www.ledauphine.com/elections/2026/11/12/101-departements-en-101-jours-le-pari-fou-d-olivier-becht-pour-se-faire-un-nom-et-viser-l-elysee",
-"summary": "Ancien ministre, député du Haut-Rhin et candidat à la présidentielle, Olivier Becht reste largement méconnu du grand public.",
-"source": "Le Dauphiné Libéré",
-"date": "2026-11-12T06:20:10+00:00",
-"added": "2026-11-12T06:41:40+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement",
-"parlement",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "5743dc73ed075667",
-"title": "63% des Français pensent que les minimas sociaux «découragent de travailler», selon un sondage",
-"link": "https://www.cnews.fr/france/2026-11-12/63-des-francais-pensent-que-les-minimas-sociaux-decouragent-de-travailler-selon",
-"summary": "Le Secours catholique a publié ce jeudi 12 novembre son rapport annuel sur la pauvreté, en partenariat avec OpinionWay.",
-"source": "CNews",
-"date": "2026-11-12T06:18:39+00:00",
-"added": "2026-11-12T21:35:46+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "60a1af00133b7d6e",
-"title": "Budget 2027 : le Sénat veut sauver le projet rejeté par l’Assemblée nationale",
-"link": "https://www.lemonde.fr/politique/article/2026/11/12/budget-2027-le-senat-veut-sauver-le-projet-rejete-par-l-assemblee-nationale_6809064_823448.html",
-"summary": "Les sénateurs ont commencé à étudier le projet de loi rejeté à l’unanimité par les députés le 4 novembre. Leur ambition : muscler le texte, pour s’assurer que le déficit public sera effectivement réduit.",
-"source": "Le Monde",
-"date": "2026-11-12T06:00:11+00:00",
-"added": "2026-11-12T06:41:40+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "812bb4b3324347df",
-"title": "Sur l’Ukraine, Mélenchon à la roulette russe",
-"link": "https://www.latribune.fr/article/la-tribune-dimanche/politique/11696228530785/sur-l-ukraine-melenchon-a-la-roulette-russe",
-"summary": "Jean-Luc Mélenchon lors d'un meeting de campagne à La Souterraine, le 11 novembre 2026.",
-"source": "La Tribune",
-"date": "2026-11-12T06:00:04+00:00",
-"added": "2026-11-12T06:41:40+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "400c3f21c521aad0",
-"title": "L'ÉDITO POLITIQUE DE GUILLAUME DARET - Marine Tondelier: une candidate en difficulté",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-l-edito-politique-de-guillaume-daret-marine-tondelier-une-candidate-en-difficulte_VN-202611120167.html",
-"summary": "Marine Tondelier, candidate écologiste à la présidentielle, est l'invitée de \"Vous présidente\" ce jeudi à 21h sur BFMTV.",
-"source": "BFMTV",
-"date": "2026-11-12T05:52:40+00:00",
-"added": "2026-11-12T06:41:40+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"matinales",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "7f7a1eac7da3f12c",
-"title": "Rejetée par les députés, sauvée par les sénateurs: ce que contient cette proposition de nouvelle \"taxe sucre\" visant glaces, biscuits et bonbons",
-"link": "https://www.bfmtv.com/economie/entreprises/rejetee-par-les-deputes-sauvee-par-les-senateurs-ce-que-contient-cette-proposition-de-nouvelle-taxe-sucre-visant-glaces-biscuits-et-bonbons_AV-202611120160.html",
-"summary": "La \"taxe sucre\" n'a pas encore dit son dernier mot: rejetée par l'Assemblée nationale, elle vient pourtant de décrocher le feu vert du Sénat.",
-"source": "BFMTV",
-"date": "2026-11-12T05:49:15+00:00",
-"added": "2026-11-12T06:41:40+00:00",
-"official": false,
-"also": [],
-"base": [
-"parlement"
-],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "10982982cbf45be4",
-"title": "Présidentielle : vers un « accord de majorité » entre LFI et les Verts ?",
-"link": "https://www.latribune.fr/article/la-tribune-dimanche/politique/presidentielle/11909643578236/presidentielle-vers-un-accord-de-majorite-entre-lfi-et-les-verts",
-"summary": "Les Écologistes trancheront dans un mois, le 13 décembre, leur stratégie pour la présidentielle. D’ici là, le parti de Marine Tondelier souhaite négocier avec les équipes de Raphaël Glucksmann et celles de Jean-Luc Mélenchon pour envisager un éventuel soutien.",
-"source": "La Tribune",
-"date": "2026-11-12T05:45:01+00:00",
-"added": "2026-11-12T06:41:40+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "6149b43cdbbc71c0",
-"title": "Présidentielle 2027 : baisse des prix de l’énergie, «entreprises patriotes»… Nicolas Dupont-Aignan dévoile son programme économique ce jeudi",
-"link": "https://www.cnews.fr/france/2026-11-12/presidentielle-2027-baisse-des-prix-de-lenergie-entreprises-patriotes-nicolas",
-"summary": "Le candidat à l’élection présidentielle Nicolas Dupont-Aignan dévoile son programme économique depuis son QG, ce jeudi 12 novembre.",
-"source": "CNews",
-"date": "2026-11-12T05:32:00+00:00",
-"added": "2026-11-12T06:41:40+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [
-"Annonce"
-],
-"speaker": ""
-},
-{
-"id": "56adfb45a7797a30",
-"title": "Présidentielle 2027 : comment les influenceurs attisent les convoitises des équipes de campagne",
-"link": "https://www.lemonde.fr/pixels/article/2026/11/12/presidentielle-2027-comment-les-influenceurs-attisent-les-convoitises-des-equipes-de-campagne_6809062_4408996.html",
-"summary": "Invités à prendre part à des meetings ou à relayer la communication de candidats sur les réseaux sociaux, les créateurs de contenu sur Internet sont, à cinq mois du scrutin, sollicités de toutes parts.",
-"source": "Le Monde",
-"date": "2026-11-12T05:30:10+00:00",
-"added": "2026-11-12T06:41:40+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "fc8c66d40a4d995b",
-"title": "Les démocrates remportent un nouveau siège au Sénat avec la victoire historique de Scott Colom dans le Mississippi",
-"link": "https://www.bfmtv.com/international/amerique-nord/etats-unis/les-democrates-remportent-un-nouveau-siege-au-senat-avec-la-victoire-historique-de-scott-colom-dans-le-mississippi_AD-202611120136.html",
-"summary": "Scott Colom (D-MS), sénateur américain élu, prend la parole lors d’un rassemblement de victoire au Tougaloo College, le 11 novembre 2026, à Tougaloo, dans le Mississippi. - Brandon Bell / GETTY IMAGES NORTH AMERICA\nLes démocrates ont réalisé une percée spectaculaire dans le Mississippi traditionnellement conservateur…",
-"source": "BFMTV",
-"date": "2026-11-12T05:29:56+00:00",
-"added": "2026-11-13T07:58:47+00:00",
-"official": false,
-"also": [],
-"base": [
-"matinales"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "44da3edcc1f861bd",
-"title": "Présidentielle 2027 : défenseur d’une «refonte radicale du système», le candidat Olivier Becht entame son tour de France ce jeudi",
-"link": "https://www.cnews.fr/france/2026-11-12/presidentielle-2027-defenseur-dune-refonte-radicale-du-systeme-le-candidat",
-"summary": "L’ancien ministre qui se classe lui-même à «l’extrême-centre» entend ainsi présenter son projet visant à refonder entièrement le modèle de l’État.",
-"source": "CNews",
-"date": "2026-11-12T05:16:05+00:00",
-"added": "2026-11-12T06:41:40+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"gouvernement",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "07dadcfb5743a9ce",
-"title": "Déficit de militants, traumatisme des années Juppé… Pourquoi Édouard Philippe ne veut pas d'une primaire",
-"link": "https://www.europe1.fr/politique/deficit-de-militants-traumatisme-des-annees-juppe-pourquoi-edouard-philippe-ne-veut-pas-dune-primaire-1225835",
-"summary": "Malgré la proposition de Bruno Retailleau d'organiser une primaire, pour désigner un candidat unique de la droite et du centre en vue de la présidentielle, Édouard Philippe continue de ne pas l'envisager.",
-"source": "Europe 1",
-"date": "2026-11-12T05:15:00+00:00",
-"added": "2026-11-12T06:41:40+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": "Édouard Philippe"
-},
-{
-"id": "84d8cf52fcd014f4",
-"title": "\"Il a une image de gagnant\" : quel candidat à la présidentielle a le plus à craindre de la candidature de Teddy Riner",
-"link": "https://www.franceinfo.fr/elections/presidentielle/il-a-une-image-de-gagnant-quel-candidat-a-la-presidentielle-a-le-plus-a-craindre-de-la-candidature-de-teddy-riner_8277656.html",
-"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
-"source": "franceinfo",
-"date": "2026-11-12T05:04:59+00:00",
-"added": "2026-11-12T11:45:15+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "55756ab714c292cf",
-"title": "Quand ? Avec qui ? Comment ? A droite et au centre, l'idée d'une primaire fait encore débat à six mois de la présidentielle",
-"link": "https://www.franceinfo.fr/elections/presidentielle/quand-avec-qui-comment-a-droite-et-au-centre-l-idee-d-une-primaire-fait-encore-debat-a-six-mois-de-la-presidentielle_8277515.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "L'idée, portée par l'ancien Premier ministre Gabriel Attal, séduit plusieurs de ses concurrents. Mais alors qu'Edouard Philippe refuse toujours d'y participer, les modalités d'un éventuel scrutin restent encore floues.",
-"source": "franceinfo",
-"date": "2026-11-12T05:04:08+00:00",
-"added": "2026-11-12T06:41:40+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "23d7256893db0d06",
-"title": "Présidentielle 2027 : suivez l'interview de Marine Tondelier, sixième des huit candidats interrogés dans le cadre de l'opération \"Nos services publics\"",
-"link": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-education-sante-transports-suivez-les-interviews-de-huit-candidats-dans-le-cadre-de-l-operation-nos-services-publics_8276135.html",
-"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
-"source": "franceinfo",
-"date": "2026-11-12T05:03:32+00:00",
-"added": "2026-11-12T15:45:42+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation",
-"Interview"
-],
-"speaker": "Marine Tondelier"
-},
-{
-"id": "5e755ccfce3110a2",
-"title": "« Véritable punition collective, le projet de loi “casseur-payeur” dissuadera de manifester et viendra museler l’expression de toute opposition au pouvoir »",
-"link": "https://www.lemonde.fr/idees/article/2026/11/12/veritable-punition-collective-le-projet-de-loi-casseur-payeur-dissuadera-de-manifester-et-viendra-museler-l-expression-de-toute-opposition-au-pouvoir_6809055_3232.html",
-"summary": "S’il était définitivement adopté, le texte inscrirait dans la loi le basculement de notre pays vers l’autoritarisme, s’alarment, dans une tribune au « Monde », les avocats du collectif Colère noire, aux côtés de personnalités, parmi lesquelles l’acteur Swann Arlaud, la politiste Vanessa Codaccioni et l’écrivaine Alice…",
-"source": "Le Monde",
-"date": "2026-11-12T05:00:33+00:00",
-"added": "2026-11-12T06:41:40+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "6d19893ab77dfec7",
-"title": "Éric Ciotti bientôt chargé du régalien dans la campagne de Marine Le Pen ?",
-"link": "https://www.latribune.fr/article/la-tribune-dimanche/politique/4368064673755514/eric-ciotti-bientot-charge-du-regalien-dans-la-campagne-de-marine-le-pen",
-"summary": "Éric Ciotti et Marine Le Pen au salon des équipements de défense navale à Villepinte, près de Paris, le 5 novembre 2026.",
-"source": "La Tribune",
-"date": "2026-11-12T05:00:02+00:00",
-"added": "2026-11-12T06:41:40+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "4133e4c85e97a768",
-"title": "«Edouard Philippe va être obligé de céder» : à droite, la question de la primaire devient centrale",
-"link": "https://www.liberation.fr/politique/edouard-philippe-va-etre-oblige-de-ceder-a-droite-la-question-de-la-primaire-devient-centrale-20261112_P5EEAIDSWVEKXASNXECZJBSBIA/",
-"summary": "A cinq mois du premier tour, Gabriel Attal et Bruno Retailleau tentent de contraindre le maire du Havre à une primaire de la droite et du centre.",
-"source": "Libération",
-"date": "2026-11-12T05:00:00+00:00",
-"added": "2026-11-12T06:41:40+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "8447534c49c8ec54",
-"title": "Le dessin du jeudi 11 novembre : le programme de Jean-Luc Mélenchon publié en librairie",
-"link": "https://www.sudouest.fr/redaction/le-dessin-du-jour/le-dessin-du-jeudi-11-novembre-le-programme-de-jean-luc-melenchon-publie-en-librairie-31486813.php",
-"summary": "",
-"source": "Sud Ouest",
-"date": "2026-11-12T05:00:00+00:00",
-"added": "2026-11-12T06:41:40+00:00",
-"official": false,
-"also": [
-"20 Minutes"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "3e0a9aedf53b3044",
-"title": "Présidentielle 2027 : et si Teddy Riner était le cheval de Troie d’Emmanuel Macron, façon ultime carte dans la manche…",
-"link": "https://www.midilibre.fr/2026/11/12/presidentielle-2027-et-si-teddy-riner-etait-le-cheval-de-troie-demmanuel-macron-facon-ultime-carte-dans-la-manche-13647652.php",
-"summary": "Le président de la République pourrait avoir une convergence d’intérêts avec le judoka désormais candidat. Faire en sorte, dans un coup de poker, d’évincer Jean-Luc Mélenchon du second tour.",
-"source": "Midi Libre",
-"date": "2026-11-12T05:00:00+00:00",
-"added": "2026-11-12T06:41:40+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"elysee",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "11009d2e07ef164b",
-"title": "Présidentielle 2027 : Sans être candidate à l’Élysée, Lagarde fait mieux que Philippe dans un sondage",
-"link": "https://www.20minutes.fr/politique/4262263-20261112-presidentielle-2027-etre-candidate-elysee-lagarde-fait-mieux-philippe-sondage?at_medium=display&at_campaign=149",
-"summary": "Après la dernière candidature en date, celle de Teddy Riner, la liste des prétendants à l’Élysée va-t-elle encore s’allonger ?",
-"source": "20 Minutes",
-"date": "2026-11-12T03:16:07+00:00",
-"added": "2026-11-12T06:41:40+00:00",
-"official": false,
-"also": [
-"Le HuffPost"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "a732b06a429cbe98",
-"title": "La hausse du smic mettra 164 branches professionnelles dans l’« illégalité », alerte la CGT",
-"link": "https://www.lemonde.fr/economie/article/2026/11/12/la-hausse-du-smic-mettra-164-branches-professionnelles-dans-l-illegalite-pointe-la-cgt_6809037_3234.html",
-"summary": "La revalorisation du salaire minimum, annoncée lundi par le gouvernement et prévue le 1ᵉʳ décembre, pourrait entraîner la non-conformité d’un grand nombre de branches qui se retrouveraient avec une rémunération de base située en dessous du smic, dénonce le syndicat.",
-"source": "Le Monde",
-"date": "2026-11-12T01:18:19+00:00",
-"added": "2026-11-12T06:41:40+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "f85d2bb680b6c980",
-"title": "Les minima sociaux réservés « aux plus méritants » ? Deux tiers des Français seraient pour, affirme un sondage",
-"link": "https://www.leparisien.fr/societe/les-minima-sociaux-reserves-aux-plus-meritants-deux-tiers-des-francais-seraient-pour-affirme-un-sondage-12-11-2026-6RITFRLJOZB4ZFQWQJXPNI6SJ4.php",
-"summary": "",
-"source": "Le Parisien",
-"date": "2026-11-12T00:32:00+00:00",
-"added": "2026-11-12T11:45:15+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": ""
-},
-{
-"id": "272b3a9682708db5",
-"title": "« Nous sommes de nouveau sur la pente de la guerre ! » Jean-Luc Mélenchon déroule en Creuse le volet international de son programme 2027",
-"link": "https://www.lamontagne.fr/souterraine-23300/actualites/nous-sommes-de-nouveau-sur-la-pente-de-la-guerre-jean-luc-melenchon-deroule-en-creuse-le-volet-international-de-son-programme-2027_15080121/",
-"summary": "Jusqu’à 1.500 euros d’amende : 657 communes de France interdisent désormais les feux de cheminée, êtes-vous concerné ?",
-"source": "La Montagne",
-"date": "2026-11-11T22:07:00+00:00",
-"added": "2026-11-12T06:41:40+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "db7d53b1144dbb47",
-"title": "FORUM BFMTV - Pierre-Henri Dumont, porte-parole de Bruno Retailleau, affirme “qu’il y a une angoisse” autour de Parcoursup",
-"link": "https://www.bfmtv.com/politique/video-forum-bfmtv-pierre-henri-dumont-porte-parole-de-bruno-retailleau-affirme-qu-il-y-a-une-angoisse-autour-de-parcoursup_VN-202611110816.html",
-"summary": "VIDÉO - BFMTV propose un nouveau numéro du FORUM BFMTV: “Manifs : face aux violences, comment stopper l’engrenage ?“.",
-"source": "BFMTV",
-"date": "2026-11-11T21:55:29+00:00",
-"added": "2026-11-11T21:59:59+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Pierre-Henri Dumont"
-},
-{
-"id": "799c56dc588c5dba",
-"title": "FORUM BFMTV - Mouvement lycéen: \"J'ai des établissements où il n'y a pas de prof de français depuis la rentrée\", témoigne Sabrina Sebaihi, députée \"Écologiste et social\" des Hauts-de-Seine",
-"link": "https://www.bfmtv.com/politique/video-forum-bfmtv-mouvement-lyceen-j-ai-des-etablissements-ou-il-n-y-a-pas-de-prof-de-francais-depuis-la-rentree-temoigne-sabrina-sebaihi-deputee-ecologiste-et-social-des-hauts-de-seine_VN-202611110812.html",
-"summary": "BFMTV propose un nouveau numéro du FORUM BFMTV: “Manifs : face aux violences, comment stopper l’engrenage ?“. La chaîne propose une soirée spéciale pour permettre de débattre en direct des sujets au cœur des préoccupations des Français tels que le pouvoir d’achat et la colère sociale.",
-"source": "BFMTV",
-"date": "2026-11-11T21:38:51+00:00",
-"added": "2026-11-12T06:41:40+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "456b9f9957bac5e9",
-"title": "«Pour que Jean-Luc Mélenchon qualifie Teddy Riner de \"mec de droite\", c'est qu'il sent le danger», estime le député Modem Richard Ramos",
-"link": "https://www.cnews.fr/france/2026-11-11/pour-que-jean-luc-melenchon-qualifie-teddy-riner-de-mec-de-droite-cest-quil-sent",
-"summary": "",
-"source": "CNews",
-"date": "2026-11-11T21:32:00+00:00",
-"added": "2026-11-11T21:59:59+00:00",
-"official": false,
-"also": [
-"BFMTV",
-"La Montagne"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"parlement",
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Richard Ramos"
 }
 ]
