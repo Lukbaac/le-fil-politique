@@ -1,5 +1,67 @@
 [
 {
+"id": "c54de058ed1226ed",
+"title": "Les candidats à la présidentielle qui veulent baisser l'aide financière à l'Ukraine \"jouent contre nous\", affirme l'entourage d'Emmanuel Macron",
+"link": "https://www.franceinfo.fr/politique/emmanuel-macron/le-president-veut-maintenir-l-ukraine-en-situation-de-donner-des-coups-alors-que-les-americains-s-occupent-de-l-enfoncer-affirme-l-entourage-d-emmanuel-macron_8283194.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "Le chef de l'Etat dénonce des \"candidats qui passent leur temps à vomir les Européens, à dénoncer les Ukrainiens\", a déclaré l'entourage d'Emmanuel Macron à France Inter.",
+"source": "franceinfo",
+"date": "2026-11-15T07:39:30+00:00",
+"added": "2026-11-15T07:49:55+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": ""
+},
+{
+"id": "dcd57414fb4feb56",
+"title": "Le Dimanche c'est Jeudy : Nouveau sondage présidentiel, Marine Le Pen en tête des intentions de vote - 15/11",
+"link": "https://rmc.bfmtv.com/replay-emissions/la-matinale-week-end/le-dimanche-c-est-jeudy-nouveau-sondage-presidentiel-marine-le-pen-en-tete-des-intentions-de-vote-15-11_EN-202611150117.html",
+"summary": "",
+"source": "RMC",
+"date": "2026-11-15T07:25:48+00:00",
+"added": "2026-11-15T07:49:55+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "34a2f5b626299cdd",
+"title": "Décider soi-même d'être en arrêt maladie: la proposition de Mélenchon fait hurler ses opposants, pourtant au Royaume-Uni c'est possible depuis 44 ans... grâce à Margaret Thatcher",
+"link": "https://www.bfmtv.com/economie/economie-social/decider-soi-meme-d-etre-en-arret-maladie-la-proposition-de-melenchon-fait-hurler-ses-opposants-pourtant-au-royaume-uni-c-est-possible-depuis-44-ans-grace-a-margaret-thatcher_AV-202611150054.html",
+"summary": "Une simple petite phrase dans le vaste programme de La France insoumise (LFI) a mis le feu aux poudres: \"Garantir le droit à l’arrêt maladie par l’indemnisation à 100 % du salaire, la suppression des jours de carence et l’auto-déclaration pour les arrêts de courte durée\".",
+"source": "BFMTV",
+"date": "2026-11-15T06:59:00+00:00",
+"added": "2026-11-15T07:49:55+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": "Jean-Luc Mélenchon"
+},
+{
 "id": "30c0651048fdaa70",
 "title": "\"Il faut faire campagne sur les deux bords\" : coincé entre deux lignes, Raphaël Glucksmann sur la ligne de crête",
 "link": "https://www.lexpress.fr/politique/il-faut-faire-campagne-sur-les-deux-bords-coince-entre-deux-lignes-raphael-glucksmann-sur-la-ligne-UPHEPC52SFEKBAYX72Y4D7PBEA/",
@@ -33,6 +95,26 @@
 "filtered": true,
 "topics": [
 "partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "e77fbf3ff3994e6f",
+"title": "Les quatre tendances visibles dans notre compilateur de sondages pour 2027, à cinq mois du premier tour",
+"link": "https://www.huffingtonpost.fr/politique/article/tous-les-sondages-de-la-presidentielle-2027-agreges-dans-notre-compilateur-qui-fait-ressortir-quatre-tendances_357359.html",
+"summary": "Le trublion a fait une entrée remarquée dans la course. Mais cinq jours après que Teddy Riner a rejoint la trentaine de candidats à l’élection présidentielle, il est encore trop tôt pour savoir si le quintuple champion olympique de judo arrivera à renverser les équilibres.",
+"source": "Le HuffPost",
+"date": "2026-11-15T06:15:06+00:00",
+"added": "2026-11-15T07:49:55+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
 ],
 "natures": [],
 "speaker": ""
@@ -107,7 +189,9 @@
 "date": "2026-11-15T05:30:00+00:00",
 "added": "2026-11-15T06:34:08+00:00",
 "official": false,
-"also": [],
+"also": [
+"20 Minutes"
+],
 "base": [
 "parlement"
 ],
@@ -388,7 +472,8 @@
 "added": "2026-11-14T21:25:05+00:00",
 "official": false,
 "also": [
-"BFMTV"
+"BFMTV",
+"Libération"
 ],
 "base": [],
 "filtered": true,
@@ -752,7 +837,9 @@
 "added": "2026-11-14T19:31:12+00:00",
 "official": false,
 "also": [
-"Le Figaro"
+"Le Figaro",
+"RTL",
+"Midi Libre"
 ],
 "base": [
 "partis"
@@ -11047,321 +11134,5 @@
 "Réaction"
 ],
 "speaker": "Andrea Kotarac"
-},
-{
-"id": "ae309bd435908432",
-"title": "«Jean-Luc Mélenchon a une vision colonialiste de la politique», a dénoncé Karim Bouamrane",
-"link": "https://www.cnews.fr/france/2026-11-12/jean-luc-melenchon-une-vision-colonialiste-de-la-politique-denonce-karim",
-"summary": "«Jean-Luc Mélenchon a une vision colonialiste de la politique», a dénoncé Karim Bouamrane, maire de Saint-Ouen (PS) et candidat à l'élection présidentielle, interrogé sur la candidature de Teddy Riner pour 2027, ce jeudi dans La Grande Interview.",
-"source": "CNews",
-"date": "2026-11-12T07:46:32+00:00",
-"added": "2026-11-12T09:45:12+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"partis",
-"presidentielle"
-],
-"natures": [
-"Réaction"
-],
-"speaker": ""
-},
-{
-"id": "e8f4af6a873e25e0",
-"title": "Mouvement des lycéens : «La France insoumise attise l'anxiété des jeunes», estime Karim Bouamrane",
-"link": "https://www.europe1.fr/politique/mouvement-des-lyceens-la-france-insoumise-attise-lanxiete-des-jeunes-estime-karim-bouamrane-1227320",
-"summary": "Le maire de Saint-Ouen et candidat à l'élection présidentielle Karim Bouamrane était l'invité de La Grande interview Europe 1-CNews ce jeudi matin.",
-"source": "Europe 1",
-"date": "2026-11-12T07:46:00+00:00",
-"added": "2026-11-12T09:45:12+00:00",
-"official": false,
-"also": [],
-"base": [
-"matinales"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Karim Bouamrane"
-},
-{
-"id": "d234da9efe40dbf0",
-"title": "Présidentielle 2027. L’incertitude politique paralyse les projets des entreprises",
-"link": "https://www.ouest-france.fr/elections/presidentielle/presidentielle-2027-lincertitude-politique-paralyse-les-projets-des-entreprises-425f2102-de69-11f1-a62b-776e3051b0df",
-"summary": "",
-"source": "Ouest-France",
-"date": "2026-11-12T07:33:47+00:00",
-"added": "2026-11-12T11:45:15+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "583b6470db957a24",
-"title": "présidentielle 2027 | Suivez le grand oral de huit candidats sur les services publics : Gabriel Attal se redit « favorable » à une primaire du centre et de la droite",
-"link": "https://www.lemonde.fr/politique/live/2026/11/12/en-direct-presidentielle-2027-suivez-le-grand-oral-de-huit-candidats-sur-les-services-publics_6809070_823448.html",
-"summary": "Raphaël Glucksmann, Edouard Philippe, Jean-Luc Mélenchon, Fabien Roussel, Marine Tondelier, Bruno Retailleau et Eric Zemmour seront aussi interrogés jeudi sur les services publics, de l’éducation à la sécurité.",
-"source": "Le Monde",
-"date": "2026-11-12T07:31:15+00:00",
-"added": "2026-11-12T09:45:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Gabriel Attal"
-},
-{
-"id": "d76aca9396068762",
-"title": "« Tout le monde est sidéré » : l’Élysée en colère contre France Télévisions",
-"link": "https://www.lepoint.fr/politique/tout-le-monde-est-sidere-lelysee-en-colere-contre-france-televisions-FAJKZF4G55ATRFUAYCIFNHFOZQ/",
-"summary": "",
-"source": "Le Point",
-"date": "2026-11-12T07:30:00+00:00",
-"added": "2026-11-12T07:58:51+00:00",
-"official": false,
-"also": [],
-"base": [
-"elysee"
-],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "0da92bf340e86d10",
-"title": "Derrière l’évitement fiscal des plus riches, un manque de patriotisme qui confine au séparatisme",
-"link": "https://www.liberation.fr/politique/derriere-levitement-fiscal-des-plus-riches-un-manque-de-patriotisme-qui-confine-au-separatisme-20261112_G2MKVPJY3NFANILBI2LLEZZIMI/",
-"summary": "Selon une étude de Bercy, les 0,1 % de Français les plus riches sont parvenus à réduire leur contribution à l’impôt sur le revenu de 9,4 % en 2025, quand les classes moyennes et supérieures voyaient leur contribution progresser.",
-"source": "Libération",
-"date": "2026-11-12T07:16:34+00:00",
-"added": "2026-11-12T07:58:51+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "5d5decca3fc6b43f",
-"title": "Mélenchon propose des arrêts maladie autodéclarés, ça existe ailleurs ?",
-"link": "https://www.20minutes.fr/sante/4261712-20261112-melenchon-propose-arrets-maladie-autodeclares-comment-ca-passe-etranger-absenteisme-augmente",
-"summary": "Et si au lieu de passer une demi-heure à scroller sur Doctolib pour trouver un médecin disponible, puis de traverser la ville, fébrile et fiévreux, avant de partager vos miasmes avec des personnes porteuses d’autres virus dans une salle d’attente aux fenêtres closes, vous pouviez simplement déclarer votre arrêt…",
-"source": "20 Minutes",
-"date": "2026-11-12T07:02:00+00:00",
-"added": "2026-11-12T07:58:51+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Annonce"
-],
-"speaker": "Jean-Luc Mélenchon"
-},
-{
-"id": "97a47c859caaf16c",
-"title": "Jean-Luc Mélenchon : jour de campagne dans la Creuse, si loin de la ruralité",
-"link": "https://www.lepoint.fr/politique/jean-luc-melenchon-jour-de-campagne-dans-la-creuse-si-loin-de-la-ruralite-DQQUPE4PTZE5HC5U3TVT2UJOQY/",
-"summary": "",
-"source": "Le Point",
-"date": "2026-11-12T07:00:58+00:00",
-"added": "2026-11-12T07:58:51+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "190fc9f315967b85",
-"title": "SONDAGE Présidentielle 2027 : Jean-Luc Mélenchon au-dessus des 20 % et Christine Lagarde mieux placée qu’Edouard Philippe selon cette dernière étude",
-"link": "https://www.midilibre.fr/2026/11/12/sondage-presidentielle-2027-jean-luc-melenchon-au-dessus-des-20-et-christine-lagarde-mieux-placee-quedouard-philippe-selon-cette-derniere-etude-13648428.php",
-"summary": "Christine Lagarde, présidente démissionnaire de la BCE, devance Édouard Philippe avec 14 % des intentions de vote dans un sondage publié le 11 novembre 2026, si elle se présente à la présidentielle.",
-"source": "Midi Libre",
-"date": "2026-11-12T06:56:00+00:00",
-"added": "2026-11-12T07:58:51+00:00",
-"official": false,
-"also": [
-"Le Parisien"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "999cf6e34f43fd0d",
-"title": "L'invité d'Apolline Matin : Crise sociale, augmentation du Smic… Le ministre du Travail est l’invité de RMC - 12/11",
-"link": "https://rmc.bfmtv.com/replay-emissions/apolline-matin/video-l-invite-d-apolline-matin-crise-sociale-augmentation-du-smic-le-ministre-du-travail-est-l-invite-de-rmc-12-11_VN-202611120235.html",
-"summary": "VIDÉO - Tous les matins à 7h42, l'invité qui fait l'actualité. Un acteur incontournable, un expert renseigné... 10 minutes d'interview sans concession avec Apolline de Malherbe et les témoignages des auditeurs de RMC au 3216.",
-"source": "RMC",
-"date": "2026-11-12T06:53:41+00:00",
-"added": "2026-11-12T07:58:51+00:00",
-"official": false,
-"also": [],
-"base": [
-"matinales"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"gouvernement"
-],
-"natures": [
-"Interview"
-],
-"speaker": ""
-},
-{
-"id": "4fd87f5d72916b7d",
-"title": "Primaire à droite : une première réunion calée entre les directeurs de campagne d’Attal, Retailleau et Lisnard",
-"link": "https://www.liberation.fr/politique/primaire-a-droite-une-premiere-reunion-calee-entre-les-directeurs-de-campagne-dattal-retailleau-et-lisnard-20261112_RXXYY5OVEFDORMLS6V7VU73POU/",
-"summary": "Les entourages des candidats de droite à la présidentielle se sont mis d’accord pour se voir mardi 17 novembre et évoquer les modalités techniques du scrutin...",
-"source": "Libération",
-"date": "2026-11-12T06:51:02+00:00",
-"added": "2026-11-12T07:58:51+00:00",
-"official": false,
-"also": [
-"BFMTV",
-"RMC"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "30d748df5ee6d14e",
-"title": "Ils se sont effondrés : deux membres de la garde d’honneur d’Emmanuel Macron victimes d’un malaise lors d’une rencontre diplomatique à l’Élysée",
-"link": "https://www.midilibre.fr/2026/11/12/ils-se-sont-effondres-deux-membres-de-la-garde-dhonneur-demmanuel-macron-victimes-dun-malaise-lors-dune-rencontre-diplomatique-a-lelysee-13648424.php",
-"summary": "Deux membres de la garde d’honneur se sont effondrés devant l’Élysée, mercredi 11 novembre à l’occasion de la venue du président slovaque Peter Pellegrini.",
-"source": "Midi Libre",
-"date": "2026-11-12T06:50:00+00:00",
-"added": "2026-11-12T07:58:51+00:00",
-"official": false,
-"also": [],
-"base": [
-"elysee"
-],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "02ec01ac3551469e",
-"title": "Colère lycéenne: pourquoi le ministre de l'Éducation nationale a annoncé \"10 à 20\" fermetures préventives le 10 novembre alors qu'on en a dénombré une centaine?",
-"link": "https://rmc.bfmtv.com/replay-emissions/apolline-matin/video-colere-lyceenne-pourquoi-le-ministre-de-l-education-nationale-a-annonce-10-a-20-fermetures-preventives-le-10-novembre-alors-qu-on-en-a-denombre-une-centaine_VN-202611120226.html",
-"summary": "VIDÉO - Après 4 semaines d'audience, les réquisitions sont tombées, hier, à Aix-en-Provence, dans le procès du triple meurtre sous fond de narcotrafic, dont l'une des victimes est le frère d'Amine Kessaci.",
-"source": "RMC",
-"date": "2026-11-12T06:47:02+00:00",
-"added": "2026-11-12T07:58:51+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [
-"Annonce"
-],
-"speaker": ""
-},
-{
-"id": "1e841eb8020d1f1a",
-"title": "Deux membres de la garde républicaine s'effondrent près d'Emmanuel Macron dans la cour de l'Élysée",
-"link": "https://www.bfmtv.com/politique/elysee/deux-membres-de-la-garde-republicaine-s-effondrent-pres-d-emmanuel-macron-dans-la-cour-de-l-elysee_AV-202611120206.html",
-"summary": "Deux gardes républicains se sont effondrés sur le parvis de l'Élysée lors de la cérémonie d'accueil du président slovaque Peter Pellegrini ce mercredi 11 novembre, à deux pas d'Emmanuel Macron.",
-"source": "BFMTV",
-"date": "2026-11-12T06:36:39+00:00",
-"added": "2026-11-12T06:41:40+00:00",
-"official": false,
-"also": [
-"RTL",
-"Le HuffPost",
-"Le Figaro",
-"Euronews"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "ee72da9eafe71245",
-"title": "Edouard Philippe passe-t-il à côté de sa campagne ? Nos journalistes répondent dans «Chez Pol, l’émission»",
-"link": "https://www.liberation.fr/politique/elections/edouard-philippe-passe-t-il-a-cote-de-sa-campagne-nos-journalistes-repondent-dans-chez-pol-lemission-20261112_WHIPEBCP6FEFFLNOEZ3MNTQLDA/",
-"summary": "En direct sur Twitch et YouTube avec les journalistes politiques de «Libération», on se penche sur le cas d’Edouard Philippe qui dévisse dans les sondages.",
-"source": "Libération",
-"date": "2026-11-12T06:35:40+00:00",
-"added": "2026-11-12T06:41:40+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
 }
 ]
