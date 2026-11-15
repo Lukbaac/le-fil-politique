@@ -1,5 +1,478 @@
 [
 {
+"id": "67be69494f3e58cb",
+"title": "Sandrine Rousseau, députée Les Écologistes, s'exprime sur le risque d'attentat d'extrême droite",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-sandrine-rousseau-deputee-les-ecologistes-s-exprime-sur-le-risque-d-attentat-d-extreme-droite_VN-202611150256.html",
+"summary": "La députée Les Écologistes de Paris Sandrine Rousseau était l'invitée de BFM Politique sur BFMTV ce dimanche 15 novembre 2026.",
+"source": "BFMTV",
+"date": "2026-11-15T13:29:29+00:00",
+"added": "2026-11-15T13:41:12+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"parlement",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "ca068cce95ad6d61",
+"title": "Yannick Jadot",
+"link": "https://www.bfmtv.com/politique/yannick-jadot_DN-201701010045.html",
+"summary": "Candidat de Europe - Ecologie - Les Verts, Yannick Jadot est député européen. Il a été désigné candidat à l'issue d'une primaire ouverte face à Sandrine Rousseau, en vue de l'élection présidentielle de 2022.",
+"source": "BFMTV",
+"date": "2026-11-15T13:28:04+00:00",
+"added": "2026-11-15T13:41:12+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "7f52956d0aa53e98",
+"title": "Présidentielle: Sandrine Rousseau appelle les Écologistes “à rejoindre la dynamique de Jean-Luc Mélenchon” et Marine Tondelier à se retirer",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/presidentielle-sandrine-rousseau-appelle-les-ecologistes-a-rejoindre-la-dynamique-de-jean-luc-melenchon-et-marine-tondelier-a-se-retirer_AV-202611150255.html",
+"summary": "Sandrine Rousseau, députée écologiste de Paris, a réitéré ce dimanche sur BFMTV un appel à son parti à \"rejoindre la dynamique de Jean-Luc Mélenchon\", et invité Marine Tondelier à retirer sa candidature à la présidentielle.",
+"source": "BFMTV",
+"date": "2026-11-15T13:28:03+00:00",
+"added": "2026-11-15T13:41:12+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Sandrine Rousseau"
+},
+{
+"id": "747e9ac1f6550175",
+"title": "Guerre en Ukraine : Emmanuel Macron s’en prend « à ceux qui veulent rationner les moyens » de Kiev ; Marine Le Pen le renvoie à « sa propre turpitude »",
+"link": "https://www.lemonde.fr/international/article/2026/11/15/guerre-en-ukraine-emmanuel-macron-s-en-prend-a-ceux-qui-veulent-rationner-les-moyens-de-kiev-marine-le-pen-le-renvoie-a-sa-propre-turpitude_6811019_3210.html",
+"summary": "Le chef de l’Etat ne cite pas Marine Le Pen, mais la candidate du RN a déjà annoncé que, si elle était élue, elle couperait l’aide financière à l’Ukraine après une période de six mois.",
+"source": "Le Monde",
+"date": "2026-11-15T13:22:32+00:00",
+"added": "2026-11-15T13:41:12+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "c1e3e3da038a1307",
+"title": "Présidentielle 2027 : 40 déclarations des candidats et de leurs soutiens passées au crible",
+"link": "https://www.lemonde.fr/les-decodeurs/article/2026/11/15/presidentielle-2027-40-declarations-des-candidats-et-de-leurs-soutiens-passees-au-crible_6811018_4355770.html",
+"summary": "Les Décodeurs du « Monde » confrontent, dans cette base de données évolutive, les arguments des politiques aux données indépendantes disponibles.",
+"source": "Le Monde",
+"date": "2026-11-15T13:19:59+00:00",
+"added": "2026-11-15T13:41:12+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "d8c83a4f96f123fe",
+"title": "Présidentielle 2027 : son avis sur la primaire, David Lisnard, Sarah Knafo... Nicolas Sarkozy descend dans l’arène",
+"link": "https://www.valeursactuelles.com/politique/presidentielle-2027-son-avis-sur-la-primaire-david-lisnard-sarah-knafo-nicolas-sarkozy-descend-dans-larene",
+"summary": "« Je soutiendrai au premier tour celui qui, au sein de la droite et du centre, aura réussi à rassembler le plus largement. »",
+"source": "Valeurs actuelles",
+"date": "2026-11-15T13:03:22+00:00",
+"added": "2026-11-15T13:41:12+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "3ac30cab2b35b1d2",
+"title": "Avec Kiev, Marine Le Pen marche sur des œufs",
+"link": "https://www.lopinion.fr/politique/avec-kiev-marine-le-pen-marche-sur-des-%C5%93ufs",
+"summary": "Selon un sondage de Destin Commun paru en novembre, réalisé en juillet, 56 % des sympathisants RN ne souhaitent pas que la France poursuive son soutien à l’Ukraine si les Etats-Unis y mettent fin (+ 21 points en un an et demi).",
+"source": "L'Opinion",
+"date": "2026-11-15T13:00:00+00:00",
+"added": "2026-11-15T13:41:12+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "32be3bd5901a1957",
+"title": "Des militants du Rassemblement national et de La Cocarde agressés par une quinzaine d'individus masqués dans un bar de Marseille",
+"link": "https://www.bfmtv.com/marseille/des-militants-du-rassemblement-national-et-de-la-cocarde-agresses-par-une-quinzaine-d-individus-masques-dans-un-bar-de-marseille_AN-202611150242.html",
+"summary": "Ce samedi 14 novembre peu avant 22h, à Marseille, une quinzaine d'individus masqués s'en sont pris à des militants du Rassemblement national et du syndicat étudiant d'extrême droite La Cocarde, a appris BFMTV de sources policières à BFMTV, confirmant une information du Parisien.",
+"source": "BFMTV",
+"date": "2026-11-15T12:55:47+00:00",
+"added": "2026-11-15T13:41:12+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "17ab385268bccb11",
+"title": "Engagement politique, violences, présidentielle... L'interview de l'avocat Thibault de Montbrial",
+"link": "https://www.bfmtv.com/politique/la-france-insoumise/video-engagement-politique-violences-presidentielle-l-interview-de-l-avocat-thibault-de-montbrial_VN-202611150233.html",
+"summary": "Thibault de Montbrial, avocat spécialisé dans la défense des policiers, président du Centre de Réflexion sur la Sécurité Intérieure, est l'invité de BFM Politique sur BFMTV ce dimanche 15 novembre.",
+"source": "BFMTV",
+"date": "2026-11-15T12:22:27+00:00",
+"added": "2026-11-15T13:41:12+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"presidentielle"
+],
+"natures": [
+"Interview"
+],
+"speaker": ""
+},
+{
+"id": "7b4d450f06b8c8af",
+"title": "Thibault de Montbrial, avocat spécialisé dans la défense des policiers: \"La violence vient beaucoup plus de l'ultragauche que de l'ultradroite\"",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-thibault-de-montbrial-avocat-specialise-dans-la-defense-des-policiers-la-violence-vient-beaucoup-plus-de-l-ultragauche-que-de-l-ultradroite_VN-202611150229.html",
+"summary": "Thibault de Montbrial, avocat spécialisé dans la défense des policiers, président du Centre de Réflexion sur la Sécurité Intérieure, était l’invité de BFM Politique.",
+"source": "BFMTV",
+"date": "2026-11-15T12:07:35+00:00",
+"added": "2026-11-15T13:41:12+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "aa0c82e9ab34df7c",
+"title": "Financement de l’Ukraine face à la Russie : Macron passe à l’offensive contre Le Pen",
+"link": "https://www.liberation.fr/politique/elections/financement-de-lukraine-face-a-la-russie-macron-passe-a-loffensive-contre-le-pen-20261115_4IJNNIIM6RHYZF6KPF3LVARDQE/",
+"summary": "La candidate du Rassemblement national, qui a proposé vendredi de rencontrer Volodymyr Zelensky, entend couper les aides au pays si elle accède à l’Elysée.",
+"source": "Libération",
+"date": "2026-11-15T12:06:42+00:00",
+"added": "2026-11-15T13:41:12+00:00",
+"official": false,
+"also": [
+"France 24"
+],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "801fa8e56c55b7c4",
+"title": "Présidentielle 2027 : David Lisnard s’invite sur le podium et bouscule la droite, selon un sondage",
+"link": "https://www.valeursactuelles.com/politique/presidentielle-2027-david-lisnard-sinvite-sur-le-podium-et-bouscule-la-droite-selon-un-sondage",
+"summary": "Quatre points gagnés et une place sur le podium. David Lisnard a de quoi savourer la livraison de novembre du baromètre Ipsos bva-CESI pour La Tribune Dimanche, publiée le 14 novembre.",
+"source": "Valeurs actuelles",
+"date": "2026-11-15T12:06:24+00:00",
+"added": "2026-11-15T13:41:12+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [
+"Interview"
+],
+"speaker": ""
+},
+{
+"id": "49e1bd9eee6d6477",
+"title": "Candidature de Teddy Riner : \"Ça conforte l'idée que nos compatriotes aujourd'hui n'ont plus une confiance naturelle dans la classe politique\", déclare l'avocat Thibault de Montbrial",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-candidature-de-teddy-riner-ca-conforte-l-idee-que-nos-compatriotes-aujourd-hui-n-ont-plus-une-confiance-naturelle-dans-la-classe-politique-declare-l-avocat-thibault-de-montbrial_VN-202611150228.html",
+"summary": "Thibault de Montbrial, avocat spécialisé dans la défense des policiers, président du Centre de Réflexion sur la Sécurité Intérieure, est l'invité de BFM Politique sur BFMTV ce 15 novembre 2026.",
+"source": "BFMTV",
+"date": "2026-11-15T12:05:38+00:00",
+"added": "2026-11-15T13:41:12+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Candidature de Teddy Riner"
+},
+{
+"id": "1f810f13448ef739",
+"title": "Personnalités listées par le suspect de l'attentat de Trappes: Sandrine Rousseau estime que \"la menace venant de l'extrême droite est sous-estimée par le ministère de l'Intérieur\"",
+"link": "https://www.bfmtv.com/politique/europe-ecologie-les-verts/personnalites-listees-par-le-suspect-de-l-attentat-de-trappes-sandrine-rousseau-estime-que-la-menace-venant-de-l-extreme-droite-est-sous-estimee-par-le-ministere-de-l-interieur_AV-202611150226.html",
+"summary": "Invitée de BFM Politique ce dimanche, la députée écologiste Sandrine Rousseau a accusé le ministère de l'Intérieur de ne pas suffisamment prendre au sérieux \"la menace venant de l'extrême droite\".",
+"source": "BFMTV",
+"date": "2026-11-15T12:05:07+00:00",
+"added": "2026-11-15T13:41:12+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"gouvernement",
+"parlement"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Sandrine Rousseau"
+},
+{
+"id": "54e6f5cc2546718e",
+"title": "Heurts en marge des manifestations: Thibault de Montbrial, avocat spécialisé dans la défense des policiers, appelle à \"réprimer plus durement les émeutiers\"",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-heurts-en-marge-des-manifestations-thibault-de-montbrial-avocat-specialise-dans-la-defense-des-policiers-appelle-a-reprimer-plus-durement-les-emeutiers_VN-202611150227.html",
+"summary": "Thibault de Montbrial, avocat spécialisé dans la défense des policiers, président du Centre de Réflexion sur la Sécurité Intérieure, était l’invité de BFM Politique.",
+"source": "BFMTV",
+"date": "2026-11-15T12:04:12+00:00",
+"added": "2026-11-15T13:41:12+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Thibault de Montbrial"
+},
+{
+"id": "7a1c5d909fd8336e",
+"title": "Thibault de Montbrial, avocat : \"Je pense qu'on peut avoir une crise de régime avant l'élection présidentielle\"",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-thibault-de-montbrial-avocat-je-pense-qu-on-peut-avoir-une-crise-de-regime-avant-l-election-presidentielle_VN-202611150224.html",
+"summary": "Thibault de Montbrial, avocat spécialisé dans la défense des policiers, président du Centre de Réflexion sur la Sécurité Intérieure, était l’invité de BFM Politique.",
+"source": "BFMTV",
+"date": "2026-11-15T12:02:25+00:00",
+"added": "2026-11-15T13:41:12+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "c0dc927aa5cd5c0e",
+"title": "Présidentielle 2027 : feu de paille ou véritable tournant, ce qu’il faut attendre de la candidature de Teddy Riner",
+"link": "https://www.midilibre.fr/2026/11/15/presidentielle-2027-feu-de-paille-ou-veritable-tournant-ce-quil-faut-attendre-de-la-candidature-de-teddy-riner-13651339.php",
+"summary": "Candidature de témoignage ou aspiration solide, sérieuse et crédible ? En tout cas, son annonce a suscité un fort intérêt médiatique doublé d’un émoi certain dans la sphère politique.",
+"source": "Midi Libre",
+"date": "2026-11-15T12:02:00+00:00",
+"added": "2026-11-15T13:41:12+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "92e636ba9dc17d04",
+"title": "\"Je ne supporte pas de voir ce pays s'effondrer\", Thibault de Montbrial, avocat spécialisé dans la défense des policiers, veut se lancer dans le débat public",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-je-ne-supporte-pas-de-voir-ce-pays-s-effondrer-thibault-de-montbrial-avocat-specialise-dans-la-defense-des-policiers-veut-se-lancer-dans-le-debat-public_VN-202611150219.html",
+"summary": "Thibault de Montbrial, avocat spécialisé dans la défense des policiers, président du Centre de Réflexion sur la Sécurité Intérieure, est l'invité de BFM Politique sur BFMTV ce 15 novembre 2026.",
+"source": "BFMTV",
+"date": "2026-11-15T11:58:00+00:00",
+"added": "2026-11-15T13:41:12+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Thibault de Montbrial"
+},
+{
+"id": "594e55ba082352e5",
+"title": "Présidentielle: “Si le bloc central ne voit pas la différence entre les deux, ce sera l’heure de vérité”, estime Sandrine Rousseau, députée Les Écologistes, sur l’hypothèse d’un second tour entre Jean-Luc Mélenchon et Marine Le Pen",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-si-le-bloc-central-ne-voit-pas-la-difference-entre-les-deux-ce-sera-l-heure-de-verite-estime-sandrine-rousseau-deputee-les-ecologistes-sur-l-hypothese-d-un-second-tour-entre-jean-luc-melenchon-et-marine-le-pen_VN-202611150217.html",
+"summary": "VIDÉO - Sandrine Rousseau, députée Les Écologistes de Paris, était l’invitée de BFM Politique.",
+"source": "BFMTV",
+"date": "2026-11-15T11:55:29+00:00",
+"added": "2026-11-15T13:41:12+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"parlement",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Sandrine Rousseau"
+},
+{
+"id": "b96e28ccd8e1dcac",
+"title": "\"Une candidature dangereuse si elle se maintient\": Sandrine Rousseau, députée Les Écologistes de Paris, affirme qu'elle ne donnera pas son parrainage à Marine Tondelier, candidate Les Écologistes",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-une-candidature-dangereuse-si-elle-se-maintient-sandrine-rousseau-deputee-les-ecologistes-de-paris-affirme-qu-elle-ne-donnera-pas-son-parrainage-a-marine-tondelier-candidate-les-ecologistes_VN-202611150216.html",
+"summary": "VIDÉO - Sandrine Rousseau, députée Les Écologistes de Paris, était l’invitée de BFM Politique.",
+"source": "BFMTV",
+"date": "2026-11-15T11:50:48+00:00",
+"added": "2026-11-15T13:41:12+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"parlement",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Sandrine Rousseau"
+},
+{
+"id": "3609bf8ad2267c48",
+"title": "Attentat raciste de Trappes : Sandrine Rousseau, députée Les Écologistes de Paris, dénonce une \"menace structurelle et systémique\"",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-attentat-raciste-de-trappes-sandrine-rousseau-deputee-les-ecologistes-de-paris-denonce-une-menace-structurelle-et-systemique_VN-202611150214.html",
+"summary": "La députée Les Écologistes de Paris Sandrine Rousseau est l'invité de BFM Politique sur BFMTV ce dimanche 15 novembre 2026.",
+"source": "BFMTV",
+"date": "2026-11-15T11:44:15+00:00",
+"added": "2026-11-15T13:41:12+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"parlement",
+"partis"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "Sandrine Rousseau"
+},
+{
+"id": "04e4b945dfe0abd6",
+"title": "Changer de culture institutionnelle pour retrouver le sens de la responsabilité, par Benoît Payan",
+"link": "https://www.liberation.fr/idees-et-debats/tribunes/seule-une-politique-de-coalitions-et-de-compromis-nous-sortira-de-limpasse-democratique-par-benoit-payan-20261115_UFXKA2NM4ZEQZPRFCN2N23S3YE/",
+"summary": "Recherche du compromis, instauration de la proportionnelle, meilleure représentation des collectivités locales au Sénat…",
+"source": "Libération",
+"date": "2026-11-15T11:34:41+00:00",
+"added": "2026-11-15T13:41:12+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "7b480942b218c271",
+"title": "Hausse du Smic : Sandrine Rousseau, députée Les Écologistes de Paris, juge l’augmentation de 1.6% annoncée \"n'est pas à la hauteur des enjeux\"",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-hausse-du-smic-sandrine-rousseau-deputee-les-ecologistes-de-paris-juge-l-augmentation-de-1-6-annoncee-n-est-pas-a-la-hauteur-des-enjeux_VN-202611150210.html",
+"summary": "VIDÉO - Sandrine Rousseau, députée Les Écologistes de Paris, était l’invitée de BFM Politique.",
+"source": "BFMTV",
+"date": "2026-11-15T11:31:40+00:00",
+"added": "2026-11-15T13:41:12+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"parlement",
+"partis"
+],
+"natures": [
+"Citation",
+"Annonce"
+],
+"speaker": "Sandrine Rousseau"
+},
+{
 "id": "35d39fdd3ae3822f",
 "title": "\"Il y a une ambition de ne pas nous rassurer\", Sandrine Rousseau reproche au gouvernement de ne pas prendre au sérieux les menaces à l'encontre des élus de gauche",
 "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-il-y-a-une-ambition-de-ne-pas-nous-rassurer-sandrine-rousseau-reproche-au-gouvernement-de-ne-pas-prendre-au-serieux-les-menaces-a-l-encontre-des-elus-de-gauche_VN-202611150207.html",
@@ -67,6 +540,51 @@
 "speaker": "Sandrine Rousseau"
 },
 {
+"id": "df1886e3db17ab71",
+"title": "Présidentielle 2027 : «Il faut tout faire pour éviter que La France insoumise gagne l'élection», lance Thibault de Montbrial",
+"link": "https://www.cnews.fr/videos/france/2026-11-15/presidentielle-2027-il-faut-tout-faire-pour-eviter-que-la-france-insoumise",
+"summary": "«Il faut tout faire pour éviter que la France insoumise gagne l'élection présidentielle (...) Dans ce cas là je voterais pour Marine Le Pen», a affirmé Thibault de Montbrial lors du Grand Rendez-Vous sur CNEWS.",
+"source": "CNews",
+"date": "2026-11-15T11:13:49+00:00",
+"added": "2026-11-15T13:41:12+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Thibault de Montbrial"
+},
+{
+"id": "e24019089c4e2750",
+"title": "Bouliac : un jeune porte-drapeau invité à l’Élysée",
+"link": "https://www.sudouest.fr/gironde/bouliac/bouliac-un-jeune-porte-drapeau-invite-a-l-elysee-31525649.php",
+"summary": "",
+"source": "Sud Ouest",
+"date": "2026-11-15T11:02:00+00:00",
+"added": "2026-11-15T13:41:12+00:00",
+"official": false,
+"also": [],
+"base": [
+"elysee"
+],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [
+"Interview"
+],
+"speaker": ""
+},
+{
 "id": "7f8875dad094ecd2",
 "title": "Le gouvernement chiffre à environ 1 milliard d’euros les gestes pour les bas salaires",
 "link": "https://www.liberation.fr/economie/social/le-gouvernement-chiffre-a-environ-1-milliard-deuros-les-gestes-pour-les-bas-salaires-20261115_SWSZRZNYERBULLREF3KQ7I5XUY/",
@@ -85,6 +603,29 @@
 "speaker": ""
 },
 {
+"id": "38e0108e5c67e348",
+"title": "Présidentielle 2027 : « Sans aucune hésitation, je voterai pour Marine Le Pen » face à Jean-Luc Mélenchon, affirme Thibault de Montbrial",
+"link": "https://www.europe1.fr/politique/presidentielle-2027-sans-aucune-hesitation-je-voterai-pour-marine-le-pen-face-a-jean-luc-melenchon-affirme-thibault-de-montbrial-1234980",
+"summary": "Invité ce dimanche du Grand Rendez-vous Europe 1/CNEWS/Les Échos, Thibault de Montbrial a assuré qu’en cas de second tour opposant Marine Le Pen à Jean-Luc Mélenchon lors de la présidentielle, il voterait pour la première.",
+"source": "Europe 1",
+"date": "2026-11-15T10:34:48+00:00",
+"added": "2026-11-15T13:41:12+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Thibault de Montbrial"
+},
+{
 "id": "4fef74a17fb2a7ce",
 "title": "«Conquête par les urnes» et «discours insurrectionnel» : Thibault de Montbrial dénonce «l’ambiguïté» des paroles de Jean-Luc Mélenchon",
 "link": "https://www.cnews.fr/videos/france/2026-11-15/conquete-par-les-urnes-et-discours-insurrectionnel-thibault-de-montbrial",
@@ -94,7 +635,8 @@
 "added": "2026-11-15T11:26:23+00:00",
 "official": false,
 "also": [
-"Europe 1"
+"Europe 1",
+"BFMTV"
 ],
 "base": [
 "partis"
@@ -178,7 +720,11 @@
 "date": "2026-11-15T10:07:22+00:00",
 "added": "2026-11-15T11:26:23+00:00",
 "official": false,
-"also": [],
+"also": [
+"BFMTV",
+"Ouest-France",
+"Le Télégramme"
+],
 "base": [
 "partis"
 ],
@@ -364,6 +910,26 @@
 "filtered": true,
 "topics": [
 "elysee",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "ca76b55e9d075c98",
+"title": "Gabriel Attal",
+"link": "https://www.bfmtv.com/politique/gabriel-attal_DN-202108310662.html",
+"summary": "Gabriel Attal est candidat à la présidentielle de 2027 pour le parti Renaissance. Auparavant membre du Parti socialiste, il a été élu député de la 11e circonscription des Hauts-de-Seine en 2017, sous l'étiquette En Marche.",
+"source": "BFMTV",
+"date": "2026-11-15T09:11:56+00:00",
+"added": "2026-11-15T13:41:12+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement",
+"partis",
 "presidentielle"
 ],
 "natures": [],
@@ -908,6 +1474,26 @@
 "topics": [
 "partis",
 "presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "7e000c274c2bbaa8",
+"title": "« On sortirait totalement des clous » : le programme économique de LFI, un plongeon dans l’inconnu",
+"link": "https://www.leparisien.fr/elections/presidentielle/on-sortirait-totalement-des-clous-le-programme-economique-de-lfi-un-plongeon-dans-linconnu-15-11-2026-HKLKNJRQEBEGVKHXKZATQEWSPA.php",
+"summary": "",
+"source": "Le Parisien",
+"date": "2026-11-15T05:00:00+00:00",
+"added": "2026-11-15T13:41:12+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
 ],
 "natures": [],
 "speaker": ""
@@ -2410,6 +2996,26 @@
 "speaker": ""
 },
 {
+"id": "694278c74cd3f379",
+"title": "Le Parapluie de Cherbourg, du 7e art à l’Élysée",
+"link": "https://www.valeursactuelles.com/economie/le-parapluie-de-cherbourg-du-7e-art-a-lelysee",
+"summary": "Du 12 au 15 novembre, les visiteurs du Salon Made in France à la Porte de Versailles à Paris auront peut-être un pincement au cœur en croisant l’espace Le Parapluie de Cherbourg.",
+"source": "Valeurs actuelles",
+"date": "2026-11-14T09:01:41+00:00",
+"added": "2026-11-15T13:41:12+00:00",
+"official": false,
+"also": [],
+"base": [
+"elysee"
+],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "903cd65937ba8dca",
 "title": "Présidentielle 2027 : le RN dispose de 400 signatures et « lance un appel aux maires »",
 "link": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-le-rn-dispose-de-400-signatures-et-lance-un-appel-aux-maires-14-11-2026-66Q44Q54SBASNCGDNXORGQYTF4.php",
@@ -2770,7 +3376,8 @@
 "also": [
 "CNews",
 "Midi Libre",
-"Le Parisien"
+"Le Parisien",
+"La Montagne"
 ],
 "base": [
 "partis"
@@ -3623,7 +4230,8 @@
 "La Voix du Nord",
 "RFI",
 "Le Dauphiné Libéré",
-"France 24"
+"France 24",
+"BFMTV"
 ],
 "base": [],
 "filtered": true,
@@ -4536,6 +5144,28 @@
 "speaker": ""
 },
 {
+"id": "55885cdc38766dee",
+"title": "“Une réunion pour rien” : Sophie Binet fustige les annonces de Lecornu après les discussions à Matignon sur la fonction publique",
+"link": "https://www.nouvelobs.com/social/20261113.OBS120102/une-reunion-pour-rien-sophie-binet-fustige-les-annonces-de-lecornu-apres-le-rendez-vous-a-matignon-sur-la-fonction-publique.html",
+"summary": "Le Premier ministre, Sébastien Lecornu, a reçu ce vendredi 13 novembre une intersyndicale de la fonction publique, à Matignon, pour trouver un terrain d’entente sur les salaires des fonctionnaires. (Photo by Kenzo TRIBOUILLARD / AFP) KENZO TRIBOUILLARD / AFP\nS’abonner permet de commenter les articles.",
+"source": "Le Nouvel Obs",
+"date": "2026-11-13T15:07:39+00:00",
+"added": "2026-11-15T13:41:12+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "Sophie Binet"
+},
+{
 "id": "b3e3723cf90b6030",
 "title": "Présidentielle 2027 : Mélenchon, le collectiviste",
 "link": "https://www.nouvelobs.com/politique/20261113.OBS120101/presidentielle-2027-melenchon-le-collectiviste.html",
@@ -4730,7 +5360,8 @@
 "official": false,
 "also": [
 "franceinfo",
-"France 24"
+"France 24",
+"La Nouvelle République"
 ],
 "base": [],
 "filtered": true,
@@ -9119,6 +9750,26 @@
 "speaker": ""
 },
 {
+"id": "027d7053844e4113",
+"title": "Après le «tour de France», le «projet» : Bruno Le Maire, un non-candidat qui fait tout comme",
+"link": "https://www.liberation.fr/politique/elections/apres-le-tour-de-france-le-projet-bruno-le-maire-un-non-candidat-qui-fait-tout-comme-20261112_IFFUZYIAGJCONDNDPI65OJIGAY/",
+"summary": "L’ex-ministre de l’Economie et des Finances a présenté ce jeudi 12 novembre un «projet de refondation» d’une «autre France».",
+"source": "Libération",
+"date": "2026-11-12T16:06:50+00:00",
+"added": "2026-11-15T13:41:12+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [
+"Citation"
+],
+"speaker": ""
+},
+{
 "id": "0efe4ef2332d9b8a",
 "title": "Présidentielle 2027 : Marine Tondelier promet l'ouverture de 2 000 centres de santé d'ici 2030 en France",
 "link": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-marine-tondelier-promet-l-ouverture-de-2-000-centres-de-sante-d-ici-2030-en-france_8279639.html#xtor=RSS-3-%5Bpolitique%5D",
@@ -9930,750 +10581,5 @@
 ],
 "natures": [],
 "speaker": "Emmanuel Macron"
-},
-{
-"id": "514abccbc0e49d92",
-"title": "Lycées: les aides de l'Île-de-France suspendues pour les auteurs de dégradations",
-"link": "https://www.bfmtv.com/politique/video-lycees-les-aides-de-l-ile-de-france-suspendues-pour-les-auteurs-de-degradations_VN-202611120580.html",
-"summary": "La présidente LR de la Région Île-de-France Valérie Pécresse a annoncé jeudi une suspension d'aides pour les auteurs de dégradations dans les lycées, et veut proposer d'installer des caméras dans les établissements où des intrusions violentes ont eu lieu.",
-"source": "BFMTV",
-"date": "2026-11-12T13:39:22+00:00",
-"added": "2026-11-12T14:04:30+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "97a977f29b805b2c",
-"title": "Présidentielle 2027: pour la droite et le centre, la primaire apparaît désormais comme le seul moyen d'accéder au second tour",
-"link": "https://rmc.bfmtv.com/actualites/politique/presidentielle-2027-pour-la-droite-et-le-centre-la-primaire-apparait-desormais-comme-le-seul-moyen-d-acceder-au-second-tour_AV-202611120574.html",
-"summary": "La primaire de la droite et du centre va-t-elle finir par avoir lieu? Le président et candidat LR à l'élection présidentielle, Bruno Retailleau, propose désormais les dates du 31 janvier et 7 février.",
-"source": "RMC",
-"date": "2026-11-12T13:32:00+00:00",
-"added": "2026-11-12T14:04:30+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "efceed47bdadc30a",
-"title": "Pouvoir d’achat : les syndicats de la fonction publique reçus à Matignon sans grandes illusions",
-"link": "https://acteurspublics.fr/articles/pouvoir-dachat-les-syndicats-de-la-fonction-publique-recus-a-matignon-sans-grandes-illusions/",
-"summary": "Le rendez-vous était attendu, et même réclamé depuis plusieurs mois par les organisations syndicales de la fonction publique.",
-"source": "Acteurs Publics",
-"date": "2026-11-12T13:23:38+00:00",
-"added": "2026-11-13T15:35:44+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "d21738ed8644d839",
-"title": "\"Ouvrez tout de suite des négociations flash\": le ministre du Travail Jean-Pierre Farandou somme le patronat d'augmenter les minima (trop souvent sous le Smic)",
-"link": "https://www.bfmtv.com/economie/emploi/ouvrez-tout-de-suite-des-negociations-flash-le-ministre-du-travail-jean-pierre-farandou-somme-le-patronat-d-augmenter-les-minima-trop-souvent-sous-le-smic_AD-202611120568.html",
-"summary": "Le ministre du Travail Jean-Pierre Farandou a présidé jeudi matin un \"comité de suivi des salaires\" pour inciter le patronat à augmenter sans attendre les minima pratiqués dans les différentes branches professionnelles, trois jours après des annonces du gouvernement pour tenter de calmer le mouvement social.",
-"source": "BFMTV",
-"date": "2026-11-12T13:22:51+00:00",
-"added": "2026-11-12T15:45:42+00:00",
-"official": false,
-"also": [],
-"base": [
-"matinales"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"gouvernement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "d51c03348399ffdf",
-"title": "Un premier sponsor de Teddy Riner se retire après l'annonce de sa candidature à la présidentielle 2027",
-"link": "https://www.bfmtv.com/politique/video-un-premier-sponsor-de-teddy-riner-se-retire-apres-l-annonce-de-sa-candidature-a-la-presidentielle-2027_VN-202611120564.html",
-"summary": "L'annonce de la candidature de Teddy Riner à l'élection présidentielle 2027 provoque une première retombée avec le retrait d'une des nombreux sponsors de la star du judo.",
-"source": "BFMTV",
-"date": "2026-11-12T13:13:52+00:00",
-"added": "2026-11-12T14:04:30+00:00",
-"official": false,
-"also": [
-"La Croix",
-"Valeurs actuelles"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [
-"Annonce"
-],
-"speaker": ""
-},
-{
-"id": "5a1dd9edee3c4fe5",
-"title": "Sondage présidentielle 2027 : David Lisnard continue de progresser et atteint 10 % des intentions de vote, le double de Bruno Retailleau",
-"link": "https://www.leparisien.fr/elections/presidentielle/sondage-presidentielle-2027-david-lisnard-continue-de-progresser-et-atteint-10-des-intentions-de-vote-le-double-de-bruno-retailleau-12-11-2026-53IAVVSDQRHWDBTUHHBO33EVGQ.php",
-"summary": "",
-"source": "Le Parisien",
-"date": "2026-11-12T13:02:00+00:00",
-"added": "2026-11-12T14:04:30+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "20de9dbca77c743e",
-"title": "Le milliardaire Pierre-Edouard Stérin sera jugé après son boycott de la commission d’enquête à l’Assemblée",
-"link": "https://www.20minutes.fr/politique/assemblee_nationale/4262371-20261112-milliardaire-pierre-edouard-sterin-juge-apres-boycott-commission-enquete-assemblee?at_medium=display&at_campaign=149",
-"summary": "Le milliardaire conservateur Pierre-Edouard Stérin doit comparaître en janvier 2027 devant le tribunal correctionnel de Paris pour son refus répété de se présenter devant une commission d’enquête de l’Assemblée nationale, a-t-on appris jeudi auprès du parquet.",
-"source": "20 Minutes",
-"date": "2026-11-12T13:01:37+00:00",
-"added": "2026-11-12T14:04:30+00:00",
-"official": false,
-"also": [
-"LCP"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "8862c4636c126c64",
-"title": "Fin de l’emploi à vie des fonctionnaires, hausse de la TVA et du salaire net, RIC, suppression du département et du 49.3 : le projet de Bruno Le Maire, non-candidat à la présidentielle",
-"link": "https://www.publicsenat.fr/actualites/politique/fin-de-lemploi-a-vie-des-fonctionnaires-hausse-de-la-tva-et-du-salaire-net-ric-suppression-du-departement-et-du-49-3-le-projet-de-bruno-le-maire-non-candidat-a-la-presidentielle",
-"summary": "Au moment où le bloc central et la droite pataugent dans les débats internes et s’enfoncent dans les sondages, l’ancien ministre de l’Economie, Bruno Le Maire, tente d’incarner, sans l’assumer, une alternative.",
-"source": "Public Sénat",
-"date": "2026-11-12T12:44:03+00:00",
-"added": "2026-11-12T21:35:46+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement",
-"parlement",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "a819c772897c9bc7",
-"title": "Meurtre de Thomas à Crépol : La maire de Romans-sur-Isère préférerait voter Le Pen que Mélenchon",
-"link": "https://www.20minutes.fr/politique/4262365-20261112-meurtre-thomas-crepol-maire-romans-isere-prefererait-voter-pen-melenchon?at_medium=display&at_campaign=149",
-"summary": "Invitée de Sud Radio, Marie-Hélène Thoraval, maire de Romans-sur-Isère, a annoncé qu’elle ne voterait « jamais » pour le candidat de La France insoumise Jean-Luc Mélenchon à l’occasion l’élection présidentielle 2027, a repéré « Le Figaro »",
-"source": "20 Minutes",
-"date": "2026-11-12T12:37:30+00:00",
-"added": "2026-11-12T14:04:30+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"matinales",
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "18b37853fac67cb5",
-"title": "Teddy Riner candidat à la présidentielle : \"Ni de droite, ni de gauche, c'est ce qu'on a vu pendant 10 ans\", ironise Raphaël Glucksmann",
-"link": "https://www.franceinfo.fr/sports/judo/teddy-riner/teddy-riner-candidat-a-la-presidentielle-ni-de-droite-ni-de-gauche-c-est-ce-qu-on-a-vu-pendant-10-ans-ironise-raphael-glucksmann_8279291.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "Invité de la journée évènement franceinfo consacrée aux services publics, jeudi 12 novembre, Raphaël Glucksmann a réagi à l'actualité politique.",
-"source": "franceinfo",
-"date": "2026-11-12T12:35:23+00:00",
-"added": "2026-11-12T14:04:30+00:00",
-"official": false,
-"also": [
-"BFMTV"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"matinales",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Raphaël Glucksmann"
-},
-{
-"id": "7c313631cd87441b",
-"title": "Présidentielle 2027 : pourquoi Marine Le Pen boycotte-t-elle les plateaux de BFMTV ? Cette rencontre tendue avec le patron de la chaîne qui a tout changé",
-"link": "https://www.midilibre.fr/2026/11/12/presidentielle-2027-pourquoi-marine-le-pen-boycotte-t-elle-les-plateaux-de-bfmtv-cette-rencontre-tendue-avec-le-patron-de-la-chaine-qui-a-tout-change-13648873.php",
-"summary": "Marine Le Pen n’est plus apparue sur BFMTV depuis février 2026, en raison d’une brouille avec Rodolphe Saadé, propriétaire de la chaîne.",
-"source": "Midi Libre",
-"date": "2026-11-12T12:34:00+00:00",
-"added": "2026-11-12T14:04:30+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "c3c4d4be3e9f0ba9",
-"title": "Les Français aiment leurs services publics, selon Jean-Daniel Levy",
-"link": "https://www.franceinfo.fr/economie/impots/les-francais-aiment-leurs-services-publics-selon-jean-daniel-levy_8279267.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
-"source": "franceinfo",
-"date": "2026-11-12T12:30:01+00:00",
-"added": "2026-11-12T14:04:30+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": "Jean-Daniel Levy"
-},
-{
-"id": "bf2f71ea831a69ec",
-"title": "Présidentielle : Fabien Roussel propose la mise en place de 60 000 \"policiers, gendarmes et douaniers\" de proximité",
-"link": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-fabien-roussel-propose-la-mise-en-place-de-60-000-policiers-gendarmes-et-douaniers-de-proximite_8279156.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "Dans le cadre de la journée évènement franceinfo consacrée aux services publics, Fabien Roussel, candidat communiste à la présidentielle, a détaillé son programme sur cet enjeu majeur du scrutin, jeudi 12 novembre, au studio 104 de la Maison de la Radio et de la Musique.",
-"source": "franceinfo",
-"date": "2026-11-12T12:29:18+00:00",
-"added": "2026-11-12T14:04:30+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation",
-"Annonce"
-],
-"speaker": "Fabien Roussel"
-},
-{
-"id": "bebba8ed6424d75a",
-"title": "Violences dans certains lycées: \"Les complices seront poursuivis\", assure Sébastien Lecornu",
-"link": "https://www.bfmtv.com/politique/video-violences-dans-certains-lycees-les-complices-seront-poursuivis-assure-sebastien-lecornu_VN-202611120535.html",
-"summary": "Ce jeudi matin, plusieurs individus ont tiré avec des mortiers d'artifices à l'intérieur de différents établissements scolaires.",
-"source": "BFMTV",
-"date": "2026-11-12T12:26:59+00:00",
-"added": "2026-11-12T14:04:30+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Sébastien Lecornu"
-},
-{
-"id": "95a400730f449848",
-"title": "Présidentielle 2027 : Christine Lagarde testée pour la première fois à 14% dans un sondage",
-"link": "https://www.rtl.fr/actu/politique/presidentielle-2027-christine-lagarde-testee-pour-la-premiere-fois-a-14-dans-un-sondage-7900695410",
-"summary": "Christine Lagarde, s'exprime lors d'un débat en séance plénière au Parlement européen en 2023\nElle n'est pas encore candidate, mais dépasse déjà Édouard Philippe.",
-"source": "RTL",
-"date": "2026-11-12T12:26:21+00:00",
-"added": "2026-11-12T14:04:30+00:00",
-"official": false,
-"also": [
-"Le Parisien"
-],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"parlement",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "c3db081020be2c0d",
-"title": "Plan de relance agricole : la ministre de l'Agriculture promet 725 millions d'euros, notamment pour \"l'adaptation au changement climatique\"",
-"link": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/plan-de-relance-agricole-la-ministre-de-l-agriculture-promet-725-millions-d-euros-notamment-pour-l-adaptation-au-changement-climatique_8279273.html",
-"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
-"source": "franceinfo",
-"date": "2026-11-12T12:25:01+00:00",
-"added": "2026-11-12T19:42:50+00:00",
-"official": false,
-"also": [
-"Le Monde",
-"Libération",
-"L'Humanité"
-],
-"base": [
-"matinales"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"gouvernement"
-],
-"natures": [
-"Citation",
-"Annonce"
-],
-"speaker": ""
-},
-{
-"id": "4631b9125e72b9de",
-"title": "« Nous sommes devant Jordan Bardella et Sarah Knafo » : le livre programme du candidat LFI à la présidentielle Jean-Luc Mélenchon plus vendu que le prix Goncourt",
-"link": "https://www.nicematin.com/societe/politique/nous-sommes-devant-jordan-bardella-et-sarah-knafo-le-livre-programme-du-candidat-lfi-a-la-presidentielle-jean-luc-melenchon-plus-vendu-que-le-prix-goncourt-10758589",
-"summary": "Le livre programme du candidat LFI à la présidentielle Jean-Luc Mélenchon a pris la tête des best-sellers après sa sortie, selon les chiffres publiés ce jeudi 12 novembre 2026 par Livres-Hebdo.",
-"source": "Nice-Matin",
-"date": "2026-11-12T12:14:02+00:00",
-"added": "2026-11-12T14:04:30+00:00",
-"official": false,
-"also": [
-"Le Monde",
-"Sud Ouest",
-"Le Dauphiné Libéré"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "ecfa9bd191a95fee",
-"title": "Agriculture: Annie Genevard annonce \"un plan à 725 millions d'euros\"",
-"link": "https://www.bfmtv.com/politique/gouvernement/video-agriculture-annie-genevard-annonce-un-plan-a-725-millions-d-euros_VN-202611120527.html",
-"summary": "Le gouvernement a présenté son plan de relance agricole, face à la presse, ce jeudi 12 novembre. Annie Genevard, ministre de l'Agriculture, de l'Agro-alimentaire et de la Souveraineté alimentaire, a notamment annoncé \"un plan à 725 millions d'euros\" pour aider le secteur.",
-"source": "BFMTV",
-"date": "2026-11-12T12:11:08+00:00",
-"added": "2026-11-12T14:04:30+00:00",
-"official": false,
-"also": [
-"Ouest-France",
-"Le Monde",
-"Libération",
-"L'Humanité"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [
-"Citation",
-"Annonce"
-],
-"speaker": "Annie Genevard"
-},
-{
-"id": "d9a9604331809340",
-"title": "Présidentielle 2027 : les candidats face aux petits patrons, Gabriel Attal premier invité de l'U2P à suivre sur LCI ce jeudi à 16h30",
-"link": "https://www.tf1info.fr/politique/elections/presidentielle/presidentielle-2027-les-candidats-face-aux-petits-patrons-gabriel-attal-premier-invite-de-l-u2p-a-suivre-en-direct-sur-lci-ce-jeudi-a-16h30-2475440.html",
-"summary": "Que proposent les candidats à la présidentielle pour les TPE et les PME ?",
-"source": "TF1 Info",
-"date": "2026-11-12T12:01:19+00:00",
-"added": "2026-11-12T14:04:30+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"presidentielle"
-],
-"natures": [
-"Interview"
-],
-"speaker": ""
-},
-{
-"id": "8cb05ce64e2ea242",
-"title": "Le programme pour 2027 de Mélenchon ressemble-t-il à celui de Mitterrand en 1981 ?",
-"link": "https://www.marianne.net/economie/le-programme-pour-2027-de-melenchon-ressemble-t-il-a-celui-de-mitterrand-en-1981",
-"summary": "",
-"source": "Marianne",
-"date": "2026-11-12T12:00:24+00:00",
-"added": "2026-11-14T09:32:21+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "aa6efbb81ff3da03",
-"title": "Les députés votent une loi pour obliger Google et les autres géants du numérique à mieux rémunérer la presse",
-"link": "https://lcp.fr/actualites/les-deputes-votent-une-loi-pour-obliger-google-et-les-autres-geants-du-numerique-a-mieux",
-"summary": "L'Assemblée nationale a adopté à l'unanimité, ce jeudi 12 novembre, une proposition de loi dont le but est de rééquilibrer les négociations entre les entreprises du numérique, comme les GAFAM, et les médias français, afin que ces derniers soient mieux rémunérés lorsque leurs contenus sont réutilisés sur internet.",
-"source": "LCP",
-"date": "2026-11-12T11:59:17+00:00",
-"added": "2026-11-12T14:04:30+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "b1b76c73588e2619",
-"title": "Jordan Bardella accusé d’antisémitisme : le président du RN a porté plainte contre X après les révélations de Mediapart",
-"link": "https://www.midilibre.fr/2026/11/12/jordan-bardella-accuse-dantisemitisme-le-president-du-rn-a-porte-plainte-contre-x-apres-les-revelations-de-mediapart-13648999.php",
-"summary": "Jordan Bardella, président du Rassemblement national, a déposé plainte contre X jeudi 12 novembre pour \"faux et usage de faux\" après une enquête de Mediapart publiée fin septembre.",
-"source": "Midi Libre",
-"date": "2026-11-12T11:56:00+00:00",
-"added": "2026-11-12T14:04:30+00:00",
-"official": false,
-"also": [
-"franceinfo",
-"Libération",
-"La Croix",
-"BFMTV",
-"20 Minutes",
-"France 24",
-"CNews",
-"TF1 Info",
-"Le HuffPost",
-"Le Figaro",
-"Le Parisien",
-"Ouest-France",
-"Sud Ouest",
-"Europe 1",
-"Le Dauphiné Libéré",
-"La Nouvelle République",
-"La Voix du Nord",
-"Le Télégramme",
-"La Montagne",
-"Le Nouvel Obs",
-"L'Est Républicain",
-"Franceinfo"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Réaction"
-],
-"speaker": ""
-},
-{
-"id": "f64db2302b4048e8",
-"title": "Le Goncourt 2026 s’incline devant le livre de Mélenchon en tête des ventes la semaine dernière",
-"link": "https://www.lefigaro.fr/livres/le-goncourt-2026-s-incline-devant-le-livre-de-melenchon-en-tete-des-ventes-la-semaine-derniere-20261112",
-"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
-"source": "Le Figaro",
-"date": "2026-11-12T11:54:08+00:00",
-"added": "2026-11-12T14:04:30+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "968d25dd05e67ef0",
-"title": "Violences en marge des blocus lycéens : le gouvernement durcit le ton",
-"link": "https://www.publicsenat.fr/actualites/education/violences-en-marge-des-blocus-lyceens-le-gouvernement-durcit-le-ton",
-"summary": "Le gouvernement a tapé du poing sur la table ce jeudi pour « mettre fin » aux violences aux abords des lycées, souhaitant une saisine « systématique » de la justice pour les actes visant des personnels de l’Éducation nationale dans le cadre du mouvement lycéen.",
-"source": "Public Sénat",
-"date": "2026-11-12T11:51:27+00:00",
-"added": "2026-11-12T21:35:46+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "863ae4261f4cb1da",
-"title": "présidentielle 2027 | Suivez le grand oral de huit candidats sur les services publics : Bruno Retailleau souhaite créer 40 000 places de prison et propose un référendum sur la politique pénale",
-"link": "https://www.lemonde.fr/politique/live/2026/11/12/en-direct-presidentielle-2027-suivez-le-grand-oral-de-huit-candidats-sur-les-services-publics-raphael-glucksmann-souhaite-une-refonte-et-un-sauvetage-de-l-ecole-publique-dans-son-ensemble_6809070_823448.html",
-"summary": "Gabriel Attal a défendu la sélection à l’université et estime que Parcoursup peut être amélioré. Fabien Roussel veut, lui, recruter 500 000 fonctionnaires en cinq ans, tandis que Raphaël Glucksmann souhaite une « refonte et un sauvetage de l’école publique ».",
-"source": "Le Monde",
-"date": "2026-11-12T11:50:45+00:00",
-"added": "2026-11-12T14:04:30+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [
-"Annonce"
-],
-"speaker": "Bruno Retailleau"
-},
-{
-"id": "604c1925c2ec6877",
-"title": "Candidature de Teddy Riner à la présidentielle : «Jean-Luc Mélenchon a très bien senti le danger», analyse Mémona Hintermann",
-"link": "https://www.cnews.fr/france/2026-11-12/candidature-de-teddy-riner-la-presidentielle-jean-luc-melenchon-tres-bien-senti",
-"summary": "Invitée de l'émission 100% Frontières, Mémona Hintermann, grand reporter, est revenue sur la candidature de Teddy Riner à l'élection présidentielle 2027 : «Jean-Luc Mélenchon a très bien senti le danger».",
-"source": "CNews",
-"date": "2026-11-12T11:49:13+00:00",
-"added": "2026-11-12T14:04:30+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Mémona Hintermann"
-},
-{
-"id": "426068adf1b0200f",
-"title": "Présidentielle: \"On a eu déjà eu beaucoup de candidatures cette semaine, ce n'est pas la peine d'en rajouter une\", répond Bruno Le Maire",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-on-a-eu-deja-eu-beaucoup-de-candidatures-cette-semaine-ce-n-est-pas-la-peine-d-en-rajouter-une-repond-bruno-le-maire_VN-202611120505.html",
-"summary": "L'ancien ministre de l'Économie Bruno Le Maire a présenté ses propositions pour une \"autre France\", jeudi 12 novembre à Paris.",
-"source": "BFMTV",
-"date": "2026-11-12T11:46:32+00:00",
-"added": "2026-11-12T14:04:30+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement",
-"presidentielle"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "Bruno Le Maire"
-},
-{
-"id": "f0a5eba68439f562",
-"title": "Présidentielle 2027 : Teddy Riner « incarne la France qui gagne »… De Jean-Luc Mélenchon à Édouard Philippe, pourquoi sa candidature fait trembler la classe politique",
-"link": "https://www.sudouest.fr/elections/presidentielle/presidentielle-2027-teddy-riner-incarne-la-france-qui-gagne-de-jean-luc-melenchon-a-edouard-philippe-pourquoi-cette-annonce-fait-trembler-la-classe-politique-31492089.php",
-"summary": "",
-"source": "Sud Ouest",
-"date": "2026-11-12T11:43:46+00:00",
-"added": "2026-11-12T14:04:30+00:00",
-"official": false,
-"also": [
-"La Montagne"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": ""
-},
-{
-"id": "b8f8de733ead3026",
-"title": "Écrits antisémites attribués à Jordan Bardella : le patron du RN a porté plainte pour faux et usage de faux",
-"link": "https://www.rtl.fr/actu/politique/ecrits-antisemites-attribues-a-jordan-bardella-le-patron-du-rn-a-porte-plainte-pour-faux-et-usage-de-faux-7900695418",
-"summary": "Plus d'informations à suivre sur RTL.fr et l'application RTL...",
-"source": "RTL",
-"date": "2026-11-12T11:43:17+00:00",
-"added": "2026-11-12T11:45:15+00:00",
-"official": false,
-"also": [
-"Le Monde",
-"franceinfo",
-"Libération",
-"La Croix",
-"BFMTV",
-"20 Minutes",
-"CNews",
-"TF1 Info",
-"Le Figaro",
-"France 24",
-"Ouest-France",
-"Le Parisien",
-"Europe 1",
-"Nice-Matin",
-"La Nouvelle République",
-"L'Est Républicain",
-"La Provence",
-"La Voix du Nord",
-"Le Télégramme"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "f0d006b92eaeb89e",
-"title": "Présidentielle 2027 : En librairie, le livre-programme de LFI se vend mieux que le Goncourt et le livre de Bardella",
-"link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-en-librairie-le-livre-programme-de-lfi-se-vend-mieux-que-le-goncourt-et-le-livre-de-bardella-20261112",
-"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
-"source": "Le Figaro",
-"date": "2026-11-12T11:38:32+00:00",
-"added": "2026-11-12T11:45:15+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "a099e6f963f086ff",
-"title": "Le gouvernement veut «mettre fin» aux violences près des lycées et demande une saisine «systématique» de la justice",
-"link": "https://www.liberation.fr/societe/le-gouvernement-veut-mettre-fin-aux-violences-pres-des-lycees-et-demande-une-saisine-systematique-de-la-justice-20261112_P2CAVY7E5JCX7DWJ3PQY24ECMI/",
-"summary": "L’exécutif annonce en outre, ce 12 novembre, que les agents publics qui «participeraient ou encourageraient des actes illicites» seraient également poursuivis. 609 blessés ont été décomptés par les autorités depuis le début de la mobilisation lycéenne, dont 364 élèves et 245 personnels.",
-"source": "Libération",
-"date": "2026-11-12T11:32:52+00:00",
-"added": "2026-11-12T11:45:15+00:00",
-"official": false,
-"also": [
-"BFMTV",
-"Le Monde"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "9fb28d6afc78d38e",
-"title": "SONDAGE Présidentielle 2027 : Gabriel Attal derrière Natacha Polony… les surprises de ce dernier baromètre",
-"link": "https://www.midilibre.fr/2026/11/12/sondage-presidentielle-2027-gabriel-attal-derriere-natacha-polony-les-surprises-de-ce-dernier-barometre-13648721.php",
-"summary": "Le dernier baromètre de Cluster 17 pour Politico, publié mercredi 11 novembre, révèle une compétition serrée entre David Lisnard, Édouard Philippe et Christine Lagarde, chacun recueillant 8 % des intentions de vote pour la présidentielle 2027.",
-"source": "Midi Libre",
-"date": "2026-11-12T11:32:00+00:00",
-"added": "2026-11-12T11:45:15+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "586339854fe1601b",
-"title": "Blocages des lycées: \"Des individus interdisent les accès\" à 24 établissements scolaires, déplore Édouard Geffray, ministre de l'Éducation nationale",
-"link": "https://www.bfmtv.com/politique/video-blocages-des-lycees-des-individus-interdisent-les-acces-a-24-etablissements-scolaires-deplore-edouard-geffray-ministre-de-l-education-nationale_VN-202611120500.html",
-"summary": "Édouard Geffray, ministre de l'Éducation nationale, s'exprime lors d'un micro tendu ce jeudi 12 novembre, alors que la mobilisation lycéenne se poursuit devant certains établissements.",
-"source": "BFMTV",
-"date": "2026-11-12T11:30:18+00:00",
-"added": "2026-11-12T11:45:15+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Édouard Geffray"
 }
 ]
