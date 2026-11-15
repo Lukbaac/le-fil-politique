@@ -1,5 +1,316 @@
 [
 {
+"id": "24d360d207fa0b65",
+"title": "Dette publique française : “La France ne va pas être la Grèce”, affirme Clément Beaune",
+"link": "https://www.franceinfo.fr/economie/crise/crise-de-la-dette/dette-publique-francaise-la-france-ne-va-pas-etre-la-grece-affirme-clement-beaune_8283317.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "Clément Beaune, haut-commissaire à la Stratégie et au Plan était l'invité du 7.40 de Franceinfo ce samedi 14 novembre.",
+"source": "franceinfo",
+"date": "2026-11-15T09:28:48+00:00",
+"added": "2026-11-15T09:34:04+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Clément Beaune"
+},
+{
+"id": "1070c7d72c678ba8",
+"title": "Présidentielle : le désarmement des modérés face aux extrêmes",
+"link": "https://www.lopinion.fr/politique/presidentielle-le-desarmement-des-moderes-face-aux-extremes",
+"summary": "Le 11 mai 1956, Mauriac écrivait dans son « bloc-notes » : « Le malheur de la France ne tient pas aux textes d’une Constitution, mais aux hommes ».",
+"source": "L'Opinion",
+"date": "2026-11-15T09:15:00+00:00",
+"added": "2026-11-15T09:34:04+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "a9d04848a91a69a5",
+"title": "Sébastien Lecornu Premier ministre",
+"link": "https://www.bfmtv.com/politique/gouvernement/sebastien-lecornu-premier-ministre_DN-202509100375.html",
+"summary": "Sébastien Lecornu a été nommé Premier ministre le 9 septembre 2025, après la chute du gouvernement de François Bayrou, qui n'a pas obtenu la confiance de l'Assemblée nationale.",
+"source": "BFMTV",
+"date": "2026-11-15T09:11:56+00:00",
+"added": "2026-11-15T09:34:04+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement",
+"parlement",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "0b9505aaddcf1257",
+"title": "Emmanuel Macron: 14% des Français portent un jugement favorable sur les actions du président de la République, selon un sondage",
+"link": "https://www.bfmtv.com/politique/elysee/emmanuel-macron-14-des-francais-portent-un-jugement-favorable-sur-les-actions-du-president-de-la-republique-selon-un-sondage_AN-202611150163.html",
+"summary": "Le dernier baromètre Ipsos-BVA publié par La Tribune Dimanche révèle qu'Emmanuel Macron ne recueille que 14% de jugements favorables à son action, tandis que les Français placent le pouvoir d'achat comme parmi leurs principales préoccupations.",
+"source": "BFMTV",
+"date": "2026-11-15T09:11:56+00:00",
+"added": "2026-11-15T09:34:04+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "3c2c5d214791e124",
+"title": "Mélenchon propose un congé de deuil pour les amis, une idée si farfelue ?",
+"link": "https://www.20minutes.fr/politique/4261937-20261115-presidentielle-2027-melenchon-propose-conge-deuil-ami-vraiment-idee-farfelue",
+"summary": "Parmi les 1.069 propositions du programme de la France insoumise pour la présidentielle, l’une a particulièrement enflammé les réseaux sociaux.",
+"source": "20 Minutes",
+"date": "2026-11-15T09:02:00+00:00",
+"added": "2026-11-15T09:34:04+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Annonce"
+],
+"speaker": "Jean-Luc Mélenchon"
+},
+{
+"id": "2d16409d3b0e7b32",
+"title": "« Sans les thermes, Royat est morte » : le possible déremboursement des cures thermales menace un modèle déjà fragilisé",
+"link": "https://www.lemonde.fr/economie/article/2026/11/15/sans-les-thermes-royat-est-morte-le-possible-deremboursement-des-cures-thermales-menace-un-modele-deja-fragilise_6811001_3234.html",
+"summary": "Dans la petite ville du Puy-de-Dôme, comme dans les autres stations, le thermalisme est essentiel aux hôtels et aux commerces.",
+"source": "Le Monde",
+"date": "2026-11-15T09:00:17+00:00",
+"added": "2026-11-15T09:34:04+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [
+"Citation"
+],
+"speaker": ""
+},
+{
+"id": "73ceeaee0d86c8c6",
+"title": "Nonna Mayer, politiste : « Le contexte électoral est particulièrement dramatique sur les plans intérieur et international »",
+"link": "https://www.lemonde.fr/idees/article/2026/11/15/nonna-mayer-politiste-le-contexte-electoral-est-particulierement-dramatique-sur-les-plans-interieur-et-international_6811000_3232.html",
+"summary": "Les candidats à l’élection présidentielle de 2027 vont devoir se positionner face aux nombreux enjeux qui préoccupent les Français : pouvoir d’achat, système social, insécurité, bouleversements climatiques, observe la politiste dans un entretien au « Monde ».",
+"source": "Le Monde",
+"date": "2026-11-15T09:00:17+00:00",
+"added": "2026-11-15T09:34:04+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "48495ef851049e2b",
+"title": "Les revalorisations annoncées pour les plus bas salaires coûteront \"un peu plus d'un milliard d'euros\" aux finances publiques, déclare le ministre David Amiel",
+"link": "https://www.franceinfo.fr/economie/pouvoir-achat/il-y-aura-bien-une-hausse-des-points-pour-les-plus-bas-salaires-de-la-fonction-publique-confirme-le-ministre-david-amiel_8283254.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "David Amiel confirme, dans le \"8h30 franceinfo\" dimanche, une augmentation \"pour les plus bas salaires de la fonction publique\" représentant \"350 euros brut par an\".",
+"source": "franceinfo",
+"date": "2026-11-15T08:49:24+00:00",
+"added": "2026-11-15T09:34:04+00:00",
+"official": false,
+"also": [
+"BFMTV"
+],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"gouvernement"
+],
+"natures": [
+"Citation"
+],
+"speaker": "David Amiel"
+},
+{
+"id": "66d40336c8e2fe44",
+"title": "Présidentielle 2027 : la popularité de Teddy Riner reste élevée mais baisse de 11 points auprès des sondés après sa candidature",
+"link": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-la-popularite-de-teddy-riner-reste-elevee-mais-baisse-de-11-points-aupres-des-sondes-apres-sa-candidature-15-11-2026-222YFR4PHVD2NEHFI4Z4ASWBOQ.php",
+"summary": "",
+"source": "Le Parisien",
+"date": "2026-11-15T08:23:51+00:00",
+"added": "2026-11-15T09:34:04+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "20544172434eb19b",
+"title": "Présidentielle 2027 : Le Pen reste largement en tête suivie par Mélenchon, Riner atteint 4,5 % des intentions de vote, selon un sondage",
+"link": "https://www.letelegramme.fr/elections/presidentielle/presidentielle-2027-le-pen-reste-largement-en-tete-suivie-par-melenchon-riner-atteint-45-des-intentions-de-vote-selon-un-sondage-7159458.php",
+"summary": "",
+"source": "Le Télégramme",
+"date": "2026-11-15T08:07:20+00:00",
+"added": "2026-11-15T09:34:04+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "d8c7e02b76a4209d",
+"title": "Présidentielle 2027 : Marine Le Pen écrase Jean-Luc Mélenchon",
+"link": "https://www.valeursactuelles.com/politique/presidentielle-2027-marine-le-pen-ecrase-jean-luc-melenchon-dans-toutes-les-categories-dage-sauf-les-18-24-ans-selon-un-sondage",
+"summary": "Chez les plus jeunes, Jean-Luc Mélenchon gagne. Chez leurs aînés, il dévisse. Le sondage Elabe publié ce samedi 14 novembre dessine une fracture spectaculaire entre générations dans l’hypothèse d’un second tour Marine Le Pen–Jean-Luc Mélenchon.",
+"source": "Valeurs actuelles",
+"date": "2026-11-15T08:06:22+00:00",
+"added": "2026-11-15T09:34:04+00:00",
+"official": false,
+"also": [
+"RMC"
+],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "1a663620c06c32c4",
+"title": "Présidentielle 2027 : «57% sont opposés à voir les sportifs se présenter à une élection», les Français donnent leur avis sur la candidature de Teddy Riner",
+"link": "https://www.lefigaro.fr/sports/autres-sports/57-sont-opposes-a-voir-les-sportifs-se-presenter-a-une-election-les-francais-donnent-leur-avis-sur-la-candidature-de-teddy-riner-a-la-presidentielle-20261115",
+"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
+"source": "Le Figaro",
+"date": "2026-11-15T08:00:06+00:00",
+"added": "2026-11-15T09:34:04+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "86286d79d3bebffb",
+"title": "Édito. Marine Le Pen et Jean-Luc Mélenchon sont deux laboureurs qui donnent la leçon aux semeurs à la volée",
+"link": "https://www.ouest-france.fr/elections/presidentielle/edito-marine-le-pen-et-jean-luc-melenchon-sont-deux-laboureurs-qui-donnent-la-lecon-aux-semeurs-a-la-volee-903668e8-dde4-11f1-86b6-0a2fbb1d8ed9",
+"summary": "",
+"source": "Ouest-France",
+"date": "2026-11-15T07:53:03+00:00",
+"added": "2026-11-15T09:34:04+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "5c0ef80cc47c57ca",
+"title": "Pour le président, la position de Marine Le Pen sur l'Ukraine \"est antipatriotique et irréaliste\", déclare l'entourage d'Emmanuel Macron",
+"link": "https://www.franceinfo.fr/politique/emmanuel-macron/le-president-veut-maintenir-l-ukraine-en-situation-de-donner-des-coups-alors-que-les-americains-s-occupent-de-l-enfoncer-affirme-l-entourage-d-emmanuel-macron_8283194.html",
+"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
+"source": "franceinfo",
+"date": "2026-11-15T07:48:43+00:00",
+"added": "2026-11-15T09:34:04+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"elysee",
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": ""
+},
+{
+"id": "1a6e706a7c59e770",
+"title": "Sommet de la francophonie : Emmanuel Macron appelle à l’« unité » et au « consensus » face aux tensions entre la RDC et le Rwanda",
+"link": "https://www.lemonde.fr/international/article/2026/11/15/somment-de-la-francophonie-emmanuel-macron-appelle-a-l-unite-et-au-consensus-face-aux-tensions-entre-la-rdc-et-le-rwanda_6810995_3210.html",
+"summary": "Après huit ans et deux mandats de Louise Mushikiwabo, Kinshasa, qui accuse Kigali de soutenir le groupe armé rebelle du M23 dans ses provinces de l’Est, s’oppose à la reconduction de la Rwandaise à la tête de l’Organisation internationale de la francophonie.",
+"source": "Le Monde",
+"date": "2026-11-15T07:45:48+00:00",
+"added": "2026-11-15T09:34:04+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Emmanuel Macron"
+},
+{
 "id": "c54de058ed1226ed",
 "title": "Les candidats à la présidentielle qui veulent baisser l'aide financière à l'Ukraine \"jouent contre nous\", affirme l'entourage d'Emmanuel Macron",
 "link": "https://www.franceinfo.fr/politique/emmanuel-macron/le-president-veut-maintenir-l-ukraine-en-situation-de-donner-des-coups-alors-que-les-americains-s-occupent-de-l-enfoncer-affirme-l-entourage-d-emmanuel-macron_8283194.html#xtor=RSS-3-%5Bpolitique%5D",
@@ -29,7 +340,9 @@
 "date": "2026-11-15T07:25:48+00:00",
 "added": "2026-11-15T07:49:55+00:00",
 "official": false,
-"also": [],
+"also": [
+"Le Dauphiné Libéré"
+],
 "base": [
 "partis"
 ],
@@ -141,6 +454,26 @@
 "speaker": "Emmanuel Macron"
 },
 {
+"id": "899c86f0e8cdde19",
+"title": "Haïti: dernier jour pour les inscriptions aux élections présidentielle et législatives de 2027",
+"link": "https://www.rfi.fr/fr/am%C3%A9riques/20261115-ha%C3%AFti-dernier-jour-pour-les-inscriptions-aux-%C3%A9lections-pr%C3%A9sidentielle-et-l%C3%A9gislatives-de-2027",
+"summary": "",
+"source": "RFI",
+"date": "2026-11-15T06:10:22+00:00",
+"added": "2026-11-15T09:34:04+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "676f76a48a51451c",
 "title": "En images : Mélenchon, Chirac, Sarkozy, Royal… Les insultes marquantes de la Ve République",
 "link": "https://www.20minutes.fr/diaporama/diaporama-4261582-images-melenchon-chirac-sarkozy-royal-insultes-marquantes-ve-republique",
@@ -156,6 +489,26 @@
 "filtered": true,
 "topics": [
 "partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "71d25dc899c3e951",
+"title": "Présidentielle 2027 : cyberattaques, IA… Pourquoi ce scrutin peut être un cauchemar des services secrets français",
+"link": "https://www.ouest-france.fr/elections/presidentielle/presidentielle-2027-cyberattaques-ia-pourquoi-ce-scrutin-peut-etre-un-cauchemar-des-services-secrets-francais-9bc701de-dea4-11f1-a62b-776e3051b0df",
+"summary": "",
+"source": "Ouest-France",
+"date": "2026-11-15T05:45:22+00:00",
+"added": "2026-11-15T09:34:04+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
 ],
 "natures": [],
 "speaker": ""
@@ -288,7 +641,9 @@
 "date": "2026-11-15T01:27:31+00:00",
 "added": "2026-11-15T06:34:08+00:00",
 "official": false,
-"also": [],
+"also": [
+"RTL"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -1128,7 +1483,8 @@
 "Les Echos",
 "Europe 1",
 "Le Télégramme",
-"franceinfo"
+"franceinfo",
+"Midi Libre"
 ],
 "base": [
 "parlement"
@@ -1153,7 +1509,9 @@
 "date": "2026-11-14T17:07:56+00:00",
 "added": "2026-11-14T19:31:12+00:00",
 "official": false,
-"also": [],
+"also": [
+"franceinfo"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -3350,6 +3708,26 @@
 "filtered": true,
 "topics": [
 "gouvernement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "f3e3f22cf5e40514",
+"title": "Propos « racistes et islamophobes » : quand LFI se déchire à Bagnolet",
+"link": "https://www.valeursactuelles.com/regions/ile-de-france/seine-saint-denis/na/societe/propos-racistes-et-islamophobes-a-bagnolet-lors-dun-conseil-municipal-que-se-passe-t-il-dans-cette-place-forte-de-la-france-insoumise",
+"summary": "Tensions à Bagnolet. Le conseil municipal du 10 novembre dernier a donné lieu à une nouvelle passe d’armes entre élus de La France insoumise.",
+"source": "Valeurs actuelles",
+"date": "2026-11-13T17:01:52+00:00",
+"added": "2026-11-15T09:34:04+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
 ],
 "natures": [],
 "speaker": ""
@@ -10828,311 +11206,5 @@
 ],
 "natures": [],
 "speaker": ""
-},
-{
-"id": "a1e3191196226382",
-"title": "Sondage présidentielle 2027 : pour la première fois, Jean-Luc Mélenchon franchit la barre symbolique des 20 % des intentions de vote",
-"link": "https://www.leparisien.fr/elections/presidentielle/sondage-presidentielle-2027-pour-la-premiere-fois-jean-luc-melenchon-franchit-la-barre-symbolique-des-20-des-intentions-de-vote-12-11-2026-F35LCMXCHJHHHCG5267NMMGA2A.php",
-"summary": "",
-"source": "Le Parisien",
-"date": "2026-11-12T09:29:11+00:00",
-"added": "2026-11-12T09:45:12+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "948929f98b15c7f9",
-"title": "Pauvreté : pour 63% des Français, la solidarité doit se mériter selon un sondage",
-"link": "https://www.europe1.fr/societe/pauvrete-pour-63-des-francais-la-solidarite-doit-se-meriter-selon-un-sondage-1227578",
-"summary": "Près des deux tiers pensent que la solidarité devrait être réservée aux \"plus méritants\", selon un sondage OpinionWay présenté jeudi par le Secours catholique ce jeudi.",
-"source": "Europe 1",
-"date": "2026-11-12T09:16:00+00:00",
-"added": "2026-11-12T17:42:15+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "a61aa92b953025d9",
-"title": "«Jean-Luc Mélenchon ne parle qu'à une seule catégorie de la population et plus à la population gé...",
-"link": "https://www.europe1.fr/emissions/lheure-des-pros/jean-luc-melenchon-ne-parle-qua-une-seule-categorie-de-la-population-et-plus-a-la-population-ge-1227575",
-"summary": "",
-"source": "Europe 1",
-"date": "2026-11-12T09:15:01+00:00",
-"added": "2026-11-12T09:45:12+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "1965f5aeb166848d",
-"title": "Services publics : \"Ce n'est pas qu'une question de budget, c'est une question aussi parfois de structuration\", estime le politologue Brice Soccol",
-"link": "https://www.franceinfo.fr/societe/services-publics-ce-n-est-pas-qu-une-question-de-budget-c-est-une-question-aussi-parfois-de-structuration-estime-le-politologue-brice-soccol_8278940.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "Brice Soccol, politologue et essayiste, était l'invité actu de la matinale de franceinfo, jeudi 12 novembre, pour évoquer les services publics.",
-"source": "franceinfo",
-"date": "2026-11-12T09:08:15+00:00",
-"added": "2026-11-12T09:45:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"matinales"
-],
-"natures": [
-"Citation"
-],
-"speaker": ""
-},
-{
-"id": "0a77c45a4b305870",
-"title": "LFI/Bagnolet : «C'est peut-être l'après Mélenchon qui se joue avec cette séquence», souligne Pasc...",
-"link": "https://www.europe1.fr/emissions/lheure-des-pros/lfi-bagnolet-cest-peut-etre-lapres-melenchon-qui-se-joue-avec-cette-sequence-souligne-pasc-1227548",
-"summary": "",
-"source": "Europe 1",
-"date": "2026-11-12T09:05:01+00:00",
-"added": "2026-11-12T14:04:30+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "07f31c88c270820e",
-"title": "Jean-Louis Bourlanges : « Les candidats du bloc central manquent tragiquement d’ambition »",
-"link": "https://www.lepoint.fr/politique/jean-louis-bourlanges-les-candidats-du-bloc-central-manquent-tragiquement-dambition-LDO2VBLKFFCVNN7ZR34CRV7ENY/",
-"summary": "",
-"source": "Le Point",
-"date": "2026-11-12T09:00:00+00:00",
-"added": "2026-11-12T09:45:12+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jean-Louis Bourlanges"
-},
-{
-"id": "ad5ba968d57f168a",
-"title": "Manifestation du 17 octobre: \"plus de 700 demandes\" de prêts à taux zéro de la part des commerçants sinistrés, annonce Roland Lescure",
-"link": "https://www.bfmtv.com/politique/video-manifestation-du-17-octobre-plus-de-700-demandes-de-prets-a-taux-zero-de-la-part-des-commercants-sinistres-annonce-roland-lescure_VN-202611120373.html",
-"summary": "VIDÉO - Roland Lescure, ministre de l'Économie, ouvre le 14e Salon du Made in France, à Paris, ce jeudi 12 novembre.",
-"source": "BFMTV",
-"date": "2026-11-12T08:58:38+00:00",
-"added": "2026-11-12T09:45:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [
-"Citation",
-"Annonce"
-],
-"speaker": "Roland Lescure"
-},
-{
-"id": "134d0491aced0813",
-"title": "VRAI OU FAUX. École, maternité, bureaux de poste... Les services publics reculent-ils en zone rurale ?",
-"link": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-ecole-maternite-bureaux-de-poste-les-services-publics-reculent-ils-en-zone-rurale_8258096.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "Franceinfo organise jeudi une journée spéciale consacrée à \"Nos services publics\" et reçoit huit candidats à l'élection présidentielle.",
-"source": "franceinfo",
-"date": "2026-11-12T08:50:51+00:00",
-"added": "2026-11-12T09:45:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "79703c6af6a56e2c",
-"title": "\"Le Made in France aujourd'hui, c'est devenu cool\", affirme Roland Lescure",
-"link": "https://www.bfmtv.com/politique/video-le-made-in-france-aujourd-hui-c-est-devenu-cool-affirme-roland-lescure_VN-202611120360.html",
-"summary": "VIDÉO - Roland Lescure, ministre de l'Économie, ouvre le 14e Salon du Made in France, à Paris, ce jeudi 12 novembre.",
-"source": "BFMTV",
-"date": "2026-11-12T08:46:09+00:00",
-"added": "2026-11-12T09:45:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Roland Lescure"
-},
-{
-"id": "803cdbfb5f87de0a",
-"title": "Présidentielle 2027 : «Je me réserve toutes les possibilités», assure Bruno Le Maire",
-"link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-je-me-reserve-toutes-les-possibilites-assure-bruno-le-maire-20261112",
-"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
-"source": "Le Figaro",
-"date": "2026-11-12T08:37:25+00:00",
-"added": "2026-11-12T09:45:12+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Bruno Le Maire"
-},
-{
-"id": "5b3726bdeec18735",
-"title": "Violences : Jean-Luc Mélenchon dédouane les lycéens",
-"link": "https://www.europe1.fr/emissions/lheure-des-pros/violences-jean-luc-melenchon-dedouane-les-lyceens-1227425",
-"summary": "Tous les jours, actualité, débats et bonne humeur rythment L'Heure des pros.",
-"source": "Europe 1",
-"date": "2026-11-12T08:35:01+00:00",
-"added": "2026-11-12T14:04:30+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "60555e5a9bb59b4c",
-"title": "\"Nous devons aller vers des solutions beaucoup plus radicales\", affirme Bruno Le Maire à propos des augmentations de salaires",
-"link": "https://www.franceinfo.fr/politique/nous-devons-aller-vers-des-solutions-beaucoup-plus-radicales-affirme-bruno-le-maire-a-propos-des-augmentations-de-salaires_8278877.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "Invité des \"4V\" sur France 2, jeudi 12 novembre, Bruno Lemaire, ancien ministre de l'Économie, est revenu sur la hausse du SMIC prévue pour le 1er décembre.",
-"source": "franceinfo",
-"date": "2026-11-12T08:15:21+00:00",
-"added": "2026-11-12T09:45:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Bruno Le Maire"
-},
-{
-"id": "12b10b48aff3681d",
-"title": "Le gouvernement va annoncer un nouveau plan de relance de l'agriculture, après un été caniculaire",
-"link": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/le-gouvernement-va-annoncer-un-nouveau-plan-de-relance-de-l-agriculture-apres-un-ete-caniculaire_8278871.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "Sébastien Lecornu doit présenter jeudi un plan pour relancer l'agriculture et adapter les exploitations au changement climatique, alors que les syndicats du secteur menacent de se remobiliser cet hiver.",
-"source": "franceinfo",
-"date": "2026-11-12T08:04:23+00:00",
-"added": "2026-11-12T09:45:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "c1a5250c2fe6289b",
-"title": "“Des Kévin, il y en a des centaines”: le maire de Trappes affirme être victime au quotidien d’attaques racistes",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/direct-presidentielle-2027-jean-luc-melenchon-estime-que-la-droite-a-enfin-un-candidat-qui-ressemble-a-quelque-chose-avec-teddy-riner_LN-202611120185.html",
-"summary": "La journée de commémoration du 11-Novembre a été marquée par les discours très politiques des deux favoris des sondages, Jean-Luc Mélenchon et Marine Le Pen, à l'élection présidentielle ce mercredi.",
-"source": "BFMTV",
-"date": "2026-11-12T07:56:18+00:00",
-"added": "2026-11-12T07:58:51+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": ""
-},
-{
-"id": "566a752939ab0c86",
-"title": "\"Dire que la France est raciste est faux\", assure Andrea Kotarac, porte-parole de la campagne de Marine Le Pen, qui défend ses propos",
-"link": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/dire-que-la-france-est-raciste-est-faux-assure-andrea-kotarac-porte-parole-de-la-campagne-de-marine-le-pen-qui-defend-ses-propos_8249974.html",
-"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
-"source": "franceinfo",
-"date": "2026-11-12T07:51:38+00:00",
-"added": "2026-11-12T09:45:12+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "Andrea Kotarac"
 }
 ]
