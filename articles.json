@@ -1,5 +1,212 @@
 [
 {
+"id": "f460cd3af030e814",
+"title": "Présidentielle 2027 : Rousseau appelle les Écologistes à se rallier à LFI pour la présidentielle, Tondelier dénonce une « provocation",
+"link": "https://www.leparisien.fr/politique/presidentielle-2027-rousseau-appelle-les-ecologistes-a-se-rallier-a-lfi-pour-la-presidentielle-tondelier-denonce-une-provocation-15-11-2026-D3HHDNGM5VEQ7JDCSCYCXE6XA4.php",
+"summary": "",
+"source": "Le Parisien",
+"date": "2026-11-15T19:14:12+00:00",
+"added": "2026-11-15T19:32:58+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Réaction"
+],
+"speaker": "Marine Tondelier"
+},
+{
+"id": "77f187f698ebb514",
+"title": "Présidentielle 2027. Un départ à 60 ou 62 ans, mais plus de travail : le plan du RN pour les retraites",
+"link": "https://www.ouest-france.fr/elections/presidentielle/presidentielle-2027-un-depart-a-60-ou-62-ans-mais-plus-de-travail-le-plan-du-rn-pour-les-retraites-d78f6318-e125-11f1-af71-dcff17318571",
+"summary": "",
+"source": "Ouest-France",
+"date": "2026-11-15T19:10:29+00:00",
+"added": "2026-11-15T19:32:58+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "309d799e0636b36a",
+"title": "Présidentielle : \"Toutes celles et ceux qui veulent nous abattre soutiennent Marine Le Pen\", dénonce Marine Tondelier en évoquant les appuis de Donald Trump et Elon Musk à la candidate RN",
+"link": "https://www.franceinfo.fr/replay-magazine/franceinfo/le-grand-enjeu/presidentielle-toutes-celles-et-ceux-qui-veulent-nous-abattre-soutiennent-marine-le-pen-denonce-marine-tondelier-en-evoquant-les-appuis-de-donald-trump-et-elon-musk-a-la-candidate-rn_8283797.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "Marine Tondelier était l'invitée du Grand Enjeu sur franceinfo ce dimanche 15 novembre. La candidate des Écologistes à l'élection présidentielle est revenue sur les déclarations d'Emmanuel Macron concernant Marine Le Pen et Jean-Luc Mélenchon et leur position sur la guerre en Ukraine.",
+"source": "franceinfo",
+"date": "2026-11-15T19:02:15+00:00",
+"added": "2026-11-15T19:32:58+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"elysee",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "Marine Tondelier"
+},
+{
+"id": "3f971fcf2bddfb90",
+"title": "Présidentielle 2027 : Jean-François Copé appelle les candidats de la droite à l’« esprit de responsabilité » et au « dialogue »",
+"link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-jean-francois-cope-appelle-les-candidats-de-la-droite-a-l-esprit-de-responsabilite-et-au-dialogue-20261115",
+"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
+"source": "Le Figaro",
+"date": "2026-11-15T19:01:42+00:00",
+"added": "2026-11-15T19:32:58+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Jean-François Copé"
+},
+{
+"id": "3f78c3573714fd26",
+"title": "Pour les Français juifs, Mélenchon vu comme le premier responsable politique de la montée de l’antisémitisme",
+"link": "https://www.leparisien.fr/societe/religions/pour-les-francais-juifs-melenchon-vu-comme-le-premier-responsable-politique-de-la-montee-de-lantisemitisme-15-11-2026-TGYAJPVXFBF3RABTIRQKCGFNMU.php",
+"summary": "",
+"source": "Le Parisien",
+"date": "2026-11-15T18:32:19+00:00",
+"added": "2026-11-15T19:32:58+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "9423a4232b908789",
+"title": "Présidentielle 2027 : Edouard Philippe veut bâtir quatre millions de logements supplémentaires en 10 ans",
+"link": "https://www.franceinfo.fr/politique/edouard-philippe/presidentielle-2027-edouard-philippe-veut-batir-quatre-millions-de-logements-supplementaires-en-10-ans_8283821.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "\"Le pire ennemi du pouvoir d'achat des Français aujourd'hui, c'est le logement\", selon le candidat à la présidentielle.",
+"source": "franceinfo",
+"date": "2026-11-15T18:08:54+00:00",
+"added": "2026-11-15T19:32:58+00:00",
+"official": false,
+"also": [
+"Libération",
+"Le Figaro"
+],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": "Édouard Philippe"
+},
+{
+"id": "dc0b4ce0b1948969",
+"title": "Logement, 35 heures, allocations familiales... Édouard Philippe distille de nouvelles propositions de son programme présidentiel",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/logement-35-heures-allocations-familiales-edouard-philippe-distille-de-nouvelles-propositions-de-son-programme-presidentiel_AD-202611150344.html",
+"summary": "Ce dimanche, Édouard Philippe a présenté de nouvelles propositions, notamment sur le logement, dans le cadre de sa candidature à l'élection présidentielle.",
+"source": "BFMTV",
+"date": "2026-11-15T18:04:26+00:00",
+"added": "2026-11-15T19:32:58+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "767dabc7ea7a0ff5",
+"title": "Des militants d'extrême droite ont été agressés dans un bar à Marseille",
+"link": "https://www.franceinfo.fr/marseille/des-militants-d-extreme-droite-ont-ete-agresses-dans-un-bar-a-marseille_8283776.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
+"source": "franceinfo",
+"date": "2026-11-15T18:02:53+00:00",
+"added": "2026-11-15T19:32:58+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "bece373bc873878b",
+"title": "EXCLUSIF. « Pour une société qui ne laisse personne de côté » : l’appel des Restos du cœur avant la présidentielle 2027",
+"link": "https://www.ouest-france.fr/elections/presidentielle/exclusif-pour-une-societe-qui-ne-laisse-personne-de-cote-lappel-des-restos-du-cur-avant-la-presidentielle-2027-f0a926fe-e030-11f1-9a29-f4bab172af08",
+"summary": "",
+"source": "Ouest-France",
+"date": "2026-11-15T18:00:10+00:00",
+"added": "2026-11-15T19:32:58+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "17a0d1478a4a5657",
+"title": "Sondage 2027 : Riner sans programme... mais quasi à 5% ! - 15/11",
+"link": "https://www.bfmtv.com/replay-emissions/hammett-week-end/video-sondage-2027-riner-sans-programme-mais-quasi-a-5-15-11_VN-202611150333.html",
+"summary": "VIDÉO - Retrouvez le replay de Hammett Week-end sur BFMTV.",
+"source": "BFMTV",
+"date": "2026-11-15T17:21:51+00:00",
+"added": "2026-11-15T19:32:58+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "719f58a5523e4202",
 "title": "« Fractures françaises » : un paysage politique clivé, dans lequel l’élection présidentielle n’est plus vue comme une solution",
 "link": "https://www.lemonde.fr/politique/article/2026/11/15/fractures-francaises-un-paysage-politique-clive-dans-lequel-l-election-presidentielle-n-est-plus-vue-comme-une-solution_6811038_823448.html",
@@ -30,6 +237,24 @@
 "base": [
 "partis"
 ],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "8cc3778a19890f35",
+"title": "Permis gratuit, APL, climatisation des écoles: Marine Le Pen passe son \"Brevet présidentiel\"",
+"link": "https://lcp.fr/actualites/permis-gratuit-apl-climatisation-des-ecoles-marine-le-pen-passe-son-brevet-presidentiel",
+"summary": "Double nationalité, mariage pour tous, permis gratuit, santé mentale… Dans \"Brevet présidentiel\", nouveau programme de LCP diffusé sur le numérique, Marine Le Pen répond aux questions de Noa, 15 ans, lycéen à Bordeaux et fondateur du compte Instagram @LeSourire_Politique.",
+"source": "LCP",
+"date": "2026-11-15T17:07:46+00:00",
+"added": "2026-11-15T19:32:58+00:00",
+"official": false,
+"also": [],
+"base": [],
 "filtered": true,
 "topics": [
 "partis"
@@ -223,7 +448,8 @@
 "official": false,
 "also": [
 "Le Télégramme",
-"Midi Libre"
+"Midi Libre",
+"Le Figaro"
 ],
 "base": [
 "parlement"
@@ -288,7 +514,8 @@
 "added": "2026-11-15T17:25:43+00:00",
 "official": false,
 "also": [
-"BFMTV"
+"BFMTV",
+"Le HuffPost"
 ],
 "base": [],
 "filtered": true,
@@ -372,12 +599,34 @@
 "added": "2026-11-15T17:25:43+00:00",
 "official": false,
 "also": [
-"Sud Ouest"
+"Sud Ouest",
+"La Tribune"
 ],
 "base": [],
 "filtered": true,
 "topics": [
 "presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "084a5fc63e21bac5",
+"title": "Le ministre de l'Education nationale se rend à Nantes lundi pour la réouverture du lycée Nelson-Mandela, en partie incendié le 1er octobre",
+"link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-ministre-de-l-education-nationale-se-rend-a-nantes-lundi-pour-la-reouverture-du-lycee-nelson-mandela-en-partie-incendie-le-1er-octobre_8283644.html",
+"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
+"source": "franceinfo",
+"date": "2026-11-15T15:11:22+00:00",
+"added": "2026-11-15T19:32:58+00:00",
+"official": false,
+"also": [],
+"base": [
+"matinales"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"gouvernement"
 ],
 "natures": [],
 "speaker": ""
@@ -767,7 +1016,8 @@
 "added": "2026-11-15T13:41:12+00:00",
 "official": false,
 "also": [
-"France 24"
+"France 24",
+"La Nouvelle République"
 ],
 "base": [],
 "filtered": true,
@@ -1636,7 +1886,8 @@
 "added": "2026-11-15T09:34:04+00:00",
 "official": false,
 "also": [
-"BFMTV"
+"BFMTV",
+"Ouest-France"
 ],
 "base": [],
 "filtered": true,
@@ -3862,6 +4113,26 @@
 "speaker": ""
 },
 {
+"id": "fef803537dad6f53",
+"title": "Teddy Riner : se présenter à l'Élysée pour gagner ?",
+"link": "https://www.franceinfo.fr/replay-radio/portraits-d-actu/teddy-riner-se-presenter-a-l-elysee-pour-gagner_8261255.html",
+"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
+"source": "franceinfo",
+"date": "2026-11-14T07:29:25+00:00",
+"added": "2026-11-15T19:32:58+00:00",
+"official": false,
+"also": [],
+"base": [
+"elysee"
+],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "2f1192f889d2182d",
 "title": "Entre le RN et LFI, un triangle des Bermudes politique",
 "link": "https://www.liberation.fr/politique/entre-le-rn-et-lfi-un-triangle-des-bermudes-politique-20261114_NLWY26O4D5ECNN3AV4MMBHJPUU/",
@@ -4220,6 +4491,28 @@
 "presidentielle"
 ],
 "natures": [],
+"speaker": ""
+},
+{
+"id": "a71274c0dbd7557d",
+"title": "\"L'Emission politique\". Invitée : Marine Le Pen",
+"link": "https://www.franceinfo.fr/content/3202069/embed/",
+"summary": "Le 14 mars 2019, pour le quatrième numéro de \"L'Emission politique\" de la saison, Léa Salamé reçoit Marine Le Pen, présidente du Rassemblement national.",
+"source": "franceinfo",
+"date": "2026-11-14T02:19:15+00:00",
+"added": "2026-11-15T19:32:58+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Interview"
+],
 "speaker": ""
 },
 {
@@ -7464,6 +7757,26 @@
 "speaker": ""
 },
 {
+"id": "fb2bbb0d0396381c",
+"title": "Sondage présidentielle 2027 : tous les résultats du baromètre PrésiTrack",
+"link": "https://www.lesechos.fr/elections/presidentielle/sondage-presidentielle-2027-tous-les-resultats-du-barometre-presitrack-2250959",
+"summary": "",
+"source": "Les Echos",
+"date": "2026-11-13T08:38:00+00:00",
+"added": "2026-11-15T19:32:58+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "4f2058da43112f5a",
 "title": "\"Vous avez en France des minorités bruyantes, agissantes, violentes, qu'on laisse agir\", affirme Bruno Retailleau à propos du mouvement social",
 "link": "https://www.franceinfo.fr/politique/vous-avez-en-france-des-minorites-bruyantes-agissantes-violentes-qu-on-laisse-agir-affirme-bruno-retailleau-a-propos-du-mouvement-social_8280638.html#xtor=RSS-3-%5Bpolitique%5D",
@@ -9271,704 +9584,6 @@
 "filtered": true,
 "topics": [
 "parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "79a3e657cec9aa49",
-"title": "Présidentielle 2027: la candidate écologiste Marine Tondelier est l'invitée de \"Vous présidente\"",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/direct-presidentielle-2027-la-candidate-ecologiste-marine-tondelier-est-l-invitee-de-vous-presidente_LN-202611120882.html",
-"summary": "La candidate à l'élection présidentielle Marine Tondelier est l'invitée de BFMTV, ce jeudi 12 novembre dès 21h.",
-"source": "BFMTV",
-"date": "2026-11-12T19:31:32+00:00",
-"added": "2026-11-12T19:42:50+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"matinales",
-"presidentielle"
-],
-"natures": [
-"Interview"
-],
-"speaker": ""
-},
-{
-"id": "0ab52d4cf53484bb",
-"title": "Présidentielle 2027 : Jean-Luc Mélenchon veut créer un \"service public de la petite enfance\" et 500 000 places en crèche",
-"link": "https://www.franceinfo.fr/elections/presidentielle-2027-jean-luc-melenchon-veut-creer-un-service-public-de-la-petite-enfance-et-la-creation-de-500-000-places-de-creches_8279966.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "Dans le cadre de la journée évènement franceinfo consacrée aux services publics, Jean-Luc Mélenchon, le candidat de la France insoumise à la présidentielle, a détaillé son programme sur cet enjeu majeur du scrutin, jeudi 12 novembre, au studio 104 de la Maison de la Radio et de la Musique.",
-"source": "franceinfo",
-"date": "2026-11-12T19:26:23+00:00",
-"added": "2026-11-12T19:42:50+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jean-Luc Mélenchon"
-},
-{
-"id": "182a37cd77a07535",
-"title": "Présidentielle 2027 : \"La possibilité de se syndiquer doit être interdite\" dans la magistrature, estime Édouard Philippe",
-"link": "https://www.franceinfo.fr/elections/presidentielle-2027-la-possibilite-de-se-syndiquer-doit-etre-interdite-dans-la-magistrature-estime-edouard-philippe_8279816.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "Dans le cadre de la journée évènement franceinfo consacrée aux services publics, Édouard Philippe, candidat Horizons à la présidentielle, a détaillé son programme sur cet enjeu majeur du scrutin, jeudi 12 novembre, au studio 104 de la Maison de la Radio et de la Musique.",
-"source": "franceinfo",
-"date": "2026-11-12T19:16:15+00:00",
-"added": "2026-11-12T19:42:50+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Édouard Philippe"
-},
-{
-"id": "d9ebe6779366a58a",
-"title": "Présidentielle 2027. Nathalie Arthaud : « Mélenchon veut gouverner avec la bourgeoisie »",
-"link": "https://www.estrepublicain.fr/elections/2026/11/12/nathalie-arthaud-melenchon-veut-gouverner-avec-la-bourgeoisie",
-"summary": "Elle tient un discours anticapitaliste immuable. Nathalie Arthaud, porte-parole de Lutte Ouvrière et candidate à l’élection présidentielle 2027, est venue à Nancy, ce jeudi 12 novembre, pour rencontrer les étudiants de Sciences Po et leur adresser un message.",
-"source": "L'Est Républicain",
-"date": "2026-11-12T19:13:48+00:00",
-"added": "2026-11-12T19:42:50+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Nathalie Arthaud"
-},
-{
-"id": "0550c812442d4216",
-"title": "Abattement « retraités », allégements de charges, donations… Les propositions surprenantes du Sénat sur la fiscalité",
-"link": "https://www.lefigaro.fr/economie/abattement-retraites-allegements-de-charges-donations-les-propositions-surprenantes-du-senat-sur-la-fiscalite-20261112",
-"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
-"source": "Le Figaro",
-"date": "2026-11-12T19:13:05+00:00",
-"added": "2026-11-12T19:42:50+00:00",
-"official": false,
-"also": [],
-"base": [
-"parlement"
-],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "d056c304ef93179b",
-"title": "Budget 2027 de la Sécurité sociale : le Sénat atténue la hausse prévue sur les cotisations retraites des collectivités locales et des hôpitaux",
-"link": "https://www.publicsenat.fr/actualites/politique/budget-2027-de-la-securite-sociale-cnracl-le-senat-attenue-la-hausse-prevue-sur-les-cotisations-retraites-des-collectivites-locales-et-des-hopitaux",
-"summary": "Surprise ce 12 novembre lors des débats sur le projet de loi de financement de la Sécurité sociale (PLFSS) pour 2027.",
-"source": "Public Sénat",
-"date": "2026-11-12T19:06:59+00:00",
-"added": "2026-11-12T19:42:50+00:00",
-"official": false,
-"also": [],
-"base": [
-"parlement"
-],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "fe0d6011135c614d",
-"title": "C'est Benjamin de franceinfo ! #Episode2",
-"link": "https://www.franceinfo.fr/politique/c-est-benjamin-de-franceinfo-episode2_8279429.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "C’est Benjamin de franceinfo, à la rencontre des Français jusqu’au deuxième tour de la présidentielle 2027. À Amiens (Picardie), c’est jour de manif pour défendre les services publics.",
-"source": "franceinfo",
-"date": "2026-11-12T19:00:02+00:00",
-"added": "2026-11-12T19:42:50+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "e8b658874920b260",
-"title": "Budget de la Sécu : au Sénat, la crise sociale bouscule l’examen du texte",
-"link": "https://www.lopinion.fr/economie/budget-de-la-secu-au-senat-la-crise-sociale-bouscule-lexamen-du-texte",
-"summary": "Le rapporteur général de la commission des affaires sociales du Sénat, Olivier Henno, promettait « stabilité et responsabilité » après le rejet du texte à l’Assemblée nationale.",
-"source": "L'Opinion",
-"date": "2026-11-12T19:00:00+00:00",
-"added": "2026-11-12T19:42:50+00:00",
-"official": false,
-"also": [],
-"base": [
-"parlement"
-],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "ff822319efccd0d4",
-"title": "Services publics : entre open bar et cure d’austérité, le grand écart des candidats",
-"link": "https://www.lopinion.fr/politique/services-publics-entre-open-bar-et-cure-dausterite-le-grand-ecart-des-candidats",
-"summary": "Les Français dressent un constat amer. Selon un récent sondage Elabe, 62 % d’entre eux se disent insatisfaits de la qualité des services publics et 66 % jugent qu’elle s’est dégradée ces dernières années.",
-"source": "L'Opinion",
-"date": "2026-11-12T19:00:00+00:00",
-"added": "2026-11-12T19:42:50+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "653114b9a38ec735",
-"title": "Présidentielle: Raphaël Glucksmann veut \"être plus décomplexé\" dans la campagne, selon François Kalfon, député européen PS-Place publique",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-raphael-glucksmann-veut-etre-plus-decomplexe-dans-la-campagne-selon-francois-kalfon-depute-europeen-ps-place-publique_VN-202611120848.html",
-"summary": "Invité de BFMTV, François Kalfon, député européen PS-Place publique et soutien de Raphaël Glucksmann, est revenu sur la dynamique de campagne du vainqueur de la primaire sociale-démocrate.",
-"source": "BFMTV",
-"date": "2026-11-12T18:47:54+00:00",
-"added": "2026-11-12T19:42:50+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"matinales",
-"parlement",
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Raphaël Glucksmann"
-},
-{
-"id": "e8c09a1ad37132dd",
-"title": "Présidentielle 2027 : Retailleau insiste sur la primaire, même sans Philippe (qui redit non)",
-"link": "https://www.20minutes.fr/politique/4262516-20261112-presidentielle-2027-retailleau-insiste-primaire-philippe-redit-non?at_medium=display&at_campaign=149",
-"summary": "La primaire aura-t-elle lieu sans Edouard Philippe ? Pour Bruno Retailleau, la réponse est oui. Le candidat des Républicains à la présidentielle a réaffirmé ce jeudi sur France Info qu’il souhaitait organiser un scrutin interne, même si le chef d’Horizons refuse d’y prendre part.",
-"source": "20 Minutes",
-"date": "2026-11-12T18:47:21+00:00",
-"added": "2026-11-12T19:42:50+00:00",
-"official": false,
-"also": [
-"Libération",
-"BFMTV",
-"France 24",
-"Le Parisien",
-"Europe 1",
-"La Provence",
-"Ouest-France"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": "Bruno Retailleau"
-},
-{
-"id": "010f802ca43281f1",
-"title": "Présidentielle 2027 : santé, justice, éducation, culture…Que retenir du grand oral des candidats sur les services publics",
-"link": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-sante-justice-education-cultureque-retenir-du-grand-oral-des-candidats-sur-les-services-publics",
-"summary": "Les services publics s’imposent dans la campagne présidentielle. Jeudi 12 novembre, huit candidats à l’Élysée ont confronté leurs propositions lors d’une journée spéciale organisée par Radio France.",
-"source": "Public Sénat",
-"date": "2026-11-12T18:46:56+00:00",
-"added": "2026-11-12T19:42:50+00:00",
-"official": false,
-"also": [
-"franceinfo"
-],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"elysee",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "8d65983fc63dbef1",
-"title": "VIDEO. \"Culte de la personnalité\", purges supposées de militants… des témoignages pointent une dérive autocratique de Gabriel Attal à la tête de Renaissance",
-"link": "https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/video-culte-de-la-personnalite-purges-supposees-de-militants-des-temoignages-pointent-une-derive-autocratique-de-gabriel-attal-a-la-tete-de-renaissance_8279141.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "Depuis sa rupture politique avec Emmanuel Macron, Gabriel Attal est plus que jamais \"en marche\"... vers l’Elysée !",
-"source": "franceinfo",
-"date": "2026-11-12T18:41:48+00:00",
-"added": "2026-11-12T19:42:50+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "ff633b039c876fa8",
-"title": "Panne électrique à Casablanca : première réaction du gouvernement",
-"link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNeGNjcXJCWUxNVU14dGlaM3F5bkNUdC03ekZFdnJjMDBaYlZha0RmejIzaThhNzhqYTJKZjRjNnEtb0tEektFblo2c21qVVdHZVdoM2JxUm0wZi12Qmw5c0dvd1JRR2lCWGswalBsZWdKcWZCT2llZlBJT3FNSXRCQ2hXbU5vdjVWbGIyUGhwd2RaVTM1Qm5PYkVDMmN3dnNQMEozeUNiMjBHb2tBV0dudmVoX3VmS1dWNk1jSEhsUjdxMzNMODlmd0FMbklpemo3LTV2RFRvRVNuRUh3ZmkxM0ZYUjllaWhleV8yMXlWd2FJdXZndEhURldzaTRpRUFHZjc4aXNGQzlST0RGTXJ4MU5pSmk4ZWVkdjNv?oc=5",
-"summary": "",
-"source": "L'Opinion",
-"date": "2026-11-12T18:40:46+00:00",
-"added": "2026-11-12T21:35:46+00:00",
-"official": false,
-"also": [],
-"base": [
-"gouvernement"
-],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "3187ec0a9035729f",
-"title": "Jean Puech, ancien ministre de l’agriculture, est mort à l’âge de 84 ans",
-"link": "https://www.lemonde.fr/disparitions/article/2026/11/12/jean-puech-ancien-ministre-de-l-agriculture-est-mort-a-l-age-de-84-ans_6809154_3382.html",
-"summary": "Homme de terrain et bâtisseur, Jean Puech fut aussi président de l’Aveyron de 1976 à 2008.",
-"source": "Le Monde",
-"date": "2026-11-12T18:38:18+00:00",
-"added": "2026-11-12T19:42:50+00:00",
-"official": false,
-"also": [
-"RTL"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "a5f0085b6b9e2cd3",
-"title": "Candidats à la présidentielle : que veulent-ils faire pour l’éducation ?",
-"link": "https://www.franceinfo.fr/elections/candidats-a-la-presidentielle-que-veulent-ils-faire-pour-l-education_8279921.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "Les candidats à la présidentielle face à “Nos services publics”. Rémunération des enseignants, Parcoursup, emploi, etc.",
-"source": "franceinfo",
-"date": "2026-11-12T18:34:37+00:00",
-"added": "2026-11-12T19:42:50+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "67a61ded4cf0062b",
-"title": "\"Nos services publics\" : retrouvez les interviews de huit des principaux candidats à la présidentielle",
-"link": "https://www.franceinfo.fr/elections/replay-nos-services-publics-retrouvez-les-interviews-de-huit-des-principaux-candidats-a-la-presidentielle_8279891.html",
-"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
-"source": "franceinfo",
-"date": "2026-11-12T18:32:52+00:00",
-"added": "2026-11-12T21:35:46+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "277d318530e11790",
-"title": "Présidentielle 2027. Europe à six États, fusion des départements... Bruno Le Maire avance ses pions",
-"link": "https://www.ledauphine.com/elections/2026/11/12/europe-a-six-etats-fusion-des-departements-bruno-le-maire-avance-ses-pions",
-"summary": "Profitant de la faiblesse du bloc central dans les sondages, où pas un candidat ne s’impose, l’ancien ministre de l’Économie Bruno Le Maire a présenté son projet pour la France, sans être (pour l’heure) candidat lui-même.",
-"source": "Le Dauphiné Libéré",
-"date": "2026-11-12T18:31:55+00:00",
-"added": "2026-11-12T19:42:50+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"gouvernement",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "8e1afb882d05d54a",
-"title": "« Il n’y a pas de discriminations » en France : comment le RN tente de renverser la polémique",
-"link": "https://www.lopinion.fr/politique/il-ny-a-pas-de-discriminations-en-france-comment-le-rn-tente-de-renverser-la-polemique",
-"summary": "« Je partage à 300 % ses propos », a défendu Jordan Bardella, mardi sur BFMTV. Le président du Rassemblement national a dit en avoir « ras-le-bol que l’on mette systématiquement la France sur le banc des accusés », s’agaçant également de « ce qu’essaie de faire croire une partie de la gauche ».",
-"source": "L'Opinion",
-"date": "2026-11-12T18:30:00+00:00",
-"added": "2026-11-12T19:42:50+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "5ad75a8206630c8a",
-"title": "Présidentielle 2027 : la surenchère des suppressions de postes de fonctionnaires, du bloc central à l’extrême droite",
-"link": "https://www.lemonde.fr/politique/article/2026/11/12/presidentielle-2027-du-bloc-central-a-l-extreme-droite-la-surenchere-des-suppressions-de-postes-de-fonctionnaires_6809150_823448.html",
-"summary": "Lors d’un grand oral organisé par Franceinfo, jeudi, plusieurs candidats du bloc central, de la droite et de l’extrême droite ont détaillé leur vision du secteur public.",
-"source": "Le Monde",
-"date": "2026-11-12T18:23:31+00:00",
-"added": "2026-11-12T19:42:50+00:00",
-"official": false,
-"also": [
-"Sud Ouest"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "0206fdf64da339c3",
-"title": "Fin de l’abattement pour les retraités, non-remplacement d’un fonctionnaire sur deux : le Sénat veut renforcer l’effort budgétaire « de l’ordre de 6 milliards d’euros »",
-"link": "https://www.publicsenat.fr/actualites/parlementaire/fin-de-labattement-pour-les-retraites-non-remplacement-dun-fonctionnaire-sur-deux-le-senat-veut-renforcer-leffort-budgetaire-de-lordre-de-6",
-"summary": "La rapporteure du budget du Sénat, Christine Lavarde, veut supprimer l’abattement de 10 % pour les retraités, dans le cadre du budget 2027.",
-"source": "Public Sénat",
-"date": "2026-11-12T18:16:26+00:00",
-"added": "2026-11-12T21:35:46+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [
-"Citation"
-],
-"speaker": ""
-},
-{
-"id": "f626f42d36d8db97",
-"title": "9ème sommet de la Communauté politique européenne à Dublin.",
-"link": "https://www.elysee.fr/emmanuel-macron/2026/11/12/9eme-sommet-de-la-communaute-politique-europeenne-a-dublin",
-"summary": "Le Président Emmanuel Macron s’est rendu à Dublin, ce jeudi afin de participer au 9ᵉ sommet de la Communauté politique européenne.",
-"source": "Élysée",
-"date": "2026-11-12T18:15:00+00:00",
-"added": "2026-11-13T15:35:44+00:00",
-"official": true,
-"also": [],
-"base": [
-"elysee"
-],
-"filtered": false,
-"topics": [
-"elysee"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "cc5c9de49f80e3d0",
-"title": "Présidentielle 2027 : Édouard Philippe veut «interdire» aux magistrats le droit de se syndiquer",
-"link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-edouard-philippe-veut-interdire-aux-magistrats-le-droit-de-se-syndiquer-20261112",
-"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
-"source": "Le Figaro",
-"date": "2026-11-12T18:14:24+00:00",
-"added": "2026-11-12T19:42:50+00:00",
-"official": false,
-"also": [
-"Le Parisien",
-"Libération",
-"Public Sénat"
-],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Édouard Philippe"
-},
-{
-"id": "2833c25d0c920aa5",
-"title": "Présidentielle 2027 : Au salon du Made in France, Fabien Roussel veut booster l’emploi et l’industrie par la commande publique",
-"link": "https://www.humanite.fr/politique/fabien-roussel/presidentielle-2027-au-salon-du-made-in-france-fabien-roussel-veut-booster-lemploi-et-lindustrie-par-la-commande-publique",
-"summary": "Le candidat communiste à l’élection présidentielle s’est rendu jeudi midi dans les allées du salon du Made in France (MIF).",
-"source": "L'Humanité",
-"date": "2026-11-12T18:10:29+00:00",
-"added": "2026-11-12T19:42:50+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": "Fabien Roussel"
-},
-{
-"id": "1ca4f9b295deabb7",
-"title": "On fait le point sur la proposition de Jean-Luc Mélenchon d'autodéclarer les arrêts-maladies de courte durée",
-"link": "https://www.franceinfo.fr/sante/maladie/on-fait-le-point-sur-la-proposition-de-jean-luc-melenchon-d-autodeclarer-les-arrets-maladie-de-courte-duree_8279177.html",
-"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
-"source": "franceinfo",
-"date": "2026-11-12T18:04:45+00:00",
-"added": "2026-11-12T19:42:50+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "294436ecd5c0bfe2",
-"title": "Présidentielle 2027 : Marine Le Pen reste en tête des intentions de vote, Teddy Riner rebat les cartes au centre, selon notre sondage",
-"link": "https://www.cnews.fr/france/2026-11-12/presidentielle-2027-marine-le-pen-reste-en-tete-des-intentions-de-vote-teddy",
-"summary": "Selon un sondage OpinionWay pour CNEWS publié ce jeudi 12 novembre, Marine Le Pen reste en tête des intentions de vote à la présidentielle de 2027, tandis que Teddy Riner, tout juste candidat, rebat les cartes au centre.",
-"source": "CNews",
-"date": "2026-11-12T18:02:18+00:00",
-"added": "2026-11-12T19:42:50+00:00",
-"official": false,
-"also": [
-"RTL"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "257b561bc6f4cb64",
-"title": "SIGNÉ THRÉARD - 2027 : Glucksmann va-t-il décoller un jour ? - 12/11",
-"link": "https://www.bfmtv.com/replay-emissions/signe-consigny/video-signe-threard-2027-glucksmann-va-t-il-decoller-un-jour-12-11_VN-202611120801.html",
-"summary": "VIDÉO - Retrouvez le replay de Signé Thréard sur BFMTV.",
-"source": "BFMTV",
-"date": "2026-11-12T17:53:11+00:00",
-"added": "2026-11-12T19:42:50+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "b2c27decd6beb77d",
-"title": "VIDEO. \"Complément d'enquête\". \"J'ai décidé qu'on ne pourrait plus porter l'abaya à l'école\" : les coulisses d'une opération de communication en 2023 qui a fait bondir la popularité de Gabriel Attal",
-"link": "https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/video-complement-d-enquete-j-ai-decide-qu-on-ne-pourrait-plus-porter-l-abaya-a-l-ecole-les-coulisses-d-une-operation-de-communication-en-2023-qui-a-fait-bondir-la-popularite-de-gabriel-attal_8278169.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
-"source": "franceinfo",
-"date": "2026-11-12T17:51:36+00:00",
-"added": "2026-11-12T19:42:50+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": ""
-},
-{
-"id": "5eac3bcbc16a7beb",
-"title": "A droite, le train de la primaire accélère",
-"link": "https://www.lopinion.fr/politique/a-droite-le-train-de-la-primaire-accelere",
-"summary": "Les représentants de Gabriel Attal (Renaissance), David Lisnard (Nouvelle Energie) et Bruno Retailleau (Les Républicains) ont rendez-vous mardi pour une première réunion de travail sur la primaire.",
-"source": "L'Opinion",
-"date": "2026-11-12T17:45:00+00:00",
-"added": "2026-11-12T19:42:50+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "5f255586c14cb1e9",
-"title": "Israël interdit à Jean-Luc Mélenchon l’entrée sur son territoire, jugeant LFI « extrêmement hostile » à son égard",
-"link": "https://www.lemonde.fr/international/article/2026/11/12/israel-interdit-a-jean-luc-melenchon-l-entree-sur-son-territoire-jugeant-lfi-extremement-hostile-a-son-egard_6809141_3210.html",
-"summary": "L’Etat hébreu interdira l’accès à son territoire à toute personne « agissant contre ses intérêts et incitant à la haine contre ses citoyens », a annoncé la diplomatie israélienne dans un communiqué.",
-"source": "Le Monde",
-"date": "2026-11-12T17:39:28+00:00",
-"added": "2026-11-12T17:42:15+00:00",
-"official": false,
-"also": [
-"franceinfo",
-"Libération",
-"La Croix",
-"20 Minutes",
-"TF1 Info",
-"Le HuffPost",
-"CNews",
-"France 24",
-"Le Parisien",
-"Ouest-France",
-"Le Figaro",
-"Europe 1",
-"Le Dauphiné Libéré",
-"RFI",
-"L'Express",
-"BFMTV",
-"Sud Ouest",
-"La Montagne",
-"La Nouvelle République",
-"Le Télégramme",
-"L'Est Républicain",
-"RMC",
-"Les Echos",
-"La Voix du Nord",
-"LCP",
-"Marianne",
-"Franceinfo"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "4a9ed0239af18051",
-"title": "Israël interdit à Jean-Luc Mélenchon et Mathilde Panot l'entrée sur son territoire, dénonçant \"la position anti-israélienne virulente\" de La France insoumise",
-"link": "https://www.franceinfo.fr/politique/la-france-insoumise/israel-interdit-a-jean-luc-melenchon-et-mathilde-panot-l-entree-sur-son-territoire-denoncant-la-position-extremement-anti-israelienne-de-la-france-insoumise_8279801.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "\"Je regrette que le gouvernement d'Israël me poursuive de cette manière\", a réagi Jean-Luc Mélenchon sur franceinfo, assurant qu'il ne changerait pas son discours sur le pays s'il était élu.",
-"source": "franceinfo",
-"date": "2026-11-12T17:34:45+00:00",
-"added": "2026-11-12T17:42:15+00:00",
-"official": false,
-"also": [
-"Le Nouvel Obs",
-"L'Humanité",
-"RFI",
-"Valeurs actuelles"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement",
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "d60e27fd9901404a",
-"title": "Présidentielle 2027 : Riner, Lagarde… La multiplication des candidatures au centre et à droite sème le doute",
-"link": "https://www.sudouest.fr/sport/judo/teddy-riner/presidentielle-2027-riner-lagarde-la-multiplication-des-candidatures-au-centre-et-a-droite-seme-le-doute-31499910.php",
-"summary": "",
-"source": "Sud Ouest",
-"date": "2026-11-12T17:27:30+00:00",
-"added": "2026-11-12T17:42:15+00:00",
-"official": false,
-"also": [
-"La Croix"
-],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
 ],
 "natures": [],
 "speaker": ""
