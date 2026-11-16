@@ -1,5 +1,335 @@
 [
 {
+"id": "f1e058495bf9597e",
+"title": "Elue présidente, que ferait Marine Le Pen avec la Ligue des droits de l'Homme ?",
+"link": "https://www.tf1info.fr/replay-lci/videos/video-elue-presidente-que-ferait-marine-le-pen-avec-la-ligue-des-droits-de-l-homme-17197-2476252.html",
+"summary": "Interrogée par Gilles Bouleau sur le financement de la LDH, Marine Le Pen dénonce une association \"violente à l'égard de la police et des institutions\"",
+"source": "TF1 Info",
+"date": "2026-11-16T21:30:11+00:00",
+"added": "2026-11-16T21:38:27+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "0716410ea189e5d2",
+"title": "« Il y a eu des erreurs » mais j’ai fait « de mon mieux pour l’intérêt du pays », lâche Macron pour ses dix ans",
+"link": "https://www.20minutes.fr/politique/4263405-20261116-erreurs-fait-mieux-interet-pays-lache-macron-dix-ans?at_medium=display&at_campaign=149",
+"summary": "«Je veux […] dire à celles et ceux qui ne m’ont pas apporté leur suffrage qu’à chaque instant j’ai fait de mon mieux pour l’intérêt supérieur du pays », a écrit Emmanuel Macron sur X, à l’occasion des 10 ans de l’annonce de sa première candidature à l’Elysée\n« Il y a eu parfois des erreurs », a-t-il admis, « mais…",
+"source": "20 Minutes",
+"date": "2026-11-16T21:28:11+00:00",
+"added": "2026-11-16T21:38:27+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Emmanuel Macron"
+},
+{
+"id": "35b9c5ae8c5a1019",
+"title": "Débat présidentiel : Attal, Glucksmann et Mélenchon tombent sur Le Pen et ses mesures anti-associatives",
+"link": "https://www.liberation.fr/politique/il-ny-a-personne-qui-veut-parler-de-la-distribution-retrouvez-les-moments-forts-du-debat-presidentielle-20261116_MZBZMVHPSVBL3DQHSSB3IWPCUE/",
+"summary": "Marine Le Pen, Jean-Luc Mélenchon, Raphaël Glucksmann, Bruno Retailleau et Gabriel Attal débattent sur le pouvoir d’achat et la précarité ce lundi soir sur TF1 /LCI.",
+"source": "Libération",
+"date": "2026-11-16T21:26:40+00:00",
+"added": "2026-11-16T21:38:27+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "b03badbd74ee6c18",
+"title": "« C'est pas l'URSS » : Mélenchon et Le Pen s'écharpent sur le Smic lors du débat sur le pouvoir d'achat",
+"link": "https://www.ledauphine.com/politique/2026/11/16/c-est-pas-l-urss-melenchon-et-le-pen-s-echarpent-sur-le-smic-lors-du-debat-sur-le-pouvoir-d-achat",
+"summary": "Plusieurs des principaux candidats à la présidentielle débattent ce lundi soir sur le thème du pouvoir d'achat.",
+"source": "Le Dauphiné Libéré",
+"date": "2026-11-16T20:53:54+00:00",
+"added": "2026-11-16T21:38:27+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "c29b06de7413b44a",
+"title": "Emmanuel Macron \"aura fait tellement de mal à la France\", estime Nicolas Dupont-Aignan, candidat à l'élection présidentielle",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-emmanuel-macron-aura-fait-tellement-de-mal-a-la-france-estime-nicolas-dupont-aignan-candidat-a-l-election-presidentielle_VN-202611160901.html",
+"summary": "VIDÉO - Nicolas Dupont-Aignan, candidat à l'élection présidentielle, était l'invité de BFMTV ce lundi 16 novembre.",
+"source": "BFMTV",
+"date": "2026-11-16T20:38:14+00:00",
+"added": "2026-11-16T21:38:27+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"elysee",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Nicolas Dupont-Aignan"
+},
+{
+"id": "0d8c074a82948106",
+"title": "Hausse du Smic: \"c'est pas l'URSS\", rétorque Mélenchon à Le Pen",
+"link": "https://www.france24.com/fr/info-en-continu/20261116-hausse-du-smic-c-est-pas-l-urss-r%C3%A9torque-m%C3%A9lenchon-%C3%A0-le-pen",
+"summary": "",
+"source": "France 24",
+"date": "2026-11-16T20:35:31+00:00",
+"added": "2026-11-16T21:38:27+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Hausse du Smic"
+},
+{
+"id": "9f45845a3c0617c0",
+"title": "Âge de départ à la retraite: ce que proposent les candidats à l'élection présidentielle de 2027",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-age-de-depart-a-la-retraite-ce-que-proposent-les-candidats-a-l-election-presidentielle-de-2027_VN-202611160897.html",
+"summary": "Le Conseil d'orientation des retraites (Cor) a alourdi sa prévision de déficit du système des retraites en 2070 en raison notamment de la baisse de la natalité, selon son projet de rapport annuel qui doit être approuvé jeudi par les membres de l'institution.",
+"source": "BFMTV",
+"date": "2026-11-16T20:33:30+00:00",
+"added": "2026-11-16T21:38:27+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "671288bd138e9507",
+"title": "\"J'ai fait de mon mieux\" : Emmanuel Macron dresse un bilan de son passage à l'Élysée sous forme de mea culpa pour les dix ans de sa candidature à la présidentielle",
+"link": "https://www.franceinfo.fr/politique/emmanuel-macron/j-ai-fait-de-mon-mieux-emmanuel-macron-dresse-un-bilan-de-son-passage-a-l-elysee-sous-forme-de-mea-culpa-pour-les-dix-ans-de-sa-candidature-a-la-presidentielle_8285444.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "\"J'ai fait de mon mieux\", écrit Emmanuel Macron dans un message sur les réseaux sociaux ce lundi 16 novembre, qui sonne comme un premier bilan.",
+"source": "franceinfo",
+"date": "2026-11-16T20:29:05+00:00",
+"added": "2026-11-16T21:38:27+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "c310bcca9f6b243c",
+"title": "Relance de l'offre immobilière: \"La pire crise d'accès au logement depuis l'Après-Guerre\", déclare Vincent Jeanbrun",
+"link": "https://www.bfmtv.com/politique/video-relance-de-l-offre-immobiliere-la-pire-crise-d-acces-au-logement-depuis-l-apres-guerre-declare-vincent-jeanbrun_VN-202611160886.html",
+"summary": "Vincent Jeanbrun, le ministre de la Ville et du Logement, s'est exprimé face aux députés ce lundi 16 novembre, avant le débat sur l'examen du projet de loi sur la relance du logement à l'Assemblée nationale.",
+"source": "BFMTV",
+"date": "2026-11-16T20:24:59+00:00",
+"added": "2026-11-16T21:38:27+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement",
+"parlement"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Vincent Jeanbrun"
+},
+{
+"id": "bcfe9409f9b32b85",
+"title": "Guerre en Ukraine, Europe: l'interview de Nicolas Dupont-Aignan, candidat à la présidentielle",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-guerre-en-ukraine-europe-l-interview-de-nicolas-dupont-aignan-candidat-a-la-presidentielle_VN-202611160896.html",
+"summary": "Nicolas Dupont-Aignan, candidat \"Debout la France\" à l'élection présidentielle, était l'invité de BFMTV ce lundi 16 novembre",
+"source": "BFMTV",
+"date": "2026-11-16T20:19:33+00:00",
+"added": "2026-11-16T21:38:27+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"presidentielle"
+],
+"natures": [
+"Interview"
+],
+"speaker": "Nicolas Dupont-Aignan"
+},
+{
+"id": "8002d8e26177c8cc",
+"title": "Centre pour migrants au Rwanda: \"Le Rwanda offrirait une seconde chance\" aux personnes expulsées, déclare le ministre Vincent Biruta",
+"link": "https://www.bfmtv.com/international/afrique/video-centre-pour-migrants-au-rwanda-le-rwanda-offrirait-une-seconde-chance-aux-personnes-expulsees-declare-le-ministre-vincent-biruta_VN-202611160882.html",
+"summary": "VIDÉO - Vincent Biruta, ministre de l'Intérieur de Rwanda, a tenu un point presse aux côtés de cinq pays de l'UE à Vienne.",
+"source": "BFMTV",
+"date": "2026-11-16T20:13:48+00:00",
+"added": "2026-11-16T21:38:27+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Vincent Biruta"
+},
+{
+"id": "cfa60884db8423b8",
+"title": "Vers une primaire à droite? Nicolas Dupont-Aignan affirme être \"en rupture\" avec les candidats de droite",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-vers-une-primaire-a-droite-nicolas-dupont-aignan-affirme-etre-en-rupture-avec-les-candidats-de-droite_VN-202611160874.html",
+"summary": "VIDÉO - Nicolas Dupont-Aignan, candidat à l'élection présidentielle, était l'invité de BFMTV ce lundi 16 novembre.",
+"source": "BFMTV",
+"date": "2026-11-16T20:06:12+00:00",
+"added": "2026-11-16T21:38:27+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Nicolas Dupont-Aignan"
+},
+{
+"id": "d2e9ae50d255e545",
+"title": "Gabriel Attal fustige le projet budgétaire de Marine le Pen... qui le renvoie au bilan d'Emmanuel Macron",
+"link": "https://www.tf1info.fr/replay-lci/videos/video-gabriel-attal-fustige-le-projet-budgetaire-de-marine-le-pen-qui-le-renvoie-au-bilan-d-emmanuel-macron-33448-2476220.html",
+"summary": "Le candidat Renaissance a attaqué le projet économique de Marine Le Pen. La candidate du RN l'a appelé à \"la modestie\", en évoquant le bilan d'Emmanuel Macron auquel Gabriel Attal a participé.",
+"source": "TF1 Info",
+"date": "2026-11-16T20:05:12+00:00",
+"added": "2026-11-16T21:38:27+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"elysee",
+"partis"
+],
+"natures": [
+"Réaction"
+],
+"speaker": "Gabriel Attal"
+},
+{
+"id": "edde971996c99182",
+"title": "\"Il n'y a aucun avantage\": Nicolas Dupont-Aignan, candidat à l'élection présidentielle, explique pourquoi il veut sortir de l'Union européenne",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-il-n-y-a-aucun-avantage-nicolas-dupont-aignan-candidat-a-l-election-presidentielle-explique-pourquoi-il-veut-sortir-de-l-union-europeenne_VN-202611160872.html",
+"summary": "VIDÉO - Nicolas Dupont-Aignan, candidat à l'élection présidentielle, était l'invité de BFMTV ce lundi 16 novembre.",
+"source": "BFMTV",
+"date": "2026-11-16T19:59:44+00:00",
+"added": "2026-11-16T21:38:27+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Nicolas Dupont-Aignan"
+},
+{
+"id": "b22fff9853d97eac",
+"title": "Nicolas Dupont-Aignan, candidat à l'élection présidentielle, souhaite \"offrir un choix aux Français\"",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-nicolas-dupont-aignan-candidat-a-l-election-presidentielle-souhaite-offir-un-choix-aux-francais_VN-202611160856.html",
+"summary": "VIDÉO - Nicolas Dupont-Aignan, candidat à l'élection présidentielle, était l'invité de BFMTV ce lundi 16 novembre.",
+"source": "BFMTV",
+"date": "2026-11-16T19:44:55+00:00",
+"added": "2026-11-16T21:38:27+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Nicolas Dupont-Aignan"
+},
+{
+"id": "655e76c40070ce79",
+"title": "Teddy Riner, Jean-Luc Mélenchon, violence lycéenne: l'interview de Fabien Roussel (PCF)",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-teddy-riner-jean-luc-melenchon-violence-lyceenne-l-interview-de-fabien-roussel-pcf_VN-202611160868.html",
+"summary": "Fabien Roussel, candidat PCF à l'élection présidentielle, était l'invité de BFMTV. Il est revenu sur la montée de tensions dans les lycées, la candidature de Teddy Riner et la multiplication des candidatures du centre.",
+"source": "BFMTV",
+"date": "2026-11-16T19:44:14+00:00",
+"added": "2026-11-16T21:38:27+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Interview"
+],
+"speaker": "Fabien Roussel"
+},
+{
 "id": "49e89eb56184f5aa",
 "title": "\"J'ai fait de mon mieux\" : à six mois de la fin de son mandat, Emmanuel Macron reconnaît \"des erreurs\" au cours de ses dix ans au pouvoir",
 "link": "https://www.franceinfo.fr/elections/j-ai-fait-de-mon-mieux-a-six-mois-de-la-fin-de-son-mandat-emmanuel-macron-reconnait-des-erreurs-au-cours-de-ses-dix-ans-au-pouvoir_8285318.html#xtor=RSS-3-%5Bpolitique%5D",
@@ -19,6 +349,27 @@
 "Citation"
 ],
 "speaker": "Emmanuel Macron"
+},
+{
+"id": "3739316f6193babd",
+"title": "Teddy Riner devant Fabien Roussel selon un sondage Elabe: \"Je vais me mettre au judo\", ironise le candidat PCF à l'élection présidentielle",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-teddy-riner-devant-fabien-roussel-selon-un-sondage-elabe-je-vais-me-mettre-au-judo-ironise-le-candidat-pcf-a-l-election-presidentielle_VN-202611160848.html",
+"summary": "Cinq mois avant le premier tour de l'élection présidentielle, Jean-Luc Mélenchon consolide sa deuxième place derrière Marine Le Pen, d'après le dernier sondage Elabe pour BFMTV et La Tribune dimanche.",
+"source": "BFMTV",
+"date": "2026-11-16T19:33:53+00:00",
+"added": "2026-11-16T21:38:27+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": ""
 },
 {
 "id": "0a48578be09d8453",
@@ -280,6 +631,27 @@
 "speaker": ""
 },
 {
+"id": "825a300ee66dc2ff",
+"title": "Tirs de mortiers d'artifice dans un lycée: \"C'est inadmissible\", assure Fabien Roussel, candidat PCF à l'élection présidentielle",
+"link": "https://www.bfmtv.com/politique/video-tirs-de-mortiers-d-artifice-dans-un-lycee-c-est-inadmissible-assure-fabien-roussel-candidat-pcf-a-l-election-presidentielle_VN-202611160815.html",
+"summary": "Les faits se sont déroulés ce lundi 16 novembre au matin sur la commune du Blanc-Mesnil, en Seine-Saint-Denis.",
+"source": "BFMTV",
+"date": "2026-11-16T19:00:27+00:00",
+"added": "2026-11-16T21:38:27+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Fabien Roussel"
+},
+{
 "id": "ce6d2bc60cc93835",
 "title": "Comment le Rassemblement national prépare la mise au pas financière des associations",
 "link": "https://www.slate.fr/politique/pourquoi-associations-devenues-cible-prioritaire-rassemblement-national-extreme-droite-subventions",
@@ -318,6 +690,48 @@
 "speaker": ""
 },
 {
+"id": "de5793489d5d10e2",
+"title": "BFM Y ÉTAIT - Il y a 10 ans jour pour jour, Emmanuel Macron annonçait sa candidature à la présidentielle",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-bfm-y-etait-il-y-a-10-ans-jour-pour-jour-emmanuel-macron-annoncait-sa-candidature-a-la-presidentielle_VN-202611160806.html",
+"summary": "Entre critiques, scepticisme et interrogations, peu imaginaient alors son accession à l’Élysée. Olivier Truchot nous raconte comment BFMTV a vécu et couvert cette annonce, et comment la classe politique a accueilli cette candidature qui allait déjouer tous les pronostics.",
+"source": "BFMTV",
+"date": "2026-11-16T18:49:13+00:00",
+"added": "2026-11-16T21:38:27+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "ced2eeb97e585c6e",
+"title": "Hollande sur la campagne de Glucksmann : « Il ne faut pas être candidat pour être candidat »",
+"link": "https://www.ledauphine.com/videos/hollande-sur-la-campagne-de-glucksmann-il-ne-faut-pas-etre-candidat-pour-etre-candidat-3zpqmk3",
+"summary": "A quelques mois de l’élection présidentielle, François Hollande, était à Grenoble pour une séance de dédicace de son dernier livre qui regroupe 80 propositions.",
+"source": "Le Dauphiné Libéré",
+"date": "2026-11-16T18:46:25+00:00",
+"added": "2026-11-16T21:38:27+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Raphaël Glucksmann"
+},
+{
 "id": "7b6cdcf36b69779f",
 "title": "Pour les dix ans de sa candidature à l'Elysée, Emmanuel Macron admet des « erreurs »",
 "link": "https://www.lesechos.fr/politique-societe/emmanuel-macron-president/pour-les-dix-ans-de-sa-candidature-a-lelysee-emmanuel-macron-admet-des-erreurs-2262901",
@@ -339,6 +753,27 @@
 "Citation"
 ],
 "speaker": "Emmanuel Macron"
+},
+{
+"id": "820d8fc035e81c44",
+"title": "Ce coup de pression de LFI dit tout des difficultés de Marine Tondelier pour 2027",
+"link": "https://www.huffingtonpost.fr/politique/article/ce-coup-de-pression-de-la-france-insoumise-dit-tout-des-difficultes-de-marine-tondelier-pour-2027_359346.html",
+"summary": "Les Écologistes ne savent plus vraiment où ils habitent. À cinq mois de l’élection présidentielle, le parti dirigé par Marine Tondelier tâtonne.",
+"source": "Le HuffPost",
+"date": "2026-11-16T18:43:07+00:00",
+"added": "2026-11-16T21:38:27+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
 },
 {
 "id": "e1306be4fc1566f0",
@@ -370,7 +805,9 @@
 "date": "2026-11-16T18:24:00+00:00",
 "added": "2026-11-16T19:46:50+00:00",
 "official": false,
-"also": [],
+"also": [
+"CNews"
+],
 "base": [
 "partis"
 ],
@@ -391,7 +828,9 @@
 "date": "2026-11-16T18:17:04+00:00",
 "added": "2026-11-16T19:46:50+00:00",
 "official": false,
-"also": [],
+"also": [
+"Le Figaro"
+],
 "base": [
 "partis"
 ],
@@ -541,6 +980,28 @@
 "speaker": "Marine Le Pen"
 },
 {
+"id": "cb3a8d43fbbde457",
+"title": "« Je vous en supplie mes chers collègues, votons cet amendement » : le Sénat demande au gouvernement de faire appliquer la loi sur l’expérimentation du cannabis thérapeutique",
+"link": "https://www.publicsenat.fr/actualites/sante/je-vous-en-supplie-mes-chers-collegues-votons-cet-amendement-le-senat-demande-au-gouvernement-de-faire-appliquer-la-loi-sur-lexperimentation-du-cannabis-therap",
+"summary": "Les sénateurs, de gauche et de droite, ont adopté un amendement de la socialiste Marion Canalès pour faire une demande de rapport au gouvernement sur l’expérimentation du cannabis thérapeutique.",
+"source": "Public Sénat",
+"date": "2026-11-16T17:46:39+00:00",
+"added": "2026-11-16T21:38:27+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement",
+"parlement",
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": ""
+},
+{
 "id": "92ca816b079e4d50",
 "title": "Marine Le Pen assure auprès de l’ambassadeur ukrainien que la France ne pourrait « plus aider financièrement » Kiev si elle est élue présidente de la République",
 "link": "https://www.lemonde.fr/politique/article/2026/11/16/marine-le-pen-assure-aupres-de-l-ambassadeur-ukrainien-que-la-france-ne-pourrait-plus-aider-financierement-kiev-si-elle-est-elue-presidente-de-la-republique_6812229_823448.html",
@@ -554,7 +1015,8 @@
 "CNews",
 "Le Figaro",
 "RFI",
-"Le Télégramme"
+"Le Télégramme",
+"franceinfo"
 ],
 "base": [],
 "filtered": true,
@@ -751,6 +1213,24 @@
 "Citation"
 ],
 "speaker": "Marine Le Pen"
+},
+{
+"id": "0d7327d3dce71f5f",
+"title": "Enquête «Fractures Françaises » : Y a-t-il un retour net du clivage droite-gauche ?",
+"link": "https://www.publicsenat.fr/actualites/politique/enquete-fractures-francaises-y-a-t-il-un-retour-net-du-clivage-droite-gauche",
+"summary": "À l’approche de l’élection présidentielle, Ipsos BVA-CESI Ecole d’ingénieurs a publié ce lundi son enquête annuelle sur les valeurs des Français pour le journal Le Monde, le Cevipof, la Fondation Jean Jaurès et l’Institut Montaigne.",
+"source": "Public Sénat",
+"date": "2026-11-16T17:15:15+00:00",
+"added": "2026-11-16T21:38:27+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
 },
 {
 "id": "b544d744c99fe3d1",
@@ -1682,6 +2162,28 @@
 "speaker": ""
 },
 {
+"id": "8aa2c0730e684eed",
+"title": "[Podcasts] Le silence du jour de Jordan Bardella qui en dit long à propos d'un éventuel mariage avec Maria Carolina. \"Il ne faut jamais rien exclure ! Avec Maria Carolina, c'est du sérieux. J'irai là où mon cœur me mènera\" - 16/11",
+"link": "https://rmc.bfmtv.com/replay-emissions/les-grandes-gueules/le-silence-du-jour-de-jordan-bardella-qui-en-dit-long-a-propos-d-un-eventuel-mariage-avec-maria-carolina-il-ne-faut-jamais-rien-exclure-avec-maria-carolina-c-est-du-serieux-j-irai-la-ou-mon-c-ur-me-menera-16-11_EN-202611160546.html",
+"summary": "Aujourd'hui, Zohra Bitan, intervenante auprès de la jeunesse, Charles Consigny, avocat, et Abel Boyi, éducateur, débattent de l'actualité autour d'Alain Marschall et Olivier Truchot.",
+"source": "RMC",
+"date": "2026-11-16T13:35:20+00:00",
+"added": "2026-11-16T21:38:27+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": ""
+},
+{
 "id": "b8f4d5b4b2f75b2d",
 "title": "[Podcasts] L'énrme clash du jour -Charles Consigny : \"N'êtes-vous pas sous influence des Russes ? Vous êtes dans une position capitularde !\" Jordan Bardella, président du RN : \"C'est insupportable les leçons de bobos !\" - 16/11",
 "link": "https://rmc.bfmtv.com/replay-emissions/les-grandes-gueules/l-enrme-clash-du-jour-charles-consigny-n-etes-vous-pas-sous-influence-des-russes-vous-etes-dans-une-position-capitularde-jordan-bardella-president-du-rn-c-est-insupportable-les-lecons-de-bobos-16-11_EN-202611160540.html",
@@ -1873,6 +2375,25 @@
 "speaker": "Laurence Ferrari"
 },
 {
+"id": "02dbba22e88bbf43",
+"title": "« Il faut des messages clairs pour sanctionner ceux qui se foutent du système ! » : le Sénat adopte la « taxe lapin » contre les patients qui n’honorent pas un rendez-vous médical",
+"link": "https://www.publicsenat.fr/actualites/sante/il-faut-des-messages-clairs-pour-sanctionner-ceux-qui-se-foutent-du-systeme-le-senat-adopte-la-taxe-lapin-contre-les-patients-qui-n",
+"summary": "La Haute assemblée a adopté un amendement défendu par les sénateurs LR, centristes, Horizons et RN/UDR, qui instaurent une pénalité de 5 euros, si un patient n’honore pas un rendez-vous médical.",
+"source": "Public Sénat",
+"date": "2026-11-16T12:18:54+00:00",
+"added": "2026-11-16T21:38:27+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "27dbddfa18200437",
 "title": "\"Je souhaite que les Français la connaissent comme moi\": Jordan Bardella évoque sa relation avec Maria Carolina de Bourbon des Deux-Siciles",
 "link": "https://rmc.bfmtv.com/actualites/politique/je-souhaite-que-les-francais-la-connaissent-comme-moi-jordan-bardella-evoque-sa-relation-avec-maria-carolina-de-bourbon-des-deux-siciles_AV-202611160490.html",
@@ -1905,7 +2426,9 @@
 "official": false,
 "also": [
 "La Tribune",
-"RFI"
+"RFI",
+"LCP",
+"Europe 1"
 ],
 "base": [
 "presidentielle"
@@ -2285,6 +2808,42 @@
 "filtered": true,
 "topics": [
 "partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "7900b32f079fe245",
+"title": "Émission spéciale — Présidentielle 2027, les candidats face aux étudiants",
+"link": "https://www.publicsenat.fr/emission/evenement/presidentielle-2027-les-candidats-face-aux-etudiants-e0",
+"summary": "Clôture du 95ème Congrès des Assises des Départements de France à Reims\n95ème Congrès des Assises des Départements de France à Reims\nCongrès des Départements de France : face aux méga-feux et à l'urgence sociale\nBrigitte Bourguignon : « Derrière le brut d’un salaire, il y a votre carte vitale »",
+"source": "Public Sénat",
+"date": "2026-11-16T10:41:49+00:00",
+"added": "2026-11-16T21:38:27+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "e6f3963f6bdbdfde",
+"title": "Émission spéciale — Présidentielle 2027, les candidats face aux journalistes de la Presse Présidentielle",
+"link": "https://www.publicsenat.fr/emission/evenement/presidentielle-2027-les-candidats-face-aux-journalistes-de-la-presse-presidentielle-e0",
+"summary": "Présidentielle 2027, les candidats face aux journalistes de la Presse Présidentielle\nClôture du 95ème Congrès des Assises des Départements de France à Reims\n95ème Congrès des Assises des Départements de France à Reims\nCongrès des Départements de France : face aux méga-feux et à l'urgence sociale\nBrigitte Bourguignon…",
+"source": "Public Sénat",
+"date": "2026-11-16T10:41:47+00:00",
+"added": "2026-11-16T21:38:27+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
 ],
 "natures": [],
 "speaker": ""
@@ -3161,6 +3720,28 @@
 "speaker": ""
 },
 {
+"id": "8a48befb53d2b046",
+"title": "Bonjour chez vous ! — Jean Louis Bourlanges : « L’obsession de Poutine, c’est la reconstitution de l’URSS »",
+"link": "https://www.publicsenat.fr/emission/bonjour-chez-vous/jean-louis-bourlanges-lobsession-de-poutine-cest-la-reconstitution-de-lurss-e0",
+"summary": "« Elle joue contre la France ». Selon l’entourage d’Emmanuel Macron, le Président serait inquiet quant à une éventuelle élection de Marine Le Pen lors de l’élection présidentielle de 2027.",
+"source": "Public Sénat",
+"date": "2026-11-16T07:21:00+00:00",
+"added": "2026-11-16T21:38:27+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"elysee",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Jean Louis Bourlanges"
+},
+{
 "id": "6f92360cfd97c2f5",
 "title": "Présidentielle 2027 : Marine Le Pen affirme avoir changé d'avis sur l’interdiction de la double nationalité et le mariage pour tous",
 "link": "https://www.cnews.fr/france/2026-11-16/presidentielle-2027-marine-le-pen-affirme-avoir-change-davis-sur-linterdiction-de",
@@ -3372,7 +3953,8 @@
 "added": "2026-11-16T07:19:23+00:00",
 "official": false,
 "also": [
-"Le Figaro"
+"Le Figaro",
+"Libération"
 ],
 "base": [],
 "filtered": true,
@@ -4141,6 +4723,26 @@
 "filtered": true,
 "topics": [
 "presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "45118001d2970e68",
+"title": "Budget 2027 : les sénateurs votent en faveur d’une hausse des taxes sur les boissons Vody, sucrées et ultra-alcoolisées",
+"link": "https://www.ouest-france.fr/economie/budget-collectivites-etat/budget-2027-les-senateurs-votent-en-faveur-dune-hausse-des-taxes-sur-les-boissons-vody-sucrees-et-ultra-alcoolisees-ad84d6b6-e102-11f1-b029-43a761592972",
+"summary": "",
+"source": "Ouest-France",
+"date": "2026-11-15T17:15:28+00:00",
+"added": "2026-11-16T21:38:27+00:00",
+"official": false,
+"also": [],
+"base": [
+"parlement"
+],
+"filtered": true,
+"topics": [
+"parlement"
 ],
 "natures": [],
 "speaker": ""
@@ -8801,274 +9403,5 @@
 "Citation"
 ],
 "speaker": "Natacha Polony"
-},
-{
-"id": "78b46685deab803e",
-"title": "\"Peut-il mettre à mal l'annonce faite d'un combat entre le RN et LFI ?\" : Jean-Charles Orsucci, porte-parole de campagne de Gabriel Attal, ne ferme par la porte à Teddy Riner",
-"link": "https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/peut-il-mettre-a-mal-l-annonce-faite-d-un-combat-entre-le-rn-et-lfi-jean-charles-orsucci-porte-parole-de-campagne-de-gabriel-attal-ne-ferme-par-la-porte-a-teddy-riner_8281595.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "Vendredi 13 novembre, Jean-Charles Orsucci, porte-parole de campagne de Gabriel Attal, et Aleksandar Nikolic, porte-parole de la campagne de Marine Le Pen, étaient les invités du \"Duel\" sur franceinfo.",
-"source": "franceinfo",
-"date": "2026-11-13T21:31:29+00:00",
-"added": "2026-11-13T21:36:21+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Annonce"
-],
-"speaker": ""
-},
-{
-"id": "d63c66d7aa1dc6b8",
-"title": "Proposition de nomination de Thibaut Guilluy en qualité de directeur général de France Travail.",
-"link": "https://www.elysee.fr/emmanuel-macron/2026/11/13/proposition-de-nomination-de-thibaut-guilluy-en-qualite-de-directeur-general-de-france-travail",
-"summary": "Le Président de la République envisage, sur proposition du Premier ministre, de renouveler Thibaut Guilluy en qualité de directeur général de France Travail.",
-"source": "Élysée",
-"date": "2026-11-13T21:25:00+00:00",
-"added": "2026-11-14T15:26:37+00:00",
-"official": true,
-"also": [],
-"base": [
-"elysee"
-],
-"filtered": false,
-"topics": [
-"elysee",
-"gouvernement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "04fbcc7067e907ea",
-"title": "Budget 2027 de la Sécurité sociale : le Sénat adopte un volet recettes affaibli",
-"link": "https://www.publicsenat.fr/actualites/politique/budget-2027-de-la-securite-sociale-le-senat-adopte-un-volet-recettes-affaibli",
-"summary": "L’heure de la mi-temps a sonné sur le projet de loi de financement de la Sécurité sociale (PLFSS) pour 2027 au Sénat.",
-"source": "Public Sénat",
-"date": "2026-11-13T21:16:40+00:00",
-"added": "2026-11-13T21:36:21+00:00",
-"official": false,
-"also": [],
-"base": [
-"parlement"
-],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "4181fabe410819e6",
-"title": "Présidentielle 2027 : «Tous les proches d'Emmanuel Macron seront balayés», analyse Jules Torres",
-"link": "https://www.cnews.fr/france/2026-11-13/presidentielle-2027-tous-les-proches-demmanuel-macron-seront-balayes-analyse",
-"summary": "«Tous les proches d'Emmanuel Macron seront balayés», a analysé le journaliste Jules Torres, ce vendredi sur CNEWS, au sujet des candidats à l'élection présidentielle de 2027.",
-"source": "CNews",
-"date": "2026-11-13T21:11:00+00:00",
-"added": "2026-11-14T13:41:31+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"elysee",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jules Torres"
-},
-{
-"id": "f85c006ae638c8d1",
-"title": "Budget de la Sécu : le Sénat adopte les recettes et promet des économies sur les dépenses",
-"link": "https://www.lefigaro.fr/flash-eco/budget-de-la-secu-le-senat-adopte-les-recettes-et-promet-des-economies-sur-les-depenses-20261113",
-"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
-"source": "Le Figaro",
-"date": "2026-11-13T20:53:19+00:00",
-"added": "2026-11-13T21:36:21+00:00",
-"official": false,
-"also": [
-"BFMTV"
-],
-"base": [
-"parlement"
-],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [
-"Annonce"
-],
-"speaker": ""
-},
-{
-"id": "761584d7bd579a64",
-"title": "Prime de risque : Laurent Nuñez propose une revalorisation jugée « insuffisante » voire « inadmissible » par les syndicats",
-"link": "https://www.lemonde.fr/politique/article/2026/11/13/prime-de-risque-laurent-nunez-propose-une-revalorisation-jugee-insuffisante-voire-inadmissible-par-les-syndicats_6809385_823448.html",
-"summary": "Un plan de revalorisation de la prime ISSP, qui n’avait pas évolué depuis 2019, a été présenté par le ministre de l’intérieur aux organisations représentatives, vendredi, « compte tenu des risques inouïs auxquels sont exposés actuellement les policiers et les gendarmes ».",
-"source": "Le Monde",
-"date": "2026-11-13T20:47:11+00:00",
-"added": "2026-11-13T21:36:21+00:00",
-"official": false,
-"also": [
-"franceinfo"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [
-"Citation",
-"Annonce"
-],
-"speaker": "Laurent Nuñez"
-},
-{
-"id": "f8342182a7a807b3",
-"title": "Glucksmann, Le Pen... des candidats harcelés ? - 13/11",
-"link": "https://www.bfmtv.com/replay-emissions/fauvelle-week-end/video-glucksmann-le-pen-des-candidats-harceles-13-11_VN-202611130858.html",
-"summary": "VIDÉO - Retrouvez le replay de Fauvelle Week-end sur BFMTV.",
-"source": "BFMTV",
-"date": "2026-11-13T20:29:02+00:00",
-"added": "2026-11-13T21:36:21+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "494207766ee855f8",
-"title": "Présidentielle 2027 : Teddy Riner, le seul candidat adoubé par Emmanuel Macron",
-"link": "https://www.lemonde.fr/politique/video/2026/11/13/presidentielle-2027-teddy-riner-le-seul-candidat-adoube-par-emmanuel-macron_6809383_823448.html",
-"summary": "Après l’annonce de la candidature du judoka français, les liens entre l’athlète et le président de la République sont analysés par Nathalie Segaunes, journaliste politique au « Monde ».",
-"source": "Le Monde",
-"date": "2026-11-13T20:23:08+00:00",
-"added": "2026-11-13T21:36:21+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "77d8146a949df92b",
-"title": "Programme de LFI, Teddy Riner...: Aurélie Trouvé (LFI) répond",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-programme-de-lfi-teddy-riner-aurelie-trouve-lfi-repond_VN-202611130851.html",
-"summary": "Face à une salle pleine, Jean-Luc Mélenchon a développé les idées de son programme présidentiel au Bourget (Seine-Saint-Denis).",
-"source": "BFMTV",
-"date": "2026-11-13T20:18:23+00:00",
-"added": "2026-11-13T21:36:21+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Réaction"
-],
-"speaker": "Aurélie Trouvé"
-},
-{
-"id": "e1e122306b9a7c75",
-"title": "La France insoumise : un programme qui divise - 13/11",
-"link": "https://www.bfmtv.com/replay-emissions/fauvelle-week-end/video-la-france-insoumise-un-programme-qui-divise-13-11_VN-202611130844.html",
-"summary": "VIDÉO - Retrouvez le replay de Fauvelle Week-end sur BFMTV.",
-"source": "BFMTV",
-"date": "2026-11-13T20:10:01+00:00",
-"added": "2026-11-13T21:36:21+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "12af12a2ad9f5309",
-"title": "Moscou n'est «pas en position» d'avoir des exigences sur la sécurité de l'Europe, affirme le premier ministre letton",
-"link": "https://www.lefigaro.fr/international/moscou-n-est-pas-en-position-d-avoir-des-exigences-sur-la-securite-de-l-europe-affirme-le-premier-ministre-letton-20261113",
-"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
-"source": "Le Figaro",
-"date": "2026-11-13T19:59:52+00:00",
-"added": "2026-11-13T21:36:21+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement"
-],
-"natures": [
-"Citation"
-],
-"speaker": ""
-},
-{
-"id": "caa82eb6888fbc8e",
-"title": "Présidentielle : Teddy Riner, poids lourd ou poids plume ?",
-"link": "https://www.liberation.fr/idees-et-debats/editorial/presidentielle-teddy-riner-poids-lourd-ou-poids-plume-20261113_3GUNMQ7S5JBNPLAK7MENDYAVBE/",
-"summary": "Alors que la menace de l’extrême droite n’a jamais été aussi forte, émettre des doutes à l’égard de la candidature du judoka n’est en rien méprisant.",
-"source": "Libération",
-"date": "2026-11-13T19:59:33+00:00",
-"added": "2026-11-13T21:36:21+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "3127a99c470c76c7",
-"title": "« Une question de méthode ! » : union sacrée au Sénat pour s’opposer à la baisse du remboursement des cures thermales, dans le budget 2027 de la Sécurité sociale",
-"link": "https://www.publicsenat.fr/actualites/sante/une-question-de-methode-union-sacree-au-senat-pour-sopposer-a-la-baisse-du-remboursement-des-cures-thermales-dans-le-budget-2027-de-la-securite-sociale",
-"summary": "Les sénateurs ont amendé le projet de loi de financement de la Sécurité sociale (PLFSS) pour 2027 pour garantir que le niveau de prise en charge des cures thermales ne soit pas modifié l’an prochain.",
-"source": "Public Sénat",
-"date": "2026-11-13T19:54:39+00:00",
-"added": "2026-11-13T21:36:21+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [],
-"speaker": ""
 }
 ]
