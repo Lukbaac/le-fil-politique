@@ -1,5 +1,611 @@
 [
 {
+"id": "e9a39451bc6537ad",
+"title": "Présidentielle 2027 : le défi de l’unité",
+"link": "https://www.lemonde.fr/idees/article/2026/11/16/presidentielle-2027-le-defi-de-l-unite_6811669_3232.html",
+"summary": "La France est de plus en plus divisée selon l’enquête annuelle « Fractures françaises », publiée mi-novembre. Ce paysage éclaté correspond aux premières semaines de la campagne présidentielle, Marine Le Pen et Jean-Luc Mélenchon profitant à plein de l’inconsistance de leurs adversaires.",
+"source": "Le Monde",
+"date": "2026-11-16T09:00:15+00:00",
+"added": "2026-11-16T09:26:05+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "abbd7ed5d4c6b636",
+"title": "« Dans des villes auparavant épargnées par les militants radicaux de droite se développent des sections formées au coup de poing »",
+"link": "https://www.lemonde.fr/idees/article/2026/11/16/dans-des-villes-auparavant-epargnees-par-les-militants-radicaux-de-droite-se-developpent-des-sections-formees-au-coup-de-poing_6811666_3232.html",
+"summary": "Les manifestants subissent des agressions répétées, parfois favorisées par la passivité des forces de l’ordre rappelle le sociologue Emmanuel Casajus qui met en garde, dans une tribune au « Monde », contre la présence, dans les rues, de groupes d’extrême droite de plus en plus violents.",
+"source": "Le Monde",
+"date": "2026-11-16T09:00:05+00:00",
+"added": "2026-11-16T09:26:05+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "bc312076d046260e",
+"title": "Budget 2027 : faute de financements, quel avenir pour la musique ?",
+"link": "https://www.liberation.fr/idees-et-debats/tribunes/budget-2027-faute-de-financements-quel-avenir-pour-la-musique-20261116_EJIEY67PHZDSTAQZFYYC233XSA/",
+"summary": "Un collectif d’artistes et d’acteur·ices du secteur alerte sur les coupes budgétaires prévues dans le projet de loi des finances.",
+"source": "Libération",
+"date": "2026-11-16T09:00:00+00:00",
+"added": "2026-11-16T09:26:05+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "5061d350a7a9982a",
+"title": "Présidentielle 2027 : pourquoi Édouard Philippe est absent du débat des Restos du Cœur sur la précarité... semant le trouble dans son propre camp",
+"link": "https://www.rtl.fr/actu/politique/presidentielle-2027-pourquoi-edouard-philippe-est-absent-du-debat-des-restos-du-coeur-sur-la-precarite-semant-le-trouble-dans-son-propre-camp-7900696493",
+"summary": "Il sera le grand absent du débat présidentiel organisé par les Restos du Cœur.",
+"source": "RTL",
+"date": "2026-11-16T08:47:21+00:00",
+"added": "2026-11-16T09:26:05+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "b54b4b7464ac6424",
+"title": "Colère lycéenne: Édouard Geffray est arrivé au lycée Nelson-Mandela de Nantes, des élèves protestent dans le hall",
+"link": "https://www.bfmtv.com/politique/direct-presidentielle-2027-edouard-philippe-refuse-toujours-une-primaire-mais-est-ouvert-au-rassemblement-plusieurs-candidats-a-l-elysee-debattent-ce-lundi-soir_LN-202611160145.html",
+"summary": "Cinq candidats à l'élection présidentielle, Gabriel Attal, Raphaël Glucksmann, Jean-Luc Mélenchon, Marine Le Pen et Bruno Retailleau débattront ce lundi 16 novembre au soir depuis Rungis.",
+"source": "BFMTV",
+"date": "2026-11-16T08:46:51+00:00",
+"added": "2026-11-16T09:26:05+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "8d6bcf852be401cc",
+"title": "Présidentielle: Olivier Faure (PS) réaffirme son soutien à \"son candidat\" Raphaël Glucksmann",
+"link": "https://www.bfmtv.com/politique/parti-socialiste/video-presidentielle-olivier-faure-ps-reaffirme-son-soutien-a-son-candidat-raphael-glucksmann_VN-202611160343.html",
+"summary": "Olivier Faure, premier secrétaire du PS, était l'invité du Face-à-Face ce lundi 16 novembre. Il évoque la colère sociale et les violences qui émaillent les mobilisations, les agressions contre les journalistes, la hausse du Smic ou encore l'élection présidentielle.",
+"source": "BFMTV",
+"date": "2026-11-16T08:41:06+00:00",
+"added": "2026-11-16T09:26:05+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Olivier Faure"
+},
+{
+"id": "38fe60ce1e0f99ca",
+"title": "Olivier Faure (PS) propose d'interdire \"toute forme de commerce\" avec les colonies israéliennes",
+"link": "https://www.bfmtv.com/politique/video-olivier-faure-ps-propose-d-interdire-toute-forme-de-commerce-avec-les-colonies-israeliennes_VN-202611160335.html",
+"summary": "VIDÉO - Olivier Faure, premier secrétaire du PS, était l'invité du Face-à-Face ce lundi 16 novembre.",
+"source": "BFMTV",
+"date": "2026-11-16T08:38:06+00:00",
+"added": "2026-11-16T09:26:05+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"partis"
+],
+"natures": [
+"Citation",
+"Annonce"
+],
+"speaker": "Olivier Faure"
+},
+{
+"id": "dee595d8604aba95",
+"title": "Salaires, croissance, jeunesse... Le \"8h30 franceinfo\" de François Villeroy de Galhau",
+"link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/salaires-croissance-jeunesse-le-8h30-franceinfo-de-francois-villeroy-de-galhau_8263373.html",
+"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
+"source": "franceinfo",
+"date": "2026-11-16T08:31:50+00:00",
+"added": "2026-11-16T09:26:05+00:00",
+"official": false,
+"also": [],
+"base": [
+"matinales"
+],
+"filtered": true,
+"topics": [
+"matinales"
+],
+"natures": [
+"Citation"
+],
+"speaker": "François Villeroy de Galhau"
+},
+{
+"id": "e88e7b05ae047137",
+"title": "\"Il y a 30 ans de mensonges sur le système des retraites\", lance Jean-Philippe Tanguy, député RN",
+"link": "https://www.franceinfo.fr/economie/retraite/il-y-a-30-ans-de-mensonges-sur-le-systeme-des-retraites-lance-jean-philippe-tanguy-depute-rn_8284433.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "Jean-Philippe Tanguy, député RN de la Somme et chargé du programme économique de Marine Le Pen, était l’invité des 4 Vérités sur France 2, lundi 16 novembre.",
+"source": "franceinfo",
+"date": "2026-11-16T08:25:59+00:00",
+"added": "2026-11-16T09:26:05+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"parlement",
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Jean-Philippe Tanguy"
+},
+{
+"id": "11154574c78a6139",
+"title": "Présidentielle : « je m’occuperai de Sandrine Rousseau plus tard », Marine Tondelier hausse le ton chez les Écologistes",
+"link": "https://www.lavoixdunord.fr/1755225/article/2026-11-16/presidentielle-je-m-occuperai-de-sandrine-rousseau-plus-tard-marine-tondelier-se",
+"summary": "",
+"source": "La Voix du Nord",
+"date": "2026-11-16T08:20:30+00:00",
+"added": "2026-11-16T09:26:05+00:00",
+"official": false,
+"also": [
+"TF1 Info"
+],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "69af21d7280bc03a",
+"title": "Présidentielle 2027 : propriété privée, hausse des dépenses et des impôts... Le programme marxiste de Jean-Luc Mélenchon",
+"link": "https://www.europe1.fr/politique/presidentielle-2027-propriete-privee-hausse-des-depenses-et-des-impots-le-programme-marxiste-de-jean-luc-melenchon-1236723",
+"summary": "Le candidat de La France insoumise Jean-Luc Mélenchon poursuit sa campagne sur le podium des sondages. Portée par une forte popularité chez les jeunes, le candidat Insoumis compte bien mettre en œuvre un programme économique marxiste.",
+"source": "Europe 1",
+"date": "2026-11-16T08:15:01+00:00",
+"added": "2026-11-16T09:26:05+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "2bccf1d8b738ab5f",
+"title": "Violences en manifestations: \"Mélenchon met des cibles dans le dos des journalistes\", dénonce le porte-parole du gouvernement",
+"link": "https://rmc.bfmtv.com/actualites/politique/violences-en-manifestations-melenchon-met-des-cibles-dans-le-dos-des-journalistes-denonce-le-porte-parole-du-gouvernement_AV-202611160317.html",
+"summary": "La colère sociale qui gronde en France depuis le début de l’année est marquée par de nombreuses violences.",
+"source": "RMC",
+"date": "2026-11-16T08:13:38+00:00",
+"added": "2026-11-16T09:26:05+00:00",
+"official": false,
+"also": [
+"Le Parisien"
+],
+"base": [
+"gouvernement"
+],
+"filtered": true,
+"topics": [
+"gouvernement",
+"partis"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": ""
+},
+{
+"id": "82a032d183f84ec4",
+"title": "PODCAST. Les proviseurs épuisés, Jean-Luc Melenchon interdit en Israël et rumeur de black-out : ça dit quoi ce 13 novembre ?",
+"link": "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/podcast-les-proviseurs-epuises-jean-luc-melenchon-interdit-en-israel-et-rumeur-de-black-out-ca-dit-quoi-ce-13-novembre_8271587.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "Ce vendredi 13 novembre, les proviseurs sont appelés à se mobiliser devant les lycées et les rectorats pour dénoncer les violences, Israël interdit à Jean-Luc Mélenchon d'entrer sur son territoire et une rumeur de black-out mondial fleurit sur les réseaux sociaux.",
+"source": "franceinfo",
+"date": "2026-11-16T08:08:52+00:00",
+"added": "2026-11-16T09:26:05+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "0e39fb93f7240fc3",
+"title": "Colère lycéenne: Olivier Faure (PS) déplore les accusations du gouvernement d'actes de complicité au sein de l'Éducation nationale et de la part d'élus, et estime \"qu'on n'accuse jamais sans preuve\"",
+"link": "https://www.bfmtv.com/politique/parti-socialiste/video-colere-lyceenne-olivier-faure-ps-deplore-les-accusations-du-gouvernement-d-actes-de-complicite-au-sein-de-l-education-nationale-et-de-la-part-d-elus-et-estime-qu-on-n-accuse-jamais-sans-preuve_VN-202611160314.html",
+"summary": "Olivier Faure, premier secrétaire du PS, était l’invité du Face-à-Face de ce lundi 16 novembre sur BFMTV et RMC.",
+"source": "BFMTV",
+"date": "2026-11-16T08:03:26+00:00",
+"added": "2026-11-16T09:26:05+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"gouvernement",
+"partis"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "Olivier Faure"
+},
+{
+"id": "750e69ddf89fa178",
+"title": "présidentielle 2027 : découvrez les enseignements de la nouvelle enquête « Fractures françaises », une grande étude sur l’état d’esprit des Français à cinq mois de l’élection",
+"link": "https://www.lemonde.fr/election-presidentielle-2027/live/2026/11/16/en-direct-presidentielle-2027-decouvrez-les-enseignements-de-la-nouvelle-enquete-fractures-francaises-une-grande-etude-sur-l-etat-d-esprit-des-francais-a-cinq-mois-de-l-election_6811633_6205049.html",
+"summary": "« Le Monde » publie la quatorzième édition de cette enquête quantitative annuelle, pour laquelle 3 000 personnes ont été interrogées.",
+"source": "Le Monde",
+"date": "2026-11-16T08:00:05+00:00",
+"added": "2026-11-16T09:26:05+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "3cf26678187da58a",
+"title": "Budget 2027: Olivier Faure assure qu'il y aura \"forcément une censure\" du gouvernement en cas de passage par ordonnances",
+"link": "https://www.bfmtv.com/politique/parti-socialiste/budget-2027-olivier-faure-assure-qu-il-y-aura-forcement-une-censure-du-gouvernement-en-cas-de-passage-par-ordonnances_AV-202611160305.html",
+"summary": "Avec peu de chances de parvenir à faire adopter le budget de l'État par les parlementaires, le gouvernement de Sébastien Lecornu pourrait utiliser l'article 47 de la Constitution pour faire adopter le budget 2027 par ordonnances.",
+"source": "BFMTV",
+"date": "2026-11-16T07:59:49+00:00",
+"added": "2026-11-16T09:26:05+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement",
+"parlement",
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Olivier Faure"
+},
+{
+"id": "92182d647b4bafde",
+"title": "Interdiction des mortiers d'artifice: \"Je crains que ça n'ait pas beaucoup d'effet, mais la décision va dans le bon sens\", déclare Olivier Faure, premier secrétaire du PS",
+"link": "https://www.bfmtv.com/politique/gouvernement/video-interdiction-des-mortiers-d-artifice-je-crains-que-ca-n-ait-pas-beaucoup-d-effet-mais-la-decision-va-dans-le-bon-sens-declare-olivier-faure-premier-secretaire-du-ps_VN-202611160304.html",
+"summary": "VIDÉO - Olivier Faure, premier secrétaire du PS était l'invité du Face-à-Face ce lundi 16 novembre.",
+"source": "BFMTV",
+"date": "2026-11-16T07:57:24+00:00",
+"added": "2026-11-16T09:26:05+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Olivier Faure"
+},
+{
+"id": "d807069996af1416",
+"title": "Équipe de BFMTV agressée à Lyon: \"On ne défend pas la justice sociale en lynchant un journaliste\", déclare Olivier Faure (PS)",
+"link": "https://www.bfmtv.com/politique/parti-socialiste/video-equipe-de-bfmtv-agressee-a-lyon-on-ne-defend-pas-la-justice-sociale-en-lynchant-un-journaliste-declare-olivier-faure-ps_VN-202611160300.html",
+"summary": "Olivier Faure, premier secrétaire du PS, était l’invité du Face-à-Face de ce lundi 16 novembre sur BFMTV et RMC.",
+"source": "BFMTV",
+"date": "2026-11-16T07:54:57+00:00",
+"added": "2026-11-16T09:26:05+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"partis"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "Olivier Faure"
+},
+{
+"id": "4b07104aba3024b9",
+"title": "Colère sociale: \"Il faut condamner toutes les violences d'où qu'elles viennent\", affirme Olivier Faure (PS)",
+"link": "https://www.bfmtv.com/politique/parti-socialiste/video-colere-sociale-il-faut-condamner-toutes-les-violences-d-ou-qu-elles-viennent-affirme-olivier-faure-ps_VN-202611160297.html",
+"summary": "Olivier Faure, premier secrétaire du PS, était l’invité du Face-à-Face de ce lundi 16 novembre sur BFMTV et RMC.",
+"source": "BFMTV",
+"date": "2026-11-16T07:50:55+00:00",
+"added": "2026-11-16T09:26:05+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Olivier Faure"
+},
+{
+"id": "15d62d9daa0e25bd",
+"title": "Assemblée nationale: \"Dans cette majorité, ils se battent les uns avec les autres dans une surenchère du 'plus à droite que moi tu meurs'\", estime Olivier Faure, premier secrétaire du PS",
+"link": "https://www.bfmtv.com/politique/gouvernement/video-assemblee-nationale-dans-cette-majorite-ils-se-battent-les-uns-avec-les-autres-dans-une-surenchere-du-plus-a-droite-que-moi-tu-meurs-estime-olivier-faure-premier-secretaire-du-ps_VN-202611160293.html",
+"summary": "VIDÉO - Olivier Faure, premier secrétaire du PS, était l'invité du Face-à-Face ce lundi 16 novembre.",
+"source": "BFMTV",
+"date": "2026-11-16T07:47:19+00:00",
+"added": "2026-11-16T09:26:05+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"parlement",
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Olivier Faure"
+},
+{
+"id": "7feece6fd1e03cd0",
+"title": "Colère sociale: \"Il est capital que les commerçants puissent ouvrir y compris le samedi\", affirme Olivier Faure (PS)",
+"link": "https://www.bfmtv.com/politique/parti-socialiste/video-colere-sociale-il-est-capital-que-les-commercants-puissent-ouvrir-y-compris-le-samedi-affirme-olivier-faure-ps_VN-202611160290.html",
+"summary": "Olivier Faure, premier secrétaire du PS, était l’invité du Face-à-Face de ce lundi 16 novembre sur BFMTV et RMC.",
+"source": "BFMTV",
+"date": "2026-11-16T07:44:54+00:00",
+"added": "2026-11-16T09:26:05+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Olivier Faure"
+},
+{
+"id": "b28ba482ff4ea7b3",
+"title": "EDITO. À cinq mois du premier tour de la présidentielle, le dossier ukrainien s’invite dans la campagne",
+"link": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-a-cinq-mois-du-premier-tour-de-la-presidentielle-le-dossier-ukrainien-s-invite-dans-la-campagne_8263355.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "Alors que plus des deux tiers des Français continuent d’être favorables au soutien à Kiev, Marine Le Pen veut couper toute aide.",
+"source": "franceinfo",
+"date": "2026-11-16T07:43:16+00:00",
+"added": "2026-11-16T09:26:05+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [
+"Interview"
+],
+"speaker": ""
+},
+{
+"id": "d45a870f89fb83c4",
+"title": "Hausse du Smic: \"C'est un pourboire\", estime Olivier Faure, premier secrétaire du PS",
+"link": "https://www.bfmtv.com/politique/parti-socialiste/video-hausse-du-smic-c-est-un-pourboire-estime-olivier-faure-premier-secretaire-du-ps_VN-202611160287.html",
+"summary": "Olivier Faure, premier secrétaire du Parti socialiste, était l'invité du Face-à-Face ce lundi 16 novembre. Il s'est exprimé sur la hausse du Smic annoncée la semaine passée par le gouvernement.",
+"source": "BFMTV",
+"date": "2026-11-16T07:42:45+00:00",
+"added": "2026-11-16T09:26:05+00:00",
+"official": false,
+"also": [
+"Le Parisien"
+],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"gouvernement",
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Hausse du Smic"
+},
+{
+"id": "9840b88fa27ea151",
+"title": "Olivier Faure (PS): \"On vit un moment de grande tension sociale lié à une politique dont tout le monde a compris qu'elle avait contribué à enrichir les plus riches et à appauvrir tous les autres\"",
+"link": "https://www.bfmtv.com/politique/parti-socialiste/video-olivier-faure-ps-on-vit-un-moment-de-grande-tension-sociale-lie-a-une-politique-dont-tout-le-monde-a-compris-qu-elle-avait-contribue-a-enrichir-les-plus-riches-et-a-appauvrir-tous-les-autres_VN-202611160285.html",
+"summary": "Olivier Faure, premier secrétaire du PS, était l’invité du Face-à-Face de ce lundi 16 novembre sur BFMTV et RMC.",
+"source": "BFMTV",
+"date": "2026-11-16T07:41:04+00:00",
+"added": "2026-11-16T09:26:05+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "6c4e8c8c7cc19cea",
+"title": "Ces personnalités azuréennes avec lesquelles il faudra compter à la présidentielle 2027",
+"link": "https://www.nicematin.com/societe/politique/ces-personnalites-azureennes-avec-lesquelles-il-faudra-compter-a-la-presidentielle-2027-10762008",
+"summary": "Jamais sans doute depuis le début de la Ve République, les Alpes-Maritimes n’ont été aussi en pointe dans une élection présidentielle à moins de six mois du scrutin.",
+"source": "Nice-Matin",
+"date": "2026-11-16T07:40:04+00:00",
+"added": "2026-11-16T09:26:05+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "83c8eb84cf2078a4",
+"title": "La situation autour du budget 2027 \"devient intenable\", préviennent des présidents de départements avant leur rendez-vous avec le Premier ministre",
+"link": "https://www.franceinfo.fr/economie/budget/la-situation-autour-du-budget-2027-devient-intenable-previennent-des-presidents-de-departements-avant-leur-rendez-vous-avec-le-premier-ministre_8284391.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "\"C'est au moins la troisième année consécutive\" que le gouvernement demande un effort budgétaire aux départements, déplore notamment auprès de France Culture le président LR de Saône-et-Loire.",
+"source": "franceinfo",
+"date": "2026-11-16T07:38:02+00:00",
+"added": "2026-11-16T09:26:05+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "7acb77745e4e48a9",
+"title": "Présidentielle 2027 : «Marine Le Pen raconte des mensonges qui sèmeront la colère et la tempête», considère Bruno Le Maire",
+"link": "https://www.cnews.fr/france/2026-11-16/presidentielle-2027-marine-le-pen-raconte-des-mensonges-qui-semeront-la-colere-et",
+"summary": "«Marine Le Pen raconte des mensonges qui sèmeront la colère et la tempête», a considéré l'ancien ministre de l'Economie et des Finances Bruno Le Maire, ce lundi lors de La Grande Interview.",
+"source": "CNews",
+"date": "2026-11-16T07:27:00+00:00",
+"added": "2026-11-16T09:26:05+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"gouvernement",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Bruno Le Maire"
+},
+{
+"id": "fd0dd06bafa7149d",
+"title": "Bonjour chez vous ! — BONJOUR CHEZ VOUS 26/11/19 Je P3",
+"link": "https://www.publicsenat.fr/emission/bonjour-chez-vous/bonjour-chez-vous-26-11-19-je-p3-e0",
+"summary": "Monique Lubin : « 12 milliards de déficit pour la Sécu tout d’un coup, c’est trop ! » Stéphanie Rist : « Notre démographie ne permet plus de financer notre modèle social »",
+"source": "Public Sénat",
+"date": "2026-11-16T07:21:05+00:00",
+"added": "2026-11-16T09:26:05+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "6f92360cfd97c2f5",
+"title": "Présidentielle 2027 : Marine Le Pen affirme avoir changé d'avis sur l’interdiction de la double nationalité et le mariage pour tous",
+"link": "https://www.cnews.fr/france/2026-11-16/presidentielle-2027-marine-le-pen-affirme-avoir-change-davis-sur-linterdiction-de",
+"summary": "Marine Le Pen, candidate RN à la présidentielle de 2027, a reconnu dimanche sur LCP avoir fait une «erreur» en proposant dans le passé la suppression de la double nationalité.",
+"source": "CNews",
+"date": "2026-11-16T07:16:35+00:00",
+"added": "2026-11-16T09:26:05+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": "Marine Le Pen"
+},
+{
 "id": "fea086d9033b29ad",
 "title": "Crise du logement: le gouvernement veut assouplir les règles pour construire et louer davantage",
 "link": "https://lcp.fr/actualites/crise-du-logement-le-gouvernement-veut-assouplir-les-regles-pour-construire-et-louer",
@@ -13,6 +619,101 @@
 "filtered": true,
 "topics": [
 "gouvernement",
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "57b5ee1705a30e19",
+"title": "Le Grand Jury — Le grand jury RTL – Public Sénat",
+"link": "https://www.publicsenat.fr/emission/le-grand-jury-rtl-public-senat-ouest-france-m6/le-grand-jury-rtl-public-senat-e16",
+"summary": "\"Le Grand jury RTL - Public Sénat\" est une émission politique majeure proposée en direct sur Public Sénat, et en simultané sur RTL.",
+"source": "Public Sénat",
+"date": "2026-11-16T06:44:23+00:00",
+"added": "2026-11-16T09:26:05+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"parlement"
+],
+"natures": [
+"Interview"
+],
+"speaker": ""
+},
+{
+"id": "cd9a8e45a5f9e544",
+"title": "Questions au Gouvernement — Questions au Gouvernement",
+"link": "https://www.publicsenat.fr/emission/questions-au-gouvernement/questions-au-gouvernement-e8",
+"summary": "Tous les mercredis à 15 h, les sénateurs reçoivent dans l'Hémicycle les membres du gouvernement pour la séance des questions d'actualité, un moment important de la vie démocratique française.",
+"source": "Public Sénat",
+"date": "2026-11-16T06:42:26+00:00",
+"added": "2026-11-16T09:26:05+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement",
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "102705ecb6f7f9b8",
+"title": "Parlement hebdo — Parlement hebdo",
+"link": "https://www.publicsenat.fr/emission/parlement-hebdo/parlement-hebdo-e11-1",
+"summary": "Cette semaine, dans Parlement Hebdo, Alexandre Poussart et Kathia Gilder reçoivent Philippe Vigier, député MoDem d’Eure-et-Loir, et Bernard Jomier, sénateur socialiste de Paris.",
+"source": "Public Sénat",
+"date": "2026-11-16T06:42:07+00:00",
+"added": "2026-11-16T09:26:05+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "ac49a2ecfa4d08f2",
+"title": "Ici l'Europe — Ici l’Europe",
+"link": "https://www.publicsenat.fr/emission/ici-leurope/ici-leurope-e16",
+"summary": "Chaque semaine, Public Sénat, LCP-Assemblée nationale et France 24 vous plongent au coeur des questions qui secouent l'Europe : guerre en Ukraine, pacte migratoire, Green deal, ou encore souveraineté digitale.",
+"source": "Public Sénat",
+"date": "2026-11-16T06:42:02+00:00",
+"added": "2026-11-16T09:26:05+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "6c2a581b0f5cabf5",
+"title": "En direct du Sénat — En direct du Sénat",
+"link": "https://www.publicsenat.fr/emission/en-direct-du-senat/en-direct-du-senat-e11-1",
+"summary": "L'émission qui donne les clés pour comprendre l'actualité du Sénat. Séances publiques, commissions d'enquête, auditions, rapports parlementaires...",
+"source": "Public Sénat",
+"date": "2026-11-16T06:41:56+00:00",
+"added": "2026-11-16T09:26:05+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
 "parlement"
 ],
 "natures": [],
@@ -85,7 +786,10 @@
 "date": "2026-11-16T05:58:57+00:00",
 "added": "2026-11-16T07:19:23+00:00",
 "official": false,
-"also": [],
+"also": [
+"20 Minutes",
+"Les Echos"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -490,7 +1194,8 @@
 "Le Figaro",
 "Le Dauphiné Libéré",
 "BFMTV",
-"CNews"
+"CNews",
+"Ouest-France"
 ],
 "base": [
 "presidentielle"
@@ -511,7 +1216,9 @@
 "date": "2026-11-15T19:14:12+00:00",
 "added": "2026-11-15T19:32:58+00:00",
 "official": false,
-"also": [],
+"also": [
+"Le Figaro"
+],
 "base": [
 "partis"
 ],
@@ -1274,7 +1981,9 @@
 "date": "2026-11-15T14:21:22+00:00",
 "added": "2026-11-15T15:27:31+00:00",
 "official": false,
-"also": [],
+"also": [
+"Le Parisien"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -2208,7 +2917,8 @@
 "added": "2026-11-15T15:27:31+00:00",
 "official": false,
 "also": [
-"France 24"
+"France 24",
+"Le Nouvel Obs"
 ],
 "base": [
 "partis"
@@ -2524,7 +3234,8 @@
 "added": "2026-11-15T09:34:04+00:00",
 "official": false,
 "also": [
-"RMC"
+"RMC",
+"LCP"
 ],
 "base": [
 "partis"
@@ -7926,6 +8637,26 @@
 "speaker": ""
 },
 {
+"id": "a9e98417de8dd99d",
+"title": "Présidentielle 2027 - Candidats, programmes… ce qu'il faut savoir à six mois du premier tour",
+"link": "https://www.lesechos.fr/elections/presidentielle/presidentielle-2027-calendrier-candidats-ce-qui-se-prepare-2231403",
+"summary": "",
+"source": "Les Echos",
+"date": "2026-11-13T10:32:00+00:00",
+"added": "2026-11-16T09:26:05+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "485ca7f08f036a14",
 "title": "Lutte contre le narcotrafic: une mission parlementaire confiée au député Aurélien Pradié",
 "link": "https://lcp.fr/actualites/lutte-contre-le-narcotrafic-une-mission-parlementaire-confiee-au-depute-aurelien-pradie",
@@ -8158,565 +8889,6 @@
 "presidentielle"
 ],
 "natures": [],
-"speaker": ""
-},
-{
-"id": "e5cd781bedb0bd2d",
-"title": "Présidentielle 2027 : Bruno Retailleau n’a « pas de prêt bancaire » et accuse Matignon",
-"link": "https://www.sudouest.fr/elections/presidentielle/presidentielle-2027-bruno-retailleau-n-a-pas-de-pret-bancaire-et-accuse-matignon-31507086.php",
-"summary": "",
-"source": "Sud Ouest",
-"date": "2026-11-13T09:19:53+00:00",
-"added": "2026-11-13T09:45:44+00:00",
-"official": false,
-"also": [
-"franceinfo",
-"BFMTV",
-"Le Parisien",
-"Franceinfo"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"elysee",
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": ""
-},
-{
-"id": "efd2db3b1ee2b7df",
-"title": "Présidentielle 2027 : François Ruffin veut débattre avant de « prendre ses responsabilités » face au risque RN",
-"link": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-francois-ruffin-veut-debattre-avant-de-prendre-ses-responsabilites-face-au-risque-rn-13-11-2026-RUDMB6FIQNAODI4D5NIIXJIJBI.php",
-"summary": "",
-"source": "Le Parisien",
-"date": "2026-11-13T09:19:39+00:00",
-"added": "2026-11-13T09:45:44+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "François Ruffin"
-},
-{
-"id": "5e3827b56576f29a",
-"title": "Que demandent les syndicats de fonctionnaires, reçus à Matignon vendredi ?",
-"link": "https://www.franceinfo.fr/economie/transports/mobilisation-du-17-novembre/que-demandent-les-syndicats-de-fonctionnaires-recus-a-matignon-vendredi_8280539.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "Après celles du privé mardi, les organisations syndicales de la fonction publique sont reçues vendredi matin par Sébastien Lecornu.",
-"source": "franceinfo",
-"date": "2026-11-13T09:18:09+00:00",
-"added": "2026-11-13T09:45:44+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "c5bb2efed961edc4",
-"title": "Présidentielle 2027. Premier déplacement de campagne de Teddy Riner à l'hôpital ce vendredi pour « replacer la santé au cœur de nos priorités »",
-"link": "https://www.ledauphine.com/elections/2026/11/13/replacer-la-sante-au-coeur-de-nos-priorites-teddy-riner-fait-son-premier-deplacement-de-campagne-ce-vendredi",
-"summary": "Le tout nouveau candidat à la présidentielle se rend ce vendredi dans un hôpital de Seine-Saint-Denis, avant une visite au salon du « Made in France » samedi.",
-"source": "Le Dauphiné Libéré",
-"date": "2026-11-13T09:12:43+00:00",
-"added": "2026-11-13T09:45:44+00:00",
-"official": false,
-"also": [
-"BFMTV",
-"Europe 1",
-"RTL"
-],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "acb86f4118c30c02",
-"title": "Élisabeth Borne écarte une primaire allant jusqu'à David Lisnard en vue de l'élection présidentielle de 2027",
-"link": "https://www.franceinfo.fr/elections/elisabeth-borne-ecarte-une-primaire-allant-jusqu-a-david-lisnard-en-vue-de-l-election-presidentielle-de-2027_8280728.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "L'ancienne Première ministre plaide plutôt pour un rassemblement \"de Bernard Cazeneuve à Xavier Bertrand\" et assure ne pas avoir de doute \"sur le fait qu'il faut se rassembler\".",
-"source": "franceinfo",
-"date": "2026-11-13T09:11:22+00:00",
-"added": "2026-11-13T09:45:44+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "066365862b33f6af",
-"title": "Relocalisation, culture du lin et du chanvre, réemploi… Le plan de Jean-Luc Mélenchon pour relancer la filière textile française",
-"link": "https://www.lefigaro.fr/conjoncture/relocalisation-culture-du-lin-et-du-chanvre-reemploi-le-plan-de-jean-luc-melenchon-pour-relancer-la-filiere-textile-francaise-20261113",
-"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
-"source": "Le Figaro",
-"date": "2026-11-13T09:08:21+00:00",
-"added": "2026-11-13T09:45:44+00:00",
-"official": false,
-"also": [
-"BFMTV",
-"20 Minutes"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "aace92936c3804c3",
-"title": "Colère lycéenne: des membres de l'Éducation nationale pourront être radiés si leur \"complicité\" dans les violences est prouvée, selon le porte-parole du gouvernement",
-"link": "https://www.bfmtv.com/politique/gouvernement/colere-lyceenne-des-membres-de-l-education-nationale-pourront-etre-radies-si-leur-complicite-dans-les-violences-est-prouvee-selon-le-porte-parole-du-gouvernement_AV-202611130385.html",
-"summary": "Jeudi, le Premier ministre Sébastien Lecornu a affirmé que dans certains lycées se met en place \"une planification logistique pour livrer les mortiers\" d'artifice avec, selon lui, \"des personnes qui parfois, dans l'enceinte même de ce lycée, se livrent à des complicités\".",
-"source": "BFMTV",
-"date": "2026-11-13T09:00:24+00:00",
-"added": "2026-11-13T09:45:44+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "d20e7bc48b1f5b69",
-"title": "Pouvoir d'achat: \"Jamais dans l'Histoire sociale, les agents publics n'ont été aussi mal traités qu'aujourd'hui\", affirme Sophie Binet (CGT)",
-"link": "https://www.bfmtv.com/politique/video-pouvoir-d-achat-jamais-dans-l-histoire-sociale-les-agents-publics-n-ont-ete-aussi-mal-traites-qu-aujourd-hui-affirme-sophie-binet-cgt_VN-202611130380.html",
-"summary": "Sophie Binet, Secrétaire générale de la CGT, répond aux journalistes avant sa rencontre avec Sébastien Lecornu qui reçoit les syndicats de la Fonction publique, ce vendredi 13 novembre, à Matignon.",
-"source": "BFMTV",
-"date": "2026-11-13T08:51:50+00:00",
-"added": "2026-11-13T09:45:44+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Sophie Binet"
-},
-{
-"id": "453d9c34730de3e3",
-"title": "Pour les - 50 ans, le made in France doit être une priorité des candidats",
-"link": "https://www.20minutes.fr/societe/4262574-20261113-presidentielle-2027-electeurs-moins-50-ans-considerent-made-in-france-devrait-etre-priorite",
-"summary": "Les propositions des candidats à la présidentielle soutenant le « Made in France » seront un critère de vote important à la présidentielle pour la majorité des électeurs de 18 à 49 ans, selon un sondage OpinionWay publié jeudi.",
-"source": "20 Minutes",
-"date": "2026-11-13T08:49:00+00:00",
-"added": "2026-11-13T11:43:01+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "29212d426008f93c",
-"title": "\"Il y a une touche intéressante pour une reprise\", affirme le ministre de l'Industrie après la liquidation judiciaire de Fibre Excellence",
-"link": "https://www.franceinfo.fr/economie/entreprises/il-y-a-une-touche-interessante-pour-une-reprise-affirme-le-ministre-de-l-industrie-apres-la-liquidation-judiciaire-de-fibre-excellence_8280674.html",
-"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
-"source": "franceinfo",
-"date": "2026-11-13T08:43:22+00:00",
-"added": "2026-11-13T09:45:44+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [
-"Citation"
-],
-"speaker": ""
-},
-{
-"id": "f954a49c3a511e73",
-"title": "VIDEO. Dans les fauteuils rouges de \"Complément d'enquête\" : Prisca Thevenot, directrice de campagne de Gabriel Attal",
-"link": "https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/video-dans-les-fauteuils-rouges-de-complement-d-enquete-prisca-thevenot-directrice-de-campagne-de-gabriel-attal_8280116.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "Bien qu'omniprésent dans les médias, Gabriel Attal n'a pas souhaité se faire interviewer dans les fauteuils rouges de \"Complément d'enquête\".",
-"source": "franceinfo",
-"date": "2026-11-13T08:42:09+00:00",
-"added": "2026-11-13T09:45:44+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "fb2bbb0d0396381c",
-"title": "Sondage présidentielle 2027 : tous les résultats du baromètre PrésiTrack",
-"link": "https://www.lesechos.fr/elections/presidentielle/sondage-presidentielle-2027-tous-les-resultats-du-barometre-presitrack-2250959",
-"summary": "",
-"source": "Les Echos",
-"date": "2026-11-13T08:38:00+00:00",
-"added": "2026-11-15T19:32:58+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "4f2058da43112f5a",
-"title": "\"Vous avez en France des minorités bruyantes, agissantes, violentes, qu'on laisse agir\", affirme Bruno Retailleau à propos du mouvement social",
-"link": "https://www.franceinfo.fr/politique/vous-avez-en-france-des-minorites-bruyantes-agissantes-violentes-qu-on-laisse-agir-affirme-bruno-retailleau-a-propos-du-mouvement-social_8280638.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "Invité des \"4V\" sur France 2, vendredi 13 novembre, Bruno Retailleau, candidat Les Républicains à l'élection présidentielle, est revenu sur le mouvement social en France.",
-"source": "franceinfo",
-"date": "2026-11-13T08:29:11+00:00",
-"added": "2026-11-13T09:45:44+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Bruno Retailleau"
-},
-{
-"id": "00158bea5792f919",
-"title": "Manuel Bompard, Député (LFI) des Bouches-du-Rhône, invité de Bonjour Marseille",
-"link": "https://www.bfmtv.com/marseille/replay-emissions/bonjour-marseille/video-manuel-bompard-depute-lfi-des-bouches-du-rhone-invite-de-bonjour-marseille_VN-202611130360.html",
-"summary": "",
-"source": "BFMTV",
-"date": "2026-11-13T08:26:44+00:00",
-"added": "2026-11-13T09:45:44+00:00",
-"official": false,
-"also": [],
-"base": [
-"matinales"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"parlement",
-"partis"
-],
-"natures": [
-"Interview"
-],
-"speaker": "Bonjour Marseille"
-},
-{
-"id": "4b7e57b54a0f805e",
-"title": "Teddy Riner fera finalement son premier déplacement à l'hôpital Delafontaine de Saint-Denis",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-teddy-riner-fera-finalement-son-premier-deplacement-a-l-hopital-delafontaine-de-saint-denis_VN-202611130350.html",
-"summary": "Sur les réseaux sociaux, le candidat à la présidentielle annonce qu'il effectuera son premier déplacement sur le terrain à l'hôpital Delafontaine de Saint-Denis.",
-"source": "BFMTV",
-"date": "2026-11-13T08:21:09+00:00",
-"added": "2026-11-13T09:45:44+00:00",
-"official": false,
-"also": [
-"Le Parisien"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "08b32d645eb352df",
-"title": "SONDAGE Présidentielle 2027 : Jean-Luc Mélenchon seul candidat en hausse, percée de David Lisnard… les enseignements de ce nouveau baromètre",
-"link": "https://www.midilibre.fr/2026/11/13/sondage-presidentielle-2027-jean-luc-melenchon-seul-candidat-en-hausse-percee-de-david-lisnard-les-enseignements-de-ce-nouveau-barometre-13650461.php",
-"summary": "La dernière édition du sondage PrésiTrack d’OpinionWay révèle une importante percée du maire de Cannes David Lisnard, désormais crédité à 10 à 12 % des intentions de vote, perturbant le bloc central.",
-"source": "Midi Libre",
-"date": "2026-11-13T08:19:00+00:00",
-"added": "2026-11-13T09:45:44+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "c3e57ab820f20433",
-"title": "Mélenchon interdit d'entrée en Israël, suppressions de postes dans la Fonction publique, le smic et les salaires... Le \"8h30 franceinfo\" d'Élisabeth Borne",
-"link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/melenchon-interdit-d-entree-en-israel-suppressions-de-postes-dans-la-fonction-publique-le-smic-et-les-salaires-le-8h30-franceinfo-d-elisabeth-borne_8259692.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "Élisabeth Borne, ancienne Première ministre, députée Renaissance du Calvados, est l'invitée du \"8h30 franceinfo\" le 13 novembre 2026.",
-"source": "franceinfo",
-"date": "2026-11-13T08:15:21+00:00",
-"added": "2026-11-13T09:45:44+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"matinales",
-"elysee",
-"gouvernement",
-"parlement",
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "1740fcd29fc9b6f1",
-"title": "Présidentielle 2027 : David Lisnard donné à au moins 10 %, juste derrière Philippe et Glucksmann, selon un sondage",
-"link": "https://www.ouest-france.fr/elections/presidentielle/presidentielle-2027-david-lisnard-donne-a-au-moins-10-pourcent-juste-derriere-philippe-et-glucksmann-selon-un-sondage-d35f43c6-df36-11f1-9a29-f4bab172af08",
-"summary": "",
-"source": "Ouest-France",
-"date": "2026-11-13T08:09:10+00:00",
-"added": "2026-11-13T09:45:44+00:00",
-"official": false,
-"also": [
-"BFMTV",
-"Le Figaro",
-"La Provence",
-"Sud Ouest",
-"20 Minutes"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "9ded701863a403dd",
-"title": "Présidentielle 2027: Teddy Riner dévoile ses premiers déplacements de campagne",
-"link": "https://lcp.fr/actualites/presidentielle-2027-teddy-riner-devoile-ses-premiers-deplacements-de-campagne-445061",
-"summary": "Teddy Riner , qui s'est déclaré cette semaine candidat à l'élection présidentielle, organise ses premiers déplacements de campagne.",
-"source": "LCP",
-"date": "2026-11-13T08:08:45+00:00",
-"added": "2026-11-13T09:45:44+00:00",
-"official": false,
-"also": [
-"20 Minutes"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [
-"Annonce"
-],
-"speaker": ""
-},
-{
-"id": "eb29acb36749c626",
-"title": "Gel du point d’indice, pouvoir d’achat… Après le rendez-vous des syndicats de fonctionnaires à Matignon, l’appel à la grève le 17 novembre s’élargit",
-"link": "https://www.humanite.fr/politique/budget-2027/gel-du-point-dindice-pouvoir-dachat-les-syndicats-de-fonctionnaires-recus-a-matignon-par-un-gouvernement-qui-semble-navoir-rien-a-proposer",
-"summary": "Le premier ministre Sébastien Lecornu a convoqué ce vendredi à 9 h 30 les syndicats de fonctionnaires. Ces derniers une hausse du point d’indice.",
-"source": "L'Humanité",
-"date": "2026-11-13T08:00:00+00:00",
-"added": "2026-11-13T15:35:44+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "59e40112fd428539",
-"title": "La Suède ouvre la voie à la déchéance de nationalité pour certains binationaux",
-"link": "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/la-suede-ouvre-la-voie-a-la-decheance-de-nationalite-pour-certains-binationaux_8259659.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "Le Parlement suédois a adopté une révision constitutionnelle permettant, à terme, de retirer la nationalité à certains citoyens possédant un autre passeport.",
-"source": "franceinfo",
-"date": "2026-11-13T07:51:28+00:00",
-"added": "2026-11-13T07:58:47+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "8f9651236655b0c3",
-"title": "\"Trop de responsables politiques ne prennent pas la mesure de la gravité du moment\", estime l'ancien Premier ministre Bernard Cazeneuve",
-"link": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/trop-de-responsables-politiques-ne-prennent-pas-la-mesure-de-la-gravite-du-moment-estime-l-ancien-premier-ministre-bernard-cazeneuve_8251642.html",
-"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
-"source": "franceinfo",
-"date": "2026-11-13T07:47:14+00:00",
-"added": "2026-11-13T07:58:47+00:00",
-"official": false,
-"also": [],
-"base": [
-"matinales"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"elysee",
-"gouvernement"
-],
-"natures": [
-"Citation"
-],
-"speaker": ""
-},
-{
-"id": "298614d5292fcf42",
-"title": "Altercation avec des policiers: le député LFI Sébastien Delogu devant la justice pour outrage",
-"link": "https://lcp.fr/actualites/altercation-avec-des-policiers-le-depute-lfi-sebastien-delogu-devant-la-justice-pour",
-"summary": "Le député LFI Sébastien Delogu comparaît à nouveau vendredi après-midi devant la justice, cette fois pour outrage envers des policiers lors d'une altercation en août dernier avec trois agents en civil venus appréhender un individu dans son immeuble.",
-"source": "LCP",
-"date": "2026-11-13T07:42:15+00:00",
-"added": "2026-11-13T07:58:47+00:00",
-"official": false,
-"also": [
-"BFMTV"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement",
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "9be0c2aa9376422a",
-"title": "Le député Renaissance Charles Rodwell propose de \"refonder notre politique migratoire\" et de créer des quotas",
-"link": "https://www.franceinfo.fr/societe/immigration/le-depute-renaissance-charles-rodwell-propose-de-refonder-notre-politique-migratoire-et-de-creer-des-quotas_8280626.html",
-"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
-"source": "franceinfo",
-"date": "2026-11-13T07:41:55+00:00",
-"added": "2026-11-13T11:43:01+00:00",
-"official": false,
-"also": [],
-"base": [
-"matinales"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"parlement",
-"partis"
-],
-"natures": [
-"Citation",
-"Annonce"
-],
-"speaker": "Charles Rodwell"
-},
-{
-"id": "ad85d672cc443de9",
-"title": "Israël interdit son territoire à Jean-Luc Mélenchon: la réponse cinglante du gouvernement français",
-"link": "https://lcp.fr/actualites/israel-interdit-son-territoire-a-jean-luc-melenchon-la-reponse-cinglante-du-gouvernement",
-"summary": "Le ministre des Affaires étrangères, Jean-Noël Barrot, a dénoncé jeudi sur X la \"décision démagogique\" d'Israël d'interdire l'entrée sur son territoire à Jean-Luc Mélenchon.",
-"source": "LCP",
-"date": "2026-11-13T07:37:44+00:00",
-"added": "2026-11-15T21:25:49+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement",
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "87e32a6eab2e8d16",
-"title": "Présidentielle 2027 : Bruno Retailleau dévoile son programme toujours plus dur pour lutter contre l’immigration",
-"link": "https://www.lemonde.fr/politique/article/2026/11/13/presidentielle-2027-bruno-retailleau-devoile-son-programme-toujours-plus-dur-pour-lutter-contre-l-immigration_6809292_823448.html",
-"summary": "A la peine dans les sondages, le candidat Les Républicains a publié, jeudi, un livret programmatique pour « reprendre la main » et réduire au maximum l’arrivée d’étrangers en France.",
-"source": "Le Monde",
-"date": "2026-11-13T07:20:16+00:00",
-"added": "2026-11-13T07:58:47+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Annonce"
-],
 "speaker": ""
 }
 ]
