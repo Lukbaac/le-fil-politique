@@ -1,5 +1,130 @@
 [
 {
+"id": "bac783f5d987e413",
+"title": "Présidentielle 2027 : après sa visite au salon Made in France, Teddy Riner veut « libérer » les entreprises « étouffées » par les normes",
+"link": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-apres-sa-visite-au-salon-made-in-france-teddy-riner-veut-liberer-les-entreprises-etouffees-par-les-normes-16-11-2026-TSOY4IDFTBHTPNYZKCQ744YOKY.php",
+"summary": "",
+"source": "Le Parisien",
+"date": "2026-11-16T10:21:55+00:00",
+"added": "2026-11-16T10:30:15+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Teddy Riner"
+},
+{
+"id": "bd788ee94f893ba8",
+"title": "Cet artisan de caramels fabriqués à Guérande reçoit Gabriel Attal dans son stand du Salon du Made in France à Paris",
+"link": "https://www.ouest-france.fr/societe/gastronomie/cet-artisan-de-caramels-fabriques-a-guerande-recoit-gabriel-attal-dans-son-stand-du-salon-du-made-in-france-a-paris-53187ee6-e19b-11f1-b029-43a761592972",
+"summary": "",
+"source": "Ouest-France",
+"date": "2026-11-16T10:17:43+00:00",
+"added": "2026-11-16T10:30:15+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "6a60c2b6796060e9",
+"title": "Présidentielle 2027 : cinq candidats vont débattre sur le pouvoir d’achat et la précarité ce lundi soir",
+"link": "https://www.liberation.fr/politique/presidentielle-2027-cinq-candidats-vont-debattre-sur-le-pouvoir-dachat-et-la-precarite-ce-lundi-soir-20261116_7QJ44LZUYZBGJCXXO2BCATX3O4/",
+"summary": "Sur TF1 puis LCI, Gabriel Attal, Jean-Luc Mélenchon, Raphaël Glucksmann, Bruno Retailleau et Marine Le Pen répondront «aux questions de Français, bénévoles ou bénéficiaires» de l’association des Restos du Cœur, à partir de 20 h 20.",
+"source": "Libération",
+"date": "2026-11-16T10:02:00+00:00",
+"added": "2026-11-16T10:30:15+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "a467f40794b63d7c",
+"title": "Attentat de Trappes: son nom découvert sur une liste, Sandrine Rousseau accuse le gouvernement de \"sous estimer\" la menace",
+"link": "https://lcp.fr/actualites/attentat-de-trappes-son-nom-decouvert-sur-une-liste-sandrine-rousseau-accuse-le",
+"summary": "Kévin Tessier, auteur de l'attaque terroriste de Trappes qui a coûté la vie à Pengo Bossio Wangi, avait dressé une liste répertoriant les noms de Sandrine Rousseau, d'Aymeric Caron, de David Guiraud et d'Assa Traoré.",
+"source": "LCP",
+"date": "2026-11-16T10:01:33+00:00",
+"added": "2026-11-16T10:30:15+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "Sandrine Rousseau"
+},
+{
+"id": "f0bb29263004f3bd",
+"title": "« Pour éviter un second tour Mélenchon-Le Pen, une primaire ouverte s’impose » : l’appel de 1000 élus locaux",
+"link": "https://www.lefigaro.fr/vox/politique/pour-eviter-un-second-tour-melenchon-le-pen-une-primaire-ouverte-s-impose-l-appel-de-1000-elus-locaux-20261116",
+"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
+"source": "Le Figaro",
+"date": "2026-11-16T09:47:52+00:00",
+"added": "2026-11-16T10:30:15+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "0973ea84f44d553a",
+"title": "«Mon objectif est de mettre un coup d'arrêt à l'immigration», affirme le député EPR Charles Rodwell",
+"link": "https://www.europe1.fr/societe/mon-objectif-est-de-mettre-un-coup-darret-a-limmigration-affirme-le-depute-epr-charles-rodwell-1237257",
+"summary": "Le député Ensemble pour la République des Yvelines Charles Rodwell veut profondément revoir la politique migratoire française.",
+"source": "Europe 1",
+"date": "2026-11-16T09:47:00+00:00",
+"added": "2026-11-16T10:30:15+00:00",
+"official": false,
+"also": [],
+"base": [
+"matinales"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"parlement"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Charles Rodwell"
+},
+{
 "id": "e9a39451bc6537ad",
 "title": "Présidentielle 2027 : le défi de l’unité",
 "link": "https://www.lemonde.fr/idees/article/2026/11/16/presidentielle-2027-le-defi-de-l-unite_6811669_3232.html",
@@ -189,7 +314,9 @@
 "added": "2026-11-16T09:26:05+00:00",
 "official": false,
 "also": [
-"TF1 Info"
+"TF1 Info",
+"BFMTV",
+"Le Figaro"
 ],
 "base": [
 "partis"
@@ -317,7 +444,9 @@
 "date": "2026-11-16T07:59:49+00:00",
 "added": "2026-11-16T09:26:05+00:00",
 "official": false,
-"also": [],
+"also": [
+"20 Minutes"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -604,6 +733,30 @@
 ],
 "natures": [],
 "speaker": "Marine Le Pen"
+},
+{
+"id": "c35ebe3451385be8",
+"title": "Francophonie : l'élection du secrétaire général reportée, Macron salue un \"compromis\"",
+"link": "https://www.france24.com/fr/france/20261116-francophonie-oif-vote-%C3%A9lection-secr%C3%A9taire-g%C3%A9n%C3%A9ral-louise-mushikiwabo-rwanda-rd-congo-juliana-lumumba-dacian-ciolos-coumba-ba",
+"summary": "",
+"source": "France 24",
+"date": "2026-11-16T07:01:33+00:00",
+"added": "2026-11-16T10:30:15+00:00",
+"official": false,
+"also": [],
+"base": [
+"gouvernement"
+],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "Emmanuel Macron"
 },
 {
 "id": "fea086d9033b29ad",
@@ -1195,7 +1348,8 @@
 "Le Dauphiné Libéré",
 "BFMTV",
 "CNews",
-"Ouest-France"
+"Ouest-France",
+"La Montagne"
 ],
 "base": [
 "presidentielle"
@@ -1465,7 +1619,8 @@
 "official": false,
 "also": [
 "La Croix",
-"RMC"
+"RMC",
+"BFMTV"
 ],
 "base": [
 "partis"
@@ -7544,6 +7699,26 @@
 "speaker": "Teddy Riner"
 },
 {
+"id": "8320e36e84b693aa",
+"title": "Élection présidentielle 2027 : Lisnard donné à 10 % ou plus, juste derrière Philippe et Glucksmann, selon un sondage",
+"link": "https://www.20minutes.fr/politique/4262737-20261113-election-presidentielle-2027-lisnard-donne-10-plus-juste-derriere-philippe-glucksmann-selon-sondage?at_medium=display&at_campaign=149",
+"summary": "Il continue son accession dans les sondages. David Lisnard (Nouvelle énergie), le candidat de droite libérale dépasse désormais les 10 % d’intention de vote pour l’élection présidentielle 2027, selon un sondage OpinionWay pour Les Échos et Radio Classique, publié jeudi.",
+"source": "20 Minutes",
+"date": "2026-11-13T14:49:02+00:00",
+"added": "2026-11-16T10:30:15+00:00",
+"official": false,
+"also": [
+"Sud Ouest"
+],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "07ebe67531fe05a1",
 "title": "Mobilisation du 14 novembre : la Préfecture de police de Paris redoute une manifestation « à forte coloration antipolice »",
 "link": "https://www.lemonde.fr/societe/article/2026/11/13/mobilisation-du-14-novembre-la-prefecture-de-police-de-paris-redoute-une-manifestation-a-forte-coloration-anti-police_6809334_3224.html",
@@ -8583,6 +8758,25 @@
 "speaker": ""
 },
 {
+"id": "36c9731591c0bee9",
+"title": "Présidentielle 2027 : Comment Mélenchon veut relancer la filière textile made in France",
+"link": "https://www.20minutes.fr/politique/4262619-20261113-presidentielle-2027-comment-melenchon-veut-relancer-filiere-textile-made-in-france?at_medium=display&at_campaign=149",
+"summary": "Le candidat de La France insoumise à la présidentielle veut « recréer une véritable filière d’habillement grand public »",
+"source": "20 Minutes",
+"date": "2026-11-13T10:46:12+00:00",
+"added": "2026-11-16T10:30:15+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": "Jean-Luc Mélenchon"
+},
+{
 "id": "689222ab81fbc78f",
 "title": "Présidentielle 2027 : les candidats défendent leur vision des services publics",
 "link": "https://www.la-croix.com/politique/presidentielle-2027-les-candidats-defendent-leur-vision-des-services-publics-20261113",
@@ -8671,222 +8865,6 @@
 "topics": [
 "gouvernement",
 "parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "117d2a1dd8263265",
-"title": "Tirs de mortiers dans les lycées : Sébastien Lecornu dénonce des complicités internes",
-"link": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/tirs-de-mortiers-dans-les-lycees-sebastien-lecornu-denonce-des-complicites-internes_8280776.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "Le gouvernement hausse le ton face à l'intensification des violences dans les établissements scolaires. Jeudi 12 novembre, deux lycées de Montpellier ont été visés par des départs de feu.",
-"source": "franceinfo",
-"date": "2026-11-13T10:26:25+00:00",
-"added": "2026-11-13T11:43:01+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement"
-],
-"natures": [
-"Réaction"
-],
-"speaker": "Sébastien Lecornu"
-},
-{
-"id": "b1e805f39a19e65c",
-"title": "Candidature de Teddy Riner: \"S'il est très clair sur sa volonté de s'allier ni avec LFI, ni avec le RN, il est le bienvenue dans la primaire des démocrates\", assure Jad Zahab, porte-parole de Gabriel Attal",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-candidature-de-teddy-riner-s-il-est-tres-clair-sur-sa-volonte-de-s-allier-ni-avec-lfi-ni-avec-le-rn-il-est-le-bienvenue-dans-la-primaire-des-democrates-assure-jad-zahab-porte-parole-de-gabriel-attal_VN-202611130441.html",
-"summary": "Teddy Riner, désormais candidat déclaré à la présidentielle, effectue son premier déplacement sur le terrain à l'hôpital Delafontaine de Saint-Denis.",
-"source": "BFMTV",
-"date": "2026-11-13T10:22:33+00:00",
-"added": "2026-11-13T11:43:01+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Candidature de Teddy Riner"
-},
-{
-"id": "f12b88d68c98aaec",
-"title": "Violences dans les lycées: Laurent Nuñez évoque à son tour la \"complicité\" de personnels de l'Éducation nationale",
-"link": "https://lcp.fr/actualites/violences-dans-les-lycees-laurent-nunez-evoque-a-son-tour-la-complicite-de-personnels-de",
-"summary": "\"Il peut y avoir effectivement un certain nombre d'adultes qui sont dans l'environnement des lycéens et qui incitent à poursuivre le mouvement, y compris dans une forme violente\", a affirmé le ministre de l'Intérieur ce vendredi sur LCI.",
-"source": "LCP",
-"date": "2026-11-13T10:22:17+00:00",
-"added": "2026-11-13T11:43:01+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Laurent Nuñez"
-},
-{
-"id": "177636d150fc9fce",
-"title": "Brutalités policières contre des journalistes : pourquoi n’entend-on pas le ministre de l’Intérieur ?",
-"link": "https://www.liberation.fr/idees-et-debats/tribunes/brutalites-policieres-contre-des-journalistes-pourquoi-nentend-on-pas-le-ministre-de-linterieur-20261113_5RCVMRHZAFDB5HXIT64IJIINXA/",
-"summary": "Une trentaine de sociétés de journalistes, dont celle de «Libération», dénoncent les violences qu’ont subies plusieurs journalistes de la part des forces de l’ordre ces derniers jours, ainsi que les menaces et propos hostiles de responsables politiques, rappelant qu’il convient de protéger par la loi le droit…",
-"source": "Libération",
-"date": "2026-11-13T10:20:04+00:00",
-"added": "2026-11-13T11:43:01+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "aa995d192386f5db",
-"title": "Candidature de Teddy Riner: \"Je ne crois pas aux aventures individuelles\", réagit Benjamin Lucas-Lundy, député Écologiste et Social des Yvelines",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-candidature-de-teddy-riner-je-ne-crois-pas-aux-aventures-individuelles-reagit-benjamin-lucas-lundy-depute-ecologiste-et-social-des-yvelines_VN-202611130434.html",
-"summary": "Teddy Riner, désormais candidat déclaré à la présidentielle, effectue son premier déplacement sur le terrain à l'hôpital Delafontaine de Saint-Denis.",
-"source": "BFMTV",
-"date": "2026-11-13T10:10:09+00:00",
-"added": "2026-11-13T11:43:01+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement",
-"presidentielle"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "Candidature de Teddy Riner"
-},
-{
-"id": "f85266691492ca4a",
-"title": "Pourquoi Gabriel Attal est persuadé de gagner la primaire face à Retailleau et Lisnard",
-"link": "https://www.liberation.fr/politique/pourquoi-gabriel-attal-est-persuade-de-gagner-la-primaire-face-a-retailleau-et-lisnard-20261113_RBF4A6X3TRBERDDRKPD5O5RTEY/",
-"summary": "L’ex-Premier ministre est «le plus prêt de tous» les prétendants de droite à la présidentielle, veut croire son entourage.",
-"source": "Libération",
-"date": "2026-11-13T10:07:31+00:00",
-"added": "2026-11-13T11:43:01+00:00",
-"official": false,
-"also": [
-"BFMTV",
-"RMC"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "05ecbf636023ecc5",
-"title": "Philippe veut en supprimer 250.000, Retailleau 400.000, Zemmour 800.000: Élisabeth Borne dénonce “la surenchère” des candidats à la présidentielle sur les suppressions de postes de fonctionnaires",
-"link": "https://www.bfmtv.com/economie/economie-social/finances-publiques/philippe-veut-en-supprimer-250-000-retailleau-400-000-zemmour-800-000-elisabeth-borne-denonce-la-surenchere-des-candidats-a-la-presidentielle-sur-les-suppressions-de-postes-de-fonctionnaires_AD-202611130428.html",
-"summary": "Elisabeth Borne n'apprécie pas les promesses de campagne qu'elle voit défiler chez les candidats du centre et de la droite.",
-"source": "BFMTV",
-"date": "2026-11-13T10:04:06+00:00",
-"added": "2026-11-13T11:43:01+00:00",
-"official": false,
-"also": [
-"Sud Ouest"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "Édouard Philippe"
-},
-{
-"id": "c2eb6e8f0b24fe8f",
-"title": "Présidentielle 2027 : Bruno Retailleau plaide pour une «forme de loyauté» à l’égard des vainqueurs de la primaire de la droite et du centre",
-"link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-bruno-retailleau-plaide-pour-une-forme-de-loyaute-a-l-egard-des-vainqueurs-de-la-primaire-20261113",
-"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
-"source": "Le Figaro",
-"date": "2026-11-13T09:37:35+00:00",
-"added": "2026-11-13T09:45:44+00:00",
-"official": false,
-"also": [
-"BFMTV",
-"France 24",
-"Le Télégramme"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Bruno Retailleau"
-},
-{
-"id": "a0b5d5e7a44ea3af",
-"title": "« Impossible de travailler avec elle » : à Rennes, le torchon brûle entre l’élue Régine Komokoli et La France insoumise",
-"link": "https://www.ouest-france.fr/bretagne/rennes-35000/impossible-de-travailler-avec-elle-a-rennes-le-torchon-brule-entre-lelue-regine-komokoli-et-la-france-insoumise-c414effe-c3bd-11f1-bba2-d026901fbfe4",
-"summary": "",
-"source": "Ouest-France",
-"date": "2026-11-13T09:31:06+00:00",
-"added": "2026-11-13T09:45:44+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "e1d4ab2e10fa1cd5",
-"title": "Julien Jeanneney, constitutionnaliste : « là où juges, presse et opposition tiennent bon, l’érosion démocratique peut être freinée »",
-"link": "https://www.lemonde.fr/politique/article/2026/11/13/julien-jeanneney-constitutionnaliste-la-ou-juges-presse-et-opposition-tiennent-bon-l-erosion-democratique-peut-etre-freinee_6809302_823448.html",
-"summary": "Partout depuis une quinzaine d’années, des démocraties libérales se vident de leur substance.",
-"source": "Le Monde",
-"date": "2026-11-13T09:30:02+00:00",
-"added": "2026-11-13T09:45:44+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
 ],
 "natures": [],
 "speaker": ""
