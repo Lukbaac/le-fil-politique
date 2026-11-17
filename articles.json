@@ -1,5 +1,411 @@
 [
 {
+"id": "8cdef612fb1f49cf",
+"title": "Présidentielle 2027 : qui propose et qui s'oppose à l'introduction d'une retraite par capitalisation",
+"link": "https://www.tf1info.fr/politique/elections/presidentielle/presidentielle-2027-qui-propose-et-qui-s-oppose-a-l-introduction-d-une-retraite-par-capitalisation-2476357.html",
+"summary": "C'est un des sujets les plus explosifs pour les prétendants à l'Élysée.",
+"source": "TF1 Info",
+"date": "2026-11-17T14:00:37+00:00",
+"added": "2026-11-17T14:02:23+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"elysee",
+"presidentielle"
+],
+"natures": [
+"Annonce"
+],
+"speaker": ""
+},
+{
+"id": "2a36afd806237beb",
+"title": "Réforme des retraites: pourquoi le RN veut supprimer les critères de pénibilité du travail",
+"link": "https://lcp.fr/actualites/reforme-des-retraites-pourquoi-le-rn-veut-supprimer-les-criteres-de-penibilite-du",
+"summary": "Marine Le Pen dévoile ce mardi le projet de réforme des retraites que le Rassemblement national compte appliquer en cas de victoire en 2027.",
+"source": "LCP",
+"date": "2026-11-17T13:55:42+00:00",
+"added": "2026-11-17T14:02:23+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "ed41bfea5809e65c",
+"title": "Grève du 17 novembre: Jean-Luc Mélenchon dénonce un \"divorce\" entre les gens et le gouvernement",
+"link": "https://www.bfmtv.com/politique/la-france-insoumise/video-greve-du-17-novembre-jean-luc-melenchon-denonce-un-divorce-entre-les-gens-et-le-gouvernement_VN-202611170612.html",
+"summary": "Ce mardi 17 novembre, une nouvelle journée de mobilisation nationale est prévue à l'appel de l'intersyndicale.",
+"source": "BFMTV",
+"date": "2026-11-17T13:46:17+00:00",
+"added": "2026-11-17T14:02:23+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement",
+"partis"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "Jean-Luc Mélenchon"
+},
+{
+"id": "26aeb66a97356ba8",
+"title": "Présidentielle 2027 : la mairie de Montauban retire la mise à disposition d’une salle à Francis Lalanne à cause de la présence de Dieudonné",
+"link": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-la-mairie-de-montauban-retire-la-mise-a-disposition-dune-salle-a-francis-lalanne-a-cause-de-la-presence-de-dieudonne-17-11-2026-2WU2CK7P5FDVREX5Q67BEUWE6I.php",
+"summary": "",
+"source": "Le Parisien",
+"date": "2026-11-17T13:43:45+00:00",
+"added": "2026-11-17T14:02:23+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "8813815e043d332e",
+"title": "Le gouvernement ne sait \"pas où il va\", estime Jean-Luc Mélenchon, candidat de La France insoumise à la présidentielle",
+"link": "https://www.bfmtv.com/politique/la-france-insoumise/video-le-gouvernement-ne-sait-pas-ou-il-va-estime-jean-luc-melenchon-candidat-de-la-france-insoumise-a-la-presidentielle_VN-202611170599.html",
+"summary": "Ce mardi 17 novembre, une nouvelle journée de mobilisation nationale est prévue à l'appel de l'intersyndicale.",
+"source": "BFMTV",
+"date": "2026-11-17T13:36:31+00:00",
+"added": "2026-11-17T14:02:23+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Jean-Luc Mélenchon"
+},
+{
+"id": "1e621c4d054ead1c",
+"title": "« Le meilleur orateur que j’aie vu »… Michel Drucker impressionné par Jean-Luc Mélenchon dans « Vivement dimanche »",
+"link": "https://www.20minutes.fr/arts-stars/television/4263527-20261117-meilleur-orateur-vu-michel-drucker-impressionne-jean-luc-melenchon-vivement-dimanche?at_medium=display&at_campaign=149",
+"summary": "C’est une connivence qu’on ne soupçonnait pas : invité sur BFMTV, dimanche 15 novembre 2026, Michel Drucker a confié à Sonia Mabrouk porter une grande admiration à Jean-Luc Mélenchon.",
+"source": "20 Minutes",
+"date": "2026-11-17T13:31:20+00:00",
+"added": "2026-11-17T14:02:23+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "e7d12530f82546f0",
+"title": "VIDÉO. Retraites : Marine Le Pen promet un âge de départ situé entre 60 et 62 ans si elle est élue en 2027",
+"link": "https://www.ouest-france.fr/elections/presidentielle/video-retraites-marine-le-pen-promet-un-age-de-depart-situe-entre-60-et-62-ans-si-elle-est-elue-en-2027-e3da9942-b68c-4368-87c1-ce788c9ab7ef",
+"summary": "",
+"source": "Ouest-France",
+"date": "2026-11-17T13:20:56+00:00",
+"added": "2026-11-17T14:02:23+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Annonce"
+],
+"speaker": "Marine Le Pen"
+},
+{
+"id": "533855cbcffb0fdb",
+"title": "Médias. Après 10 ans de tensions avec Emmanuel Macron, les journalistes de l'Élysée alertent son successeur",
+"link": "https://www.ledauphine.com/societe/2026/11/17/apres-dix-ans-de-tensions-avec-emmanuel-macron-les-journalistes-de-l-elysee-alertent-son-successeur",
+"summary": "Dans un ouvrage collectif paru mardi, les journalistes de la presse présidentielle dénoncent l'éloignement progressif du pouvoir et alertent sur les restrictions d'accès à certaines séquences de l'agenda présidentiel.",
+"source": "Le Dauphiné Libéré",
+"date": "2026-11-17T13:17:02+00:00",
+"added": "2026-11-17T14:02:23+00:00",
+"official": false,
+"also": [],
+"base": [
+"elysee"
+],
+"filtered": true,
+"topics": [
+"elysee",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "b09cb1137ea0b5e6",
+"title": "Gabriel Attal veut aider les Français à devenir propriétaires avec une \"banque publique du logement\": comment ça marcherait?",
+"link": "https://rmc.bfmtv.com/actualites/economie/gabriel-attal-veut-aider-les-francais-a-devenir-proprietaires-avec-une-banque-publique-du-logement-comment-ca-marcherait_AV-202611170570.html",
+"summary": "Gabriel Attal veut créer une banque publique du logement pour favoriser l’accès à la propriété. L’ancien Premier ministre part du constat que les prix des logements ont plus que triplé en 40 ans, quand dans le même temps les salaires n’ont même pas doublé.",
+"source": "RMC",
+"date": "2026-11-17T13:07:54+00:00",
+"added": "2026-11-17T14:02:23+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement",
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Gabriel Attal"
+},
+{
+"id": "80eaa15672e7d629",
+"title": "Age de départ, part de capitalisation, possible référendum… Que propose le Rassemblement national pour réformer les retraites ?",
+"link": "https://www.franceinfo.fr/economie/retraite/reforme-des-retraites/age-de-depart-part-de-capitalisation-referendum-que-propose-le-rassemblement-national-pour-reformer-les-retraites_8286419.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "Si elle est élue présidente, Marine Le Pen promet d'abolir au \"1er janvier 2028\" la réforme actuelle des retraites, suspendue en 2025 mais qui prévoit de reculer l'âge de départ à 64 ans.",
+"source": "franceinfo",
+"date": "2026-11-17T13:03:56+00:00",
+"added": "2026-11-17T14:02:23+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Annonce"
+],
+"speaker": ""
+},
+{
+"id": "efb3ab7355ffcc4b",
+"title": "Présidentielle 2027 : 62 ans, capitalisation… On vous résume la réforme des retraites de Marine Le Pen",
+"link": "https://www.20minutes.fr/societe/reforme_des_retraites/4263555-20261117-presidentielle-2027-62-ans-capitalisation-resume-reforme-retraites-marine-pen?at_medium=display&at_campaign=149",
+"summary": "Le Rassemblement national a présenté les mesures prévues dans sa réforme des retraites si Marine Le Pen remporte l’élection présidentielle.",
+"source": "20 Minutes",
+"date": "2026-11-17T12:36:32+00:00",
+"added": "2026-11-17T14:02:23+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "ea3b3b38f56e82a0",
+"title": "«C'est un jour historique»: en Serbie, le mouvement des étudiants fait son entrée au Parlement",
+"link": "https://www.rfi.fr/fr/europe/20261117-c-est-un-jour-historique-en-serbie-le-mouvement-des-%C3%A9tudiants-fait-son-entr%C3%A9e-au-parlement",
+"summary": "",
+"source": "RFI",
+"date": "2026-11-17T12:33:30+00:00",
+"added": "2026-11-17T14:02:23+00:00",
+"official": false,
+"also": [],
+"base": [
+"parlement"
+],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [
+"Citation"
+],
+"speaker": ""
+},
+{
+"id": "59f23c1cff1ad111",
+"title": "Présidentielle 2027 : La fortune des plus riches a-t-elle doublé en dix ans, comme le dit Raphaël Glucksmann ?",
+"link": "https://www.20minutes.fr/politique/4263529-20261117-presidentielle-2027-fortune-plus-riches-double-dix-ans-comme-dit-raphael-glucksmann?at_medium=display&at_campaign=149",
+"summary": "À la veille du lancement de la 42e campagne des Restos du Cœur, cinq candidats à l’élection présidentielle ont défendu leurs propositions sur le pouvoir d’achat et de lutte contre la pauvreté.",
+"source": "20 Minutes",
+"date": "2026-11-17T12:32:38+00:00",
+"added": "2026-11-17T14:02:23+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": "Raphaël Glucksmann"
+},
+{
+"id": "59027775f9e33d83",
+"title": "ÉDITO. Y a-t-il trop de fonctionnaires en France ?",
+"link": "https://www.franceinfo.fr/elections/edito-y-a-t-il-trop-de-fonctionnaires-en-france_8286494.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "Faut-il moins de fonctionnaires pour faire des économies ou davantage pour sauver les services publics ? À droite, les candidats promettent des centaines de milliers de suppressions de postes.",
+"source": "franceinfo",
+"date": "2026-11-17T12:09:57+00:00",
+"added": "2026-11-17T14:02:23+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "c6bf1ad1724be440",
+"title": "Les députés LFI plaident pour amnistier les délits commis par des mineurs dans le cadre du mouvement lycéen",
+"link": "https://lcp.fr/actualites/les-deputes-lfi-plaident-pour-amnistier-les-delits-commis-par-des-mineurs-dans-le-cadre",
+"summary": "Le groupe La France insoumise de l'Assemblée nationale, présidé par Mathilde Panot, a présenté, ce mardi 17 novembre, une proposition de loi visant à amnistier les mineurs poursuivis ou condamnés pour des délits commis dans le cadre du mouvement lycéen.",
+"source": "LCP",
+"date": "2026-11-17T12:03:19+00:00",
+"added": "2026-11-17T14:02:23+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "476726e08e306d96",
+"title": "\"Des accusations fallacieuses, des méthodes trumpistes\" peste Manuel Bompard, coordinateur LFI",
+"link": "https://www.franceinfo.fr/politique/des-accusations-fallacieuses-des-methodes-trumpistes-peste-manuel-bompard-coordinateur-lfi_8286482.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "Agression d'un proviseur, mortiers fournis à des élèves. \"Des accusations fallacieuses, des méthodes trumpistes\" contre la France insoumise.",
+"source": "franceinfo",
+"date": "2026-11-17T11:56:14+00:00",
+"added": "2026-11-17T14:02:23+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "4f20b6ebfebc0782",
+"title": "Âge d'entrée sur le marché du travail, départ légal entre 60 et 62 ans, décote durcie, part de capitalisation... Ce qu'il faut retenir de la réforme des retraites présentée par le RN",
+"link": "https://www.bfmtv.com/economie/patrimoine/retraite/age-d-entree-sur-le-marche-du-travail-depart-legal-entre-60-et-62-ans-decote-durcie-part-de-capitalisation-ce-qu-il-faut-retenir-de-la-reforme-des-retraites-presentee-par-le-rn_AV-202611170518.html",
+"summary": "On connaît l'âge légal de départ, la durée de cotisation... Et bientôt l'âge d'entrée ? Voilà un troisième paramètre proposé par la candidate du Rassemblement national à l'élection présidentielle Marine Le Pen et son numéro 2 Jordan Bardella, en vue de réformer le système de retraites par répartition.",
+"source": "BFMTV",
+"date": "2026-11-17T11:55:03+00:00",
+"added": "2026-11-17T14:02:23+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "bebdecda7d321d9e",
+"title": "Âge de départ, capitalisation, trimestres... Ce que le RN veut changer pour les retraites",
+"link": "https://www.cnews.fr/france/2026-11-17/age-de-depart-capitalisation-trimestres-ce-que-le-rn-veut-changer-pour-les",
+"summary": "Prendre sa retraite plus tôt, mais devoir travailler davantage pour valider un trimestre. C’est le pari de du Rassemblement national et de Marine Le Pen, sa cheffe de file, qui ont présenté ce mardi 17 novembre le projet du RN sur les retraites pour 2027.",
+"source": "CNews",
+"date": "2026-11-17T11:50:35+00:00",
+"added": "2026-11-17T14:02:23+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "e2cbefcf549d4482",
+"title": "Présidentielle 2027 : 42 ans de cotisation et une dose de capitalisation, Marine Le Pen promet d’engager sa réforme des retraites dès son arrivée au pouvoir",
+"link": "https://www.sudouest.fr/economie/reforme-des-retraites/presidentielle-2027-42-ans-de-cotisation-et-une-dose-de-capitalisation-marine-le-pen-promet-d-engager-sa-reforme-des-retraites-des-son-arrivee-au-pouvoir-31561695.php",
+"summary": "",
+"source": "Sud Ouest",
+"date": "2026-11-17T11:50:25+00:00",
+"added": "2026-11-17T14:02:23+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Annonce"
+],
+"speaker": "Marine Le Pen"
+},
+{
+"id": "e4c5886ab46fcc46",
+"title": "Premiers déplacements, programme à construire… Désormais candidat, Teddy Riner à l’épreuve de la campagne présidentielle",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/premiers-deplacements-programme-a-construire-desormais-candidat-teddy-riner-a-l-epreuve-de-la-campagne-presidentielle_AN-202611170513.html",
+"summary": "Après une arrivée dans la campagne présidentielle que personne n'avait vu venir, voilà le judoka confronté aux premiers obstacles.",
+"source": "BFMTV",
+"date": "2026-11-17T11:47:35+00:00",
+"added": "2026-11-17T14:02:23+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "1f8a69164811d6aa",
 "title": "Présidentielle 2027 : Marine Le Pen présente sa réforme des retraites et promet que « des centaines de milliers de travailleurs partiront plus tôt » qu’avec la réforme Borne",
 "link": "https://www.lemonde.fr/politique/article/2026/11/17/presidentielle-2027-marine-le-pen-presente-sa-reforme-des-retraites-et-promet-que-des-centaines-de-milliers-de-travailleurs-partiront-plus-tot-qu-avec-la-reforme-borne_6812963_823448.html",
@@ -9,7 +415,8 @@
 "added": "2026-11-17T11:38:08+00:00",
 "official": false,
 "also": [
-"BFMTV"
+"BFMTV",
+"RMC"
 ],
 "base": [],
 "filtered": true,
@@ -21,6 +428,25 @@
 "Citation",
 "Annonce"
 ],
+"speaker": ""
+},
+{
+"id": "5fa33dbefa191e86",
+"title": "Le Rassemblement national présente sa réforme des retraites en cas d'accession à l'Élysée",
+"link": "https://www.bfmtv.com/politique/video-le-rassemblement-national-presente-sa-reforme-des-retraites-en-cas-d-accession-a-l-elysee_VN-202611170517.html",
+"summary": "Le Rassemblement national présente ce mardi matin son projet \"pour réparer le système de retraites\" français, exercice délicat à destination de son électorat mais aussi de marchés inquiets à l'idée de voir le parti d'extrême droite accéder au pouvoir au printemps.",
+"source": "BFMTV",
+"date": "2026-11-17T11:30:01+00:00",
+"added": "2026-11-17T14:02:23+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"partis"
+],
+"natures": [],
 "speaker": ""
 },
 {
@@ -51,7 +477,11 @@
 "date": "2026-11-17T11:24:53+00:00",
 "added": "2026-11-17T11:38:08+00:00",
 "official": false,
-"also": [],
+"also": [
+"RTL",
+"TF1 Info",
+"Le Parisien"
+],
 "base": [
 "partis"
 ],
@@ -336,6 +766,26 @@
 "Annonce"
 ],
 "speaker": "Jordan Bardella"
+},
+{
+"id": "4cf4e831814a3125",
+"title": "Le collectivisme de Mélenchon est-il un retour à 1981 ?",
+"link": "https://www.nouvelobs.com/chroniques/20261117.OBS120201/le-collectivisme-de-melenchon-est-il-un-retour-a-1981.html",
+"summary": "S’abonner permet de commenter les articles. Et pas que : vous pouvez les consulter et les offrir à vos proches.",
+"source": "Le Nouvel Obs",
+"date": "2026-11-17T11:00:14+00:00",
+"added": "2026-11-17T14:02:23+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
 },
 {
 "id": "bf77c8dd8375e5ed",
@@ -828,7 +1278,8 @@
 "added": "2026-11-17T09:49:30+00:00",
 "official": false,
 "also": [
-"franceinfo"
+"franceinfo",
+"RTL"
 ],
 "base": [
 "partis"
@@ -954,7 +1405,13 @@
 "date": "2026-11-17T09:14:00+00:00",
 "added": "2026-11-17T09:49:30+00:00",
 "official": false,
-"also": [],
+"also": [
+"Libération",
+"BFMTV",
+"Le Dauphiné Libéré",
+"La Montagne",
+"Le Figaro"
+],
 "base": [
 "partis"
 ],
@@ -1055,7 +1512,9 @@
 "date": "2026-11-17T08:45:36+00:00",
 "added": "2026-11-17T09:49:30+00:00",
 "official": false,
-"also": [],
+"also": [
+"L'Opinion"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -1163,7 +1622,9 @@
 "official": false,
 "also": [
 "TF1 Info",
-"Midi Libre"
+"Midi Libre",
+"Libération",
+"La Nouvelle République"
 ],
 "base": [
 "partis"
@@ -1427,6 +1888,26 @@
 "filtered": true,
 "topics": [
 "parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "6edb12ec66d0b1b6",
+"title": "Présidentielle 2027 : SMIC, logement social, galères des \"mamans solo\"… vous avez raté le Grand Débat ? On vous résume ce qui s’est dit",
+"link": "https://www.midilibre.fr/2026/11/17/presidentielle-2027-smic-logement-social-galeres-des-mamans-solo-vous-avez-rate-le-grand-debat-on-vous-resume-ce-qui-sest-dit-13656510.php",
+"summary": "Durant trois heures, lundi 16 novembre, Gabriel Attal, Raphaël Glucksmann, Marine Le Pen, Jean-Luc Mélenchon et Bruno Retailleau ont été réunis dans l’un des entrepôts des Restos du cœur afin de donner leurs points de vue sur la question \"Quelle société pour demain ?\".",
+"source": "Midi Libre",
+"date": "2026-11-17T07:02:00+00:00",
+"added": "2026-11-17T14:02:23+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
 ],
 "natures": [],
 "speaker": ""
@@ -1752,7 +2233,8 @@
 "Le Monde",
 "Le Télégramme",
 "Le Figaro",
-"La Nouvelle République"
+"La Nouvelle République",
+"RFI"
 ],
 "base": [
 "partis"
@@ -1877,7 +2359,8 @@
 "added": "2026-11-17T06:42:07+00:00",
 "official": false,
 "also": [
-"CNews"
+"CNews",
+"Sud Ouest"
 ],
 "base": [],
 "filtered": true,
@@ -2010,7 +2493,8 @@
 "also": [
 "LCP",
 "franceinfo",
-"Ouest-France"
+"Ouest-France",
+"France 24"
 ],
 "base": [],
 "filtered": true,
@@ -2379,7 +2863,8 @@
 "added": "2026-11-17T06:42:07+00:00",
 "official": false,
 "also": [
-"Libération"
+"Libération",
+"La Provence"
 ],
 "base": [],
 "filtered": true,
@@ -2654,7 +3139,8 @@
 "official": false,
 "also": [
 "Le Monde",
-"Le Télégramme"
+"Le Télégramme",
+"La Montagne"
 ],
 "base": [
 "partis"
@@ -3606,7 +4092,8 @@
 "official": false,
 "also": [
 "Le Figaro",
-"Sud Ouest"
+"Sud Ouest",
+"Le Parisien"
 ],
 "base": [
 "partis"
@@ -4618,7 +5105,9 @@
 "date": "2026-11-16T15:00:13+00:00",
 "added": "2026-11-16T15:45:19+00:00",
 "official": false,
-"also": [],
+"also": [
+"Le Republicain Lorrain"
+],
 "base": [
 "partis"
 ],
@@ -7317,7 +7806,9 @@
 "date": "2026-11-15T19:50:52+00:00",
 "added": "2026-11-15T21:25:49+00:00",
 "official": false,
-"also": [],
+"also": [
+"20 Minutes"
+],
 "base": [
 "partis"
 ],
@@ -7967,7 +8458,8 @@
 "also": [
 "BFMTV",
 "Le HuffPost",
-"RFI"
+"RFI",
+"La Croix"
 ],
 "base": [],
 "filtered": true,
@@ -11042,219 +11534,6 @@
 "filtered": true,
 "topics": [
 "presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "60594d834a448277",
-"title": "Dominique Schnapper, politiste : « Les partis de la droite républicaine et de la social-démocratie ne sont plus des lieux de débat politique »",
-"link": "https://www.lemonde.fr/idees/article/2026/11/14/dominique-schnapper-politiste-les-partis-de-la-droite-republicaine-et-de-la-social-democratie-ne-sont-plus-des-lieux-de-debat-politique_6810281_3232.html",
-"summary": "Les différences entre les candidats des partis de gouvernement à l’élection présidentielle tiennent plus au style des personnes et au discours qu’à de réelles divergences politiques, note la politiste dans un entretien au « Monde ».",
-"source": "Le Monde",
-"date": "2026-11-14T13:30:09+00:00",
-"added": "2026-11-14T13:41:31+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "fc8ce710585f816d",
-"title": "Vice-président d'université agressé dans les Yvelines : le ministre de l'Enseignement supérieur invité de LCI",
-"link": "https://www.tf1info.fr/player/2883e7af-be58-4b35-b8f2-ce934636f038/",
-"summary": "",
-"source": "TF1 Info",
-"date": "2026-11-14T13:17:47+00:00",
-"added": "2026-11-14T15:26:37+00:00",
-"official": false,
-"also": [
-"BFMTV"
-],
-"base": [
-"matinales"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"gouvernement"
-],
-"natures": [
-"Interview"
-],
-"speaker": ""
-},
-{
-"id": "5e6d3900774a86be",
-"title": "«Jean-Luc Mélenchon est l'homme qui prend le parti de tous ceux qui détestent l'\"ancienne France\"», tacle Michel Onfray",
-"link": "https://www.cnews.fr/videos/france/2026-11-14/jean-luc-melenchon-est-lhomme-qui-prend-le-parti-de-tous-ceux-qui",
-"summary": "«Jean-Luc Mélenchon est l'homme qui prend le parti de tous ceux qui détestent l'ancienne France», a affirmé le philosophe Michel Onfray, ce samedi sur CNEWS.",
-"source": "CNews",
-"date": "2026-11-14T12:55:00+00:00",
-"added": "2026-11-14T13:41:31+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "Michel Onfray"
-},
-{
-"id": "0da561124fcd061e",
-"title": "Présidentielle 2027 : premier couac de campagne pour Teddy Riner, lâché par un de ses principaux soutiens politiques",
-"link": "https://www.midilibre.fr/2026/11/14/presidentielle-2027-premier-couac-dans-la-campagne-pour-teddy-riner-lache-par-un-de-ses-principaux-soutiens-politiques-13652541.php",
-"summary": "Cinq jours après avoir annoncé sa candidature à la présidentielle de 2027, Teddy Riner voit son soutien politique, l’ex-ministre de la Santé François Braun, se retirer de sa campagne.",
-"source": "Midi Libre",
-"date": "2026-11-14T12:30:00+00:00",
-"added": "2026-11-14T13:41:31+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"gouvernement",
-"presidentielle"
-],
-"natures": [],
-"speaker": "Teddy Riner"
-},
-{
-"id": "2c6c8a492d5a65d7",
-"title": "L’ancien ministre qui soutenait Teddy Riner le lâche déjà",
-"link": "https://www.huffingtonpost.fr/politique/article/francois-braun-ancien-ministre-et-soutien-de-teddy-riner-lache-deja-le-judoka_357821.html",
-"summary": "En fait, non. L’ancien ministre de la Santé d’Emmanuel Macron François Braun annonce à la presse se retirer de la campagne de Teddy Riner.",
-"source": "Le HuffPost",
-"date": "2026-11-14T12:27:13+00:00",
-"added": "2026-11-14T17:25:08+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "66b4c4748188355a",
-"title": "Saint-Denis : La « prime au mérite » enterrée par la majorité de Bally Bagayoko",
-"link": "https://www.20minutes.fr/politique/4262854-20261114-saint-denis-prime-merite-enterree-majorite-bally-bagayoko?at_medium=display&at_campaign=149",
-"summary": "Le conseil municipal a supprimé jeudi soir la baisse de la prime des agents en cas d’arrêt maladie, instaurée en 2021.",
-"source": "20 Minutes",
-"date": "2026-11-14T12:21:50+00:00",
-"added": "2026-11-14T13:41:31+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "39a18e7895520f7e",
-"title": "Politique, le choix de la semaine - Raphaël Glucksmann: le soufflé de la primaire est-il déjà retombé?",
-"link": "https://www.rfi.fr/fr/podcasts/politique-le-choix-de-la-semaine/20261114-rapha%C3%ABl-glucksmann-le-souffl%C3%A9-de-la-primaire-est-il-d%C3%A9j%C3%A0-retomb%C3%A9",
-"summary": "Il y a un mois, Raphaël Glucksmann remportait haut la main la primaire de la gauche avec 66% des voix. Un plébiscite qui devait lui servir de tremplin vers l'Élysée.",
-"source": "RFI",
-"date": "2026-11-14T12:13:29+00:00",
-"added": "2026-11-14T13:41:31+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"elysee",
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "9ef74f79942a8f8f",
-"title": "Présidentielle: Raphaël Glucksmann considère que le \"ni droite ni gauche\" de Teddy Riner \"a donné une politique fondée sur l'injustice\"",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/presidentielle-raphael-glucksmann-considere-le-ni-droite-ni-gauche-de-teddy-riner-comme-une-politique-fondee-sur-l-injustice_AD-202611140234.html",
-"summary": "Raphaël Glucksmann à Paris le 22 octobre 2026.",
-"source": "BFMTV",
-"date": "2026-11-14T12:00:40+00:00",
-"added": "2026-11-15T15:27:31+00:00",
-"official": false,
-"also": [
-"Le Parisien"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Raphaël Glucksmann"
-},
-{
-"id": "c98574c25aa84fe7",
-"title": "Présidentielle 2027 : Nicolas Sarkozy ne veut pas interdire LFI, à rebours de Bruno Retailleau",
-"link": "https://www.20minutes.fr/politique/4262846-20261114-presidentielle-2027-nicolas-sarkozy-veut-interdire-lfi-rebours-bruno-retailleau?at_medium=display&at_campaign=149",
-"summary": "Interdire La France Insoumise ? Nicolas Sarkozy n’est pas favorable à cette idée. Dans un entretien au Figaro, parut ce vendredi, et relayé par BFM, l’ancien président de la République estime qu’une telle mesure « n’aurait aucun sens ».",
-"source": "20 Minutes",
-"date": "2026-11-14T11:43:08+00:00",
-"added": "2026-11-16T19:46:50+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": "Nicolas Sarkozy"
-},
-{
-"id": "18d1e9359c4b30c3",
-"title": "Sarkozy dit non à l’interdiction de LFI, contrairement à Retailleau",
-"link": "https://www.20minutes.fr/politique/4262846-20261114-presidentielle-2027-nicolas-sarkozy-veut-interdire-lfi-rebours-bruno-retailleau",
-"summary": "Interdire La France Insoumise ? Nicolas Sarkozy n’est pas favorable à cette idée. Dans un entretien au Figaro, parut ce vendredi, et relayé par BFM, l’ancien président de la République estime qu’une telle mesure « n’aurait aucun sens ».",
-"source": "20 Minutes",
-"date": "2026-11-14T11:43:00+00:00",
-"added": "2026-11-14T13:41:31+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"elysee",
-"partis"
 ],
 "natures": [],
 "speaker": ""
