@@ -1,5 +1,251 @@
 [
 {
+"id": "7d253ae1751f0fe3",
+"title": "Dîner entre Jean-Luc Mélenchon et des patrons du CAC40: \"Une mise en scène\", pour Michel-Édouard Leclerc",
+"link": "https://www.bfmtv.com/politique/video-diner-entre-jean-luc-melenchon-et-des-patrons-du-cac40-une-mise-en-scene-pour-michel-edouard-leclerc_VN-202611170336.html",
+"summary": "Le candidat insoumis à la présidentielle, Jean-Luc Mélenchon, va dîner, ce mardi 17 novembre, avec des grands patrons du CAC40, dont ceux de TotalEnergies et de LVMH.",
+"source": "BFMTV",
+"date": "2026-11-17T07:55:49+00:00",
+"added": "2026-11-17T07:59:44+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "743ff96ce9e5b43e",
+"title": "\"Il y a eu parfois des erreurs\": Emmanuel Macron affirme avoir \"fait de son mieux\" pendant ses deux quinquennats",
+"link": "https://lcp.fr/actualites/il-y-a-eu-parfois-des-erreurs-emmanuel-macron-affirme-avoir-fait-de-son-mieux-pendant",
+"summary": "Dix ans jour pour jour après avoir annoncé sa candidature à l'élection présidentielle, Emmanuel Macron a publié ce lundi sur X un message dans lequel il reconnaît des \"erreurs\" et promet un \"engagement\" de sa part \"jusqu'au bout\".",
+"source": "LCP",
+"date": "2026-11-17T07:50:15+00:00",
+"added": "2026-11-17T07:59:44+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Emmanuel Macron"
+},
+{
+"id": "e8b73c1d1e5f47ef",
+"title": "Budget 2027 : le Sénat et le gouvernement à la recherche d’un compromis sur la mise à contribution des retraités",
+"link": "https://www.lemonde.fr/politique/article/2026/11/17/budget-2027-le-senat-et-le-gouvernement-a-la-recherche-d-un-compromis-sur-la-mise-a-contribution-des-retraites_6812925_823448.html",
+"summary": "Lundi, les élus du Palais du Luxembourg ont supprimé l’article du PLFSS qui freine la revalorisation des pensions.",
+"source": "Le Monde",
+"date": "2026-11-17T07:48:05+00:00",
+"added": "2026-11-17T07:59:44+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement",
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "29a14b6a887878c3",
+"title": "Les journalistes qui suivent l’Élysée demandent au prochain président de pouvoir travailler librement",
+"link": "https://www.leparisien.fr/politique/les-journalistes-qui-suivent-lelysee-demandent-au-prochain-president-de-pouvoir-travailler-librement-17-11-2026-3KNIFNSAHNFCXHBF2DKECO6T6A.php",
+"summary": "",
+"source": "Le Parisien",
+"date": "2026-11-17T07:45:40+00:00",
+"added": "2026-11-17T07:59:44+00:00",
+"official": false,
+"also": [],
+"base": [
+"elysee"
+],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "0759b0baab721d34",
+"title": "Emmanuel Macron alerte sur un \"monde de désordre total\" et défend \"l'ordre multilatéral\"",
+"link": "https://www.bfmtv.com/politique/video-emmanuel-macron-alerte-sur-un-monde-de-desordre-total-et-defend-l-ordre-multilateral_VN-202611170316.html",
+"summary": "En déplacement en Malaisie, Emmanuel Macron a défendu \"l'ordre multilatéral\" et la coopération entre les deux pays à l'occasion d'un discours lors du forum d'affaires France-Malaisie.",
+"source": "BFMTV",
+"date": "2026-11-17T07:43:41+00:00",
+"added": "2026-11-17T07:59:44+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "Emmanuel Macron"
+},
+{
+"id": "f06ac8279f61396d",
+"title": "Déjà 37 candidats à la présidentielle, et Dominique de Villepin prêt à entrer en scène ?",
+"link": "https://www.liberation.fr/politique/deja-37-candidats-a-la-presidentielle-et-dominique-de-villepin-pret-a-entrer-en-scene-20261117_DJ47ULWAHJCOXD4H7K6KJOX63Y/",
+"summary": "L’ancien Premier ministre doit prendre la parole vendredi 20 novembre, a fait savoir lundi dans la soirée son équipe de campagne, laissant entendre que le septuagénaire allait officiellement se lancer dans la course à l’Elysée.",
+"source": "Libération",
+"date": "2026-11-17T07:42:16+00:00",
+"added": "2026-11-17T07:59:44+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "32da86216a3f4675",
+"title": "Présidentielle 2027 : en cas de défaite à la primaire, Gabriel Attal retirera sa candidature",
+"link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-en-cas-de-defaite-a-la-primaire-gabriel-attal-retirera-sa-candidature-20261117",
+"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
+"source": "Le Figaro",
+"date": "2026-11-17T07:32:29+00:00",
+"added": "2026-11-17T07:59:44+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "166235c79a1cd7ab",
+"title": "«Jean-Luc Mélenchon et Marine Le Pen font une campagne qui les amène au second tour, mais je crois aux surprises», glisse Alain Bauer",
+"link": "https://www.cnews.fr/france/2026-11-17/jean-luc-melenchon-et-marine-le-pen-font-une-campagne-qui-les-amene-au-second",
+"summary": "«Jean-Luc Mélenchon et Marine Le Pen font une campagne qui les amène au second tour, mais je crois aux surprises», a souligné Alain Bauer, professeur de criminologie au Conservatoire national des arts et métiers, ce mardi lors de La Grande Interview sur CNEWS.",
+"source": "CNews",
+"date": "2026-11-17T07:32:00+00:00",
+"added": "2026-11-17T07:59:44+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Alain Bauer"
+},
+{
+"id": "e6aa7e162b64855d",
+"title": "\"Nous jugerons sur pièce\" : le président des Restos du Cœur réagit aux propositions des candidats après le débat sur TF1 et LCI",
+"link": "https://www.tf1info.fr/politique/elections/presidentielle/nous-jugerons-sur-piece-le-president-des-restos-du-coeur-reagit-aux-propositions-des-candidats-apres-le-debat-sur-tf1-et-lci-2476295.html",
+"summary": "Les Restos du Cœur au centre de la campagne présidentielle.",
+"source": "TF1 Info",
+"date": "2026-11-17T07:17:43+00:00",
+"added": "2026-11-17T07:59:44+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "Restos du Cœur"
+},
+{
+"id": "834b56b95fc6bf67",
+"title": "Présidentielle 2027 : Dominique de Villepin va-t-il se déclarer vendredi ?",
+"link": "https://www.20minutes.fr/politique/4263442-20261117-presidentielle-2027-dominique-villepin-va-declarer-vendredi?at_medium=display&at_campaign=149",
+"summary": "Le suspense est mince, mais l’effet d’annonce soigné. Dominique de Villepin doit s’exprimer vendredi à 11 heures à Paris, lors d’une prise de parole « exceptionnelle » organisée « dans le cadre de l’élection présidentielle ».",
+"source": "20 Minutes",
+"date": "2026-11-17T07:06:11+00:00",
+"added": "2026-11-17T07:59:44+00:00",
+"official": false,
+"also": [
+"Sud Ouest"
+],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "90d4971cb3207403",
+"title": "Reconnaissance du cancer du sein en maladie professionnelle, congé climatique... Les textes de la niche parlementaire écologiste du 3 décembre",
+"link": "https://lcp.fr/actualites/reconnaissance-du-cancer-du-sein-en-maladie-professionnelle-conge-climatique-les-textes",
+"summary": "La journée réservée aux propositions du groupe Ecologiste et social dans l'hémicycle de l'Assemblée nationale aura lieu le 3 décembre.",
+"source": "LCP",
+"date": "2026-11-17T07:05:12+00:00",
+"added": "2026-11-17T07:59:44+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "f7fdfdf42451e5e1",
+"title": "\"J'ai fait de mon mieux\", Emmanuel Macron fait le bilan de ses deux mandats",
+"link": "https://www.franceinfo.fr/politique/emmanuel-macron/j-ai-fait-de-mon-mieux-emmanuel-macron-fait-le-bilan-de-ses-deux-mandats_8286098.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "Emmanuel Macron a marqué, lundi 16 novembre, les dix ans de l’annonce de sa première candidature à l’Elysée par un message sur X, affirmant avoir “fait de [son] mieux pour l’intérêt supérieur du pays”, tout en concédant “parfois des erreurs”.",
+"source": "franceinfo",
+"date": "2026-11-17T07:00:36+00:00",
+"added": "2026-11-17T07:59:44+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Emmanuel Macron"
+},
+{
 "id": "b7edefcad0d0090d",
 "title": "Présidentielle 2027 : Le Pen promet une \"prime d'activité\" pour les jeunes, Mélenchon souhaite une allocation",
 "link": "https://fr.euronews.com/2026/11/17/presidentielle-2027-le-pen-promet-une-prime-dactivite-pour-les-jeunes-melenchon-souhaite-u",
@@ -97,6 +343,26 @@
 "official": false,
 "also": [],
 "base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "514d4408ed6db840",
+"title": "Glucksmann à l’offensive, Le Pen acculée sur les assos… Que s’est-il passé au débat présidentiel des Restos du Cœur ?",
+"link": "https://www.nouvelobs.com/politique/20261117.OBS120194/glucksmann-a-l-offensive-le-pen-acculee-sur-les-assos-que-s-est-il-passe-au-debat-presidentiel-des-restos-du-c-ur.html",
+"summary": "Le journaliste Gilles Bouleau et Amélie Carrouër encadrent les participants au débat organisé sur TF1-LCI lundi soir, Gabriel Attal, Raphaël Glucksmann, Marine Le Pen, Jean-Luc Mélenchon, et Bruno Retailleau, à Rungis, dans un entrepôt des Restos du Cœur.",
+"source": "Le Nouvel Obs",
+"date": "2026-11-17T06:15:09+00:00",
+"added": "2026-11-17T07:59:44+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
 "filtered": true,
 "topics": [
 "partis"
@@ -232,7 +498,9 @@
 "date": "2026-11-17T05:44:29+00:00",
 "added": "2026-11-17T06:42:07+00:00",
 "official": false,
-"also": [],
+"also": [
+"France 24"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -284,6 +552,25 @@
 "speaker": ""
 },
 {
+"id": "91013e5b50dd6961",
+"title": "Meuse. Matignon, présidentielle, énergie et agriculture : c’est dans les coulisses politiques de la semaine",
+"link": "https://www.estrepublicain.fr/politique/2026/11/17/matignon-presidentielle-energie-et-agriculture-c-est-dans-les-coulisses-politiques-de-la-semaine",
+"summary": "Confronté à un contexte national particulièrement tendu, Sébastien Lecornu n’avait pu répondre favorablement à l’invitation des Départements de France lors de leur congrès de Reims organisé à la mi-octobre…",
+"source": "L'Est Républicain",
+"date": "2026-11-17T05:38:42+00:00",
+"added": "2026-11-17T07:59:44+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "f930deadc24b0fab",
 "title": "Retour de l'âge légal de départ à 62 ans, capitalisation obligatoire… Le RN présente sa réforme des retraites",
 "link": "https://www.franceinfo.fr/politique/front-national/retour-de-l-age-legal-de-depart-a-62-ans-capitalisation-obligatoire-le-rn-presente-sa-reforme-des-retraites_8285453.html#xtor=RSS-3-%5Bpolitique%5D",
@@ -312,7 +599,9 @@
 "date": "2026-11-17T05:34:12+00:00",
 "added": "2026-11-17T06:42:07+00:00",
 "official": false,
-"also": [],
+"also": [
+"BFMTV"
+],
 "base": [
 "partis"
 ],
@@ -452,6 +741,27 @@
 "official": false,
 "also": [],
 "base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "a47ef26f756fb946",
+"title": "Ce débat de la présidentielle sur TF1 a montré deux gauches pas si irréconciliables",
+"link": "https://www.huffingtonpost.fr/politique/article/ce-debat-de-la-presidentielle-a-rapproche-jean-luc-melenchon-et-raphael-glucksmann-en-parlant-pouvoir-d-achat_359407.html",
+"summary": "Ils incarnent chacun un pôle de la gauche, l’un radical, l’autre plus réformiste, s’écharpent régulièrement sur leur stratégie ou leur positionnement respectif mais Jean-Luc Mélenchon et Raphaël Glucksmann sont parfois d’accord.",
+"source": "Le HuffPost",
+"date": "2026-11-17T04:48:05+00:00",
+"added": "2026-11-17T07:59:44+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
 "filtered": true,
 "topics": [
 "partis",
@@ -876,7 +1186,10 @@
 "date": "2026-11-16T22:09:00+00:00",
 "added": "2026-11-17T06:42:07+00:00",
 "official": false,
-"also": [],
+"also": [
+"Le Monde",
+"Le Télégramme"
+],
 "base": [
 "partis"
 ],
@@ -896,6 +1209,26 @@
 "source": "TF1 Info",
 "date": "2026-11-16T22:05:11+00:00",
 "added": "2026-11-17T06:42:07+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "13aafa440db3ff81",
+"title": "S'il est élu, quelle est la première mesure de Raphaël Glucksmann contre la précarité ?",
+"link": "https://www.tf1info.fr/replay-lci/videos/video-s-il-est-elu-quelle-est-la-premiere-mesure-de-raphael-glucksmann-contre-la-precarite-59918-2476257.html",
+"summary": "Le candidat PS-Place Publique conclut le débat en expliquant ce qu'il ferait s'il était élu pour lutter contre la pauvreté et la précarité.",
+"source": "TF1 Info",
+"date": "2026-11-16T22:05:11+00:00",
+"added": "2026-11-17T07:59:44+00:00",
 "official": false,
 "also": [],
 "base": [
@@ -938,7 +1271,9 @@
 "date": "2026-11-16T21:50:07+00:00",
 "added": "2026-11-17T06:42:07+00:00",
 "official": false,
-"also": [],
+"also": [
+"Midi Libre"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -1058,7 +1393,8 @@
 "added": "2026-11-16T21:38:27+00:00",
 "official": false,
 "also": [
-"Midi Libre"
+"Midi Libre",
+"20 Minutes"
 ],
 "base": [
 "partis"
@@ -3405,6 +3741,24 @@
 "topics": [
 "parlement",
 "partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "4d89c1794606e915",
+"title": "Contestation de la jeunesse : le gouvernement durcit le ton face aux violences",
+"link": "https://www.france24.com/fr/info-en-continu/20261116-contestation-de-la-jeunesse-le-gouvernement-durcit-le-ton-face-aux-violences",
+"summary": "",
+"source": "France 24",
+"date": "2026-11-16T12:15:31+00:00",
+"added": "2026-11-17T07:59:44+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
 ],
 "natures": [],
 "speaker": ""
@@ -9848,144 +10202,5 @@
 "Citation"
 ],
 "speaker": "Victor Wembanyama"
-},
-{
-"id": "da3017c348566664",
-"title": "Présidentielle: l'ex-ministre François Braun se met en retrait de la campagne de Teddy Riner \"en attendant que les choses se précisent\"",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/presidentielle-l-ex-ministre-francois-braun-se-met-en-retrait-de-la-campagne-de-teddy-riner-en-attendant-que-les-choses-se-precisent_AN-202611140143.html",
-"summary": "Ancien ministre de la Santé d'Élisabeth Borne et soutien de Teddy Riner, François Braun a annoncé se mettre, au moins temporairement, en retrait de la campagne du judoka.",
-"source": "BFMTV",
-"date": "2026-11-14T07:40:37+00:00",
-"added": "2026-11-14T09:32:21+00:00",
-"official": false,
-"also": [
-"Le Figaro",
-"Le Dauphiné Libéré",
-"franceinfo",
-"Franceinfo"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "e99bfe956e33ae3d",
-"title": "La semaine de Soulcié : Mélenchon, Riner, manspreading littéraire…",
-"link": "https://www.mediapart.fr/studio/portfolios/la-semaine-de-soulcie-melenchon-riner-manspreading-litteraire",
-"summary": "Tous les samedis, le dessinateur Thibaut Soulcié livre pour « Mediapart » son regard décalé sur l’actualité de la semaine passée : personne ne sera épargné !",
-"source": "Mediapart",
-"date": "2026-11-14T07:38:42+00:00",
-"added": "2026-11-14T09:32:21+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "fef803537dad6f53",
-"title": "Teddy Riner : se présenter à l'Élysée pour gagner ?",
-"link": "https://www.franceinfo.fr/replay-radio/portraits-d-actu/teddy-riner-se-presenter-a-l-elysee-pour-gagner_8261255.html",
-"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
-"source": "franceinfo",
-"date": "2026-11-14T07:29:25+00:00",
-"added": "2026-11-15T19:32:58+00:00",
-"official": false,
-"also": [],
-"base": [
-"elysee"
-],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "2f1192f889d2182d",
-"title": "Entre le RN et LFI, un triangle des Bermudes politique",
-"link": "https://www.liberation.fr/politique/entre-le-rn-et-lfi-un-triangle-des-bermudes-politique-20261114_NLWY26O4D5ECNN3AV4MMBHJPUU/",
-"summary": "A cinq mois de la présidentielle, les modérés de droite comme de gauche, qui peinent à convaincre, attendent une solution magique à la léthargie sondagière de leurs candidats.",
-"source": "Libération",
-"date": "2026-11-14T07:15:00+00:00",
-"added": "2026-11-14T07:44:50+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "a0b9427bbd5197cf",
-"title": "Ukraine: \"L'Amérique ne peut pas négocier à notre place\" alerte la cheffe de la diplomatie européenne",
-"link": "https://lcp.fr/actualites/ukraine-l-amerique-ne-peut-pas-negocier-a-notre-place-alerte-la-cheffe-de-la-diplomatie",
-"summary": "La cheffe de la diplomatie européenne, l'estonienne Kaja Kallas répond aux questions de Caroline de Camaret pour France 24, LCP et Public-Sénat dans \"Ici l'Europe\" .",
-"source": "LCP",
-"date": "2026-11-14T07:05:57+00:00",
-"added": "2026-11-14T07:44:50+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [
-"Citation"
-],
-"speaker": ""
-},
-{
-"id": "b7e3e94a317cce66",
-"title": "Mobilisations sociales : une cinquantaine de cortèges attendus partout en France pour cet acte V, sur fond de revendications diverses",
-"link": "https://www.lemonde.fr/politique/article/2026/11/14/mobilisations-sociales-une-cinquantaine-de-corteges-attendus-partout-en-france-pour-cet-acte-v-sur-fond-de-revendications-diverses_6809818_823448.html",
-"summary": "Le ministre de l’intérieur, Laurent Nuñez, a prévu de mobiliser autant de forces de l’ordre que les trois derniers samedis, soit quelque 70 000 policiers et gendarmes dans tout le pays.",
-"source": "Le Monde",
-"date": "2026-11-14T06:49:25+00:00",
-"added": "2026-11-14T07:44:50+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "0d05aa02db22765e",
-"title": "Pascale Piera, «l’aller sans retour» d’une magistrate auprès de Marine Le Pen",
-"link": "https://www.liberation.fr/politique/elections/pascale-piera-laller-sans-retour-dune-magistrate-aupres-de-marine-le-pen-20261114_32BIWSPXPJGQJAK7M5IP7CRTFI/",
-"summary": "L’ancienne juge d’instruction, aujourd’hui eurodéputée RN, est parfois décrite comme la possible garde des Sceaux d’une présidence Le Pen.",
-"source": "Libération",
-"date": "2026-11-14T06:45:00+00:00",
-"added": "2026-11-14T07:44:50+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
 }
 ]
