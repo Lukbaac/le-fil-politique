@@ -1,5 +1,824 @@
 [
 {
+"id": "1f8a69164811d6aa",
+"title": "Présidentielle 2027 : Marine Le Pen présente sa réforme des retraites et promet que « des centaines de milliers de travailleurs partiront plus tôt » qu’avec la réforme Borne",
+"link": "https://www.lemonde.fr/politique/article/2026/11/17/presidentielle-2027-marine-le-pen-presente-sa-reforme-des-retraites-et-promet-que-des-centaines-de-milliers-de-travailleurs-partiront-plus-tot-qu-avec-la-reforme-borne_6812963_823448.html",
+"summary": "La candidate du RN a promis que sa réforme sera « engagée dès [son] arrivée au pouvoir » et promet d’abolir celle d’Elisabeth Borne au 1ᵉʳ janvier 2028.",
+"source": "Le Monde",
+"date": "2026-11-17T11:32:20+00:00",
+"added": "2026-11-17T11:38:08+00:00",
+"official": false,
+"also": [
+"BFMTV"
+],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation",
+"Annonce"
+],
+"speaker": ""
+},
+{
+"id": "90eb8963bb4b44eb",
+"title": "Réforme des retraites du RN: Marine Le Pen n'exclut pas un référendum en cas d'absence de majorité à l'Assemblée nationale",
+"link": "https://www.bfmtv.com/politique/video-reforme-des-retraites-du-rn-marine-le-pen-n-exclut-pas-un-referendum-en-cas-d-absence-de-majorite-a-l-assemblee-nationale_VN-202611170498.html",
+"summary": "Le Rassemblement national présente ce mardi matin son projet \"pour réparer le système de retraites\" français, exercice délicat à destination de son électorat mais aussi de marchés inquiets à l'idée de voir le parti d'extrême droite accéder au pouvoir au printemps.",
+"source": "BFMTV",
+"date": "2026-11-17T11:26:31+00:00",
+"added": "2026-11-17T11:38:08+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement",
+"partis"
+],
+"natures": [],
+"speaker": "Marine Le Pen"
+},
+{
+"id": "b332d01be7962c3e",
+"title": "Départ de 60 à 62 ans, capitalisation, âge du «premier emploi stable»… Ce qu’il faut retenir du projet de Marine Le Pen pour les retraites",
+"link": "https://www.lefigaro.fr/elections/presidentielles/depart-de-60-a-62-ans-capitalisation-age-du-premier-emploi-stable-ce-qu-il-faut-retenir-du-projet-de-marine-le-pen-pour-les-retraites-20261117",
+"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
+"source": "Le Figaro",
+"date": "2026-11-17T11:24:53+00:00",
+"added": "2026-11-17T11:38:08+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "7b430403ee1b13b7",
+"title": "Présidentielle 2027 : Après Marine Le Pen, un dîner avec Mélenchon… C’est quoi le club très huppé « Entreprise & Cité »",
+"link": "https://www.20minutes.fr/politique/4263502-20261117-presidentielle-2027-apres-marine-pen-diner-melenchon-quoi-club-tres-huppe-entreprise-cite?at_medium=display&at_campaign=149",
+"summary": "Après avoir reçu la candidate du RN en avril, un cercle discret de grands patrons invite ce mardi le candidat insoumis à la présidentielle 2027.",
+"source": "20 Minutes",
+"date": "2026-11-17T11:22:34+00:00",
+"added": "2026-11-17T11:38:08+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "0e62eabe04837db4",
+"title": "Retraites : Marine Le Pen veut faire reculer l’âge de départ à 62 ans",
+"link": "https://www.liberation.fr/politique/elections/marine-le-pen-presente-son-projet-de-reforme-des-retraites-20261117_4PGOZBOHAJGRTN5SP3MQA6OCYE/",
+"summary": "Lors d’une conférence de presse ce mardi 17 novembre au siège du Rassemblement national, la cheffe de file du parti d’extrême droite a présenté son projet de réforme, applicable selon elle dès 2028.",
+"source": "Libération",
+"date": "2026-11-17T11:21:56+00:00",
+"added": "2026-11-17T11:38:08+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": "Marine Le Pen"
+},
+{
+"id": "55b0a60133f0976d",
+"title": "«La bataille de France» ou l’étrange référence du camp Glucksmann",
+"link": "https://www.liberation.fr/politique/la-bataille-de-france-ou-letrange-reference-du-camp-glucksmann-20261117_T6O5OLXAFVEYBLM3WZUPH7PNZ4/",
+"summary": "En glissant des clins d’œil nébuleux à la Seconde Guerre mondiale dans des discours, le candidat PS-Place publique et son équipe sèment le doute quant à leur savoir historique.",
+"source": "Libération",
+"date": "2026-11-17T11:19:04+00:00",
+"added": "2026-11-17T11:38:08+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "71a146c820185933",
+"title": "Pétition pour l’interdiction de CNews : Yaël Braun-Pivet «regrette» l’absence de débat, définitivement confirmée ce mardi",
+"link": "https://www.liberation.fr/politique/petition-pour-linterdiction-de-cnews-yael-braun-pivet-regrette-labsence-de-debat-confirmee-ce-mardi-20261117_MDVWSFY4TZA5PBLPGNVMRESWEM/",
+"summary": "Le texte qui avait recueilli plus d’un million de signatures ne sera pas débattu dans l’hémicycle a rapporté la présidente de l’Assemblée ce mardi 17 novembre, déplorant cette décision.",
+"source": "Libération",
+"date": "2026-11-17T11:15:58+00:00",
+"added": "2026-11-17T11:38:08+00:00",
+"official": false,
+"also": [
+"BFMTV",
+"20 Minutes"
+],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [
+"Réaction"
+],
+"speaker": ""
+},
+{
+"id": "06ab8ae9b09c1b1b",
+"title": "Présidentielle 2027 : Une maman solo sur trois est pauvre, comme l’affirme Mélenchon ?",
+"link": "https://www.20minutes.fr/politique/4263505-20261117-presidentielle-2027-maman-solo-trois-pauvre-comme-affirme-melenchon?at_medium=display&at_campaign=149",
+"summary": "Lors du débat sur LCI ce lundi 16 novembre, le candidat insoumis a affirmé qu’une « maman solo » sur trois est pauvre, tout comme un retraité sur dix.",
+"source": "20 Minutes",
+"date": "2026-11-17T11:11:35+00:00",
+"added": "2026-11-17T11:38:08+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": "Jean-Luc Mélenchon"
+},
+{
+"id": "feef8b2f393a770c",
+"title": "« Un parti qui sent le pâté » : dans son nouvel album, Pierre Perret étrille LFI et Jean-Luc Mélenchon",
+"link": "https://www.lepoint.fr/people/un-parti-qui-sent-le-pate-dans-son-nouvel-album-pierre-perret-etrille-lfi-et-jean-luc-melenchon-X7G473MMKJA2DPPVUSW6F5VHEU/",
+"summary": "",
+"source": "Le Point",
+"date": "2026-11-17T11:10:46+00:00",
+"added": "2026-11-17T11:38:08+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "Pierre Perret"
+},
+{
+"id": "221aa3f38352aafc",
+"title": "Le RN souhaite \"diviser par deux\" le déficit du système des retraites d'ici 2032",
+"link": "https://www.bfmtv.com/politique/video-le-rn-souhaite-diviser-par-deux-le-deficit-du-systeme-des-retraites-d-ici-2032_VN-202611170490.html",
+"summary": "Le Rassemblement national présente ce mardi matin son projet \"pour réparer le système de retraites\" français, exercice délicat à destination de son électorat mais aussi de marchés inquiets à l'idée de voir le parti d'extrême droite accéder au pouvoir au printemps.",
+"source": "BFMTV",
+"date": "2026-11-17T11:10:10+00:00",
+"added": "2026-11-17T11:38:08+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": ""
+},
+{
+"id": "3488ec7ce7a85671",
+"title": "Présidentielle 2027 : « Koh-Lanta », « The Voice », Ligue 1… Nos idées de formats pour la primaire du bloc central",
+"link": "https://www.20minutes.fr/politique/4263339-20261117-presidentielle-2027-koh-lanta-the-voice-ligue-1-idees-formats-primaire-bloc-central?at_medium=display&at_campaign=149",
+"summary": "Le bloc central reste dans le flou. À cinq mois de la présidentielle, les candidats sont toujours aussi nombreux au sein de la droite et du centre.",
+"source": "20 Minutes",
+"date": "2026-11-17T11:08:51+00:00",
+"added": "2026-11-17T11:38:08+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "e5b46f77453f0dbb",
+"title": "Présidentielle 2027 : cinq candidats confrontent leurs positions sur la pauvreté",
+"link": "https://www.la-croix.com/societe/presidentielle-2027-cinq-candidats-confrontent-leurs-positions-sur-la-pauvrete-20261117",
+"summary": "À la veille du lancement de leur 42e campagne d’hiver, les Restos du cœur ont réuni cinq candidats à l’élection présidentielle pour un débat télévisé sur la pauvreté, le 16 novembre 2026.",
+"source": "La Croix",
+"date": "2026-11-17T11:08:50+00:00",
+"added": "2026-11-17T11:38:08+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "3969b7b626735b9b",
+"title": "Retraites: \"Notre réforme se déploiera de manière progressive pour être pleinement opérationnelle en 2032\", indique Jordan Bardella",
+"link": "https://www.bfmtv.com/politique/video-retraites-notre-reforme-se-deploiera-de-maniere-progressive-pour-etre-pleinement-operationnelle-en-2032-indique-jordan-bardella_VN-202611170488.html",
+"summary": "Le Rassemblement national présente ce mardi matin son projet \"pour réparer le système de retraites\" français, exercice délicat à destination de son électorat mais aussi de marchés inquiets à l'idée de voir le parti d'extrême droite accéder au pouvoir au printemps.",
+"source": "BFMTV",
+"date": "2026-11-17T11:08:32+00:00",
+"added": "2026-11-17T11:38:08+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Jordan Bardella"
+},
+{
+"id": "376942f66e179e8b",
+"title": "Réforme des retraites: le RN propose de \"transformer certaines cotisations patronales déjà payées\" pour financer son \"pilier de capitalisation\"",
+"link": "https://www.bfmtv.com/politique/video-reforme-des-retraites-le-rn-propose-de-transformer-certaines-cotisations-patronales-deja-payees-pour-financer-son-pilier-de-capitalisation_VN-202611170489.html",
+"summary": "Le Rassemblement national présente ce mardi matin son projet \"pour réparer le système de retraites\" français, exercice délicat à destination de son électorat mais aussi de marchés inquiets à l'idée de voir le parti d'extrême droite accéder au pouvoir au printemps.",
+"source": "BFMTV",
+"date": "2026-11-17T11:07:33+00:00",
+"added": "2026-11-17T11:38:08+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation",
+"Annonce"
+],
+"speaker": ""
+},
+{
+"id": "a9d107385fd30a0d",
+"title": "L’Etat poussé à revoir le financement des collectivités locales pour corriger les réformes Macron",
+"link": "https://www.lemonde.fr/politique/article/2026/11/17/l-etat-pousse-a-revoir-le-financement-des-collectivites-locales-pour-corriger-les-reformes-macron_6812961_823448.html",
+"summary": "Tandis que les départements éprouvent des difficultés à boucler leur budget, le Conseil des prélèvements obligatoires tire un bilan critique des réformes menées par Emmanuel Macron, dont l’emblématique suppression de la taxe d’habitation.",
+"source": "Le Monde",
+"date": "2026-11-17T11:03:36+00:00",
+"added": "2026-11-17T11:38:08+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "4519fae620813030",
+"title": "Yaël Braun-Pivet déplore les blocages pour une éventuelle primaire de la droite et du centre",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-yael-braun-pivet-deplore-les-blocages-pour-une-eventuelle-primaire-de-la-droite-et-du-centre_VN-202611170480.html",
+"summary": "La présidente de l'Assemblée nationale, Yaël Braun-Pivet, s'exprime ce mardi 17 novembre sur une possible primaire de la droite en vue de l'élection présidentielle 2027.",
+"source": "BFMTV",
+"date": "2026-11-17T11:01:00+00:00",
+"added": "2026-11-17T11:38:08+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement",
+"presidentielle"
+],
+"natures": [],
+"speaker": "Yaël Braun-Pivet"
+},
+{
+"id": "6f414af98c2c9330",
+"title": "Réforme des retraites du RN: \"Celui qui a acquis tous ses droits et décide de continuer à travailler (...) sera exempté de cotisations retraite et chômage\", annonce Jordan Bardella",
+"link": "https://www.bfmtv.com/politique/video-reforme-des-retraites-du-rn-celui-qui-a-acquis-tous-ses-droits-et-decide-de-continuer-a-travailler-sera-exempte-de-cotisations-retraite-et-chomage-annonce-jordan-bardella_VN-202611170482.html",
+"summary": "Le Rassemblement national présente ce mardi matin son projet \"pour réparer le système de retraites\" français, exercice délicat à destination de son électorat mais aussi de marchés inquiets à l'idée de voir le parti d'extrême droite accéder au pouvoir au printemps.",
+"source": "BFMTV",
+"date": "2026-11-17T11:00:52+00:00",
+"added": "2026-11-17T11:38:08+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation",
+"Annonce"
+],
+"speaker": "Jordan Bardella"
+},
+{
+"id": "bf77c8dd8375e5ed",
+"title": "Retraites: validation des trimestres, droits acquis au chômage, nombre de trimestres cotisés...les mesures du RN pour \"rapprocher la durée effective de cotisation de la cible de 42 ans\"",
+"link": "https://www.bfmtv.com/politique/video-retraites-validation-des-trimestres-droits-acquis-au-chomage-nombre-de-trimestres-cotises-les-mesures-du-rn-pour-rapprocher-la-duree-effective-de-cotisation-de-la-cible-de-42-ans_VN-202611170478.html",
+"summary": "Le Rassemblement national présente ce mardi matin son projet \"pour réparer le système de retraites\" français, exercice délicat à destination de son électorat mais aussi de marchés inquiets à l'idée de voir le parti d'extrême droite accéder au pouvoir au printemps.",
+"source": "BFMTV",
+"date": "2026-11-17T10:59:17+00:00",
+"added": "2026-11-17T11:38:08+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "1781c61743b78e6c",
+"title": "Retraites: la réforme du RN intégrera \"l'âge d'entrée sur le marché du travail\" comme nouveau \"paramètre de calcul\", annonce Jordan Bardella",
+"link": "https://www.bfmtv.com/politique/video-retraites-la-reforme-du-rn-integrera-l-age-d-entree-sur-le-marche-du-travail-comme-nouveau-parametre-de-calcul-annonce-jordan-bardella_VN-202611170477.html",
+"summary": "Le Rassemblement national présente ce mardi matin son projet \"pour réparer le système de retraites\" français, exercice délicat à destination de son électorat mais aussi de marchés inquiets à l'idée de voir le parti d'extrême droite accéder au pouvoir au printemps.",
+"source": "BFMTV",
+"date": "2026-11-17T10:56:41+00:00",
+"added": "2026-11-17T11:38:08+00:00",
+"official": false,
+"also": [
+"CNews"
+],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation",
+"Annonce"
+],
+"speaker": "Jordan Bardella"
+},
+{
+"id": "75d063f75c36ca74",
+"title": "Assemblée nationale : suivez en intégralité la séance des Questions au gouvernement",
+"link": "https://www.cnews.fr/france/2026-11-17/assemblee-nationale-suivez-en-integralite-la-seance-des-questions-au-gouvernement",
+"summary": "Les ministres répondent aux députés à l’Assemblée nationale, lors de la séance des Questions au gouvernement, ce mardi 17 novembre à partir de 15h.",
+"source": "CNews",
+"date": "2026-11-17T10:56:08+00:00",
+"added": "2026-11-17T11:38:08+00:00",
+"official": false,
+"also": [],
+"base": [
+"parlement"
+],
+"filtered": true,
+"topics": [
+"gouvernement",
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "99412739dc9ac2e7",
+"title": "EDITO. Emmanuel Macron pense avoir la solution pour battre Marine Le Pen: il veut que les candidats modérés alertent sur les conséquences de son programme, notamment l'arrêt de l'aide à l'Ukraine",
+"link": "https://www.bfmtv.com/economie/edito-emmanuel-macron-pense-avoir-la-solution-pour-battre-marine-le-pen-il-veut-que-les-candidats-moderes-alertent-sur-les-consequences-de-son-programme-notamment-l-arret-de-l-aide-a-l-ukraine_AV-202611170473.html",
+"summary": "C’est un fait de campagne important. On le sait Kiev s’inquiète d’un arrêt brutal des aides françaises à l’Ukraine, c’est-à-dire exactement le projet que porte Marine Le Pen pour 2027.",
+"source": "BFMTV",
+"date": "2026-11-17T10:55:51+00:00",
+"added": "2026-11-17T11:38:08+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"elysee",
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "3ece5c4680a2d46a",
+"title": "Retraites : « Nous ramènerons l’âge légal à 62, voire 60 ans, dès 2028 » assure Marine Le Pen si elle est élue",
+"link": "https://www.letelegramme.fr/elections/presidentielle/retraites-nous-ramenerons-lage-legal-a-62-voire-60-ans-des-2028-assure-marine-le-pen-si-elle-est-elue-7160818.php",
+"summary": "",
+"source": "Le Télégramme",
+"date": "2026-11-17T10:54:12+00:00",
+"added": "2026-11-17T11:38:08+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Marine Le Pen"
+},
+{
+"id": "af4fcffedc58a79a",
+"title": "Retraites: le \"pilier de capitalisation\" souhaité par le RN permettra de constituer un fonds de \"quasi 900 milliards d'euros en une génération\", selon Marine Le Pen",
+"link": "https://www.bfmtv.com/politique/video-retraites-le-pilier-de-capitalisation-souhaite-par-le-rn-permettra-de-constituer-un-fonds-de-quasi-900-milliards-d-euros-en-une-generation-selon-marine-le-pen_VN-202611170472.html",
+"summary": "Le Rassemblement national présente ce mardi matin son projet \"pour réparer le système de retraites\" français, exercice délicat à destination de son électorat mais aussi de marchés inquiets à l'idée de voir le parti d'extrême droite accéder au pouvoir au printemps.",
+"source": "BFMTV",
+"date": "2026-11-17T10:54:09+00:00",
+"added": "2026-11-17T11:38:08+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Marine Le Pen"
+},
+{
+"id": "d51be3e004ad976c",
+"title": "Le Modem soutient à son tour le boycott des produits des colonies d’Israël",
+"link": "https://www.liberation.fr/politique/le-modem-soutient-a-son-tour-le-boycott-des-produits-des-colonies-disrael-20261117_JQDZI762BFEBHOPMJGZCVLKASE/",
+"summary": "Indiscrétions piquantes, maladresses vaches ou douces confessions : chaque jour, retrouvez les brèves qui auscultent le monde politique.",
+"source": "Libération",
+"date": "2026-11-17T10:44:10+00:00",
+"added": "2026-11-17T11:38:08+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "395efeb2d2985e41",
+"title": "Pétition contre CNews: le classement du texte confirmé par l'Assemblée, un débat plus large sur les médias sera organisé dans l'hémicycle",
+"link": "https://lcp.fr/actualites/petition-contre-cnews-le-classement-du-texte-confirme-par-l-assemblee-un-debat-plus",
+"summary": "Réunie ce mardi 17 novembre, la Conférence des présidents de l'Assemblée nationale, qui réunit notamment les chefs de file des onze groupes politiques, a confirmé le classement de la pétition appelant à fermer CNews.",
+"source": "LCP",
+"date": "2026-11-17T10:40:02+00:00",
+"added": "2026-11-17T11:38:08+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "93cc0aa43ad2d2ea",
+"title": "Marine Le Pen (RN): \"L'abolition de la réforme Borne permettra de déployer la réforme que j'ai rappelée au Medef: soit un âge de départ de 60 à 62 ans, avec 40 à 42 ans de cotisation selon la date du premier emploi réel\"",
+"link": "https://www.bfmtv.com/politique/video-marine-le-pen-rn-l-abolition-de-la-reforme-borne-permettra-de-deployer-la-reforme-que-j-ai-rappelee-au-medef-soit-un-age-de-depart-de-60-a-62-ans-avec-40-a-42-ans-de-cotisation-selon-la-date-du-premier-emploi-reel_VN-202611170463.html",
+"summary": "Le Rassemblement national présente ce mardi matin son projet \"pour réparer le système de retraites\" français, exercice délicat à destination de son électorat mais aussi de marchés inquiets à l'idée de voir le parti d'extrême droite accéder au pouvoir au printemps.",
+"source": "BFMTV",
+"date": "2026-11-17T10:35:44+00:00",
+"added": "2026-11-17T11:38:08+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "f480eaa76327d669",
+"title": "Présidentielle 2027 : l'âge de départ à la retraite sera compris entre \"60 et 62 ans\", promet Marine Le Pen",
+"link": "https://www.laprovence.com/article/elections/4511042206382814/presidentielle-2027-lage-de-depart-a-la-retraite-sera-compris-entre-60-et-62-ans-promet-marine-le-pen",
+"summary": "Marine Le Pen, candidate RN à l’élection présidentielle de 2027, a livré les mesures de son projet de réforme des retraites.",
+"source": "La Provence",
+"date": "2026-11-17T10:35:25+00:00",
+"added": "2026-11-17T11:38:08+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation",
+"Annonce"
+],
+"speaker": "Marine Le Pen"
+},
+{
+"id": "83d92d072e4a52b2",
+"title": "«Jean-Luc Mélenchon promet tout et n'importe quoi, avec une retraite pleine à 60 ans infinançable», tacle Marine le Pen",
+"link": "https://www.cnews.fr/france/2026-11-17/jean-luc-melenchon-promet-tout-et-nimporte-quoi-avec-une-retraite-pleine-60-ans",
+"summary": "«Jean-Luc Mélenchon promet tout et n'importe quoi, avec une retraite pleine à 60 ans infinançable», a taclé la candidate RN à l'élection présidentielle de 2027 Marine le Pen, ce mardi.",
+"source": "CNews",
+"date": "2026-11-17T10:31:00+00:00",
+"added": "2026-11-17T11:38:08+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation",
+"Annonce",
+"Réaction"
+],
+"speaker": ""
+},
+{
+"id": "d480c4e42330e0b9",
+"title": "INFO FRANCEINFO. La pétition contre CNews définitivement classée, mais l'Assemblée nationale va débattre du pluralisme dans les médias",
+"link": "https://www.franceinfo.fr/economie/medias/info-franceinfo-l-assemblee-nationale-va-debattre-du-pluralisme-dans-les-medias-meme-si-la-petition-contre-cnews-ne-sera-pas-examinee-dans-l-hemicycle_8286251.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "Les instances du Palais-Bourbon ont voté pour qu'un débat se tienne sur la liberté d'expression, mais il ne portera pas seulement sur la chaîne d'information en continu du groupe Bolloré, spécifiquement visée par le texte qui a recueilli plus d'un million de signatures.",
+"source": "franceinfo",
+"date": "2026-11-17T10:28:07+00:00",
+"added": "2026-11-17T11:38:08+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "64e9d7518a67e3d7",
+"title": "Marine Le Pen, candidate RN à l’élection présidentielle: \"Nous allons proposer de compléter le système des retraites par répartition par un pilier de capitalisation\"",
+"link": "https://www.bfmtv.com/politique/video-marine-le-pen-candidate-rn-a-l-election-presidentielle-nous-allons-proposer-de-completer-le-systeme-des-retraites-par-repartition-par-un-pilier-de-capitalisation_VN-202611170459.html",
+"summary": "Le Rassemblement national présente ce mardi matin son projet \"pour réparer le système de retraites\" français, exercice délicat à destination de son électorat mais aussi de marchés inquiets à l'idée de voir le parti d'extrême droite accéder au pouvoir au printemps.",
+"source": "BFMTV",
+"date": "2026-11-17T10:27:58+00:00",
+"added": "2026-11-17T11:38:08+00:00",
+"official": false,
+"also": [
+"CNews"
+],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "d990c1276a115e6d",
+"title": "«Nous diviserons par deux le déficit hérité d'Emmanuel Macron d'ici à 2032», promet Marine Le Pen",
+"link": "https://www.cnews.fr/france/2026-11-17/nous-diviserons-par-deux-le-deficit-herite-demmanuel-macron-dici-2032-promet",
+"summary": "Marine Le Pen, candidate RN à l’élection présidentielle, a présenté lors d'une conférence de presse son projet pour les retraites ce mardi.",
+"source": "CNews",
+"date": "2026-11-17T10:27:53+00:00",
+"added": "2026-11-17T11:38:08+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"elysee",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation",
+"Annonce"
+],
+"speaker": "Marine Le Pen"
+},
+{
+"id": "a6d27365a34424b8",
+"title": "Marine Le Pen donne \"l'assurance\" aux Français \"qui s'inquiètent d'avoir une retraite dans les 10 à 20 ans à venir\" qu'ils \"bénéficieront de notre système\"",
+"link": "https://www.bfmtv.com/politique/video-marine-le-pen-donne-l-assurance-aux-francais-qui-s-inquietent-d-avoir-une-retraite-dans-les-10-a-20-ans-a-venir-qu-ils-beneficieront-de-notre-systeme_VN-202611170456.html",
+"summary": "Le Rassemblement national présente ce mardi matin son projet \"pour réparer le système de retraites\" français, exercice délicat à destination de son électorat mais aussi de marchés inquiets à l'idée de voir le parti d'extrême droite accéder au pouvoir au printemps.",
+"source": "BFMTV",
+"date": "2026-11-17T10:23:16+00:00",
+"added": "2026-11-17T11:38:08+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "3149e92a87c19562",
+"title": "\"Je suis attachée à l'esprit de notre système de retraite actuel\", déclare Marine Le Pen, candidate RN à l’élection présidentielle",
+"link": "https://www.bfmtv.com/politique/video-je-suis-attachee-a-l-esprit-de-notre-systeme-de-retraite-actuel-declare-marine-le-pen-candidate-rn-a-l-election-presidentielle_VN-202611170452.html",
+"summary": "Le Rassemblement national présente ce mardi matin son projet \"pour réparer le système de retraites\" français, exercice délicat à destination de son électorat mais aussi de marchés inquiets à l'idée de voir le parti d'extrême droite accéder au pouvoir au printemps.",
+"source": "BFMTV",
+"date": "2026-11-17T10:20:32+00:00",
+"added": "2026-11-17T11:38:08+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Marine Le Pen"
+},
+{
+"id": "d8d0f8d45f18be3c",
+"title": "Présidentielle 2027. « François… après ? B… R… » : Teddy Riner zappe François Braun",
+"link": "https://www.estrepublicain.fr/elections/2026/11/17/francois-apres-b-r-teddy-riner-zappe-francois-braun",
+"summary": "« Est-ce que vous avez entendu de ma bouche que ces personnes ont quitté mon équipe ? »",
+"source": "L'Est Républicain",
+"date": "2026-11-17T10:18:46+00:00",
+"added": "2026-11-17T11:38:08+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "aca9dfe5f155d802",
+"title": "Marine Le Pen, candidate RN à l'élection présidentielle: \"Notre réforme des retraites est pleinement financée\"",
+"link": "https://www.bfmtv.com/politique/video-marine-le-pen-candidate-rn-a-l-election-presidentielle-notre-reforme-des-retraites-est-pleinement-financee_VN-202611170450.html",
+"summary": "Le Rassemblement national présente ce mardi matin son projet \"pour réparer le système de retraites\" français, exercice délicat à destination de son électorat mais aussi de marchés inquiets à l'idée de voir le parti d'extrême droite accéder au pouvoir au printemps.",
+"source": "BFMTV",
+"date": "2026-11-17T10:18:06+00:00",
+"added": "2026-11-17T11:38:08+00:00",
+"official": false,
+"also": [
+"CNews"
+],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "835eed640e3a65cc",
+"title": "« La proposition de loi sur les biens des sections de commune cache des intentions radicales »",
+"link": "https://www.lemonde.fr/idees/article/2026/11/17/la-proposition-de-loi-sur-les-biens-des-sections-de-commune-cache-des-intentions-radicales_6812944_3232.html",
+"summary": "Affaiblir ces propriétés collectives gérées localement, comme le suggère le texte adoptée le 3 novembre au Sénat, serait une « simplification » spécieuse au détriment d’une démocratie rurale séculaire, avertissent Olivier Chavanon, sociologue, et Jean-François Joye, professeur de droit public, dans une tribune au «…",
+"source": "Le Monde",
+"date": "2026-11-17T10:00:05+00:00",
+"added": "2026-11-17T11:38:08+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "ce3e5ccacbbebd5e",
+"title": "Ukraine: Marine Le Pen revendique un \"soutien sans faille\" mais veut fermer le robinet financier",
+"link": "https://lcp.fr/actualites/ukraine-marine-le-pen-revendique-un-soutien-sans-faille-mais-veut-fermer-le-robinet",
+"summary": "À l'issue d'une rencontre à huis clos avec l'ambassadeur ukrainien, ce lundi 16 novembre, la candidate du Rassemblement national à l'élection présidentielle a de nouveau fait part de son \"soutien sans faille à l'Ukraine\".",
+"source": "LCP",
+"date": "2026-11-17T09:57:35+00:00",
+"added": "2026-11-17T11:38:08+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Marine Le Pen"
+},
+{
+"id": "3abf064b2fad1871",
+"title": "Fermetures d’écoles à Lannion : le syndicat FSU réagit, la France Insoumise et Lutte ouvrière aussi",
+"link": "https://www.letelegramme.fr/cotes-d-armor/lannion-22300/fermetures-decoles-a-lannion-le-syndicat-fsu-reagit-la-france-insoumise-et-lutte-ouvriere-aussi-7160735.php",
+"summary": "",
+"source": "Le Télégramme",
+"date": "2026-11-17T09:55:41+00:00",
+"added": "2026-11-17T11:38:08+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Réaction"
+],
+"speaker": ""
+},
+{
+"id": "097348b423beecbf",
+"title": "Augmenter le Smic ? Ce serait revenir à « l’URSS » : Marine Le Pen confirme sur LCI ses orientations antisociales",
+"link": "https://www.humanite.fr/politique/extreme-droite/augmenter-le-smic-ce-serait-revenir-a-lurss-marine-le-pen-confirme-sur-lci-ses-orientations-antisociales",
+"summary": "À l’occasion d’un débat, organisé lundi 16 novembre sur LCI en partenariat avec les Restos du cœur, Marine Le Pen a défendu sa conception de la politique sociale.",
+"source": "L'Humanité",
+"date": "2026-11-17T09:55:35+00:00",
+"added": "2026-11-17T11:38:08+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Marine Le Pen"
+},
+{
+"id": "859ee84275adc0f8",
+"title": "VIDEO. Clash sur le plateau de France Info : « vous êtes malades », Anne-Cécile Mailfert claque la porte, Jean-Luc Mélenchon réagit",
+"link": "https://www.sudouest.fr/culture/medias/video-clash-sur-le-plateau-de-france-info-vous-etes-malades-anne-cecile-mailfert-claque-la-porte-jean-luc-melenchon-reagit-31559698.php",
+"summary": "",
+"source": "Sud Ouest",
+"date": "2026-11-17T09:47:16+00:00",
+"added": "2026-11-17T11:38:08+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"partis"
+],
+"natures": [
+"Citation",
+"Interview",
+"Réaction"
+],
+"speaker": "Jean-Luc Mélenchon"
+},
+{
 "id": "d1adf576608b497d",
 "title": "Présidentielle 2027 : Marine Le Pen veut couper les subventions des associations « politisées » et s’attire les foudres de ses adversaires",
 "link": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-marine-le-pen-veut-couper-les-subventions-des-associations-politisees-et-sattire-les-foudres-de-ses-adversaires-17-11-2026-3IOLS2WZGREENH7CKP4DFQKESQ.php",
@@ -209,6 +1028,25 @@
 "speaker": ""
 },
 {
+"id": "100710e0940a4241",
+"title": "Jean-Luc Mélenchon",
+"link": "https://www.bfmtv.com/politique/jean-luc-melenchon_DN-201701010040.html",
+"summary": "Jean-Luc Mélenchon est candidat à l'élection présidentielle pour La France insoumise en 2027. Il s'agira, comme Marine Le Pen, de sa quatrième tentative depuis 2012.",
+"source": "BFMTV",
+"date": "2026-11-17T08:46:01+00:00",
+"added": "2026-11-17T11:38:08+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "43c1a1839ed75c10",
 "title": "\"Ce n'est pas un dîner, c'est une présentation de programme\", explique Manuel Bompard alors que Jean-Luc Mélenchon rencontre des grands patrons",
 "link": "https://www.franceinfo.fr/politique/la-france-insoumise/ce-n-est-pas-un-diner-c-est-une-presentation-de-programme-explique-manuel-bompard-alors-que-jean-luc-melenchon-rencontre-des-grands-patrons_8286200.html#xtor=RSS-3-%5Bpolitique%5D",
@@ -323,7 +1161,10 @@
 "date": "2026-11-17T07:56:03+00:00",
 "added": "2026-11-17T09:49:30+00:00",
 "official": false,
-"also": [],
+"also": [
+"TF1 Info",
+"Midi Libre"
+],
 "base": [
 "partis"
 ],
@@ -514,7 +1355,9 @@
 "date": "2026-11-17T07:18:13+00:00",
 "added": "2026-11-17T09:49:30+00:00",
 "official": false,
-"also": [],
+"also": [
+"France 24"
+],
 "base": [
 "partis"
 ],
@@ -905,7 +1748,12 @@
 "date": "2026-11-17T05:47:09+00:00",
 "added": "2026-11-17T09:49:30+00:00",
 "official": false,
-"also": [],
+"also": [
+"Le Monde",
+"Le Télégramme",
+"Le Figaro",
+"La Nouvelle République"
+],
 "base": [
 "partis"
 ],
@@ -1051,7 +1899,9 @@
 "added": "2026-11-17T06:42:07+00:00",
 "official": false,
 "also": [
-"BFMTV"
+"BFMTV",
+"RTL",
+"Le Parisien"
 ],
 "base": [
 "partis"
@@ -1114,7 +1964,10 @@
 "date": "2026-11-17T05:26:54+00:00",
 "added": "2026-11-17T06:42:07+00:00",
 "official": false,
-"also": [],
+"also": [
+"Le Dauphiné Libéré",
+"Sud Ouest"
+],
 "base": [
 "partis"
 ],
@@ -1154,7 +2007,11 @@
 "date": "2026-11-17T05:15:53+00:00",
 "added": "2026-11-17T09:49:30+00:00",
 "official": false,
-"also": [],
+"also": [
+"LCP",
+"franceinfo",
+"Ouest-France"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -1521,7 +2378,9 @@
 "date": "2026-11-16T23:17:20+00:00",
 "added": "2026-11-17T06:42:07+00:00",
 "official": false,
-"also": [],
+"also": [
+"Libération"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -3424,7 +4283,9 @@
 "20 Minutes",
 "Ouest-France",
 "TF1 Info",
-"BFMTV"
+"BFMTV",
+"RMC",
+"Midi Libre"
 ],
 "base": [
 "partis"
@@ -10394,224 +11255,6 @@
 "topics": [
 "elysee",
 "partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "e4a484fb07fb6709",
-"title": "Le gouvernement réduit la pratique de la médecine esthétique à 30 % du temps de travail des médecins",
-"link": "https://www.lemonde.fr/societe/article/2026/11/14/le-gouvernement-reduit-la-pratique-de-la-medecine-esthetique-a-30-du-temps-de-travail-des-medecins_6810149_3224.html",
-"summary": "Un décret paru samedi met en place un quota d’activité esthétique. Les jeunes praticiens devront en outre exercer cinq ans dans leur spécialité d’origine avant de pouvoir intégrer la future formation à la médecine esthétique.",
-"source": "Le Monde",
-"date": "2026-11-14T11:36:44+00:00",
-"added": "2026-11-14T13:41:31+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "ae99db35a5139054",
-"title": "Primaire de la droite et du centre: \"C'est une chamaillerie de perdants\", affirme Sylvain Berrios, député \"Horizons\" du Val-de-Marne et soutien d'Édouard Philippe",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-primaire-de-la-droite-et-du-centre-c-est-une-chamaillerie-de-perdants-affirme-sylvain-berrios-depute-horizons-du-val-de-marne-et-soutien-d-edouard-philippe_VN-202611140226.html",
-"summary": "L'organisation d'une primaire entre Gabriel Attal (Renaissance), Édouard Philippe (Horizons) et Bruno Retailleau (LR) et David Lisnard (Nouvelle Énergie) a repris de la vigueur ces derniers jours, LR plaidant fortement en ce sens à la suite de Gabriel Attal.",
-"source": "BFMTV",
-"date": "2026-11-14T11:26:23+00:00",
-"added": "2026-11-14T13:41:31+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement",
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Sylvain Berrios"
-},
-{
-"id": "e2b04bf9ad366151",
-"title": "Emmanuel Macron est arrivé au Cambodge pour le sommet de la Francophonie",
-"link": "https://www.franceinfo.fr/politique/emmanuel-macron/emmanuel-macron-est-arrive-au-cambodge-pour-le-sommet-de-la-francophonie_8282396.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "Le président français doit y signer une dizaine d'accords dans divers domaines (IA, énergie, santé, patrimoine...) et participer dimanche et lundi au XXe sommet de la Francophonie.",
-"source": "franceinfo",
-"date": "2026-11-14T11:25:30+00:00",
-"added": "2026-11-14T13:41:31+00:00",
-"official": false,
-"also": [
-"BFMTV"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "8745b711529ba04a",
-"title": "La semaine vue par Coco : au Bourget, un Mélenchon inflexible",
-"link": "https://www.liberation.fr/idees-et-debats/editorial/la-semaine-vue-par-coco-au-bourget-un-melenchon-inflexible-20261114_QDHAWLJXQNG25MYKV6SSGNNP7Y/",
-"summary": "",
-"source": "Libération",
-"date": "2026-11-14T11:07:15+00:00",
-"added": "2026-11-14T11:25:28+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "bdd0f814e938d878",
-"title": "Aide à l'Ukraine : E. Diaz assume vouloir stopper les financements français",
-"link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/aide-a-l-ukraine-e-diaz-assume-vouloir-stopper-les-financements-francais_8282348.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "Au salon du Made in France hier, Marine Le Pen a indiqué qu'elle accepterait de rencontrer Volodymyr Zelensky à Bruxelles.",
-"source": "franceinfo",
-"date": "2026-11-14T11:00:02+00:00",
-"added": "2026-11-14T11:25:28+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "88c5f465ada372e0",
-"title": "\"Ça suffit\": le ministre de l'Enseignement supérieur déplore une \"intensification de la violence\" dans le mouvement étudiant, après l'agression d'un vice-président d'université",
-"link": "https://www.bfmtv.com/societe/education/ca-suffit-le-ministre-de-l-enseignement-superieur-deplore-une-intensification-de-la-violence-dans-le-mouvement-etudiant-apres-l-agression-d-un-vice-president-d-universite_AV-202611140210.html",
-"summary": "\"Ça suffit.\" Sur le plateau de BFMTV ce samedi 14 novembre, le ministre de l'Enseignement supérieur, de la Recherche et de l'Espace Philippe Baptiste fait un appel solennel.",
-"source": "BFMTV",
-"date": "2026-11-14T10:54:58+00:00",
-"added": "2026-11-14T13:41:31+00:00",
-"official": false,
-"also": [],
-"base": [
-"matinales"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"gouvernement"
-],
-"natures": [
-"Citation"
-],
-"speaker": ""
-},
-{
-"id": "3a6e25fb8f63bf57",
-"title": "Budget de la « Sécu » 2027 : le retour du débat sur les 35 heures au Sénat",
-"link": "https://www.lemonde.fr/politique/article/2026/11/14/budget-de-la-secu-2027-le-retour-du-debat-sur-les-35-heures-au-senat_6810049_823448.html",
-"summary": "Vendredi, le Palais du Luxembourg a adopté un amendement qui prévoit d’augmenter de deux heures la durée hebdomadaire du travail.",
-"source": "Le Monde",
-"date": "2026-11-14T10:50:45+00:00",
-"added": "2026-11-14T11:25:28+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "5ebf9f971be6ee90",
-"title": "À peine arrivé, l’ex-ministre de la Santé François Braun quitte la campagne de Teddy Riner",
-"link": "https://www.lefigaro.fr/politique/a-peine-arrive-l-ex-ministre-de-la-sante-francois-braun-quitte-la-campagne-de-teddy-riner-20261114",
-"summary": "Il était présenté comme une figure crédible, donnant du poids à celle du champion de judo. Six jours après le lancement de la campagne du candidat ni de droite ni de gauche, l’ex-ministre du gouvernement Borne quitte le bateau.",
-"source": "Le Figaro",
-"date": "2026-11-14T10:44:31+00:00",
-"added": "2026-11-17T09:49:30+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "d6af2de4149ad510",
-"title": "Mobilisation du 14 novembre, guerre en Ukraine, parrainages et financement de la campagne de Marine Le Pen… Le \"8h30 franceinfo d'Edwige Diaz",
-"link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/mobilisation-du-14-novembre-guerre-en-ukraine-parrainages-et-financement-de-la-campagne-le-8h30-franceinfo-d-edwige-diaz_8261291.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "Edwige Diaz, présidente du groupe Rassemblement national au Sénat, et sénatrice de la Gironde, répondait aux questions de Camille Girerd et Benjamin Recouvreur.",
-"source": "franceinfo",
-"date": "2026-11-14T10:32:35+00:00",
-"added": "2026-11-14T11:25:28+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"matinales",
-"parlement",
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "8c164a55c19d1cdf",
-"title": "Présidentielle 2027 : Marine Le Pen domine toujours, l'effet Teddy Riner redistribue les cartes à droite et au centre, selon un sondage",
-"link": "https://www.rtl.fr/actu/politique/presidentielle-2027-marine-le-pen-domine-toujours-l-effet-teddy-riner-redistribue-les-cartes-a-droite-et-au-centre-7900696189",
-"summary": "Teddy Riner, Jean-Luc Mélenchon et Marine Le Pen, tous les trois candidats à la présidentielle 2027. Marine Le Pen conserve la première place dans la course à la présidentielle 2027, selon un sondage OpinionWay pour CNEWS publié jeudi 12 novembre.",
-"source": "RTL",
-"date": "2026-11-14T10:23:55+00:00",
-"added": "2026-11-15T21:25:49+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "8708ffbb45d4546f",
-"title": "«Il faut réserver le marché européen aux productions européennes»: Raphaël Glucksmann développe sa vision de l’industrie française et européenne",
-"link": "https://www.bfmtv.com/politique/video-il-faut-reserver-le-marche-europeen-aux-productions-europeennes-raphael-glucksmann-developpe-sa-vision-de-l-industrie-francaise-et-europeenne_VN-202611140189.html",
-"summary": "En visite au Salon du Made in France, à Paris, ce samedi 14 novembre 2026, Raphaël Glucksmann, candidat à l'élection présidentielle et co-président de Place publique, a développé sa vision de l’industrie française et européenne, en disant vouloir réserver le marché européen aux productions européennes.",
-"source": "BFMTV",
-"date": "2026-11-14T09:57:46+00:00",
-"added": "2026-11-14T11:25:28+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
 ],
 "natures": [],
 "speaker": ""
