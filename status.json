@@ -15,13 +15,13 @@
 "name": "LCP",
 "ok": true,
 "items": 100,
-"new": 2
+"new": 0
 },
 {
 "name": "Public Sénat",
 "ok": true,
 "items": 60,
-"new": 0
+"new": 3
 },
 {
 "name": "Le Monde",
@@ -33,19 +33,19 @@
 "name": "franceinfo",
 "ok": true,
 "items": 19,
-"new": 1
+"new": 3
 },
 {
 "name": "Le Figaro",
 "ok": true,
 "items": 20,
-"new": 0
+"new": 1
 },
 {
 "name": "Libération",
 "ok": true,
 "items": 50,
-"new": 1
+"new": 0
 },
 {
 "name": "La Croix",
@@ -63,25 +63,25 @@
 "name": "BFMTV",
 "ok": true,
 "items": 30,
-"new": 2
+"new": 0
 },
 {
 "name": "20 Minutes",
 "ok": true,
 "items": 20,
-"new": 1
+"new": 2
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 32,
-"new": 1
+"items": 28,
+"new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
 "items": 17,
-"new": 1
+"new": 0
 },
 {
 "name": "Google Actualités",
@@ -91,41 +91,45 @@
 },
 {
 "name": "Google Actualités",
-"ok": false,
-"error": "HTTP Error 429: Too Many Requests"
-},
-{
-"name": "Google Actualités",
-"ok": false,
-"error": "HTTP Error 429: Too Many Requests"
-},
-{
-"name": "Google Actualités",
 "ok": true,
-"items": 19,
+"items": 20,
 "new": 0
 },
 {
 "name": "Google Actualités",
-"ok": false,
-"error": "HTTP Error 429: Too Many Requests"
+"ok": true,
+"items": 20,
+"new": 0
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 20,
+"new": 1
 },
 {
 "name": "Google Actualités",
 "ok": true,
 "items": 100,
-"new": 3
+"new": 15
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 71,
+"items": 100,
+"new": 2
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 73,
 "new": 1
 },
 {
 "name": "Google Actualités",
-"ok": false,
-"error": "HTTP Error 429: Too Many Requests"
+"ok": true,
+"items": 56,
+"new": 0
 },
 {
 "name": "Google Actualités",
@@ -135,20 +139,21 @@
 },
 {
 "name": "Google Actualités",
-"ok": false,
-"error": "HTTP Error 429: Too Many Requests"
+"ok": true,
+"items": 28,
+"new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 30,
+"items": 29,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
 "items": 100,
-"new": 2
+"new": 1
 },
 {
 "name": "Google Actualités",
@@ -159,13 +164,13 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 39,
+"items": 37,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 51,
+"items": 50,
 "new": 0
 }
 ]
