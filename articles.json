@@ -1,5 +1,676 @@
 [
 {
+"id": "a859dc27ef363662",
+"title": "Présidentielle 2027 : jusqu’où les sponsors de Teddy Riner peuvent-ils le suivre dans sa candidature ?",
+"link": "https://www.lefigaro.fr/sports/autres-sports/presidentielle-2027-jusqu-ou-les-sponsors-de-teddy-riner-peuvent-ils-le-suivre-dans-sa-candidature-20261118",
+"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
+"source": "Le Figaro",
+"date": "2026-11-18T09:36:47+00:00",
+"added": "2026-11-18T09:47:55+00:00",
+"official": false,
+"also": [
+"Sud Ouest"
+],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "6b5d4a867031abbc",
+"title": "Hausse du Smic: \"30.000 à 40.000\" emplois pourraient être supprimés, indique Roland Lescure",
+"link": "https://lcp.fr/actualites/hausse-du-smic-30000-a-40000-emplois-pourraient-etre-supprimes-indique-roland-lescure",
+"summary": "Le ministre de l'Economie et des Finances, Roland Lescure, a indiqué ce mercredi 18 novembre que la hausse annoncée du Smic pourrait conduire à la suppression de 30.000 à 40.000 emplois.",
+"source": "LCP",
+"date": "2026-11-18T09:34:46+00:00",
+"added": "2026-11-18T09:47:55+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Hausse du Smic"
+},
+{
+"id": "0ded73c51e8e2837",
+"title": "Présidentielle 2027 : Lisnard menace Philippe, le duel Le Pen-Mélenchon se précise selon un nouveau sondage",
+"link": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-lisnard-menace-philippe-le-duel-le-pen-melenchon-se-precise-selon-un-nouveau-sondage-18-11-2026-MWGZ7HRDYRGHXJ67BKI2L3QKCU.php",
+"summary": "",
+"source": "Le Parisien",
+"date": "2026-11-18T09:31:43+00:00",
+"added": "2026-11-18T09:47:55+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": "David Lisnard"
+},
+{
+"id": "57fb6ca74ad55ab3",
+"title": "Jérémie Patrier-Leitus (Horizons): \"Jamais Édouard Philippe ne participera à une primaire. Encore moins à une primaire avec Éric Zemmour\"",
+"link": "https://www.bfmtv.com/politique/horizons/video-jeremie-patrier-leitus-horizons-jamais-edouard-philippe-ne-participera-a-une-primaire-encore-moins-a-une-primaire-avec-eric-zemmour_VN-202611180455.html",
+"summary": "Sur le plateau de BFMTV ce mardi 17 novembre, Michel Barnier, ancien Premier ministre, a affirmé que les représentants de Gabriel Attal, Bruno Retailleau et David Lisnard se sont \"mis d'accord\" pour organiser une primaire en janvier.",
+"source": "BFMTV",
+"date": "2026-11-18T09:31:08+00:00",
+"added": "2026-11-18T09:47:55+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"elysee",
+"gouvernement",
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "44b2310ce106238e",
+"title": "Manifestation: Gérald Darmanin recense 7.184 gardes à vue et 466 peines d'emprisonnement prononcées depuis le 17 octobre",
+"link": "https://www.bfmtv.com/politique/video-manifestation-gerald-darmanin-recense-7-184-gardes-a-vue-et-466-peines-d-emprisonnement-prononcees-depuis-le-17-octobre_VN-202611180453.html",
+"summary": "Gérald Darmanin, le ministre de la Justice, est auditionné à l'Assemblée nationale ce mardi 17 noveambre, dans le cadre commission d'enquête sur les violences commises en marge des manifestations du 17 octobre 2026.",
+"source": "BFMTV",
+"date": "2026-11-18T09:24:28+00:00",
+"added": "2026-11-18T09:47:55+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement",
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "629c30df06c341a5",
+"title": "Avec l'augmentation du smic, \"on peut craindre 250 000 suppressions d'emplois\", affirme Patrick Martin, président du Medef",
+"link": "https://www.franceinfo.fr/politique/avec-l-augmentation-du-smic-on-peut-craindre-250-000-suppressions-d-emplois-affirme-patrick-martin-president-du-medef_8287838.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "Patrick Martin, président du Medef, était l'invité des \"4 Vérités\", mercredi 18 novembre. Il est revenu sur l'augmentation du smic de 1,6% qui va entrer en vigueur le 1er décembre.",
+"source": "franceinfo",
+"date": "2026-11-18T09:19:30+00:00",
+"added": "2026-11-18T09:47:55+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Patrick Martin"
+},
+{
+"id": "74a7d66fc9bbcf24",
+"title": "« Infinançable » : les angles morts de la réforme des retraites de Marine Le Pen",
+"link": "https://www.latribune.fr/article/economie/51091892546774/retraites-la-reforme-a-courte-vue-de-marine-le-pen",
+"summary": "La candidate d’extrême droite à l’élection présidentielle, Marine Le Pen, a présenté, mardi 17 novembre, la réforme des retraites qu’elle compte mettre en œuvre après son éventuelle arrivée au pouvoir au printemps prochain.",
+"source": "La Tribune",
+"date": "2026-11-18T09:05:44+00:00",
+"added": "2026-11-18T09:47:55+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "7ab84103ff33fc39",
+"title": "L’Invité - Steve Jourdin : “Raphaël Glucksmann : un intello en politique”",
+"link": "https://www.letelegramme.fr/france/linvite-steve-jourdin-raphael-glucksmann-un-intello-en-politique-7161327.php",
+"summary": "",
+"source": "Le Télégramme",
+"date": "2026-11-18T08:50:06+00:00",
+"added": "2026-11-18T09:47:55+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation",
+"Interview"
+],
+"speaker": "Steve Jourdin"
+},
+{
+"id": "cf64e7de89a98dd4",
+"title": "Politique de la ville: les députés approuvent un troisième programme de renouvellement urbain",
+"link": "https://lcp.fr/actualites/politique-de-la-ville-les-deputes-approuvent-un-troisieme-programme-de-renouvellement",
+"summary": "L'Assemblée nationale a approuvé, mardi 17 novembre au soir, le lancement d'un troisième programme national de renouvellement urbain (\"Anru 3\"), que les acteurs de la politique de la ville et du logement social appellaient de leurs vœux.",
+"source": "LCP",
+"date": "2026-11-18T08:46:58+00:00",
+"added": "2026-11-18T09:47:55+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "12da58ca5d3cd2f2",
+"title": "[Podcasts] Mélenchon l'emportera face à Le Pen : d'accord ou pas ? - 18/11",
+"link": "https://rmc.bfmtv.com/replay-emissions/les-grandes-gueules/melenchon-l-emportera-face-a-le-pen-d-accord-ou-pas-18-11_EN-202611180414.html",
+"summary": "Pour débuter l'émission de ce mercredi 18 novembre 2026, les GG : Fatima Aït Bounoua, professeure de français, Charles Consigny, avocat, et Didier Giraud, agriculteur, débattent du sujet du jour : Mélenchon l'emportera face à Le Pen, d'accord ou pas ?",
+"source": "RMC",
+"date": "2026-11-18T08:45:10+00:00",
+"added": "2026-11-18T09:47:55+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "264f18e7c2cb7b43",
+"title": "Jean-Luc Mélenchon et l’Ukraine : ce que disent les votes de LFI au Parlement européen",
+"link": "https://www.lemonde.fr/les-decodeurs/article/2026/11/18/jean-luc-melenchon-et-l-ukraine-ce-que-disent-les-votes-de-la-france-insoumise-au-parlement-europeen_6813096_4355770.html",
+"summary": "Accusé d’ambiguïté sur la guerre en Ukraine, le candidat de La France insoumise à l’élection présidentielle assure que les « insoumis » défendent Kiev sans varier dans leurs votes au Parlement européen.",
+"source": "Le Monde",
+"date": "2026-11-18T08:45:01+00:00",
+"added": "2026-11-18T09:47:55+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement",
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "fb31e52e20886272",
+"title": "La réforme des retraites de Marine Le Pen décryptée : un départ à 60 ans mais à quelles conditions et à quel prix ?",
+"link": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/la-reforme-des-retraites-de-marine-le-pen-decryptee-un-depart-a-60-ans-mais-a-quelles-conditions-et-a-quel-prix_8266760.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "La candidate du Rassemblement national a détaillé mardi sa réforme des retraites. Elle prévoit d'abaisser l'âge légal de départ, en fonction du moment d'entrée dans la vie active et propose, notamment, d'introduire une part de capitalisation pour financer le système.",
+"source": "franceinfo",
+"date": "2026-11-18T08:34:00+00:00",
+"added": "2026-11-18T09:47:55+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "a6ff824c9b80ebb1",
+"title": "Présidentielle 2027 : «Quand Gérald Darmanin dit que Jean-Luc Mélenchon peut gagner, il cherche à faire le malin», pointe Olivier de Lagarde",
+"link": "https://www.cnews.fr/france/2026-11-18/presidentielle-2027-quand-gerald-darmanin-dit-que-jean-luc-melenchon-peut-gagner",
+"summary": "«Quand Gérald Darmanin dit que Jean-Luc Mélenchon peut gagner [l'élection présidentielle], il cherche à faire le malin», a pointé le journaliste Olivier de Lagarde, ce mercredi sur CNEWS.",
+"source": "CNews",
+"date": "2026-11-18T08:34:00+00:00",
+"added": "2026-11-18T09:47:55+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "6eb3e6299e37172b",
+"title": "Laurent Jacobelli, porte-parole de la campagne de Marine Le Pen, juge que la primaire de la droite et du centre est une \"espèce de télé-réalité interminable\"",
+"link": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/laurent-jacobelli-porte-parole-de-la-campagne-de-marine-le-pen-juge-que-la-primaire-de-la-droite-et-du-centre-est-une-espece-de-tele-realite-interminable_8284508.html",
+"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
+"source": "franceinfo",
+"date": "2026-11-18T08:30:23+00:00",
+"added": "2026-11-18T09:47:55+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Laurent Jacobelli"
+},
+{
+"id": "40efe94f572d4676",
+"title": "Retraites : le pari d’équilibriste de Marine Le Pen",
+"link": "https://www.lepoint.fr/politique/reforme-des-retraites-ce-que-propose-marine-le-pen-pour-2027-IFORVGFNH5GL3NHDONCBEB2G5A/",
+"summary": "",
+"source": "Le Point",
+"date": "2026-11-18T08:30:00+00:00",
+"added": "2026-11-18T09:47:55+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "ab292760b8367949",
+"title": "\"La plupart partiront entre 60 et 62 ans\": Jean-Philippe Tanguy sur la réforme des retraites du RN",
+"link": "https://www.bfmtv.com/politique/video-la-plupart-partiront-entre-60-et-62-ans-jean-philippe-tanguy-sur-la-reforme-des-retraites-du-rn_VN-202611180408.html",
+"summary": "Jean-Philippe Tanguy, président délégué du groupe RN à l'Assemblée nationale, était l'invité du Face-à-Face ce mercredi 18 novembre pour évoquer notamment la réforme des retraites du RN, l'amendement du Rassemblement national qui supprime les interdictions de louer des passoires thermiques ou encore la politique…",
+"source": "BFMTV",
+"date": "2026-11-18T08:29:11+00:00",
+"added": "2026-11-18T09:47:55+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"parlement",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "bf837df0235bbe52",
+"title": "Jordan Bardella",
+"link": "https://www.bfmtv.com/politique/front-national/jordan-bardella_DN-202403060432.html",
+"summary": "Déjà conseiller régional d'Île-de-France, député européen et président de parti, Jordan Bardella conduira pour une deuxième fois la liste du Rassemblement national (RN) lors des élections européennes organisées le 9 juin 2024.",
+"source": "BFMTV",
+"date": "2026-11-18T08:27:36+00:00",
+"added": "2026-11-18T09:47:55+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "09e0619b54ae8a9e",
+"title": "\"La retraite à 60 ans est une chimère\": le ministre de l'Économie accuse le RN de \"demander des sacrifices aux Français\" et de vouloir \"baisser les pensions\" pour préserver \"leur totem\" de la retraite à 60 ans",
+"link": "https://www.bfmtv.com/economie/patrimoine/retraite/la-retraite-a-60-ans-est-une-chimere-le-ministre-de-l-economie-accuse-le-rn-de-demander-des-sacrifices-aux-francais-et-de-vouloir-baisser-les-pensions-pour-preserver-leur-totem-de-la-retraite-a-60-ans_AV-202611180396.html",
+"summary": "Il n'y croit pas. Invité à réagir à la réforme des retraites présentée ce mardi par le Rassemblement national, le ministre de l'Économie et des Finances, Roland Lescure, estime ce mercredi 18 novembre que \"la retraite à 60 ans est une chimère\".",
+"source": "BFMTV",
+"date": "2026-11-18T08:27:34+00:00",
+"added": "2026-11-18T09:47:55+00:00",
+"official": false,
+"also": [],
+"base": [
+"matinales"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"gouvernement",
+"partis"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": ""
+},
+{
+"id": "81898d9a5f94b5df",
+"title": "\"Ce serait un miracle si les choses pouvaient aboutir\", espère un sénateur nationaliste en évoquant l'autonomie de la Corse",
+"link": "https://www.franceinfo.fr/france/corse/corse/ce-serait-un-miracle-si-les-choses-pouvaient-aboutir-espere-un-senateur-nationaliste-en-evoquant-l-autonomie-de-la-corse_8287919.html",
+"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
+"source": "franceinfo",
+"date": "2026-11-18T08:25:51+00:00",
+"added": "2026-11-18T09:47:55+00:00",
+"official": false,
+"also": [],
+"base": [
+"matinales"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "c2766e98c3b4153c",
+"title": "Primaire à droite et au centre, présidentielle, retraites... Le \"8h30 franceinfo\" de Jean-François Copé",
+"link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/primaire-a-droite-et-au-centre-presidentielle-retraites-le-8h30-franceinfo-de-jean-francois-cope_8266766.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "Jean-François Copé, maire de Meaux, ancien ministre et ancien président de l’UMP, est l'invité du \"8h30 franceinfo\" le 18 novembre 2026.",
+"source": "franceinfo",
+"date": "2026-11-18T08:25:15+00:00",
+"added": "2026-11-18T09:47:55+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"gouvernement",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Jean-François Copé"
+},
+{
+"id": "5ba2621466a3aaad",
+"title": "La directrice générale d’Engie fait savoir à Jean-Luc Mélenchon son opposition à la renationalisation du fournisseur d'énergie",
+"link": "https://www.franceinfo.fr/elections/la-directrice-generale-d-engie-fait-savoir-a-jean-luc-melenchon-son-opposition-a-la-renationalisation-du-fournisseur-d-energie_8287907.html",
+"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
+"source": "franceinfo",
+"date": "2026-11-18T08:16:03+00:00",
+"added": "2026-11-18T09:47:55+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "06cb76ac9f9f4a04",
+"title": "Présidentielle 2027 : à Villeurbanne, Raphaël Glucksmann ancre sa campagne à gauche face à l’extrême droite",
+"link": "https://www.lemonde.fr/politique/article/2026/11/18/presidentielle-2027-a-villeurbanne-raphael-glucksmann-ancre-sa-campagne-a-gauche-face-a-l-extreme-droite_6813091_823448.html",
+"summary": "Dans la continuité du débat de lundi sur TF1 puis LCI, le candidat a défendu l’idée de justice sociale pour « redevenir une société de travailleurs et non de rentiers ».",
+"source": "Le Monde",
+"date": "2026-11-18T08:12:24+00:00",
+"added": "2026-11-18T09:47:55+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "c55cb9e1afe86bf4",
+"title": "L'édito de Pascal Praud : «Sans candidature unique de la droite et du centre, un duel entre Marine Le Pen et Jean-Luc Mélenchon sera fort probable»",
+"link": "https://www.cnews.fr/france/2026-11-18/ledito-de-pascal-praud-sans-candidature-unique-de-la-droite-et-du-centre-un-duel",
+"summary": "«Sans candidature unique de la droite et du centre, un duel entre Marine Le Pen et Jean-Luc Mélenchon sera fort probable», a déclaré Pascal Praud dans son édito de l'émission L'Heure des Pros, ce mercredi sur CNEWS.",
+"source": "CNews",
+"date": "2026-11-18T08:11:00+00:00",
+"added": "2026-11-18T09:47:55+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Pascal Praud"
+},
+{
+"id": "f1bb18860201d925",
+"title": "Date, prix, périmètre : la primaire du centre et la droite avance (mais sans le favori)",
+"link": "https://www.huffingtonpost.fr/politique/article/date-prix-perimetre-la-primaire-du-centre-et-la-droite-avance-un-peu-toujous-sans-edourd-philippe_360364.html",
+"summary": "Laborieusement, certes, mais ça avance.",
+"source": "Le HuffPost",
+"date": "2026-11-18T08:11:00+00:00",
+"added": "2026-11-18T09:47:55+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "1fcc4347afe6ab3c",
+"title": "Présidentielle 2027 : en annonçant une primaire coûte que coûte, Attal, Lisnard et Retailleau défient Philippe dans une guerre des nerfs",
+"link": "https://www.humanite.fr/politique/bruno-retailleau/presidentielle-2027-en-annoncant-une-primaire-coute-que-coute-attal-lisnard-et-retailleau-defient-philippe-dans-une-guerre-des-nerfs",
+"summary": "Malgré les multiples refus d’Édouard Philippe qui, en tête de la droite dans les sondages, mise sur un alignement derrière sa candidature, Gabriel Attal (Renaissance), Bruno Retailleau (Les Républicains) et David Lisnard (Nouvelle Énergie) ont fait mine, mardi 17 novembre, de tout de même s’organiser en vue d’une…",
+"source": "L'Humanité",
+"date": "2026-11-18T08:10:19+00:00",
+"added": "2026-11-18T09:47:55+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "d66de1b3d63bbc79",
+"title": "Le colloque sur la \"négrophobie\" à l'Assemblée est un débat nécessaire pour \"faire bouger les lignes\", assure un député de Guyane",
+"link": "https://www.franceinfo.fr/societe/racisme/le-colloque-sur-la-negrophobie-a-l-assemblee-est-un-debat-necessaire-pour-faire-bouger-les-lignes-assure-un-depute-de-guyane_8287850.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "Davy Rimane est à l'origine du colloque consacré à la \"négrophobie\", la haine des noirs, à l'Assemblée nationale.",
+"source": "franceinfo",
+"date": "2026-11-18T08:08:51+00:00",
+"added": "2026-11-18T09:47:55+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [
+"Citation"
+],
+"speaker": ""
+},
+{
+"id": "3faff70e8e4dce4b",
+"title": "\"Marine Le Pen ne va pas abandonner l'Ukraine\", estime Jean-Philippe Tanguy (RN)",
+"link": "https://www.bfmtv.com/politique/video-marine-le-pen-ne-va-pas-abandonner-l-ukraine-estime-jean-philippe-tanguy-rn_VN-202611180378.html",
+"summary": "Jean-Philippe Tanguy, président délégué du groupe RN à l'Assemblée nationale, était l'invité du Face-à-Face ce mercredi 18 novembre.",
+"source": "BFMTV",
+"date": "2026-11-18T08:02:51+00:00",
+"added": "2026-11-18T09:47:55+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"parlement",
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Jean-Philippe Tanguy"
+},
+{
+"id": "4eed27f678afed3a",
+"title": "[EXCLUSIF] Notre sondage Ifop : Ce que veut vraiment le peuple de droite",
+"link": "https://www.valeursactuelles.com/clubvaleurs/politique/sondage-exclusif-le-pen-retailleau-philippe-lisnard-ce-que-veut-vraiment-le-peuple-de-droite",
+"summary": "Le peuple de droite est un peu comme la femme de l’inspecteur Columbo. On ne le voit jamais, mais on parle de lui très souvent.",
+"source": "Valeurs actuelles",
+"date": "2026-11-18T08:00:50+00:00",
+"added": "2026-11-18T09:47:55+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "a6055b3b6a361bf1",
+"title": "Projet de primaire de la droite et du centre: \"Tous ces gens veulent juste une place, sont prêts à toutes les compromissions\", affirme Jean-Philippe Tanguy (RN)",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-projet-de-primaire-de-la-droite-et-du-centre-tous-ces-gens-veulent-juste-une-place-sont-prets-a-toutes-les-compromissions-affirme-jean-philippe-tanguy-rn_VN-202611180375.html",
+"summary": "Le député Rassemblement national de la Somme, Jean-Philippe Tanguy, était l’invité du Face-à-Face de RMC-BFM ce mercredi 18 novembre.",
+"source": "BFMTV",
+"date": "2026-11-18T08:00:46+00:00",
+"added": "2026-11-18T09:47:55+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"parlement",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Jean-Philippe Tanguy"
+},
+{
+"id": "bce9e6d8106169a4",
+"title": "Présidentielle 2027 : Mélenchon progresse et s’ancre au second tour, Lisnard talonne Philippe… Découvrez le sondage du Figaro",
+"link": "https://www.lefigaro.fr/elections/presidentielles/sondages/presidentielle-2027-melenchon-progresse-et-s-ancre-au-second-tour-lisnard-creuse-l-ecart-avec-retailleau-decouvrez-le-sondage-du-figaro-20261118",
+"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
+"source": "Le Figaro",
+"date": "2026-11-18T08:00:07+00:00",
+"added": "2026-11-18T09:47:55+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "92a741eb2142f10e",
+"title": "Élection présidentielle 2027 : les députés France Insoumise Alma Dufour et Aurélien Le Coq en meeting en Lot-et-Garonne",
+"link": "https://www.sudouest.fr/elections/presidentielle/election-presidentielle-2027-les-deputes-france-insoumise-alma-dufour-et-aurelien-le-coq-en-meeting-en-lot-et-garonne-31549951.php",
+"summary": "",
+"source": "Sud Ouest",
+"date": "2026-11-18T08:00:00+00:00",
+"added": "2026-11-18T09:47:55+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"parlement",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Discours"
+],
+"speaker": ""
+},
+{
+"id": "d558d8c06e0e7a52",
+"title": "Passoires thermiques: \"Quand vous avez une pénurie de logements, vaut mieux avoir un toit au-dessus de sa tête que rien du tout\", déclare Jean-Philippe Tanguy (RN)",
+"link": "https://www.bfmtv.com/politique/video-passoires-thermiques-quand-vous-avez-une-penurie-de-logements-vaut-mieux-avoir-un-toit-au-dessus-de-sa-tete-que-rien-du-tout-declare-jean-philippe-tanguy-rn_VN-202611180372.html",
+"summary": "Jean-Philippe Tanguy, président délégué du groupe RN à l'Assemblée nationale, était l'invité du Face-à-Face ce mercredi 18 novembre.",
+"source": "BFMTV",
+"date": "2026-11-18T07:58:49+00:00",
+"added": "2026-11-18T09:47:55+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"parlement",
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Jean-Philippe Tanguy"
+},
+{
 "id": "cd4649889f48f0b0",
 "title": "Présidentielle: Jean-Philippe Tanguy \"propose un débat\" avec David Lisnard",
 "link": "https://www.bfmtv.com/politique/elections/presidentielle/direct-presidentielle-2027-michel-barnier-annonce-un-accord-pour-une-primaire-de-la-droite-et-du-centre-fin-janvier-le-maire-de-cannes-refute_LN-202611180177.html",
@@ -21,6 +692,28 @@
 "Annonce"
 ],
 "speaker": "David Lisnard"
+},
+{
+"id": "d78e50f06b7cc4ef",
+"title": "Âge maximal de départ à la retraite: \"Ce sera 67 ans comme aujourd'hui\", déclare Jean-Philippe Tanguy (RN)",
+"link": "https://www.bfmtv.com/politique/video-age-maximal-de-depart-a-la-retraite-ce-sera-67-ans-comme-aujourd-hui-declare-jean-philippe-tanguy-rn_VN-202611180365.html",
+"summary": "Jean-Philippe Tanguy, président délégué du groupe RN à l'Assemblée nationale, était l'invité du Face-à-Face ce mercredi 18 novembre.",
+"source": "BFMTV",
+"date": "2026-11-18T07:56:19+00:00",
+"added": "2026-11-18T09:47:55+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"parlement",
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Jean-Philippe Tanguy"
 },
 {
 "id": "ca6be4f85ad78cb8",
@@ -107,6 +800,30 @@
 "speaker": "Jean-Philippe Tanguy"
 },
 {
+"id": "dad3655f025e2345",
+"title": "Retraites : la réforme de Marine le Pen est «une réforme de justice sociale de très grande ampleur», insiste Sébastien Chenu",
+"link": "https://www.europe1.fr/economie/retraites-la-reforme-de-marine-le-pen-est-une-reforme-de-justice-sociale-de-tres-grande-ampleur-insiste-sebastien-chenu-1239306",
+"summary": "Le député Rassemblement national du Nord Sébastien Chenu était l'invité de La Grande interview Europe 1-CNews ce mercredi.",
+"source": "Europe 1",
+"date": "2026-11-18T07:45:00+00:00",
+"added": "2026-11-18T09:47:55+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"parlement",
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Sébastien Chenu"
+},
+{
 "id": "283cb6a8776d2ed9",
 "title": "Présidentielle 2027: David Lisnard \"incapable\" de dire si la primaire de la droite et du centre \"aura lieu ou pas\"",
 "link": "https://www.bfmtv.com/politique/elections/presidentielle/presidentielle-2027-david-lisnard-incapable-de-dire-si-la-primaire-de-la-droite-et-du-centre-aura-lieu-ou-pas_AP-202611180339.html",
@@ -115,7 +832,9 @@
 "date": "2026-11-18T07:43:49+00:00",
 "added": "2026-11-18T07:58:28+00:00",
 "official": false,
-"also": [],
+"also": [
+"CNews"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -202,7 +921,10 @@
 "date": "2026-11-18T07:31:21+00:00",
 "added": "2026-11-18T07:58:28+00:00",
 "official": false,
-"also": [],
+"also": [
+"Sud Ouest",
+"Le Parisien"
+],
 "base": [
 "presidentielle"
 ],
@@ -429,7 +1151,9 @@
 "date": "2026-11-18T06:54:03+00:00",
 "added": "2026-11-18T07:58:28+00:00",
 "official": false,
-"also": [],
+"also": [
+"20 Minutes"
+],
 "base": [
 "partis"
 ],
@@ -469,12 +1193,36 @@
 "date": "2026-11-18T06:45:21+00:00",
 "added": "2026-11-18T07:58:28+00:00",
 "official": false,
-"also": [],
+"also": [
+"BFMTV",
+"L'Opinion"
+],
 "base": [
 "partis"
 ],
 "filtered": true,
 "topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "5b2350257e013345",
+"title": "Logement : les députés votent l'amendement du RN mettant fin aux contraintes liées au DPE",
+"link": "https://www.europe1.fr/immobilier/logement-les-deputes-votent-lamendement-du-rn-mettant-fin-aux-contraintes-liees-au-dpe-1239237",
+"summary": "L'Assemblée nationale s'est prononcée en faveur de la suppression des contraintes locatives liées au diagnostic de performance énergétique (DPE).",
+"source": "Europe 1",
+"date": "2026-11-18T06:38:49+00:00",
+"added": "2026-11-18T09:47:55+00:00",
+"official": false,
+"also": [],
+"base": [
+"parlement"
+],
+"filtered": true,
+"topics": [
+"parlement",
 "partis"
 ],
 "natures": [],
@@ -736,6 +1484,27 @@
 "speaker": ""
 },
 {
+"id": "8e443e6dde28da88",
+"title": "David Lisnard, le Zemmour de 2027 ?",
+"link": "https://www.lepoint.fr/debats/david-lisnard-le-zemmour-de-2027-OC7XBN4CYVHH5IMRF6DE4PLXAI/",
+"summary": "",
+"source": "Le Point",
+"date": "2026-11-18T05:37:13+00:00",
+"added": "2026-11-18T09:47:55+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "a5e1a37755352851",
 "title": "Présidentielle 2027 : Le smic français « plus élevé que celui de nos voisins », comme l’affirme Gabriel Attal ?",
 "link": "https://www.20minutes.fr/politique/4263541-20261118-presidentielle-2027-smic-francais-plus-eleve-celui-voisins-comme-affirme-gabriel-attal?at_medium=display&at_campaign=149",
@@ -784,6 +1553,26 @@
 "source": "Le Parisien",
 "date": "2026-11-18T05:21:00+00:00",
 "added": "2026-11-18T06:41:02+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "caa3acb52c99ba14",
+"title": "Retraites : la droite et le centre critiquent le plan présenté par Marine Le Pen",
+"link": "https://www.europe1.fr/politique/retraites-la-droite-et-le-centre-critiquent-le-plan-presente-par-marine-le-pen-1239042",
+"summary": "Marine Le Pen présentait ce mardi matin son projet pour les retraites. Elle promet de diviser par deux le déficit des retraites en cinq ans tout en réduisant l'âge légal de départ.",
+"source": "Europe 1",
+"date": "2026-11-18T05:15:00+00:00",
+"added": "2026-11-18T09:47:55+00:00",
 "official": false,
 "also": [],
 "base": [
@@ -1051,7 +1840,9 @@
 "official": false,
 "also": [
 "BFMTV",
-"TF1 Info"
+"TF1 Info",
+"Le Figaro",
+"La Provence"
 ],
 "base": [],
 "filtered": true,
@@ -1107,6 +1898,24 @@
 "Réaction"
 ],
 "speaker": "Jean-Luc Mélenchon"
+},
+{
+"id": "8f9feb6a1e9dc9d0",
+"title": "Budget 2027 de la Sécurité sociale : l’objectif de dépenses de santé adopté au Sénat",
+"link": "https://www.publicsenat.fr/actualites/sante/budget-2027-de-la-securite-sociale-lobjectif-de-depenses-de-sante-adopte-au-senat",
+"summary": "Les sénateurs ont adopté l’objectif national de dépenses d’assurance maladie, dans le projet de loi de financement de la Sécurité sociale pour 2027.",
+"source": "Public Sénat",
+"date": "2026-11-17T22:35:20+00:00",
+"added": "2026-11-18T09:47:55+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
 },
 {
 "id": "2b27dc5946b37e10",
@@ -1644,7 +2453,8 @@
 "official": false,
 "also": [
 "France 24",
-"BFMTV"
+"BFMTV",
+"RTL"
 ],
 "base": [
 "partis"
@@ -1752,7 +2562,11 @@
 "date": "2026-11-17T19:50:34+00:00",
 "added": "2026-11-18T07:58:28+00:00",
 "official": false,
-"also": [],
+"also": [
+"Le Monde",
+"franceinfo",
+"Ouest-France"
+],
 "base": [
 "partis"
 ],
@@ -1794,6 +2608,24 @@
 "Citation"
 ],
 "speaker": "Michel Barnier"
+},
+{
+"id": "b344728fd2dba1bd",
+"title": "Après Matignon, les fonctionnaires de retour dans la rue pour demander des hausses de salaire",
+"link": "https://www.laprovence.com/article/france-monde/4398254395714114/apres-matignon-les-fonctionnaires-de-retour-dans-la-rue-pour-demander-des-hausses-de-salaires",
+"summary": "Journée de grève et de manifestations dans le secteur public, contre la hausse du coût de la vie, le 17 novembre 2026 à Marseille\nDes rassemblements ont débuté dans la matinée dans plusieurs villes, notamment à Lyon, où des milliers de personnes se rassemblent devant la manufacture des tabacs et où l'on peut…",
+"source": "La Provence",
+"date": "2026-11-17T19:30:14+00:00",
+"added": "2026-11-18T09:47:55+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [],
+"speaker": ""
 },
 {
 "id": "1702556a29e200af",
@@ -2021,7 +2853,8 @@
 "also": [
 "La Croix",
 "20 Minutes",
-"Ouest-France"
+"Ouest-France",
+"Libération"
 ],
 "base": [],
 "filtered": true,
@@ -2400,7 +3233,9 @@
 "date": "2026-11-17T17:52:02+00:00",
 "added": "2026-11-18T07:58:28+00:00",
 "official": false,
-"also": [],
+"also": [
+"Le Progrès"
+],
 "base": [
 "presidentielle"
 ],
@@ -2928,7 +3763,9 @@
 "date": "2026-11-17T16:43:03+00:00",
 "added": "2026-11-17T17:51:41+00:00",
 "official": false,
-"also": [],
+"also": [
+"Le Parisien"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -5200,7 +6037,9 @@
 "date": "2026-11-17T09:40:33+00:00",
 "added": "2026-11-18T06:41:02+00:00",
 "official": false,
-"also": [],
+"also": [
+"20 Minutes"
+],
 "base": [
 "partis"
 ],
@@ -6293,7 +7132,8 @@
 "La Nouvelle République",
 "Sud Ouest",
 "Le Télégramme",
-"La Voix du Nord"
+"La Voix du Nord",
+"LCP"
 ],
 "base": [],
 "filtered": true,
@@ -13900,359 +14740,5 @@
 "Réaction"
 ],
 "speaker": "Emmanuel Macron"
-},
-{
-"id": "8b226abf234006dd",
-"title": "Agression d’un responsable universitaire : \"Tout ça s'inscrit dans un contexte de violence croissante\", estime le ministre de l'Enseignement supérieur et de la Recherche Philippe Baptiste",
-"link": "https://www.franceinfo.fr/politique/agression-d-un-responsable-universitaire-tout-ca-s-inscrit-dans-un-contexte-de-violence-croissante-estime-le-ministre-de-l-enseignement-superieur-et-de-la-recherche-philippe-baptiste_8283326.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "Philippe Baptiste, ministre de l'Enseignement supérieur et de la Recherche, était l'invité du 7.40 de ce dimanche 15 novembre.",
-"source": "franceinfo",
-"date": "2026-11-15T09:37:59+00:00",
-"added": "2026-11-15T11:26:23+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"matinales",
-"gouvernement"
-],
-"natures": [
-"Citation"
-],
-"speaker": ""
-},
-{
-"id": "67ad90b8ab1cdc28",
-"title": "Présidentielle 2027 : Teddy Riner affronte son premier sondage, David Lisnard gagne des points",
-"link": "https://www.france24.com/fr/france/20261115-pr%C3%A9sidentielle-2027-teddy-riner-cr%C3%A9dit%C3%A9-de-4-5-dans-un-sondage-david-lisnard-gagne-des-points",
-"summary": "",
-"source": "France 24",
-"date": "2026-11-15T09:35:16+00:00",
-"added": "2026-11-15T11:26:23+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "24d360d207fa0b65",
-"title": "Dette publique française : “La France ne va pas être la Grèce”, affirme Clément Beaune",
-"link": "https://www.franceinfo.fr/economie/crise/crise-de-la-dette/dette-publique-francaise-la-france-ne-va-pas-etre-la-grece-affirme-clement-beaune_8283317.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "Clément Beaune, haut-commissaire à la Stratégie et au Plan était l'invité du 7.40 de Franceinfo ce samedi 14 novembre.",
-"source": "franceinfo",
-"date": "2026-11-15T09:28:48+00:00",
-"added": "2026-11-15T09:34:04+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"matinales"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Clément Beaune"
-},
-{
-"id": "1070c7d72c678ba8",
-"title": "Présidentielle : le désarmement des modérés face aux extrêmes",
-"link": "https://www.lopinion.fr/politique/presidentielle-le-desarmement-des-moderes-face-aux-extremes",
-"summary": "Le 11 mai 1956, Mauriac écrivait dans son « bloc-notes » : « Le malheur de la France ne tient pas aux textes d’une Constitution, mais aux hommes ».",
-"source": "L'Opinion",
-"date": "2026-11-15T09:15:00+00:00",
-"added": "2026-11-15T09:34:04+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "a9d04848a91a69a5",
-"title": "Sébastien Lecornu Premier ministre",
-"link": "https://www.bfmtv.com/politique/gouvernement/sebastien-lecornu-premier-ministre_DN-202509100375.html",
-"summary": "Sébastien Lecornu a été nommé Premier ministre le 9 septembre 2025, après la chute du gouvernement de François Bayrou, qui n'a pas obtenu la confiance de l'Assemblée nationale.",
-"source": "BFMTV",
-"date": "2026-11-15T09:11:56+00:00",
-"added": "2026-11-15T09:34:04+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement",
-"parlement",
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "0b9505aaddcf1257",
-"title": "Emmanuel Macron: 14% des Français portent un jugement favorable sur les actions du président de la République, selon un sondage",
-"link": "https://www.bfmtv.com/politique/elysee/emmanuel-macron-14-des-francais-portent-un-jugement-favorable-sur-les-actions-du-president-de-la-republique-selon-un-sondage_AN-202611150163.html",
-"summary": "Le dernier baromètre Ipsos-BVA publié par La Tribune Dimanche révèle qu'Emmanuel Macron ne recueille que 14% de jugements favorables à son action, tandis que les Français placent le pouvoir d'achat comme parmi leurs principales préoccupations.",
-"source": "BFMTV",
-"date": "2026-11-15T09:11:56+00:00",
-"added": "2026-11-15T09:34:04+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "ca76b55e9d075c98",
-"title": "Gabriel Attal",
-"link": "https://www.bfmtv.com/politique/gabriel-attal_DN-202108310662.html",
-"summary": "Gabriel Attal est candidat à la présidentielle de 2027 pour le parti Renaissance. Auparavant membre du Parti socialiste, il a été élu député de la 11e circonscription des Hauts-de-Seine en 2017, sous l'étiquette En Marche.",
-"source": "BFMTV",
-"date": "2026-11-15T09:11:56+00:00",
-"added": "2026-11-15T13:41:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement",
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "e300da1ba879fe19",
-"title": "Un montant de \"350 euros brut par an\": le ministre des Comptes publics confirme une revalorisation des plus bas salaires de la fonction publique",
-"link": "https://www.bfmtv.com/economie/economie-social/finances-publiques/un-montant-de-350-euros-brut-par-an-le-ministre-des-comptes-publics-confirme-une-revalorisation-des-plus-bas-salaires-de-la-fonction-publique_AV-202611150156.html",
-"summary": "Ils ont été entendus. Certains fonctionnaires verront leur rémunération augmenter, après l'annonce de l'augmentation du Smic à 1.502 euros nets par mois.",
-"source": "BFMTV",
-"date": "2026-11-15T09:02:04+00:00",
-"added": "2026-11-15T11:26:23+00:00",
-"official": false,
-"also": [],
-"base": [
-"matinales"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"gouvernement"
-],
-"natures": [
-"Citation"
-],
-"speaker": ""
-},
-{
-"id": "3c2c5d214791e124",
-"title": "Mélenchon propose un congé de deuil pour les amis, une idée si farfelue ?",
-"link": "https://www.20minutes.fr/politique/4261937-20261115-presidentielle-2027-melenchon-propose-conge-deuil-ami-vraiment-idee-farfelue",
-"summary": "Parmi les 1.069 propositions du programme de la France insoumise pour la présidentielle, l’une a particulièrement enflammé les réseaux sociaux.",
-"source": "20 Minutes",
-"date": "2026-11-15T09:02:00+00:00",
-"added": "2026-11-15T09:34:04+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Annonce"
-],
-"speaker": "Jean-Luc Mélenchon"
-},
-{
-"id": "2d16409d3b0e7b32",
-"title": "« Sans les thermes, Royat est morte » : le possible déremboursement des cures thermales menace un modèle déjà fragilisé",
-"link": "https://www.lemonde.fr/economie/article/2026/11/15/sans-les-thermes-royat-est-morte-le-possible-deremboursement-des-cures-thermales-menace-un-modele-deja-fragilise_6811001_3234.html",
-"summary": "Dans la petite ville du Puy-de-Dôme, comme dans les autres stations, le thermalisme est essentiel aux hôtels et aux commerces.",
-"source": "Le Monde",
-"date": "2026-11-15T09:00:17+00:00",
-"added": "2026-11-15T09:34:04+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [
-"Citation"
-],
-"speaker": ""
-},
-{
-"id": "73ceeaee0d86c8c6",
-"title": "Nonna Mayer, politiste : « Le contexte électoral est particulièrement dramatique sur les plans intérieur et international »",
-"link": "https://www.lemonde.fr/idees/article/2026/11/15/nonna-mayer-politiste-le-contexte-electoral-est-particulierement-dramatique-sur-les-plans-interieur-et-international_6811000_3232.html",
-"summary": "Les candidats à l’élection présidentielle de 2027 vont devoir se positionner face aux nombreux enjeux qui préoccupent les Français : pouvoir d’achat, système social, insécurité, bouleversements climatiques, observe la politiste dans un entretien au « Monde ».",
-"source": "Le Monde",
-"date": "2026-11-15T09:00:17+00:00",
-"added": "2026-11-15T09:34:04+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "48495ef851049e2b",
-"title": "Les revalorisations annoncées pour les plus bas salaires coûteront \"un peu plus d'un milliard d'euros\" aux finances publiques, déclare le ministre David Amiel",
-"link": "https://www.franceinfo.fr/economie/pouvoir-achat/il-y-aura-bien-une-hausse-des-points-pour-les-plus-bas-salaires-de-la-fonction-publique-confirme-le-ministre-david-amiel_8283254.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "David Amiel confirme, dans le \"8h30 franceinfo\" dimanche, une augmentation \"pour les plus bas salaires de la fonction publique\" représentant \"350 euros brut par an\".",
-"source": "franceinfo",
-"date": "2026-11-15T08:49:24+00:00",
-"added": "2026-11-15T09:34:04+00:00",
-"official": false,
-"also": [
-"BFMTV",
-"Ouest-France"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"matinales",
-"gouvernement"
-],
-"natures": [
-"Citation"
-],
-"speaker": "David Amiel"
-},
-{
-"id": "66d40336c8e2fe44",
-"title": "Présidentielle 2027 : la popularité de Teddy Riner reste élevée mais baisse de 11 points auprès des sondés après sa candidature",
-"link": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-la-popularite-de-teddy-riner-reste-elevee-mais-baisse-de-11-points-aupres-des-sondes-apres-sa-candidature-15-11-2026-222YFR4PHVD2NEHFI4Z4ASWBOQ.php",
-"summary": "",
-"source": "Le Parisien",
-"date": "2026-11-15T08:23:51+00:00",
-"added": "2026-11-15T09:34:04+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "20544172434eb19b",
-"title": "Présidentielle 2027 : Le Pen reste largement en tête suivie par Mélenchon, Riner atteint 4,5 % des intentions de vote, selon un sondage",
-"link": "https://www.letelegramme.fr/elections/presidentielle/presidentielle-2027-le-pen-reste-largement-en-tete-suivie-par-melenchon-riner-atteint-45-des-intentions-de-vote-selon-un-sondage-7159458.php",
-"summary": "",
-"source": "Le Télégramme",
-"date": "2026-11-15T08:07:20+00:00",
-"added": "2026-11-15T09:34:04+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "d8c7e02b76a4209d",
-"title": "Présidentielle 2027 : Marine Le Pen écrase Jean-Luc Mélenchon",
-"link": "https://www.valeursactuelles.com/politique/presidentielle-2027-marine-le-pen-ecrase-jean-luc-melenchon-dans-toutes-les-categories-dage-sauf-les-18-24-ans-selon-un-sondage",
-"summary": "Chez les plus jeunes, Jean-Luc Mélenchon gagne. Chez leurs aînés, il dévisse. Le sondage Elabe publié ce samedi 14 novembre dessine une fracture spectaculaire entre générations dans l’hypothèse d’un second tour Marine Le Pen–Jean-Luc Mélenchon.",
-"source": "Valeurs actuelles",
-"date": "2026-11-15T08:06:22+00:00",
-"added": "2026-11-15T09:34:04+00:00",
-"official": false,
-"also": [
-"RMC",
-"LCP"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "1a663620c06c32c4",
-"title": "Présidentielle 2027 : «57% sont opposés à voir les sportifs se présenter à une élection», les Français donnent leur avis sur la candidature de Teddy Riner",
-"link": "https://www.lefigaro.fr/sports/autres-sports/57-sont-opposes-a-voir-les-sportifs-se-presenter-a-une-election-les-francais-donnent-leur-avis-sur-la-candidature-de-teddy-riner-a-la-presidentielle-20261115",
-"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
-"source": "Le Figaro",
-"date": "2026-11-15T08:00:06+00:00",
-"added": "2026-11-15T09:34:04+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "9cf5b96f5ca80686",
-"title": "SONDAGE RTL - Teddy Riner candidat à la présidentielle 2027 : 61% des Français estiment que ce n'est \"pas une bonne chose\" pour l'élection",
-"link": "https://www.rtl.fr/actu/politique/sondage-teddy-riner-candidat-a-la-presidentielle-2027-61-des-francais-estiment-que-ce-n-est-pas-une-bonne-chose-pour-l-election-7900695905",
-"summary": "Présidentielle : \"Les Français accueillent avec circonspection la candidature de Teddy Riner\"\nL'annonce de sa candidature a bel et bien surpris tout le monde.",
-"source": "RTL",
-"date": "2026-11-15T08:00:00+00:00",
-"added": "2026-11-18T07:58:28+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
 }
 ]
