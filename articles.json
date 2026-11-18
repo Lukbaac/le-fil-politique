@@ -1,5 +1,844 @@
 [
 {
+"id": "43026bd47702571e",
+"title": "Retraites : ce que proposent les candidats à la présidentielle",
+"link": "https://www.lesechos.fr/elections/programmes-dechiffres/retraites-ce-que-proposent-les-candidats-a-la-presidentielle-2263390",
+"summary": "",
+"source": "Les Echos",
+"date": "2026-11-18T17:35:06+00:00",
+"added": "2026-11-18T17:47:17+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "88558de52739f30c",
+"title": "Présidentielle: Béatrice Bellay, députée PS, explique pourquoi elle ne parrainera finalement pas Teddy Riner",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-beatrice-bellay-deputee-ps-explique-pourquoi-elle-ne-parrainera-finalement-pas-teddy-riner_VN-202611180822.html",
+"summary": "Après une arrivée dans la campagne présidentielle que personne n'avait vu venir, voilà le judoka confronté aux premiers obstacles.",
+"source": "BFMTV",
+"date": "2026-11-18T17:32:57+00:00",
+"added": "2026-11-18T17:47:17+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement",
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": "Béatrice Bellay"
+},
+{
+"id": "829b945e967bdb42",
+"title": "Budget de la « Sécu » 2027 : le projet de texte adopté au Sénat en première lecture",
+"link": "https://www.lemonde.fr/politique/article/2026/11/18/budget-de-la-secu-2027-le-projet-de-texte-adopte-au-senat-en-premiere-lecture_6813180_823448.html",
+"summary": "La commission mixte paritaire devra désormais tenter, la semaine prochaine, de rapprocher les positions de l’Assemblée nationale et du Sénat sur le texte.",
+"source": "Le Monde",
+"date": "2026-11-18T17:31:45+00:00",
+"added": "2026-11-18T17:47:17+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "fa133db3d2dcab94",
+"title": "\"Le gouvernement de Sébastien Lecornu répond à chacune des colères avec sincérité\", affirme Mathieu Lefevre, porte-parole par intérim du gouvernement",
+"link": "https://www.bfmtv.com/politique/gouvernement/video-le-gouvernement-de-sebastien-lecornu-repond-a-chacune-des-coleres-avec-sincerite-affirme-mathieu-lefevre-porte-parole-par-interim-du-gouvernement_VN-202611180815.html",
+"summary": "VIDÉO - Mathieu Lefevre, porte-parole par intérim du gouvernement, était l'invité de BFMTV ce 18 novembre.",
+"source": "BFMTV",
+"date": "2026-11-18T17:24:47+00:00",
+"added": "2026-11-18T17:47:17+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"elysee",
+"gouvernement"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "Mathieu Lefevre"
+},
+{
+"id": "547bbfc37b899c22",
+"title": "\"On rétablit une égalité\" : les sénateurs votent la fin de la pénalité imposée à tous les Français qui n'ont pas de médecin traitant",
+"link": "https://www.tf1info.fr/sante/reportage-on-retablit-une-egalite-les-senateurs-votent-la-fin-de-la-penalite-imposee-a-tous-les-francais-qui-n-ont-pas-de-medecin-traitant-2476664.html",
+"summary": "Pour six millions de Français, la consultation chez un médecin généraliste coûte 10 euros de plus que pour les autres.",
+"source": "TF1 Info",
+"date": "2026-11-18T17:20:24+00:00",
+"added": "2026-11-18T17:47:17+00:00",
+"official": false,
+"also": [],
+"base": [
+"parlement"
+],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "4f0f58cdd78794f3",
+"title": "Présidentielle : Le Pen en tête, Mélenchon progresse, le duel se profile",
+"link": "https://www.valeursactuelles.com/politique/presidentielle-2027-marine-le-pen-toujours-loin-devant-jean-luc-melenchon-progresse-le-second-tour-des-extremes-se-profile",
+"summary": "Une domination qui se confirme, sondage après sondage. Dans le dernier baromètre Ifop-Fiducial pour Le Figaro, LCI et Sud Radio publié ce mercredi 18 novembre, Marine Le Pen reste toujours hors de portée de ses concurrents à l’Élysée.",
+"source": "Valeurs actuelles",
+"date": "2026-11-18T17:20:21+00:00",
+"added": "2026-11-18T17:47:17+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"elysee",
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "b01b3310296fea49",
+"title": "Syndicat de police Alliance reçu au ministère de l'Intérieur: \"le dialogue va se poursuivre\", déclare Mathieu Lefevre, porte-parole du gouvernement",
+"link": "https://www.bfmtv.com/politique/gouvernement/video-syndicat-de-police-alliance-recu-au-ministere-de-l-interieur-le-dialogue-va-se-poursuivre-declare-mathieu-lefevre-porte-parole-du-gouvernement_VN-202611180807.html",
+"summary": "Plusieurs dizaines de policiers sont rassemblés, ce mercredi 18 novembre, à Paris à l'appel du syndicat Alliance Police nationale après plus d'un mois et demi de manifestations marquées par les violences.",
+"source": "BFMTV",
+"date": "2026-11-18T17:18:45+00:00",
+"added": "2026-11-18T17:47:17+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Mathieu Lefevre"
+},
+{
+"id": "50362fb91a0bf850",
+"title": "Présidentielle 2027 : un second tour Mélenchon-Le Pen ferait-il fuir les électeurs ? Ce que révèle un nouveau sondage",
+"link": "https://www.rtl.fr/actu/politique/presidentielle-2027-un-second-tour-melenchon-le-pen-ferait-il-fuir-les-electeurs-ce-que-revele-un-nouveau-sondage-7900697763",
+"summary": "Une urne contenant des bulletins de vote pour les municipales, le 15 mars 2026 à Gelos (Pyrénées-Atlantiques).",
+"source": "RTL",
+"date": "2026-11-18T17:18:25+00:00",
+"added": "2026-11-18T17:47:17+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "fa872e10a55d88bf",
+"title": "Xenia Fedorova dénoncée par le Quai d'Orsay, Jean-Luc Mélenchon contre la bombe atomique",
+"link": "https://www.lexpress.fr/secret-defense/xenia-fedorova-denoncee-par-le-quai-dorsay-jean-luc-melenchon-contre-la-bombe-atomique-BXWJPZJD3ZHKHIZRQACS5AZE5U/",
+"summary": "La CIA noyaute l’entourage du président vénézuélien, le Mossad israélien piège les bipeurs du Hezbollah, les espions de Poutine payent des petites mains pour dessiner des étoiles de David dans Paris…",
+"source": "L'Express",
+"date": "2026-11-18T17:17:55+00:00",
+"added": "2026-11-18T17:47:17+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"gouvernement",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "31cf0e3268afb6e4",
+"title": "« Crédits détournés » : Marine Le Pen persiste et signe contre les associations « politisées »",
+"link": "https://www.lanouvellerepublique.fr/a-la-une/credits-detournes-marine-le-pen-persiste-et-signe-contre-les-associations-politisees-1795021929",
+"summary": "Marine Le Pen a redit sa volonté de couper les subventions à des associations « politisées ». © (Photo AFP)\nCritiquée par ses adversaires pour sa volonté de couper les subventions publiques aux associations qu’elle juge « politisées », Marine Le Pen persiste et signe mercredi 18 novembre 2026 contre ce qu’elle…",
+"source": "La Nouvelle République",
+"date": "2026-11-18T17:11:56+00:00",
+"added": "2026-11-18T17:47:17+00:00",
+"official": false,
+"also": [
+"France 24"
+],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "14ecdc1dc839bdea",
+"title": "Boris Vallaud : «Raphaël Glucksmann est le troisième homme de cette présidentielle»",
+"link": "https://www.liberation.fr/politique/elections/boris-vallaud-raphael-glucksmann-est-le-troisieme-homme-de-cette-presidentielle-20261118_LTHCSKKZYNEY5NCUX6CVRSCL54/",
+"summary": "Le président du groupe PS à l’Assemblée nationale défend auprès de «Libé» le début de campagne du candidat choisi par les socialistes et détaille la «nouvelle doctrine» de son parti sur l’immigration.",
+"source": "Libération",
+"date": "2026-11-18T17:09:59+00:00",
+"added": "2026-11-18T17:47:17+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Boris Vallaud"
+},
+{
+"id": "a18f59d6738c10cd",
+"title": "GTA VI : Les Républicains s'amusent avec des images faisant de Bruno Retailleau une star du jeu",
+"link": "https://www.cnews.fr/jeux-video/2026-11-18/gta-vi-les-republicains-samusent-avec-des-images-faisant-de-bruno-retailleau",
+"summary": "A quelques heures de la sortie de GTA VI, Les Républicains se sont amusés d’un montage plaçant Bruno Retailleau, président du parti et candidat à la présidentielle, parmi les personnages du célèbre jeu vidéo.",
+"source": "CNews",
+"date": "2026-11-18T16:58:46+00:00",
+"added": "2026-11-18T17:47:17+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "9ea823c381db2af3",
+"title": "Jean Dujardin envisage « le vote blanc » lors de l’élection présidentielle 2027",
+"link": "https://www.20minutes.fr/arts-stars/people/4263920-20261118-jean-dujardin-envisage-vote-blanc-lors-election-presidentielle-2027?at_medium=display&at_campaign=149",
+"summary": "Jean Dujardin ne se résout pas à choisir un « camp » : invité, dimanche 15 novembre 2026, dans l’émission Tout le monde en parle, sur Radio-Canada, l’acteur oscarisé en 2012 y a en effet décrit une France complètement crispée, coincée entre radicalités et blocages à moins de six mois de l’élection présidentielle de…",
+"source": "20 Minutes",
+"date": "2026-11-18T16:55:51+00:00",
+"added": "2026-11-18T17:47:17+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Jean Dujardin"
+},
+{
+"id": "97f9772c355d58f2",
+"title": "Présidentielle 2027 : comment Marine Le Pen s'est convertie à la retraite par capitalisation",
+"link": "https://www.lesechos.fr/elections/presidentielle/presidentielle-2027-comment-marine-le-pen-sest-convertie-a-la-retraite-par-capitalisation-2263374",
+"summary": "",
+"source": "Les Echos",
+"date": "2026-11-18T16:55:50+00:00",
+"added": "2026-11-18T17:47:17+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "694c62d1694f6fdf",
+"title": "Haute-Loire. Charlotte Wauquiez, nouvelle présidente du Festival de la Chaise-Dieu",
+"link": "https://www.leprogres.fr/culture-loisirs/2026/11/18/charlotte-wauquiez-nouvelle-presidente-du-festival-de-la-chaise-dieu",
+"summary": "Gérard Roche lors de la présentation de la 60 e édition du festival.",
+"source": "Le Progrès",
+"date": "2026-11-18T16:52:30+00:00",
+"added": "2026-11-18T17:47:17+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "9051e1d4f969400f",
+"title": "Présidentielle 2027 : Manon Aubry et Agnès Pannier-Runacher débattent dans «Chez Pol l’émission»",
+"link": "https://www.liberation.fr/politique/presidentielle-2027-manon-aubry-et-agnes-pannier-runacher-debattent-dans-chez-pol-lemission-20261118_JKLP27J4OZBK5C3QMAE5USQJ4A/",
+"summary": "La coresponsable du programme de Gabriel Attal et la députée européenne insoumise débattent de l’actualité de la campagne présidentielle et répondent à vos questions, ce jeudi 19 novembre à partir de 10 heures en direct vidéo.",
+"source": "Libération",
+"date": "2026-11-18T16:46:20+00:00",
+"added": "2026-11-18T17:47:17+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement",
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "98e312f96895d55f",
+"title": "La primaire de la droite et du centre \"est en train de faire pschitt\", affirme Nathalie Loiseau, porte-parole de la campagne d'Édouard Philippe",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-la-primaire-de-la-droite-et-du-centre-est-en-train-de-faire-pschitt-affirme-nathalie-loiseau-porte-parole-de-la-campagne-d-edouard-philippe_VN-202611180763.html",
+"summary": "Vers une primaire de la droite et du centre? Bruno Retailleau a assuré que sa délégation a trouvé un \"consensus\" avec celles de Gabriel Attal et de David Lisnard, bien que le dernier ait assuré ne pas être certain que la primaire se tiendra.",
+"source": "BFMTV",
+"date": "2026-11-18T16:45:25+00:00",
+"added": "2026-11-18T17:47:17+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Nathalie Loiseau"
+},
+{
+"id": "51220481db42260f",
+"title": "L'EFFET GRABLY - David Lisnard, champion de la com' et des réseaux sociaux",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-l-effet-grably-david-lisnard-champion-de-la-com-et-des-reseaux-sociaux_VN-202611180761.html",
+"summary": "Le maire de Cannes et candidat Nouvelle Énergie à la présidentielle \"croit à la compétition et pas à la compromission\", tout en jugeant précipitée l'annonce d'un accord au centre et à droite pour la primaire.",
+"source": "BFMTV",
+"date": "2026-11-18T16:42:49+00:00",
+"added": "2026-11-18T17:47:17+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "17017ff0a2ba68a3",
+"title": "Présidentielle 2027 : pressé par Lisnard, Édouard Philippe se place sous le signe de la « rupture",
+"link": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-presse-par-lisnard-edouard-philippe-se-place-sous-le-signe-de-la-rupture-18-11-2026-MUJNUL2STFAPNDLBTCB3OSISSE.php",
+"summary": "",
+"source": "Le Parisien",
+"date": "2026-11-18T16:42:36+00:00",
+"added": "2026-11-18T17:47:17+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "0413224b4dc44639",
+"title": "Présidentielle 2027 : le maire de Niort dans l’équipe de campagne du candidat Edouard Philippe",
+"link": "https://www.ouest-france.fr/elections/presidentielle/presidentielle-2027-le-maire-de-niort-dans-lequipe-de-campagne-du-candidat-edouard-philippe-bb8d4d74-e369-11f1-9a72-32f9104dab1b",
+"summary": "",
+"source": "Ouest-France",
+"date": "2026-11-18T16:39:55+00:00",
+"added": "2026-11-18T17:47:17+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "4fef42991c1c8b05",
+"title": "Présidentielle : Lisnard souffle le chaud et le froid sur la primaire",
+"link": "https://www.france24.com/fr/info-en-continu/20261118-pr%C3%A9sidentielle-lisnard-souffle-le-chaud-et-le-froid-sur-la-primaire",
+"summary": "",
+"source": "France 24",
+"date": "2026-11-18T16:39:28+00:00",
+"added": "2026-11-18T17:47:17+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "6014f61e67d886cd",
+"title": "Retraites : l’expérience de Giorgia Meloni éclaire les limites du projet de Marine Le Pen",
+"link": "https://www.lopinion.fr/international/retraites-lexperience-de-giorgia-meloni-eclaire-les-limites-du-projet-de-marine-le-pen",
+"summary": "Comme en France, l'âge de la retraite à taux plein automatique est de 67 ans en Italie. Dans la botte, il est possible de partir plus tôt sous certaines conditions, mais celles-ci ont été durcies.",
+"source": "L'Opinion",
+"date": "2026-11-18T16:36:07+00:00",
+"added": "2026-11-18T17:47:17+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "d395796c5e56c46d",
+"title": "Vif échange à l’Assemblée entre Laurent Nuñez et le député LFI Pierre-Yves Cadalen : « La chienlit que vous organisez, les Français ne vous la pardonneront jamais »",
+"link": "https://www.lemonde.fr/politique/article/2026/11/18/vif-echange-a-l-assemblee-entre-laurent-nunez-et-le-depute-lfi-pierre-yves-cadalen-la-chienlit-que-vous-organisez-les-francais-ne-vous-la-pardonneront-jamais_6813168_823448.html",
+"summary": "Le terme « chienlit » avait été utilisé par Charles de Gaulle pour qualifier les mouvements étudiants de Mai 68.",
+"source": "Le Monde",
+"date": "2026-11-18T16:33:52+00:00",
+"added": "2026-11-18T17:47:17+00:00",
+"official": false,
+"also": [
+"Sud Ouest"
+],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement",
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Pierre-Yves Cadalen"
+},
+{
+"id": "88b20608ddd9999b",
+"title": "« Du collectivisme dément, sans rationalité » : les coulisses du dîner aigre-doux entre Jean-Luc Mélenchon et les grands patrons",
+"link": "https://www.lesechos.fr/elections/presidentielle/du-collectivisme-dement-sans-rationalite-les-coulisses-du-diner-aigre-doux-entre-jean-luc-melenchon-et-les-grands-patrons-2263352",
+"summary": "",
+"source": "Les Echos",
+"date": "2026-11-18T16:31:00+00:00",
+"added": "2026-11-18T17:47:17+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "c52acabc95d88399",
+"title": "Régularisation des sans-papiers par le travail: \"C'est quelque chose qui est juste et utile pour le pays\", dit le député PS Paul Christophle",
+"link": "https://www.bfmtv.com/politique/video-regularisation-des-sans-papiers-par-le-travail-c-est-quelque-chose-qui-est-juste-et-utile-pour-le-pays-dit-le-depute-ps-paul-christophle_VN-202611180753.html",
+"summary": "Ce jeudi 19 novembre sera discuté à l’Assemblée nationale une proposition de loi visant à accorder de plein droit une carte de séjour \"salarié\" aux étrangers.",
+"source": "BFMTV",
+"date": "2026-11-18T16:28:36+00:00",
+"added": "2026-11-18T17:47:17+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement",
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Paul Christophle"
+},
+{
+"id": "b0f1a84f570ac3f7",
+"title": "Régularisation des travailleurs sans-papiers: \"Toutes les cartes sont sur la table\", assure le député Paul Christophle",
+"link": "https://www.bfmtv.com/politique/video-regularisation-des-travailleurs-sans-papiers-toutes-les-cartes-sont-sur-la-table-assure-le-depute-paul-christophle_VN-202611180750.html",
+"summary": "Ce jeudi 19 novembre sera discuté à l’Assemblée nationale une proposition de loi visant à accorder de plein droit une carte de séjour \"salarié\" aux étrangers.",
+"source": "BFMTV",
+"date": "2026-11-18T16:26:58+00:00",
+"added": "2026-11-18T17:47:17+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Paul Christophle"
+},
+{
+"id": "b2c9c8447d41e081",
+"title": "\"Il faut simplifier les démarches\": le PS va défendre une proposition de loi pour régulariser 300.000 travailleurs sans-papiers à l'Assemblée nationale",
+"link": "https://www.bfmtv.com/politique/video-il-faut-simplifier-les-demarches-le-ps-va-defendre-une-proposition-de-loi-pour-regulariser-300-000-travailleurs-sans-papiers-a-l-assemblee-nationale_VN-202611180746.html",
+"summary": "Ce jeudi 19 novembre sera discuté à l’Assemblée nationale une proposition de loi visant à accorder de plein droit une carte de séjour \"salarié\" aux étrangers.",
+"source": "BFMTV",
+"date": "2026-11-18T16:22:14+00:00",
+"added": "2026-11-18T17:47:17+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "55426763405ff964",
+"title": "Présidentielles 2027 : les sept mesures économiques de « rupture » d'Edouard Philippe",
+"link": "https://www.lesechos.fr/politique-societe/politique/presidentielles-2027-les-sept-mesures-economiques-de-rupture-dedouard-philippe-2263350",
+"summary": "",
+"source": "Les Echos",
+"date": "2026-11-18T16:22:09+00:00",
+"added": "2026-11-18T17:47:17+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "68e05120336c0f7a",
+"title": "Présidentielle 2027 : la participation d’Éric Zemmour « flinguerait la primaire », estime Bruno Retailleau",
+"link": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-la-participation-deric-zemmour-flinguerait-la-primaire-estime-bruno-retailleau",
+"summary": "Mardi, une première réunion de préparation sur la mise en place d’une éventuelle primaire de la droite et du centre a réuni les équipes de campagne de Gabriel Attal (Renaissance), de Bruno Retailleau et de David Lisnard (Nouvelle Énergie).",
+"source": "Public Sénat",
+"date": "2026-11-18T16:21:49+00:00",
+"added": "2026-11-18T17:47:17+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Bruno Retailleau"
+},
+{
+"id": "b5b13e2e53f5a056",
+"title": "Après un début de campagne laborieux, le camp Glucksmann se met en ordre de bataille, à gauche toute",
+"link": "https://www.liberation.fr/politique/apres-un-debut-de-campagne-brouillon-le-camp-glucksmann-veut-se-mettre-au-propre-20261118_RRBWQLM23NBIHMYM7MFM2TP5GE/",
+"summary": "",
+"source": "Libération",
+"date": "2026-11-18T16:17:00+00:00",
+"added": "2026-11-18T17:47:17+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "12e28219672dba59",
+"title": "Présidentielle 2027 : l'aide à l'Ukraine, nouvelle ligne de fracture entre les candidats",
+"link": "https://www.lamontagne.fr/paris-75000/actualites/presidentielle-2027-l-aide-a-l-ukraine-nouvelle-ligne-de-fracture-entre-les-candidats_15085438/",
+"summary": "Un acteur, des cadres du ministère de l’Intérieur et une vedette du JT : un réseau de 3-MMC, la drogue du chemsex, démantelé\n“J’ai pété un câble” : d’un billet SNCF de deux euros non composté à la vente de sa maison, la descente aux enfers d’Arnaud\nJusqu’à 1,50 m en montagne : Alpes, Massif central, Jura...",
+"source": "La Montagne",
+"date": "2026-11-18T16:17:00+00:00",
+"added": "2026-11-18T17:47:17+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"gouvernement",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "e416d9984d73ed94",
+"title": "Même la campagne présidentielle n'échappe pas au phénomène GTA 6",
+"link": "https://www.lopinion.fr/politique/meme-la-campagne-presidentielle-nechappe-pas-au-phenomene-gta-6",
+"summary": "Un monde s’est découvert à lui. Un électorat aussi, plutôt hostile au départ. Entre Jean-Luc Mélenchon et la communauté des gamers, ça a mal démarré.",
+"source": "L'Opinion",
+"date": "2026-11-18T16:10:35+00:00",
+"added": "2026-11-18T17:47:17+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "a57dc5f6be191805",
+"title": "Les présidents de Départements, dont la Lozère, reçus par le Premier ministre Sébastien Lecornu, à Matignon",
+"link": "https://www.midilibre.fr/2026/11/18/les-presidents-de-departements-dont-la-lozere-recus-par-le-premier-ministre-sebastien-lecornu-a-matignon-13659281.php",
+"summary": "Plusieurs avancées ont été obtenues lundi 16 novembre 2026, à Matignon, qui profiteront à la Lozère.",
+"source": "Midi Libre",
+"date": "2026-11-18T16:10:00+00:00",
+"added": "2026-11-18T17:47:17+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "8a6db27522b34862",
+"title": "Exonération d’impôt des moins de 30 ans : quand Marine Le Pen veut aider les 1 % les plus aisés",
+"link": "https://www.liberation.fr/checknews/exoneration-dimpot-des-moins-de-30-ans-quand-marine-le-pen-veut-aider-les-1-les-plus-aises-20261118_BOQZS7MJMNA4JAN6YXUYOEU76M/",
+"summary": "",
+"source": "Libération",
+"date": "2026-11-18T16:04:42+00:00",
+"added": "2026-11-18T17:47:17+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": "Marine Le Pen"
+},
+{
+"id": "2f65383a3787b270",
+"title": "La présidentielle de 2027 et ses enjeux : l’école victime de disparités persistantes",
+"link": "https://www.lemonde.fr/ecole-primaire-et-secondaire/article/2026/11/18/la-presidentielle-de-2027-et-ses-enjeux-l-ecole-victime-de-disparites-persistantes_6813160_1473688.html",
+"summary": "Entre fermetures de classes et réajustements structurels, les inégalités territoriales du système scolaire pourraient se voir renforcées.",
+"source": "Le Monde",
+"date": "2026-11-18T16:00:08+00:00",
+"added": "2026-11-18T17:47:17+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "7de7076be17e4618",
+"title": "Chèque énergie : la date pour le demander sera avancée, annonce le ministre de l'Economie",
+"link": "https://www.europe1.fr/economie/cheque-energie-la-date-pour-le-demander-sera-avancee-annonce-le-ministre-de-leconomie-1239648",
+"summary": "Le ministre de l'Economie, Roland Lescure, a annoncé mercredi matin que la date d'ouverture du guichet pour réclamer le chèque énergie est avancée en 2027.",
+"source": "Europe 1",
+"date": "2026-11-18T16:00:00+00:00",
+"added": "2026-11-18T17:47:17+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [
+"Annonce"
+],
+"speaker": ""
+},
+{
+"id": "12b539194e8611e8",
+"title": "Journal d'Haïti et des Amériques - États-Unis : les démocrates auront finalement 56 sièges de sénateurs",
+"link": "https://www.rfi.fr/fr/podcasts/journal-d-ha%C3%AFti-et-des-am%C3%A9riques/20261118-%C3%A9tats-unis-les-d%C3%A9mocrates-auront-finalement-56-si%C3%A8ges-de-s%C3%A9nateurs",
+"summary": "Aux États-Unis, deux semaines après les élections de mi-mandat, on connaît enfin la composition du Sénat. L'Alaska a publié, ce mardi, ses résultats et c'est la démocrate Mary Peltola qui l'a emporté face au sortant, le républicain Dan Sullivan.",
+"source": "RFI",
+"date": "2026-11-18T15:54:32+00:00",
+"added": "2026-11-18T17:47:17+00:00",
+"official": false,
+"also": [],
+"base": [
+"parlement"
+],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "7a27d7edfa3b2bed",
+"title": "Présidentielle 2027. La championne olympique de boxe Estelle Mossely rejoint la campagne d’Edouard Philippe",
+"link": "https://www.ouest-france.fr/sport/boxe/presidentielle-2027-la-championne-olympique-de-boxe-estelle-mossely-rejoint-la-campagne-dedouard-philippe-f9df1e64-e363-11f1-9a72-32f9104dab1b",
+"summary": "",
+"source": "Ouest-France",
+"date": "2026-11-18T15:54:18+00:00",
+"added": "2026-11-18T17:47:17+00:00",
+"official": false,
+"also": [
+"franceinfo"
+],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "5646e0f9bd71400f",
+"title": "SONDAGE BFMTV. Présidentielle: le pouvoir d’achat, priorité d’action n°1 adressée au prochain président de la République, pour près de 6 Français sur 10",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/sondage-bfmtv-presidentielle-le-pouvoir-d-achat-priorite-d-action-n-1-adressee-au-prochain-president-de-la-republique-pour-pres-de-6-francais-sur-10_AN-202611180720.html",
+"summary": "Selon un sondage Elabe pour BFMTV publié ce mercredi 18 novembre, 58% des Français placent le pouvoir d'achat parmi les priorités du prochain gouvernement, devant la santé, la sécurité et la dette publique.",
+"source": "BFMTV",
+"date": "2026-11-18T15:50:00+00:00",
+"added": "2026-11-18T17:47:17+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "28a3791a95c04f08",
+"title": "Raphaël Glucksmann",
+"link": "https://www.bfmtv.com/politique/raphael-glucksmann_DN-202405270322.html",
+"summary": "Raphaël Glucksmann est le cofondateur de Place publique, un mouvement politique proche du Parti socialiste. Il a ainsi mené la tête de liste aux européennes de son parti et du PS en 2019 et 2024.",
+"source": "BFMTV",
+"date": "2026-11-18T15:48:30+00:00",
+"added": "2026-11-18T17:47:17+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "c812f5c487b0803f",
+"title": "Présidentielle 2027 : \"Un besoin de renouveau et une lassitude vis-à-vis des politiciens classiques\", analyse le politologue Bruno Cautrès",
+"link": "https://www.tf1info.fr/politique/elections/presidentielle/presidentielle-2027-un-besoin-de-renouveau-et-une-lassitude-vis-a-vis-des-politiciens-classiques-analyse-le-politologue-bruno-cautres-2476597.html",
+"summary": "Une entrée fracassante dans l'arène politique. Le quintuple champion olympique de judo Teddy Riner a créé la surprise en annonçant la semaine dernière sa candidature à l'élection présidentielle.",
+"source": "TF1 Info",
+"date": "2026-11-18T15:43:57+00:00",
+"added": "2026-11-18T17:47:17+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": ""
+},
+{
 "id": "e88f883bf96d903e",
 "title": "Saisi à plus de 100 reprises, le Défenseur des droits appelle à se \"reposer la question\" de la \"façon dont on maintient l'ordre\"",
 "link": "https://lcp.fr/actualites/saisi-a-plus-de-100-reprises-le-defenseur-des-droits-appelle-a-se-reposer-la-question-de",
@@ -86,7 +925,9 @@
 "date": "2026-11-18T15:25:40+00:00",
 "added": "2026-11-18T15:45:19+00:00",
 "official": false,
-"also": [],
+"also": [
+"BFMTV"
+],
 "base": [
 "partis"
 ],
@@ -245,6 +1086,26 @@
 "speaker": ""
 },
 {
+"id": "6d82a41c53f26223",
+"title": "Présidentielle 2027 : Jupiter, ce film qui nous rappelle que les Français éliront le détenteur des codes nucléaires",
+"link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-jupiter-ce-film-qui-nous-rappelle-que-les-francais-eliront-le-detenteur-des-codes-nucleaires-20261118",
+"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
+"source": "Le Figaro",
+"date": "2026-11-18T15:00:00+00:00",
+"added": "2026-11-18T17:47:17+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "8f38e86728ac7d69",
 "title": "Présidentielle 2027 : l’abstention estimée à 38 % en cas de second tour entre Jean-Luc Mélenchon et Marine Le Pen, selon un sondage",
 "link": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-labstention-estimee-a-38-en-cas-de-second-tour-entre-jean-luc-melenchon-et-marine-le-pen-selon-un-sondage-18-11-2026-NN4RKQ2WTBF6HFCMTIWPK7XNKA.php",
@@ -254,7 +1115,8 @@
 "added": "2026-11-18T15:45:19+00:00",
 "official": false,
 "also": [
-"Europe 1"
+"Europe 1",
+"La Provence"
 ],
 "base": [
 "partis"
@@ -317,7 +1179,9 @@
 "date": "2026-11-18T14:41:31+00:00",
 "added": "2026-11-18T15:45:19+00:00",
 "official": false,
-"also": [],
+"also": [
+"Libération"
+],
 "base": [
 "parlement"
 ],
@@ -461,7 +1325,9 @@
 "date": "2026-11-18T14:06:02+00:00",
 "added": "2026-11-18T15:45:19+00:00",
 "official": false,
-"also": [],
+"also": [
+"Le Parisien"
+],
 "base": [
 "partis"
 ],
@@ -583,7 +1449,9 @@
 "date": "2026-11-18T13:56:19+00:00",
 "added": "2026-11-18T15:45:19+00:00",
 "official": false,
-"also": [],
+"also": [
+"Ouest-France"
+],
 "base": [
 "presidentielle"
 ],
@@ -694,7 +1562,9 @@
 "date": "2026-11-18T13:44:34+00:00",
 "added": "2026-11-18T14:06:09+00:00",
 "official": false,
-"also": [],
+"also": [
+"Les Echos"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -833,7 +1703,9 @@
 "date": "2026-11-18T13:15:11+00:00",
 "added": "2026-11-18T14:06:09+00:00",
 "official": false,
-"also": [],
+"also": [
+"LCP"
+],
 "base": [
 "presidentielle"
 ],
@@ -1471,7 +2343,8 @@
 "official": false,
 "also": [
 "franceinfo",
-"Franceinfo"
+"Franceinfo",
+"La Croix"
 ],
 "base": [
 "partis"
@@ -1682,7 +2555,8 @@
 "added": "2026-11-18T11:48:08+00:00",
 "official": false,
 "also": [
-"France 24"
+"France 24",
+"RFI"
 ],
 "base": [
 "presidentielle"
@@ -2482,7 +3356,8 @@
 "official": false,
 "also": [
 "RTL",
-"BFMTV"
+"BFMTV",
+"Sud Ouest"
 ],
 "base": [
 "partis"
@@ -3833,7 +4708,9 @@
 "date": "2026-11-18T01:26:40+00:00",
 "added": "2026-11-18T06:41:02+00:00",
 "official": false,
-"also": [],
+"also": [
+"Europe 1"
+],
 "base": [
 "parlement"
 ],
@@ -4539,7 +5416,9 @@
 "date": "2026-11-17T19:53:00+00:00",
 "added": "2026-11-17T21:40:04+00:00",
 "official": false,
-"also": [],
+"also": [
+"Le Monde"
+],
 "base": [
 "presidentielle"
 ],
@@ -8106,7 +8985,8 @@
 "added": "2026-11-18T06:41:02+00:00",
 "official": false,
 "also": [
-"20 Minutes"
+"20 Minutes",
+"France 24"
 ],
 "base": [
 "partis"
@@ -8415,6 +9295,27 @@
 "Citation"
 ],
 "speaker": "Manuel Bompard"
+},
+{
+"id": "47b7cb1fa19cd736",
+"title": "Présidentielle : aux Restos du cœur, les candidats confrontés à leurs engagements contre la pauvreté",
+"link": "https://www.mediapart.fr/journal/france/171126/presidentielle-aux-restos-du-coeur-les-candidats-confrontes-leurs-engagements-contre-la-pauvrete",
+"summary": "À l’occasion d’un débat organisé dans un entrepôt des Restos du cœur, Marine Le Pen, Jean-Luc Mélenchon, Raphaël Glucksmann, Bruno Retailleau et Gabriel Attal ont confronté leurs visions antagonistes de la solidarité.",
+"source": "Mediapart",
+"date": "2026-11-17T08:40:08+00:00",
+"added": "2026-11-18T17:47:17+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
 },
 {
 "id": "c8b9a7a12f66ef40",
@@ -9248,7 +10149,8 @@
 "Le Télégramme",
 "La Voix du Nord",
 "LCP",
-"Franceinfo"
+"Franceinfo",
+"Le Dauphiné Libéré"
 ],
 "base": [],
 "filtered": true,
@@ -11425,7 +12327,8 @@
 "official": false,
 "also": [
 "Ouest-France",
-"La Croix"
+"La Croix",
+"Valeurs actuelles"
 ],
 "base": [
 "partis"
@@ -15354,480 +16257,6 @@
 ],
 "filtered": true,
 "topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "17a0d1478a4a5657",
-"title": "Sondage 2027 : Riner sans programme... mais quasi à 5% ! - 15/11",
-"link": "https://www.bfmtv.com/replay-emissions/hammett-week-end/video-sondage-2027-riner-sans-programme-mais-quasi-a-5-15-11_VN-202611150333.html",
-"summary": "VIDÉO - Retrouvez le replay de Hammett Week-end sur BFMTV.",
-"source": "BFMTV",
-"date": "2026-11-15T17:21:51+00:00",
-"added": "2026-11-15T19:32:58+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "719f58a5523e4202",
-"title": "« Fractures françaises » : un paysage politique clivé, dans lequel l’élection présidentielle n’est plus vue comme une solution",
-"link": "https://www.lemonde.fr/politique/article/2026/11/15/fractures-francaises-un-paysage-politique-clive-dans-lequel-l-election-presidentielle-n-est-plus-vue-comme-une-solution_6811038_823448.html",
-"summary": "Réalisée par Ipsos BVA-CESI Ecole d’ingénieurs pour « Le Monde », le Cevipof, la Fondation Jean Jaurès et l’Institut Montaigne, cette grande enquête annuelle sur les valeurs des Français donne un instantané précieux de l’humeur politique du pays à l’approche du scrutin.",
-"source": "Le Monde",
-"date": "2026-11-15T17:20:23+00:00",
-"added": "2026-11-15T17:25:43+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "16e5c0a7089be2b0",
-"title": "Présidentielle : « Juppé 2016 », la hantise derrière le refus d’Édouard Philippe de participer à la primaire ?",
-"link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-juppe-2016-la-hantise-derriere-le-refus-d-edouard-philippe-de-participer-a-la-primaire-20261115",
-"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
-"source": "Le Figaro",
-"date": "2026-11-15T17:20:00+00:00",
-"added": "2026-11-16T07:19:23+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "45118001d2970e68",
-"title": "Budget 2027 : les sénateurs votent en faveur d’une hausse des taxes sur les boissons Vody, sucrées et ultra-alcoolisées",
-"link": "https://www.ouest-france.fr/economie/budget-collectivites-etat/budget-2027-les-senateurs-votent-en-faveur-dune-hausse-des-taxes-sur-les-boissons-vody-sucrees-et-ultra-alcoolisees-ad84d6b6-e102-11f1-b029-43a761592972",
-"summary": "",
-"source": "Ouest-France",
-"date": "2026-11-15T17:15:28+00:00",
-"added": "2026-11-16T21:38:27+00:00",
-"official": false,
-"also": [],
-"base": [
-"parlement"
-],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "b24ad6a735094791",
-"title": "Marine Le Pen rencontre l’ambassadeur d’Ukraine sous le regard de Moscou",
-"link": "https://www.mediapart.fr/journal/politique/151126/marine-le-pen-rencontre-l-ambassadeur-d-ukraine-sous-le-regard-de-moscou",
-"summary": "La candidate du RN doit échanger avec le représentant de Kyiv à Paris, lundi 16 novembre, alors qu’elle prévoit de « couper le robinet » de l’aide à l’Ukraine si elle arrive au pouvoir en 2027.",
-"source": "Mediapart",
-"date": "2026-11-15T17:10:17+00:00",
-"added": "2026-11-15T17:25:43+00:00",
-"official": false,
-"also": [
-"La Croix",
-"RMC",
-"BFMTV"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "8cc3778a19890f35",
-"title": "Permis gratuit, APL, climatisation des écoles: Marine Le Pen passe son \"Brevet présidentiel\"",
-"link": "https://lcp.fr/actualites/permis-gratuit-apl-climatisation-des-ecoles-marine-le-pen-passe-son-brevet-presidentiel",
-"summary": "Double nationalité, mariage pour tous, permis gratuit, santé mentale… Dans \"Brevet présidentiel\", nouveau programme de LCP diffusé sur le numérique, Marine Le Pen répond aux questions de Noa, 15 ans, lycéen à Bordeaux et fondateur du compte Instagram @LeSourire_Politique.",
-"source": "LCP",
-"date": "2026-11-15T17:07:46+00:00",
-"added": "2026-11-15T19:32:58+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "56be81226947e131",
-"title": "\"J'ai commis une erreur\": sur LCP, Marine Le Pen regrette avoir défendu la suppression de la binationalité",
-"link": "https://lcp.fr/actualites/j-ai-commis-une-erreur-sur-lcp-marine-le-pen-regrette-avoir-defendu-la-suppression-de-la",
-"summary": "La candidate du Rassemblement national à l'élection présidentielle avait défendu la suppression de la binationalité en 2012 et 2027.",
-"source": "LCP",
-"date": "2026-11-15T17:05:14+00:00",
-"added": "2026-11-15T17:25:43+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "Marine Le Pen"
-},
-{
-"id": "1f3c57c323f5c7da",
-"title": "Les aciers de Saint-Chély-d’Apcher vont représenter la Lozère au palais de l’Élysée",
-"link": "https://www.midilibre.fr/2026/11/15/les-aciers-de-saint-chely-dapcher-vont-representer-la-lozere-au-palais-de-lelysee-13651260.php",
-"summary": "Sélectionnée parmi 104 réalisations françaises, la production d’ArcelorMittal sera exposée les 21 et 22 novembre 2026.",
-"source": "Midi Libre",
-"date": "2026-11-15T17:01:00+00:00",
-"added": "2026-11-15T21:25:49+00:00",
-"official": false,
-"also": [],
-"base": [
-"elysee"
-],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "66c499781484d779",
-"title": "\"L'avance de Mélenchon est bien plus fragile qu'il n'y paraît\" : l'analyse du spécialiste de l'opinion publique Philippe Mongrain",
-"link": "https://www.lexpress.fr/idees-et-debats/lavance-de-melenchon-est-bien-plus-fragile-quil-ny-parait-lanalyse-du-specialiste-de-lopinion-SUS7B5A4NBDCHDYVT2RJGGRZMY/",
-"summary": "Un duel entre Marine Le Pen et Jean-Luc Mélenchon au second tour de la présidentielle ? A en croire certains commentateurs et les sondages, l'affaire serait quasiment pliée.",
-"source": "L'Express",
-"date": "2026-11-15T17:00:00+00:00",
-"added": "2026-11-15T17:25:43+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": ""
-},
-{
-"id": "e74a88876def8cd4",
-"title": "Le député LFI Éric Coquerel invité de BFMTV - 15/11",
-"link": "https://www.bfmtv.com/replay-emissions/hammett-week-end/video-le-depute-lfi-eric-coquerel-invite-de-bfmtv-15-11_VN-202611150325.html",
-"summary": "VIDÉO - Retrouvez le replay de Hammett Week-end sur BFMTV.",
-"source": "BFMTV",
-"date": "2026-11-15T16:52:31+00:00",
-"added": "2026-11-15T17:25:43+00:00",
-"official": false,
-"also": [],
-"base": [
-"matinales"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"parlement",
-"partis"
-],
-"natures": [
-"Interview"
-],
-"speaker": ""
-},
-{
-"id": "3c34eb1619075245",
-"title": "Présidentielle, mobilisations... L'interview d'Éric Coquerel, député LFI de Seine-Saint-Denis",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-mobilisations-l-interview-d-eric-coquerel-depute-lfi-de-seine-saint-denis_VN-202611150323.html",
-"summary": "Éric Coquerel, député LFI de Seine-Saint-Denis et président de la commission des Finances à l'Assemblée était l'invité de Julie Hammett ce dimanche 15 novembre 2026.",
-"source": "BFMTV",
-"date": "2026-11-15T16:49:15+00:00",
-"added": "2026-11-15T17:25:43+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"matinales",
-"parlement",
-"partis",
-"presidentielle"
-],
-"natures": [
-"Interview"
-],
-"speaker": ""
-},
-{
-"id": "fab9601d7d42a768",
-"title": "Marine Le Pen est-elle éligible ? La question suscite un débat inédit dans la magistrature",
-"link": "https://www.mediapart.fr/journal/france/151126/marine-le-pen-est-elle-eligible-la-question-suscite-un-debat-inedit-dans-la-magistrature",
-"summary": "Depuis qu’elle a formé un pourvoi contre sa condamnation pour « détournement de fonds publics », la candidate d’extrême droite est-elle redevenue inéligible ou peut-elle se présenter à la présidentielle, comme elle l'affirme ?",
-"source": "Mediapart",
-"date": "2026-11-15T16:45:16+00:00",
-"added": "2026-11-15T17:25:43+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "8416f513b9122c97",
-"title": "Présidentielle : la campagne pop-corn",
-"link": "https://www.lesechos.fr/elections/analyses/presidentielle-la-campagne-pop-corn-2262710",
-"summary": "",
-"source": "Les Echos",
-"date": "2026-11-15T16:45:09+00:00",
-"added": "2026-11-15T17:25:43+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "d0e4be0bc4999fc8",
-"title": "Le secrétaire général LR, Othman Nasrou sera en visite à Pontivy, jeudi 19 novembre 2026",
-"link": "https://www.ouest-france.fr/politique/les-republicains/le-secretaire-general-lr-othman-nasrou-sera-en-visite-a-pontivy-jeudi-19-novembre-2026-515c04e6-e110-11f1-b029-43a761592972",
-"summary": "",
-"source": "Ouest-France",
-"date": "2026-11-15T16:30:17+00:00",
-"added": "2026-11-15T17:25:43+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "acb39ad077beb726",
-"title": "Jean-Luc Mélenchon, candidat LFI à la présidentielle: au second tour, \"on va renverser la table\", déclare Éric Coquerel, député LFI",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-jean-luc-melenchon-candidat-lfi-a-la-presidentielle-au-second-tour-on-va-renverser-la-table-declare-eric-coquerel-depute-lfi_VN-202611150316.html",
-"summary": "Chaque jour, les sondages consolident un peu plus l'hypothèse d'un second tour entre Marine Le Pen et Jean-Luc Mélenchon.",
-"source": "BFMTV",
-"date": "2026-11-15T16:30:15+00:00",
-"added": "2026-11-15T17:25:43+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement",
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Éric Coquerel"
-},
-{
-"id": "833f3772ffd28921",
-"title": "Présidentielle 2027 : Édouard Philippe d’accord pour une réunion autour de Gérard Larcher, mais pas pour parler d’une primaire",
-"link": "https://www.lanouvellerepublique.fr/a-la-une/presidentielle-2027-edouard-philippe-d-accord-pour-une-reunion-autour-de-gerard-larcher-mais-pas-pour-parler-d-une-primaire-1794759106",
-"summary": "Dans les sondages, Édouard Philippe (Horizons) est désormais distancé à la fois par Marine Le Pen et Jean-Luc Mélenchon. © (Photo AFP)\nÉdouard Philippe s’est dit prêt, dimanche 15 novembre 2026, à participer à la réunion des candidats à la présidentielle de la droite et du centre qu’entend organiser le président du…",
-"source": "La Nouvelle République",
-"date": "2026-11-15T16:11:35+00:00",
-"added": "2026-11-15T17:25:43+00:00",
-"official": false,
-"also": [
-"Le Télégramme",
-"Midi Libre",
-"Le Figaro",
-"France 24",
-"franceinfo",
-"Franceinfo"
-],
-"base": [
-"parlement"
-],
-"filtered": true,
-"topics": [
-"parlement",
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "ac627fb8c1832200",
-"title": "Elections législatives : le chantier sans cesse repoussé du redécoupage électoral",
-"link": "https://www.lemonde.fr/politique/article/2026/11/15/elections-legislatives-le-chantier-sans-cesse-repousse-du-redecoupage-electoral_6811034_823448.html",
-"summary": "Si des élections législatives sont organisées en 2027 après la présidentielle, elles reposeront sur une carte électorale qui n’a plus été retouchée depuis 2009.",
-"source": "Le Monde",
-"date": "2026-11-15T16:09:00+00:00",
-"added": "2026-11-15T17:25:43+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "2543574826a65483",
-"title": "Colère lycéenne et étudiante: \"Il y a beaucoup de communication mais concrètement il n’y a rien à la hauteur des revendications\", dénonce Éric Coquerel, député LFI",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-colere-lyceenne-et-etudiante-il-y-a-beaucoup-de-communication-mais-concretement-il-n-y-a-rien-a-la-hauteur-des-revendications-denonce-eric-coquerel-depute-lfi_VN-202611150304.html",
-"summary": "Chaque jour, les sondages consolident un peu plus l'hypothèse d'un second tour entre Marine Le Pen et Jean-Luc Mélenchon.",
-"source": "BFMTV",
-"date": "2026-11-15T16:03:57+00:00",
-"added": "2026-11-15T17:25:43+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement",
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "Éric Coquerel"
-},
-{
-"id": "109e9143b86be4c4",
-"title": "Présidentielle 2027 : Edouard Philippe accepte l’invitation de Gérard Larcher à une discussion des candidats de la droite et du centre, mais refuse toujours une primaire",
-"link": "https://www.lemonde.fr/politique/article/2026/11/15/presidentielle-2027-edouard-philippe-accepte-l-invitation-de-gerard-larcher-a-une-discussion-des-candidats-de-la-droite-et-du-centre-mais-refuse-toujours-une-primaire_6811029_823448.html",
-"summary": "Le président du Sénat, Gérard Larcher, a proposé samedi aux candidats de la droite et du centre de se réunir pour trancher sur une « méthode de départage » permettant d’aboutir à une candidature unique « au début de l’année [2027] ».",
-"source": "Le Monde",
-"date": "2026-11-15T16:00:04+00:00",
-"added": "2026-11-15T17:25:43+00:00",
-"official": false,
-"also": [
-"BFMTV",
-"Le HuffPost",
-"RFI",
-"La Croix"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "49146270e031304e",
-"title": "Présidentielle 2027 : comment Gabriel Attal et Bruno Retailleau négocient leur retrait de la course",
-"link": "https://www.lopinion.fr/politique/presidentielle-2027-comment-gabriel-attal-et-bruno-retailleau-negocient-leur-retrait-de-la-course",
-"summary": "C’est par où la sortie ? Coincés dans une zone sondagière sans vents porteurs, Gabriel Attal et Bruno Retailleau cherchent l’issue de secours.",
-"source": "L'Opinion",
-"date": "2026-11-15T16:00:00+00:00",
-"added": "2026-11-15T17:25:43+00:00",
-"official": false,
-"also": [
-"France 24"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "980dae6af8b450bb",
-"title": "Colère sociale: \"Le mouvement est invisibilisé sur le terrain\" par le gouvernement, raconte Éric Coquerel, député LFI",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-colere-sociale-le-mouvement-est-invisibilise-sur-le-terrain-par-le-gouvernement-raconte-eric-coquerel-depute-lfi_VN-202611150298.html",
-"summary": "Chaque jour, les sondages consolident un peu plus l'hypothèse d'un second tour entre Marine Le Pen et Jean-Luc Mélenchon.",
-"source": "BFMTV",
-"date": "2026-11-15T15:58:59+00:00",
-"added": "2026-11-15T17:25:43+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement",
-"parlement",
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Éric Coquerel"
-},
-{
-"id": "e6c180f824bf42cb",
-"title": "Bruno Retailleau",
-"link": "https://www.bfmtv.com/politique/gouvernement/bruno-retailleau_DN-202410030418.html",
-"summary": "Bruno Retailleau est le candidat des Républicains pour l'élection présidentielle de 2027. Avant cela, il a notamment été nommé ministre de l’Intérieur du gouvernement de Michel Barnier le 22 septembre 2024.",
-"source": "BFMTV",
-"date": "2026-11-15T15:46:48+00:00",
-"added": "2026-11-15T17:25:43+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement",
 "presidentielle"
 ],
 "natures": [],
