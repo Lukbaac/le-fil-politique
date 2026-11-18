@@ -15,13 +15,13 @@
 "name": "LCP",
 "ok": true,
 "items": 100,
-"new": 0
+"new": 1
 },
 {
 "name": "Public Sénat",
 "ok": true,
 "items": 60,
-"new": 8
+"new": 0
 },
 {
 "name": "Le Monde",
@@ -33,7 +33,7 @@
 "name": "franceinfo",
 "ok": true,
 "items": 19,
-"new": 1
+"new": 2
 },
 {
 "name": "Le Figaro",
@@ -45,7 +45,7 @@
 "name": "Libération",
 "ok": true,
 "items": 50,
-"new": 1
+"new": 2
 },
 {
 "name": "La Croix",
@@ -57,91 +57,83 @@
 "name": "L'Express",
 "ok": true,
 "items": 100,
-"new": 0
+"new": 1
 },
 {
 "name": "BFMTV",
 "ok": true,
 "items": 30,
-"new": 1
+"new": 2
 },
 {
 "name": "20 Minutes",
 "ok": true,
 "items": 20,
-"new": 1
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 25,
-"new": 0
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 14,
-"new": 0
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 27,
-"new": 0
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 24,
-"new": 0
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 21,
-"new": 1
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 27,
-"new": 0
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 100,
-"new": 10
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 100,
-"new": 1
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 87,
-"new": 0
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 89,
 "new": 3
 },
 {
 "name": "Google Actualités",
 "ok": true,
+"items": 26,
+"new": 1
+},
+{
+"name": "Google Actualités",
+"ok": false,
+"error": "HTTP Error 429: Too Many Requests"
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 28,
+"new": 3
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 23,
+"new": 0
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 22,
+"new": 0
+},
+{
+"name": "Google Actualités",
+"ok": true,
 "items": 27,
 "new": 1
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 26,
-"new": 0
+"items": 100,
+"new": 8
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 100,
+"new": 8
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 84,
+"new": 1
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 100,
+"new": 1
+},
+{
+"name": "Google Actualités",
+"ok": false,
+"error": "HTTP Error 429: Too Many Requests"
 },
 {
 "name": "Google Actualités",
@@ -152,25 +144,31 @@
 {
 "name": "Google Actualités",
 "ok": true,
+"items": 28,
+"new": 3
+},
+{
+"name": "Google Actualités",
+"ok": true,
 "items": 100,
-"new": 1
+"new": 6
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 16,
+"items": 15,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 41,
+"items": 36,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 42,
-"new": 1
+"items": 38,
+"new": 0
 }
 ]
