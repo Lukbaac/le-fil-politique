@@ -1,5 +1,458 @@
 [
 {
+"id": "572419bb47f3ccaf",
+"title": "Présidentielle 2027 : dans la forêt brûlée de Gironde, Raphaël Glucksmann réinvestit le champ déserté de l’écologie",
+"link": "https://www.sudouest.fr/elections/presidentielle/presidentielle-2027-dans-la-foret-brulee-de-gironde-raphael-glucksmann-reinvestit-le-champ-deserte-de-l-ecologie-31599838.php",
+"summary": "",
+"source": "Sud Ouest",
+"date": "2026-11-20T19:18:31+00:00",
+"added": "2026-11-20T19:49:19+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "1be4ee7f30803503",
+"title": "Soupçons de fuites à Beauvau, RN perquisitionné: Henri Guaino, ancien conseiller spécial de Nicolas Sarkozy, réagit",
+"link": "https://www.bfmtv.com/politique/video-soupcons-de-fuites-a-beauvau-rn-perquisitionne-henri-guaino-ancien-conseiller-special-de-nicolas-sarkozy-reagit_VN-202611200883.html",
+"summary": "VIDÉO - Une nouvelle enquête judiciaire vise le Rassemblement national.",
+"source": "BFMTV",
+"date": "2026-11-20T19:17:15+00:00",
+"added": "2026-11-20T19:49:19+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Réaction"
+],
+"speaker": "Henri Guaino"
+},
+{
+"id": "9c5b4ee2db96b444",
+"title": "«Jean-Luc Mélenchon, s'il arrive au pouvoir, fera couler le sang», affirme Philippe de Villiers",
+"link": "https://www.cnews.fr/videos/france/2026-11-20/jean-luc-melenchon-sil-arrive-au-pouvoir-fera-couler-le-sang-affirme",
+"summary": "«Il faut que les Français comprennent ça : Jean-Luc Mélenchon, s'il arrive au pouvoir, fera couler le sang», a affirmé ce vendredi sur CNEWS l'ancien ministre Philippe de Villiers.",
+"source": "CNews",
+"date": "2026-11-20T19:15:48+00:00",
+"added": "2026-11-20T19:49:19+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"gouvernement",
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Édouard Philippe"
+},
+{
+"id": "3e522f8646356e85",
+"title": "David Lisnard, le regard à l’extrême droite",
+"link": "https://www.liberation.fr/idees-et-debats/editorial/david-lisnard-le-regard-a-lextreme-droite-20261120_J3YNVKL3FZCE7LC46GCFPDCXZE/",
+"summary": "Le candidat ultralibéral au succès sondagier surprise ne cache pas sa proximité avec Eric Ciotti ou Sarah Knafo.",
+"source": "Libération",
+"date": "2026-11-20T19:14:48+00:00",
+"added": "2026-11-20T19:49:19+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "9be07c767f2ce974",
+"title": "Présidentielle 2027 : Emmanuel Macron fustige le « discours de jalousie et de haine de la réussite » dans la campagne",
+"link": "https://www.lemonde.fr/politique/article/2026/11/20/presidentielle-2027-emmanuel-macron-fustige-le-discours-de-jalousie-et-de-haine-de-la-reussite-dans-la-campagne_6813696_823448.html",
+"summary": "Le président de la République a attaqué les candidats de gauche à l’élection présidentielle, en tentant de protéger son bilan économique.",
+"source": "Le Monde",
+"date": "2026-11-20T19:09:22+00:00",
+"added": "2026-11-20T19:49:19+00:00",
+"official": false,
+"also": [
+"Le Télégramme"
+],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"presidentielle"
+],
+"natures": [
+"Citation",
+"Discours",
+"Réaction"
+],
+"speaker": "Emmanuel Macron"
+},
+{
+"id": "9ddf4300aad912b3",
+"title": "Présidentielle 2027: \"Elle est importante parce qu'elle est dangereuse, regardez l'état du monde et de la société française\", lance Henri Guaino, ancien conseiller spécial de Nicolas Sarkozy",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-2027-elle-est-importante-parce-qu-elle-est-dangereuse-regardez-l-etat-du-monde-et-de-la-societe-francaise-lance-henri-guaino-ancien-conseiller-special-de-nicolas-sarkozy_VN-202611200878.html",
+"summary": "VIDÉO - Henri Guaino, ancien conseiller spécial de Nicolas Sarkozy, était l'invité de BFMTV ce 20 novembre.",
+"source": "BFMTV",
+"date": "2026-11-20T19:04:45+00:00",
+"added": "2026-11-20T19:49:19+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Henri Guaino"
+},
+{
+"id": "25c96858031ad503",
+"title": "\"Un discours de jalousie et de haine de la réussite dans le pays\": devant un parterre de chefs d'entreprise, Emmanuel Macron déplore les appels à \"taxer ceux qui réussissent\"",
+"link": "https://www.bfmtv.com/economie/entreprises/un-discours-de-jalousie-et-de-haine-de-la-reussite-dans-le-pays-devant-un-parterre-de-chefs-d-entreprise-emmanuel-macron-deplore-les-appels-a-taxer-ceux-qui-reussissent_AD-202611200876.html",
+"summary": "Emmanuel Macron prononce un discours lors de l’inauguration de l'exposition \"Fabriqué en France\" au palais de l’Élysée, à Paris, le 20 novembre 2026 (photo d'illustration). - AURELIEN MORISSARD / POOL / AFP\nEmmanuel Macron a fustigé vendredi ceux qui veulent \"taxer ceux qui réussissent\" et portent un \"discours de…",
+"source": "BFMTV",
+"date": "2026-11-20T19:04:21+00:00",
+"added": "2026-11-20T19:49:19+00:00",
+"official": false,
+"also": [],
+"base": [
+"elysee"
+],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [
+"Citation",
+"Discours"
+],
+"speaker": "Emmanuel Macron"
+},
+{
+"id": "1477f77485278ef7",
+"title": "Philippe Rio, maire PCF de Grigny: \"Nous devrons créer la baston juridique\" en cas de victoire du RN",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-philippe-rio-maire-pcf-de-grigny-nous-devrons-creer-la-baston-juridique-en-cas-de-victoire-du-rn_VN-202611200875.html",
+"summary": "VIDÉO - Des maires de gauche se disent prêts à désobéir et \"entrer en résistance\" si Marine Le Pen est élue en 2027.",
+"source": "BFMTV",
+"date": "2026-11-20T19:02:30+00:00",
+"added": "2026-11-20T19:49:19+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "64eeab3c225e0bc3",
+"title": "VIDÉO - Bruno Retailleau face aux petits patrons : suivez sur LCI l'émission en collaboration avec l'U2P",
+"link": "https://www.tf1info.fr/politique/elections/presidentielle/direct-video-bruno-retailleau-face-aux-petits-patrons-suivez-sur-lci-l-emission-en-collaboration-avec-l-u2p-2477218.html",
+"summary": "Deuxième volet de notre série d'émissions en partenariat avec l’Union des entreprises de proximité (U2P). Après Gabriel Attal (Renaissance), c'est au tour de Bruno Retailleau (Les Républicains) d'échanger avec des petits patrons et des professionnels libéraux.",
+"source": "TF1 Info",
+"date": "2026-11-20T19:00:23+00:00",
+"added": "2026-11-20T19:49:19+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "4a63b0df0f646564",
+"title": "Dominique de Villepin : des coups par sa droite",
+"link": "https://www.franceinfo.fr/elections/dominique-de-villepin-des-coups-par-sa-droite_8292857.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "Dominique de Villepin a officialisé vendredi 20 novembre sa candidature à l'élection présidentielle. Une candidature critiquée par certains de son historique famille politique.",
+"source": "franceinfo",
+"date": "2026-11-20T19:00:02+00:00",
+"added": "2026-11-20T19:49:19+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "222a0f36b86c0a3e",
+"title": "Raquel Garrido réagit au ralliement de membres du mouvement \"L’Après\" à la candidature de Jean-Luc Mélenchon",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-raquel-garrido-reagit-au-ralliement-de-membres-du-mouvement-l-apres-a-la-candidature-de-jean-luc-melenchon_VN-202611200868.html",
+"summary": "Entre le possible ralliement des écologistes à La France insoumise, l'hypothèse d'une primaire du centre et de la droite et plusieurs candidats officieux pas encore sur la ligne de départ, la course à l'Élysée se poursuit ce jeudi 19 novembre.",
+"source": "BFMTV",
+"date": "2026-11-20T18:56:59+00:00",
+"added": "2026-11-20T19:49:19+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "Raquel Garrido"
+},
+{
+"id": "cf399de4c2261466",
+"title": "Présidentielle 2027 : l'Arcom impose des règles de pluralisme aux youtubeurs politiques",
+"link": "https://www.europe1.fr/politique/presidentielle-2027-larcom-impose-des-regles-de-pluralisme-aux-youtubeurs-politiques-1241254",
+"summary": "À cinq mois de l'élection présidentielle, l'Arcom veut renforcer les règles du pluralisme politique. Les grandes chaînes de créateurs de contenus qui traitent régulièrement d'actualité devront respecter des obligations d'équité, puis d'égalité entre les candidats.",
+"source": "Europe 1",
+"date": "2026-11-20T18:42:12+00:00",
+"added": "2026-11-20T19:49:19+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "807cc6f0cd22727e",
+"title": "Emmanuel Macron dénonce un retour du \"discours de jalousie et de haine de la réussie dans le pays\"",
+"link": "https://www.bfmtv.com/politique/gouvernement/video-emmanuel-macron-denonce-un-retour-du-discours-de-jalousie-et-de-haine-de-la-reussie-dans-le-pays_VN-202611200856.html",
+"summary": "Emmanuel Macron a inauguré la sixième édition de l'exposition du Fabriqué en France, ce vendredi 20 novembre, à Paris.",
+"source": "BFMTV",
+"date": "2026-11-20T18:34:18+00:00",
+"added": "2026-11-20T19:49:19+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [
+"Citation",
+"Discours",
+"Réaction"
+],
+"speaker": "Emmanuel Macron"
+},
+{
+"id": "6220ea2d2a92d52a",
+"title": "Présidentielle 2027 : meetings, déplacements… Le plan de Raphaël Glucksmann pour tenter de se relancer",
+"link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-meetings-deplacements-le-plan-de-raphael-glucksmann-pour-tenter-de-se-relancer-20261120",
+"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
+"source": "Le Figaro",
+"date": "2026-11-20T18:30:00+00:00",
+"added": "2026-11-20T19:49:19+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "019d9a13932bb031",
+"title": "\"Il n'y a pas de fatalité dans notre pays\", affirme Emmanuel Macron",
+"link": "https://www.bfmtv.com/politique/video-il-n-y-a-pas-de-fatalite-dans-notre-pays-affirme-emmanuel-macron_VN-202611200850.html",
+"summary": "Emmanuel Macron a inauguré la sixième édition de l'exposition du Fabriqué en France, ce vendredi 20 novembre, à Paris",
+"source": "BFMTV",
+"date": "2026-11-20T18:25:20+00:00",
+"added": "2026-11-20T19:49:19+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Emmanuel Macron"
+},
+{
+"id": "83825dc02d2f8834",
+"title": "Budget : députés et sénateurs s’entendent sur un premier texte malgré l’enlisement politique",
+"link": "https://www.lemonde.fr/politique/article/2026/11/20/budget-deputes-et-senateurs-s-entendent-sur-un-premier-texte-malgre-l-enlisement-politique_6813691_823448.html",
+"summary": "La commission mixte paritaire réunie vendredi 19 novembre a trouvé un accord sur le projet de loi de fin de gestion pour 2026.",
+"source": "Le Monde",
+"date": "2026-11-20T18:24:13+00:00",
+"added": "2026-11-20T19:49:19+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "17c268f65e5d6452",
+"title": "Près de la moitié des maires excluent de parrainer un candidat à la présidentielle 2027, principalement par peur d'être étiquetés politiquement",
+"link": "https://www.franceinfo.fr/elections/pres-de-la-moitie-des-maires-excluent-de-parrainer-un-candidat-a-la-presidentielle-2027-principalement-par-peur-d-etre-etiquetes-politiquement_8292749.html",
+"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
+"source": "franceinfo",
+"date": "2026-11-20T18:16:44+00:00",
+"added": "2026-11-20T19:49:19+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "d78d2375489f9a93",
+"title": "« J’en ai marre de Mélenchon » : quand Marine Tondelier disait pis que pendre du leader de LFI",
+"link": "https://www.lepoint.fr/politique/jen-ai-marre-de-melenchon-quand-marine-tondelier-disait-pis-que-pendre-du-leader-de-lfi-FCKJLVR5GZG5ZEBFAMQUYKHZAY/",
+"summary": "",
+"source": "Le Point",
+"date": "2026-11-20T18:14:07+00:00",
+"added": "2026-11-20T19:49:19+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "baf158ad41b88164",
+"title": "Grand Est. Rapprochement Tondelier-Mélenchon : ça craque chez les Verts",
+"link": "https://www.estrepublicain.fr/politique/2026/11/20/rapprochement-tondelier-melenchon-ca-craque-chez-les-verts",
+"summary": "Cela commence à tanguer sec dans les rangs des écolos. Le rapprochement quasi-officiel opéré par Marine Tondelier en direction de Jean-Luc Mélenchon en vue de la présidentielle de 2027 provoque des remous très clairement perceptibles.",
+"source": "L'Est Républicain",
+"date": "2026-11-20T18:09:11+00:00",
+"added": "2026-11-20T19:49:19+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "ca7e433c1c28405c",
+"title": "Villepin candidat en 2027 : le jour où son discours à l’ONU l’a placé sous les projecteurs",
+"link": "https://www.la-croix.com/politique/villepin-candidat-en-2027-le-jour-ou-son-discours-a-l-onu-la-place-sous-les-projecteurs-20261120",
+"summary": "Sa candidature ne faisait plus de mystère. Dominique de Villepin s’est officiellement lancé dans la course à l’Élysée vendredi 20 novembre.",
+"source": "La Croix",
+"date": "2026-11-20T18:02:12+00:00",
+"added": "2026-11-20T19:49:19+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"presidentielle"
+],
+"natures": [
+"Discours"
+],
+"speaker": ""
+},
+{
+"id": "82085146610bf3cf",
+"title": "Le ministre délégué auprès du ministre de l'Intérieur annonce le renfort de trois policiers nationaux au commissariat de Moulins",
+"link": "https://www.lamontagne.fr/moulins-03000/actualites/le-ministre-delegue-aupres-du-ministre-de-l-interieur-annonce-le-renfort-de-trois-policiers-nationaux-au-commissariat-de-moulins_15087599/",
+"summary": "",
+"source": "La Montagne",
+"date": "2026-11-20T17:52:00+00:00",
+"added": "2026-11-20T19:49:19+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [
+"Annonce"
+],
+"speaker": ""
+},
+{
+"id": "825cf2918b644829",
+"title": "Soutenir Mélenchon ? La gauche en plein dilemme - 20/11",
+"link": "https://www.bfmtv.com/replay-emissions/hammett-week-end/video-soutenir-melenchon-la-gauche-en-plein-dilemme-20-11_VN-202611200812.html",
+"summary": "VIDÉO - Retrouvez le replay de Hammett Week-end sur BFMTV.",
+"source": "BFMTV",
+"date": "2026-11-20T17:44:31+00:00",
+"added": "2026-11-20T19:49:19+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "6be0681bf697324c",
 "title": "\"Le 20.27\" revient notamment sur la déclaration de candidature de Dominique de Villepin",
 "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-le-20-27-revient-notamment-sur-la-declaration-de-candidature-de-dominique-de-villepin_VN-202611200798.html",
@@ -8,7 +461,16 @@
 "date": "2026-11-20T17:34:31+00:00",
 "added": "2026-11-20T17:46:31+00:00",
 "official": false,
-"also": [],
+"also": [
+"LCP",
+"Le Monde",
+"France 24",
+"RFI",
+"La Nouvelle République",
+"Sud Ouest",
+"Le HuffPost",
+"CNews"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -87,7 +549,9 @@
 "date": "2026-11-20T17:18:53+00:00",
 "added": "2026-11-20T17:46:31+00:00",
 "official": false,
-"also": [],
+"also": [
+"Sud Ouest"
+],
 "base": [
 "presidentielle"
 ],
@@ -289,7 +753,9 @@
 "date": "2026-11-20T16:48:33+00:00",
 "added": "2026-11-20T17:46:31+00:00",
 "official": false,
-"also": [],
+"also": [
+"Midi Libre"
+],
 "base": [
 "presidentielle"
 ],
@@ -366,6 +832,26 @@
 "speaker": ""
 },
 {
+"id": "dfaab63618c5c04b",
+"title": "Présidentielle 2027. Édouard Philippe, à Romans-sur-Isère : « Avec les 35 heures, on a piégé des salariés »",
+"link": "https://www.ledauphine.com/elections/2026/11/20/avec-les-35-heures-on-a-piege-des-salaries",
+"summary": "Entre les métiers à tisser qui claquent et les bobines de fil technique, Édouard Philippe avance dans l’atelier d’Alina Textiles, à Romans-sur-Isère.",
+"source": "Le Dauphiné Libéré",
+"date": "2026-11-20T16:37:59+00:00",
+"added": "2026-11-20T19:49:19+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "96f24465a49f73d2",
 "title": "Présidentielle 2027 : le candidat Dominique de Villepin se rêve en « guide pour le pays »",
 "link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-le-candidat-dominique-de-villepin-se-reve-en-guide-pour-le-pays-20261120",
@@ -384,6 +870,29 @@
 ],
 "natures": [],
 "speaker": ""
+},
+{
+"id": "6aaccc025f5fd6fe",
+"title": "\"Nous avons évidemment des choses en commun\", réagit Edouard Philippe à la candidature de Dominique de Villepin à la présidentielle de 2027",
+"link": "https://www.franceinfo.fr/elections/nous-avons-evidemment-des-choses-en-commun-reagit-edouard-philippe-a-la-candidature-de-dominique-de-villepin-a-la-presidentielle-de-2027_8292626.html",
+"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
+"source": "franceinfo",
+"date": "2026-11-20T16:31:59+00:00",
+"added": "2026-11-20T19:49:19+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "Édouard Philippe"
 },
 {
 "id": "7243c7ba630ae4b7",
@@ -522,6 +1031,26 @@
 "speaker": ""
 },
 {
+"id": "20ebd2f09c67b24e",
+"title": "Le préfet Hugues Moutouh, le procureur Christian de Rocquigny et les soupçons de fuites vers le RN : comment Marine Le Pen veut \"pénétrer l'Etat\"",
+"link": "https://www.lexpress.fr/politique/le-prefet-hugues-moutouh-au-coeur-des-soupcons-de-fuites-vers-le-rn-comment-marine-le-pen-veut-UV32FRIURNHVRFSWDGLGIV4WFY/",
+"summary": "Il y a les mots, de ceux, martiaux, que l’on prononce en campagne électorale. Le 26 février 2017, déjà, au cours d’un meeting à Nantes, Marine Le Pen promet de mettre en place un Etat \"neutre et impartial\", avec des fonctionnaires \"soumis à un strict devoir de réserve dans le cadre de l’exercice de leurs fonctions\".",
+"source": "L'Express",
+"date": "2026-11-20T16:00:00+00:00",
+"added": "2026-11-20T19:49:19+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Marine Le Pen"
+},
+{
 "id": "79d2e6fa9574bf17",
 "title": "SONDAGE Présidentielle 2027 : Raphaël Glucksmann serait qualifié au 2nd tour si David Lisnard représentait seul la droite et le centre",
 "link": "https://www.midilibre.fr/2026/11/20/sondage-presidentielle-2027-raphael-glucksmann-serait-qualifie-au-2nd-tour-si-david-lisnard-representait-seul-la-droite-et-le-centre-13663355.php",
@@ -551,7 +1080,10 @@
 "date": "2026-11-20T15:55:06+00:00",
 "added": "2026-11-20T17:46:31+00:00",
 "official": false,
-"also": [],
+"also": [
+"Le HuffPost",
+"Marianne"
+],
 "base": [
 "partis"
 ],
@@ -904,7 +1436,8 @@
 "added": "2026-11-20T14:05:58+00:00",
 "official": false,
 "also": [
-"RTL"
+"RTL",
+"Le Figaro"
 ],
 "base": [],
 "filtered": true,
@@ -930,7 +1463,8 @@
 "TF1 Info",
 "CNews",
 "Le Point",
-"franceinfo"
+"franceinfo",
+"Sud Ouest"
 ],
 "base": [
 "presidentielle"
@@ -974,6 +1508,44 @@
 "source": "BFMTV",
 "date": "2026-11-20T13:18:29+00:00",
 "added": "2026-11-20T14:05:58+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "756bbc8d3358d77c",
+"title": "Edouard Philippe",
+"link": "https://www.bfmtv.com/politique/edouard-philippe_DN-202108310657.html",
+"summary": "Édouard Philippe est le candidat d'Horizons pour la présidentielle de 2027. Plus d'une décennie plus tôt, il avait soutenu Alain Juppé pour la primaire chez Les Républicains en 2016.",
+"source": "BFMTV",
+"date": "2026-11-20T13:18:29+00:00",
+"added": "2026-11-20T19:49:19+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "739750071e8d3ad7",
+"title": "Marine Le Pen",
+"link": "https://www.bfmtv.com/politique/marine-le-pen_DN-201201010011.html",
+"summary": "Marine le Pen est la candidate du Rassemblement national pour l'élection présidentielle de 2027. Il s'agit de sa quatrième tentative depuis 2012, après avoir accédé par deux fois au second tour en 2017 et 2022.",
+"source": "BFMTV",
+"date": "2026-11-20T13:18:29+00:00",
+"added": "2026-11-20T19:49:19+00:00",
 "official": false,
 "also": [],
 "base": [],
@@ -1743,7 +2315,9 @@
 "date": "2026-11-20T10:45:59+00:00",
 "added": "2026-11-20T11:45:39+00:00",
 "official": false,
-"also": [],
+"also": [
+"La Nouvelle République"
+],
 "base": [
 "presidentielle"
 ],
@@ -2721,6 +3295,27 @@
 "speaker": "Laurent Nuñez"
 },
 {
+"id": "c32a4329afabecd1",
+"title": "Une militante accréditée par la France se voit retirer son badge pour la COP31 sur le climat après un échange filmé avec la ministre Monique Barbut",
+"link": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/une-militante-accreditee-par-la-france-se-voit-retirer-son-badge-pour-la-cop31-sur-le-climat-apres-un-echange-filme-avec-la-ministre-monique-barbut_8291873.html",
+"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
+"source": "franceinfo",
+"date": "2026-11-20T08:33:27+00:00",
+"added": "2026-11-20T19:49:19+00:00",
+"official": false,
+"also": [],
+"base": [
+"matinales"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"gouvernement"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "5c20ce43aa74d7d8",
 "title": "Voici pourquoi Marine Le Pen a préféré rencontrer l'ambassadeur d'Ukraine plutôt que de se rendre à Kiev",
 "link": "https://www.marianne.net/politique/voici-pourquoi-marine-le-pen-a-prefere-rencontrer-l-ambassadeur-d-ukraine-plutot-que-de-se-rendre-a-kiev",
@@ -3160,7 +3755,9 @@
 "Sud Ouest",
 "20 Minutes",
 "Midi Libre",
-"La Provence"
+"La Provence",
+"Libération",
+"Nice-Matin"
 ],
 "base": [],
 "filtered": true,
@@ -3811,7 +4408,10 @@
 "date": "2026-11-20T00:46:19+00:00",
 "added": "2026-11-20T09:47:36+00:00",
 "official": false,
-"also": [],
+"also": [
+"franceinfo",
+"BFMTV"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -5488,7 +6088,9 @@
 "date": "2026-11-19T17:41:06+00:00",
 "added": "2026-11-19T17:47:02+00:00",
 "official": false,
-"also": [],
+"also": [
+"Ouest-France"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -6805,7 +7407,9 @@
 "date": "2026-11-19T15:45:43+00:00",
 "added": "2026-11-19T17:47:02+00:00",
 "official": false,
-"also": [],
+"also": [
+"La Nouvelle République"
+],
 "base": [
 "partis"
 ],
@@ -14686,6 +15290,27 @@
 "speaker": ""
 },
 {
+"id": "bd6fa4c97e75889f",
+"title": "Guillaume Tabard : «Marine Le Pen sous le totem des 62 ans, un tournant bienvenu»",
+"link": "https://www.lefigaro.fr/politique/guillaume-tabard-marine-le-pen-sous-le-totem-des-62-ans-un-tournant-bienvenu-20261117",
+"summary": "CONTRE-POINT - Au fil des ans, le Rassemblement national poursuit sa mue économique. Dans cette campagne, la candidate à la présidentielle a désormais pour premier souci la crédibilité.",
+"source": "Le Figaro",
+"date": "2026-11-18T09:04:43+00:00",
+"added": "2026-11-20T19:49:19+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Guillaume Tabard"
+},
+{
 "id": "7ab84103ff33fc39",
 "title": "L’Invité - Steve Jourdin : “Raphaël Glucksmann : un intello en politique”",
 "link": "https://www.letelegramme.fr/france/linvite-steve-jourdin-raphael-glucksmann-un-intello-en-politique-7161327.php",
@@ -17263,717 +17888,5 @@
 "Réaction"
 ],
 "speaker": "Marine Le Pen"
-},
-{
-"id": "709fc20d6a7160ab",
-"title": "Michel Barnier confirme \"un accord pour une primaire fin janvier\", entre Attal, Retailleau et Lisnard",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-michel-barnier-confirme-un-accord-pour-une-primaire-fin-janvier-entre-attal-retailleau-et-lisnard_VN-202611170895.html",
-"summary": "Sur le plateau de BFMTV ce mardi 17 novembre, Michel Barnier, ancien Premier ministre, a affirmé que les représentants de Gabriel Attal, Burno Retailleau et David Lisnard se sont \"mis d'accord\" pour organiser une primaire en janvier.",
-"source": "BFMTV",
-"date": "2026-11-17T19:31:21+00:00",
-"added": "2026-11-17T19:53:05+00:00",
-"official": false,
-"also": [
-"La Provence",
-"TF1 Info",
-"Le Dauphiné Libéré",
-"L'Est Républicain",
-"Libération",
-"Le Bien Public"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"matinales",
-"elysee",
-"gouvernement",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Michel Barnier"
-},
-{
-"id": "b344728fd2dba1bd",
-"title": "Après Matignon, les fonctionnaires de retour dans la rue pour demander des hausses de salaire",
-"link": "https://www.laprovence.com/article/france-monde/4398254395714114/apres-matignon-les-fonctionnaires-de-retour-dans-la-rue-pour-demander-des-hausses-de-salaires",
-"summary": "Journée de grève et de manifestations dans le secteur public, contre la hausse du coût de la vie, le 17 novembre 2026 à Marseille\nDes rassemblements ont débuté dans la matinée dans plusieurs villes, notamment à Lyon, où des milliers de personnes se rassemblent devant la manufacture des tabacs et où l'on peut…",
-"source": "La Provence",
-"date": "2026-11-17T19:30:14+00:00",
-"added": "2026-11-18T09:47:55+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "1702556a29e200af",
-"title": "A Bergerac, malgré l’opposition du RN, une école porte désormais le nom d’Irène Sapir, rescapée de la rafle du Vél’ d’Hiv",
-"link": "https://www.lemonde.fr/politique/article/2026/11/17/a-bergerac-malgre-l-opposition-du-rn-une-ecole-porte-desormais-le-nom-d-irene-sapir-rescapee-de-la-rafle-du-vel-d-hiv_6813038_823448.html",
-"summary": "Mardi 17 novembre, un groupe scolaire situé en Dordogne a pris le nom d’une figure locale communiste de 89 ans, qui a échappé à la déportation en 1942 et s’est engagée pour transmettre son histoire auprès des jeunes générations.",
-"source": "Le Monde",
-"date": "2026-11-17T19:30:03+00:00",
-"added": "2026-11-17T19:53:05+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "2eb8c5aac60bb90f",
-"title": "En direct - Retraites : «Le système n'est pas soutenable», affirme Jordan Bardella, qui plaide pour l'introduction de la «capitalisation»",
-"link": "https://www.europe1.fr/politique/en-direct-retraites-le-systeme-nest-pas-soutenable-affirme-jordan-bardella-qui-plaide-pour-lintroduction-de-la-capitalisation-1239039",
-"summary": "Pour le président du Rassemblement national, « le raisonnement des personnes de gauche est enfantin » et « Jean-Luc Mélenchon est le visage institutionnel de ce désordre », estime qu'il « a autour de lui des proxys, des bras armés dont l'objectif est de mettre à bas la République et la démocratie ».",
-"source": "Europe 1",
-"date": "2026-11-17T19:30:00+00:00",
-"added": "2026-11-17T21:40:04+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jordan Bardella"
-},
-{
-"id": "d26d1a6291f32cb7",
-"title": "En direct - Grève du 17 novembre : «La violence d'atmosphère est en train de s'installer dans le pays», martèle Jordan Bardella",
-"link": "https://www.europe1.fr/politique/en-direct-greve-du-17-novembre-la-violence-datmosphere-est-en-train-de-sinstaller-dans-le-pays-martele-jordan-bardella-1239039",
-"summary": "Pour le président du Rassemblement national, « le raisonnement des personnes de gauche est enfantin » et « Jean-Luc Mélenchon est le visage institutionnel de ce désordre », estime qu'il « a autour de lui des proxys, des bras armés dont l'objectif est de mettre à bas la République et la démocratie ».",
-"source": "Europe 1",
-"date": "2026-11-17T19:30:00+00:00",
-"added": "2026-11-17T21:40:04+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jordan Bardella"
-},
-{
-"id": "86fba6002ba5aac8",
-"title": "En direct - Grèves successives, élection présidentielle, réforme des retraites... Ce qu'il faut retenir de l'interview de Jordan Bardella",
-"link": "https://www.europe1.fr/politique/en-direct-greves-successives-election-presidentielle-reforme-des-retraites-ce-quil-faut-retenir-de-linterview-de-jordan-bardella-1239039",
-"summary": "L'émission Face à Jordan Bardella, sur Europe 1-CNews, est à présent terminé. Colère des Français, élection présidentielle 2027, économie, retraites, Jean-Luc Mélenchon ou encore la fin de vie, le président du Rassemblement national a répondu à toutes les questions que se posent les Français.",
-"source": "Europe 1",
-"date": "2026-11-17T19:30:00+00:00",
-"added": "2026-11-18T06:41:02+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Interview"
-],
-"speaker": "Jordan Bardella"
-},
-{
-"id": "2ca0ed1feb5d65aa",
-"title": "VÉRIF' - Débat sur TF1/LCI en association avec les Restos du Cœur : nous avons vérifié les propos des candidats au sujet de la précarité",
-"link": "https://www.tf1info.fr/politique/elections/presidentielle/verif-debat-sur-tf1-lci-en-association-avec-les-restos-du-coeur-salaries-au-smic-impots-aides-aux-associations-nous-avons-verifie-les-inexactitudes-des-candidats-au-sujet-de-la-precarite-2476393.html",
-"summary": "En association avec les Restos du Cœur, TF1 et LCI ont organisé, ce lundi 16 novembre, le deuxième grand débat de la campagne présidentielle, à cinq mois du scrutin.",
-"source": "TF1 Info",
-"date": "2026-11-17T19:28:39+00:00",
-"added": "2026-11-18T06:41:02+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "4bd5626a1b756229",
-"title": "Présidentielle 2027 : la France peut-elle s’inspirer du modèle finlandais contre le sans-abrisme vanté par Glucksmann ?",
-"link": "https://www.sudouest.fr/societe/presidentielle-2027-la-france-peut-elle-s-inspirer-du-modele-finlandais-contre-le-sans-abrisme-vante-par-glucksmann-31568074.php",
-"summary": "",
-"source": "Sud Ouest",
-"date": "2026-11-17T19:18:41+00:00",
-"added": "2026-11-17T19:53:05+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "fc160d59363e81d2",
-"title": "Primaire de la droite et du centre: \"Ces accords de boutique sont très loin de la rupture attendue par les Français\", selon Jordan Bardella",
-"link": "https://www.bfmtv.com/politique/video-primaire-de-la-droite-et-du-centre-ces-accords-de-boutique-sont-tres-loin-de-la-rupture-attendue-par-les-francais-selon-jordan-bardella_VN-202611170879.html",
-"summary": "Sur le plateau de BFMTV ce mardi 17 novembre, Michel Barnier, ancien Premier ministre, a affirmé que les représentants de Gabriel Attal, Burno Retailleau et David Lisnard se sont \"mis d'accord\" pour organiser une primaire en janvier.",
-"source": "BFMTV",
-"date": "2026-11-17T19:14:16+00:00",
-"added": "2026-11-17T19:53:05+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"matinales",
-"elysee",
-"gouvernement",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jordan Bardella"
-},
-{
-"id": "13aa51a3ccd43cef",
-"title": "Primaire de la droite et du centre: Michel Barnier, ancien Premier ministre, souhaite un projet politique avec une \"force française et une indépendance de l'Europe\"",
-"link": "https://www.bfmtv.com/politique/video-primaire-de-la-droite-et-du-centre-michel-barnier-ancien-premier-ministre-souhaite-un-projet-politique-avec-une-force-francaise-et-une-independance-de-l-europe_VN-202611170878.html",
-"summary": "VIDÉO - Michel Barnier, ancien Premier ministre, était invité sur le plateau de BFMTV, ce mardi 17 novembre.",
-"source": "BFMTV",
-"date": "2026-11-17T19:11:13+00:00",
-"added": "2026-11-17T19:53:05+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"matinales",
-"elysee",
-"gouvernement",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Michel Barnier"
-},
-{
-"id": "d28b6e49a7449e9b",
-"title": "Interview. Raphaël Glucksmann : « Voter Jean-Luc Mélenchon n’a rien d’utile, il perdra au second tour »",
-"link": "https://www.ledauphine.com/elections/2026/11/17/raphael-glucksmann-voter-jean-luc-melenchon-n-a-rien-d-utile-il-perdra-au-second-tour",
-"summary": "Pouvoir d’achat, antagonisme avec Jean-Luc Mélenchon et main tendue aux Écologistes… En déplacement à Villeurbanne (Rhône) ce mardi, le candidat social-démocrate à la présidentielle Raphaël Glucksmann a accordé une interview au groupe EBRA, dont fait partie notre journal.",
-"source": "Le Dauphiné Libéré",
-"date": "2026-11-17T19:02:10+00:00",
-"added": "2026-11-17T19:53:05+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation",
-"Interview"
-],
-"speaker": "Raphaël Glucksmann"
-},
-{
-"id": "8acc47cf49ac4330",
-"title": "C’est Benjamin... à l'ex-usine Whirlpool, à Amiens",
-"link": "https://www.franceinfo.fr/politique/c-est-benjamin-a-l-ex-usine-whirlpool-a-amiens_8286821.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "C’est Benjamin de franceinfo, à la rencontre des Français jusqu’au deuxième tour de la présidentielle 2027. A Amiens (Picardie), il y a bientôt dix ans, la fermeture de l’usine Whirlpool a été au cœur de l’élection présidentielle.",
-"source": "franceinfo",
-"date": "2026-11-17T19:00:03+00:00",
-"added": "2026-11-17T19:53:05+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "56137281fb4c62ad",
-"title": "Logement: un amendement du RN visant à supprimer l'interdiction de louer des passoires thermiques voté à l'Assemblée",
-"link": "https://lcp.fr/actualites/logement-un-amendement-du-rn-visant-a-supprimer-l-interdiction-de-louer-des-passoires",
-"summary": "Dans le cadre de l'examen du projet de loi sur \"la relance et la décentralisation du logement\", les députés ont adopté d'une courte majorité, ce mardi 17 novembre, un amendement du Rassemblement national supprimant les interdictions de mise en location des logements les moins performants en matière de diagnostic…",
-"source": "LCP",
-"date": "2026-11-17T18:59:14+00:00",
-"added": "2026-11-17T19:53:05+00:00",
-"official": false,
-"also": [
-"La Croix",
-"20 Minutes",
-"Ouest-France",
-"Libération",
-"Nice-Matin"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement",
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "21b6636f963f5a8b",
-"title": "Présidentielle 2027 : les camps Attal, Retailleau et Lisnard actent leurs premières convergences en l’absence d’Édouard Philippe",
-"link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-les-camps-attal-retailleau-et-lisnard-actent-leurs-premieres-convergences-en-l-absence-d-edouard-philippe-20261117",
-"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
-"source": "Le Figaro",
-"date": "2026-11-17T18:54:17+00:00",
-"added": "2026-11-17T19:53:05+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "4d542fbc63371fac",
-"title": "Colère sociale: Alexis Corbière, député \"L'Après\", pointe \"un système inégalitaire\"",
-"link": "https://www.bfmtv.com/politique/video-colere-sociale-alexis-corbiere-depute-l-apres-pointe-un-systeme-inegalitaire_VN-202611170867.html",
-"summary": "Ce mardi 17 novembre, une nouvelle journée de mobilisation nationale a été organisée à l'appel de l'intersyndicale.",
-"source": "BFMTV",
-"date": "2026-11-17T18:52:50+00:00",
-"added": "2026-11-17T19:53:05+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "904770f2e0dd4631",
-"title": "Présidentielle 2027 : Dominique de Villepin pourrait officialiser sa candidature vendredi, quatorze ans après son échec de 2012",
-"link": "https://www.rtl.fr/actu/politique/presidentielle-2027-dominique-de-villepin-pourrait-officialiser-sa-candidature-vendredi-quatorze-ans-apres-son-echec-de-2012-7900697452",
-"summary": "Dominique de Villepin à la 6e édition du Festival des Idées à La Charité-sur-Loire, le 4 juillet 2026. Dominique de Villepin va-t-il enfin officialiser sa candidature à la présidentielle de 2027 ?",
-"source": "RTL",
-"date": "2026-11-17T18:51:27+00:00",
-"added": "2026-11-17T19:53:05+00:00",
-"official": false,
-"also": [
-"Midi Libre"
-],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "b244d2b8730e1f49",
-"title": "Âge légal, trimestres, décote, capitalisation : qui sont les gagnants et les perdants de la réforme des retraites du RN",
-"link": "https://www.lesechos.fr/economie-france/social/age-legal-trimestres-decote-capitalisation-qui-sont-les-gagnants-et-les-perdants-de-la-reforme-des-retraites-du-rn-2263159",
-"summary": "",
-"source": "Les Echos",
-"date": "2026-11-17T18:47:24+00:00",
-"added": "2026-11-17T19:53:05+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "cad36d9cb3ebb896",
-"title": "Retraites : le crash-test politique de Marine Le Pen",
-"link": "https://www.lopinion.fr/politique/retraites-le-crash-test-politique-de-marine-le-pen",
-"summary": "Durant une heure et demie mardi, au siège du parti, la patronne du Rassemblement national a exposé sa réforme aigre-douce des retraites, flanquée de son dauphin Jordan Bardella et de son lieutenant Jean-Philippe Tanguy.",
-"source": "L'Opinion",
-"date": "2026-11-17T18:45:00+00:00",
-"added": "2026-11-17T19:53:05+00:00",
-"official": false,
-"also": [
-"La Voix du Nord"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "17f430e2c5777b71",
-"title": "Présidentielle : les écueils de la retraite version Marine Le Pen",
-"link": "https://www.lopinion.fr/economie/presidentielle-les-ecueils-de-la-retraite-version-marine-le-pen",
-"summary": "Le parti de Jordan Bardella devait trouver le moyen d’afficher sa conversion au sérieux budgétaire sans rogner ses promesses électorales.",
-"source": "L'Opinion",
-"date": "2026-11-17T18:40:00+00:00",
-"added": "2026-11-17T19:53:05+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "2badc19d7543f26b",
-"title": "Politique. Maud Bregeon, la porte-parole du gouvernement, a accouché d’une petite Colette",
-"link": "https://www.ledauphine.com/politique/2026/11/17/maud-bregeon-la-porte-parole-du-gouvernement-a-accouche-d-une-petite-colette",
-"summary": "Porte-parole du gouvernement et ministre déléguée chargée de l’Énergie, Maud Bregeon est devenue mère pour la seconde fois.",
-"source": "Le Dauphiné Libéré",
-"date": "2026-11-17T18:35:09+00:00",
-"added": "2026-11-17T19:53:05+00:00",
-"official": false,
-"also": [],
-"base": [
-"gouvernement"
-],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "14563df8cc9b9e2a",
-"title": "Blocages d’universités : le ministre de l’Enseignement supérieur s’attend « à un taux d’échec en licence encore plus important cette année »",
-"link": "https://www.publicsenat.fr/actualites/politique/blocages-duniversites-le-ministre-de-lenseignement-superieur-sattend-a-un-taux-dechec-encore-plus-important-cette-annee",
-"summary": "Auditionné dans le cadre de l’examen du budget 2027 par la commission de la culture et de l’éducation du Sénat, le ministre de l’Enseignement supérieur, Philippe Baptiste, est revenu sur les mesures annoncées par le gouvernement en réponse à la crise lycéenne et étudiante que traverse le pays.",
-"source": "Public Sénat",
-"date": "2026-11-17T18:32:56+00:00",
-"added": "2026-11-17T21:40:04+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement",
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "025dbf38aa127dd0",
-"title": "Budget 2027 de la Sécu : après des débats houleux, le Sénat adopte le délai de carence d’un an pour l’accès aux prestations familiales des étrangers",
-"link": "https://www.publicsenat.fr/actualites/politique/budget-2027-de-la-secu-apres-des-debats-houleux-le-senat-adopte-le-delai-de-carence-dun-an-pour-lacces-aux-prestations-familiales-des-etrangers",
-"summary": "Les sénateurs ont adopté l’article 37 du projet de loi de financement de la Sécurité sociale pour 2027. Il instaure une condition de durée de résidence régulière d'un an en France avant de pouvoir bénéficier de la plupart des prestations familiales pour certains étrangers hors Union européenne.",
-"source": "Public Sénat",
-"date": "2026-11-17T18:30:52+00:00",
-"added": "2026-11-17T21:40:04+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "62aad773f52df9c2",
-"title": "Résidences secondaires : les nouvelles taxes envisagées par LFI",
-"link": "https://www.lepoint.fr/societe/lfi-ce-que-prevoit-le-programme-de-melenchon-pour-les-proprietaires-IMKUAWN7PRGJBKPFAWKRIJ7POM/",
-"summary": "",
-"source": "Le Point",
-"date": "2026-11-17T18:30:00+00:00",
-"added": "2026-11-17T19:53:05+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "1697dcecb1629bfe",
-"title": "\"Les travailleurs ont de l'or entre les mains\" : Nathalie Arthaud en meeting à Alès pour sa quatrième présidentielle",
-"link": "https://www.midilibre.fr/2026/11/17/les-travailleurs-ont-de-lor-entre-les-mains-nathalie-arthaud-en-meeting-a-ales-pour-sa-quatrieme-presidentielle-13657002.php",
-"summary": "De passage dans la capitale des Cévennes ce mardi 17 novembre, la porte-parole de Lutte ouvrière a réuni une cinquantaine de participants à Alès pour défendre \"le camp des travailleurs face au patronat\".",
-"source": "Midi Libre",
-"date": "2026-11-17T18:30:00+00:00",
-"added": "2026-11-17T19:53:05+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [
-"Discours"
-],
-"speaker": ""
-},
-{
-"id": "fee0a6272c8501d7",
-"title": "Mélenchon dîne avec les patrons du CAC 40 - 17/11",
-"link": "https://www.bfmtv.com/replay-emissions/100-mabrouk/video-melenchon-dine-avec-les-patrons-du-cac-40-17-11_VN-202611170852.html",
-"summary": "VIDÉO - Retrouvez le replay de 100% Mabrouk sur BFMTV.",
-"source": "BFMTV",
-"date": "2026-11-17T18:27:42+00:00",
-"added": "2026-11-17T19:53:05+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "fc131dd4bc9160e7",
-"title": "Refus d'\"alliance avec les extrêmes\", participation à deux euros... les premières modalités de la primaire de la droite et du centre dévoilées",
-"link": "https://www.franceinfo.fr/elections/refus-d-alliance-avec-les-extremes-participation-a-deux-euros-les-premieres-modalites-de-la-primaire-de-la-droite-et-du-centre-devoilees_8286980.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "L'entourage de Gabriel Attal affirme que les premières modalités de la primaire de la droite et du centre ont été acceptées par les trois principaux candidats.",
-"source": "franceinfo",
-"date": "2026-11-17T18:25:46+00:00",
-"added": "2026-11-17T19:53:05+00:00",
-"official": false,
-"also": [
-"Le Parisien"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "318113f382358986",
-"title": "Présidentielle 2027 : qui seraient les gagnants et les perdants du programme de Marine Le Pen sur les retraites ?",
-"link": "https://www.ouest-france.fr/politique/marine-le-pen/presidentielle-2027-qui-seraient-les-gagnants-et-les-perdants-du-programme-de-marine-le-pen-sur-les-retraites-81c91e74-e2ab-11f1-a3b1-0c6de532ce7d",
-"summary": "",
-"source": "Ouest-France",
-"date": "2026-11-17T18:24:31+00:00",
-"added": "2026-11-17T19:53:05+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "64291c9407d3b7d4",
-"title": "Marine Le Pen veut une part de capitalisation pour les retraites : comment ça marche et quelle différence avec la répartition ?",
-"link": "https://www.rtl.fr/actu/politique/marine-le-pen-veut-une-part-de-capitalisation-pour-les-retraites-comment-ca-marche-et-quelle-difference-avec-la-repartition-7900697391",
-"summary": "Marine Le Pen a présenté son projet de réforme des retraites le 17 novembre 2026\nMarine Le Pen veut une part de capitalisation pour les retraites : comment ça marche, et quelle différence avec la répartition ?",
-"source": "RTL",
-"date": "2026-11-17T18:15:00+00:00",
-"added": "2026-11-17T19:53:05+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": "Marine Le Pen"
-},
-{
-"id": "117329388731d057",
-"title": "Cyberattaques : l'Assemblée nationale adopte le projet de loi sur la cybersécurité",
-"link": "https://www.la-croix.com/politique/cyberattaques-l-assemblee-nationale-adopte-le-projet-de-loi-sur-la-cybersecurite-20261117",
-"summary": "Les députés ont adopté mardi 17 novembre le projet de loi sur la cybersécurité par 464 voix contre 64. Le texte, qui impose de nouvelles obligations à des milliers d’entreprises, doit encore être examiné en commission mixte paritaire.",
-"source": "La Croix",
-"date": "2026-11-17T18:07:18+00:00",
-"added": "2026-11-17T19:53:05+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "a72ac31aa3c34de5",
-"title": "Gaz lacrymogènes: un collectif alerte sur la santé des femmes, LFI veut les interdire en manifestation",
-"link": "https://lcp.fr/actualites/gaz-lacrymogenes-un-collectif-alerte-sur-la-sante-des-femmes-lfi-veut-les-interdire-en",
-"summary": "Un questionnaire du collectif \"Lacrymos de sang\", présenté le 17 novembre à l'Assemblée nationale, a mis en lumière des séquelles gynécologiques rencontrées sous l'effet du gaz lacrymogène.",
-"source": "LCP",
-"date": "2026-11-17T18:05:30+00:00",
-"added": "2026-11-17T19:53:05+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement",
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "261446e132ddcb52",
-"title": "Retraites : le techno-populisme trompeur de Marine Le Pen",
-"link": "https://www.lopinion.fr/politique/retraites-le-techno-populisme-trompeur-de-marine-le-pen",
-"summary": "Habile, Marine Le Pen savait trop bien qu’elle jouait sa crédibilité pour ne pas avoir travaillé sa réforme. Son objectif, dissimuler sous les oripeaux de la respectabilité budgétaire une folie sociale : le retour de la retraite à 62 ans, voire à 60 ans, un demi-siècle après l’erreur fatale de François Mitterrand.",
-"source": "L'Opinion",
-"date": "2026-11-17T18:00:00+00:00",
-"added": "2026-11-17T19:53:05+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "be6688ce2efd8582",
-"title": "« Réelle manipulation » : un groupe Facebook de 25.000 membres consacré aux sorties dans le Lot détourné au profit du candidat à la présidentielle David Lisnard",
-"link": "https://www.nicematin.com/societe/politique/reelle-manipulation-un-groupe-facebook-de-25-000-membres-consacre-aux-sorties-dans-le-lot-detourne-au-profit-du-candidat-a-la-presidentielle-david-lisnard-10762895",
-"summary": "Dates du marché de Noël, information sur un chantier, annonce d’un festival de théâtre... Puis David Lisnard. Le groupe Facebook « Évènements Lot, Cantal & Aveyron », créé en septembre 2019, a subitement changé de nom le 7 novembre 2026 pour devenir « Soutien pour David Lisnard dans le Lot, Cantal et Aveyron.",
-"source": "Nice-Matin",
-"date": "2026-11-17T17:52:02+00:00",
-"added": "2026-11-18T07:58:28+00:00",
-"official": false,
-"also": [
-"Le Progrès",
-"Le Dauphiné Libéré"
-],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "75db975cb3a01f02",
-"title": "Transparence salariale et PME dans l'économie de la défense : la délégation aux entreprises lance deux nouvelles missions d'information",
-"link": "https://www.senat.fr//salle-de-presse/communiques-de-presse/presse/17-11-2026/transparence-salariale-et-pme-dans-leconomie-de-la-defense-la-dae-lance-deux-missions-dinformation.html",
-"summary": "La délégation sénatoriale aux Entreprises, présidée par Olivier Rietmann (LR), a désigné les rapporteurs des deux nouvelles missions d’information arrêtées par son bureau : “Transparence salariale : quels impacts pour les entreprises ?” et “Les PME et l’économie de la défense”.",
-"source": "Sénat – Communiqués",
-"date": "2026-11-17T17:51:40+00:00",
-"added": "2026-11-17T19:53:05+00:00",
-"official": true,
-"also": [],
-"base": [
-"parlement"
-],
-"filtered": false,
-"topics": [
-"parlement",
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "10691fae52acdca1",
-"title": "\"On souhaite sortir de ce carcan de contraintes qui ne fonctionne pas\" : le RN veut revenir à un DPE purement informatif",
-"link": "https://www.franceinfo.fr/replay-radio/la-question-des-informes/on-souhaite-sortir-de-ce-carcan-de-contraintes-qui-ne-fonctionne-pas-le-rn-veut-revenir-a-un-dpe-purement-informatif_8265083.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "Le Rassemblement national souhaite supprimer les obligations liées au diagnostic de performance énergétique (DPE) pour les propriétaires bailleurs.",
-"source": "franceinfo",
-"date": "2026-11-17T17:48:00+00:00",
-"added": "2026-11-17T19:53:05+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": ""
 }
 ]
