@@ -15,7 +15,7 @@
 "name": "LCP",
 "ok": true,
 "items": 100,
-"new": 0
+"new": 2
 },
 {
 "name": "Public Sénat",
@@ -27,25 +27,25 @@
 "name": "Le Monde",
 "ok": true,
 "items": 20,
-"new": 0
+"new": 1
 },
 {
 "name": "franceinfo",
 "ok": true,
 "items": 20,
-"new": 0
+"new": 1
 },
 {
 "name": "Le Figaro",
 "ok": true,
 "items": 20,
-"new": 1
+"new": 0
 },
 {
 "name": "Libération",
 "ok": true,
 "items": 50,
-"new": 2
+"new": 1
 },
 {
 "name": "La Croix",
@@ -63,7 +63,7 @@
 "name": "BFMTV",
 "ok": true,
 "items": 30,
-"new": 1
+"new": 0
 },
 {
 "name": "20 Minutes",
@@ -80,7 +80,7 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 28,
+"items": 30,
 "new": 0
 },
 {
@@ -92,49 +92,49 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 29,
+"items": 30,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 44,
+"items": 43,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 21,
-"new": 0
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 100,
-"new": 3
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 100,
-"new": 0
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 100,
-"new": 0
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 78,
+"items": 34,
 "new": 1
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 24,
+"items": 100,
+"new": 0
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 100,
+"new": 0
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 87,
+"new": 0
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 71,
+"new": 1
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 22,
 "new": 0
 },
 {
@@ -153,24 +153,24 @@
 "name": "Google Actualités",
 "ok": true,
 "items": 100,
-"new": 1
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 20,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 47,
+"items": 17,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 52,
-"new": 1
+"items": 43,
+"new": 0
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 49,
+"new": 0
 }
 ]
