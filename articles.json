@@ -1,5 +1,172 @@
 [
 {
+"id": "c5615696766c83eb",
+"title": "Partie de campagne, épisode 10 : présidentielle 2027, déjà une quarantaine de candidats",
+"link": "https://www.tf1info.fr/politique/videos/video-partie-de-campagne-episode-10-presidentielle-2027-deja-une-quarantaine-de-candidats-76479-2477381.html",
+"summary": "À moins de six mois du premier tour de l'élection présidentielle, une quarantaine de candidats se sont déclarés ou sont recensés.",
+"source": "TF1 Info",
+"date": "2026-11-21T21:15:20+00:00",
+"added": "2026-11-21T21:27:24+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "d97adf7a3e82bc8f",
+"title": "Fuites de Beauvau vers le RN : d’un email trouvé au domicile d’un ami de Marine Le Pen aux suspicions visant le préfet Hugues Moutouh, itinéraire d’une enquête sensible",
+"link": "https://www.lemonde.fr/societe/article/2026/11/21/fuites-de-beauvau-vers-le-rn-d-un-email-trouve-au-domicile-d-un-ami-de-marine-le-pen-aux-suspicions-visant-le-prefet-moutouh-itineraire-d-une-enquete-sensible_6814067_3224.html",
+"summary": "Le préfet a demandé sa mise en retrait après la révélation de suspicions le visant dans l’enquête sur les fuites d’informations confidentielles vers le RN.",
+"source": "Le Monde",
+"date": "2026-11-21T21:00:02+00:00",
+"added": "2026-11-21T21:27:24+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "cd218dbdc09f2487",
+"title": "\"Il en manque 100 qui ne vont pas tomber tout seuls\": Edwige Diaz affirme que Marine Le Pen n'a \"pas encore\" les 500 promesses de parrainages pour la présidentielle 2027",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/il-en-manque-100-qui-ne-vont-pas-tomber-tout-seuls-edwige-diaz-affirme-que-marine-le-pen-n-a-pas-encore-les-500-promesses-de-parrainages-pour-la-presidentielle-2027_AV-202611210439.html",
+"summary": "Ce samedi 21 novembre, la sénatrice RN de Gironde Edwige Diaz a fait le point sur BFMTV sur les promesses de parrainages à Marine Le Pen pour pouvoir être candidate à l'élection présidentielle.",
+"source": "BFMTV",
+"date": "2026-11-21T20:46:27+00:00",
+"added": "2026-11-21T21:27:24+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Edwige Diaz"
+},
+{
+"id": "52360215a19625da",
+"title": "Présidentielle 2027: la stratégie d'Éric Zemmour pour retrouver de l'élan",
+"link": "https://www.rfi.fr/fr/france/20261121-pr%C3%A9sidentielle-2027-la-strat%C3%A9gie-d-%C3%A9ric-zemmour-pour-retrouver-de-l-%C3%A9lan",
+"summary": "",
+"source": "RFI",
+"date": "2026-11-21T20:42:34+00:00",
+"added": "2026-11-21T21:27:24+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "b53ebe76a85c1688",
+"title": "Soupçons de fuites du ministère de l'Intérieur vers le RN: \"Je n'ai jamais vu [Hugues Moutouh] au siège\" du parti, assure Edwige Diaz, sénatrice RN",
+"link": "https://www.bfmtv.com/politique/video-soupcons-de-fuites-du-ministere-de-l-interieur-vers-le-rn-je-n-ai-jamais-vu-hugues-moutouh-au-siege-du-parti-assure-edwige-diaz-senatrice-rn_VN-202611210431.html",
+"summary": "Le préfet du Loiret Hugues Moutouh est soupçonné d'être impliqué dans la transmission au Rassemblement national d'informations confidentielles sur les enquêtes concernant le parti.",
+"source": "BFMTV",
+"date": "2026-11-21T20:14:22+00:00",
+"added": "2026-11-21T21:27:24+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement",
+"parlement",
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Edwige Diaz"
+},
+{
+"id": "f7719d474639cd3c",
+"title": "Loi sur la présomption d’usage légal des armes par les forces de l’ordre adoptée: \"C'est une victoire idéologique\" pour le Rassemblement national, se félicite Edwige Diaz, sénatrice RN",
+"link": "https://www.bfmtv.com/politique/video-loi-sur-la-presomption-d-usage-legal-des-armes-par-les-forces-de-l-ordre-adoptee-c-est-une-victoire-ideologique-pour-le-rassemblement-national-se-felicite-edwige-diaz-senatrice-rn_VN-202611210430.html",
+"summary": "Edwige Diaz, sénatrice RN et présidente du groupe \"Union nationale pour les territoires\" au Sénat, était l'invitée de BFMTV ce 21 novembre.",
+"source": "BFMTV",
+"date": "2026-11-21T19:56:46+00:00",
+"added": "2026-11-21T21:27:24+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"parlement",
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Edwige Diaz"
+},
+{
+"id": "a196be9bd2e8d2ac",
+"title": "Manifestations en France: \"Ce que je regrette, c'est que le gouvernement joue sur l'épuisement\" de la mobilisation, dénonce Edwige Diaz, sénatrice RN",
+"link": "https://www.bfmtv.com/politique/video-manifestations-en-france-ce-que-je-regrette-c-est-que-le-gouvernement-joue-sur-l-epuisement-de-la-mobilisation-denonce-edwige-diaz-senatrice-rn_VN-202611210429.html",
+"summary": "Pour le sixième samedi d'affilée, des syndicats, organisations de jeunesse et gilets jaunes ont appelé à protester ce samedi dans la rue contre la vie chère, alors que le mouvement des gilets jaunes fête son huitième anniversaire ce week-end.",
+"source": "BFMTV",
+"date": "2026-11-21T19:51:47+00:00",
+"added": "2026-11-21T21:27:24+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement",
+"parlement",
+"partis"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "Edwige Diaz"
+},
+{
+"id": "c55cbcc83fdb98ff",
+"title": "Jean-Luc Mélenchon peut-il réconcilier les gauches ? - 21/11",
+"link": "https://www.bfmtv.com/replay-emissions/fauvelle-week-end/video-jean-luc-melenchon-peut-il-reconcilier-les-gauches-21-11_VN-202611210427.html",
+"summary": "VIDÉO - Retrouvez le replay de Fauvelle Week-end sur BFMTV.",
+"source": "BFMTV",
+"date": "2026-11-21T19:34:13+00:00",
+"added": "2026-11-21T21:27:24+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "0dd36878bb62bab9",
 "title": "Présidentielle 2027 : Éric Zemmour se pose en \"candidat de la liberté de parler\" face \"au totalitarisme d'atmosphère\"",
 "link": "https://www.laprovence.com/article/elections/83842902759413/presidentielle-2027-eric-zemmour-se-pose-en-candidat-de-la-liberte-de-parler-face-au-totalitarisme-d-atmosphere",
@@ -8,7 +175,9 @@
 "date": "2026-11-21T19:13:23+00:00",
 "added": "2026-11-21T19:37:28+00:00",
 "official": false,
-"also": [],
+"also": [
+"BFMTV"
+],
 "base": [
 "presidentielle"
 ],
@@ -88,7 +257,9 @@
 "date": "2026-11-21T18:42:58+00:00",
 "added": "2026-11-21T19:37:28+00:00",
 "official": false,
-"also": [],
+"also": [
+"Le Monde"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -175,7 +346,8 @@
 "official": false,
 "also": [
 "franceinfo",
-"Libération"
+"Libération",
+"Ouest-France"
 ],
 "base": [],
 "filtered": true,
@@ -195,7 +367,9 @@
 "date": "2026-11-21T17:57:09+00:00",
 "added": "2026-11-21T19:37:28+00:00",
 "official": false,
-"also": [],
+"also": [
+"L'Humanité"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -264,7 +438,8 @@
 "Ouest-France",
 "Midi Libre",
 "La Provence",
-"franceinfo"
+"franceinfo",
+"RFI"
 ],
 "base": [
 "presidentielle"
@@ -607,6 +782,29 @@
 "partis"
 ],
 "natures": [],
+"speaker": ""
+},
+{
+"id": "31ff3cfc04d295a7",
+"title": "Elections en Espagne : “Les coalitions entre le Parti populaire et Vox fonctionnent très bien”, assure cet eurodéputé espagnol conservateur",
+"link": "https://www.publicsenat.fr/actualites/politique/elections-en-espagne-les-coalitions-entre-le-parti-populaire-et-vox-fonctionnent-tres-bien-assure-cet-eurodepute-espagnol-conservateur",
+"summary": "Des élections législatives anticipées auront lieu en Espagne le 29 novembre. Le Premier ministre socialiste espagnol Pedro Sanchez peut-il obtenir une majorité parlementaire et éviter une coalition entre la droite du Parti populaire et l’extrême droite de Vox ?",
+"source": "Public Sénat",
+"date": "2026-11-21T15:30:00+00:00",
+"added": "2026-11-21T21:27:24+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement",
+"parlement",
+"partis"
+],
+"natures": [
+"Citation"
+],
 "speaker": ""
 },
 {
@@ -2910,6 +3108,27 @@
 "filtered": true,
 "topics": [
 "presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "d9f92c4c40380562",
+"title": "France enquête sur des fuites présumées d'informations judiciaires vers le Rassemblement national",
+"link": "https://fr.euronews.com/2026/11/20/france-enquete-sur-des-fuites-presumees-dinformations-judiciaires-vers-le-rassemblement-na",
+"summary": "Les autorités françaises cherchent à établir si un ancien haut responsable du ministère de l’Intérieur a divulgué des informations confidentielles sur des enquêtes judiciaires au Rassemblement national, le parti d’extrême droite de Marine Le Pen, quelques mois avant l’élection présidentielle.",
+"source": "Euronews",
+"date": "2026-11-20T16:36:20+00:00",
+"added": "2026-11-21T21:27:24+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"gouvernement",
+"partis"
 ],
 "natures": [],
 "speaker": ""
@@ -6027,6 +6246,32 @@
 "speaker": ""
 },
 {
+"id": "1fa1474ef9d36724",
+"title": "\"C'est un sujet que j'ai abordé cette semaine\" : Gérard Larcher exige de décaler la présidentielle 2027 pour éviter le chaos du 1er-Mai",
+"link": "https://www.laprovence.com/article/politique/24009164614124/presidentielle-2027-pourquoi-le-president-du-senat-gerard-larcher-demande-que-l-on-decale-le-scrutin",
+"summary": "\"Je l'ai dit clairement (...) au Premier ministre il y a peu de temps\", a assuré M. Larcher. Le président du Sénat Gérard Larcher (LR) a affirmé jeudi sur BFMTV avoir demandé \"très clairement\" au Premier ministre d’avancer la date de la présidentielle, pour éviter un second tour au lendemain des défilés du 1er-Mai.",
+"source": "La Provence",
+"date": "2026-11-20T07:07:11+00:00",
+"added": "2026-11-21T21:27:24+00:00",
+"official": false,
+"also": [],
+"base": [
+"parlement"
+],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement",
+"parlement",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Gérard Larcher"
+},
+{
 "id": "260b6cd5ffe1be8b",
 "title": "[Présidentielle 2027] En plus du prêt bancaire de 10,6 millions d’euros, Marine Le Pen mise sur les dons pour compléter le financement de sa campagne",
 "link": "https://www.contexte.com/fr/actualite/pouvoirs/en-plus-du-pret-bancaire-de-106-millions-deuros-marine-le-pen-mise-sur-les-dons-pour-completer-le-financement-de-sa-campagne_285682",
@@ -7464,7 +7709,8 @@
 "Le Monde",
 "franceinfo",
 "Le Dauphiné Libéré",
-"Sud Ouest"
+"Sud Ouest",
+"RTL"
 ],
 "base": [],
 "filtered": true,
@@ -11905,6 +12151,24 @@
 "speaker": ""
 },
 {
+"id": "e7b43715fdd59548",
+"title": "«Ni sexisme, ni politique, ni impérialisme, simple application de la loi» : passe d’armes entre LFI et la préfecture de l’Oise autour d’une écharpe tricolore",
+"link": "https://www.lefigaro.fr/politique/passe-d-armes-entre-lfi-et-la-prefecture-de-l-oise-autour-du-port-d-une-echarpe-tricolore-20261118",
+"summary": "DÉCRYPTAGE - Rappelée à l’ordre par le préfet de l’Oise sur le port non conventionnel d’une écharpe tricolore en manifestation, Marianne Seck persiste avec le soutien de Jean-Luc Mélenchon.",
+"source": "Le Figaro",
+"date": "2026-11-19T08:56:50+00:00",
+"added": "2026-11-21T21:27:24+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "5b0a314923bd9f2b",
 "title": "La proposition du PS et de Glucksmann sur la régularisation de travailleurs sans-papiers présentée à l’Assemblée",
 "link": "https://www.leparisien.fr/politique/la-proposition-du-ps-et-de-glucksmann-sur-la-regularisation-de-travailleurs-sans-papiers-presentee-a-lassemblee-19-11-2026-UJWA332LP5DNHPZ453H3H3TEKA.php",
@@ -13238,377 +13502,5 @@
 "Réaction"
 ],
 "speaker": "Manuel Bompard"
-},
-{
-"id": "46247b4a804f1907",
-"title": "\"Le vrai sujet pour la grande majorité des Français, c'est le fait que le travail ne paie pas assez\", estime Max Brisson, sénateur \"Les Républicains\"",
-"link": "https://www.bfmtv.com/politique/video-le-vrai-sujet-pour-la-grande-majorite-des-francais-c-est-le-fait-que-le-travail-ne-paie-pas-assez-estime-max-brisson-senateur-les-republicains_VN-202611180989.html",
-"summary": "VIDÉO - Max Brisson, sénateur \"Les Républicains\", était invité sur le plateau de BFMTV, ce mercredi 18 novembre.",
-"source": "BFMTV",
-"date": "2026-11-18T21:01:51+00:00",
-"added": "2026-11-18T21:41:16+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"matinales",
-"parlement",
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Max Brisson"
-},
-{
-"id": "2cc45e658f5189d8",
-"title": "Présidentielle 2027: Marine Tondelier \"prête\" à une \"coalition\" autour de Jean-Luc Mélenchon",
-"link": "https://lcp.fr/actualites/presidentielle-2027-marine-tondelier-prete-a-une-coalition-autour-de-jean-luc-melenchon",
-"summary": "Marine Tondelier s’est dite \"prête\", ce mercredi 18 novembre sur France 2, à travailler à une \"coalition\" autour de Jean-Luc Mélenchon pour l'élection présidentielle.",
-"source": "LCP",
-"date": "2026-11-18T20:59:50+00:00",
-"added": "2026-11-18T21:41:16+00:00",
-"official": false,
-"also": [
-"Le Monde",
-"franceinfo",
-"Libération",
-"La Croix",
-"BFMTV",
-"20 Minutes",
-"Les Echos",
-"Ouest-France",
-"Le Parisien",
-"La Nouvelle République",
-"France 24",
-"La Tribune",
-"RTL",
-"Midi Libre",
-"Challenges",
-"Le Télégramme",
-"Sud Ouest",
-"Le Bien Public",
-"Le HuffPost",
-"RMC",
-"CNews",
-"TF1 Info",
-"Le Point",
-"L'Opinion",
-"Marianne",
-"Le Nouvel Obs",
-"L'Humanité",
-"La Montagne",
-"Le Dauphiné Libéré",
-"Le Figaro",
-"Le Republicain Lorrain",
-"Mediapart",
-"Europe 1"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "8646117e1c67fa56",
-"title": "Retraite à 65 ans proposée par Édouard Philippe: \"Pour équilibrer le système (...) il va falloir travailler un peu plus\", explique Maël de Calan, président Horizons du département du Finistère et porte-parole d'Édouard Philippe",
-"link": "https://www.bfmtv.com/politique/horizons/video-retraite-a-65-ans-proposee-par-edouard-philippe-pour-equilibrer-le-systeme-il-va-falloir-travailler-un-peu-plus-explique-mael-de-calan-president-horizons-du-departement-du-finistere-et-porte-parole-d-edouard-philippe_VN-202611180988.html",
-"summary": "Édouard Philippe a présenté son programme ce 18 novembre, un \"projet massif et sérieux\", promet-il, pour \"remettre la France vers l'avant\".",
-"source": "BFMTV",
-"date": "2026-11-18T20:59:23+00:00",
-"added": "2026-11-18T21:41:16+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Édouard Philippe"
-},
-{
-"id": "779a8fb97a0ffe7c",
-"title": "Travail: \"Nous proposons l'augmentation du Smic à 1.700 euros nets et un écart de salaire maximum de 1 à 20 dans les entreprises\", explique Manon Aubry, eurodéputée La France insoumise",
-"link": "https://www.bfmtv.com/politique/la-france-insoumise/video-travail-nous-proposons-l-augmentation-du-smic-a-1-700-euros-nets-et-un-ecart-de-salaire-maximum-de-1-a-20-dans-les-entreprises-explique-manon-aubry-eurodeputee-la-france-insoumise_VN-202611180982.html",
-"summary": "VIDÉO - Manon Aubry, eurodéputée La France insoumise, était l'invitée de BFMTV ce mercredi 18 novembre.",
-"source": "BFMTV",
-"date": "2026-11-18T20:53:19+00:00",
-"added": "2026-11-18T21:41:16+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"matinales",
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Manon Aubry"
-},
-{
-"id": "388a6b41ef26b93a",
-"title": "Temps de travail: quelles sont les propositions des candidats à la prochaine élection présidentielle?",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-temps-de-travail-quelles-sont-les-propositions-des-candidats-a-la-prochaine-election-presidentielle_VN-202611180976.html",
-"summary": "Dans une interview accordée au Parisien, Édouard Philippe propose de permettre aux salariés de travailler davantage pour gagner mécaniquement plus.",
-"source": "BFMTV",
-"date": "2026-11-18T20:41:56+00:00",
-"added": "2026-11-18T21:41:16+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "a9d04848a91a69a5",
-"title": "Sébastien Lecornu Premier ministre",
-"link": "https://www.bfmtv.com/politique/gouvernement/sebastien-lecornu-premier-ministre_DN-202509100375.html",
-"summary": "Sébastien Lecornu a été nommé Premier ministre le 9 septembre 2025, après la chute du gouvernement de François Bayrou, qui n'a pas obtenu la confiance de l'Assemblée nationale.",
-"source": "BFMTV",
-"date": "2026-11-18T20:41:13+00:00",
-"added": "2026-11-18T21:41:16+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement",
-"parlement",
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "a6949dbc444d9f0a",
-"title": "Budget: le gouvernement précisera \"dans les prochains jours\" les thèmes \"prioritaires\" de discussion en vue de compromis",
-"link": "https://www.bfmtv.com/politique/gouvernement/budget-le-gouvernement-precisera-dans-les-prochains-jours-les-themes-prioritaires-de-discussion-en-vue-de-compromis_AD-202611180973.html",
-"summary": "Le ministre des Comptes publics David Amiel a indiqué que le Premier ministre aura l'occasion dans les prochains jours de lister les thèmes prioritaires de discussion sur le budget en vue d'un compromis \"avec la droite républicaine et avec la gauche républicaine\".",
-"source": "BFMTV",
-"date": "2026-11-18T20:41:13+00:00",
-"added": "2026-11-18T21:41:16+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "9d40e17b8ec195a1",
-"title": "\"Avec Raphaël Glucksmann, on essaie d'être dans ce pragmatisme et dans cette gauche sérieuse\", explique Jérôme Guedj, porte-parole du candidat PS - Place Publique",
-"link": "https://www.bfmtv.com/politique/video-avec-raphael-glucksmann-on-essaie-d-etre-dans-ce-pragmatisme-et-dans-cette-gauche-serieuse-explique-jerome-guedj-porte-parole-du-candidat-ps-place-publique_VN-202611180972.html",
-"summary": "Jérôme Guedj, député PS de l'Essonne et porte-parole de Raphaël Glucksmann, était invité sur le plateau de BFMTV, ce mercredi 19 novembre.",
-"source": "BFMTV",
-"date": "2026-11-18T20:37:19+00:00",
-"added": "2026-11-18T21:41:16+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"matinales",
-"parlement",
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jérôme Guedj"
-},
-{
-"id": "b8fc445a2307bc58",
-"title": "Vie chère: \"Ce sont les Français qui trinquent face à ce quinquennat de l'inutile\", fustige Max Brisson, sénateur \"Les Républicains\" des Pyrénées-Atlantiques",
-"link": "https://www.bfmtv.com/politique/les-republicains/video-vie-chere-ce-sont-les-francais-qui-trinquent-face-a-ce-quinquennat-de-l-inutile-fustige-max-brisson-senateur-les-republicains-des-pyrenees-atlantiques_VN-202611180967.html",
-"summary": "Max Brisson, sénateur \"Les Républicains\" des Pyrénées-Atlantiques, était l'invité de BFMTV ce mercredi 18 novembre.",
-"source": "BFMTV",
-"date": "2026-11-18T20:29:17+00:00",
-"added": "2026-11-18T21:41:16+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"matinales",
-"parlement",
-"partis"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "Max Brisson"
-},
-{
-"id": "fa07ed397855b0ea",
-"title": "Une décision \"non motivée, non fondée\": privé de salle municipale, Francis Lalanne maintient son meeting à Montauban",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/une-decision-non-motivee-non-fondee-prive-de-salle-municipale-francis-lalanne-maintient-son-meeting-a-montauban_AD-202611180964.html",
-"summary": "Le maire UDR de Montauban a annulé, mercredi 18 novembre, la réservation de la salle municipale de la ville par Francis Lalanne, invoquant un risque de trouble à l'ordre public en raison de la présence de Dieudonné.",
-"source": "BFMTV",
-"date": "2026-11-18T20:29:08+00:00",
-"added": "2026-11-18T21:41:16+00:00",
-"official": false,
-"also": [
-"Le Monde"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Citation",
-"Discours"
-],
-"speaker": "Francis Lalanne"
-},
-{
-"id": "6d2b53f6f0795951",
-"title": "Demandes d’asile : « 95% des personnes concernées en fuite », Laurent Nuñez interpellé au Sénat sur les ratés de la nouvelle procédure aux frontières",
-"link": "https://www.publicsenat.fr/actualites/parlementaire/demandes-dasile-95-des-personnes-concernees-en-fuite-laurent-nunez-interpelle-au-senat-sur-les-rates-de-la-nouvelle-procedure-aux-frontieres",
-"summary": "Auditionné dans le cadre de l’examen du budget 2027 par la commission des lois, le ministre de l’Intérieur a reconnu des lacunes liées à la transcription juridique du Pacte européen asile et immigration.",
-"source": "Public Sénat",
-"date": "2026-11-18T20:27:50+00:00",
-"added": "2026-11-19T09:50:51+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement",
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "4940160d0386c12f",
-"title": "Vie chère: \"Surmonter la crise du carburant, ça c'est l'urgence\", mais \"il y a des questions de moyen et long terme qui ne peuvent se trancher qu'à l'occasion de la présidentielle\", juge Maël de Calan, porte-parole d'Édouard Philippe",
-"link": "https://www.bfmtv.com/politique/horizons/video-vie-chere-surmonter-la-crise-du-carburant-ca-c-est-l-urgence-mais-il-y-a-des-questions-de-moyen-et-long-terme-qui-ne-peuvent-se-trancher-qu-a-l-occasion-de-la-presidentielle-juge-mael-de-calan-porte-parole-d-edouard-philippe_VN-202611180963.html",
-"summary": "Maël de Calan, président Horizons du département du Finistère et porte-parole d'Édouard Philippe, était l'invité de BFMTV ce mercredi 18 novembre.",
-"source": "BFMTV",
-"date": "2026-11-18T20:25:15+00:00",
-"added": "2026-11-18T21:41:16+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"matinales",
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Maël de Calan"
-},
-{
-"id": "733c158b685e818b",
-"title": "\"On a peu d'espoir sur la capacité d'Emmanuel Macron à comprendre ce rejet d'une grande partie des Français\", estime Thomas Ménagé, député \"Rassemblement national\" du Loiret",
-"link": "https://www.bfmtv.com/politique/video-on-a-peu-d-espoir-sur-la-capacite-d-emmanuel-macron-a-comprendre-ce-rejet-d-une-grande-partie-des-francais-estime-thomas-menage-depute-rassemblement-national-du-loiret_VN-202611180960.html",
-"summary": "Thomas Ménagé, député \"Rassemblement national\" du Loiret, était invité sur le plateau de BFMTV, ce mercredi 18 novembre.",
-"source": "BFMTV",
-"date": "2026-11-18T20:21:41+00:00",
-"added": "2026-11-18T21:41:16+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"matinales",
-"elysee",
-"parlement",
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Thomas Ménagé"
-},
-{
-"id": "446f6eeabdcbbe64",
-"title": "Vie chère: \"Soit le gouvernement répond à la colère sociale, (...) soit faut qu'ils s'en aillent\", lance Manon Aubry, eurodéputée La France insoumise",
-"link": "https://www.bfmtv.com/politique/la-france-insoumise/video-vie-chere-soit-le-gouvernement-repond-a-la-colere-sociale-soit-faut-qu-ils-s-en-aillent-lance-manon-aubry-eurodeputee-la-france-insoumise_VN-202611180959.html",
-"summary": "VIDÉO - Manon Aubry, eurodéputée La France insoumise, était l'invitée de BFMTV ce mercredi 18 novembre.",
-"source": "BFMTV",
-"date": "2026-11-18T20:19:06+00:00",
-"added": "2026-11-18T21:41:16+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"matinales",
-"gouvernement",
-"partis"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "Manon Aubry"
-},
-{
-"id": "d61134e6eb1d4af8",
-"title": "Laure Lavalette, députée RN, assure n'avoir \"aucune leçon à recevoir sur l'antisémitisme\", après une enquête du journal \"Les Jours\" concernant son passé étudiant dans un syndicat d'extrême droite",
-"link": "https://www.bfmtv.com/politique/front-national/video-laure-lavalette-deputee-rn-assure-n-avoir-aucune-lecon-a-recevoir-sur-l-antisemitisme-apres-une-enquete-du-journal-les-jours-concernant-son-passe-etudiant-dans-un-syndicat-d-extreme-droite_VN-202611180939.html",
-"summary": "Laure Lavalette, députée RN du Var et porte-parole de Marine Le Pen, était invitée sur le plateau de BFMTV, ce mercredi 18 novembre.",
-"source": "BFMTV",
-"date": "2026-11-18T19:57:32+00:00",
-"added": "2026-11-18T21:41:16+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"matinales",
-"parlement",
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Laure Lavalette"
-},
-{
-"id": "3a8af9b014123952",
-"title": "Présidentielle 2027 : un sondage place David Lisnard pour la première fois devant Édouard Philippe",
-"link": "https://www.rtl.fr/actu/politique/presidentielle-2027-un-sondage-place-david-lisnard-pour-la-premiere-fois-devant-edouard-philippe-7900697769",
-"summary": "David Lisnard prend son envol ? Un sondage YouGov pour Le HuffPost, publié mercredi 18 novembre, confirme la percée du maire de Cannes auprès des électeurs alors que la campagne d'Édouard Philippe semble stagner.",
-"source": "RTL",
-"date": "2026-11-18T19:38:00+00:00",
-"added": "2026-11-18T19:46:55+00:00",
-"official": false,
-"also": [
-"Valeurs actuelles"
-],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
 }
 ]
