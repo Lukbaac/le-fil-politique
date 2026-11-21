@@ -1,5 +1,45 @@
 [
 {
+"id": "255e77f0c3e6f6b4",
+"title": "Pierre Branda : « Quand Mélenchon prétend réinventer le communisme »",
+"link": "https://www.valeursactuelles.com/politique/pierre-branda-quand-melenchon-pretend-reinventer-le-communisme",
+"summary": "Le candidat Mélenchon aime le terme nouveau. Nouvelle France. Nouveau collectivisme aussi, promet-il dans son livre-programme consultable gratuitement sur internet.",
+"source": "Valeurs actuelles",
+"date": "2026-11-21T13:57:54+00:00",
+"added": "2026-11-21T15:33:13+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Pierre Branda"
+},
+{
+"id": "7c79d960e2e18408",
+"title": "Les trois piliers de la méthode Mélenchon",
+"link": "https://www.liberation.fr/politique/les-trois-piliers-de-la-methode-melenchon-20261121_AMG2LQZHQFHJZMIY2XMZR23EOQ/",
+"summary": "Dans ce décryptage vidéo, «Libération» analyse l’ascension électorale de Jean-Luc Mélenchon et sa méthode en trois points : un leader, un mouvement, un programme.",
+"source": "Libération",
+"date": "2026-11-21T13:46:56+00:00",
+"added": "2026-11-21T15:33:13+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "5b662c19aa84a967",
 "title": "\"Il y a des raisons d'être en colère\": Manon Aubry, députée européenne \"La France Insoumise\" répond à nos questions dans le cortège parisien",
 "link": "https://www.bfmtv.com/politique/la-france-insoumise/video-il-y-a-des-raisons-d-etre-en-colere-manon-aubry-deputee-europeenne-la-france-insoumise-repond-a-nos-questions-dans-le-cortege-parisien_VN-202611210327.html",
@@ -325,7 +365,9 @@
 "date": "2026-11-21T09:47:59+00:00",
 "added": "2026-11-21T11:34:15+00:00",
 "official": false,
-"also": [],
+"also": [
+"Libération"
+],
 "base": [
 "partis"
 ],
@@ -1322,6 +1364,26 @@
 "speaker": ""
 },
 {
+"id": "3571c3f5d908e914",
+"title": "Inauguration de la Grande Exposition du Fabriqué en France 2026.",
+"link": "https://www.elysee.fr/emmanuel-macron/2026/11/20/inauguration-de-la-grande-exposition-du-fabrique-en-france-2026",
+"summary": "Le Président de la République a inauguré, vendredi 20 novembre 2026, la sixième édition de la Grande Exposition du Fabriqué en France, organisée au Palais de l’Elysée.",
+"source": "Élysée",
+"date": "2026-11-20T19:10:00+00:00",
+"added": "2026-11-21T15:33:13+00:00",
+"official": true,
+"also": [],
+"base": [
+"elysee"
+],
+"filtered": false,
+"topics": [
+"elysee"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "9be07c767f2ce974",
 "title": "Présidentielle 2027 : Emmanuel Macron fustige le « discours de jalousie et de haine de la réussite » dans la campagne",
 "link": "https://www.lemonde.fr/politique/article/2026/11/20/presidentielle-2027-emmanuel-macron-fustige-le-discours-de-jalousie-et-de-haine-de-la-reussite-dans-la-campagne_6813696_823448.html",
@@ -1734,7 +1796,8 @@
 "Sud Ouest",
 "Le HuffPost",
 "CNews",
-"RMC"
+"RMC",
+"La Tribune"
 ],
 "base": [],
 "filtered": true,
@@ -4570,7 +4633,9 @@
 "date": "2026-11-20T09:02:18+00:00",
 "added": "2026-11-20T09:47:36+00:00",
 "official": false,
-"also": [],
+"also": [
+"BFMTV"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -6737,6 +6802,27 @@
 "speaker": ""
 },
 {
+"id": "66dd7f6dc2dac857",
+"title": "Déclaration conjointe des chefs d’État et de gouvernement de l’Allemagne, de la France, du Royaume-Uni et de l’Ukraine.",
+"link": "https://www.elysee.fr/emmanuel-macron/2026/11/19/declaration-conjointe-des-chefs-detat-et-de-gouvernement-de-lallemagne-de-la-france-du-royaume-uni-et-de-lukraine",
+"summary": "Les membres de la Coalition des volontaires, l’Ukraine et les États-Unis, se sont réunis aujourd’hui à Berlin.",
+"source": "Élysée",
+"date": "2026-11-19T19:25:00+00:00",
+"added": "2026-11-21T15:33:13+00:00",
+"official": true,
+"also": [],
+"base": [
+"elysee"
+],
+"filtered": false,
+"topics": [
+"elysee",
+"gouvernement"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "2a191fd5f66840f5",
 "title": "Un second quinquennat \"qui se termine de manière crépusculaire\", déclare le président du Sénat Gérard Larcher à propos du bilan d'Emmanuel Macron",
 "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-un-second-quinquennat-qui-se-termine-de-maniere-crepusculaire-declare-le-president-du-senat-gerard-larcher-a-propos-du-bilan-d-emmanuel-macron_VN-202611190965.html",
@@ -7950,7 +8036,8 @@
 "RTL",
 "TF1 Info",
 "Sud Ouest",
-"Le Télégramme"
+"Le Télégramme",
+"Le Parisien"
 ],
 "base": [
 "partis"
@@ -8563,6 +8650,26 @@
 "Citation"
 ],
 "speaker": "Raphaël Glucksmann"
+},
+{
+"id": "db7a2502d8ca2122",
+"title": "Bruno Retailleau et le paradoxe de la doudoune sans manches",
+"link": "https://www.nouvelobs.com/billet/20261119.OBS120273/bruno-retailleau-et-le-paradoxe-de-la-doudoune-sans-manches.html",
+"summary": "S’abonner permet de commenter les articles. Et pas que : vous pouvez les consulter et les offrir à vos proches.",
+"source": "Le Nouvel Obs",
+"date": "2026-11-19T16:14:23+00:00",
+"added": "2026-11-21T15:33:13+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
 },
 {
 "id": "a239464dea12f755",
@@ -13424,6 +13531,28 @@
 "speaker": ""
 },
 {
+"id": "9e36c3f6f7204c55",
+"title": "Présidentielle 2027: Édouard Philippe promet \"des réformes radicales\" pour relancer sa campagne, loin des discussions sur la primaire",
+"link": "https://lcp.fr/actualites/presidentielle-2027-edouard-philippe-promet-des-reformes-radicales-pour-relancer-sa",
+"summary": "Le candidat d'Horizons, Édouard Philippe, a présenté, ce mercredi 18 novembre, le \"volume 1\" de son programme présidentiel en vue de 2027.",
+"source": "LCP",
+"date": "2026-11-18T17:37:53+00:00",
+"added": "2026-11-21T15:33:13+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation",
+"Annonce"
+],
+"speaker": "Édouard Philippe"
+},
+{
 "id": "43026bd47702571e",
 "title": "Retraites : ce que proposent les candidats à la présidentielle",
 "link": "https://www.lesechos.fr/elections/programmes-dechiffres/retraites-ce-que-proposent-les-candidats-a-la-presidentielle-2263390",
@@ -14496,705 +14625,5 @@
 ],
 "natures": [],
 "speaker": ""
-},
-{
-"id": "4443d96d984c7d03",
-"title": "Présidentielle 2027 : pour réduire la dette, le candidat David Lisnard vise « 400 000 fonctionnaires en moins",
-"link": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-pour-reduire-la-dette-le-candidat-david-lisnard-vise-400-000-fonctionnaires-en-moins-18-11-2026-N46FW57A7NBHVGKQSEDFQLGNZM.php",
-"summary": "",
-"source": "Le Parisien",
-"date": "2026-11-18T15:29:43+00:00",
-"added": "2026-11-18T15:45:19+00:00",
-"official": false,
-"also": [
-"Le Figaro"
-],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "c9beb4436c6ec15e",
-"title": "Présidentielle 2027 : les Jeunes Agriculteurs publient un « manifeste » détaillant leurs propositions à destination des candidats à l’élection",
-"link": "https://www.lemonde.fr/politique/article/2026/11/18/presidentielle-2027-les-jeunes-agriculteurs-publient-un-manifeste-detaillant-leurs-propositions-a-destination-des-candidats-a-l-election_6813152_823448.html",
-"summary": "Le syndicat agricole insiste notamment sur la transmission alors que la moitié des agriculteurs recensés en 2020 aura atteint l’âge de la retraite d’ici à 2030.",
-"source": "Le Monde",
-"date": "2026-11-18T15:27:28+00:00",
-"added": "2026-11-18T15:45:19+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "57e2ea84e29e2b01",
-"title": "Guerre en Ukraine : « Incarnation vivante de l’esprit de défaite », « porte-parole du Kremlin »… la lourde charge de Jean-Noël Barrot contre Marine Le Pen et Jean-Luc Mélenchon",
-"link": "https://www.publicsenat.fr/actualites/politique/guerre-en-ukraine-incarnation-vivante-de-lesprit-de-defaite-porte-parole-du-kremlin-la-lourde-charge-de-jean-noel-barrot-contr",
-"summary": "Le sénateur RDPI (Renaissance), Benjamin Huin, a interrogé, lors des questions au gouvernement ce mercredi, le ministre des Affaires étrangères sur le soutien de la France à l’Ukraine.",
-"source": "Public Sénat",
-"date": "2026-11-18T15:25:40+00:00",
-"added": "2026-11-18T15:45:19+00:00",
-"official": false,
-"also": [
-"BFMTV"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"gouvernement",
-"parlement",
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jean-Noël Barrot"
-},
-{
-"id": "429b03479f0b43d0",
-"title": "2,82 millions d’euros : Raphaël Glucksmann, un candidat socialiste au patrimoine de grand bourgeois",
-"link": "https://www.valeursactuelles.com/clubvaleurs/politique/282-millions-deuros-raphael-glucksmann-un-candidat-socialiste-au-patrimoine-de-grand-bourgeois",
-"summary": "« Quand je vais à New-York ou à Berlin, je me sens plus chez moi culturellement, que quand je me rends en Picardie.",
-"source": "Valeurs actuelles",
-"date": "2026-11-18T15:20:22+00:00",
-"added": "2026-11-18T15:45:19+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "2695336e698bc246",
-"title": "Loi logement : dans une ambiance électrique, le RN renverse la table en rétablissant le droit à louer des passoires thermiques",
-"link": "https://www.lesechos.fr/politique-societe/politique/le-rn-bouscule-les-debats-sur-le-projet-de-loi-logement-en-retablissant-la-possibilite-de-louer-les-passoires-thermiques-2263249",
-"summary": "",
-"source": "Les Echos",
-"date": "2026-11-18T15:19:16+00:00",
-"added": "2026-11-18T15:45:19+00:00",
-"official": false,
-"also": [],
-"base": [
-"parlement"
-],
-"filtered": true,
-"topics": [
-"parlement",
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "0570290c1ca0584e",
-"title": "La banque hongroise qui avait prêté de l'argent à Marine Le Pen en 2022 est accusée dans une enquête journalistique d'avoir servi de \"machine à blanchir\" à un réseau russe",
-"link": "https://www.bfmtv.com/economie/entreprises/assurance-banque/la-banque-hongroise-qui-avait-prete-de-l-argent-a-marine-le-pen-en-2022-est-accusee-dans-une-enquete-journaliste-d-avoir-servi-de-machine-a-blanchir-a-un-reseau-russe_AD-202611180706.html",
-"summary": "La fuite massive de documents de la Deutsche Bank révèle qu'un réseau russe, soupçonné de blanchiment d'argent, a fait transiter des fonds par une banque hongroise détenue par des alliés de l'ancien dirigeant Viktor Orbán, ont rapporté mercredi des médias hongrois.",
-"source": "BFMTV",
-"date": "2026-11-18T15:16:02+00:00",
-"added": "2026-11-18T15:45:19+00:00",
-"official": false,
-"also": [
-"Libération"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "33b04cb99062ad79",
-"title": "Guerre en Ukraine: Jean-Noël Barrot compare Jean-Luc Mélenchon à \"un bon petit télégraphiste\" qui a repris les propos de Serguei Lavrov",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-guerre-en-ukraine-jean-noel-barrot-compare-jean-luc-melenchon-a-un-bon-petit-telegraphiste-qui-a-repris-les-propos-de-serguei-lavrov_VN-202611180703.html",
-"summary": "VIDÉO - Le ministre des Affaires étrangères Jean-Noël Barrot s'exprime lors de la séance de questions au gouvernement Sénat, ce mercredi 17 novembre.",
-"source": "BFMTV",
-"date": "2026-11-18T15:08:36+00:00",
-"added": "2026-11-18T15:45:19+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"gouvernement",
-"parlement",
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jean-Noël Barrot"
-},
-{
-"id": "8c87c4e199d894cf",
-"title": "Le Salon de l’agriculture, prévu en février, s’inquiète déjà de l’affluence des candidats à la présidentielle",
-"link": "https://www.lemonde.fr/economie/article/2026/11/18/le-salon-de-l-agriculture-prevu-en-fevrier-s-inquiete-deja-de-l-affluence-des-candidats-a-la-presidentielle_6813150_3234.html",
-"summary": "Une trentaine de prétendants à l’Elysée ont annoncé leur intention de se rendre au salon, qui se tiendra du 27 février au 7 mars.",
-"source": "Le Monde",
-"date": "2026-11-18T15:05:29+00:00",
-"added": "2026-11-18T15:45:19+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "b618d7b2be8f1bdc",
-"title": "La municipalité RN de Perpignan exposera une crèche géante sur la voie publique, après s'être vue interdire une crèche dans l'hôtel de ville",
-"link": "https://www.franceinfo.fr/decouverte/noel/la-municipalite-rn-de-perpignan-exposera-une-creche-geante-sur-la-voie-publique-a-partir-du-4-decembre-apres-s-etre-vue-interdire-une-creche-dans-l-hotel-de-ville_8288459.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "Cette crèche a été présentée comme la plus grande crèche de Noël de France et se situera sur la place de la République.",
-"source": "franceinfo",
-"date": "2026-11-18T15:00:41+00:00",
-"added": "2026-11-18T15:45:19+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "7bc7bc563c449e89",
-"title": "Présidentielle : pourquoi Marine Le Pen peut encore perdre l'élection",
-"link": "https://www.marianne.net/politique/presidentielle-pourquoi-marine-le-pen-peut-encore-perdre-l-election",
-"summary": "",
-"source": "Marianne",
-"date": "2026-11-18T15:00:14+00:00",
-"added": "2026-11-18T15:45:19+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "6d82a41c53f26223",
-"title": "Présidentielle 2027 : Jupiter, ce film qui nous rappelle que les Français éliront le détenteur des codes nucléaires",
-"link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-jupiter-ce-film-qui-nous-rappelle-que-les-francais-eliront-le-detenteur-des-codes-nucleaires-20261118",
-"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
-"source": "Le Figaro",
-"date": "2026-11-18T15:00:00+00:00",
-"added": "2026-11-18T17:47:17+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "8f38e86728ac7d69",
-"title": "Présidentielle 2027 : l’abstention estimée à 38 % en cas de second tour entre Jean-Luc Mélenchon et Marine Le Pen, selon un sondage",
-"link": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-labstention-estimee-a-38-en-cas-de-second-tour-entre-jean-luc-melenchon-et-marine-le-pen-selon-un-sondage-18-11-2026-NN4RKQ2WTBF6HFCMTIWPK7XNKA.php",
-"summary": "",
-"source": "Le Parisien",
-"date": "2026-11-18T14:53:49+00:00",
-"added": "2026-11-18T15:45:19+00:00",
-"official": false,
-"also": [
-"Europe 1",
-"La Provence",
-"BFMTV"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "ec99b325d7412b91",
-"title": "Edouard Philippe fait-il \"trop\" président ? Quand l’expérience devient un handicap pour 2027",
-"link": "https://www.lexpress.fr/politique/edouard-philippe-fait-il-trop-president-quand-lexperience-devient-un-handicap-pour-2027-YLSXCTIJCVDJVF76OB2CBX2AXY/",
-"summary": "Comment devenir neuf ? Comment faire oublier ce qu’on a été alors que l’on voyait sa propre expérience comme un atout ?",
-"source": "L'Express",
-"date": "2026-11-18T14:45:07+00:00",
-"added": "2026-11-18T15:45:19+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Édouard Philippe"
-},
-{
-"id": "13f09eb999654b0c",
-"title": "Présidentielle 2027 : les entreprises allemandes en France tétanisées par le scrutin",
-"link": "https://www.lesechos.fr/monde/europe/presidentielle-2027-les-entreprises-allemandes-en-france-tetanisees-par-le-scrutin-2263305",
-"summary": "",
-"source": "Les Echos",
-"date": "2026-11-18T14:42:29+00:00",
-"added": "2026-11-18T15:45:19+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "2c489e6f094bb9e5",
-"title": "Budget 2027 de la Sécurité sociale : les modifications à retenir après le passage du projet de loi au Sénat",
-"link": "https://www.publicsenat.fr/actualites/politique/budget-2027-de-la-securite-sociale-les-modifications-a-retenir-apres-le-passage-du-projet-de-loi-au-senat",
-"summary": "Débattu du 9 au 17 novembre, le projet de loi de financement de la Sécurité sociale (PLFSS) ressort du Sénat avec une série de modifications notables.",
-"source": "Public Sénat",
-"date": "2026-11-18T14:41:31+00:00",
-"added": "2026-11-18T15:45:19+00:00",
-"official": false,
-"also": [
-"Libération"
-],
-"base": [
-"parlement"
-],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "68eed8f752a2872e",
-"title": "Soldats français en Ukraine : la ministre déléguée auprès de la ministre des Armées auditionnée au Sénat, le 25 novembre prochain",
-"link": "https://www.publicsenat.fr/actualites/politique/soldats-francais-en-ukraine-la-ministre-deleguee-aupres-de-la-ministre-des-armees-auditionnee-au-senat-le-25-novembre-prochain",
-"summary": "Suite aux révélations autour de la présence de soldats français en Ukraine, la commission des affaires étrangères, de la défense et des forces armées du Sénat auditionnera, mercredi prochain à 8 h 30, la ministre déléguée auprès de la ministre des Armées et des Anciens combattants, Alice Rufo.",
-"source": "Public Sénat",
-"date": "2026-11-18T14:36:36+00:00",
-"added": "2026-11-18T21:41:16+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement",
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "714548d42cffc927",
-"title": "« La candidature de Raphaël Glucksmann tente de rassembler les nuances de la gauche antitotalitaire »",
-"link": "https://www.lemonde.fr/idees/article/2026/11/18/la-candidature-de-raphael-glucksmann-tente-de-rassembler-les-nuances-de-la-gauche-antitotalitaire_6813145_3232.html",
-"summary": "Le candidat à la présidentielle porte certains combats de la « deuxième gauche », aujourd’hui disparue, qui avait obtenu une victoire culturelle en essaimant de la gauche radicale au bloc central, rappelle Adrien Broche, directeur d’études d’opinion chez Viavoice, dans une tribune au « Monde ».",
-"source": "Le Monde",
-"date": "2026-11-18T14:30:07+00:00",
-"added": "2026-11-18T15:45:19+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "ec3cb3962e9ee71a",
-"title": "Homard dans les assiettes, risque de \"ruine du pays\" au menu : les coulisses du dîner de Jean-Luc Mélenchon avec des grands patrons à Paris",
-"link": "https://www.rtl.fr/actu/politique/homard-dans-les-assiettes-risque-de-ruine-du-pays-au-menu-les-coulisses-du-diner-de-jean-luc-melenchon-avec-des-grands-patrons-a-paris-7900697690",
-"summary": "Jean-Luc Mélenchon confirme sa dynamique et intrigue les \"grands patrons\". Donné systématiquement deuxième au premier tour de la présidentielle de 2027 dans le dernier sondage Ifop/Fiducial pour TF1, LCI, Le Figaro et Sud Radio, le candidat de La France insoumise est crédité de 17 à 19,5% des intentions de vote.",
-"source": "RTL",
-"date": "2026-11-18T14:27:27+00:00",
-"added": "2026-11-18T15:45:19+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "fc752ddf7a24c646",
-"title": "\"Réformes radicales\" évoquées par Édouard Philippe: \"Comment ils osent parler de rupture après avoir été aux manettes pendant 9 ans\", dénonce Céline Imart, porte-parole de Bruno Retailleau",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-reformes-radicales-evoquees-par-edouard-philippe-comment-ils-osent-parler-de-rupture-apres-avoir-ete-aux-manettes-pendant-9-ans-denonce-celine-imart-porte-parole-de-bruno-retailleau_VN-202611180681.html",
-"summary": "Vers une primaire de la droite et du centre? Bruno Retailleau a assuré que sa délégation a trouvé un \"consensus\" avec celles de Gabriel Attal et de David Lisnard, bien que le dernier ait assuré ne pas être certain que la primaire se tiendra.",
-"source": "BFMTV",
-"date": "2026-11-18T14:25:47+00:00",
-"added": "2026-11-18T15:45:19+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "Édouard Philippe"
-},
-{
-"id": "dbcd0fd1b238aa1b",
-"title": "«Il ne suffit plus de condamner l’expansion des colonies israéliennes, il faut cesser d’y contribuer»",
-"link": "https://www.liberation.fr/idees-et-debats/tribunes/il-ne-suffit-plus-de-condamner-lexpansion-des-colonies-israeliennes-il-faut-cesser-dy-contribuer-20261118_GQYZ2C7KQJCWLN2KFBBJQVFVYM/",
-"summary": "Jeudi 19 novembre, la proposition de loi visant à interdire les relations économiques avec les colonies israéliennes illégales sera examinée à l’Assemblée nationale.",
-"source": "Libération",
-"date": "2026-11-18T14:24:59+00:00",
-"added": "2026-11-18T15:45:19+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "745af694bfb6cb90",
-"title": "Darmanin estime que Mélenchon gagnerait face au RN: Consigny en doute, estimant que \"voter Le Pen est un vieux fantasme\" à droite",
-"link": "https://rmc.bfmtv.com/actualites/politique/darmanin-estime-que-melenchon-gagnerait-face-au-rn-consigny-en-doute-estimant-que-voter-le-pen-est-un-vieux-fantasme-a-droite_AV-202611180672.html",
-"summary": "\"M. Mélenchon, face à Mme Le Pen, gagnera l'élection\" présidentielle, a estimé mardi le ministre de la Justice Gérald Darmanin, appelant Bruno Retailleau et Gabriel Attal à se désister en faveur d'Edouard Philippe, sans passer par une primaire, afin d'empêcher l'insoumis d'accéder au second tour.",
-"source": "RMC",
-"date": "2026-11-18T14:20:14+00:00",
-"added": "2026-11-18T15:45:19+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"gouvernement",
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Gérald Darmanin"
-},
-{
-"id": "97119020d8b6a7b0",
-"title": "[Podcasts] Le prono du jour - Alain Marschall : \"Les gens se disent, si Marine Le Pen arrive au pouvoir, ce sera un 17 octobre puissance 10. Des gens s'abstiendront et ça peut jouer pour Mélenchon\" - 18/11",
-"link": "https://rmc.bfmtv.com/replay-emissions/les-grandes-gueules/le-prono-du-jour-alain-marschall-les-gens-se-disent-si-marine-le-pen-arrive-au-pouvoir-ce-sera-un-17-octobre-puissance-10-des-gens-s-abstiendront-et-ca-peut-jouer-pour-melenchon-18-11_EN-202611180669.html",
-"summary": "Aujourd'hui, Fatima Aït Bounoua, professeure de français, Charles Consigny, avocat, et Didier Giraud, agriculteur, débattent de l'actualité autour d'Alain Marschall et Olivier Truchot.",
-"source": "RMC",
-"date": "2026-11-18T14:15:40+00:00",
-"added": "2026-11-18T15:45:19+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Alain Marschall"
-},
-{
-"id": "9adc333b1217391d",
-"title": "« Vous reproduisez ce que vous dénoncez » : pourquoi Maria Carolina de Bourbon des Deux-Siciles, compagne de Jordan Bardella tacle Anne-Cécile Mailfert au sujet de la polémique ?",
-"link": "https://www.nicematin.com/culture/people/vous-reproduisez-ce-que-vous-denoncez-pourquoi-maria-carolina-de-bourbon-des-deux-siciles-compagne-de-jordan-bardella-tacle-anne-cecile-mailfert-au-sujet-de-la-polemique-10763299",
-"summary": "Le pic ne vient pas de nulle part et la personne qui en est à l’origine parle en toute connaissance de cause.",
-"source": "Nice-Matin",
-"date": "2026-11-18T14:06:02+00:00",
-"added": "2026-11-18T15:45:19+00:00",
-"official": false,
-"also": [
-"Le Parisien",
-"RMC"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "Jordan Bardella"
-},
-{
-"id": "7beb103859b24882",
-"title": "SONDAGE. Pouvoir d’achat : 58 % des Français attendent du prochain président un plafonnement des prix des produits de première nécessité",
-"link": "https://www.sudouest.fr/economie/achat/sondage-pouvoir-d-achat-58-des-francais-attendent-du-prochain-president-un-plafonnement-des-prix-des-produits-de-premiere-necessite-31576338.php",
-"summary": "",
-"source": "Sud Ouest",
-"date": "2026-11-18T14:02:02+00:00",
-"added": "2026-11-18T15:45:19+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "8d2c6ceae19dd865",
-"title": "Présidentielle : Jean-Luc Mélenchon, \"rouleau compresseur\" ? \"On/Off\", épisode 9",
-"link": "https://www.franceinfo.fr/politique/presidentielle-jean-luc-melenchon-rouleau-compresseur-on-off-episode-9_8287910.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "Dans le podcast \"On/Off\", Neila Latrous (France Télévisions), Jean-Rémi Baudot (franceinfo) et Maxence Lambrecq (France Inter) reviennent sur la semaine politique.",
-"source": "franceinfo",
-"date": "2026-11-18T13:59:13+00:00",
-"added": "2026-11-18T14:06:09+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "285ba698525a0300",
-"title": "Présidentielle 2027 : Raphaël Glucksmann fait partie des 1 % des Français les plus fortunés… voici le patrimoine qu’il a déclaré",
-"link": "https://www.midilibre.fr/2026/11/18/presidentielle-2027-raphael-glucksmann-fait-partie-des-1-des-francais-les-plus-fortunes-voici-le-patrimoine-quil-a-declare-13659014.php",
-"summary": "Raphaël Glucksmann, candidat de Place Publique, a déclaré un patrimoine immobilier de 2,82 millions d’euros à la Haute Autorité pour la transparence de la vie publique, le plaçant parmi les 1 % des Français les plus riches, révèle Le Canard enchaîné.",
-"source": "Midi Libre",
-"date": "2026-11-18T13:58:00+00:00",
-"added": "2026-11-18T14:06:09+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": "Raphaël Glucksmann"
-},
-{
-"id": "c012659e8eb52d7d",
-"title": "Présidentielle 2027 : le groupe Facebook met en avant des événements dans le Lot et l’Aveyron, l’administrateur le transforme en page… pro-David Lisnard",
-"link": "https://www.midilibre.fr/2026/11/18/presidentielle-2027-le-groupe-facebook-met-en-avant-des-evenements-dans-le-lot-et-laveyron-ladministrateur-le-transforme-en-page-pro-david-lisnard-13658814.php",
-"summary": "Une page Facebook a connu un peu d’agitation ces derniers jours. Pour cause, ce qui était initialement un groupe consacré aux sorties dans les départements de l’Aveyron, du Cantal et du Lot a viré en groupe promouvant la candidature du maire de Cannes, David Lisnard, à l’élection présidentielle de 2027.",
-"source": "Midi Libre",
-"date": "2026-11-18T13:58:00+00:00",
-"added": "2026-11-18T14:06:09+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "c3f8a63989831b98",
-"title": "Présidentielle 2027 : Dominique de Villepin, les coulisses d’une entrée en campagne imminente",
-"link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-dominique-de-villepin-les-coulisses-d-une-entree-en-campagne-imminente-20261118",
-"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
-"source": "Le Figaro",
-"date": "2026-11-18T13:56:32+00:00",
-"added": "2026-11-18T14:06:09+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "e61c9a1a683a0da2",
-"title": "Pour se relancer, Édouard Philippe promet de \"rétablir l'ordre\" dans \"nos comptes\" et \"nos rues\"",
-"link": "https://www.france24.com/fr/france/20261118-france-presidentielle-2027-pour-relancer-campagne-edouard-philippe-promet-retablir-ordre-comptes-rues",
-"summary": "",
-"source": "France 24",
-"date": "2026-11-18T13:56:19+00:00",
-"added": "2026-11-18T15:45:19+00:00",
-"official": false,
-"also": [
-"Ouest-France"
-],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation",
-"Annonce"
-],
-"speaker": "Édouard Philippe"
-},
-{
-"id": "8989ba69d1f6551f",
-"title": "« Je crois que Raphaël Glucksmann est l’homme de la situation », affirme Pierre Jouvet, chef du pole média du candidat",
-"link": "https://www.ledauphine.com/elections/2026/11/18/je-crois-que-raphael-glucksmann-est-l-homme-de-la-situation-affirme-pierre-jouvet-chef-du-pole-media-du-candidat",
-"summary": "La communication, les plateaux télés, Pierre Jouvet connaît. À tout juste 40 ans, l’eurodéputé socialiste, conseiller départemental, ancien maire de Saint-Vallier et ex-président de l’intercommunalité Porte de DrômArdèche, mais surtout secrétaire général du Parti socialiste, s’offre une nouvelle corde à son arc.",
-"source": "Le Dauphiné Libéré",
-"date": "2026-11-18T13:56:03+00:00",
-"added": "2026-11-18T14:06:09+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Pierre Jouvet"
-},
-{
-"id": "c9c7a3ed9ddc9c68",
-"title": "\"Faire campagne comme si on était à 15% dans les sondages\" : dans l'Allier, le RN fait passer ses mots d'ordre",
-"link": "https://www.lamontagne.fr/cindre-03220/actualites/faire-campagne-comme-si-on-etait-a-15-dans-les-sondages-dans-l-allier-le-rn-fait-passer-ses-mots-d-ordre_15085424/",
-"summary": "Un acteur, des cadres du ministère de l’Intérieur et une vedette du JT : un réseau de 3-MMC, la drogue du chemsex, démantelé\n“J’ai pété un câble” : d’un billet SNCF de deux euros non composté à la vente de sa maison, la descente aux enfers d’Arnaud\nJusqu’à 1,50 m en montagne : Alpes, Massif central, Jura...",
-"source": "La Montagne",
-"date": "2026-11-18T13:56:00+00:00",
-"added": "2026-11-18T14:06:09+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"gouvernement",
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": ""
-},
-{
-"id": "cdddbf0b0c412c56",
-"title": "[Podcasts] L'angoisse du jour - Greg, manager : \"J'ai plus peur de Mélenchon pour la paix intérieure de notre pays. Et Marine Le Pen ne fera rien de ce qu'elle dit\" - 18/11",
-"link": "https://rmc.bfmtv.com/replay-emissions/les-grandes-gueules/l-angoisse-du-jour-greg-manager-j-ai-plus-peur-de-melenchon-pour-la-paix-interieure-de-notre-pays-et-marine-le-pen-ne-fera-rien-de-ce-qu-elle-dit-18-11_EN-202611180635.html",
-"summary": "Aujourd'hui, Fatima Aït Bounoua, professeure de français, Charles Consigny, avocat, et Didier Giraud, agriculteur, débattent de l'actualité autour d'Alain Marschall et Olivier Truchot.",
-"source": "RMC",
-"date": "2026-11-18T13:48:00+00:00",
-"added": "2026-11-18T14:06:09+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "aa9833d2543dc147",
-"title": "[Podcasts] L'information du jour - Violence à l'occasion du mouvement lycéen : \"3.000 conseils de discipline menés entre septembre et octobre\", annonce Édouard Geffray, ministre de l'Éducation nationale - 18/11",
-"link": "https://rmc.bfmtv.com/replay-emissions/les-grandes-gueules/l-information-du-jour-violence-a-l-occasion-du-mouvement-lyceen-3-000-conseils-de-discipline-menes-entre-septembre-et-octobre-annonce-edouard-geffray-ministre-de-l-education-nationale-18-11_EN-202611180634.html",
-"summary": "Aujourd'hui, Fatima Aït Bounoua, professeure de français, Charles Consigny, avocat, et Didier Giraud, agriculteur, débattent de l'actualité autour d'Alain Marschall et Olivier Truchot.",
-"source": "RMC",
-"date": "2026-11-18T13:47:59+00:00",
-"added": "2026-11-18T15:45:19+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [
-"Citation",
-"Annonce"
-],
-"speaker": "Édouard Geffray"
 }
 ]
