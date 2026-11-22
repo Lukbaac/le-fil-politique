@@ -1,5 +1,231 @@
 [
 {
+"id": "bb0af978f516932d",
+"title": "Présidentielle 2027 : quel est le nombre d'élus qui peuvent parrainer un candidat ?",
+"link": "https://www.cnews.fr/france/2026-11-22/presidentielle-2027-quel-est-le-nombre-delus-qui-peuvent-parrainer-un-candidat",
+"summary": "Pour se présenter à l’élection présidentielle de 2027, les candidats doivent réunir 500 parrainages d’élus. Mais qui peut accorder sa signature et quelles sont les conditions à respecter ?",
+"source": "CNews",
+"date": "2026-11-22T13:24:55+00:00",
+"added": "2026-11-22T13:48:08+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "275286da4ba5316c",
+"title": "Scandale du RN : un mail du service du préfet Moutouh découvert, réaction de Le Pen… Le point sur les derniers rebondissements",
+"link": "https://www.nouvelobs.com/justice/20261122.OBS120354/scandale-du-rn-un-mail-du-service-du-prefet-moutouh-decouvert-reaction-de-le-pen-le-point-sur-les-derniers-rebondissements.html",
+"summary": "Le préfet Hugues Moutouh, à Nice, dans le sud-est de la France, le 7 octobre 2024. VALERY HACHE / AFP\nS’abonner permet de commenter les articles.",
+"source": "Le Nouvel Obs",
+"date": "2026-11-22T13:18:18+00:00",
+"added": "2026-11-22T13:48:08+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "9dfdc54018f9d8b4",
+"title": "C’est quoi la règle de Chatham House ?",
+"link": "https://www.20minutes.fr/societe/4264760-20261122-quoi-regle-chatham-house?at_medium=display&at_campaign=149",
+"summary": "En début de semaine, Jean-Luc Mélenchon a participé à un dîner organisé à Paris avec treize grands patrons français du CAC 40 selon le protocole de confidentialité appelé « Chatham House ».",
+"source": "20 Minutes",
+"date": "2026-11-22T13:16:58+00:00",
+"added": "2026-11-22T13:48:08+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "5682ec7bfb60db10",
+"title": "Présidentielle 2027 : découvrez ce que disent les sondages avec notre agrégateur",
+"link": "https://www.lemonde.fr/les-decodeurs/article/2026/11/22/presidentielle-2027-decouvrez-ce-que-disent-les-sondages-avec-notre-agregateur_6814213_4355770.html",
+"summary": "Avec notre agrégateur, explorez les tendances fortes qui se dégagent des nombreuses enquêtes d’opinion menées en vue du premier et du second tour de l’élection présidentielle.",
+"source": "Le Monde",
+"date": "2026-11-22T13:00:11+00:00",
+"added": "2026-11-22T13:48:08+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "d1436022cd495490",
+"title": "Présidentielle 2027 : Marine Le Pen refuse le risque des déplacements à l’étranger",
+"link": "https://www.lemonde.fr/politique/article/2026/11/22/presidentielle-2027-marine-le-pen-refuse-le-risque-des-deplacements-a-l-etranger_6814211_823448.html",
+"summary": "Contrairement à 2022, la candidate du Rassemblement national n’effectuera aucun déplacement international d’ici au scrutin des 18 avril et 2 mai, en dehors de Bruxelles.",
+"source": "Le Monde",
+"date": "2026-11-22T13:00:08+00:00",
+"added": "2026-11-22T13:48:08+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": "Marine Le Pen"
+},
+{
+"id": "ce8a4f92f609ca60",
+"title": "Marine Le Pen assure n'avoir \"jamais reçu d'information confidentielle\" du préfet Hugues Moutouh et n'en avoir \"jamais demandé\"",
+"link": "https://www.bfmtv.com/politique/front-national/marine-le-pen-assure-n-avoir-jamais-recu-d-information-confidentielle-du-prefet-hugues-moutouh-et-n-en-avoir-jamais-demande_AP-202611220260.html",
+"summary": "Questionnée sur d'autres personnes au sein du parti qui auraient pu bénéficier d'informations confidentielles, la candidate d'extrême droite s'est dite \"incapable\" de répondre \"puisque l'enquête est en cours\".",
+"source": "BFMTV",
+"date": "2026-11-22T12:54:41+00:00",
+"added": "2026-11-22T13:48:08+00:00",
+"official": false,
+"also": [
+"TF1 Info",
+"RTL",
+"Ouest-France",
+"Europe 1",
+"20 Minutes"
+],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Marine Le Pen"
+},
+{
+"id": "ec08a558e71f05cc",
+"title": "Fuites du préfet Moutouh au RN : Marine Le Pen nie en bloc avoir bénéficié d'informations secrètes",
+"link": "https://www.laprovence.com/article/politique/1470771465547615/fuites-du-prefet-moutouh-au-rn-marine-le-pen-nie-en-bloc-avoir-beneficie-dinformations-secretes",
+"summary": "Marine Le Pen a déclaré dimanche 22 novembre n'avoir \"jamais reçu d'informations confidentielles\" du préfet Hugues Moutouh mais concédé aussi être \"incapable de dire\" si son parti a pu en bénéficier puisque l'enquête sur une possible fuite de documents au profit du RN \"est en cours\".",
+"source": "La Provence",
+"date": "2026-11-22T12:52:34+00:00",
+"added": "2026-11-22T13:48:08+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "a1080f7d0cc4c182",
+"title": "\"Marine Le Pen est du côté des oligarques\" : sur RTL, l'économiste Gabriel Zucman estime que la candidate du RN défend les intérêts de \"l'extrême richesse\"",
+"link": "https://www.rtl.fr/actu/politique/marine-le-pen-est-du-cote-des-oligarques-sur-rtl-l-economiste-gabriel-zucman-estime-que-la-candidate-du-rn-defend-les-interets-de-l-extreme-richesse-7900699113",
+"summary": "Gabriel Zucman, invité du Grand Jury RTL, le 22 novembre 2026. Il y a ceux \"qui veulent soumettre l'extrême richesse à l'autorité de la puissance publique\" et taxer les plus grandes fortunes.",
+"source": "RTL",
+"date": "2026-11-22T12:16:01+00:00",
+"added": "2026-11-22T13:48:08+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"partis"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "Gabriel Zucman"
+},
+{
+"id": "319bd0330ae5a6c3",
+"title": "Pédocriminalité: Alain Bauer, professeur émérite de criminologie, affirme que les candidats à la présidentielle passent le sujet \"sous le tapis\" car \"ça leur brûle les doigts\"",
+"link": "https://www.bfmtv.com/politique/video-pedocriminalite-alain-bauer-professeur-emerite-de-criminologie-affirme-que-les-candidats-a-la-presidentielle-passent-le-sujet-sous-le-tapis-car-ca-leur-brule-les-doigts_VN-202611220244.html",
+"summary": "Alain Bauer, professeur émérite de criminologie, était invité dans BFM Politique, ce dimanche 22 novembre 2026.",
+"source": "BFMTV",
+"date": "2026-11-22T11:51:28+00:00",
+"added": "2026-11-22T13:48:08+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Alain Bauer"
+},
+{
+"id": "fb8df95a6957aa27",
+"title": "Selon un sondage Ipsos, LFI et le RN sont les partis qui suscitent le plus de rejet: \"Tout le monde déteste tout le monde\", constate Alain Bauer, professeur émérite de criminologie",
+"link": "https://www.bfmtv.com/politique/la-france-insoumise/video-selon-un-sondage-ipsos-lfi-et-le-rn-sont-les-partis-qui-suscitent-le-plus-de-rejet-tout-le-monde-deteste-tout-le-monde-constate-alain-bauer-professeur-emerite-de-criminologie_VN-202611220242.html",
+"summary": "Alain Bauer, professeur émérite de criminologie, était invité dans BFM Politique, ce dimanche 22 novembre 2026.",
+"source": "BFMTV",
+"date": "2026-11-22T11:48:45+00:00",
+"added": "2026-11-22T13:48:08+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Alain Bauer"
+},
+{
+"id": "385da874421950e3",
+"title": "Présidentielle: Alain Bauer, professeur émérite de criminologie, juge \"irresponsable\" un second tour le 2 mai",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-alain-bauer-professeur-emerite-de-criminologie-juge-irresponsable-un-second-tour-le-2-mai_VN-202611220233.html",
+"summary": "Alain Bauer, professeur émérite de criminologie, était invité dans BFM Politique, ce dimanche 22 novembre 2026.",
+"source": "BFMTV",
+"date": "2026-11-22T11:32:05+00:00",
+"added": "2026-11-22T13:48:08+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Alain Bauer"
+},
+{
 "id": "56bc8ade8186d2c4",
 "title": "Justice. Fuites à Beauvau : un mail découvert chez Frédéric Chatillon, proche de Marine Le Pen, à l'origine de l'enquête",
 "link": "https://www.ledauphine.com/faits-divers-justice/2026/11/22/fuites-a-beauvau-un-mail-decouvert-chez-frederic-chatillon-proche-de-marine-le-pen-a-l-origine-de-l-enquete",
@@ -8,7 +234,10 @@
 "date": "2026-11-22T11:26:15+00:00",
 "added": "2026-11-22T11:34:04+00:00",
 "official": false,
-"also": [],
+"also": [
+"Libération",
+"Nice-Matin"
+],
 "base": [
 "partis"
 ],
@@ -68,7 +297,9 @@
 "official": false,
 "also": [
 "Le Figaro",
-"La Provence"
+"La Provence",
+"Sud Ouest",
+"Midi Libre"
 ],
 "base": [
 "partis"
@@ -109,7 +340,9 @@
 "date": "2026-11-22T10:57:47+00:00",
 "added": "2026-11-22T11:34:04+00:00",
 "official": false,
-"also": [],
+"also": [
+"Ouest-France"
+],
 "base": [
 "elysee"
 ],
@@ -119,6 +352,27 @@
 ],
 "natures": [],
 "speaker": "Emmanuel Macron"
+},
+{
+"id": "a0941c78f8bdf0e8",
+"title": "Le major d'un concours avait avoué avoir utilisé l'IA: démission du ministre de l'Éducation en Corée du Sud après un scandale de triche",
+"link": "https://www.bfmtv.com/international/asie/coree-sud/le-major-d-un-concours-avait-avoue-avoir-utilise-l-ia-demission-du-ministre-de-l-education-en-coree-du-sud-apres-un-scandale-de-triche_AN-202611220218.html",
+"summary": "Des lycéens sud-coréens passent l'examen d'entrée à l'université - Photo par CHUNG SUNG-JUN / POOL / AFP\nLe ministre de l'Éducation sud-coréen a démissionné ce dimanche 22 novembre, emporté par un scandale de triche à l'intelligence artificielle qui a semé le doute quant à la bonne tenue des sacro-saints examens…",
+"source": "BFMTV",
+"date": "2026-11-22T10:55:37+00:00",
+"added": "2026-11-22T13:48:08+00:00",
+"official": false,
+"also": [],
+"base": [
+"matinales"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"gouvernement"
+],
+"natures": [],
+"speaker": ""
 },
 {
 "id": "1410acee406263d9",
@@ -150,7 +404,10 @@
 "date": "2026-11-22T10:18:56+00:00",
 "added": "2026-11-22T11:34:04+00:00",
 "official": false,
-"also": [],
+"also": [
+"France 24",
+"Le Figaro"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -432,6 +689,29 @@
 "speaker": ""
 },
 {
+"id": "4bd3fade7870c298",
+"title": "\"Une partie de l'extrême gauche cherche à déstabiliser la République et ses institutions\", estime Thomas Ménagé, porte-parole du RN",
+"link": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/le-7-40-franceinfo-du-dimanche-22-novembre-2026_8265002.html",
+"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
+"source": "franceinfo",
+"date": "2026-11-22T07:18:44+00:00",
+"added": "2026-11-22T13:48:08+00:00",
+"official": false,
+"also": [],
+"base": [
+"matinales"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Thomas Ménagé"
+},
+{
 "id": "9b5a630fb263feb8",
 "title": "Bardella et Mélenchon aux Antilles, réchauffement entre Retailleau et Wauquiez... Nos informations confidentielles",
 "link": "https://www.latribune.fr/article/la-tribune-dimanche/politique/1172791581263814/bardella-et-melenchon-aux-antilles-rechauffement-entre-retailleau-et-wauquiez-nos-informations-confidentielles",
@@ -491,6 +771,26 @@
 "speaker": ""
 },
 {
+"id": "5fd2c70451bbf360",
+"title": "Emmanuel Macron",
+"link": "https://www.bfmtv.com/politique/emmanuel-macron_DN-201609010121.html",
+"summary": "Emmanuel Macron a été élu président de la République en 2017 et 2022 après avoir participé au gouvernement sous François Hollande en tant que ministre de l'Économie.",
+"source": "BFMTV",
+"date": "2026-11-22T06:30:38+00:00",
+"added": "2026-11-22T13:48:08+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "12f49bf722af43b2",
 "title": "Budget 2027: Emmanuel Macron réfléchit à convoquer le Congrès à Versailles en janvier pour instaurer une règle d'or dans la Constitution",
 "link": "https://www.bfmtv.com/politique/elysee/budget-2027-emmanuel-macron-reflechit-a-convoquer-le-congres-a-versailles-en-janvier-pour-instaurer-une-regle-d-or-dans-la-constitution_AN-202611220140.html",
@@ -500,7 +800,8 @@
 "added": "2026-11-22T06:36:32+00:00",
 "official": false,
 "also": [
-"Europe 1"
+"Europe 1",
+"La Nouvelle République"
 ],
 "base": [
 "elysee"
@@ -977,7 +1278,9 @@
 "date": "2026-11-21T20:14:22+00:00",
 "added": "2026-11-21T21:27:24+00:00",
 "official": false,
-"also": [],
+"also": [
+"Midi Libre"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -1221,7 +1524,8 @@
 "added": "2026-11-21T19:37:28+00:00",
 "official": false,
 "also": [
-"RFI"
+"RFI",
+"France 24"
 ],
 "base": [
 "partis"
@@ -1286,7 +1590,8 @@
 "also": [
 "franceinfo",
 "Libération",
-"Ouest-France"
+"Ouest-France",
+"Euronews"
 ],
 "base": [],
 "filtered": true,
@@ -1558,7 +1863,8 @@
 "BFMTV",
 "Les Echos",
 "CNews",
-"20 Minutes"
+"20 Minutes",
+"Marianne"
 ],
 "base": [],
 "filtered": true,
@@ -1768,6 +2074,26 @@
 ],
 "natures": [
 "Citation"
+],
+"speaker": ""
+},
+{
+"id": "e28f29722b2fa29a",
+"title": "Un hélicoptère russe soupçonné d'avoir violé l'espace aérien de la Finlande, annonce le ministère de la Défense finlandais",
+"link": "https://www.laprovence.com/article/faits-divers-justice/1390383418332115/un-helicoptere-russe-soupconne-d-avoir-viole-l-espace-aerien-de-la-finlande-annonce-le-ministere-de-la-defense-finlandais",
+"summary": "Un hélicoptère russe est soupçonné d’avoir violé l’espace aérien de Finlande ce samedi, quelques heures après qu’une attaque de drone a mis feu à un cargo russe en mer Baltique.",
+"source": "La Provence",
+"date": "2026-11-21T14:32:46+00:00",
+"added": "2026-11-22T13:48:08+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [
+"Annonce"
 ],
 "speaker": ""
 },
@@ -3284,6 +3610,26 @@
 "speaker": "Henri Guaino"
 },
 {
+"id": "ee7a16861df67fc6",
+"title": "La proposition de loi instaurant une présomption de légitime défense pour les forces de l’ordre définitivement adoptée par le Parlement, après le vote du Sénat",
+"link": "https://www.publicsenat.fr/actualites/politique/la-proposition-de-loi-instaurant-une-presomption-de-legitime-defense-pour-les-forces-de-lordre-definitivement-adoptee-par-le-parlement-apres-le-vote-du-senat",
+"summary": "Malgré l’opposition de la gauche dénonçant un « permis de tuer », le Sénat a adopté dans les mêmes termes que l’Assemblée nationale la proposition de loi instaurant une présomption de légitime défense pour les forces de l’ordre, notamment dans le cas d’usage de leur arme.",
+"source": "Public Sénat",
+"date": "2026-11-20T19:15:54+00:00",
+"added": "2026-11-22T13:48:08+00:00",
+"official": false,
+"also": [
+"L'Opinion"
+],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "9c5b4ee2db96b444",
 "title": "«Jean-Luc Mélenchon, s'il arrive au pouvoir, fera couler le sang», affirme Philippe de Villiers",
 "link": "https://www.cnews.fr/videos/france/2026-11-20/jean-luc-melenchon-sil-arrive-au-pouvoir-fera-couler-le-sang-affirme",
@@ -4452,7 +4798,10 @@
 "official": false,
 "also": [
 "La Croix",
-"Midi Libre"
+"Midi Libre",
+"Le Parisien",
+"Le Figaro",
+"La Montagne"
 ],
 "base": [],
 "filtered": true,
@@ -12086,6 +12435,25 @@
 "speaker": ""
 },
 {
+"id": "afd816153ed04bdf",
+"title": "Emploi: le dispositif \"Territoires zéro chômeur de longue durée\" pérennisé à l'issue de l'adoption définitive d'un texte par les députés",
+"link": "https://lcp.fr/actualites/emploi-le-dispositif-territoires-zero-chomeur-de-longue-duree-perennise-a-l-issue-de-l",
+"summary": "L'expérimentation du dispositif \"Territoires zéro chômeur longue durée\", menée depuis dix ans, est désormais pérennisée à l'issue de l'adoption définitive d'une proposition de loi examinée dans le cadre de la niche parlementaire du groupe Socialistes, ce jeudi 19 novembre, à l'Assemblée nationale.",
+"source": "LCP",
+"date": "2026-11-19T14:11:33+00:00",
+"added": "2026-11-22T13:48:08+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "66efa6a02bf8ec32",
 "title": "« Certains pensent qu'il va se vautrer » : la candidature de Teddy Riner divise jusque dans les dojos vauclusiens",
 "link": "https://www.ledauphine.com/politique/2026/11/18/certains-pensent-qu-il-va-se-vautrer-la-candidature-de-teddy-riner-divise-jusque-dans-les-dojos-vauclusiens",
@@ -12201,338 +12569,6 @@
 "base": [],
 "filtered": true,
 "topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "5875c38efd1e73eb",
-"title": "[Podcasts] L'étonnement du jour - Sam Zirah : \"Jordan Bardella a dit sur ce plateau qu'il allait y jouer. Dans GTA, on incarne un criminel, on vole des voitures, on met le feu, on couche avec des prostituées\" - 19/11",
-"link": "https://rmc.bfmtv.com/replay-emissions/les-grandes-gueules/l-etonnement-du-jour-sam-zirah-jordan-bardella-a-dit-sur-ce-plateau-qu-il-allait-y-jouer-dans-gta-on-incarne-un-criminel-on-vole-des-voitures-on-met-le-feu-on-couche-avec-des-prostituees-19-11_EN-202611190603.html",
-"summary": "Aujourd'hui, Laura Warton Martinez, sophrologue, Emmanuel de Villiers, entrepreneur, et Sam Zirah, créateur de contenu, débattent de l'actualité autour d'Alain Marschall et Olivier Truchot.",
-"source": "RMC",
-"date": "2026-11-19T13:39:40+00:00",
-"added": "2026-11-19T14:10:04+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Sam Zirah"
-},
-{
-"id": "1605d891b230701f",
-"title": "\"Ce n'est pas mon camp politique\": Édouard Philippe réagit à la proposition de primaire de la droite qui pourrait inclure Éric Zemmour",
-"link": "https://www.bfmtv.com/politique/video-ce-n-est-pas-mon-camp-politique-edouard-philippe-reagit-a-la-proposition-de-primaire-de-la-droite-qui-pourrait-inclure-eric-zemmour_VN-202611190604.html",
-"summary": "Alors que David Lisnard s'est exprimé en faveur d'une participation d'Éric Zemmour à la primaire, l'ancien Premier ministre s'est dit \"surpris\" que les candidats \"de la droite et du centre\" puissent \"s'accommoder d'un travail\" avec des personnalités affiliées à l'extrême droite, comme le président du parti Reconquête…",
-"source": "BFMTV",
-"date": "2026-11-19T13:38:29+00:00",
-"added": "2026-11-19T14:10:04+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement",
-"presidentielle"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "Édouard Philippe"
-},
-{
-"id": "66613f544a03adc1",
-"title": "Au Parlement européen, 69 % des votes du Rassemblement national et de l’AfD allemande sont identiques, selon une étude",
-"link": "https://www.leparisien.fr/politique/au-parlement-europeen-69-des-votes-du-rassemblement-national-et-de-lafd-allemande-sont-identiques-selon-une-etude-19-11-2026-3VQ55KLGUJFJBI74NXB2P5XMKE.php",
-"summary": "",
-"source": "Le Parisien",
-"date": "2026-11-19T13:21:35+00:00",
-"added": "2026-11-19T14:10:04+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"parlement",
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "496ef0523ef9409f",
-"title": "Primaire de la droite : «Une primaire qui ne se fait pas dans un parti manque de cohérence», pointe Gabrielle Cluzel",
-"link": "https://www.europe1.fr/politique/primaire-de-la-droite-une-primaire-qui-ne-se-fait-pas-dans-un-parti-manque-de-coherence-pointe-gabrielle-cluzel-1240216",
-"summary": "Gabrielle Cluzel pointe dans « Christine Kelly et vous » qu'une éventuelle primaire à droite « manque de cohérence » tant les projets portés par les différents prétendants sont différents.",
-"source": "Europe 1",
-"date": "2026-11-19T13:13:00+00:00",
-"added": "2026-11-19T14:10:04+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "14132d19ff0e755f",
-"title": "Manifestation illégale de 400 policiers près de l'Élysée : Mélenchon réclame des sanctions, Faure dénonce un traitement de faveur",
-"link": "https://www.lamontagne.fr/france-monde/actualites/manifestation-illegale-de-400-policiers-pres-de-l-elysee-melenchon-reclame-des-sanctions-faure-denonce-un-traitement-de-faveur_15086460/",
-"summary": "Jusqu’à 1,50 m en montagne : Alpes, Massif central, Jura...",
-"source": "La Montagne",
-"date": "2026-11-19T13:13:00+00:00",
-"added": "2026-11-19T19:52:42+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"elysee",
-"partis"
-],
-"natures": [
-"Réaction"
-],
-"speaker": "Jean-Luc Mélenchon"
-},
-{
-"id": "b21577ca1d27fb10",
-"title": "Droits voisins : le Parlement a définitivement adopté une loi pour mieux rémunérer la presse",
-"link": "https://www.lemonde.fr/economie/article/2026/11/19/droits-voisins-le-parlement-a-definitivement-adopte-une-loi-pour-mieux-remunerer-la-presse_6813305_3234.html",
-"summary": "Issus d’une directive européenne de 2019, ces droits permettent aux éditeurs et aux agences de presse d’être rémunérés lorsque des plateformes comme Google ou Meta utilisent leurs contenus.",
-"source": "Le Monde",
-"date": "2026-11-19T13:05:11+00:00",
-"added": "2026-11-19T14:10:04+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "72e1207eabb769f9",
-"title": "Sur les différences programmatiques au sujet de l'Ukraine entre Marine Tondelier et Jean-Luc Mélenchon: \"la question, c'est quelles propositions on portera ensemble\", déclare la candidate écologiste à la présidentielle",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-sur-les-differences-programmatiques-au-sujet-de-l-ukraine-entre-marine-tondelier-et-jean-luc-melenchon-la-question-c-est-quelles-propositions-on-portera-ensemble-declare-la-candidate-ecologiste-a-la-presidentielle_VN-202611190581.html",
-"summary": "Invitée du 20 heures de France 2 mercredi 18 novembre, Marine Tondelier a assuré être prête à une \"coalition autour de Jean-Luc Mélenchon\".",
-"source": "BFMTV",
-"date": "2026-11-19T13:01:20+00:00",
-"added": "2026-11-19T14:10:04+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jean-Luc Mélenchon"
-},
-{
-"id": "890b36c3fdc74aa8",
-"title": "Présidentielle 2027. « Elle reconnaît qu’on peut gagner » : LFI conforté par le changement de pied de Marine Tondelier",
-"link": "https://www.ouest-france.fr/elections/presidentielle/presidentielle-2027-elle-reconnait-quon-peut-gagner-lfi-conforte-par-le-changement-de-pied-de-marine-tondelier-b4d65ec6-e3fa-11f1-a3b1-0c6de532ce7d",
-"summary": "",
-"source": "Ouest-France",
-"date": "2026-11-19T13:00:12+00:00",
-"added": "2026-11-19T14:10:04+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "fa6b1c3a0407b6c5",
-"title": "L’aveu de Marine Le Pen sur la Ligue des droits de l’Homme dit beaucoup de l’héritage du RN",
-"link": "https://www.huffingtonpost.fr/politique/video/l-aveu-de-marine-le-pen-sur-la-ligue-des-droits-de-l-homme-dit-beaucoup-de-l-heritage-du-rn_360398.html",
-"summary": "La lecture de ce contenu est susceptible d’entraîner un dépôt de cookies de la part de l’opérateur tiers qui l’héberge.",
-"source": "Le HuffPost",
-"date": "2026-11-19T13:00:07+00:00",
-"added": "2026-11-19T19:52:42+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "ed29c01c4ea5e4d9",
-"title": "Présidentielle 2027 : une campagne « course à l’échalote » pour tenter de répondre aux colères françaises",
-"link": "https://www.lemonde.fr/politique/article/2026/11/19/presidentielle-2027-une-campagne-course-a-l-echalote-pour-tenter-de-repondre-aux-coleres-francaises_6813302_823448.html",
-"summary": "Alors qu’une majorité de l’opinion se dit défiante à l’égard de l’Etat et revendique le divorce avec les élites, les candidats de la droite et du centre s’essayent à un registre plus populiste, tandis que Marine Le Pen poursuit sa stratégie de normalisation.",
-"source": "Le Monde",
-"date": "2026-11-19T13:00:02+00:00",
-"added": "2026-11-19T14:10:04+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "6785af289b5e78a9",
-"title": "En cas de 2nd tour Mélenchon-Le Pen, Jean Dujardin explique ce qu'il ferait, et ça fait débat: \"Pas envie de voter pour ce qu'on m'impose\"",
-"link": "https://rmc.bfmtv.com/replay-emissions/les-grandes-gueules/en-cas-de-2nd-tour-melenchon-le-pen-jean-dujardin-explique-ce-qu-il-ferait-et-ca-fait-debat-pas-envie-de-voter-pour-ce-qu-on-m-impose_AV-202611190562.html",
-"summary": "Elle caracole en tête des sondages depuis des années, lui s'est installé depuis quelques jours dans la place du dauphin.",
-"source": "RMC",
-"date": "2026-11-19T12:28:37+00:00",
-"added": "2026-11-19T14:10:04+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jean Dujardin"
-},
-{
-"id": "454a133fdcd2856d",
-"title": "2027, une présidentielle par défaut ?",
-"link": "https://www.lopinion.fr/politique/2027-une-presidentielle-par-defaut",
-"summary": "Naïvement, sans doute, j’ai pensé que 2027 pourrait ressembler à 2007. Après deux mandats de Jacques Chirac, la France avait connu une campagne très enthousiasmante, avec beaucoup de créativité de part et d’autre, de vrais débats de fond et près de 84 % de participation au premier tour, un record depuis 1974.",
-"source": "L'Opinion",
-"date": "2026-11-19T12:00:00+00:00",
-"added": "2026-11-19T14:10:04+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "7ee2c09d8f03749c",
-"title": "Sondage présidentielle 2027 : Jean-Luc Mélenchon grappille du terrain face à Marine Le Pen au second tour",
-"link": "https://www.leparisien.fr/elections/presidentielle/sondage-presidentielle-2027-jean-luc-melenchon-grappille-du-terrain-face-a-marine-le-pen-au-second-tour-19-11-2026-NQ6FK4C74BA5VNNN2X2Z5IWKH4.php",
-"summary": "",
-"source": "Le Parisien",
-"date": "2026-11-19T11:57:25+00:00",
-"added": "2026-11-21T17:30:28+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "6382cf618c7f01f9",
-"title": "Deux rats noirs malmenant un étudiant aux cheveux crépus : quand la porte-parole de Marine Le Pen cautionnait des dessins et écrits antisémites",
-"link": "https://www.midilibre.fr/2026/11/19/deux-rats-noirs-malmenant-un-etudiant-aux-cheveux-crepus-quand-la-porte-parole-de-marine-le-pen-cautionnait-des-dessins-et-ecrits-antisemites-13661043.php",
-"summary": "Laure Lavalette, députée RN du Var, dirigeait de 1996 à 1998 à Bordeaux un syndicat étudiant dont la revue publiait des écrits antisémites, selon Les Jours.",
-"source": "Midi Libre",
-"date": "2026-11-19T11:46:00+00:00",
-"added": "2026-11-19T14:10:04+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"parlement",
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "7502cb027f831f35",
-"title": "Electricité coupée, subventions rabotées… les villes RN entretiennent-elles vraiment des «relations excellentes» avec les associations",
-"link": "https://www.liberation.fr/checknews/electricite-coupee-subventions-rabotees-les-villes-rn-entretiennent-elles-vraiment-des-relations-excellentes-avec-les-associations-20261119_3PUXUYZIV5A3LB2R4I3UEXPFCA/",
-"summary": "",
-"source": "Libération",
-"date": "2026-11-19T11:41:23+00:00",
-"added": "2026-11-19T11:45:36+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "6054969734275bd7",
-"title": "« Pris en otage » entre La France Insoumise et le Rassemblement national, Jean Dujardin pourrait voter blanc à la présidentielle",
-"link": "https://www.lefigaro.fr/cinema/pris-en-otage-entre-la-france-insoumise-et-le-rassemblement-national-jean-dujardin-pourrait-voter-blanc-a-la-presidentielle-20261119",
-"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
-"source": "Le Figaro",
-"date": "2026-11-19T11:40:13+00:00",
-"added": "2026-11-19T14:10:04+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
 "presidentielle"
 ],
 "natures": [],
