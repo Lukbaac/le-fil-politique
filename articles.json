@@ -1,5 +1,206 @@
 [
 {
+"id": "56bc8ade8186d2c4",
+"title": "Justice. Fuites à Beauvau : un mail découvert chez Frédéric Chatillon, proche de Marine Le Pen, à l'origine de l'enquête",
+"link": "https://www.ledauphine.com/faits-divers-justice/2026/11/22/fuites-a-beauvau-un-mail-decouvert-chez-frederic-chatillon-proche-de-marine-le-pen-a-l-origine-de-l-enquete",
+"summary": "Un mail du secrétariat général du ministère de l'Intérieur, alors dirigé par Hugues Moutouh, a été découvert lors d'une perquisition au domicile de Frédéric Chatillon, à Rome.",
+"source": "Le Dauphiné Libéré",
+"date": "2026-11-22T11:26:15+00:00",
+"added": "2026-11-22T11:34:04+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"gouvernement",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "b6354a2422a1fab7",
+"title": "Présidentielle : Marylise Léon demande à son tour au gouvernement de décaler les dates de l’élection",
+"link": "https://www.liberation.fr/politique/elections/dates-de-la-presidentielle-marylise-leon-critique-a-son-tour-la-tenue-du-second-tour-le-2-mai-20261122_BE4JGJEYDNB43AIUNEO4XROBRU/",
+"summary": "Disant craindre «de vives tensions au lendemain de la fête des travailleurs», le 1er mai, la secrétaire générale de la CFDT souhaite que le scrutin soit avancé d’une semaine.",
+"source": "Libération",
+"date": "2026-11-22T11:19:52+00:00",
+"added": "2026-11-22T11:34:04+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement",
+"presidentielle"
+],
+"natures": [],
+"speaker": "Marylise Léon"
+},
+{
+"id": "e62512610a0f18aa",
+"title": "Budget : C’est quoi cette règle d’or que Macron voudrait faire entrer dans la Constitution ?",
+"link": "https://www.20minutes.fr/politique/4264755-20261122-budget-quoi-regle-or-macron-voudrait-faire-entrer-constitution?at_medium=display&at_campaign=149",
+"summary": "Emmanuel Macron songerait à inscrire dans la Constitution une règle d’or pour interdire les déficits publics excessifs.",
+"source": "20 Minutes",
+"date": "2026-11-22T11:12:07+00:00",
+"added": "2026-11-22T11:34:04+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "5fc14ff62d8b9cbe",
+"title": "Soupçons de fuite vers le RN : un mail du service du préfet Moutouh découvert lors d’une perquisition chez un proche de Marine Le Pen",
+"link": "https://www.leparisien.fr/faits-divers/soupcons-de-fuite-vers-le-rn-un-mail-du-service-du-prefet-moutouh-decouvert-lors-dune-perquisition-chez-un-proche-de-marine-le-pen-22-11-2026-ANPUOSCN4BAQTJFJNLQCS4YDHU.php",
+"summary": "",
+"source": "Le Parisien",
+"date": "2026-11-22T11:00:56+00:00",
+"added": "2026-11-22T11:34:04+00:00",
+"official": false,
+"also": [
+"Le Figaro",
+"La Provence"
+],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "adf05467d58f8e51",
+"title": "Un sur deux le refuse catégoriquement : pourquoi les maires sont de plus en plus réticents à accorder leur parrainage aux candidats à la présidentielle 2027",
+"link": "https://www.rtl.fr/actu/politique/un-sur-deux-le-refuse-categoriquement-pourquoi-les-maires-sont-de-plus-en-plus-reticents-a-accorder-leur-parrainage-aux-candidats-a-la-presidentielle-2027-7900699061",
+"summary": "",
+"source": "RTL",
+"date": "2026-11-22T10:59:42+00:00",
+"added": "2026-11-22T11:34:04+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "baa21306fdc6de81",
+"title": "Qu’est-ce que la règle d’or budgétaire que Macron envisage d’inscrire dans la Constitution ?",
+"link": "https://www.nouvelobs.com/politique/20261122.OBS120348/qu-est-ce-que-la-regle-d-or-budgetaire-que-macron-envisage-d-inscrire-dans-la-constitution.html",
+"summary": "Emmanuel Macron lors de l’inauguration de l’exposition « Fabrique en France » au palais de l’Elysée, à Paris, le 20 novembre 2026.",
+"source": "Le Nouvel Obs",
+"date": "2026-11-22T10:57:47+00:00",
+"added": "2026-11-22T11:34:04+00:00",
+"official": false,
+"also": [],
+"base": [
+"elysee"
+],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [],
+"speaker": "Emmanuel Macron"
+},
+{
+"id": "1410acee406263d9",
+"title": "“Contraire à nos valeurs”: Alice Rufo tacle Benjamin Haddad après sa sortie sur un projet de centres pour migrants au Rwanda",
+"link": "https://www.bfmtv.com/politique/gouvernement/contraire-a-nos-valeurs-alice-rufo-tacle-benjamin-haddad-apres-sa-sortie-sur-un-projet-de-centres-pour-migrants-au-rwanda_AD-202611220209.html",
+"summary": "La ministre déléguée aux Armées Alice Rufo a critiqué, ce dimanche 22 novembre, son homologue Benjamin Haddad, chargé de l'Europe, qui a déclaré cette semaine qu'il ne fallait pas avoir de \"tabou\" s'agissant d'un projet de centres pour migrants au Rwanda.",
+"source": "BFMTV",
+"date": "2026-11-22T10:27:48+00:00",
+"added": "2026-11-22T11:34:04+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "Alice Rufo"
+},
+{
+"id": "c3621797e1c34c70",
+"title": "Projet de règle d'or budgétaire: Jordan Bardella et Bruno Retailleau prêts à soutenir son instauration",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/direct-presidentielle-david-lisnard-voit-une-primaire-de-la-droite-et-du-centre-comme-un-moyen-d-exclure-les-macronistes_LN-202611220111.html",
+"summary": "À cinq mois de la présidentielle, David Lisnard, candidat de droite libérale, plaide pour une primaire de la droite et du centre, mais en déclarant qu'il ne soutiendra pas obligatoirement son vainqueur.",
+"source": "BFMTV",
+"date": "2026-11-22T10:18:56+00:00",
+"added": "2026-11-22T11:34:04+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "2d990ea3973d7265",
+"title": "Guerre en Ukraine, crise sociale, sortie de l'UE... Le 8h30 franceinfo de Nicolas Dupont-Aignan",
+"link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/guerre-en-ukraine-crise-sociale-sortie-de-l-ue-le-8h30-franceinfo-de-nicolas-dupont-aignan_8250490.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
+"source": "franceinfo",
+"date": "2026-11-22T10:17:46+00:00",
+"added": "2026-11-22T11:34:04+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "44da3cbe827b5dc5",
+"title": "Violences dans les mobilisations lycéennes : «LFI met de l’huile sur le feu», accuse Vincent Jeanbrun",
+"link": "https://www.europe1.fr/politique/violences-dans-les-mobilisations-lyceennes-lfi-met-de-lhuile-sur-le-feu-accuse-vincent-jeanbrun-1242139",
+"summary": "Vincent Jeanbrun affirme au micro du Grand Rendez-vous Europe 1/CNews/Les Echos que la France Insoumise met de l'huile sur le feu des violences lors des mobilisations lycéennes.",
+"source": "Europe 1",
+"date": "2026-11-22T09:54:00+00:00",
+"added": "2026-11-22T11:34:04+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "Vincent Jeanbrun"
+},
+{
 "id": "c4b46e08317c617e",
 "title": "Quand l’élection présidentielle s’invite au congrès des maires des France avec la double candidature de David Lisnard",
 "link": "https://www.midilibre.fr/2026/11/22/quand-lelection-presidentielle-sinvite-au-congres-des-maires-des-france-avec-la-double-candidature-de-david-lisnard-13657373.php",
@@ -41,6 +242,29 @@
 ],
 "natures": [],
 "speaker": ""
+},
+{
+"id": "41f1bbd9a663087f",
+"title": "« Qu’on m’appelle le facho ou le gauchiste, je m’en fous ! » : Pierre Perret répond à Mélenchon",
+"link": "https://www.lepoint.fr/societe/les-antisemites-de-perret-pierrot-et-les-fous-M4HX7DIQCFH43NSBMFKUBIGDIE/",
+"summary": "",
+"source": "Le Point",
+"date": "2026-11-22T09:00:00+00:00",
+"added": "2026-11-22T11:34:04+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "Pierre Perret"
 },
 {
 "id": "3b0820281f3108c4",
@@ -228,6 +452,27 @@
 "speaker": ""
 },
 {
+"id": "2413e2b5915f8e62",
+"title": "Primaire de la droite et du centre : les limites fixées par Larcher et la ligne soutenue par Lisnard aiguisent les craintes d’une impasse",
+"link": "https://www.lefigaro.fr/elections/presidentielles/primaire-de-la-droite-et-du-centre-les-limites-fixees-par-larcher-et-la-ligne-soutenue-par-lisnard-aiguisent-les-craintes-d-une-impasse-20261122",
+"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
+"source": "Le Figaro",
+"date": "2026-11-22T07:00:11+00:00",
+"added": "2026-11-22T11:34:04+00:00",
+"official": false,
+"also": [],
+"base": [
+"parlement"
+],
+"filtered": true,
+"topics": [
+"parlement",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "9da1adeae6e58e7f",
 "title": "Face au programme de Jean-Luc Mélenchon, la responsabilité de la classe intellectuelle est écrasante",
 "link": "https://www.lexpress.fr/politique/face-au-programme-de-jean-luc-melenchon-la-responsabilite-de-la-classe-intellectuelle-est-ecrasante-ESCGM6EQGFCWXKHE3FV3V7DMAA/",
@@ -297,7 +542,9 @@
 "date": "2026-11-22T06:01:05+00:00",
 "added": "2026-11-22T06:36:32+00:00",
 "official": false,
-"also": [],
+"also": [
+"Le Parisien"
+],
 "base": [
 "partis"
 ],
@@ -792,6 +1039,31 @@
 "speaker": "Edwige Diaz"
 },
 {
+"id": "f54dc530ab42d95c",
+"title": "Le Premier ministre grec critiqué pour avoir fait \"la promotion\" de GTA VI auprès de mineurs \"pour être à la mode\"",
+"link": "https://www.bfmtv.com/international/europe/grece/le-premier-ministre-grec-critique-pour-avoir-fait-la-promotion-de-gta-vi-aupres-de-mineurs-pour-etre-a-la-mode_AD-202611210428.html",
+"summary": "Cette illustration, prise à Los Angeles le 4 décembre 2023, montre la bande-annonce de Grand Theft Auto VI de Rockstar Games diffusée sur un écran devant le titre du jeu. - Photo par CHRIS DELMAS / AFP\nUne vidéo du gouvernement crée la polémique en Grèce.",
+"source": "BFMTV",
+"date": "2026-11-21T19:47:09+00:00",
+"added": "2026-11-22T11:34:04+00:00",
+"official": false,
+"also": [],
+"base": [
+"matinales"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"elysee",
+"gouvernement"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": ""
+},
+{
 "id": "c55cbcc83fdb98ff",
 "title": "Jean-Luc Mélenchon peut-il réconcilier les gauches ? - 21/11",
 "link": "https://www.bfmtv.com/replay-emissions/fauvelle-week-end/video-jean-luc-melenchon-peut-il-reconcilier-les-gauches-21-11_VN-202611210427.html",
@@ -1035,7 +1307,8 @@
 "added": "2026-11-21T19:37:28+00:00",
 "official": false,
 "also": [
-"L'Humanité"
+"L'Humanité",
+"Le HuffPost"
 ],
 "base": [],
 "filtered": true,
@@ -1919,6 +2192,27 @@
 "speaker": ""
 },
 {
+"id": "f53592658bf8764b",
+"title": "Les candidats clés de Donald Trump se heurtent à des résistances au Sénat",
+"link": "https://www.lopinion.fr/international/les-candidats-cles-de-donald-trump-se-heurtent-a-des-resistances-au-senat",
+"summary": "WASHINGTON — Les choix du président Trump pour plusieurs postes au sein de l’exécutif se heurtent à des résistances au Sénat, contrôlé par le Parti républicain.",
+"source": "L'Opinion",
+"date": "2026-11-21T10:00:00+00:00",
+"added": "2026-11-22T11:34:04+00:00",
+"official": false,
+"also": [],
+"base": [
+"parlement"
+],
+"filtered": true,
+"topics": [
+"parlement",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "a7e5909a635a5d2c",
 "title": "Préfet soupçonné de fuites vers le RN : \"Il doit être mis à pied\", estime la députée écologiste Sandrine Rousseau",
 "link": "https://www.franceinfo.fr/france/centre-val-de-loire/loiret/prefet-soupconne-de-fuites-vers-le-rn-il-doit-etre-mis-a-pied-estime-la-depute-ecologiste-sandrine-rousseau_8293574.html#xtor=RSS-3-%5Bpolitique%5D",
@@ -1987,6 +2281,26 @@
 "Discours"
 ],
 "speaker": "Éric Zemmour"
+},
+{
+"id": "3db2b964d649bcdc",
+"title": "Présidentielle 2027 : De quelle droite êtes-vous ? Le test de Périclès en seize questions",
+"link": "https://www.valeursactuelles.com/politique/presidentielle-2027-de-quelle-droite-etes-vous-le-test-de-pericles-en-seize-questions",
+"summary": "« Je me situe à droite sur le plan politique. »",
+"source": "Valeurs actuelles",
+"date": "2026-11-21T09:01:35+00:00",
+"added": "2026-11-22T11:34:04+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
 },
 {
 "id": "f8f626af0f287b5d",
@@ -4136,7 +4450,10 @@
 "date": "2026-11-20T16:00:00+00:00",
 "added": "2026-11-20T19:49:19+00:00",
 "official": false,
-"also": [],
+"also": [
+"La Croix",
+"Midi Libre"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -9689,6 +10006,29 @@
 "speaker": ""
 },
 {
+"id": "9a1144a4483d8262",
+"title": "Présidentielle 2027 : le camp Glucksmann fustige Tondelier après sa main tendue à Mélenchon",
+"link": "https://www.liberation.fr/politique/elections/presidentielle-2027-le-camp-glucksmann-fustige-tondelier-apres-sa-main-tendue-a-melenchon-20261119_QXGD6TJSA5AULJOBZZRXL4QIBA/",
+"summary": "Les partisans du social-démocrate estiment ce jeudi 19 novembre qu’en se déclarant prête à «une coalition» avec les insoumis, dans une dynamique favorable pour la présidentielle, la candidate des Ecologistes à la présidentielle «tourne le dos» à la tradition de son parti.",
+"source": "Libération",
+"date": "2026-11-19T17:33:40+00:00",
+"added": "2026-11-22T11:34:04+00:00",
+"official": false,
+"also": [
+"Le Télégramme"
+],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Réaction"
+],
+"speaker": "Raphaël Glucksmann"
+},
+{
 "id": "fbc476abcffe0c14",
 "title": "GTA VI : «Jean-Luc Mélenchon s'y intéresse et commente parce qu'il sait que ça intéresse beaucoup de jeunes», analyse François de Rugy",
 "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdi1pY1J6azBQZ3h6dkhGYk5QWTVHeTFrVUNnLVJOYnlCNWxFQmlHVmlrZ3pTRzVCVHlNOWlwcmxyQ0NCS3F6Vmh2ODhTdG1YR2Y0bjk2TnRETVhNdXdSYXd0c0w0UGVYVjNQZGRfZWNWa0U1SFBLU3huM0kzeFNpREdhdWVBVHBNNEkzSmRJSEJjMnMyOUlXRmVZaUYtVnM0SWFrbEpJU2tVa1YtcUIteUlB0gG3AUFVX3lxTE5hVXd5THBQTG5QRFhsdHprS2M5N3JISV9ieTVaNTQ3RlcwRWItdXpOYTZYZE1lbkhhQXRWS2RuUUI1TkJkd1pLbXpJek55b20zalV3U1pvcVJmcUs2bFVnRHNwamFCb2VlemJEeVNOTy1iSTNzWlNaSUFGWVlNdkZwNUNwV043R0RWUDRyZVE2QmFwWXR1cjhnZzZwcllpZGdUclVXdkpIemNlWVdRV3o5ZG9NUThYZw?oc=5",
@@ -12197,538 +12537,5 @@
 ],
 "natures": [],
 "speaker": ""
-},
-{
-"id": "1613e56c4cb1468a",
-"title": "[Podcasts] Glucksmann, Pigasse, Mélenchon : peut-on être riche et de gauche ? - 19/11",
-"link": "https://rmc.bfmtv.com/replay-emissions/estelle-midi/glucksmann-pigasse-melenchon-peut-on-etre-riche-et-de-gauche-19-11_EN-202611190514.html",
-"summary": "Avec : Ilan Gabet, étudiant en droit. Jérôme Lavrilleux, propriétaire de gîtes. Et Carine Galli, journaliste RMC. - Toujours accompagnée de Charles Magnien et sa bande, Estelle Denis s’invite à la table des français pour traiter des sujets qui font leur quotidien.",
-"source": "RMC",
-"date": "2026-11-19T11:29:51+00:00",
-"added": "2026-11-19T11:45:36+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "5fd2c70451bbf360",
-"title": "Emmanuel Macron",
-"link": "https://www.bfmtv.com/politique/emmanuel-macron_DN-201609010121.html",
-"summary": "Emmanuel Macron a été élu président de la République en 2017 et 2022 après avoir participé au gouvernement sous François Hollande en tant que ministre de l'Économie.",
-"source": "BFMTV",
-"date": "2026-11-19T11:24:03+00:00",
-"added": "2026-11-19T14:10:04+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement",
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "17af773546e678f8",
-"title": "Dans ses mémoires, Joe Biden dit avoir été \"impressionné\" par sa rencontre avec Emmanuel Macron",
-"link": "https://www.bfmtv.com/international/amerique-nord/etats-unis/dans-ses-memoires-joe-biden-dit-avoir-ete-impressionne-par-sa-rencontre-avec-emmanuel-macron_AN-202611190509.html",
-"summary": "Un court passage qui devrait faire plaisir au locataire de l'Élysée. Dans ses mémoires parues cette semaine, l'ancien président américain Joe Biden évoque sa rencontre avec Emmanuel Macron lors d'un G7 dans les Cornouailles, en Angleterre, en 2021.",
-"source": "BFMTV",
-"date": "2026-11-19T11:24:03+00:00",
-"added": "2026-11-20T07:58:55+00:00",
-"official": false,
-"also": [],
-"base": [
-"matinales"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"elysee"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Joe Biden"
-},
-{
-"id": "f0215d4fa0722b7a",
-"title": "Olivier Faure demande que le syndicat Alliance soit «rappelé à l’ordre» au lendemain de la manifestation non autorisée de policiers",
-"link": "https://www.lefigaro.fr/politique/olivier-faure-demande-que-le-syndicat-alliance-soit-rappele-a-l-ordre-au-lendemain-de-la-manifestation-non-autorisee-de-policiers-20261119",
-"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
-"source": "Le Figaro",
-"date": "2026-11-19T11:22:48+00:00",
-"added": "2026-11-19T11:45:36+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Olivier Faure"
-},
-{
-"id": "26a38cc7723a1084",
-"title": "«Mortal Kampagne», le jeu vidéo qui fait se bagarrer les candidats et les ex-chefs de l'Etat",
-"link": "https://www.leprogres.fr/insolite/2026/11/20/mortal-kampagne-le-jeu-video-qui-fait-se-bagarrer-les-candidats-et-les-ex-chefs-de-l-etat",
-"summary": "Avec l'aide de l'IA, le fondateur de Norpress, Vincent Flibustier, a imaginé cette parodie du célèbre jeu de combat.",
-"source": "Le Progrès",
-"date": "2026-11-19T11:18:42+00:00",
-"added": "2026-11-19T11:45:36+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "42d4d52004524fd1",
-"title": "Des policiers manifestent près de l’Élysée : Mélenchon appelle à « sévèrement » les « punir », Faure juge qu’Alliance « doit être rappelé à l’ordre »",
-"link": "https://www.leparisien.fr/elections/presidentielle/des-policiers-manifestent-pres-de-lelysee-melenchon-appelle-a-severement-les-punir-faure-juge-qualliance-doit-etre-rappele-a-lordre-19-11-2026-B4M6GEVVR5HEJMCG3KIKQ3FRQI.php",
-"summary": "",
-"source": "Le Parisien",
-"date": "2026-11-19T11:16:09+00:00",
-"added": "2026-11-19T11:45:36+00:00",
-"official": false,
-"also": [
-"LCP"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"elysee",
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jean-Luc Mélenchon"
-},
-{
-"id": "37243ec6daac8e41",
-"title": "\"Il vaut mieux être policier qu'enseignant si vous voulez être entendu\": Olivier Faure fustige la manifestation illégale de policiers, ensuite reçus à Beauvau",
-"link": "https://www.bfmtv.com/politique/parti-socialiste/il-vaut-mieux-etre-policier-qu-enseignant-si-vous-voulez-etre-entendu-olivier-faure-fustige-la-manifestation-illegale-de-policiers-ensuite-recus-a-beauvau_AN-202611190501.html",
-"summary": "Le Premier secrétaire du Parti socialiste a déploré la réponse rapide du gouvernement à la manifestation illégale des policiers devant Beauvau, alors que la fonction publique peine à obtenir des solutions à ses revendications depuis plusieurs semaines.",
-"source": "BFMTV",
-"date": "2026-11-19T11:14:38+00:00",
-"added": "2026-11-19T11:45:36+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement",
-"partis"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "Olivier Faure"
-},
-{
-"id": "0f41d79aa036e32c",
-"title": "Budget de fin de gestion pour 2026 : le Sénat adopte le texte qui prévoit des crédits pour les agriculteurs ou pour pallier les conséquences de la crise au Moyen-Orient",
-"link": "https://www.publicsenat.fr/actualites/politique/budget-de-fin-de-gestion-pour-2026-le-senat-adopte-le-texte-qui-prevoit-des-credits-pour-les-agriculteurs-ou-pour-pallier-les-consequences-de-la-crise-au-moyen-orient",
-"summary": "Examiné en parallèle des projets de budgets pour 2027, il prévoit notamment des ouvertures de crédits pour faire face aux conséquences de plusieurs crises, liées à la sécheresse ou à la guerre au Moyen-Orient.",
-"source": "Public Sénat",
-"date": "2026-11-19T11:07:18+00:00",
-"added": "2026-11-19T15:45:54+00:00",
-"official": false,
-"also": [],
-"base": [
-"parlement"
-],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "a1b6f7b38af9a411",
-"title": "Assemblée nationale : comment Éric Ciotti compte encore conserver son siège de député",
-"link": "https://www.lefigaro.fr/politique/assemblee-nationale-comment-eric-ciotti-compte-encore-conserver-son-siege-de-depute-20261119",
-"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
-"source": "Le Figaro",
-"date": "2026-11-19T11:06:00+00:00",
-"added": "2026-11-19T11:45:36+00:00",
-"official": false,
-"also": [],
-"base": [
-"parlement"
-],
-"filtered": true,
-"topics": [
-"parlement",
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "1e5daf97df03102e",
-"title": "Présomption de légitime défense pour les forces de l’ordre : le Sénat se divise sur cette proposition de loi polémique",
-"link": "https://www.publicsenat.fr/actualites/politique/presomption-de-legitime-defense-pour-les-forces-de-lordre-le-senat-se-divise-sur-cette-proposition-de-loi-polemique",
-"summary": "Ce jeudi, le Sénat examine une proposition de loi, défendue par le gouvernement, la droite et le RN, qui vise « à reconnaître une présomption de légitime défense » pour les forces de l’ordre.",
-"source": "Public Sénat",
-"date": "2026-11-19T11:04:26+00:00",
-"added": "2026-11-19T21:39:05+00:00",
-"official": false,
-"also": [
-"Le Monde"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement",
-"parlement",
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "9a901f032c698a7b",
-"title": "Bracelet, inéligibilité... Ce que risque encore Marine Le Pen avant la présidentielle",
-"link": "https://www.marianne.net/politique/le-pen/bracelet-ineligibilite-ce-que-risque-encore-marine-le-pen-avant-la-presidentielle",
-"summary": "",
-"source": "Marianne",
-"date": "2026-11-19T11:00:10+00:00",
-"added": "2026-11-19T11:45:36+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "97299a44a5d442e2",
-"title": "« On est tombé de notre chaise » : dans une impasse, Marine Tondelier tend la main à Jean-Luc Mélenchon",
-"link": "https://www.leparisien.fr/elections/presidentielle/on-est-tombe-de-notre-chaise-dans-une-impasse-marine-tondelier-tend-la-main-a-jean-luc-melenchon-19-11-2026-DS4GENAKZRG6FGHSIQTU36J6QE.php",
-"summary": "",
-"source": "Le Parisien",
-"date": "2026-11-19T11:00:07+00:00",
-"added": "2026-11-19T11:45:36+00:00",
-"official": false,
-"also": [
-"Marianne",
-"L'Humanité",
-"Le HuffPost",
-"Valeurs actuelles",
-"BFMTV"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "0be371a0937868ab",
-"title": "\"Les jeunes sont en quête d'engagement\": Nathalie Loiseau, porte-parole d'Édouard Philippe, sur le service national obligatoire que souhaite réintroduire le candidat Horizons",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-les-jeunes-sont-en-quete-d-engagement-nathalie-loiseau-porte-parole-d-edouard-philippe-sur-le-service-national-obligatoire-que-souhaite-reintroduire-le-candidat-horizons_VN-202611190483.html",
-"summary": "Dans son programme, Édouard Philippe, candidat Horizons à l'élection présidentielle, prévoit de rétablir un service national obligatoire, avec le choix entre une option militaire et plusieurs options civiles.",
-"source": "BFMTV",
-"date": "2026-11-19T10:52:20+00:00",
-"added": "2026-11-19T11:45:36+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": ""
-},
-{
-"id": "d931f541db89b5bb",
-"title": "Territoires Zéro chômeur de longue durée : la loi de pérennisation adoptée à l’Assemblée nationale",
-"link": "https://www.ouest-france.fr/economie/emploi/chomage/territoires-zero-chomeur-de-longue-duree-la-loi-de-perennisation-adoptee-a-lassemblee-nationale-5b5d6faa-e405-11f1-a3b1-0c6de532ce7d",
-"summary": "",
-"source": "Ouest-France",
-"date": "2026-11-19T10:51:34+00:00",
-"added": "2026-11-19T11:45:36+00:00",
-"official": false,
-"also": [
-"Le Monde",
-"LCP"
-],
-"base": [
-"parlement"
-],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "95f77596d84e2e57",
-"title": "\"Ni de l’extrême gauche, ni de l’extrême droite\", Jean Dujardin envisage de voter blanc en cas de second tour Le Pen-Mélenchon",
-"link": "https://www.tf1info.fr/culture/presidentielle-2026-ni-de-l-extreme-gauche-ni-de-l-extreme-droite-jean-dujardin-envisage-de-voter-blanc-en-cas-de-second-tour-le-pen-melenchon-2476853.html",
-"summary": "Les artistes sont encore rares à se prononcer en amont de l’élection présidentielle. Ou alors prudents.",
-"source": "TF1 Info",
-"date": "2026-11-19T10:41:59+00:00",
-"added": "2026-11-19T11:45:36+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jean Dujardin"
-},
-{
-"id": "56ce315b36666a02",
-"title": "Trente ans après sa suppression, le service national redevient un enjeu politique pour la présidentielle",
-"link": "https://www.franceinfo.fr/replay-radio/le-tour-de-la-question/trente-ans-apres-sa-suppression-le-service-national-redevient-un-enjeu-politique-pour-la-presidentielle_8289488.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "Le service national obligatoire peut-il faire son retour, comme le propose Édouard Philippe ? Le candidat Horizons à l'élection présidentielle a présenté son programme à la presse mercredi.",
-"source": "franceinfo",
-"date": "2026-11-19T10:39:46+00:00",
-"added": "2026-11-19T11:45:36+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "06525ee58dc6da8f",
-"title": "\"Laissez-nous travailler!\": ce que proposent les artisans au Premier ministre pour redynamiser le secteur du bâtiment",
-"link": "https://rmc.bfmtv.com/actualites/economie/travail/laissez-nous-travailler-ce-que-proposent-les-artisans-au-premier-ministre-pour-redynamiser-le-secteur-du-batiment_AV-202611190473.html",
-"summary": "Invité de RMC dans l'émission Apolline Matin, jeudi 19 novembre, Jean-Christophe Repon, président de la Capeb (Confédération de l'Artisanat et des Petites Entreprises du Bâtiment), a déclaré avoir lancé une pétition pour demander une baisse temporaire de la TVA à 5,5% sur les travaux de rénovation des logements.",
-"source": "RMC",
-"date": "2026-11-19T10:36:12+00:00",
-"added": "2026-11-19T14:10:04+00:00",
-"official": false,
-"also": [],
-"base": [
-"matinales"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"elysee",
-"gouvernement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "807bccdec5f3b023",
-"title": "\"Un reniement existentiel\" : les écologistes divisés, les socialistes navrés après la main tendue de Marine Tondelier à LFI pour la présidentielle 2027",
-"link": "https://www.franceinfo.fr/elections/presidentielle/un-reniement-existentiel-les-ecologistes-divises-les-socialistes-navres-apres-la-main-tendue-de-marine-tondelier-a-lfi-pour-la-presidentielle-2027_8289569.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "La secrétaire nationale et candidate des Ecologistes se dit \"prête à travailler à une coalition autour de la candidature de Jean-Luc Mélenchon\".",
-"source": "franceinfo",
-"date": "2026-11-19T10:33:07+00:00",
-"added": "2026-11-19T11:45:36+00:00",
-"official": false,
-"also": [
-"BFMTV"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "c8b60bd0a67bf604",
-"title": "Territoires zéro chômeur : le ministre du Travail annonce l’ouverture de l’Entreprise à but d’emploi de Saint-Nazaire",
-"link": "https://www.ouest-france.fr/pays-de-la-loire/saint-nazaire-44600/territoires-zero-chomeur-le-ministre-du-travail-annonce-louverture-de-lentreprise-a-but-demploi-de-saint-nazaire-91066d80-e3fd-11f1-9a72-32f9104dab1b",
-"summary": "",
-"source": "Ouest-France",
-"date": "2026-11-19T10:24:27+00:00",
-"added": "2026-11-19T11:45:36+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [
-"Annonce"
-],
-"speaker": ""
-},
-{
-"id": "34f09a945ed11452",
-"title": "Raphaël Glucksmann muscle son discours depuis quelques jours et en a donné une nouvelle preuve ce jeudi 19 novembre en visant Marine Tondelier, prête à rejoindre Mélenchon",
-"link": "https://www.laprovence.com/article/elections/2330820635343514/alliance-tondelier-melenchon-pour-la-presidentielle-2027-glucksmann-etrille-lecologiste",
-"summary": "Raphaël Glucksmann a étrillé Marine Tondelier, qui a ouvert la porte à une alliance avec Jean-Luc Mélenchon\nRaphaël Glucksmann muscle son discours depuis quelques jours et en a donné une nouvelle preuve ce jeudi 19 novembre sur Franceinfo.",
-"source": "La Provence",
-"date": "2026-11-19T10:00:42+00:00",
-"added": "2026-11-20T06:39:08+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Discours"
-],
-"speaker": ""
-},
-{
-"id": "e804b8a170cc3bd7",
-"title": "Après l’élection présidentielle 2027, le rôle très stratégique du secrétariat général du gouvernement en cas de menace pour l’Etat de droit",
-"link": "https://www.lemonde.fr/idees/article/2026/11/19/apres-l-election-presidentielle-2027-le-role-tres-strategique-du-secretariat-general-du-gouvernement-en-cas-de-menace-pour-l-etat-de-droit_6813269_3232.html",
-"summary": "Ni contre-pouvoir ni simple exécutant, l’organisme rattaché à Matignon occupe une position singulière, à la frontière du politique et du juridique, depuis quatre-vingt-dix ans.",
-"source": "Le Monde",
-"date": "2026-11-19T10:00:11+00:00",
-"added": "2026-11-19T11:45:36+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "a6e070895c6a80d1",
-"title": "Présidentielle 2027 : torse nu et enveloppé dans le drapeau français, Teddy Riner en Une de Paris Match",
-"link": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-torse-nu-et-enveloppe-dans-le-drapeau-francais-teddy-riner-en-une-de-paris-match-19-11-2026-FV4DMAICZFHIPI7DJXXMLG4MYM.php",
-"summary": "",
-"source": "Le Parisien",
-"date": "2026-11-19T09:53:28+00:00",
-"added": "2026-11-19T11:45:36+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "874d0c7bb5f83b56",
-"title": "Pérenniser les \"territoires zéro chômeur\": l'Assemblée nationale adopte la proposition de loi du PS",
-"link": "https://www.bfmtv.com/politique/gouvernement/video-perenniser-les-territoires-zero-chomeur-l-assemblee-nationale-adopte-la-proposition-de-loi-du-ps_VN-202611190438.html",
-"summary": "Les députés adoptent une proposition de loi pour pérenniser l'expérimentation, menée depuis dix ans, des Territoires zéro chômeur longue durée, ce jeudi 19 novembre à l'Assemblée nationale.",
-"source": "BFMTV",
-"date": "2026-11-19T09:51:30+00:00",
-"added": "2026-11-19T11:45:36+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement",
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "c0e6ba00163ef554",
-"title": "Pour Olivier Faure, les policiers qui manifestent «sont censés faire respecter l’ordre mais ne le respectent pas»",
-"link": "https://www.liberation.fr/politique/pour-olivier-faure-les-policiers-qui-manifestent-sont-censes-faire-respecter-lordre-mais-ne-le-respectent-pas-20261119_2HRO7Z5XRVH65HSRSBJOJQEZ5M/",
-"summary": "Indiscrétions piquantes, maladresses vaches ou douces confessions : chaque jour, retrouvez les brèves qui auscultent le monde politique.",
-"source": "Libération",
-"date": "2026-11-19T09:51:05+00:00",
-"added": "2026-11-19T11:45:36+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Olivier Faure"
-},
-{
-"id": "71fe1572b1d2ccdd",
-"title": "Accusée d’avoir cautionné des écrits antisémites, la députée RN Laure Lavalette ne veut pas se justifier «de ce qu’il s’est passé il y a trente ans dans un climat différent»",
-"link": "https://www.liberation.fr/politique/accusee-davoir-cautionne-des-ecrits-antisemites-la-deputee-rn-laure-lavalette-ne-veut-pas-se-justifier-de-ce-quil-sest-passe-il-y-a-trente-ans-dans-un-climat-different-20261119_EXQSCHFTAVGMJKIJLDDOHURAWY/",
-"summary": "Le média «les Jours» a dévoilé une revue ouvertement antisémite que l’élue a signée, alors qu’elle faisait partie d’un syndicat étudiant affilié au FN.",
-"source": "Libération",
-"date": "2026-11-19T09:41:09+00:00",
-"added": "2026-11-22T09:38:20+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement",
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Laure Lavalette"
 }
 ]
