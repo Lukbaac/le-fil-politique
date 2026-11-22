@@ -1,5 +1,194 @@
 [
 {
+"id": "c4b46e08317c617e",
+"title": "Quand l’élection présidentielle s’invite au congrès des maires des France avec la double candidature de David Lisnard",
+"link": "https://www.midilibre.fr/2026/11/22/quand-lelection-presidentielle-sinvite-au-congres-des-maires-des-france-avec-la-double-candidature-de-david-lisnard-13657373.php",
+"summary": "Candidat à sa réélection à la tête de l’Association des maires de France, et à l’élection présidentielle, David Lisnard crée la controverse.",
+"source": "Midi Libre",
+"date": "2026-11-22T09:01:00+00:00",
+"added": "2026-11-22T09:38:20+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [
+"Interview"
+],
+"speaker": ""
+},
+{
+"id": "89905eba49bc31dd",
+"title": "« Jordan Bardella est dans le toboggan du déni et du mensonge » : à Nice, le plaidoyer de Fabrice Arfi, journaliste à Mediapart, pour le droit d’informer",
+"link": "https://www.nicematin.com/culture/medias/jordan-bardella-est-dans-le-toboggan-du-deni-et-du-mensonge-a-nice-le-plaidoyer-de-fabrice-arfi-journaliste-a-mediapart-pour-le-droit-d-informer-10763893",
+"summary": "L’affaire Cahuzac, qui avait révélé en 2012 l’évasion fiscale du ministre du Budget de François Hollande, c’est lui.",
+"source": "Nice-Matin",
+"date": "2026-11-22T09:00:08+00:00",
+"added": "2026-11-22T09:38:20+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"gouvernement",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "3b0820281f3108c4",
+"title": "\"Une image trop partisane\": candidat à la présidence de l'Association des maires de France, Philippe Laurent tacle son adversaire David Lisnard",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/une-image-trop-partisane-candidat-a-la-presidence-de-l-association-des-maires-de-france-philippe-laurent-tacle-son-adversaire-david-lisnard_AN-202611220190.html",
+"summary": "Dans un entretien au Parisien, Philippe Laurent, maire UDI de Sceaux et candidat à la présidence de l’Association des maires de France (AMF), s'attaque au bilan et aux ambitions de David Lisnard, actuel président de l'AMF et candidat à sa réélection.",
+"source": "BFMTV",
+"date": "2026-11-22T08:54:31+00:00",
+"added": "2026-11-22T09:38:20+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "Philippe Laurent"
+},
+{
+"id": "e522f17a90eac16b",
+"title": "Scandale du RN : quelle faute pour le magistrat surpris au siège du parti de Marine Le Pen ?",
+"link": "https://www.nouvelobs.com/justice/20261122.OBS120345/scandale-du-rn-quelle-faute-pour-le-magistrat-surpris-au-siege-du-parti-de-marine-le-pen.html",
+"summary": "Marine Le Pen au siège du Rassemblement nationa, à Paris, le 17 novembr 2026 CARINE SCHMITT / HANS LUCAS VIA AFP\nS’abonner permet de commenter les articles.",
+"source": "Le Nouvel Obs",
+"date": "2026-11-22T08:54:24+00:00",
+"added": "2026-11-22T09:38:20+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "e88900275c1939dc",
+"title": "Emmanuel Macron s'entoure des chefs d'entreprise pour évoquer la compétitivité ce dimanche",
+"link": "https://www.cnews.fr/france/2026-11-22/emmanuel-macron-sentoure-des-chefs-dentreprise-pour-evoquer-la-competitivite-ce",
+"summary": "Le président Emmanuel Macron va rencontrer aujourd'hui à Toulouse une soixantaine de dirigeants d'entreprises européennes, a annoncé l'Élysée.",
+"source": "CNews",
+"date": "2026-11-22T08:34:04+00:00",
+"added": "2026-11-22T09:38:20+00:00",
+"official": false,
+"also": [],
+"base": [
+"elysee"
+],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "ff65cd2034057720",
+"title": "Eliot Deval : «Ce n'était pas une conférence de Jean-Luc Mélenchon à Sciences Po Paris, mais un meeting»",
+"link": "https://www.cnews.fr/france/2026-11-22/eliot-deval-ce-netait-pas-une-conference-de-jean-luc-melenchon-sciences-po-paris",
+"summary": "«Ce n'était pas une conférence de Jean-Luc Mélenchon à Sciences Po Paris, mais un meeting», a affirmé Éliot Deval dans son édito de l'émission l'Heure des Pros Week-end ce dimanche sur CNEWS.",
+"source": "CNews",
+"date": "2026-11-22T08:28:27+00:00",
+"added": "2026-11-22T09:38:20+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation",
+"Discours"
+],
+"speaker": "Eliot Deval"
+},
+{
+"id": "6a304543024aa41e",
+"title": "« Nous sommes très heureux de vous partager la naissance de notre petite Colette » : la porte-parole du gouvernement Maud Bregeon a accouché d’une petite fille",
+"link": "https://www.nicematin.com/societe/politique/nous-sommes-tres-heureux-de-vous-partager-la-naissance-de-notre-petite-colette-la-porte-parole-du-gouvernement-maud-bregeon-a-accouche-d-une-petite-fille-10766465",
+"summary": "Elle est partie en congé maternité le 7 novembre dernier... La porte-parole du gouvernement, Maud Bregeon, et son compagnon, le député des Hauts-de-Seine, Pierre Cazeneuve, ont annoncé sur Instagram la naissance de leur fille, Colette.",
+"source": "Nice-Matin",
+"date": "2026-11-22T08:20:06+00:00",
+"added": "2026-11-22T09:38:20+00:00",
+"official": false,
+"also": [],
+"base": [
+"gouvernement"
+],
+"filtered": true,
+"topics": [
+"gouvernement",
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "766fbad64bddb9d8",
+"title": "Raphaël Glucskmann, Bruno Retailleau, Gérard Larcher… Les appels à un changement de date de la présidentielle se multiplient",
+"link": "https://www.cnews.fr/france/2026-11-22/raphael-glucskmann-bruno-retailleau-gerard-larcher-les-appels-un-changement-de",
+"summary": "Alors que le second tour de l’élection présidentielle est prévu le 2 mai prochain, certains responsables politiques, mais pas seulement, appellent à modifier cette date, la considérant «inadaptée», au lendemain des manifestations du 1er-Mai.",
+"source": "CNews",
+"date": "2026-11-22T08:10:16+00:00",
+"added": "2026-11-22T09:38:20+00:00",
+"official": false,
+"also": [],
+"base": [
+"parlement"
+],
+"filtered": true,
+"topics": [
+"parlement",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "65bd7f040a11127f",
+"title": "Présidentielle : entre craintes et espoir, les attentes des maires huit mois après les municipales, cinq mois avant l’échéance de 2027",
+"link": "https://www.midilibre.fr/2026/11/22/presidentielle-entre-craintes-et-espoir-les-attentes-des-maires-huit-mois-apres-les-municipales-cinq-mois-avant-lecheance-de-2027-13661478.php",
+"summary": "Le 108eᵉ congrès des maires de France se tient du 24 au 26 novembre 2026, à Paris. Dans un contexte particulier, huit mois après les élections municipales, et cinq mois avant la présidentielle.",
+"source": "Midi Libre",
+"date": "2026-11-22T08:01:00+00:00",
+"added": "2026-11-22T09:38:20+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "8399483a5623787b",
 "title": "\"Ils ont l’impression d’être à l’Elysée\" : Laurent, le restaurant parisien où le RN et CNews ont pris leurs quartiers",
 "link": "https://www.lexpress.fr/politique/rn/ils-ont-limpression-detre-a-lelysee-laurent-le-restaurant-parisien-ou-le-rn-et-cnews-ont-pris-leurs-SNSSFA5DIFBXLEVF5WJI2ZXSAY/",
@@ -306,7 +495,9 @@
 "date": "2026-11-21T22:59:13+00:00",
 "added": "2026-11-22T06:36:32+00:00",
 "official": false,
-"also": [],
+"also": [
+"Midi Libre"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -1608,6 +1799,26 @@
 "speaker": ""
 },
 {
+"id": "c3ee6b62b0f6b84b",
+"title": "\"Coalition des volontaires\": \"Nous restons unis, mobilisés et déterminés pour aider l'Ukraine\", affirme Catherine Vautrin, ministre des Armées",
+"link": "https://www.bfmtv.com/international/europe/ukraine/video-coalition-des-volontaires-nous-restons-unis-mobilises-et-determines-pour-aider-l-ukraine-affirme-catherine-vautrin-ministre-des-armees_VN-202611210278.html",
+"summary": "VIDÉO - Un exercice militaire multinational se déroule en Pologne, à une centaine de kilomètres de la frontière ukrainienne.",
+"source": "BFMTV",
+"date": "2026-11-21T10:39:20+00:00",
+"added": "2026-11-22T09:38:20+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Catherine Vautrin"
+},
+{
 "id": "21f1d64a1a58648d",
 "title": "Présidentielle: des négociations entre La France insoumise et les Écologistes",
 "link": "https://rmc.bfmtv.com/replay-emissions/la-matinale-week-end/video-presidentielle-des-negociations-entre-la-france-insoumise-et-les-ecologistes_VN-202611210276.html",
@@ -2074,6 +2285,24 @@
 "filtered": true,
 "topics": [
 "partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "754b54241ad42ec2",
+"title": "Présidentielle 2027 : David Lisnard, la percée surprise d’un libéral",
+"link": "https://www.la-croix.com/politique/presidentielle-2027-david-lisnard-la-percee-surprise-d-un-liberal-20261120",
+"summary": "Le fondateur de Nouvelle Énergie a endossé le maillot de challengeur dans la course à l’élection présidentielle.",
+"source": "La Croix",
+"date": "2026-11-21T06:30:05+00:00",
+"added": "2026-11-22T09:38:20+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
 "presidentielle"
 ],
 "natures": [],
@@ -3597,6 +3826,26 @@
 "Citation"
 ],
 "speaker": "François Kalfon"
+},
+{
+"id": "8d96b8de2a288814",
+"title": "PLF 2027 : Les débats débutent au Sénat, et devraient permettre de réduire la facture des collectivités",
+"link": "https://www.lagazettedescommunes.com/club-finances/finances-publiques/lois-de-finances/plf-2027-les-debats-debutent-au-senat-et-devraient-permettre-de-reduire-la-facture-des-collectivites.BKNGY2ZCZVHMXEDMLZFFUXXYXE.html",
+"summary": "",
+"source": "La Gazette des Communes",
+"date": "2026-11-20T16:47:09+00:00",
+"added": "2026-11-22T09:38:20+00:00",
+"official": false,
+"also": [],
+"base": [
+"parlement"
+],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
 },
 {
 "id": "983aaa1f453c7a63",
@@ -5152,6 +5401,30 @@
 "speaker": ""
 },
 {
+"id": "35f5b09707289b09",
+"title": "\"C’est l’hypocrisie des élus\": pourquoi la tenue de l’élection présidentielle aux dates prévues est menacée ?",
+"link": "https://rmc.bfmtv.com/actualites/politique/c-est-l-hypocrisie-des-elus-pourquoi-la-tenue-de-l-election-presidentielle-aux-dates-prevues-est-menacee_AV-202611200513.html",
+"summary": "Le président du Sénat Gérard Larcher (LR) a affirmé jeudi 19 novembre sur BFMTV avoir demandé \"très clairement\" au Premier ministre d'avancer la date de la présidentielle 2027, pour éviter un second tour au lendemain des défilés du 1er-Mai.",
+"source": "RMC",
+"date": "2026-11-20T11:10:18+00:00",
+"added": "2026-11-22T09:38:20+00:00",
+"official": false,
+"also": [],
+"base": [
+"parlement"
+],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement",
+"parlement",
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "69569b085abf8d95",
 "title": "[Exclusif] Présidentielle 2027 : Quelles sont les priorités des Français ?",
 "link": "https://www.valeursactuelles.com/politique/presidentielle-2027-pouvoir-dachat-sante-immigration-sur-les-priorites-des-francais-marine-le-pen-arrive-systematiquement-en-tete",
@@ -6234,7 +6507,8 @@
 "added": "2026-11-20T09:47:36+00:00",
 "official": false,
 "also": [
-"Le Parisien"
+"Le Parisien",
+"RMC"
 ],
 "base": [
 "matinales"
@@ -6778,7 +7052,8 @@
 "Nice-Matin",
 "La Voix du Nord",
 "Europe 1",
-"Marianne"
+"Marianne",
+"Le Télégramme"
 ],
 "base": [],
 "filtered": true,
@@ -9148,7 +9423,9 @@
 "date": "2026-11-19T18:07:16+00:00",
 "added": "2026-11-20T17:46:31+00:00",
 "official": false,
-"also": [],
+"also": [
+"Europe 1"
+],
 "base": [
 "parlement"
 ],
@@ -12434,685 +12711,24 @@
 "speaker": "Olivier Faure"
 },
 {
-"id": "87babf14c12e5cbd",
-"title": "« Ils travaillent en France. Ils cotisent. Mais on leur refuse leur titre de séjour » : le PS et Glucksmann défendent la régularisation de centaines de milliers de travailleurs sans-papiers",
-"link": "https://www.sudouest.fr/elections/presidentielle/ils-travaillent-en-france-ils-cotisent-mais-on-leur-refuse-leur-titre-de-sejour-le-ps-et-glucksmann-defendent-la-regularisation-de-centaines-de-milliers-de-travailleurs-sans-papiers-31583011.php",
-"summary": "",
-"source": "Sud Ouest",
-"date": "2026-11-19T09:34:03+00:00",
-"added": "2026-11-20T07:58:55+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "9a1144a4483d8262",
-"title": "Présidentielle 2027 : le camp Glucksmann fustige Tondelier après sa main tendue à Mélenchon",
-"link": "https://www.liberation.fr/politique/elections/presidentielle-2027-le-camp-glucksmann-fustige-tondelier-apres-sa-main-tendue-a-melenchon-20261119_QXGD6TJSA5AULJOBZZRXL4QIBA/",
-"summary": "Les partisans du social-démocrate estiment ce jeudi 19 novembre qu’en se déclarant prête à «une coalition» avec les insoumis, dans une dynamique favorable pour la présidentielle, la candidate des Ecologistes à la présidentielle «tourne le dos» à la tradition de son parti.",
+"id": "71fe1572b1d2ccdd",
+"title": "Accusée d’avoir cautionné des écrits antisémites, la députée RN Laure Lavalette ne veut pas se justifier «de ce qu’il s’est passé il y a trente ans dans un climat différent»",
+"link": "https://www.liberation.fr/politique/accusee-davoir-cautionne-des-ecrits-antisemites-la-deputee-rn-laure-lavalette-ne-veut-pas-se-justifier-de-ce-quil-sest-passe-il-y-a-trente-ans-dans-un-climat-different-20261119_EXQSCHFTAVGMJKIJLDDOHURAWY/",
+"summary": "Le média «les Jours» a dévoilé une revue ouvertement antisémite que l’élue a signée, alors qu’elle faisait partie d’un syndicat étudiant affilié au FN.",
 "source": "Libération",
-"date": "2026-11-19T09:34:02+00:00",
-"added": "2026-11-19T09:50:51+00:00",
-"official": false,
-"also": [
-"La Croix",
-"Le Télégramme"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Réaction"
-],
-"speaker": "Raphaël Glucksmann"
-},
-{
-"id": "70d262ed88bc5346",
-"title": "\"Un vêtement de droite?\": raillé pour sa doudoune sans manches sous le costume, Retailleau se défend et se classe dans \"La France qui bosse\"",
-"link": "https://rmc.bfmtv.com/actualites/politique/un-vetement-de-droite-raille-pour-sa-doudoune-sans-manches-sous-le-costume-retailleau-se-defend-et-se-classe-dans-la-france-qui-bosse_AV-202611190426.html",
-"summary": "Inégalités, pouvoir d'achat, solidarité. Marine Le Pen, Raphaël Glucksmann, Jean-Luc Mélenchon, Bruno Retailleau et Gabriel Attal ont débattu ce lundi 16 novembre sur LCI de nombreux sujets de société qui risquent de rythmer la campagne pour l'élection présidentielle 2027.",
-"source": "RMC",
-"date": "2026-11-19T09:33:02+00:00",
-"added": "2026-11-19T09:50:51+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "Bruno Retailleau"
-},
-{
-"id": "fc6092c45ddfed05",
-"title": "Retraites : le RN piégé par ses promesses",
-"link": "https://www.lemonde.fr/idees/article/2026/11/19/retraites-le-rn-piege-par-ses-promesses_6813264_3232.html",
-"summary": "Le parti de Marine Le Pen est obligé de se livrer à des contorsions qui risquent de se retourner contre certains de ses électeurs, rendant le système de retraite plus injuste, sans pour autant être plus pérenne.",
-"source": "Le Monde",
-"date": "2026-11-19T09:30:09+00:00",
-"added": "2026-11-19T09:50:51+00:00",
+"date": "2026-11-19T09:41:09+00:00",
+"added": "2026-11-22T09:38:20+00:00",
 "official": false,
 "also": [],
 "base": [],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "50b881f73c563cab",
-"title": "La défense difficile de cette proche de Le Pen, accusée d’avoir cautionné l’antisémitisme",
-"link": "https://www.huffingtonpost.fr/politique/article/la-defense-difficile-de-cette-proche-de-le-pen-accusee-d-avoir-cautionne-l-antisemitisme_361057.html",
-"summary": "Pas d’excuses, ni de remords. Épinglée par le site d’informations Les Jours pour avoir présidé un syndicat étudiant dans les années 90 dont la revue publiait des écrits antisémites, la députée RN Laure Lavalette a eu bien du mal à s’expliquer mercredi 18 novembre sur BFMTV.",
-"source": "Le HuffPost",
-"date": "2026-11-19T09:30:07+00:00",
-"added": "2026-11-20T06:39:08+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
 "filtered": true,
 "topics": [
 "parlement",
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "3119cb54d71a56ad",
-"title": "Antisémitisme : après Jordan Bardella, le passé néofasciste de Laure Lavalette, porte-parole de Marine Le Pen, révélé par « Les Jours",
-"link": "https://www.humanite.fr/politique/antisemitisme/antisemitisme-apres-jordan-bardella-le-passe-neofasciste-de-laure-lavalette-porte-parole-de-marine-le-pen-revele-par-les-jours",
-"summary": "Une enquête des Jours, publiée le 18 novembre, révèle le contenu antisémite d’un livret publié par un syndicat étudiant néofasciste que la députée RN Laure Lavalette présidait.",
-"source": "L'Humanité",
-"date": "2026-11-19T09:30:00+00:00",
-"added": "2026-11-19T11:45:36+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"parlement",
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "eabb5bc214c4d694",
-"title": "Olivier Faure tacle Laurent Nuñez : « Il vaut mieux être policier qu’enseignant » après la marche du syndicat Alliance vers Beauvau",
-"link": "https://www.leparisien.fr/politique/olivier-faure-tacle-laurent-nunez-il-vaut-mieux-etre-policier-quenseignant-apres-la-marche-du-syndicat-alliance-vers-beauvau-19-11-2026-3EM2LMPDWNGN5JEHVQJMDUPHT4.php",
-"summary": "",
-"source": "Le Parisien",
-"date": "2026-11-19T09:28:30+00:00",
-"added": "2026-11-19T09:50:51+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "Laurent Nuñez"
-},
-{
-"id": "7681ae3933724c3f",
-"title": "Présidentielle 2027 : Tondelier «tourne le dos» à la «tradition écologiste» en ouvrant des discussions avec Mélenchon, réagit Glucksmann",
-"link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-tondelier-tourne-le-dos-a-la-tradition-ecologiste-en-ouvrant-des-discussions-avec-melenchon-reagit-glucksmann-20261119",
-"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
-"source": "Le Figaro",
-"date": "2026-11-19T09:19:38+00:00",
-"added": "2026-11-19T09:50:51+00:00",
-"official": false,
-"also": [
-"Le Bien Public",
-"Le Dauphiné Libéré",
-"La Provence",
-"Sud Ouest",
-"Le Parisien",
-"L'Est Républicain"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "Raphaël Glucksmann"
-},
-{
-"id": "469f665ab8b9fe6a",
-"title": "Présidentielle 2027 : Tondelier \"a choisi de tourner le dos à la tradition écologiste\" en se disant prête à rejoindre LFI, fustige Glucksmann",
-"link": "https://www.lanouvellerepublique.fr/a-la-une/presidentielle-2027-tondelier-a-choisi-de-tourner-le-dos-a-la-tradition-ecologiste-en-se-disant-prete-a-rejoindre-lfi-fustige-glucksmann-1795079970",
-"summary": "Raphaël Glucksmann estime que Marine Tondelier trahit l’histoire des Écologistes en se disant prête à travailler avec Jean-Luc Mélenchon. © (Capture d'écran Franceinfo)\nInvité sur Franceinfo jeudi 19 novembre 2026, le candidat social-démocrate à la présidentielle Raphaël Glucksmann a réagi à l’annonce faite par Marine…",
-"source": "La Nouvelle République",
-"date": "2026-11-19T09:19:22+00:00",
-"added": "2026-11-19T09:50:51+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "Raphaël Glucksmann"
-},
-{
-"id": "4ffb54c830a731de",
-"title": "«S'ils sont très différents, Eric Zemmour et Jean-Luc Mélenchon portent chacun un récit civilisationnel», souligne Michel Onfray",
-"link": "https://www.cnews.fr/france/2026-11-19/sils-sont-tres-differents-eric-zemmour-et-jean-luc-melenchon-portent-chacun-un",
-"summary": "",
-"source": "CNews",
-"date": "2026-11-19T09:19:00+00:00",
-"added": "2026-11-19T09:50:51+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "c6629cd42408c777",
-"title": "David Lisnard suspecté de vouloir «saboter la primaire de l’intérieur»",
-"link": "https://www.liberation.fr/politique/david-lisnard-suspecte-de-vouloir-saboter-la-primaire-de-linterieur-20261119_5OPW4O5JTJCGLFJF55IPMRZWOM/",
-"summary": "Le camp Retailleau trouve que l’attitude du maire de Cannes, qui pose des conditions impossibles, «ressemble» à une tentative de faire dérailler le processus.",
-"source": "Libération",
-"date": "2026-11-19T09:14:32+00:00",
-"added": "2026-11-19T09:50:51+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "ba50cb1495ba2642",
-"title": "Budget de la « Sécu » pour 2027 : la question clé de l’effort demandé aux retraités",
-"link": "https://www.lemonde.fr/politique/article/2026/11/19/budget-de-la-secu-pour-2027-la-question-cle-de-l-effort-demande-aux-retraites_6813262_823448.html",
-"summary": "Adopté, mercredi, au Sénat, le projet de loi de financement de la Sécurité sociale devrait être examiné, fin novembre, en commission mixte paritaire afin d’essayer de concilier les positions des deux chambres du Parlement.",
-"source": "Le Monde",
-"date": "2026-11-19T09:07:48+00:00",
-"added": "2026-11-19T09:50:51+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "86c1167c3d96eb7c",
-"title": "\"Accueillez ces 200.000 enfants\": Jean-Louis Borloo, ancien ministre et président fondateur de l'UDI, lance un appel aux familles pour accueillir les enfants de l'ASE placés en foyer",
-"link": "https://www.bfmtv.com/politique/video-accueillez-ces-200-000-enfants-jean-louis-borloo-ancien-ministre-et-president-fondateur-de-l-udi-lance-un-appel-aux-familles-pour-accueillir-les-enfants-de-l-ase-places-en-foyer_VN-202611190402.html",
-"summary": "Jean-Louis Borloo, président fondateur de l'UDI, ancien ministre, était l'invité du Face-à-Face sur RMC et BFMTV ce jeudi 19 novembre.",
-"source": "BFMTV",
-"date": "2026-11-19T09:04:28+00:00",
-"added": "2026-11-19T09:50:51+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"matinales",
-"gouvernement",
 "partis"
 ],
 "natures": [
 "Citation"
 ],
-"speaker": "Jean-Louis Borloo"
-},
-{
-"id": "6162b48a2a3015fd",
-"title": "La régularisation de travailleurs sans-papiers est une mesure pour aider les entreprises en \"grandes difficultés de recrutement\", pointe un député PS",
-"link": "https://www.franceinfo.fr/economie/emploi/la-regularisation-de-travailleurs-sans-papiers-est-une-mesure-pour-aider-les-entreprises-en-grandes-difficultes-de-recrutement-pointe-un-depute-ps_8289641.html",
-"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
-"source": "franceinfo",
-"date": "2026-11-19T09:01:30+00:00",
-"added": "2026-11-19T11:45:36+00:00",
-"official": false,
-"also": [],
-"base": [
-"matinales"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"parlement",
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "e7b43715fdd59548",
-"title": "«Ni sexisme, ni politique, ni impérialisme, simple application de la loi» : passe d’armes entre LFI et la préfecture de l’Oise autour d’une écharpe tricolore",
-"link": "https://www.lefigaro.fr/politique/passe-d-armes-entre-lfi-et-la-prefecture-de-l-oise-autour-du-port-d-une-echarpe-tricolore-20261118",
-"summary": "DÉCRYPTAGE - Rappelée à l’ordre par le préfet de l’Oise sur le port non conventionnel d’une écharpe tricolore en manifestation, Marianne Seck persiste avec le soutien de Jean-Luc Mélenchon.",
-"source": "Le Figaro",
-"date": "2026-11-19T08:56:50+00:00",
-"added": "2026-11-21T21:27:24+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "5b0a314923bd9f2b",
-"title": "La proposition du PS et de Glucksmann sur la régularisation de travailleurs sans-papiers présentée à l’Assemblée",
-"link": "https://www.leparisien.fr/politique/la-proposition-du-ps-et-de-glucksmann-sur-la-regularisation-de-travailleurs-sans-papiers-presentee-a-lassemblee-19-11-2026-UJWA332LP5DNHPZ453H3H3TEKA.php",
-"summary": "",
-"source": "Le Parisien",
-"date": "2026-11-19T08:52:22+00:00",
-"added": "2026-11-19T09:50:51+00:00",
-"official": false,
-"also": [
-"France 24"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"parlement",
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "d8eea7f674b3662d",
-"title": "Glucksmann critique le choix de Tondelier qui se dit prête à rallier Mélenchon",
-"link": "https://www.20minutes.fr/politique/4264043-20261119-presidentielle-2027-glucksmann-reproche-tondelier-tourner-dos-tradition-pro-europeenne-ecologistes",
-"summary": "Il n’y a pas qu’à droite où ça se tire dans les pattes à six mois de l’élection présidentielle. À gauche, le choix de Marine Tondelier, qui s’est dit prête mercredi à soutenir Jean-Luc Mélenchon, a aussi fait bondir Raphaël Glucksmann.",
-"source": "20 Minutes",
-"date": "2026-11-19T08:52:00+00:00",
-"added": "2026-11-19T09:50:51+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Réaction"
-],
-"speaker": "Raphaël Glucksmann"
-},
-{
-"id": "3ea54bdb1e22b785",
-"title": "Présidentielle 2027 : Olivier Faure «regrette» la potentielle alliance entre Marine Tondelier et Jean-Luc Mélenchon",
-"link": "https://www.cnews.fr/france/2026-11-19/presidentielle-2027-olivier-faure-regrette-la-potentielle-alliance-entre-marine",
-"summary": "Le Premier secrétaire du Parti socialiste Olivier Faure a indiqué «regretter» ce jeudi la prise de position de la patronne des Écologistes Marine Tondelier.",
-"source": "CNews",
-"date": "2026-11-19T08:41:29+00:00",
-"added": "2026-11-19T09:50:51+00:00",
-"official": false,
-"also": [
-"Marianne",
-"Le HuffPost",
-"RMC",
-"La Croix",
-"20 Minutes",
-"Le Parisien",
-"Ouest-France",
-"Sud Ouest"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Réaction"
-],
-"speaker": ""
-},
-{
-"id": "8cf8c1661f897fe9",
-"title": "Le Rassemblement national figure parmi les partis les plus à droite de l'extrême droite européenne, selon une étude de Terra Nova",
-"link": "https://www.franceinfo.fr/politique/front-national/le-rassemblement-national-figure-parmi-les-partis-les-plus-a-droite-de-l-extreme-droite-europeenne-selon-une-etude-de-terra-nova_8289614.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "450 000 positions de vote au Parlement européen ont été analysées par le cercle de réflexion progressiste. L'étude montre par exemple que le RN est proche de la ligne de l'AFD, parti d'extrême droite allemand, malgré des liens rompus.",
-"source": "franceinfo",
-"date": "2026-11-19T08:39:09+00:00",
-"added": "2026-11-19T09:50:51+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement",
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "672eafca174745d1",
-"title": "Présidentielle 2027 : Francis Lalanne tient un meeting en Occitanie accompagné de son \"frère\" Sylvain Durif, et du polémiste Dieudonné",
-"link": "https://www.midilibre.fr/2026/11/19/presidentielle-2027-francis-lalanne-tient-un-meeting-en-occitanie-accompagne-de-son-frere-sylvain-durif-et-du-polemiste-dieudonne-13660744.php",
-"summary": "Le chanteur Francis Lalanne, candidat à la présidentielle 2027, a réuni une centaine de personnes au Boil’R, à Montauban, mercredi 18 novembre, pour son premier meeting de campagne dans la région.",
-"source": "Midi Libre",
-"date": "2026-11-19T08:38:00+00:00",
-"added": "2026-11-19T09:50:51+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [
-"Discours"
-],
-"speaker": ""
-},
-{
-"id": "c2c9a77a75b84da9",
-"title": "Présomption de légitime défense : comment le syndicat Alliance a obtenu le soutien de la droite",
-"link": "https://www.la-croix.com/societe/presomption-de-legitime-defense-comment-le-syndicat-alliance-a-obtenu-le-soutien-de-la-droite-20261119",
-"summary": "Adoptée en juillet par l’Assemblée avec le soutien du gouvernement, la loi sur la présomption de légitime défense pour les forces de l’ordre arrive au Sénat jeudi 19 décembre.",
-"source": "La Croix",
-"date": "2026-11-19T08:37:16+00:00",
-"added": "2026-11-19T09:50:51+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement",
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "c460c564253aaab2",
-"title": "Des divergences toujours plus nombreuses : la primaire de la droite et du centre est-elle déjà menacée ?",
-"link": "https://www.europe1.fr/politique/des-divergences-toujours-plus-nombreuses-la-primaire-de-la-droite-et-du-centre-est-elle-deja-menacee-1240065",
-"summary": "L'idée d'une primaire de la droite et du centre poursuit son chemin à quelques mois des élections européennes.",
-"source": "Europe 1",
-"date": "2026-11-19T08:32:00+00:00",
-"added": "2026-11-19T09:50:51+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "b193c8419e8c22a2",
-"title": "L'encadrement des loyers prolongé, après une guerre de tranchées à l'Assemblée",
-"link": "https://www.france24.com/fr/info-en-continu/20261119-r%C3%A9gularisation-de-travailleurs-sans-papiers-le-ps-et-glucksmann-mettent-un-coup-de-barre-%C3%A0-gauche",
-"summary": "",
-"source": "France 24",
-"date": "2026-11-19T08:29:34+00:00",
-"added": "2026-11-19T19:52:42+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"parlement",
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "c594799113e22761",
-"title": "La lourde charge de Glucksmann contre Tondelier après son appel du pied à Mélenchon",
-"link": "https://www.huffingtonpost.fr/politique/article/la-lourde-charge-de-raphael-glucksmann-contre-marine-tondelier-qui-tend-la-main-a-jean-luc-melenchon_361088.html",
-"summary": "Les espoirs déçus. Raphaël Glucksmann et ses soutiens n’ont pas de mots assez durs ce jeudi 19 novembre pour critiquer la main tendue de Marine Tondelier vers la France insoumise.",
-"source": "Le HuffPost",
-"date": "2026-11-19T08:19:21+00:00",
-"added": "2026-11-19T11:45:36+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": "Raphaël Glucksmann"
-},
-{
-"id": "3092aeec7b7ba72f",
-"title": "“C’est une nécessité pour le pays” : cette proposition de loi socialiste vise à régulariser 300 000 travailleurs sans-papiers",
-"link": "https://www.nouvelobs.com/politique/20261119.OBS120262/c-est-une-necessite-pour-le-pays-cette-proposition-de-loi-socialiste-vise-a-regulariser-300-000-travailleurs-sans-papiers.html",
-"summary": "Le député socialiste Paul Christophle à l’Assemblée nationale, le 26 juin 2025. L’élu de la Drôme est à l’initiative de la proposition de loi visant à régulariser des travailleurs sans-papiers : « Continue-t-on à accepter le travail de tous ces gens auxquels on refuse une existence libre ? »",
-"source": "Le Nouvel Obs",
-"date": "2026-11-19T08:15:05+00:00",
-"added": "2026-11-20T15:44:30+00:00",
-"official": false,
-"also": [],
-"base": [
-"parlement"
-],
-"filtered": true,
-"topics": [
-"parlement",
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "df96dcd3b2a0631c",
-"title": "Sommet international, présidentielle, pouvoir d'achat... Le 8h30 franceinfo de Raphaël Glucksmann",
-"link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/sommet-international-presidentielle-pouvoir-d-achat-le-8h30-franceinfo-de-raphael-glucksmann_8268626.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "Le 8h30 franceinfo de Raphaël Glucksmann, eurodéputé et cofondateur de Place publique, candidat à l’élection présidentielle.",
-"source": "franceinfo",
-"date": "2026-11-19T08:10:01+00:00",
-"added": "2026-11-19T09:50:51+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"matinales",
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "000c4f0bb0db744c",
-"title": "Présidentielle 2027 : \"Je considère que la place des Écologistes est à nos côtés\", affirme Olivier Faure, premier secrétaire du Parti socialiste",
-"link": "https://www.franceinfo.fr/politique/presidentielle-2027-je-considere-que-la-place-des-ecologistes-est-a-nos-cotes-affirme-olivier-faure-premier-secretaire-du-parti-socialiste_8289572.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "Olivier Faure, premier secrétaire du Parti socialiste, était l'invité des \"4 Vérités\", jeudi 19 novembre. Il regrette la proposition formulée la veille par Marine Tondelier que les Écologistes travaillent à une coalition autour de la candidature de Jean-Luc Mélenchon pour 2027.",
-"source": "franceinfo",
-"date": "2026-11-19T08:08:33+00:00",
-"added": "2026-11-19T09:50:51+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"matinales",
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Olivier Faure"
-},
-{
-"id": "a0b7e71acc8a7689",
-"title": "\"Et si on s'aimait encore\" : comment Dominique de Villepin se prépare à la présidentielle 2027",
-"link": "https://www.rtl.fr/actu/politique/et-si-on-s-aimait-encore-comment-dominique-de-villepin-se-prepare-a-l-election-presidentielle-2027-7900698047",
-"summary": "Dominique de Villepin à la 6e édition du Festival des Idées à La Charité-sur-Loire, le 4 juillet 2026. Et un de plus.",
-"source": "RTL",
-"date": "2026-11-19T08:04:19+00:00",
-"added": "2026-11-19T09:50:51+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "3960ce7bde1f8bf3",
-"title": "\"La France elle est multiple, et les talents sont multiples\": Jean-Louis Borloo (UDI) estime que la France est obsédée par \"la réussite académique\"",
-"link": "https://www.bfmtv.com/politique/video-la-france-elle-est-multiple-et-les-talents-sont-multiples-jean-louis-borloo-udi-estime-que-la-france-est-obsedee-par-la-reussite-academique_VN-202611190342.html",
-"summary": "Jean-Louis Borloo, président fondateur de l'UDI et ancien ministre était l'invité du Face-à-Face ce jeudi 19 novembre.",
-"source": "BFMTV",
-"date": "2026-11-19T07:58:50+00:00",
-"added": "2026-11-19T08:02:13+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"matinales",
-"gouvernement",
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jean-Louis Borloo"
-},
-{
-"id": "5474c0e86d2230e4",
-"title": "Présidentielle: Raphaël Glucksmann accuse Marine Tondelier de “tourner le dos” à la “tradition pro-européenne” des écologistes en choisissant Jean-Luc Mélenchon",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/direct-presidentielle-2027-marine-tondelier-prete-a-une-coalition-autour-de-jean-luc-melenchon_LN-202611190168.html",
-"summary": "J-150 avant le premier tour de l'élection présidentielle. Entre le possible ralliement des écologistes à La France insoumise, l'hypothèse d'une primaire du centre et de la droite et plusieurs candidats officieux pas encore sur la ligne de départ, la course à l'Élysée se poursuit ce jeudi 19 novembre.",
-"source": "BFMTV",
-"date": "2026-11-19T07:57:12+00:00",
-"added": "2026-11-19T08:02:13+00:00",
-"official": false,
-"also": [
-"Le Monde",
-"franceinfo",
-"20 Minutes",
-"RTL",
-"Le Parisien",
-"Sud Ouest",
-"Ouest-France",
-"France 24"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "Raphaël Glucksmann"
-},
-{
-"id": "2b8d7017a3dc06ff",
-"title": "Présidentielle 2027: \"Il faudrait d'abord rédiger la feuille de route pour redresser la France\", affirme Jean-Louis Borloo, président fondateur de l'UDI, ancien ministre",
-"link": "https://www.bfmtv.com/politique/video-presidentielle-2027-il-faudrait-d-abord-rediger-la-feuille-de-route-pour-redresser-la-france-affirme-jean-louis-borloo-president-fondateur-de-l-udi-ancien-ministre_VN-202611190336.html",
-"summary": "Jean-Louis Borloo, président fondateur de l'UDI, ancien ministre, était l'invité du Face-à-Face sur RMC et BFMTV ce jeudi 19 novembre.",
-"source": "BFMTV",
-"date": "2026-11-19T07:56:39+00:00",
-"added": "2026-11-19T08:02:13+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"matinales",
-"gouvernement",
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jean-Louis Borloo"
+"speaker": "Laure Lavalette"
 }
 ]
