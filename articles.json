@@ -1,5 +1,188 @@
 [
 {
+"id": "7f399c57f8e22641",
+"title": "Ecrits antisémites : Jordan Bardella reconnaît «une faute» de Laure Lavalette mais lui garde son «total soutien»",
+"link": "https://www.liberation.fr/politique/ecrits-antisemites-jordan-bardella-reconnait-une-faute-de-laure-lavalette-mais-lui-garde-son-total-soutien-20261123_2UTAIIKFYNH4XM2N42RBJZFOJM/",
+"summary": "",
+"source": "Libération",
+"date": "2026-11-23T21:34:47+00:00",
+"added": "2026-11-23T21:39:21+00:00",
+"official": false,
+"also": [
+"Le Parisien"
+],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Jordan Bardella"
+},
+{
+"id": "28a0b73895a59b37",
+"title": "Présidentielle 2027: \"quand on est antifasciste, on vote Raphaël Glucksmann\", lance Boris Vallaud, député PS",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-2027-quand-on-est-antifasciste-on-vote-raphael-glucksmann-lance-boris-vallaud-depute-ps_VN-202611230907.html",
+"summary": "Pendant que la bataille pour l'élection présidentielle s'organise - avec la percée de David Lisnard qui se confirme à droite selon un dernier sondage - Emmanuel Macron veut continuer à peser sur la politique française.",
+"source": "BFMTV",
+"date": "2026-11-23T21:29:56+00:00",
+"added": "2026-11-23T21:39:21+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"parlement",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Boris Vallaud"
+},
+{
+"id": "69f4cc0f35c23bec",
+"title": "Présidentielle 2027: \"Le ralliement de Marine Tondelier [à Jean-Luc Mélenchon], il y a une sorte de fatalisme\", analyse Boris Vallaud, député PS",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-2027-le-ralliement-de-marine-tondelier-a-jean-luc-melenchon-il-y-a-une-sorte-de-fatalisme-analyse-boris-vallaud-depute-ps_VN-202611230906.html",
+"summary": "Pendant que la bataille pour l'élection présidentielle s'organise - avec la percée de David Lisnard qui se confirme à droite selon un dernier sondage - Emmanuel Macron veut continuer à peser sur la politique française.",
+"source": "BFMTV",
+"date": "2026-11-23T21:28:18+00:00",
+"added": "2026-11-23T21:39:21+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"parlement",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Boris Vallaud"
+},
+{
+"id": "886313cb8266af24",
+"title": "Les écolos pro-Glucksmann fondent «Ecologistes et démocrates», un nouveau parti",
+"link": "https://www.liberation.fr/politique/elections/les-ecolos-pro-glucksmann-fondent-ecologistes-et-democrates-un-nouveau-parti-20261123_MLJLZCW7TFETBE4P665OQHQB5Y/",
+"summary": "Echaudés par la main tendue de Marine Tondelier aux insoumis, Yannick Jadot et quelques autres cadres de la campagne Glucksmann ont annoncé, ce lundi, la fondation de leur propre formation.",
+"source": "Libération",
+"date": "2026-11-23T21:09:41+00:00",
+"added": "2026-11-23T21:39:21+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "e5df4c15816227d0",
+"title": "Terres rares : Emmanuel Macron annonce que la France va se doter de \"stocks stratégiques\"",
+"link": "https://www.france24.com/fr/france/20261123-terres-rares-macron-annonce-france-doter-stocks-strat%C3%A9giques",
+"summary": "",
+"source": "France 24",
+"date": "2026-11-23T21:06:36+00:00",
+"added": "2026-11-23T21:39:21+00:00",
+"official": false,
+"also": [
+"Ouest-France"
+],
+"base": [
+"elysee"
+],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [
+"Citation",
+"Annonce"
+],
+"speaker": "Emmanuel Macron"
+},
+{
+"id": "b312f64f5a7a63fd",
+"title": "Bardella : \"Tout est fait pour nous salir\" - 23/11",
+"link": "https://www.bfmtv.com/replay-emissions/100-mabrouk/video-bardella-tout-est-fait-pour-nous-salir-23-11_VN-202611230893.html",
+"summary": "VIDÉO - Retrouvez le replay de 100% Mabrouk sur BFMTV.",
+"source": "BFMTV",
+"date": "2026-11-23T21:04:31+00:00",
+"added": "2026-11-23T21:39:21+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Jordan Bardella"
+},
+{
+"id": "e7946059629151b7",
+"title": "Budget 2027 : Sébastien Lecornu appelle au « compromis » dans une lettre aux parlementaires et liste les priorités du gouvernement",
+"link": "https://www.lemonde.fr/politique/article/2026/11/23/budget-2027-sebastien-lecornu-appelle-au-compromis-dans-une-lettre-aux-parlementaires-et-liste-les-priorites-du-gouvernement_6814451_823448.html",
+"summary": "Alors que les projets de loi de finances et de financement de la Sécurité sociale ont été rejetés à l’Assemblée nationale, le premier ministre souhaite poursuivre les discussions avec les parlementaires.",
+"source": "Le Monde",
+"date": "2026-11-23T20:42:50+00:00",
+"added": "2026-11-23T21:39:21+00:00",
+"official": false,
+"also": [
+"Les Echos"
+],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement",
+"parlement"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Sébastien Lecornu"
+},
+{
+"id": "18e987428b803316",
+"title": "Primaire: en septembre, Édouard Philippe \"a proposé aux candidats de la droite et du centre de se rencontrer et de discuter\", assure Jérémie Patrier-Leitus, député \"Horizons\"",
+"link": "https://www.bfmtv.com/politique/elections/video-primaire-en-septembre-edouard-philippe-a-propose-aux-candidats-de-la-droite-et-du-centre-de-se-rencontrer-et-de-discuter-assure-jeremie-patrier-leitus-depute-horizons_VN-202611230883.html",
+"summary": "Jérémie Patrier-Leitus, député \"Horizons\" du Calvados, porte-parole d'Édouard Philippe, était invité sur le plateau de BFMTV, ce lundi 23 novembre.",
+"source": "BFMTV",
+"date": "2026-11-23T20:39:41+00:00",
+"added": "2026-11-23T21:39:21+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"parlement",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation",
+"Annonce"
+],
+"speaker": "Jérémie Patrier-Leitus"
+},
+{
 "id": "41a9c27f6a6cabc5",
 "title": "Attaques contre Brigitte Macron: \"On peut combattre le président de la République sans s'attaquer à sa famille ou à son épouse\", affirme Jordan Bardella, président du Rassemblement national",
 "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-attaques-contre-brigitte-macron-on-peut-combattre-le-president-de-la-republique-sans-s-attaquer-a-sa-famille-ou-a-son-epouse-affirme-jordan-bardella-president-du-rassemblement-national_VN-202611230852.html",
@@ -57,6 +240,25 @@
 "topics": [
 "parlement",
 "partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "6033eb19063ff99e",
+"title": "Incendie de la mairie de Limoges : le Sénat vote la défiscalisation majorée des dons des particuliers",
+"link": "https://www.publicsenat.fr/actualites/politique/incendie-de-la-mairie-de-limoges-le-senat-vote-la-defiscalisation-majoree-des-dons-des-particuliers",
+"summary": "Lundi soir, lors de l’examen du budget, le Sénat a adopté un amendement du gouvernement portant à 75 % la défiscalisation des dons effectués pour la rénovation de l’hôtel de ville de Limoges.",
+"source": "Public Sénat",
+"date": "2026-11-23T19:37:46+00:00",
+"added": "2026-11-23T21:39:21+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement",
+"parlement"
 ],
 "natures": [],
 "speaker": ""
@@ -260,7 +462,9 @@
 "date": "2026-11-23T19:11:24+00:00",
 "added": "2026-11-23T19:52:28+00:00",
 "official": false,
-"also": [],
+"also": [
+"BFMTV"
+],
 "base": [
 "partis"
 ],
@@ -366,7 +570,9 @@
 "date": "2026-11-23T19:00:56+00:00",
 "added": "2026-11-23T19:52:28+00:00",
 "official": false,
-"also": [],
+"also": [
+"Le Figaro"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -516,7 +722,9 @@
 "added": "2026-11-23T19:52:28+00:00",
 "official": false,
 "also": [
-"Nice-Matin"
+"Nice-Matin",
+"20 Minutes",
+"Sud Ouest"
 ],
 "base": [],
 "filtered": true,
@@ -615,6 +823,27 @@
 "source": "L'Humanité",
 "date": "2026-11-23T18:15:31+00:00",
 "added": "2026-11-23T19:52:28+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "7a1efe5774dba6be",
+"title": "Présidentielle 2027 : Devant Édouard Philippe dans les sondages, David Lisnard devient la cible du Rassemblement national",
+"link": "https://www.europe1.fr/politique/presidentielle-2027-devant-edouard-philippe-dans-les-sondages-david-lisnard-devient-la-cible-du-rassemblement-national-1243129",
+"summary": "Avec plus de 10 % des intentions de vote, devant Édouard Philippe, David Lisnard s'impose progressivement comme un candidat à suivre.",
+"source": "Europe 1",
+"date": "2026-11-23T18:07:00+00:00",
+"added": "2026-11-23T21:39:21+00:00",
 "official": false,
 "also": [],
 "base": [
@@ -1052,6 +1281,26 @@
 "speaker": ""
 },
 {
+"id": "fb62ff409272c6fe",
+"title": "Emmanuel Macron annonce 350 millions d’investissement dans la recherche aéronautique à Toulouse",
+"link": "https://www.publicsenat.fr/actualites/economie/emmanuel-macron-annonce-350-millions-dinvestissement-dans-la-recherche-aeronautique-a-toulouse",
+"summary": "En visite à Toulouse ce lundi 23 novembre, Emmanuel Macron a annoncé le soutien de l’Etat à l’industrie aéronautique par l’investissement de 350 millions d’euros en faveur de la recherche et du développement, après des semaines d’attente.",
+"source": "Public Sénat",
+"date": "2026-11-23T17:06:33+00:00",
+"added": "2026-11-23T21:39:21+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [
+"Annonce"
+],
+"speaker": "Emmanuel Macron"
+},
+{
 "id": "c9e9825c1530f02c",
 "title": "Violences du 17 octobre : Patrice Faure, discret préfet de police de Paris, face à la commission d’enquête de l’Assemblée nationale",
 "link": "https://www.lemonde.fr/societe/article/2026/11/23/violences-du-17-octobre-patrice-faure-discret-prefet-de-police-de-paris-face-a-la-commission-d-enquete-de-l-assemblee-nationale_6814428_3224.html",
@@ -1446,6 +1695,24 @@
 "filtered": true,
 "topics": [
 "partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "cc30b31db4c7f25d",
+"title": "Congrès des maires : Les candidats partent à la chasse aux parrainages même si seul un maire sur quatre compte donner sa signature, selon une enquête du CEVIPOF",
+"link": "https://www.publicsenat.fr/actualites/politique/congres-des-maires-les-candidats-partent-a-la-chasse-aux-parrainages-meme-si-seul-un-maire-sur-quatre-compte-donner-sa-signature-selon-une-enquete-du-cevipof",
+"summary": "À la veille du Congrès des maires, où en sont les candidats avec leurs parrainages ? Ce 108e salon, organisé par l’Association des maires de France, représente une occasion pour les candidats à l’élection présidentielle de récupérer quelques promesses de parrainages.",
+"source": "Public Sénat",
+"date": "2026-11-23T15:24:51+00:00",
+"added": "2026-11-23T21:39:21+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
 "presidentielle"
 ],
 "natures": [],
@@ -1929,6 +2196,25 @@
 "Citation"
 ],
 "speaker": "Christophe Barbier"
+},
+{
+"id": "0ae393f9a6202a57",
+"title": "Cap sur l'Élysée — Cap sur l’Elysée – A qui profite la colère ?",
+"link": "https://www.publicsenat.fr/emission/cap-sur-lelysee/cap-sur-lelysee-a-qui-profite-la-colere-e2",
+"summary": "Le samedi 17 octobre est un tournant dans la campagne présidentielle. Lycéens, gilets jaunes et syndicats défilent ensemble pour réclamer davantage de moyens pour l'éducation et des mesures contre la vie chère.",
+"source": "Public Sénat",
+"date": "2026-11-23T13:47:56+00:00",
+"added": "2026-11-23T21:39:21+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
 },
 {
 "id": "c5308df078a4b58a",
@@ -3003,6 +3289,26 @@
 "speaker": "Jean-Loup Bonnamy"
 },
 {
+"id": "5d0bc9d07ad979dc",
+"title": "« Ça me fait doucement sourire » : David Lisnard balaye les critiques sur sa candidature à la présidence de l’AMF et à la présidentielle",
+"link": "https://www.publicsenat.fr/actualites/politique/ca-me-fait-doucement-sourire-david-lisnard-balaye-les-critiques-sur-sa-candidature-a-la-presidence-de-lamf-et-a-la-presidentielle",
+"summary": "Invité de la matinale de Public Sénat, David Lisnard, candidat à sa succession à la tête de l’Association des maires de France assure ne pas prêter attention aux critiques concernant sa candidature à l’élection présidentielle.",
+"source": "Public Sénat",
+"date": "2026-11-23T10:21:06+00:00",
+"added": "2026-11-23T21:39:21+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"parlement",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "aa432cdc51ff8750",
 "title": "Il avait attaqué de façon à peine voilée Jean-Luc Mélenchon et LFI : critiqué, Pierre Perret refuse de s’excuser pour sa chanson polémique",
 "link": "https://www.midilibre.fr/2026/11/23/il-avait-attaque-de-facon-a-peine-voilee-jean-luc-melenchon-et-lfi-critique-pierre-perret-refuse-de-sexcuser-pour-les-antisemites-sa-chanson-polemique-13666755.php",
@@ -3149,6 +3455,28 @@
 ],
 "natures": [],
 "speaker": ""
+},
+{
+"id": "421a62be536dd05c",
+"title": "Quentin Deranque : «Jean-Luc Mélenchon prend un risque inouï au regard de la Justice», souligne P...",
+"link": "https://www.europe1.fr/emissions/lheure-des-pros/quentin-deranque-jean-luc-melenchon-prend-un-risque-inoui-au-regard-de-la-justice-souligne-p-1242793",
+"summary": "",
+"source": "Europe 1",
+"date": "2026-11-23T09:30:01+00:00",
+"added": "2026-11-23T21:39:21+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Quentin Deranque"
 },
 {
 "id": "b11a6580c610104a",
@@ -3675,6 +4003,24 @@
 "speaker": "Valérie Pécresse"
 },
 {
+"id": "2c47f775a2e9fac0",
+"title": "Sens Public — Extrême droite : Le Pen, Meloni, Weidel peuvent-elles s’allier en Europe ?",
+"link": "https://www.publicsenat.fr/emission/sens-public/extreme-droite-le-pen-meloni-weidel-peuvent-elles-sallier-en-europe-e0",
+"summary": "Marine Le Pen, Giorgia Meloni, Alice Weidel : trois femmes à la tête de partis d’extrême droite parmi les plus puissants d’Europe.",
+"source": "Public Sénat",
+"date": "2026-11-23T08:00:11+00:00",
+"added": "2026-11-23T21:39:21+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "9a90e7feb15f3d2d",
 "title": "Présidentielle 2027 : pourquoi David Lisnard s’affirme comme le nouveau trublion de la droite et du centre",
 "link": "https://www.midilibre.fr/2026/11/23/presidentielle-2027-pourquoi-david-lisnard-saffirme-comme-le-nouveau-trublion-de-la-droite-et-du-centre-13666652.php",
@@ -3684,7 +4030,8 @@
 "added": "2026-11-23T10:01:58+00:00",
 "official": false,
 "also": [
-"Libération"
+"Libération",
+"franceinfo"
 ],
 "base": [
 "presidentielle"
@@ -3779,6 +4126,27 @@
 ],
 "natures": [],
 "speaker": ""
+},
+{
+"id": "4a5ec4579d1c6ebb",
+"title": "Bonjour chez vous ! — David Lisnard : « Quand on va dans une compétition, ce n’est pas pour envisager la défaite »",
+"link": "https://www.publicsenat.fr/emission/bonjour-chez-vous/david-lisnard-quand-on-va-dans-une-competition-ce-nest-pas-pour-envisager-la-defaite-e0",
+"summary": "Congrès sous haute tension pour l’AMF : alors que les maires seront appelés mercredi à choisir le prochain président de l’association, les hostilités entre David Lisnard, candidat à sa succession, et son adversaire Philippe Laurent, maire UDI de Sceaux, sont déjà lancées.",
+"source": "Public Sénat",
+"date": "2026-11-23T07:55:44+00:00",
+"added": "2026-11-23T21:39:21+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "David Lisnard"
 },
 {
 "id": "3344aa4de4157b1d",
@@ -7768,6 +8136,27 @@
 "speaker": "Jean-Luc Mélenchon"
 },
 {
+"id": "0cd2ee9c4d244319",
+"title": "Présidentielle : pourquoi François Hollande pourrait avoir la peau de Raphaël Glucksmann",
+"link": "https://www.marianne.net/politique/presidentielle-pourquoi-francois-hollande-pourrait-avoir-la-peau-de-raphael-glucksmann",
+"summary": "",
+"source": "Marianne",
+"date": "2026-11-22T05:00:11+00:00",
+"added": "2026-11-23T21:39:21+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "db36f5f43e2afd98",
 "title": "En négociant avec les Insoumis pour la présidentielle, Marine Tondelier joue gros",
 "link": "https://www.letelegramme.fr/france/en-negociant-avec-les-insoumis-pour-la-presidentielle-marine-tondelier-joue-gros-7163024.php",
@@ -10383,127 +10772,5 @@
 ],
 "natures": [],
 "speaker": ""
-},
-{
-"id": "1690d075929cb372",
-"title": "Députés et sénateurs parviennent à un accord sur le projet de budget de \"fin de gestion\" pour 2026, avant une possible adoption définitive mardi",
-"link": "https://www.franceinfo.fr/economie/budget/deputes-et-senateurs-parviennent-a-un-accord-sur-le-projet-de-budget-de-fin-de-gestion-pour-2026-avant-une-possible-adoption-definitive-mardi_8292914.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "Le texte, qui procède aux derniers ajustements budgétaires de l'année en cours, a fait l'objet d'un accord en commission mixte paritaire.",
-"source": "franceinfo",
-"date": "2026-11-20T21:35:30+00:00",
-"added": "2026-11-21T06:39:11+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "4a2e89ddb24ec92d",
-"title": "Préfet soupçonné d'avoir renseigné le RN : \"Tout le monde savait qu'il était proche du Rassemblement national\", confie un conseiller de l'exécutif à propos d'Hugues Moutouh",
-"link": "https://www.franceinfo.fr/societe/justice/prefet-soupconne-d-avoir-renseigne-le-rn-tout-le-monde-savait-qu-il-etait-proche-du-rassemblement-national-confie-un-conseiller-de-l-executif-a-propos-d-hugues-moutouh_8292974.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "L’ancien secrétaire général du ministère de l’Intérieur a-t-il transmis des informations confidentielles au Rassemblement National ?",
-"source": "franceinfo",
-"date": "2026-11-20T21:30:11+00:00",
-"added": "2026-11-20T21:35:44+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement",
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": ""
-},
-{
-"id": "83bd27daad05d5cc",
-"title": "Présidentielle de 2027 : 48 % des maires ne veulent parrainer aucun candidat",
-"link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/presidentielle-de-2027-48-des-maires-ne-veulent-parrainer-aucun-candidat_8292968.html",
-"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
-"source": "franceinfo",
-"date": "2026-11-20T21:14:25+00:00",
-"added": "2026-11-20T21:35:44+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "03d88843dc990b8c",
-"title": "Emmanuel Macron dénonce un « agenda agressif » de la Russie sur le territoire européen",
-"link": "https://www.la-croix.com/macron-denonce-un-agenda-agressif-de-la-russie-sur-le-territoire-europeen-un-pari-irresponsable-20261120",
-"summary": "Emmanuel Macron a fustigé, vendredi 20 novembre, le « pari irresponsable » de la Russie après plusieurs « incidents graves » en Europe, notamment en Pologne et au Danemark.",
-"source": "La Croix",
-"date": "2026-11-20T20:48:05+00:00",
-"added": "2026-11-20T21:35:44+00:00",
-"official": false,
-"also": [
-"BFMTV"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "Emmanuel Macron"
-},
-{
-"id": "82e304818e356c59",
-"title": "«Une funeste connerie» : bronca des créateurs de contenu contre les nouvelles mesures de l’Arcom pour le pluralisme",
-"link": "https://www.liberation.fr/economie/medias/une-funeste-connerie-bronca-des-createurs-de-contenu-contre-les-nouvelles-mesures-de-larcom-pour-le-pluralisme-20261120_R5C6BOL6WNG3DOZIOIIQLFITYU/",
-"summary": "Au lendemain de l’annonce du régulateur de l’audiovisuel et du numérique, de nombreux influenceurs, comme Jean Massiet ou Gaspard G, s’offusquent de ces nouvelles règles en vue de la présidentielle.",
-"source": "Libération",
-"date": "2026-11-20T20:34:01+00:00",
-"added": "2026-11-20T21:35:44+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "33fc5fc03761ee76",
-"title": "Préfet soupçonné d'avoir renseigné le RN : \"J'espère que ce n'est pas une pression pour tous ceux qui oseraient discuter avec nous\", réagit l'eurodéputé RN Aleksandar Nikolic",
-"link": "https://www.franceinfo.fr/politique/prefet-soupconne-d-avoir-renseigne-le-rn-j-espere-que-ce-n-est-pas-une-pression-pour-tous-ceux-qui-oseraient-discuter-avec-nous-reagit-l-eurodepute-rn-aleksandar-nikolic_8292947.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "Invité du \"Duel\" vendredi 20 novembre, l'eurodéputé et porte-parole du Rassemblement national réagit aux révélations du Monde sur les investigations autour d'une collusion présumée, entre un ancien haut cadre du ministère de l'Intérieur et le parti de Marine Le Pen, notamment d'éventuelles fuites sur des affaires en…",
-"source": "franceinfo",
-"date": "2026-11-20T20:31:04+00:00",
-"added": "2026-11-20T21:35:44+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement",
-"partis"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "Aleksandar Nikolic"
 }
 ]
