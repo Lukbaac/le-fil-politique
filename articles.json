@@ -1,5 +1,328 @@
 [
 {
+"id": "1e514cf61f412b22",
+"title": "Sommet Choose France : le laboratoire pharmaceutique Virbac dévoile un plan d'investissement de plus de 320 millions d'euros jusqu'en 2030",
+"link": "https://www.franceinfo.fr/economie/industrie/direct-sommet-choose-france-emmanuel-macron-en-visite-sur-le-site-d-airbus-a-toulouse_8295704.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "Depuis Toulouse, Emmanuel Macron a affirmé lundi qu'il voulait faire de la France le pays \"le plus rapide d'Europe quand il s'agit de créer des sites industriels\".",
+"source": "franceinfo",
+"date": "2026-11-23T15:46:06+00:00",
+"added": "2026-11-23T15:52:41+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [
+"Annonce"
+],
+"speaker": ""
+},
+{
+"id": "6bb61d025c5a3de2",
+"title": "Présidentielle 2027 : Le Pen recule, Mélenchon réduit l’écart au 2nd tour",
+"link": "https://www.valeursactuelles.com/politique/presidentielle-2027-marine-le-pen-recule-jean-luc-melenchon-reduit-lecart-au-second-tour",
+"summary": "Une mauvaise nouvelle pour les électeurs du Rassemblement national. Selon un sondage Toluna Harris Interactive pour M6, RTL et L’Express, paru le 23 novembre, leur candidate, Marine Le Pen, baisse dans toutes les configurations.",
+"source": "Valeurs actuelles",
+"date": "2026-11-23T15:30:34+00:00",
+"added": "2026-11-23T15:52:41+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "9d566b7966ae66f0",
+"title": "Clémentine Autain, François Ruffin… Les ex-insoumis se convertissent à la poussée Mélenchon",
+"link": "https://www.leparisien.fr/politique/clementine-autain-francois-ruffin-les-ex-insoumis-se-convertissent-a-la-poussee-melenchon-23-11-2026-GLLWJP5BSZF25PYQW4OO4QPGTE.php",
+"summary": "",
+"source": "Le Parisien",
+"date": "2026-11-23T15:20:30+00:00",
+"added": "2026-11-23T15:52:41+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "15e132a6cd349b5c",
+"title": "Présidentielle 2027 : Raphaël Glucksmann salue le « combat » de François Ruffin et « espère rassembler au maximum »",
+"link": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-raphael-glucksmann-salue-le-combat-de-francois-ruffin-et-espere-rassembler-au-maximum-23-11-2026-2IRJJXVKPNCQ5MHSNXPSBKVMWU.php",
+"summary": "",
+"source": "Le Parisien",
+"date": "2026-11-23T15:12:03+00:00",
+"added": "2026-11-23T15:52:41+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "Raphaël Glucksmann"
+},
+{
+"id": "64e5dc4cedbe1cb7",
+"title": "\"C'est inacceptable\": une vidéo tournée par des jeunes dans l'hémicycle de l'Assemblée fait polémique",
+"link": "https://lcp.fr/actualites/c-est-inacceptable-une-video-tournee-par-des-jeunes-dans-l-hemicycle-de-l-assemblee-fait",
+"summary": "La présidente de l'Assemblée nationale, Yaël Braun-Pivet, a jugé \"inacceptable\", ce lundi 23 novembre, la diffusion d'une vidéo, tournée dans l'hémicycle, où des jeunes dénoncent l'adoption définitive de la proposition de loi instaurant une présomption d'usage légal des armes par les forces de l'ordre.",
+"source": "LCP",
+"date": "2026-11-23T15:01:31+00:00",
+"added": "2026-11-23T15:52:41+00:00",
+"official": false,
+"also": [
+"Le Figaro"
+],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "9b1a9e2ded7682ac",
+"title": "Quand Raphaël Glucksmann passe par un \"barbu\" pour mieux comprendre les quartiers populaires",
+"link": "https://www.marianne.net/politique/gauche/quand-raphael-glucksmann-passe-par-un-barbu-pour-mieux-comprendre-les-quartiers-populaires",
+"summary": "",
+"source": "Marianne",
+"date": "2026-11-23T15:00:12+00:00",
+"added": "2026-11-23T15:52:41+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "b1a3084970f7c993",
+"title": "\"Jean-Luc Mélenchon n’a pas réalisé que la Russie est un pays fasciste\" : Hugo Havard, un écologiste français sur le front ukrainien",
+"link": "https://www.lexpress.fr/france/jean-luc-melenchon-na-pas-realise-que-la-russie-est-un-pays-fasciste-hugo-havard-un-ecologiste-WPDQ4SGNUZBAZJZ3VYOHWVNYKU/",
+"summary": "Parce qu’il fut \"terrassé par un sentiment d’injustice\", Hugo Havard a rejoint l’Ukraine en mars 2022, trois semaines après l’invasion russe.",
+"source": "L'Express",
+"date": "2026-11-23T15:00:00+00:00",
+"added": "2026-11-23T15:52:41+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "bfcfae719f01ca6e",
+"title": "« Écologistes et démocrates » : Yannick Jadot annonce la fondation d’un nouveau parti pour « sortir des ambiguïtés et de la confusion des valeurs »",
+"link": "https://www.leparisien.fr/elections/presidentielle/ecologistes-et-democrates-yannick-jadot-annonce-la-fondation-dun-nouveau-parti-pour-sortir-des-ambiguites-et-de-la-confusion-des-valeurs-23-11-2026-TKWEBA4DF5BEVIH55XN3FUTVTY.php",
+"summary": "",
+"source": "Le Parisien",
+"date": "2026-11-23T14:57:49+00:00",
+"added": "2026-11-23T15:52:41+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation",
+"Annonce"
+],
+"speaker": "Yannick Jadot"
+},
+{
+"id": "3dc2eb714a9d679f",
+"title": "Un mois après l'attentat raciste de Trappes, la famille de Pengo Bossio Wangi regrette qu'aucune date n'ait été annoncée pour l'hommage national au jeune homme",
+"link": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/un-mois-apres-l-attentat-raciste-de-trappes-la-famille-de-pengo-bossio-wangui-regrette-qu-aucune-date-n-ait-ete-annoncee-pour-l-hommage-national-au-jeune-homme_8295758.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "Le gouvernement avait promis, fin octobre, la tenue d'un hommage national au jeune homme de 26 ans. Mais depuis, aucune date n'a été communiquée.",
+"source": "franceinfo",
+"date": "2026-11-23T14:51:48+00:00",
+"added": "2026-11-23T15:52:41+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [
+"Annonce",
+"Réaction"
+],
+"speaker": "Pengo Bossio Wangi"
+},
+{
+"id": "07f570aa636f2773",
+"title": "Règle d'or: que prévoit vraiment le texte qu'Emmanuel Macron envisage de faire adopter par le Parlement?",
+"link": "https://lcp.fr/actualites/regle-d-or-que-prevoit-vraiment-le-texte-qu-emmanuel-macron-envisage-de-faire-adopter",
+"summary": "Emmanuel Macron envisage de modifier la Constitution en permettant l'adoption définitive d'un projet de loi datant de 2011 \"relatif à l'équilibre des finances publiques\".",
+"source": "LCP",
+"date": "2026-11-23T14:51:46+00:00",
+"added": "2026-11-23T15:52:41+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"parlement"
+],
+"natures": [],
+"speaker": "Emmanuel Macron"
+},
+{
+"id": "c87a9b6f9c98f8f0",
+"title": "« On possède un savoir-faire et plein d’atouts » : ce boulanger-pâtissier d’Argentan a représenté l’Orne à l’Élysée",
+"link": "https://www.ouest-france.fr/economie/artisanat/on-possede-un-savoir-faire-et-plein-datouts-ce-boulanger-patissier-dargentan-a-represente-lorne-a-lelysee-7a1cbe7c-e72b-11f1-bd4e-6f30b8f49e21",
+"summary": "",
+"source": "Ouest-France",
+"date": "2026-11-23T14:41:52+00:00",
+"added": "2026-11-23T15:52:41+00:00",
+"official": false,
+"also": [],
+"base": [
+"elysee"
+],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "af8b2e1e991b6ebf",
+"title": "Le jour où Bruno Le Maire a tout fait pour appeler Bruno Retailleau",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-le-jour-ou-bruno-le-maire-a-tout-fait-pour-appeler-bruno-retailleau_VN-202611230591.html",
+"summary": "Alors qu’il vient de présenter son projet pour une “autre France”, l’ancien ministre de l’Économie se confie sur la chaîne YouTube de BFM Documentaires.",
+"source": "BFMTV",
+"date": "2026-11-23T14:41:05+00:00",
+"added": "2026-11-23T15:52:41+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "fdfe9d3f118bf7e0",
+"title": "«Types cagoulés tirant au mortier» liés au député Louis Boyard : le ministre Jeanbrun incapable d’étayer ses accusations",
+"link": "https://www.liberation.fr/checknews/types-cagoules-tirant-au-mortier-lies-au-depute-louis-boyard-le-ministre-jeanbrun-incapable-detayer-ses-accusations-20261123_E5U2S2BR4VGFRFRS4NRR56JB2M/",
+"summary": "Le 22 novembre sur CNews, le ministre du Logement laissait entendre que l’élu insoumis était rattaché à «des types cagoulés [tirant] au mortier sur les forces de l’ordre».",
+"source": "Libération",
+"date": "2026-11-23T14:39:11+00:00",
+"added": "2026-11-23T15:52:41+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement",
+"parlement",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "349f2dc0dc8bc40f",
+"title": "«Tintin au Congo» : Teddy Riner porte plainte contre Emmanuelle Mignon",
+"link": "https://www.liberation.fr/politique/elections/tintin-au-congo-teddy-riner-porte-plainte-contre-emmanuelle-mignon-20261123_VVC77KHMFJBHPHXYX3GTIT44XA/",
+"summary": "Selon BFM TV, le judoka et candidat à la présidentielle 2027 réplique aux propos tenus par l’ex-collaboratrice de Nicolas Sarkozy sur France Inter mi-novembre après la visite de ce dernier dans un hôpital à Saint-Denis.",
+"source": "Libération",
+"date": "2026-11-23T14:32:37+00:00",
+"added": "2026-11-23T15:52:41+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "337c870046f46c9a",
+"title": "Pourquoi le maire de La Baule apporte son soutien à David Lisnard à la présidence de l’association des maires de France?",
+"link": "https://www.ouest-france.fr/politique/ce-maire-de-loire-atlantique-apporte-son-soutien-a-david-lisnard-a-la-presidence-de-lassociation-des-maires-de-france-09d5a2cc-e740-11f1-afa7-9a0bb82a33d1",
+"summary": "",
+"source": "Ouest-France",
+"date": "2026-11-23T14:19:07+00:00",
+"added": "2026-11-23T15:52:41+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "eed1c749a06b9f1a",
+"title": "Emmanuel Macron visite le A350F, nouvel avion-cargo d'Airbus",
+"link": "https://www.bfmtv.com/politique/video-emmanuel-macron-visite-le-a350f-nouvel-avion-cargo-d-airbus_VN-202611230577.html",
+"summary": "Emmanuel Macron visite le nouvel avion-cargo d'Airbus, le A350F, lors de son déplacement à Toulouse-Blagnac, ce lundi 23 novembre.",
+"source": "BFMTV",
+"date": "2026-11-23T14:18:35+00:00",
+"added": "2026-11-23T15:52:41+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "c11210dccf658abd",
 "title": "Le gouvernement fait adopter au Sénat une prolongation de la prime carburant en 2027",
 "link": "https://www.franceinfo.fr/economie/automobile/essence/le-gouvernement-fait-adopter-au-senat-une-prolongation-de-la-prime-carburant-en-2027_8296031.html#xtor=RSS-3-%5Bpolitique%5D",
@@ -67,7 +390,9 @@
 "added": "2026-11-23T14:14:40+00:00",
 "official": false,
 "also": [
-"Nice-Matin"
+"Nice-Matin",
+"Ouest-France",
+"La Provence"
 ],
 "base": [
 "partis"
@@ -152,7 +477,9 @@
 "date": "2026-11-23T13:48:15+00:00",
 "added": "2026-11-23T14:14:40+00:00",
 "official": false,
-"also": [],
+"also": [
+"BFMTV"
+],
 "base": [
 "presidentielle"
 ],
@@ -276,7 +603,9 @@
 "date": "2026-11-23T13:24:56+00:00",
 "added": "2026-11-23T14:14:40+00:00",
 "official": false,
-"also": [],
+"also": [
+"BFMTV"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -547,7 +876,8 @@
 "added": "2026-11-23T14:14:40+00:00",
 "official": false,
 "also": [
-"Le Monde"
+"Le Monde",
+"L'Opinion"
 ],
 "base": [],
 "filtered": true,
@@ -567,7 +897,9 @@
 "date": "2026-11-23T12:27:56+00:00",
 "added": "2026-11-23T14:14:40+00:00",
 "official": false,
-"also": [],
+"also": [
+"BFMTV"
+],
 "base": [
 "partis"
 ],
@@ -827,6 +1159,28 @@
 "Citation"
 ],
 "speaker": "Jean-Loup Bonnamy"
+},
+{
+"id": "3535b031cceb6cf2",
+"title": "[Podcasts] Charles Consigny : \"Il ne se sent pas obligé de dire qu'il voterait Mélenchon contre Le Pen\" - 23/11",
+"link": "https://rmc.bfmtv.com/replay-emissions/les-grandes-gueules/charles-consigny-il-ne-se-sent-pas-oblige-de-dire-qu-il-voterait-melenchon-contre-le-pen-23-11_EN-202611230474.html",
+"summary": "Aujourd'hui, Charles Consigny, avocat, Jean-Loup Bonnamy, professeur de philosophie, et Joëlle Dago-Serry, coach de vie, débattent de l'actualité autour d'Alain Marschall et Olivier Truchot.",
+"source": "RMC",
+"date": "2026-11-23T11:44:01+00:00",
+"added": "2026-11-23T15:52:41+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Charles Consigny"
 },
 {
 "id": "ebad07dc1cef6287",
@@ -2487,7 +2841,8 @@
 "CNews",
 "Valeurs actuelles",
 "Midi Libre",
-"L'Opinion"
+"L'Opinion",
+"Le Bien Public"
 ],
 "base": [],
 "filtered": true,
@@ -5103,7 +5458,8 @@
 "BFMTV",
 "La Nouvelle République",
 "20 Minutes",
-"L'Express"
+"L'Express",
+"Le Figaro"
 ],
 "base": [
 "elysee"
@@ -9958,327 +10314,5 @@
 ],
 "natures": [],
 "speaker": "Marine Tondelier"
-},
-{
-"id": "ef9e4ac9a7fccccf",
-"title": "« Ce PLF est suicidaire ! » : début de l’examen du budget au Sénat, la droite veut accroître l’effort",
-"link": "https://www.publicsenat.fr/actualites/politique/ce-plf-est-suicidaire-debut-de-lexamen-du-budget-au-senat-la-droite-veut-accroitre-leffort",
-"summary": "Les sénateurs ont donné le coup d’envoi de plus de deux semaines d’examen en séance du projet de loi de finances.",
-"source": "Public Sénat",
-"date": "2026-11-20T15:52:30+00:00",
-"added": "2026-11-20T21:35:44+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [
-"Citation"
-],
-"speaker": ""
-},
-{
-"id": "dbe740332873298a",
-"title": "Un impôt de régularisation des « impayés » des ultra-riches ruinerait l’économie française, estime le ministre Amiel",
-"link": "https://www.20minutes.fr/politique/4264472-20261120-impot-regularisation-impayes-ultra-riches-ruinerait-economie-francaise-estime-ministre-amiel?at_medium=display&at_campaign=149",
-"summary": "Le ministre des Comptes publics, David Amiel, s’est dit vendredi opposé à l’instauration d’un impôt visant à régulariser les « impayés » des ultra-riches comme le propose l’économiste Gabriel Zucman, estimant qu’un tel impôt mettrait « à terre » l’économie française.",
-"source": "20 Minutes",
-"date": "2026-11-20T15:51:13+00:00",
-"added": "2026-11-20T17:46:31+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "041b843aabff51f2",
-"title": "Présidentielle 2027 : Dominique de Villepin ou le chiraquisme vain",
-"link": "https://www.valeursactuelles.com/clubvaleurs/politique/presidentielle-2027-dominique-de-villepin-ou-le-chiraquisme-vain",
-"summary": "Le bureau est immense et vide. Il réussit à faire paraître Dominique de Villepin plus petit, ce qui est un exploit.",
-"source": "Valeurs actuelles",
-"date": "2026-11-20T15:46:42+00:00",
-"added": "2026-11-20T17:46:31+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "83898303ca14b601",
-"title": "Fuites au ministère de l’Intérieur : que risquent le RN et le préfet Hugues Moutouh ?",
-"link": "https://www.publicsenat.fr/actualites/politique/fuites-au-ministere-de-linterieur-que-risquent-le-rn-et-le-prefet-hugues-moutouh",
-"summary": "Ancien secrétaire général du ministère de l’Intérieur et actuel préfet du Loiret, Hugues Moutouh est soupçonné par la justice d’avoir transmis au RN des éléments confidentiels sur des enquêtes visant le parti d’extrême droite.",
-"source": "Public Sénat",
-"date": "2026-11-20T15:44:40+00:00",
-"added": "2026-11-20T21:35:44+00:00",
-"official": false,
-"also": [
-"Libération",
-"France 24"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement",
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "42cc18d977dca603",
-"title": "« Racisme anti-blancs » : l’autre clivage qui oppose Edouard Philippe et Gabriel Attal",
-"link": "https://www.lopinion.fr/politique/racisme-anti-blancs-lautre-clivage-qui-oppose-edouard-philippe-et-gabriel-attal",
-"summary": "Voilà un sujet sur lequel les deux anciens Premiers ministres d’Emmanuel Macron lancés dans la course à l’Elysée ne s’entendent pas.",
-"source": "L'Opinion",
-"date": "2026-11-20T15:32:32+00:00",
-"added": "2026-11-20T17:46:31+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement",
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "ca59efb454b70443",
-"title": "Plafond de verre, économie, troupes, relais... Ces failles de Marine Le Pen qui peuvent la faire perdre",
-"link": "https://www.marianne.net/politique/le-pen/plafond-de-verre-economie-troupes-relais-ces-failles-de-marine-le-pen-qui-peuvent-la-faire-perdre",
-"summary": "",
-"source": "Marianne",
-"date": "2026-11-20T15:00:10+00:00",
-"added": "2026-11-20T15:44:30+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "0d6e877d56c6ca2f",
-"title": "Les affaires marocaines de Teddy Riner, « ami personnel » du roi Mohammed VI",
-"link": "https://www.lemonde.fr/afrique/article/2026/11/20/les-affaires-marocaines-de-teddy-riner-ami-personnel-du-roi-mohammed-vi_6813652_3212.html",
-"summary": "Un article de « Mediapart », publié jeudi 19 novembre, affirme qu’une société du judoka, candidat à la présidentielle, a bénéficié de commandes du souverain marocain « pour des millions d’euros ».",
-"source": "Le Monde",
-"date": "2026-11-20T15:00:02+00:00",
-"added": "2026-11-20T15:44:30+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "5af676427cfd91f0",
-"title": "Passoires thermiques, « dispositif Jeanbrun » : la loi logement en passe d'achever son parcours à l'Assemblée au terme d'une semaine tumultueuse",
-"link": "https://www.lesechos.fr/politique-societe/politique/passoires-thermiques-dispositif-jeanbrun-la-loi-logement-en-passe-dachever-son-parcours-a-lassemblee-au-terme-dune-semaine-tumultueuse-2263821",
-"summary": "",
-"source": "Les Echos",
-"date": "2026-11-20T14:57:10+00:00",
-"added": "2026-11-20T17:46:31+00:00",
-"official": false,
-"also": [],
-"base": [
-"parlement"
-],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "9167d56b2c83c151",
-"title": "\"J’ai contacté le chef de l’Élysée sur Instagram\" : le pari fou et réussi de cet artisan fromager coréen installé en Charente-Maritime",
-"link": "https://www.lanouvellerepublique.fr/deux-sevres/j-ai-contacte-le-chef-de-l-elysee-sur-instagram-le-pari-fou-et-reussi-de-cet-artisan-fromager-coreen-installe-en-charente-maritime-1795186250",
-"summary": "Des fromagers d’origine coréenne en Charente-Maritime. © Photo NR, Mélanie Papillaud\nDu fromage, il ne connaissait que « celui carré des hamburgers », se souvient en souriant Kyungmin Do, artisan à la tête de la fromagerie Mortafont à Néré, dans la campagne de Charente-Maritime.",
-"source": "La Nouvelle République",
-"date": "2026-11-20T14:50:42+00:00",
-"added": "2026-11-22T07:55:27+00:00",
-"official": false,
-"also": [],
-"base": [
-"elysee"
-],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "4933f658289c60c3",
-"title": "Le statut de favori du RN à l’épreuve de l’avalanche des affaires",
-"link": "https://www.liberation.fr/politique/le-statut-de-favori-du-rn-a-lepreuve-de-lavalanche-des-affaires-20261120_4QE66TMBRNCKFPSTKZ7QH3F34M/",
-"summary": "Soupçonné d’avoir bénéficié de fuites illégales du ministère de l’Intérieur via le préfet Hugues Moutouh, le parti fait le dos rond.",
-"source": "Libération",
-"date": "2026-11-20T14:32:25+00:00",
-"added": "2026-11-20T15:44:30+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement",
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "4110a4a300d3d467",
-"title": "L'élu RN qui a reçu un procureur au siège du parti évoque \"une discussion entre professionnels\" qui se connaissent \"depuis près de trente ans\"",
-"link": "https://www.franceinfo.fr/politique/l-elu-rn-qui-a-recu-un-procureur-au-siege-du-parti-evoque-une-discussion-entre-professionnels-qui-se-connaissent-depuis-pres-de-trente-ans_8292344.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "Lors d'une perquisition au siège du parti Rassemblement national début novembre, les policiers en charge de l'enquête ont constaté la présence sur place du procureur adjoint du parquet de Paris.",
-"source": "franceinfo",
-"date": "2026-11-20T14:32:01+00:00",
-"added": "2026-11-20T15:44:30+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": ""
-},
-{
-"id": "0de10275514d0484",
-"title": "Raphaël Glucksmann à Saumos en Gironde : « on n’a pas le droit de zapper », alerte-t-il après les incendies de cet été",
-"link": "https://www.sudouest.fr/politique/raphael-glucksmann/raphael-glucksmann-a-saumos-en-gironde-on-n-a-pas-le-droit-de-zapper-alerte-t-il-apres-les-incendies-de-cet-ete-31596626.php",
-"summary": "",
-"source": "Sud Ouest",
-"date": "2026-11-20T14:27:39+00:00",
-"added": "2026-11-20T15:44:30+00:00",
-"official": false,
-"also": [
-"Le Parisien"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": ""
-},
-{
-"id": "c9edeb42fb847102",
-"title": "Guerre en Ukraine : les Européens iront à Moscou s’ils ont «bien désormais» toute leur place dans les négociations, indique l’Élysée",
-"link": "https://www.lefigaro.fr/international/guerre-en-ukraine-les-europeens-iront-a-moscou-s-ils-ont-bien-desormais-toute-leur-place-dans-les-negociations-indique-l-elysee-20261120",
-"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
-"source": "Le Figaro",
-"date": "2026-11-20T14:23:41+00:00",
-"added": "2026-11-21T09:37:30+00:00",
-"official": false,
-"also": [],
-"base": [
-"elysee"
-],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "37dc5d9c1767b3d1",
-"title": "« Un vote qui fait envie » : La France Insoumise fait salle comble à Niort, ils expliquent pourquoi ils sont là",
-"link": "https://www.ouest-france.fr/elections/presidentielle/un-vote-qui-fait-envie-la-france-insoumise-fait-salle-comble-a-niort-ils-expliquent-pourquoi-ils-sont-la-a6bd7622-e4b7-11f1-bd4e-6f30b8f49e21",
-"summary": "",
-"source": "Ouest-France",
-"date": "2026-11-20T14:23:38+00:00",
-"added": "2026-11-20T15:44:30+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": ""
-},
-{
-"id": "67bc0e154f76e2ba",
-"title": "La France a-t-elle le chômage des jeunes le plus élevé d’Europe, comme l’affirme Retailleau ?",
-"link": "https://www.20minutes.fr/economie/4264451-20261120-france-chomage-jeunes-plus-eleve-europe-comme-affirme-retailleau?at_medium=display&at_campaign=149",
-"summary": "Une déclaration qui résiste mal aux chiffres officiels. Le candidat des Républicains à la présidentielle Bruno Retailleau a soutenu jeudi lors du grand oral de l’égalité des chances que la France « est le pays européen où les jeunes sont les plus concernés par le chômage », une affirmation exagérée.",
-"source": "20 Minutes",
-"date": "2026-11-20T14:18:07+00:00",
-"added": "2026-11-20T15:44:30+00:00",
-"official": false,
-"also": [
-"Sud Ouest"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": "Bruno Retailleau"
-},
-{
-"id": "3bc513e9ba9cd797",
-"title": "Concert interrompu de Barbara Butch à Grenoble : un élu local LFI, Allan Brunon, sera jugé en février",
-"link": "https://www.lemonde.fr/politique/article/2026/11/20/concert-interrompu-de-barbara-butch-a-grenoble-un-elu-local-lfi-allan-brunon-sera-juge-en-fevrier_6813650_823448.html",
-"summary": "L’élu municipal d’opposition encourt jusqu’à trois ans de prison pour « complicité d’entrave concertée à la liberté artistique ».",
-"source": "Le Monde",
-"date": "2026-11-20T14:17:25+00:00",
-"added": "2026-11-20T15:44:30+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
 }
 ]
