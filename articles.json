@@ -1,5 +1,469 @@
 [
 {
+"id": "03cc781e2f741bc2",
+"title": "Présidentielle 2027 : « Le pire scénario possible »… Les dates de l’élection vont-elles être modifiées ?",
+"link": "https://www.20minutes.fr/societe/4265440-20261124-presidentielle-2027-pire-scenario-possible-dates-election-vont-elles-etre-modifiees?at_medium=display&at_campaign=149",
+"summary": "Faut-il modifier le calendrier de l’élection présidentielle 2027 ? Certains pensent que oui. Pas tant pour écourter le mandat d’Emmanuel Macron de quelques jours (quoi que), mais plutôt pour éloigner le vote d’une journée qui pourrait être revendicative.",
+"source": "20 Minutes",
+"date": "2026-11-24T15:46:27+00:00",
+"added": "2026-11-24T15:54:07+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "382b9033a0e506d8",
+"title": "\"Beaucoup veulent prendre les armes\": la députée Estelle Youssouffa interpelle Laurent Nuñez sur les violences à Mayotte",
+"link": "https://www.bfmtv.com/politique/video-beaucoup-veulent-prendre-les-armes-la-deputee-estelle-youssouffa-interpelle-laurent-nunez-sur-les-violences-a-mayotte_VN-202611240716.html",
+"summary": "La députée LIOT Estelle Youssouffa interpelle, ce mardi 24 novembre, le ministre de l'Intérieur Laurent Nuñez au sujet des renforts de police à Mayotte.",
+"source": "BFMTV",
+"date": "2026-11-24T15:44:26+00:00",
+"added": "2026-11-24T15:54:07+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement",
+"parlement"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Estelle Youssouffa"
+},
+{
+"id": "427bf60e37df5222",
+"title": "Éric Coquerel, Marie Mesmeur et quatre députés LFI déposent une plainte commune après des courriers menaçants",
+"link": "https://www.ouest-france.fr/politique/la-france-insoumise/eric-coquerel-marie-mesmeur-et-quatre-deputes-lfi-deposent-une-plainte-commune-apres-des-courriers-menacants-a59f86b8-e818-11f1-86c1-70195b4d2e52",
+"summary": "",
+"source": "Ouest-France",
+"date": "2026-11-24T15:32:15+00:00",
+"added": "2026-11-24T15:54:07+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"parlement",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "c0aecccbe2aadc57",
+"title": "Fustigeant « l’Etat profond » et la « bureaucratie », Bruno Retailleau veut « remettre la mairie au milieu du village »",
+"link": "https://www.publicsenat.fr/actualites/politique/fustigeant-letat-profond-et-la-bureaucratie-bruno-retailleau-veut-remettre-la-mairie-au-milieu-du-village",
+"summary": "« Libérer la France communale de la technocratie. » En marge du congrès de l’Association des maires de France (AMF), Bruno Retailleau jouait à domicile ce mardi.",
+"source": "Public Sénat",
+"date": "2026-11-24T15:30:12+00:00",
+"added": "2026-11-24T15:54:07+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Bruno Retailleau"
+},
+{
+"id": "c30ce5b74c3e06b3",
+"title": "Présidentielle 2027: \"on peut aimer les tronçonneuses, mais pas savoir trancher”, le tacle d'Édouard Philippe à David Lisnard",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-2027-on-peut-aimer-les-tronconneuses-mais-pas-savoir-trancher-le-tacle-d-edouard-philippe-a-david-lisnard_VN-202611240701.html",
+"summary": "Après avoir annoncé avoir voté en faveur de David Lisnard à la présidence de l'Association des maires de France, le candidat Horizons Édouard Philippe en a profité pour piquer le maire de Cannes.",
+"source": "BFMTV",
+"date": "2026-11-24T15:29:01+00:00",
+"added": "2026-11-24T15:54:07+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "Édouard Philippe"
+},
+{
+"id": "abeaccd268f4222f",
+"title": "\"Il ne faut jamais travailler avec la droite extrême\", déclare Édouard Philippe",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-il-ne-faut-jamais-travailler-avec-la-droite-extreme-declare-edouard-philippe_VN-202611240699.html",
+"summary": "Le parquet du Havre indique ce mardi qu'une enquête a été ouverte après un signalement pour détournement de fonds publics à l'agglomération du Havre présidée par le candidat à la présidentielle.",
+"source": "BFMTV",
+"date": "2026-11-24T15:26:19+00:00",
+"added": "2026-11-24T15:54:07+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Édouard Philippe"
+},
+{
+"id": "b44e69f4e7fe2436",
+"title": "Main tendue des écologistes à Mélenchon : « Je suis candidate aujourd’hui, je serai candidate demain jusqu’à ce qu’on en décide autrement au sein du mouvement », déclare Marine Tondelier",
+"link": "https://www.publicsenat.fr/actualites/politique/main-tendue-des-ecologistes-a-melenchon-je-suis-candidate-aujourdhui-je-serai-candidate-demain-jusqua-ce-quon-en-decide-autrement-au-sein-du-mouvement",
+"summary": "Le 108e Congrès des maires, organisé par l’Association des maires de France (AMF), se tiendra de mardi à jeudi de cette semaine au parc des expositions à Porte de Versailles à Paris.",
+"source": "Public Sénat",
+"date": "2026-11-24T15:25:16+00:00",
+"added": "2026-11-24T15:54:07+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Jean-Luc Mélenchon"
+},
+{
+"id": "35c7afd44ff277e7",
+"title": "Budget 2027 : Sébastien Lecornu cherche toujours la solution pour sortir de l’impasse",
+"link": "https://www.la-croix.com/politique/budget-2027-sebastien-lecornu-cherche-toujours-la-solution-pour-sortir-de-l-impasse-20261124",
+"summary": "Le premier ministre a proposé, lundi 23 novembre 2026, aux parlementaires de discuter de cinq thèmes de compromis sur le projet de loi de finances pour 2027.",
+"source": "La Croix",
+"date": "2026-11-24T15:22:10+00:00",
+"added": "2026-11-24T15:54:07+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement",
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "de9810fb5a1b4b30",
+"title": "Eric Zemmour définitivement condamné pour avoir affirmé que le maréchal Pétain « avait sauvé les juifs français »",
+"link": "https://www.lemonde.fr/societe/article/2026/11/24/eric-zemmour-definitivement-condamne-pour-avoir-affirme-que-le-marechal-petain-avait-sauve-les-juifs-francais_6814807_3224.html",
+"summary": "La Cour de cassation a jugé que ses propos tenus sur CNews en 2019 constituaient une « une minoration outrancière de la Shoah telle qu’elle a été mise en œuvre sur le territoire français ».",
+"source": "Le Monde",
+"date": "2026-11-24T15:11:21+00:00",
+"added": "2026-11-24T15:54:07+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Réaction"
+],
+"speaker": ""
+},
+{
+"id": "e490945a688d2a53",
+"title": "Présidentielle 2027 : le bal des aventuriers, saison 2, par Denis Pingaud",
+"link": "https://www.liberation.fr/idees-et-debats/opinions/presidentielle-2027-le-bal-des-aventuriers-saison-2-par-denis-pingaud-20261124_LYIBGOIQ4FHBNOSMDGPL3KMTDU/",
+"summary": "Si le dénouement de la série est encore incertain, on recense encore 38 candidats à l’élection présidentielle.",
+"source": "Libération",
+"date": "2026-11-24T15:06:33+00:00",
+"added": "2026-11-24T15:54:07+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "d26d31a68f7b8cbf",
+"title": "\"Vous n'êtes peut-être pas de vrais républicains\": passe d'armes entre Laurent Nuñez et le député LFI Ugo Bernalicis à propos du préfet Hugues Moutouh",
+"link": "https://www.bfmtv.com/politique/la-france-insoumise/video-vous-n-etes-peut-etre-pas-de-vrais-republicains-passe-d-armes-entre-laurent-nunez-et-le-depute-lfi-ugo-bernalicis-a-propos-du-prefet-hugues-moutouh_VN-202611240683.html",
+"summary": "Le ministre de l'Intérieur, Laurent Nuñez, répond, à l'Assemblée nationale mardi 24 novembre, au député LFI Ugo Bernalicis suite à la mise en cause du préfet Hugues Moutouh soupçonné d’avoir contribué à la transmission d’informations confidentielles au Rassemblement national concernant des enquêtes visant le parti.",
+"source": "BFMTV",
+"date": "2026-11-24T15:04:26+00:00",
+"added": "2026-11-24T15:54:07+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement",
+"parlement",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "da7681ed44541463",
+"title": "Budget 2027 : la fonction publique ciblée par la droite et le centre au Sénat",
+"link": "https://www.lemonde.fr/politique/article/2026/11/24/budget-2027-la-fonction-publique-ciblee-par-la-droite-et-le-centre-au-senat_6814804_823448.html",
+"summary": "Fidèle à la ligne qu’elle affiche depuis plusieurs années, la majorité sénatoriale avance plusieurs pistes d’économies visant les fonctionnaires.",
+"source": "Le Monde",
+"date": "2026-11-24T15:00:14+00:00",
+"added": "2026-11-24T15:54:07+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "a2eefcc1d0d7de8a",
+"title": "Ces sportifs qui pourraient soutenir LFI, le surnom donné à Marine Le Pen par les policiers",
+"link": "https://www.lexpress.fr/politique/ces-sportifs-qui-pourraient-soutenir-lfi-le-surnom-donne-a-marine-le-pen-par-les-policiers-LP5BVYWAFRHAJFOYV7JZ75OHRM/",
+"summary": "L'élection présidentielle est prévue le 18 avril et le 2 mai 2027, mais la campagne a commencé, et ce ne sont pas les candidats qui manquent.",
+"source": "L'Express",
+"date": "2026-11-24T15:00:00+00:00",
+"added": "2026-11-24T15:54:07+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "56160513de6bc1a2",
+"title": "Présidentielle 2027. Christophe Béchu compte sur Gérard Larcher pour départager les candidats à droite sans primaire",
+"link": "https://www.ouest-france.fr/elections/presidentielle/presidentielle-2027-christophe-bechu-compte-sur-gerard-larcher-pour-departager-les-candidats-a-droite-sans-primaire-518a4fa2-e7f7-11f1-9b33-2f81462d3339",
+"summary": "",
+"source": "Ouest-France",
+"date": "2026-11-24T14:59:03+00:00",
+"added": "2026-11-24T15:54:07+00:00",
+"official": false,
+"also": [],
+"base": [
+"parlement"
+],
+"filtered": true,
+"topics": [
+"parlement",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "b894b7ac3a93be07",
+"title": "Fuites du ministère de l’intérieur vers le RN : Laurent Nuñez dit avoir proposé un successeur au préfet Hugues Moutouh",
+"link": "https://www.lemonde.fr/politique/article/2026/11/24/fuites-du-ministere-de-l-interieur-vers-le-rn-laurent-nunez-dit-avoir-propose-un-successeur-au-prefet-hugues-moutouh_6814801_823448.html",
+"summary": "L’ancien haut fonctionnaire du ministère de l’intérieur est soupçonné d’avoir joué un rôle dans la transmission au Rassemblement national d’informations confidentielles sur les enquêtes visant le parti.",
+"source": "Le Monde",
+"date": "2026-11-24T14:58:34+00:00",
+"added": "2026-11-24T15:54:07+00:00",
+"official": false,
+"also": [
+"franceinfo",
+"BFMTV",
+"20 Minutes"
+],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement",
+"partis"
+],
+"natures": [
+"Annonce"
+],
+"speaker": "Laurent Nuñez"
+},
+{
+"id": "3da788c7a64e3ebe",
+"title": "«On a quand même un peu d’espoir» : le vote de la loi sur l’extension de l’usage des pesticides reportée à 2027 au Parlement européen",
+"link": "https://www.liberation.fr/environnement/agriculture/on-a-quand-meme-un-peu-despoir-le-vote-de-la-loi-sur-lextension-de-lusage-des-pesticides-reportee-a-2027-au-parlement-europeen-20261124_HV6RSCRYGFBCPB4QIAQBMIKN7E/",
+"summary": "Les eurodéputés devaient trancher au mois de décembre sur le paquet législatif controversé, qui devait assouplir l’usage des produits phytosanitaires.",
+"source": "Libération",
+"date": "2026-11-24T14:57:39+00:00",
+"added": "2026-11-24T15:54:07+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "ae9ab7f934a6db20",
+"title": "«Il était une figure du Palais-Bourbon» : l’Assemblée nationale rend hommage au député David Habib (vidéo)",
+"link": "https://www.cnews.fr/france/2026-11-24/il-etait-une-figure-du-palais-bourbon-lassemblee-nationale-rend-hommage-au-depute",
+"summary": "Une minute de silence a été observée ce mardi à l’Assemblée nationale en hommage au député David Habib, dont le décès a été annoncé le 19 novembre dernier.",
+"source": "CNews",
+"date": "2026-11-24T14:51:17+00:00",
+"added": "2026-11-24T15:54:07+00:00",
+"official": false,
+"also": [],
+"base": [
+"parlement"
+],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "fdd49095113278c6",
+"title": "Pourquoi Mélenchon plaît-il tant à la jeunesse ?",
+"link": "https://www.lesechos.fr/idees-debats/editos-analyses/pourquoi-melenchon-plait-il-tant-a-la-jeunesse-2264352",
+"summary": "",
+"source": "Les Echos",
+"date": "2026-11-24T14:50:14+00:00",
+"added": "2026-11-24T15:54:07+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "577e66aec94d9876",
+"title": "\"Ils iront toujours vers ceux qui les soutiennent\": pour qui voteront les patrons en cas de second tour Le Pen-Mélenchon ?",
+"link": "https://rmc.bfmtv.com/replay-emissions/les-grandes-gueules/ils-iront-toujours-vers-ceux-qui-les-soutiennent-pour-qui-voteront-les-patrons-en-cas-de-second-tour-le-pen-melenchon_AN-202611240669.html",
+"summary": "A moins de cinq mois du vote pour le premier tour de l'élection présidentielle le 18 avril prochain, c'est la question que tout le monde se pose: que voter en cas de de second tour entre Jean-Luc Mélenchon et Marine Le Pen?",
+"source": "RMC",
+"date": "2026-11-24T14:48:59+00:00",
+"added": "2026-11-24T15:54:07+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "b2dc4c9c8addfe2f",
+"title": "\"Il n'y aura plus d'étrangers\" chante une exposante devant E. Zemmour",
+"link": "https://www.franceinfo.fr/elections/il-n-y-aura-plus-d-etrangers-chante-une-exposante-devant-e-zemmour_8297877.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "\"Il n’y aura plus d'étrangers\" : Une exposante au salon des Maires à Paris s’est mise à chanter devant Éric Zemmour, \"Monopolis\" de Starmania.",
+"source": "franceinfo",
+"date": "2026-11-24T14:30:32+00:00",
+"added": "2026-11-24T15:54:07+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "ff288f2271b8c916",
+"title": "Budget 2027 : le Sénat écarte à nouveau la taxe Zucman et le rétablissement de l’ISF",
+"link": "https://www.publicsenat.fr/actualites/economie/budget-2027-le-senat-ecarte-a-nouveau-la-taxe-zucman-et-le-retablissement-de-lisf",
+"summary": "C’est devenu la ritournelle des débats budgétaires au Sénat. La gauche a proposé comme l’année dernière des amendements pour instaurer la taxe Zucman, l’impôt plancher de 2 % sur les patrimoines supérieurs à 100 millions d’euros, défendu par l’économiste Gabriel Zucman.",
+"source": "Public Sénat",
+"date": "2026-11-24T14:28:45+00:00",
+"added": "2026-11-24T15:54:07+00:00",
+"official": false,
+"also": [],
+"base": [
+"parlement"
+],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "b38838f50badc42d",
+"title": "\"Un élu de terrain\": le groupe LIOT rend hommage au député David Habib, décédé subitement à 65 ans",
+"link": "https://www.bfmtv.com/politique/parlement/video-un-elu-de-terrain-le-groupe-liot-rend-hommage-au-depute-david-habib-decede-subitement-a-65-ans_VN-202611240658.html",
+"summary": "Le président du groupe LIOT à l'Assemblée nationale, Christophe Naegelen, rend hommage ce mardi 24 novembre à David Habib, député des Pyrénées-Atlantiques, décédé subitement dans la nuit du mercredi 18 au jeudi 19 novembre à l'âge de 65 ans.",
+"source": "BFMTV",
+"date": "2026-11-24T14:24:58+00:00",
+"added": "2026-11-24T15:54:07+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "9fe94b9317917250",
+"title": "« Également mortels » : Bayrou renvoie dos à dos Le Pen et Mélenchon, sans dire comment les battre",
+"link": "https://www.lopinion.fr/politique/un-peril-mortel-bayrou-alerte-sur-un-duel-le-pen-melenchon-sans-solution-pour-leviter",
+"summary": "Il y a de longs mois – plus d’un an, même – que François Bayrou a renoncé à se porter candidat à l’élection présidentielle.",
+"source": "L'Opinion",
+"date": "2026-11-24T14:18:42+00:00",
+"added": "2026-11-24T15:54:07+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "66722ae80b564e5c",
 "title": "Présidentielle 2027: en baisse dans les sondages, Édouard Philippe en visite au Congrès des maires de France",
 "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-2027-en-baisse-dans-les-sondages-edouard-philippe-en-visite-au-congres-des-maires-de-france_VN-202611240645.html",
@@ -140,7 +604,8 @@
 "Libération",
 "La Croix",
 "Le Figaro",
-"Midi Libre"
+"Midi Libre",
+"BFMTV"
 ],
 "base": [],
 "filtered": true,
@@ -206,7 +671,9 @@
 "date": "2026-11-24T12:43:41+00:00",
 "added": "2026-11-24T14:10:43+00:00",
 "official": false,
-"also": [],
+"also": [
+"Midi Libre"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -539,6 +1006,26 @@
 "topics": [
 "gouvernement",
 "parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "2fd360d306523791",
+"title": "\"Ne pas entretenir une quelconque confusion\" : pourquoi un maire sur deux est réticent à parrainer un candidat à la présidentielle",
+"link": "https://www.tf1info.fr/politique/elections/presidentielle/video-ne-pas-entretenir-une-quelconque-confusion-pourquoi-un-maire-sur-deux-est-reticent-a-parrainer-un-candidat-a-la-presidentielle-2477809.html",
+"summary": "Le congrès de l'Association des maires de France s'ouvre ce mardi 24 novembre. Il a lieu à quelques mois de l'élection présidentielle.",
+"source": "TF1 Info",
+"date": "2026-11-24T11:32:42+00:00",
+"added": "2026-11-24T15:54:07+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
 ],
 "natures": [],
 "speaker": ""
@@ -915,7 +1402,9 @@
 "date": "2026-11-24T09:59:31+00:00",
 "added": "2026-11-24T11:45:58+00:00",
 "official": false,
-"also": [],
+"also": [
+"Le Progrès"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -2347,6 +2836,24 @@
 ],
 "natures": [],
 "speaker": ""
+},
+{
+"id": "9ab98867f795ca48",
+"title": "Présidentielle 2027 : Mélenchon lance un scud sur Bayrou, Lisnard ouvre le Congrès des maires sur un air de campagne...",
+"link": "https://www.20minutes.fr/politique/4265257-20261124-direct-presidentielle-2027-candidature-david-lisnard-va-agiter-congres-maires-france?at_medium=display&at_campaign=149",
+"summary": "Une enquête est ouverte à la suite d’un signalement à la justice pour détournement de fonds publics à la communauté urbaine du Havre dirigée par Édouard Philippe, placé par ailleurs sous statut de témoin assisté dans une autre procédure menée par le parquet national financier.",
+"source": "20 Minutes",
+"date": "2026-11-24T05:02:47+00:00",
+"added": "2026-11-24T15:54:07+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": "Jean-Luc Mélenchon"
 },
 {
 "id": "c54e65fa5549d274",
@@ -4228,7 +4735,9 @@
 "date": "2026-11-23T17:30:02+00:00",
 "added": "2026-11-23T17:47:59+00:00",
 "official": false,
-"also": [],
+"also": [
+"France 24"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -4433,6 +4942,26 @@
 "filtered": true,
 "topics": [
 "parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "a8e7fd400f60f87c",
+"title": "Déplacement à Toulouse.",
+"link": "https://www.elysee.fr/emmanuel-macron/2026/11/23/deplacement-a-toulouse",
+"summary": "Le Président de la République s'est rendu à Toulouse le 22 et 23 novembre 2026, dans le prolongement de la Semaine de l’industrie, afin de mettre à l’honneur l’excellence de l’industrie française et européenne.",
+"source": "Élysée",
+"date": "2026-11-23T17:00:00+00:00",
+"added": "2026-11-24T15:54:07+00:00",
+"official": true,
+"also": [],
+"base": [
+"elysee"
+],
+"filtered": false,
+"topics": [
+"elysee"
 ],
 "natures": [],
 "speaker": ""
@@ -5563,7 +6092,9 @@
 "date": "2026-11-23T13:33:51+00:00",
 "added": "2026-11-23T14:14:40+00:00",
 "official": false,
-"also": [],
+"also": [
+"RFI"
+],
 "base": [
 "presidentielle"
 ],
@@ -12592,91 +13123,6 @@
 "partis"
 ],
 "natures": [],
-"speaker": ""
-},
-{
-"id": "31ff3cfc04d295a7",
-"title": "Elections en Espagne : “Les coalitions entre le Parti populaire et Vox fonctionnent très bien”, assure cet eurodéputé espagnol conservateur",
-"link": "https://www.publicsenat.fr/actualites/politique/elections-en-espagne-les-coalitions-entre-le-parti-populaire-et-vox-fonctionnent-tres-bien-assure-cet-eurodepute-espagnol-conservateur",
-"summary": "Des élections législatives anticipées auront lieu en Espagne le 29 novembre. Le Premier ministre socialiste espagnol Pedro Sanchez peut-il obtenir une majorité parlementaire et éviter une coalition entre la droite du Parti populaire et l’extrême droite de Vox ?",
-"source": "Public Sénat",
-"date": "2026-11-21T15:30:00+00:00",
-"added": "2026-11-21T21:27:24+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement",
-"parlement",
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": ""
-},
-{
-"id": "cb25221fa243a94b",
-"title": "Présidentielle 2027 : Sandrine Rousseau regrette le «truc anti-Mélenchon primaire» de Yannick Jadot",
-"link": "https://www.liberation.fr/politique/elections/presidentielle-2027-sandrine-rousseau-regrette-le-truc-anti-melenchon-primaire-de-yannick-jadot-20261121_6PWK7EZ7OFFSFAR52LSPOJJBAM/",
-"summary": "La députée écologiste de Paris Sandrine Rousseau a estimé que la position anti-Mélenchon de Yannick Jadot illustrait une «impasse» à gauche, regrettant par ailleurs que le sénateur ait décidé de quitter le parti.",
-"source": "Libération",
-"date": "2026-11-21T15:13:55+00:00",
-"added": "2026-11-24T11:45:58+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement",
-"presidentielle"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "Sandrine Rousseau"
-},
-{
-"id": "7f434190acb9e5bc",
-"title": "« Lisnard, c’est Pac-Man, il a mangé Retailleau » : Philippe et Attal bousculés par le phénomène Lisnard",
-"link": "https://www.leparisien.fr/elections/presidentielle/lisnard-cest-pac-man-il-a-mange-retailleau-philippe-et-attal-bouscules-par-le-phenomene-lisnard-21-11-2026-D237CPRATVHDLDKUFBRMSE2PQU.php",
-"summary": "",
-"source": "Le Parisien",
-"date": "2026-11-21T15:02:17+00:00",
-"added": "2026-11-22T19:40:53+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "e28f29722b2fa29a",
-"title": "Un hélicoptère russe soupçonné d'avoir violé l'espace aérien de la Finlande, annonce le ministère de la Défense finlandais",
-"link": "https://www.laprovence.com/article/faits-divers-justice/1390383418332115/un-helicoptere-russe-soupconne-d-avoir-viole-l-espace-aerien-de-la-finlande-annonce-le-ministere-de-la-defense-finlandais",
-"summary": "Un hélicoptère russe est soupçonné d’avoir violé l’espace aérien de Finlande ce samedi, quelques heures après qu’une attaque de drone a mis feu à un cargo russe en mer Baltique.",
-"source": "La Provence",
-"date": "2026-11-21T14:32:46+00:00",
-"added": "2026-11-22T13:48:08+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [
-"Annonce"
-],
 "speaker": ""
 }
 ]
