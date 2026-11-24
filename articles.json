@@ -1,5 +1,703 @@
 [
 {
+"id": "658e1c0a9abb1eb3",
+"title": "Présidentielle 2027 : Gabriel Attal exhorte Édouard Philippe à trouver « une autre modalité de départage » s’il refuse la primaire",
+"link": "https://www.sudouest.fr/elections/presidentielle/presidentielle-2027-gabriel-attal-exhorte-edouard-philippe-a-trouver-une-autre-modalite-de-departage-s-il-refuse-la-primaire-31658475.php",
+"summary": "",
+"source": "Sud Ouest",
+"date": "2026-11-24T19:49:54+00:00",
+"added": "2026-11-24T19:52:02+00:00",
+"official": false,
+"also": [
+"Le Parisien"
+],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Gabriel Attal"
+},
+{
+"id": "58b5f3ff7be0ec20",
+"title": "Présidentielle 2027 : le camp d’Édouard Philippe pointe le « flou » de David Lisnard face à « l’extrême droite »",
+"link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-le-camp-d-edouard-philippe-pointe-le-flou-de-david-lisnard-face-a-l-extreme-droite-20261124",
+"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
+"source": "Le Figaro",
+"date": "2026-11-24T19:30:00+00:00",
+"added": "2026-11-24T19:52:02+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "David Lisnard"
+},
+{
+"id": "943aa2bcdf823d3c",
+"title": "VIDÉO - Fabien Roussel, candidat du PCF, est l'invité d'\"Objectif 2027\" ce soir sur LCI",
+"link": "https://www.tf1info.fr/politique/elections/presidentielle/direct-video-fabien-roussel-candidat-du-pcf-est-l-invite-d-objectif-2027-ce-mardi-24-novembre-a-21-heures-sur-lci-2477924.html",
+"summary": "Budget, économie, sécurité, crise sociale, union des gauches à cinq mois de l'élection présidentielle de 2027...",
+"source": "TF1 Info",
+"date": "2026-11-24T19:21:30+00:00",
+"added": "2026-11-24T19:52:02+00:00",
+"official": false,
+"also": [],
+"base": [
+"matinales"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Interview"
+],
+"speaker": ""
+},
+{
+"id": "bbd8c96368a07989",
+"title": "Sébastien Lecornu recevra les présidents des groupes parlementaires début décembre pour prolonger les discussions sur le budget 2027",
+"link": "https://www.franceinfo.fr/economie/budget/sebastien-lecornu-recevra-les-presidents-des-groupes-parlementaires-la-semaine-prochaine-pour-prolonger-les-discussions-sur-le-budget-2027_8298285.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "Le Premier ministre s'est également félicité de l'adoption du projet de loi de finances de fin de gestion pour 2026.",
+"source": "franceinfo",
+"date": "2026-11-24T19:15:27+00:00",
+"added": "2026-11-24T19:52:02+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement",
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "dca8e6be710d07ca",
+"title": "Parrainages des candidats à l'élection présidentielle: avant 2017, \"il y avait l'anonymat des parrainages, les maires n'étaient pas embêtés\", rappelle Louis Aliot, maire RN de Perpignan",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-parrainages-des-candidats-a-l-election-presidentielle-avant-2017-il-y-avait-l-anonymat-des-parrainages-les-maires-n-etaient-pas-embetes-rappelle-louis-aliot-maire-rn-de-perpignan_VN-202611240905.html",
+"summary": "VIDÉO - La course aux parrainages bat son plein à 5 mois de l'élection présidentielle. Chez les candidats, c'est la course aux 500 signatures d'élus pour pouvoir se présenter au scrutin du dimanche 18 avril, date du premier tour.",
+"source": "BFMTV",
+"date": "2026-11-24T19:09:01+00:00",
+"added": "2026-11-24T19:52:02+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Louis Aliot"
+},
+{
+"id": "22dfbfa5a11fc81d",
+"title": "États-Unis : l’affaire Nvidia provoque un début de crise parmi les Républicains, certains élus réclament des enquêtes d’envergure",
+"link": "https://www.sudouest.fr/international/etats-unis/etats-unis-l-affaire-nvidia-provoque-un-debut-de-crise-parmi-les-republicains-certains-elus-reclament-des-enquetes-d-envergure-31657983.php",
+"summary": "",
+"source": "Sud Ouest",
+"date": "2026-11-24T19:06:00+00:00",
+"added": "2026-11-24T19:52:02+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "bd3b21d42b4cb883",
+"title": "Constitution: comment le député Pouria Amirshahi veut provoquer le débat contre les référendums promis par Marine Le Pen",
+"link": "https://lcp.fr/actualites/constitution-comment-le-depute-pouria-amirshahi-veut-provoquer-le-debat-contre-les",
+"summary": "Le député écologiste Pouria Amirshahi présentera, ce mercredi 25 novembre, en commission une proposition de loi visant à interdire les révisions constitutionnelles en usant de l'article 11 de la Constitution.",
+"source": "LCP",
+"date": "2026-11-24T19:05:11+00:00",
+"added": "2026-11-24T19:52:02+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement",
+"partis"
+],
+"natures": [],
+"speaker": "Pouria Amirshahi"
+},
+{
+"id": "36a66bd126645cc7",
+"title": "Duel Le Pen-Mélenchon : tous sommés de choisir ? - 24/11",
+"link": "https://www.bfmtv.com/replay-emissions/100-mabrouk/video-duel-le-pen-melenchon-tous-sommes-de-choisir-24-11_VN-202611240911.html",
+"summary": "VIDÉO - Retrouvez le replay de 100% Mabrouk sur BFMTV.",
+"source": "BFMTV",
+"date": "2026-11-24T19:01:41+00:00",
+"added": "2026-11-24T19:52:02+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "707afb9b7e9a4302",
+"title": "C’est Benjamin... à Amiens, avec l’épicier du quartier",
+"link": "https://www.franceinfo.fr/elections/c-est-benjamin-a-amiens-avec-l-epicier-du-quartier_8297910.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "C’est Benjamin de franceinfo, à la rencontre des Français jusqu’au deuxième tour de la présidentielle 2027. A Amiens (Picardie), il croise la route de Mouss, épicier dans un quartier prioritaire de la ville (QPV), déterminé à défendre ces commerces de proximité qui créent du lien social.",
+"source": "franceinfo",
+"date": "2026-11-24T19:00:02+00:00",
+"added": "2026-11-24T19:52:02+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "15d321a512c5e368",
+"title": "Budget : un premier texte adopté par le Parlement, Sébastien Lecornu rêve désormais d’un compromis pour 2027",
+"link": "https://www.lemonde.fr/politique/article/2026/11/24/budget-un-premier-texte-adopte-par-le-parlement-sebastien-lecornu-reve-desormais-d-un-compromis-pour-2027_6814842_823448.html",
+"summary": "La loi de fin de gestion pour 2026 a été validée mardi 24 novembre. L’accord sur le budget 2027 que vise le premier ministre paraît beaucoup plus aléatoire.",
+"source": "Le Monde",
+"date": "2026-11-24T18:59:13+00:00",
+"added": "2026-11-24T19:52:02+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement",
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "44200e430f0c40a9",
+"title": "Guerre au Moyen-Orient : Un ministre israélien affirme que l’Iran développe des armes chimiques",
+"link": "https://www.20minutes.fr/monde/israel/4265504-20261124-guerre-moyen-orient-ministre-israelien-affirme-iran-developpe-armes-chimiques",
+"summary": "Le gouvernement israélien continue ses accusations contre Téhéran. Mardi, le ministre de la Défense, Israël Katz, a assuré que l’Iran travaillait à se doter d’armes chimiques, tout en reconnaissant qu’il n’avait « pas encore acquis la capacité de s’en servir pour attaquer Israël ».",
+"source": "20 Minutes",
+"date": "2026-11-24T18:53:00+00:00",
+"added": "2026-11-24T19:52:02+00:00",
+"official": false,
+"also": [
+"Le Figaro",
+"La Provence",
+"franceinfo"
+],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "092019c1f55f8c5b",
+"title": "« Il est déjà élu à l’applaudimètre »: dans les coulisses du match entre David Lisnard et Philippe Laurent pour la présidence de l’AMF",
+"link": "https://www.lefigaro.fr/elections/presidentielles/il-est-deja-elu-a-l-applaudimetre-dans-les-coulisses-du-match-entre-david-lisnard-et-philippe-laurent-pour-la-presidence-de-l-amf-20261124",
+"summary": "RÉCIT - Mardi, les deux élus ont défendu leur projet devant 3 000 personnes réunies dans le cadre du 108e congrès des maires de France.",
+"source": "Le Figaro",
+"date": "2026-11-24T18:52:21+00:00",
+"added": "2026-11-24T19:52:02+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "20b12f6346b34f05",
+"title": "L'Assemblée nationale adopte en première lecture le projet de loi de relance du logement",
+"link": "https://www.franceinfo.fr/politique/l-assemblee-nationale-adopte-en-premiere-lecture-le-projet-de-loi-de-relance-du-logement_8298255.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "Les députés se sont divisés sur la suppression de l'interdiction progressive de louer les logements les plus énergivores.",
+"source": "franceinfo",
+"date": "2026-11-24T18:49:59+00:00",
+"added": "2026-11-24T19:52:02+00:00",
+"official": false,
+"also": [
+"BFMTV",
+"Libération",
+"France 24"
+],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "6b13e878a899a5b7",
+"title": "La Commission européenne se montre indulgente sur la situation budgétaire française",
+"link": "https://www.lemonde.fr/economie/article/2026/11/24/la-commission-europeenne-se-montre-indulgente-sur-la-situation-budgetaire-francaise_6814840_3234.html",
+"summary": "Le commissaire chargé de la planification, Valdis Dombrovskis, écoutant le ministre de l’économie Roland Lescure, table sur l’adoption du budget 2027 par le Parlement français.",
+"source": "Le Monde",
+"date": "2026-11-24T18:42:05+00:00",
+"added": "2026-11-24T19:52:02+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement",
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "7e24a02e31e9fbde",
+"title": "Présidentielle 2027 : devant des maires, Marine Le Pen promet plus de « liberté » pour les communes et veut s’attaquer au « millefeuille territorial »",
+"link": "https://www.lemonde.fr/politique/article/2026/11/24/presidentielle-2027-devant-des-maires-marine-le-pen-promet-plus-de-liberte-pour-les-communes-et-veut-s-attaquer-au-millefeuille-territorial_6814839_823448.html",
+"summary": "A l’occasion du congrès des maires de France, la candidate du Rassemblement national a reçu plusieurs édiles au siège du parti mardi 24 novembre et a dévoilé son programme pour les collectivités locales.",
+"source": "Le Monde",
+"date": "2026-11-24T18:33:50+00:00",
+"added": "2026-11-24T19:52:02+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation",
+"Annonce"
+],
+"speaker": "Marine Le Pen"
+},
+{
+"id": "478808bf32091297",
+"title": "« Peu d'élus ont fait leur choix » : au congrès des maires, la chasse aux parrainages",
+"link": "https://www.ledauphine.com/elections/2026/11/24/peu-d-elus-ont-fait-leur-choix-au-congres-des-maires-la-chasse-aux-parrainages",
+"summary": "Avant même de pouvoir accéder au congrès des maires, les élus sont alpagués par des militants. Aux abords du parc des expositions de Paris, les soutiens de Natacha Polony, de Juan Branco ou de Florian Philippot ont les mains remplies de tracts. 10 000 maires sont présents sur trois jours.",
+"source": "Le Dauphiné Libéré",
+"date": "2026-11-24T18:30:04+00:00",
+"added": "2026-11-24T19:52:02+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "957783fda9fb2809",
+"title": "L’ancien président du Medef Pierre Gattaz votera « sans aucune hésitation » Le Pen en cas de duel avec Mélenchon",
+"link": "https://www.humanite.fr/politique/election-presidentielle/lancien-president-du-medef-pierre-gattaz-votera-sans-aucune-hesitation-le-pen-en-cas-de-duel-avec-melenchon",
+"summary": "Invité sur BFMTV, l’ancien patron des patrons, à la tête du Medef de 2013 à 2018, a déployé un argumentaire pathétique pour se justifier.",
+"source": "L'Humanité",
+"date": "2026-11-24T18:29:02+00:00",
+"added": "2026-11-24T19:52:02+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "a376c625d51da318",
+"title": "« C’est celui qui nous fait le plus peur » : au Rassemblement national, la percée de David Lisnard inquiète",
+"link": "https://www.lefigaro.fr/elections/presidentielles/c-est-celui-qui-nous-fait-le-plus-peur-au-rassemblement-national-la-percee-de-david-lisnard-inquiete-20261124",
+"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
+"source": "Le Figaro",
+"date": "2026-11-24T18:28:31+00:00",
+"added": "2026-11-24T19:52:02+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "534db0b5589082d3",
+"title": "«En dix ans» : quand le Modem nous vend une «maison Macron» au bord d’une falaise",
+"link": "https://www.liberation.fr/politique/elections/en-dix-ans-quand-le-modem-nous-vend-une-maison-macron-au-bord-dune-falaise-20261124_MIGUYRKZPJC2PEA55OBD7XTAGY/",
+"summary": "Le site internet lancé par les députés centristes pour défendre le bilan des deux quinquennats Macron ressemble à l’article que pourrait nous faire un agent immobilier en Seine-Maritime.",
+"source": "Libération",
+"date": "2026-11-24T18:27:03+00:00",
+"added": "2026-11-24T19:52:02+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"parlement",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "411396ca9d42b930",
+"title": "Réforme territoriale : depuis l’IFP, Marine Le Pen promet aux maires la « liberté »",
+"link": "https://www.lopinion.fr/politique/reforme-territoriale-depuis-lifp-marine-le-pen-promet-aux-maires-la-liberte",
+"summary": "Le congrès des maires de France se tient du 24 au 26 novembre au Parc des expositions, porte de Versailles à Paris.",
+"source": "L'Opinion",
+"date": "2026-11-24T18:24:35+00:00",
+"added": "2026-11-24T19:52:02+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation",
+"Annonce"
+],
+"speaker": "Marine Le Pen"
+},
+{
+"id": "a7361c226791599b",
+"title": "Guillaume Tabard : «David Lisnard, se droitiser ou se recentrer pour accéder en finale ?»",
+"link": "https://www.lefigaro.fr/politique/guillaume-tabard-david-lisnard-se-droitiser-ou-se-recentrer-pour-acceder-en-finale-20261124",
+"summary": "CONTRE-POINT - Face à un phénomène nouveau dont on ne sait pas s’il va s’amplifier ou s’étioler, l’angle d’attaque n’est pas toujours évident.",
+"source": "Le Figaro",
+"date": "2026-11-24T18:15:00+00:00",
+"added": "2026-11-24T19:52:02+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Guillaume Tabard"
+},
+{
+"id": "45ab44ac7d692e07",
+"title": "Parrainages des candidats à l'élection présidentielle: \"S'il y a ce problème des parrainages, c'est le reflet de la tension politique qu'il y a\", estime Serge Grouard, maire DVD d’Orléans",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-parrainages-des-candidats-a-l-election-presidentielle-s-il-y-a-ce-probleme-des-parrainages-c-est-le-reflet-de-la-tension-politique-qu-il-y-a-estime-serge-grouard-maire-dvd-d-orleans_VN-202611240861.html",
+"summary": "La course aux parrainages bat son plein à 5 mois de l'élection présidentielle. Chez les candidats, c'est la course aux 500 signatures d'élus pour pouvoir se présenter au scrutin du dimanche 18 avril, date du premier tour.",
+"source": "BFMTV",
+"date": "2026-11-24T18:14:55+00:00",
+"added": "2026-11-24T19:52:02+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Serge Grouard"
+},
+{
+"id": "c9a4a210af03b7b1",
+"title": "Parrainages des candidats à l'élection présidentielle: \"Vous avez de plus en plus de maires élus sans étiquette\", note Stéphane Le Foll, maire PS du Mans",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-parrainages-des-candidats-a-l-election-presidentielle-vous-avez-de-plus-en-plus-de-maires-elus-sans-etiquette-note-stephane-le-foll-maire-ps-du-mans_VN-202611240859.html",
+"summary": "La course aux parrainages bat son plein à 5 mois de l'élection présidentielle. Chez les candidats, c'est la course aux 500 signatures d'élus pour pouvoir se présenter au scrutin du dimanche 18 avril, date du premier tour.",
+"source": "BFMTV",
+"date": "2026-11-24T18:13:22+00:00",
+"added": "2026-11-24T19:52:02+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Stéphane Le Foll"
+},
+{
+"id": "d0a2808fc2b61f02",
+"title": "Présidentielle 2027 : Cette députée Génération. s était porte-parole de Ruffin, LFI ne veut pas d’elle dans l’accord",
+"link": "https://www.20minutes.fr/politique/4265495-20261124-presidentielle-2027-deputee-generation-porte-parole-ruffin-lfi-veut-accord?at_medium=display&at_campaign=149",
+"summary": "Elle était la porte-parole de François Ruffin, elle se retrouve sur le carreau. Lundi, les adhérents de Génération.s, parti fondé par Benoît Hamon, ont validé à 85 % le soutien à Jean-Luc Mélenchon pour 2027, assorti d’un accord législatif avec LFI.",
+"source": "20 Minutes",
+"date": "2026-11-24T18:10:59+00:00",
+"added": "2026-11-24T19:52:02+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement",
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "40bcc5edd7e18ae4",
+"title": "Nicolas Sarkozy, Carla Bruni, Mimi Marchand… Qui sont les principaux protagonistes de l'affaire de la fausse rétractation de Ziad Takieddine ?",
+"link": "https://www.franceinfo.fr/politique/affaire/financement-de-la-campagne-de-sarkozy/nicolas-sarkozy-carla-bruni-mimi-marchand-qui-sont-les-principaux-protagonistes-de-l-affaire-de-la-fausse-retractation-de-ziad-takieddine_8297730.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "Onze personnes sont renvoyées devant le tribunal correctionnel pour leur implication dans l'opération \"Sauver Sarko\".",
+"source": "franceinfo",
+"date": "2026-11-24T18:10:39+00:00",
+"added": "2026-11-24T19:52:02+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "0e489c45e0e69da9",
+"title": "Présidentielle 2027 : en campagne au Congrès des maires, Philippe et Retailleau sur les terres de Lisnard",
+"link": "https://www.lesechos.fr/elections/presidentielle/presidentielle-2027-en-campagne-au-congres-des-maires-philippe-et-retailleau-sur-les-terres-de-lisnard-2264433",
+"summary": "",
+"source": "Les Echos",
+"date": "2026-11-24T18:04:02+00:00",
+"added": "2026-11-24T19:52:02+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "dd3f44e7c5814abc",
+"title": "Passé antisémite de Laure Lavalette : le RN s’enfonce en défense",
+"link": "https://lesjours.fr/obsessions/rn-derniere-marche-3/ep15-lavalette-suite/",
+"summary": "",
+"source": "Les Jours",
+"date": "2026-11-24T17:59:00+00:00",
+"added": "2026-11-24T19:52:02+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "c1bd640540ca7770",
+"title": "Filmer à l'Assemblée nationale comme ces jeunes, est-ce que c'est autorisé ?",
+"link": "https://www.franceinfo.fr/l-actu-pour-les-jeunes/filmer-a-l-assemblee-nationale-comme-ces-jeunes-est-ce-que-c-est-autorise_8298240.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "Dans une vidéo sur les réseaux, on voit des jeunes parler dans l’hémicycle de l’Assemblée nationale. Mais certains politiques disent que ce n'est pas permis.",
+"source": "franceinfo",
+"date": "2026-11-24T17:53:47+00:00",
+"added": "2026-11-24T19:52:02+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "5a92a7e64e03356e",
+"title": "Présidentielle 2027 : « Je ne voudrais pas froisser mes administrés »… Les maires face au casse-tête des parrainages",
+"link": "https://www.20minutes.fr/politique/4265401-20261124-presidentielle-2027-voudrais-froisser-administres-maires-face-casse-tete-parrainages?at_medium=display&at_campaign=149",
+"summary": "Leurs parrainages sont indispensables aux candidats à la présidentielle. Si certains édiles sont décidés, d’autres ne sont même pas sûrs d’accorder leur soutien à qui que ce soit.",
+"source": "20 Minutes",
+"date": "2026-11-24T17:51:58+00:00",
+"added": "2026-11-24T19:52:02+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "6748047404c33a9b",
+"title": "SIGNÉ CONSIGNY - Présidentielle 2027: \"Cette histoire des extrêmes et d'un candidat unique pour tous ces gens raisonnables nous a menés à ces extrêmes très élevés\", estime l'avocat et essayiste",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-signe-consigny-presidentielle-2027-cette-histoire-des-extremes-et-d-un-candidat-unique-pour-tous-ces-gens-raisonnables-nous-a-menes-a-ces-extremes-tres-eleves-estime-l-avocat-et-essayiste_VN-202611240828.html",
+"summary": "Charles Consigny, avocat et essayiste, s'est exprimé sur les extrêmes et l'idée d'un candidat unique au centre ce mardi 14 novembre.",
+"source": "BFMTV",
+"date": "2026-11-24T17:51:07+00:00",
+"added": "2026-11-24T19:52:02+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": ""
+},
+{
+"id": "0974912bf6f29887",
+"title": "Pourquoi certains maires ne parraineront aucun candidat à la présidentielle",
+"link": "https://www.20minutes.fr/politique/4265401-20261124-presidentielle-2027-voudrais-froisser-administres-maires-face-casse-tete-parrainages",
+"summary": "«Mon choix est fait. » Parmi la foule d’élus rassemblés porte de Versailles, à Paris, à l’occasion du Congrès des maires de France, c’est un accent du sud-ouest qui trahit Jean-Charles Moriconi.",
+"source": "20 Minutes",
+"date": "2026-11-24T17:51:00+00:00",
+"added": "2026-11-24T19:52:02+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "f0b2888610bf3968",
+"title": "\"Une forfaiture\": une députée dénonce la venue de deux talibans en France",
+"link": "https://lcp.fr/actualites/une-forfaiture-une-deputee-denonce-la-venue-de-deux-talibans-en-france-445575",
+"summary": "Selon l'élue écologiste Léa Balage El Mariky, deux représentants des talibans vont venir en France, dans le cadre de l'ouverture de discussions pour organiser le renvoi d’Afghans en situation irrégulière.",
+"source": "LCP",
+"date": "2026-11-24T17:48:18+00:00",
+"added": "2026-11-24T19:52:02+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [
+"Réaction"
+],
+"speaker": ""
+},
+{
+"id": "c46cc497d5a016a9",
+"title": "Présidentielle 2027 : le député de Marseille Hendrik Davi (ex-LFI) va \"faire campagne pour Jean-Luc Mélenchon\"",
+"link": "https://www.laprovence.com/article/politique/1187899225217914/presidentielle-2027-le-depute-de-marseille-hendrik-davi-ex-lfi-va-faire-campagne-pour-jean-luc-melenchon",
+"summary": "Hendrik Davi (ex-LFI) est député de la 5e circonscription des Bouches-du-Rhône depuis 2022. Hendrik Davi n'est pas rancunier.",
+"source": "La Provence",
+"date": "2026-11-24T17:46:37+00:00",
+"added": "2026-11-24T19:52:02+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"parlement",
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "32070df611f2dece",
+"title": "Présidentielle 2027 : Edouard Philippe a voté pour David Lisnard à la présidence de l’AMF, mais fustige sa posture dans la course à l’Elysée",
+"link": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/24/edouard-philippe-a-vote-pour-david-lisnard-a-la-presidence-de-l-amf-mais-fustige-sa-posture-dans-la-course-a-l-elysee_6814832_6205049.html",
+"summary": "Le candidat Horizons a rapproché au maire de Cannes de vouloir travailler avec la droite et la « droite extrême ».",
+"source": "Le Monde",
+"date": "2026-11-24T17:43:11+00:00",
+"added": "2026-11-24T19:52:02+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Réaction"
+],
+"speaker": ""
+},
+{
 "id": "fd2d4ed34b5bfef2",
 "title": "Budget 2027 : le Sénat réduit l'abattement fiscal des retraités, mais ne le supprime pas",
 "link": "https://www.lesechos.fr/economie-france/budget-fiscalite/budget-2027-le-senat-reduit-labattement-fiscal-des-retraites-mais-ne-le-supprime-pas-2264429",
@@ -8,7 +706,9 @@
 "date": "2026-11-24T17:38:46+00:00",
 "added": "2026-11-24T17:43:12+00:00",
 "official": false,
-"also": [],
+"also": [
+"Le Monde"
+],
 "base": [
 "parlement"
 ],
@@ -453,7 +1153,9 @@
 "date": "2026-11-24T16:24:05+00:00",
 "added": "2026-11-24T17:43:12+00:00",
 "official": false,
-"also": [],
+"also": [
+"BFMTV"
+],
 "base": [
 "partis"
 ],
@@ -566,6 +1268,26 @@
 "elysee",
 "partis",
 "presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "018e8b4b39b1cf8d",
+"title": "L’étrange deux poids deux mesures du RN sur l’antisémitisme",
+"link": "https://www.huffingtonpost.fr/politique/article/jordan-bardella-soutient-laure-lavalette-et-confirme-le-deux-poids-deux-mesures-du-rn-sur-l-antisemitisme_364224.html",
+"summary": "« Selon que vous serez puissant ou misérable, les jugements de cour vous rendront blanc ou noir. » La morale de la fable Les Animaux malades de la peste de Jean de La Fontaine s’applique bien à la façon dont le Rassemblement national gère les cas de ses membres rattrapés par un passé antisémite.",
+"source": "Le HuffPost",
+"date": "2026-11-24T16:00:02+00:00",
+"added": "2026-11-24T19:52:02+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
 ],
 "natures": [],
 "speaker": ""
@@ -1120,6 +1842,27 @@
 "filtered": true,
 "topics": [
 "parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "631f491ce216273c",
+"title": "« Nous les aurons à date » : Bally Bagayoko (LFI) se montre confiant sur les 500 parrainages pour la présidentielle",
+"link": "https://www.publicsenat.fr/actualites/politique/nous-les-aurons-a-date-bally-bagayoko-lfi-se-montre-confiant-sur-les-500-parrainages-pour-la-presidentielle",
+"summary": "« Nous les avons. »",
+"source": "Public Sénat",
+"date": "2026-11-24T14:19:58+00:00",
+"added": "2026-11-24T19:52:02+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
 ],
 "natures": [],
 "speaker": ""
@@ -6823,7 +7566,9 @@
 "added": "2026-11-23T14:14:40+00:00",
 "official": false,
 "also": [
-"RFI"
+"RFI",
+"BFMTV",
+"La Nouvelle République"
 ],
 "base": [
 "presidentielle"
@@ -10980,6 +11725,26 @@
 "speaker": "Henri Guaino"
 },
 {
+"id": "c7f3d1c7de0a6e99",
+"title": "Présidentielle 2027 : prenant acte d’une «impasse», François Ruffin retire sa candidature",
+"link": "https://www.liberation.fr/politique/elections/presidentielle-2027-francois-ruffin-retire-sa-candidature-20261121_KUCTZ27WZFBDRP62V22OJEAVBY/",
+"summary": "Le député de la Somme, en rupture avec La France insoumise, a annoncé renoncer à l’élection présidentielle, ce samedi 21 novembre, face au risque de voir le RN prendre le pouvoir.",
+"source": "Libération",
+"date": "2026-11-22T16:22:21+00:00",
+"added": "2026-11-24T19:52:02+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement",
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "1783ef475f51afa5",
 "title": "Présidentielle 2027 : Le Pen attaque Lisnard et son projet de « broyer » le code du travail",
 "link": "https://www.sudouest.fr/elections/presidentielle/presidentielle-2027-le-pen-attaque-lisnard-et-son-projet-de-broyer-le-code-du-travail-31613571.php",
@@ -13111,378 +13876,5 @@
 "Citation"
 ],
 "speaker": "Edwige Diaz"
-},
-{
-"id": "a196be9bd2e8d2ac",
-"title": "Manifestations en France: \"Ce que je regrette, c'est que le gouvernement joue sur l'épuisement\" de la mobilisation, dénonce Edwige Diaz, sénatrice RN",
-"link": "https://www.bfmtv.com/politique/video-manifestations-en-france-ce-que-je-regrette-c-est-que-le-gouvernement-joue-sur-l-epuisement-de-la-mobilisation-denonce-edwige-diaz-senatrice-rn_VN-202611210429.html",
-"summary": "Pour le sixième samedi d'affilée, des syndicats, organisations de jeunesse et gilets jaunes ont appelé à protester ce samedi dans la rue contre la vie chère, alors que le mouvement des gilets jaunes fête son huitième anniversaire ce week-end.",
-"source": "BFMTV",
-"date": "2026-11-21T19:51:47+00:00",
-"added": "2026-11-21T21:27:24+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement",
-"parlement",
-"partis"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "Edwige Diaz"
-},
-{
-"id": "f54dc530ab42d95c",
-"title": "Le Premier ministre grec critiqué pour avoir fait \"la promotion\" de GTA VI auprès de mineurs \"pour être à la mode\"",
-"link": "https://www.bfmtv.com/international/europe/grece/le-premier-ministre-grec-critique-pour-avoir-fait-la-promotion-de-gta-vi-aupres-de-mineurs-pour-etre-a-la-mode_AD-202611210428.html",
-"summary": "Cette illustration, prise à Los Angeles le 4 décembre 2023, montre la bande-annonce de Grand Theft Auto VI de Rockstar Games diffusée sur un écran devant le titre du jeu. - Photo par CHRIS DELMAS / AFP\nUne vidéo du gouvernement crée la polémique en Grèce.",
-"source": "BFMTV",
-"date": "2026-11-21T19:47:09+00:00",
-"added": "2026-11-22T11:34:04+00:00",
-"official": false,
-"also": [],
-"base": [
-"matinales"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"elysee",
-"gouvernement"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": ""
-},
-{
-"id": "c55cbcc83fdb98ff",
-"title": "Jean-Luc Mélenchon peut-il réconcilier les gauches ? - 21/11",
-"link": "https://www.bfmtv.com/replay-emissions/fauvelle-week-end/video-jean-luc-melenchon-peut-il-reconcilier-les-gauches-21-11_VN-202611210427.html",
-"summary": "VIDÉO - Retrouvez le replay de Fauvelle Week-end sur BFMTV.",
-"source": "BFMTV",
-"date": "2026-11-21T19:34:13+00:00",
-"added": "2026-11-21T21:27:24+00:00",
-"official": false,
-"also": [
-"Le Point"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "0dd36878bb62bab9",
-"title": "Présidentielle 2027 : Éric Zemmour se pose en \"candidat de la liberté de parler\" face \"au totalitarisme d'atmosphère\"",
-"link": "https://www.laprovence.com/article/elections/83842902759413/presidentielle-2027-eric-zemmour-se-pose-en-candidat-de-la-liberte-de-parler-face-au-totalitarisme-d-atmosphere",
-"summary": "Éric Zemmour, le candidat Reconquête à l’élection présidentielle de 2027, veut participer à la potentielle primaire de la droite.",
-"source": "La Provence",
-"date": "2026-11-21T19:13:23+00:00",
-"added": "2026-11-21T19:37:28+00:00",
-"official": false,
-"also": [
-"BFMTV"
-],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "eab29bac63c54d8d",
-"title": "« Il faut libérer la démocratie locale » : le Parti socialiste 29 et Place publique rassemblent les troupes à Bannalec",
-"link": "https://www.letelegramme.fr/finistere/quimperle-29300/il-faut-liberer-la-democratie-locale-le-parti-socialiste-29-et-place-publique-rassemblent-les-troupes-a-bannalec-7163371.php",
-"summary": "",
-"source": "Le Télégramme",
-"date": "2026-11-21T19:00:02+00:00",
-"added": "2026-11-21T19:37:28+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "5888a0e49a72f6d3",
-"title": "Jacques Attali, Élise Lucet, Jean-Luc Mélenchon… Ce fléau des vidéos détournant l’image de personnalités qui coûte des millions d’euros aux épargnants",
-"link": "https://www.lefigaro.fr/placement/jacques-attali-elise-lucet-jean-luc-melenchon-ce-fleau-des-videos-detournant-l-image-de-personnalites-qui-coute-des-millions-d-euros-aux-epargnants-20261121",
-"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
-"source": "Le Figaro",
-"date": "2026-11-21T19:00:00+00:00",
-"added": "2026-11-21T19:37:28+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "c4871e8ee8324f6e",
-"title": "Eric Zemmour",
-"link": "https://www.bfmtv.com/politique/eric-zemmour_DN-202110270595.html",
-"summary": "Eric Zemmour a été candidat à l'élection présidentielle de 2022 pour le parti Reconquête et ambitionne de se présenter à nouveau en 2027.",
-"source": "BFMTV",
-"date": "2026-11-21T18:56:36+00:00",
-"added": "2026-11-21T19:37:28+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "1bd6e56a24a97a75",
-"title": "\"J'ai été convié à cette primaire\": si une primaire de la droite et du centre se déroule, Éric Zemmour, candidat \"Reconquête\" à la présidentielle, souhaite y participer",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-j-ai-ete-convie-a-cette-primaire-si-une-primaire-de-la-droite-et-du-centre-se-deroule-eric-zemmour-candidat-reconquete-a-la-presidentielle-souhaite-y-participer_VN-202611210405.html",
-"summary": "\"J'ai été convié à cette primaire\": si une primaire de la droite et du centre se déroule, Éric Zemmour, candidat \"Reconquête\" à la présidentielle, souhaite y participer",
-"source": "BFMTV",
-"date": "2026-11-21T18:42:58+00:00",
-"added": "2026-11-21T19:37:28+00:00",
-"official": false,
-"also": [
-"Le Monde"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Éric Zemmour"
-},
-{
-"id": "e0e57a6c806fbf4a",
-"title": "LFI et les Écologistes peuvent-ils vraiment se mettre d’accord sur un programme ?",
-"link": "https://www.huffingtonpost.fr/politique/article/la-france-insoumise-et-les-ecologistes-peuvent-ils-vraiment-se-mettre-d-accord-sur-un-programme_362344.html",
-"summary": "Un début d’union de la gauche et des tas de questions. Mercredi 18 novembre au soir, Marine Tondelier a fait un pas vers Jean-Luc Mélenchon en proposant de retirer sa candidature à l’élection présidentielle et de créer une « coalition » autour du patron de La France insoumise.",
-"source": "Le HuffPost",
-"date": "2026-11-21T18:42:03+00:00",
-"added": "2026-11-21T19:37:28+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "5f5a44bf3a94b8fb",
-"title": "Présidentielle 2027 : François Ruffin jette l’éponge",
-"link": "https://www.ouest-france.fr/elections/presidentielle/presidentielle-2027-francois-ruffin-jette-leponge-96aee356-e5d9-11f1-8a7f-1e49b1ac0ca3",
-"summary": "",
-"source": "Ouest-France",
-"date": "2026-11-21T18:36:49+00:00",
-"added": "2026-11-21T19:37:28+00:00",
-"official": false,
-"also": [
-"RFI",
-"France 24",
-"L'Humanité"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "d1120a5669d8aef3",
-"title": "« Tout sauf Mélenchon », tensions sur les subventions et petites piques : les coulisses de la quinzaine politique",
-"link": "https://www.estrepublicain.fr/politique/2026/11/21/tout-sauf-melenchon-tensions-sur-les-subventions-et-petites-piques-les-coulisses-de-la-quinzaine-politique",
-"summary": "",
-"source": "L'Est Républicain",
-"date": "2026-11-21T18:32:51+00:00",
-"added": "2026-11-21T19:37:28+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "7c0ed4c74d1810bf",
-"title": "Budget européen : Emmanuel Macron furieux contre Antonio Costa",
-"link": "https://www.lepoint.fr/monde/budget-europeen-emmanuel-macron-furieux-contre-antonio-costa-ULA6JLPV55BQ7MKCVACKFBYVYI/",
-"summary": "",
-"source": "Le Point",
-"date": "2026-11-21T18:06:43+00:00",
-"added": "2026-11-22T06:36:32+00:00",
-"official": false,
-"also": [],
-"base": [
-"elysee"
-],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "49430fc85f855f53",
-"title": "Hugues Moutouh, le préfet soupçonné de fuites d’informations confidentielles vers le RN, a demandé à être relevé de ses fonctions",
-"link": "https://www.lemonde.fr/societe/article/2026/11/21/hugues-moutouh-le-prefet-soupconne-de-fuites-d-informations-confidentielles-vers-le-rn-a-demande-a-etre-releve-de-ses-fonctions_6814056_3224.html",
-"summary": "L’ancien haut fonctionnaire du ministère de l’intérieur est soupçonné d’avoir joué un rôle dans la transmission au Rassemblement national d’informations confidentielles sur les enquêtes visant le parti.",
-"source": "Le Monde",
-"date": "2026-11-21T18:01:12+00:00",
-"added": "2026-11-21T19:37:28+00:00",
-"official": false,
-"also": [
-"franceinfo",
-"Libération",
-"Ouest-France",
-"Euronews",
-"L'Humanité"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement",
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "bab5736e09388b41",
-"title": "Présidentielle 2027 : François Ruffin renonce à sa candidature, faute d'avoir réussi à rassembler la gauche",
-"link": "https://www.lexpress.fr/politique/lfi/presidentielle-2027-francois-ruffin-renonce-a-sa-candidature-faute-davoir-reussi-a-rassembler-la-RNO2Q3GKMRCM3BRAEUXDLBU65Q/",
-"summary": "C'est la fin d'une candidature qui n'aura pas réussi à trouver sa place dans le paysage politique de gauche. François Ruffin a annoncé son retrait de la course à l'élection présidentielle de 2027.",
-"source": "L'Express",
-"date": "2026-11-21T17:57:09+00:00",
-"added": "2026-11-21T19:37:28+00:00",
-"official": false,
-"also": [
-"L'Humanité",
-"Le HuffPost"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "daeb9b28e2c89980",
-"title": "Présidentielle : Face à Mélenchon, Ruffin, Autain et Tondelier abdiquent",
-"link": "https://www.latribune.fr/article/la-tribune-dimanche/politique/3421530826412314/presidentielle-face-a-melenchon-ruffin-autain-et-tondelier-abdiquent",
-"summary": "François Ruffin baisse les armes. Après avoir réuni ses troupes samedi 21 novembre en fin d’après-midi, il a annoncé dans un communiqué « retirer » sa candidature à l’élection présidentielle « cantonnée à un rôle de témoignage ».",
-"source": "La Tribune",
-"date": "2026-11-21T17:56:45+00:00",
-"added": "2026-11-21T19:37:28+00:00",
-"official": false,
-"also": [
-"BFMTV"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "6ec8ff8c4410ff13",
-"title": "Présidentielle: Ruffin renonce, le paysage se clarifie à gauche",
-"link": "https://www.france24.com/fr/info-en-continu/20261121-pr%C3%A9sidentielle-ruffin-renonce-le-paysage-se-clarifie-%C3%A0-gauche",
-"summary": "",
-"source": "France 24",
-"date": "2026-11-21T17:52:24+00:00",
-"added": "2026-11-21T19:37:28+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "6c45f50017d25b4a",
-"title": "« C’est un échec » : François Ruffin renonce à la présidentielle",
-"link": "https://www.lopinion.fr/politique/cest-un-echec-francois-ruffin-renonce-a-la-presidentielle",
-"summary": "Dimanche soir, François Ruffin sera l’invité de Marc Fauvelle sur BFMTV. Ce samedi 21 novembre, il a annoncé aux cadres de son micro-parti « Debout ! » qu’il retirait sa candidature à l’élection présidentielle, sans donner aucune consigne de vote à ce stade.",
-"source": "L'Opinion",
-"date": "2026-11-21T17:46:13+00:00",
-"added": "2026-11-22T06:36:32+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
 }
 ]
