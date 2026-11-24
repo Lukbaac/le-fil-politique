@@ -1,5 +1,397 @@
 [
 {
+"id": "79430d2941bcfd57",
+"title": "Présidentielle 2027 : courtisés dans la course aux parrainages, les maires se tiennent en retrait",
+"link": "https://www.la-croix.com/politique/presidentielle-2027-courtises-dans-la-course-aux-parrainages-les-maires-se-tiennent-en-retrait-20261124",
+"summary": "La moitié des élus locaux ne veulent pas parrainer un candidat à la présidentielle. Le rejet d’un soutien à la candidature de Marine Le Pen ou de Jean-Luc Mélenchon est particulièrement fort.",
+"source": "La Croix",
+"date": "2026-11-24T08:02:55+00:00",
+"added": "2026-11-24T08:08:09+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "c9793bec7e9ff84a",
+"title": "Présidentielle 2027: \"J'ai déjà récolté la moitié des parrainages nécessaires\", affirme Natacha Polony, candidate “Nous sommes la France”",
+"link": "https://www.bfmtv.com/politique/elections/video-presidentielle-2027-j-ai-deja-recolte-la-moitie-des-parrainages-necessaires-affirme-natacha-polony-candidate-nous-sommes-la-france_VN-202611240325.html",
+"summary": "Natacha Polony, candidate “Nous sommes la France” à l’élection présidentielle, était l’invitée du Face-à-Face de ce mardi 24 novembre sur BFMTV et RMC.",
+"source": "BFMTV",
+"date": "2026-11-24T08:01:59+00:00",
+"added": "2026-11-24T08:08:09+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Natacha Polony"
+},
+{
+"id": "03c0077896ae3ba2",
+"title": "SONDAGE Présidentielle 2027 : qui monte, qui baisse ? La dynamique des candidats depuis mars 2026 en un clin d’œil",
+"link": "https://www.midilibre.fr/2026/11/24/sondage-presidentielle-2027-le-pen-melenchon-lisnard-philippe-glucksmann-qui-monte-qui-baisse-notre-courbe-qui-resume-la-dynamique-des-candidats-13667127.php",
+"summary": "Marine Le Pen et Edouard Philippe en baisse, David Lisnard progresse, Jean-Luc Mélenchon et Raphaël Glucksmann se stabilise, Teddy Riner émerge…",
+"source": "Midi Libre",
+"date": "2026-11-24T08:01:00+00:00",
+"added": "2026-11-24T08:08:09+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "4ff8d73826b00773",
+"title": "Colère lycéenne: \"Nous avons aujourd'hui des mouvements politiques qui manipulent des lycéens qui, eux, expriment une véritable inquiétude légitime\", estime Natacha Polony, candidate à la présidentielle",
+"link": "https://www.bfmtv.com/politique/elections/video-colere-lyceenne-nous-avons-aujourd-hui-des-mouvements-politiques-qui-manipulent-des-lyceens-qui-eux-expriment-une-veritable-inquietude-legitime-estime-natacha-polony-candidate-a-la-presidentielle_VN-202611240323.html",
+"summary": "Natacha Polony, candidate “Nous sommes la France” à l’élection présidentielle, était l’invitée du Face-à-Face de ce mardi 24 novembre sur BFMTV et RMC",
+"source": "BFMTV",
+"date": "2026-11-24T07:59:48+00:00",
+"added": "2026-11-24T08:08:09+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Natacha Polony"
+},
+{
+"id": "4c30f4e34c843298",
+"title": "Immigration: il faut \"conditionner la délivrance de visas à certains pays en fonction de leur acceptation de laisser-passer consulaires\", estime Natacha Polony, candidate à la présidentielle",
+"link": "https://www.bfmtv.com/politique/video-immigration-il-faut-conditionner-la-delivrance-de-visas-a-certains-pays-en-fonction-de-leur-acceptation-de-laisser-passer-consulaires-estime-natacha-polony-candidate-a-la-presidentielle_VN-202611240317.html",
+"summary": "Natacha Polony, candidate “Nous sommes la France” à l’élection présidentielle, était l’invitée du Face-à-Face de ce mardi 24 novembre sur BFMTV et RMC.",
+"source": "BFMTV",
+"date": "2026-11-24T07:57:01+00:00",
+"added": "2026-11-24T08:08:09+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Natacha Polony"
+},
+{
+"id": "b8d0de027802568d",
+"title": "Présidentielle 2027 : David Lisnard et Teddy Riner décollent, Édouard Philippe s’effondre, Marine Le Pen reste en tête",
+"link": "https://www.valeursactuelles.com/politique/presidentielle-2027-david-lisnard-et-teddy-riner-decollent-edouard-philippe-seffondre-marine-le-pen-reste-en-tete",
+"summary": "La dynamique s’inverse. Les courbes se croisent. Le dernier baromètre politique Odoxa-Mascaret, réalisé en novembre pour Public Sénat et la presse quotidienne régionale, confirme l’essoufflement d’Édouard Philippe et la progression rapide de David Lisnard dans les sondages.",
+"source": "Valeurs actuelles",
+"date": "2026-11-24T07:56:35+00:00",
+"added": "2026-11-24T08:08:09+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"parlement",
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "baecb86e0d1dbb43",
+"title": "Affaire Hugues Moutouh : la préfectorale oscille entre soutien affiché et étonnement mesuré",
+"link": "https://www.lemonde.fr/politique/article/2026/11/24/affaire-hugues-moutouh-la-prefectorale-oscille-entre-soutien-affiche-et-etonnement-mesure_6814721_823448.html",
+"summary": "Les avis divergent parmi les préfets depuis la mise en cause de ce haut fonctionnaire soupçonné d’avoir contribué à la transmission d’informations confidentielles au Rassemblement national concernant des enquêtes visant le parti.",
+"source": "Le Monde",
+"date": "2026-11-24T07:51:22+00:00",
+"added": "2026-11-24T08:08:09+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "3e1cc38a3c58688d",
+"title": "\"Ce que je veux, c'est le retour de la France en Europe\", déclare Natacha Polony, candidate à l'élection présidentielle",
+"link": "https://www.bfmtv.com/politique/video-ce-que-je-veux-c-est-le-retour-de-la-france-en-europe-declare-natacha-polony-candidate-a-l-election-presidentielle_VN-202611240294.html",
+"summary": "Natacha Polony, candidate “Nous sommes la France” à l’élection présidentielle, était l’invitée du Face-à-Face de ce mardi 24 novembre sur BFMTV et RMC.",
+"source": "BFMTV",
+"date": "2026-11-24T07:45:38+00:00",
+"added": "2026-11-24T08:08:09+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Natacha Polony"
+},
+{
+"id": "5be66cfa92951639",
+"title": "\"Commenter le désastre depuis le pont supérieur du Titanic, ce n'était pas mon truc\", lance Natacha Polony, candidate à l'élection présidentielle",
+"link": "https://www.bfmtv.com/politique/elections/video-commenter-le-desastre-depuis-le-pont-superieur-du-titanic-ce-n-etait-pas-mon-truc-lance-natacha-polony-candidate-a-l-election-presidentielle_VN-202611240285.html",
+"summary": "Natacha Polony, candidate “Nous sommes la France” à l’élection présidentielle, était l’invitée du Face-à-Face de ce mardi 24 novembre sur BFMTV et RMC.",
+"source": "BFMTV",
+"date": "2026-11-24T07:43:34+00:00",
+"added": "2026-11-24T08:08:09+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Natacha Polony"
+},
+{
+"id": "1e14c0e0fded01ec",
+"title": "VRAI OU FAUX. L'âge moyen des premières cotisations retraite est-il vraiment 27 ans en France ?",
+"link": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-l-age-moyen-des-premieres-cotisations-retraite-est-il-vraiment-27-ans-en-france_8275382.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "Selon le porte-parole du Rassemblement national, Laurent Jacobelli, les jeunes travailleurs français ont en moyenne \"quatre ans de cotisation en moins\" par rapport aux jeunes travailleurs allemands.",
+"source": "franceinfo",
+"date": "2026-11-24T07:41:24+00:00",
+"added": "2026-11-24T08:08:09+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "4f5fa5a09251520e",
+"title": "\"Ça fait 30 ans que les dirigeants s'asseyent sur la démocratie\", déclare Natacha Polony, candidate à l'élection présidentielle",
+"link": "https://www.bfmtv.com/politique/elections/video-ca-fait-30-ans-que-les-dirigeants-s-asseyent-sur-la-democratie-declare-natacha-polony-candidate-a-l-election-presidentielle_VN-202611240280.html",
+"summary": "Natacha Polony, candidate “Nous sommes la France” à l’élection présidentielle, était l’invitée du Face-à-Face de ce mardi 24 novembre sur BFMTV et RMC.",
+"source": "BFMTV",
+"date": "2026-11-24T07:41:18+00:00",
+"added": "2026-11-24T08:08:09+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Natacha Polony"
+},
+{
+"id": "0ec4e46669c336eb",
+"title": "Présidentielle 2027 : «Une victoire de Jean-Luc Mélenchon serait une abomination pour notre pays», considère Eric Ciotti",
+"link": "https://www.cnews.fr/france/2026-11-24/presidentielle-2027-une-victoire-de-jean-luc-melenchon-serait-une-abomination",
+"summary": "«Jean-Luc Mélenchon serait une abomination pour notre pays», a considéré Eric Ciotti, président de l'UDR et maire de Nice, ce mardi lors de La Grande Interview sur CNEWS.",
+"source": "CNews",
+"date": "2026-11-24T07:36:00+00:00",
+"added": "2026-11-24T08:08:09+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Éric Ciotti"
+},
+{
+"id": "d9f22f9668693d7c",
+"title": "Loi logement : alourdi par l’amendement du RN sur les passoires thermiques, un texte contesté soumis au vote des députés",
+"link": "https://www.liberation.fr/societe/logement/loi-logement-alourdi-par-lamendement-du-rn-sur-les-passoires-thermiques-un-texte-conteste-soumis-au-vote-des-deputes-20261124_WU2W2DIDHVBXFEP7KEWA5RCOGA/",
+"summary": "",
+"source": "Libération",
+"date": "2026-11-24T07:30:00+00:00",
+"added": "2026-11-24T08:08:09+00:00",
+"official": false,
+"also": [],
+"base": [
+"parlement"
+],
+"filtered": true,
+"topics": [
+"parlement",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "2a3ef665cfac8e65",
+"title": "Présidentielle 2027 : «David Lisnard refuse l'union avec le Rassemblement national», déplore Eric Ciotti",
+"link": "https://www.cnews.fr/france/2026-11-24/presidentielle-2027-david-lisnard-refuse-lunion-avec-le-rassemblement-national",
+"summary": "«David Lisnard refuse l'union avec le Rassemblement national», a déploré Eric Ciotti, président de l'UDR et maire de Nice, ce mardi lors de La Grande Interview sur CNEWS.",
+"source": "CNews",
+"date": "2026-11-24T07:30:00+00:00",
+"added": "2026-11-24T08:08:09+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Éric Ciotti"
+},
+{
+"id": "c274f05719d1c24b",
+"title": "Au RN, le casse-tête de la nouvelle carte de France",
+"link": "https://www.lopinion.fr/politique/au-rn-le-casse-tete-de-la-nouvelle-carte-de-france",
+"summary": "Ce mardi, Marine Le Pen rencontrera des édiles à l’occasion du salon des maires et des collectivités locales à huis clos.",
+"source": "L'Opinion",
+"date": "2026-11-24T07:30:00+00:00",
+"added": "2026-11-24T08:08:09+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "5937c5a45a44d5b7",
+"title": "Assemblée nationale : de jeunes militants LFI filmés dans l'hémicycle",
+"link": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/assemblee-nationale-de-jeunes-militants-lfi-filmes-dans-l-hemicycle_8297184.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "La présidente de l'Assemblée nationale, Yaël Braun-Pivet, a condamné le tournage d'une vidéo au sein de l'hémicycle.",
+"source": "franceinfo",
+"date": "2026-11-24T07:22:20+00:00",
+"added": "2026-11-24T08:08:09+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "5260200210aa7341",
+"title": "\"10 ans de recul de la démocratie locale\" : le Congrès des maires sous haute tension face à l'Élysée",
+"link": "https://www.laprovence.com/article/politique/49531533942525/presidentielle-2027-le-congres-des-maires-s-ouvre-a-paris-plusieurs-candidats-attendus-sur-place",
+"summary": "Congrès des Maires et des Présidents d’intercommunalités des Alpes-de-Haute-Provence à Manosque.",
+"source": "La Provence",
+"date": "2026-11-24T07:09:05+00:00",
+"added": "2026-11-24T08:08:09+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"elysee",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "55a2178014aab8b4",
+"title": "EDITO. David Lisnard propose-t-il vraiment du nouveau aux Français ?",
+"link": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-que-propose-david-lisnard-de-nouveau-aux-francais_8275352.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "David Lisnard est le candidat de droite qui monte dans les sondages. Encore loin de Marine Le Pen et de Jean-Luc Mélenchon, il est désormais au même niveau qu'Édouard Philippe.",
+"source": "franceinfo",
+"date": "2026-11-24T07:06:38+00:00",
+"added": "2026-11-24T08:08:09+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [
+"Annonce"
+],
+"speaker": "David Lisnard"
+},
+{
+"id": "7866c85d04d14fa3",
+"title": "VIDEO. Mayotte : \"Il était important et urgent que des mesures immédiates soient prises\", déclare le maire de Mamoudzou",
+"link": "https://www.franceinfo.fr/france/mayotte/video-mayotte-il-etait-important-et-urgent-que-des-mesures-immediates-soient-prises-declare-le-maire-de-mamoudzou_8297190.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "Lundi, lors d'un échange avec les maires de Mayotte, Matignon a annoncé plusieurs mesures, notamment en termes de sécurité.",
+"source": "franceinfo",
+"date": "2026-11-24T06:56:19+00:00",
+"added": "2026-11-24T08:08:09+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [
+"Citation"
+],
+"speaker": ""
+},
+{
 "id": "ce7643f397cfee97",
 "title": "Vidéo dans l’hémicycle : le petit coup de pouce LFIste à Marine Le Pen",
 "link": "https://www.lepoint.fr/debats/video-dans-lhemicycle-le-petit-coup-de-pouce-lfiste-a-marine-le-pen-J2EPQ7EYGRFIHH3XIWPO5LXQWI/",
@@ -335,6 +727,26 @@
 "speaker": ""
 },
 {
+"id": "62ea868d2eb1de36",
+"title": "Présidentielle 2027 : où en sont les différents candidats dans leur quête aux parrainages ?",
+"link": "https://www.europe1.fr/politique/presidentielle-2027-ou-en-sont-les-differents-candidats-dans-leur-quete-aux-parrainages-1243213",
+"summary": "Le congrès des maires s'ouvre ce mardi, porte de Versailles à Paris. La plupart des candidats à la présidentielle s'y rendront, l'occasion de faire campagne pour obtenir les 500 parrainages nécessaires pour pouvoir se présenter en 2027.",
+"source": "Europe 1",
+"date": "2026-11-24T05:14:00+00:00",
+"added": "2026-11-24T08:08:09+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "c54e65fa5549d274",
 "title": "Sondage présidentielle 2027 : Suivez tous les derniers sondages, jour après jour",
 "link": "https://www.20minutes.fr/politique/4265142-20261124-sondage-presidentielle-2027-suivez-tous-derniers-sondages-jour-apres-jour?at_medium=display&at_campaign=149",
@@ -439,7 +851,9 @@
 "date": "2026-11-24T05:00:23+00:00",
 "added": "2026-11-24T06:37:04+00:00",
 "official": false,
-"also": [],
+"also": [
+"franceinfo"
+],
 "base": [
 "presidentielle"
 ],
@@ -732,7 +1146,9 @@
 "date": "2026-11-23T22:56:02+00:00",
 "added": "2026-11-24T06:37:04+00:00",
 "official": false,
-"also": [],
+"also": [
+"20 Minutes"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -899,7 +1315,10 @@
 "date": "2026-11-23T21:37:40+00:00",
 "added": "2026-11-24T06:37:04+00:00",
 "official": false,
-"also": [],
+"also": [
+"Le Dauphiné Libéré",
+"Le Bien Public"
+],
 "base": [
 "presidentielle"
 ],
@@ -1553,7 +1972,8 @@
 "added": "2026-11-23T19:52:28+00:00",
 "official": false,
 "also": [
-"Le Figaro"
+"Le Figaro",
+"CNews"
 ],
 "base": [],
 "filtered": true,
@@ -2404,6 +2824,25 @@
 "filtered": true,
 "topics": [
 "partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "3d58b53f60f70d2d",
+"title": "Hausse du point d’indice des fonctionnaires : le gouvernement sous pression maximale",
+"link": "https://acteurspublics.fr/articles/le-gouvernement-sous-pression-maximale-en-faveur-dune-hausse-du-point-dindice-des-fonctionnaires/",
+"summary": "Ce qui devait arriver, arriva. À l’issue de la conférence salariale qui s’est tenue le 9 novembre, à Matignon avec les partenaires sociaux, le gouvernement Lecornu a annoncé une hausse du Smic de 1,6 % à partir du 1ᵉʳ décembre.",
+"source": "Acteurs Publics",
+"date": "2026-11-23T16:45:47+00:00",
+"added": "2026-11-24T08:08:09+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement"
 ],
 "natures": [],
 "speaker": ""
@@ -8662,7 +9101,10 @@
 "added": "2026-11-22T09:38:20+00:00",
 "official": false,
 "also": [
-"20 Minutes"
+"20 Minutes",
+"Le Monde",
+"Sud Ouest",
+"Nice-Matin"
 ],
 "base": [
 "presidentielle"
@@ -11088,208 +11530,6 @@
 "filtered": true,
 "topics": [
 "matinales"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "de1a4169d573d5fd",
-"title": "Tondelier-Mélenchon : et si l’histoire n’était pas encore écrite ?",
-"link": "https://www.liberation.fr/politique/elections/tondelier-melenchon-et-si-lhistoire-netait-pas-encore-ecrite-20261121_HK7DHTMEIJC2LMGTVCRHITA4HU/",
-"summary": "Le choix de l’écologiste de se tourner vers les insoumis pour «travailler à une coalition» est loin de signifier la fin de sa candidature.",
-"source": "Libération",
-"date": "2026-11-21T08:08:00+00:00",
-"added": "2026-11-21T09:37:30+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "ac2d10558b0eec1d",
-"title": "Législatives en Espagne: le pari de Pedro Sanchez peut-il ouvrir les portes du pouvoir à l’extrême droite ?",
-"link": "https://lcp.fr/actualites/legislatives-en-espagne-le-pari-de-pedro-sanchez-peut-il-ouvrir-les-portes-du-pouvoir-a",
-"summary": "Des élections législatives anticipées auront lieu en Espagne le 29 novembre. Le Premier ministre socialiste espagnol Pedro Sanchez peut-il obtenir une majorité parlementaire et éviter une coalition entre la droite du Parti populaire et l’extrême droite de Vox ?",
-"source": "LCP",
-"date": "2026-11-21T08:05:07+00:00",
-"added": "2026-11-21T09:37:30+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement",
-"parlement",
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "04e0217496f95ff9",
-"title": "Les policiers ont-ils le droit de manifester? Les règles derrière la polémique engagée par Jean-Luc Mélenchon",
-"link": "https://lcp.fr/actualites/les-policiers-ont-ils-le-droit-de-manifester-les-regles-derriere-la-polemique-engagee",
-"summary": "Mercredi 18 novembre, en fin de matinée, plusieurs dizaines de policiers se sont réunis non loin du palais présidentiel, rond-point des Champs-Elysées, avant de rallier le ministère de l'Intérieur, à l'appel du syndicat Alliance.",
-"source": "LCP",
-"date": "2026-11-21T08:05:03+00:00",
-"added": "2026-11-21T09:37:30+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement",
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "83f7ae548999de3f",
-"title": "« L’abandon de l’écologie politique » : Delphine Batho réagit au ralliement de Marine Tondelier à Jean-Luc Mélenchon",
-"link": "https://www.ouest-france.fr/elections/presidentielle/labandon-de-lecologie-politique-delphine-batho-reagit-au-ralliement-de-marine-tondelier-a-jean-luc-melenchon-50d3feee-e4cf-11f1-afa7-9a0bb82a33d1",
-"summary": "",
-"source": "Ouest-France",
-"date": "2026-11-21T07:49:00+00:00",
-"added": "2026-11-22T21:30:29+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "Delphine Batho"
-},
-{
-"id": "c9bc8469cf94524c",
-"title": "La campagne impossible de Zemmour dans l’ombre de Lisnard et Le Pen",
-"link": "https://www.huffingtonpost.fr/politique/article/la-campagne-impossible-d-eric-zemmour-dans-l-ombre-de-marine-le-pen-et-david-lisnard_361354.html",
-"summary": "Certaines initiatives apparaissent comme des tentatives désespérées d’attirer l’attention. La façon dont Éric Zemmour a annoncé le meeting de ce samedi 21 novembre à Toulon sur son compte X est sans doute à ranger dans cette catégorie.",
-"source": "Le HuffPost",
-"date": "2026-11-21T07:30:04+00:00",
-"added": "2026-11-21T07:55:07+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "1e9594372729399a",
-"title": "Mobilisation du 21 novembre : le ministère de l'Intérieur annonce 144 interpellations en France, selon un bilan provisoire à 18 heures",
-"link": "https://www.franceinfo.fr/societe/manifestations/direct-mobilisation-du-21-novembre-syndicats-et-gilets-jaunes-appellent-a-manifester-pour-la-jeunesse-et-contre-la-vie-chere-pour-le-sixieme-samedi-d-affilee_8293460.html",
-"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
-"source": "franceinfo",
-"date": "2026-11-21T07:26:21+00:00",
-"added": "2026-11-23T06:48:01+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [
-"Annonce"
-],
-"speaker": ""
-},
-{
-"id": "0a92c97f3411c5d7",
-"title": "Le gouvernement est dans l’escalier, par Mathieu Lindon",
-"link": "https://www.liberation.fr/idees-et-debats/opinions/le-gouvernement-est-dans-lescalier-par-mathieu-lindon-20261121_UXZYQOWTSFFGVA6KAZSY6RHRCE/",
-"summary": "Inspirée par la situation, l’équipe Macron-Lecornu a posé un préavis de grève pour les six prochains mois. Elle est d’ailleurs déjà à la rue.",
-"source": "Libération",
-"date": "2026-11-21T07:12:00+00:00",
-"added": "2026-11-21T07:55:07+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "3f2cb86b0e8fc225",
-"title": "Cidre désalcoolisé, caméra sous-marine… Ces produits exposés à l’Élysée ce week-end pour la Grande exposition du fabriqué en France",
-"link": "https://www.lefigaro.fr/conso/cidre-desalcoolise-camera-sous-marine-ces-produits-exposes-a-l-elysee-ce-week-end-pour-la-grande-exposition-du-fabrique-en-france-20261121",
-"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
-"source": "Le Figaro",
-"date": "2026-11-21T07:00:00+00:00",
-"added": "2026-11-21T07:55:07+00:00",
-"official": false,
-"also": [],
-"base": [
-"elysee"
-],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "b0cb590563975aef",
-"title": "Et si Marine Le Pen devait décider d’une riposte nucléaire ?",
-"link": "https://www.lepoint.fr/debats/marine-le-pen-dans-le-pc-jupiter-6YVWJMX3BRB77N5DRFQ4MODH5Q/",
-"summary": "",
-"source": "Le Point",
-"date": "2026-11-21T07:00:00+00:00",
-"added": "2026-11-21T07:55:07+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "53302ea2649cf1b7",
-"title": "Politique, le choix de la semaine - Le candidat LR Bruno Retailleau cherche la meilleure porte de sortie",
-"link": "https://www.rfi.fr/fr/podcasts/politique-le-choix-de-la-semaine/20261121-le-candidat-lr-bruno-retailleau-cherche-la-meilleure-porte-de-sortie",
-"summary": "Et si, pour la première fois de l’histoire, le parti Les Républicains ne présentait pas de candidat à l’élection présidentielle?",
-"source": "RFI",
-"date": "2026-11-21T06:46:52+00:00",
-"added": "2026-11-21T07:55:07+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
 ],
 "natures": [],
 "speaker": ""
