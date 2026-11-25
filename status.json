@@ -15,19 +15,19 @@
 "name": "LCP",
 "ok": true,
 "items": 100,
-"new": 0
+"new": 1
 },
 {
 "name": "Public Sénat",
 "ok": true,
 "items": 60,
-"new": 1
+"new": 0
 },
 {
 "name": "Le Monde",
 "ok": true,
 "items": 20,
-"new": 0
+"new": 4
 },
 {
 "name": "franceinfo",
@@ -45,13 +45,13 @@
 "name": "Libération",
 "ok": true,
 "items": 50,
-"new": 0
+"new": 1
 },
 {
 "name": "La Croix",
 "ok": true,
 "items": 50,
-"new": 0
+"new": 1
 },
 {
 "name": "L'Express",
@@ -63,7 +63,7 @@
 "name": "BFMTV",
 "ok": true,
 "items": 30,
-"new": 11
+"new": 13
 },
 {
 "name": "20 Minutes",
@@ -74,37 +74,37 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 43,
-"new": 1
+"items": 46,
+"new": 2
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 17,
+"items": 14,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 45,
+"items": 39,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 45,
+"items": 22,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 41,
+"items": 39,
 "new": 0
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 49,
+"items": 26,
 "new": 0
 },
 {
@@ -117,13 +117,13 @@
 "name": "Google Actualités",
 "ok": true,
 "items": 100,
-"new": 1
+"new": 4
 },
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 46,
-"new": 1
+"items": 45,
+"new": 0
 },
 {
 "name": "Google Actualités",
@@ -134,8 +134,26 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 48,
+"items": 36,
 "new": 1
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 31,
+"new": 1
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 28,
+"new": 0
+},
+{
+"name": "Google Actualités",
+"ok": true,
+"items": 100,
+"new": 3
 },
 {
 "name": "Google Actualités",
@@ -146,29 +164,13 @@
 {
 "name": "Google Actualités",
 "ok": true,
-"items": 63,
-"new": 0
-},
-{
-"name": "Google Actualités",
-"ok": true,
-"items": 100,
+"items": 41,
 "new": 1
 },
 {
 "name": "Google Actualités",
-"ok": false,
-"error": "HTTP Error 429: Too Many Requests"
-},
-{
-"name": "Google Actualités",
-"ok": false,
-"error": "HTTP Error 429: Too Many Requests"
-},
-{
-"name": "Google Actualités",
 "ok": true,
-"items": 80,
+"items": 43,
 "new": 0
 }
 ]
