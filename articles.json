@@ -1,5 +1,626 @@
 [
 {
+"id": "125fcc87cd1730b0",
+"title": "Présidentielle 2027: Teddy Riner a \"passé la centaine\" de parrainages",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-2027-teddy-riner-a-passe-la-centaine-de-parrainages_VN-202611250658.html",
+"summary": "VIDÉO - Teddy Riner, candidat à l’élection présidentielle, s’exprime depuis le congrès des maires.",
+"source": "BFMTV",
+"date": "2026-11-25T13:59:04+00:00",
+"added": "2026-11-25T14:08:38+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "a0d749fe2f6408ca",
+"title": "Trélazé s’érige contre la préférence nationale et le Rassemblement national",
+"link": "https://www.ouest-france.fr/pays-de-la-loire/trelaze-49800/trelaze-serige-contre-la-preference-nationale-et-le-rassemblement-national-b5788ebe-e826-11f1-9b33-2f81462d3339",
+"summary": "",
+"source": "Ouest-France",
+"date": "2026-11-25T13:53:04+00:00",
+"added": "2026-11-25T14:08:38+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "a04efc57a1a6f7f2",
+"title": "Présidentielle 2027 : le gouvernement défend la tenue du deuxième tour le 2 mai, et s’engage à ce que le 1ᵉʳ-Mai se passe « dans les meilleures conditions possibles »",
+"link": "https://www.lemonde.fr/politique/article/2026/11/25/presidentielle-2027-le-gouvernement-defend-la-tenue-du-deuxieme-tour-du-scrutin-le-2-mai-et-s-engage-a-ce-que-le-1er-mai-se-passe-dans-les-meilleures-conditions-possibles_6815102_823448.html",
+"summary": "« Le choix a été fait en fonction de la maximisation de la participation des Français (…) s’agissant notamment de la période des vacances scolaires », a fait valoir le porte-parole Mathieu Lefèvre, laissant entendre que cette date serait maintenue malgré les appels à l’avancer.",
+"source": "Le Monde",
+"date": "2026-11-25T13:40:17+00:00",
+"added": "2026-11-25T14:08:38+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement",
+"presidentielle"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": ""
+},
+{
+"id": "1e5b7327780ea31c",
+"title": "«Ce n’est pas à lui de choisir ses adversaires» : la riposte de Bruno Retailleau après la proposition d’Édouard Philippe de débattre avec David Lisnard",
+"link": "https://www.lefigaro.fr/politique/ce-n-est-pas-a-lui-de-choisir-ses-adversaires-la-riposte-de-retailleau-apres-la-proposition-de-philippe-de-debattre-avec-lisnard-20261125",
+"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
+"source": "Le Figaro",
+"date": "2026-11-25T13:31:40+00:00",
+"added": "2026-11-25T14:08:38+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "cb728c98811c19ac",
+"title": "Présidentielle 2027 : Le 2 mai est bien la meilleure date pour un second tour, selon le gouvernement",
+"link": "https://www.20minutes.fr/politique/4265662-20261125-presidentielle-2027-2-mai-bien-meilleure-date-second-tour-selon-gouvernement?at_medium=display&at_campaign=149",
+"summary": "L’exécutif balaye tout changement de dates pour la prochaine élection présidentielle. Le choix du 2 mai pour le second tour reste ainsi la meilleure solution, a rappelé le porte-parole du gouvernement, Mathieu Lefèvre.",
+"source": "20 Minutes",
+"date": "2026-11-25T13:31:21+00:00",
+"added": "2026-11-25T14:08:38+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "de71b9bfd17dccec",
+"title": "Hypothèse d'un duel RN/LFI au second tour de la présidentielle: \"Si je me lève c'est parce que je ne veux pas voir mon pays dans un état qui va mener à une guerre civile\", confie Teddy Riner, candidat à la présidentielle",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-hypothese-d-un-duel-rn-lfi-au-second-tour-de-la-presidentielle-si-je-me-leve-c-est-parce-que-je-ne-veux-pas-voir-mon-pays-dans-un-etat-qui-va-mener-a-une-guerre-civile-confie-teddy-riner-candidat-a-la-presidentielle_VN-202611250617.html",
+"summary": "Teddy Riner, candidat à l’élection présidentielle, s’exprime depuis le congrès des maires ce mercredi 25 novembre.",
+"source": "BFMTV",
+"date": "2026-11-25T13:27:02+00:00",
+"added": "2026-11-25T14:08:38+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Teddy Riner"
+},
+{
+"id": "c45941c26bed036d",
+"title": "Parrainages: \"Une signature ne remplacera jamais un contrat de confiance\", souligne Teddy Riner, candidat à l'élection présidentielle",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-parrainages-une-signature-ne-remplacera-jamais-un-contrat-de-confiance-souligne-teddy-riner-candidat-a-l-election-presidentielle_VN-202611250615.html",
+"summary": "VIDÉO - Teddy Riner, candidat à l’élection présidentielle, s’exprime depuis le congrès des maires.",
+"source": "BFMTV",
+"date": "2026-11-25T13:24:11+00:00",
+"added": "2026-11-25T14:08:38+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "b9b00c9d8fe34037",
+"title": "\"Le propre d'une coalition est d'accepter des divergences\" : des \"purgés\" de LFI prêts à se rapprocher de Jean-Luc Mélenchon pour 2027",
+"link": "https://www.rtl.fr/actu/politique/le-propre-d-une-coalition-est-d-accepter-des-divergences-des-purges-de-lfi-prets-a-se-rapprocher-de-jean-luc-melenchon-pour-2027-7900700395",
+"summary": "Clémentine Autain à l'Assemblée nationale le 16 septembre 2026\nIls se préparent à soutenir celui qui les a chassés.",
+"source": "RTL",
+"date": "2026-11-25T13:20:10+00:00",
+"added": "2026-11-25T14:08:38+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"parlement",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "15335cc273b6e460",
+"title": "Assises de la mer : seul candidat à la Présidentielle présent, Jean-Luc Mélenchon regrette « le désintérêt » des autres",
+"link": "https://www.ouest-france.fr/politique/jean-luc-melenchon/assises-de-la-mer-seul-candidat-a-la-presidentielle-present-jean-luc-melenchon-regrette-le-desinteret-des-autres-149aa44e-e8c8-11f1-9b33-2f81462d3339",
+"summary": "",
+"source": "Ouest-France",
+"date": "2026-11-25T13:13:18+00:00",
+"added": "2026-11-25T14:08:38+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "Jean-Luc Mélenchon"
+},
+{
+"id": "9c79457fe63169da",
+"title": "Présidentielle 2027 : le 2 mai reste la meilleure option pour le second tour, estime le porte-parole du gouvernement",
+"link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-le-2-mai-reste-la-meilleure-option-pour-le-second-tour-estime-le-porte-parole-du-gouvernement-20261125",
+"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
+"source": "Le Figaro",
+"date": "2026-11-25T13:05:33+00:00",
+"added": "2026-11-25T14:08:38+00:00",
+"official": false,
+"also": [],
+"base": [
+"gouvernement"
+],
+"filtered": true,
+"topics": [
+"gouvernement",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "5c2fa81670e26d66",
+"title": "\"Je veux être une alternative à d’autres changements proposés auxquels je ne crois pas et que je veux combattre ardemment, l’extrême gauche et le RN\", explique David Lisnard, réélu à la tête de l'AMF",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-je-veux-etre-une-alternative-a-d-autres-changements-proposes-auxquels-je-ne-crois-pas-et-que-je-veux-combattre-ardemment-l-extreme-gauche-et-le-rn-explique-david-lisnard-reelu-a-la-tete-de-l-amf_VN-202611250599.html",
+"summary": "À l’issue de sa réélection, David Lisnard a rappelé l’importance de remettre les territoires au cœur du débat démocratique, en défendant le choix, le renouvellement et la nécessité d’une véritable alternative lors des élections.",
+"source": "BFMTV",
+"date": "2026-11-25T13:05:24+00:00",
+"added": "2026-11-25T14:08:38+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "David Lisnard"
+},
+{
+"id": "d0faf5db170486ce",
+"title": "Urbanisation sans contrôle, mouillage des yachts, pêche intensive… LFI présente son plan pour en finir avec le \"saccage de la mer\"",
+"link": "https://www.franceinfo.fr/elections/urbanisation-sans-controle-mouillage-des-yachts-peche-intensive-lfi-presente-son-plan-pour-en-finir-avec-le-saccage-de-la-mer_8299692.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "Pour Jean-Luc Mélenchon, \"les océans et les mers sont le cœur de la crise climatique mondiale et nous n'en avons vu que le début\".",
+"source": "franceinfo",
+"date": "2026-11-25T13:04:30+00:00",
+"added": "2026-11-25T14:08:38+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "6f1b4caa075793f2",
+"title": "Nathalie Janson, économiste : « Le plan de réforme des retraites du RN s’arrête au milieu du gué »",
+"link": "https://www.lemonde.fr/idees/article/2026/11/25/nathalie-janson-economiste-le-plan-de-reforme-des-retraites-du-rn-s-arrete-au-milieu-du-gue_6815097_3232.html",
+"summary": "La réforme envisagée par Marine Le Pen en cas d’accession au pouvoir en 2027 ignore la cohérence des modèles étrangers entre capitalisation et répartition et privilégie la gestion publique au détriment de la liberté de choix, regrette, dans une tribune au « Monde », la présidente du centre de réflexion libéral…",
+"source": "Le Monde",
+"date": "2026-11-25T13:00:17+00:00",
+"added": "2026-11-25T14:08:38+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "b701eba4ae509136",
+"title": "Présidentielle 2027 : réélu haut la main à l'AMF, David Lisnard poursuit sa course vers l'Elysée",
+"link": "https://www.lesechos.fr/elections/presidentielle/presidentielle-2027-reelu-haut-la-main-a-lamf-david-lisnard-poursuit-sa-course-vers-lelysee-2264541",
+"summary": "",
+"source": "Les Echos",
+"date": "2026-11-25T12:57:38+00:00",
+"added": "2026-11-25T14:08:38+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"elysee",
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "e16aa8106834deec",
+"title": "Réélection à la tête de l'AMF: \"Pas un tremplin\" pour la présidentielle mais \"ça me renforce dans mes convictions\", estime David Lisnard",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-reelection-a-la-tete-de-l-amf-pas-un-tremplin-pour-la-presidentielle-mais-ca-me-renforce-dans-mes-convictions-estime-david-lisnard_VN-202611250593.html",
+"summary": "Le candidat à la présidentielle David Lisnard est réélu à la tête de l'association des maires de France avec 72% des voix, mercredi 25 novembre.",
+"source": "BFMTV",
+"date": "2026-11-25T12:56:49+00:00",
+"added": "2026-11-25T14:08:38+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "David Lisnard"
+},
+{
+"id": "eacad725d8c45df0",
+"title": "David Lisnard réélu à la tête de l'AMF: \"C'est le fruit de la mobilisation d’une France du terrain\", assure-t-il",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-david-lisnard-reelu-a-la-tete-de-l-amf-c-est-le-fruit-de-la-mobilisation-d-une-france-du-terrain-assure-t-il_VN-202611250590.html",
+"summary": "Le candidat à la présidentielle David Lisnard est réélu à la tête de l'association des maires de France avec 72% des voix.",
+"source": "BFMTV",
+"date": "2026-11-25T12:53:46+00:00",
+"added": "2026-11-25T14:08:38+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": ""
+},
+{
+"id": "fb5eea94221d1115",
+"title": "La Coordination rurale va demander à Emmanuel Macron de refuser tout accord sur la PAC qui ne permette pas aux \"agriculteurs de vivre de leur production\"",
+"link": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/la-coordination-rurale-va-demander-a-emmanuel-macron-de-refuser-tout-accord-sur-la-pac-qui-ne-permette-pas-aux-agriculteurs-de-vivre-de-leur-production_8299683.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "Le chef de l'État reçoit, mercredi, les syndicats et représentants des agriculteurs, notamment pour faire le point sur le prochain budget européen dont dépendra la Politique agricole commune.",
+"source": "franceinfo",
+"date": "2026-11-25T12:50:11+00:00",
+"added": "2026-11-25T14:08:38+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "8ce54b4439857465",
+"title": "Épisode 2: Raphaël Glucksmann",
+"link": "https://www.rfi.fr/fr/vid%C3%A9o/20261125-%C3%A9pisode-2-rapha%C3%ABl-glucksmann",
+"summary": "",
+"source": "RFI",
+"date": "2026-11-25T12:45:47+00:00",
+"added": "2026-11-25T14:08:38+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "79ee8f002668d238",
+"title": "Présidentielle 2027 : Le bloc central prône déjà le « ni-ni » en cas de duel Mélenchon-Le Pen au second tour",
+"link": "https://www.20minutes.fr/politique/4265638-20261125-presidentielle-2027-bloc-central-prone-deja-ni-ni-cas-duel-melenchon-pen-second-tour?at_medium=display&at_campaign=149",
+"summary": "Les macronistes refusent de choisir. Selon les derniers sondages, le duel entre Jean-Luc Mélenchon et Marine Le Pen serait désormais le plus probable au second tour de l’élection présidentielle.",
+"source": "20 Minutes",
+"date": "2026-11-25T12:38:52+00:00",
+"added": "2026-11-25T14:08:38+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "3a0d62331a7c30ce",
+"title": "Julie Boillot, porte-parole d'Édouard Philippe: \"Nous avons le sentiment que la ligne de droite et du centre n'est pas la même pour tout le monde\"",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-julie-boillot-porte-parole-d-edouard-philippe-nous-avons-le-sentiment-que-la-ligne-de-droite-et-du-centre-n-est-pas-la-meme-pour-tout-le-monde_VN-202611250582.html",
+"summary": "Édouard Philippe a redit son refus de participer à une primaire de la droite et du centre. En revanche, l'ancien Premier ministre s'est dit ouvert à un débat avec David Lisnard.",
+"source": "BFMTV",
+"date": "2026-11-25T12:37:39+00:00",
+"added": "2026-11-25T14:08:38+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Édouard Philippe"
+},
+{
+"id": "325f0ed6b78fc412",
+"title": "En pleine campagne présidentielle, David Lisnard réélu président de l’Association des maires de France, pour un 3e mandat",
+"link": "https://www.lamontagne.fr/france-monde/actualites/en-pleine-campagne-presidentielle-david-lisnard-reelu-president-de-lassociation-des-maires-de-france-pour-un-3e-mandat_15091712/",
+"summary": "",
+"source": "La Montagne",
+"date": "2026-11-25T12:37:00+00:00",
+"added": "2026-11-25T14:08:38+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "88deccdfe2dacdd6",
+"title": "Possible candidature de François Hollande: \"Chacun son rythme, nous on est en campagne\", déclare Raphaël Glucksmann",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-possible-candidature-de-francois-hollande-chacun-son-rythme-nous-on-est-en-campagne-declare-raphael-glucksmann_VN-202611250581.html",
+"summary": "Raphaël Glucksmann, candidat PS-Place publique à l'élection présidentielle était présent, ce jeudi, au congrès des maires de France. véritable centre de ralliement des candidats à l'élection présidentielle, notamment pour sécuriser les 500 parrainages permettant de se présenter au scrutin.",
+"source": "BFMTV",
+"date": "2026-11-25T12:31:24+00:00",
+"added": "2026-11-25T14:08:38+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "François Hollande"
+},
+{
+"id": "3090291148902c80",
+"title": "Jean-Philippe Tanguy ne comprend pas la polémique sur Hugues Moutouh",
+"link": "https://www.franceinfo.fr/elections/jean-philippe-tanguy-ne-comprend-pas-la-polemique-sur-hugues-moutouh_8299647.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "Jean-Philippe Tanguy, député de la Somme, ne comprend pas la polémique : Hugues Moutouh, désormais ex-préfet de la Région Centre-Val-de-Loire, est accusé d’avoir transmis des informations confidentielles au RN.",
+"source": "franceinfo",
+"date": "2026-11-25T12:30:40+00:00",
+"added": "2026-11-25T14:08:38+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "7edecdfb7f3ded1a",
+"title": "Présidentielle : Mais pourquoi David Lisnard a parrainé Jean-Luc Mélenchon en 2022 ?",
+"link": "https://www.20minutes.fr/politique/4265622-20261125-presidentielle-pourquoi-david-lisnard-parraine-jean-luc-melenchon-2022?at_medium=display&at_campaign=149",
+"summary": "Il est l’homme qui monte en ce début de campagne. En pleine dynamique, David Lisnard est en passe de s’installer à la troisième place dans les derniers sondages.",
+"source": "20 Minutes",
+"date": "2026-11-25T12:24:44+00:00",
+"added": "2026-11-25T14:08:38+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "18024968dcecd9de",
+"title": "Élection présidentielle : Faut-il aussi des parrainages pour être candidat dans les autres pays ?",
+"link": "https://www.20minutes.fr/politique/4265625-20261125-election-presidentielle-faut-aussi-parrainages-etre-candidat-autres-pays?at_medium=display&at_campaign=149",
+"summary": "En France, depuis 1976, un candidat doit présenter 500 parrainages d’élus pour pouvoir se présenter à l’élection présidentielle.",
+"source": "20 Minutes",
+"date": "2026-11-25T12:24:28+00:00",
+"added": "2026-11-25T14:08:38+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "3484453d0b8a2b47",
+"title": "Présidentielle: Raphaël Glucksmann estime que \"nous éviterons le duel\" RN-LFI au second tour",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-raphael-glucksmann-estime-que-nous-eviterons-le-duel-rn-lfi-au-second-tour_VN-202611250577.html",
+"summary": "Raphaël Glucksmann, candidat PS-Place publique à l'élection présidentielle était présent, ce jeudi, au congrès des maires de France. véritable centre de ralliement des candidats à l'élection présidentielle, notamment pour sécuriser les 500 parrainages permettant de se présenter au scrutin.",
+"source": "BFMTV",
+"date": "2026-11-25T12:22:14+00:00",
+"added": "2026-11-25T14:08:38+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Raphaël Glucksmann"
+},
+{
+"id": "66feed85a034bfd8",
+"title": "Le gouvernement écarte à nouveau un décalage des dates de l’élection présidentielle",
+"link": "https://www.lopinion.fr/politique/le-gouvernement-ecarte-a-nouveau-un-decalage-des-dates-de-lelection-presidentielle",
+"summary": "Pas question de modifier l’agenda. Le porte-parole du gouvernement, Mathieu Lefèvre, a une nouvelle fois fermé la porte à un report des dates de l’élection présidentielle lors du compte-rendu du conseil des ministres, mercredi 25 novembre à l’Elysée.",
+"source": "L'Opinion",
+"date": "2026-11-25T12:22:12+00:00",
+"added": "2026-11-25T14:08:38+00:00",
+"official": false,
+"also": [],
+"base": [
+"gouvernement"
+],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "c48b5ed7a447e38b",
+"title": "\"Ma vérité les défrise\" : Pierre Perret se dit visé par une \"meute\" depuis la sortie de ses chansons, ciblant notamment LFI",
+"link": "https://www.rtl.fr/culture/medias-people/ma-verite-les-defrise-pierre-perret-se-dit-vise-par-une-meute-depuis-la-sortie-de-ses-chansons-ciblant-notamment-lfi-7900700466",
+"summary": "Pierre Perret sort du silence. Après avoir été étrillé par Jean-Luc Mélenchon et Benjamin Biolay, le chanteur de 92 ans a fini par leur répondre sur X, dénonçant une \"meute\" déchaînée contre lui.",
+"source": "RTL",
+"date": "2026-11-25T12:14:09+00:00",
+"added": "2026-11-25T14:08:38+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Pierre Perret"
+},
+{
+"id": "1c74ac1e97968dd0",
+"title": "Budget de l’UE : Emmanuel Macron menace de mettre fin aux négociations faute d’accord en décembre",
+"link": "https://www.lefigaro.fr/international/budget-de-l-ue-emmanuel-macron-menace-de-mettre-fin-aux-negociations-faute-d-accord-en-decembre-20261125",
+"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
+"source": "Le Figaro",
+"date": "2026-11-25T12:12:58+00:00",
+"added": "2026-11-25T14:08:38+00:00",
+"official": false,
+"also": [],
+"base": [
+"elysee"
+],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [],
+"speaker": "Emmanuel Macron"
+},
+{
+"id": "2f99a475246968e5",
+"title": "\"La situation politique va se décanter à la fin du mois de janvier\": pas encore candidat, François Hollande réunit 200 personnes dans son QG parisien",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-la-situation-politique-va-se-decanter-a-la-fin-du-mois-de-janvier-pas-encore-candidat-francois-hollande-reunit-200-personnes-dans-son-qg-parisien_VN-202611250565.html",
+"summary": "François Hollande a réuni 200 personnalités, parmi lesquelles des élus locaux et des figures de la société civile, dans son QG parisien ce mardi.",
+"source": "BFMTV",
+"date": "2026-11-25T12:07:24+00:00",
+"added": "2026-11-25T14:08:38+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "633c6a3dc9d2f0f9",
+"title": "\"Des idées suicidaires\": la députée insoumise Ségolène Amiot raconte la souffrance générée par les parcours de PMA",
+"link": "https://lcp.fr/actualites/des-idees-suicidaires-la-deputee-insoumise-segolene-amiot-raconte-la-souffrance-generee",
+"summary": "Dans le cadre de l'examen en commission d'une proposition de loi visant à autoriser certains diagnostics pré-implantatoires (DPI), Ségolène Amiot (La France insoumise) a témoigné des souffrances affrontées par les femmes dans les parcours de procréation médicalement assistée (PMA).",
+"source": "LCP",
+"date": "2026-11-25T12:01:22+00:00",
+"added": "2026-11-25T14:08:38+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement",
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Ségolène Amiot"
+},
+{
 "id": "f2ff3d6c1e6b0db8",
 "title": "Présidentielle 2027 : «Nous avons la droite la plus bête du monde», tacle cet auditeur",
 "link": "https://www.europe1.fr/politique/presidentielle-2027-nous-avons-la-droite-la-plus-bete-du-monde-tacle-cet-auditeur-1244662",
@@ -21,6 +642,25 @@
 "Citation",
 "Réaction"
 ],
+"speaker": ""
+},
+{
+"id": "4129ebd31588d65e",
+"title": "La présence d’un procureur au siège du RN suscite l’émoi au sein de la magistrature et du ministère de la justice",
+"link": "https://www.lemonde.fr/societe/article/2026/11/25/la-presence-d-un-procureur-au-siege-du-rn-suscite-l-emoi-au-sein-de-la-magistrature_6815091_3224.html",
+"summary": "Lors d’une perquisition de l’IGPN, Christian de Rocquigny, procureur adjoint de Paris, a été aperçu dans les locaux du Rassemblement national.",
+"source": "Le Monde",
+"date": "2026-11-25T11:39:02+00:00",
+"added": "2026-11-25T14:08:38+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement",
+"partis"
+],
+"natures": [],
 "speaker": ""
 },
 {
@@ -50,7 +690,9 @@
 "date": "2026-11-25T11:32:49+00:00",
 "added": "2026-11-25T11:48:04+00:00",
 "official": false,
-"also": [],
+"also": [
+"Nice-Matin"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -72,7 +714,8 @@
 "also": [
 "franceinfo",
 "La Croix",
-"Ouest-France"
+"Ouest-France",
+"BFMTV"
 ],
 "base": [],
 "filtered": true,
@@ -97,6 +740,26 @@
 "filtered": true,
 "topics": [
 "gouvernement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "27f6994a65ad41f3",
+"title": "Présidentielle 2027 : toutes les dates à retenir",
+"link": "https://www.lepoint.fr/politique/presidentielle-2027-toutes-les-dates-a-retenir-JNE7SEJAOVECNFFIOIJYSHMB5Y/",
+"summary": "",
+"source": "Le Point",
+"date": "2026-11-25T11:30:00+00:00",
+"added": "2026-11-25T14:08:38+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
 ],
 "natures": [],
 "speaker": ""
@@ -170,7 +833,9 @@
 "date": "2026-11-25T11:21:12+00:00",
 "added": "2026-11-25T11:48:04+00:00",
 "official": false,
-"also": [],
+"also": [
+"LCP"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -207,7 +872,15 @@
 "date": "2026-11-25T11:17:23+00:00",
 "added": "2026-11-25T11:48:04+00:00",
 "official": false,
-"also": [],
+"also": [
+"LCP",
+"Libération",
+"BFMTV",
+"Midi Libre",
+"Le Republicain Lorrain",
+"Ouest-France",
+"RFI"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -246,7 +919,8 @@
 "added": "2026-11-25T11:48:04+00:00",
 "official": false,
 "also": [
-"Midi Libre"
+"Midi Libre",
+"Sud Ouest"
 ],
 "base": [
 "matinales"
@@ -409,7 +1083,9 @@
 "date": "2026-11-25T10:43:00+00:00",
 "added": "2026-11-25T11:48:04+00:00",
 "official": false,
-"also": [],
+"also": [
+"20 Minutes"
+],
 "base": [
 "parlement"
 ],
@@ -568,7 +1244,9 @@
 "date": "2026-11-25T09:58:00+00:00",
 "added": "2026-11-25T11:48:04+00:00",
 "official": false,
-"also": [],
+"also": [
+"Le Parisien"
+],
 "base": [
 "partis"
 ],
@@ -907,7 +1585,12 @@
 "date": "2026-11-25T08:21:25+00:00",
 "added": "2026-11-25T11:48:04+00:00",
 "official": false,
-"also": [],
+"also": [
+"LCP",
+"Libération",
+"La Croix",
+"Sud Ouest"
+],
 "base": [
 "partis"
 ],
@@ -2005,7 +2688,8 @@
 "added": "2026-11-25T06:37:39+00:00",
 "official": false,
 "also": [
-"Le Parisien"
+"Le Parisien",
+"Le Dauphiné Libéré"
 ],
 "base": [
 "partis"
@@ -6199,6 +6883,27 @@
 "speaker": ""
 },
 {
+"id": "5cba7b3affaa1740",
+"title": "Quel est le calendrier de l'élection présidentielle ?",
+"link": "https://www.franceinfo.fr/elections/quel-est-le-calendrier-de-l-election-presidentielle_8297400.html",
+"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
+"source": "Franceinfo",
+"date": "2026-11-24T09:45:30+00:00",
+"added": "2026-11-25T14:08:38+00:00",
+"official": false,
+"also": [],
+"base": [
+"matinales"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "b1f5b59b150c98c4",
 "title": "Peut-on parler d’associations « politisées » comme le fait Marine Le Pen ?",
 "link": "https://www.20minutes.fr/societe/4265107-20261124-marine-pen-chasse-associations-politisees-coup-grace-monde-associatif",
@@ -6343,6 +7048,26 @@
 "speaker": ""
 },
 {
+"id": "6d8c252605ee1741",
+"title": "Budget de la PAC en baisse : Macron rencontre les syndicats agricoles ce mercredi",
+"link": "https://www.europe1.fr/societe/budget-de-la-pac-en-baisse-macron-rencontre-les-syndicats-agricoles-ce-mercredi-1243516",
+"summary": "Emmanuel Macron recevra les syndicats et représentants agricoles ce mercredi, a confirmé mardi l'Elysée, notamment pour faire le point sur le prochain budget européen dont dépendra la politique agricole commune (PAC), avant un Conseil européen à Bruxelles.",
+"source": "Europe 1",
+"date": "2026-11-24T09:13:00+00:00",
+"added": "2026-11-25T14:08:38+00:00",
+"official": false,
+"also": [],
+"base": [
+"elysee"
+],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "26adbae3faedad3f",
 "title": "Présidentielle 2027 : le candidat Raphaël Glucksmann va réunir ses soutiens pour présenter son conseil des territoires",
 "link": "https://www.ouest-france.fr/politique/raphael-glucksmann/presidentielle-2027-le-candidat-raphael-glucksmann-va-reunir-ses-soutiens-pour-presenter-son-conseil-des-territoires-f8c804a8-e7de-11f1-9b33-2f81462d3339",
@@ -6449,6 +7174,24 @@
 "natures": [
 "Citation"
 ],
+"speaker": ""
+},
+{
+"id": "bb392c442cdf2cb4",
+"title": "Congrès, référendum… Quelles solutions pour inscrire une «règle d’or» budgétaire dans la Constitution ?",
+"link": "https://www.lefigaro.fr/politique/congres-referendum-quelles-solutions-pour-inscrire-une-regle-d-or-budgetaire-dans-la-constitution-20261123",
+"summary": "DÉCRYPTAGE - L’exécutif envisage de s’appuyer sur un texte de 2011, déjà voté dans les deux chambres du Parlement.",
+"source": "Le Figaro",
+"date": "2026-11-24T09:01:32+00:00",
+"added": "2026-11-25T14:08:38+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
 "speaker": ""
 },
 {
@@ -6776,7 +7519,9 @@
 "date": "2026-11-24T08:02:00+00:00",
 "added": "2026-11-25T11:48:04+00:00",
 "official": false,
-"also": [],
+"also": [
+"Euronews"
+],
 "base": [
 "elysee"
 ],
@@ -7781,7 +8526,10 @@
 "also": [
 "franceinfo",
 "BFMTV",
-"Sud Ouest"
+"Sud Ouest",
+"La Croix",
+"20 Minutes",
+"Nice-Matin"
 ],
 "base": [
 "presidentielle"
@@ -9991,6 +10739,26 @@
 "elysee",
 "parlement",
 "presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "b3437cd83c964bf8",
+"title": "Macron et la règle d’or : audace ou imposture ?",
+"link": "https://www.lepoint.fr/editos-du-point/macron-et-la-regle-dor-audace-ou-imposture-6XPILNZCRJB6BACC6LKN4GTGUI/",
+"summary": "",
+"source": "Le Point",
+"date": "2026-11-23T16:30:00+00:00",
+"added": "2026-11-25T14:08:38+00:00",
+"official": false,
+"also": [],
+"base": [
+"elysee"
+],
+"filtered": true,
+"topics": [
+"elysee"
 ],
 "natures": [],
 "speaker": ""
@@ -15561,385 +16329,5 @@
 ],
 "natures": [],
 "speaker": ""
-},
-{
-"id": "92075fd1384c56f0",
-"title": "La candidate à l'élection présidentielle Marine Le Pen estime que couper les subventions aux associations \"politisées\" \"n'est pas du chantage\"",
-"link": "https://www.franceinfo.fr/elections/la-candidate-a-l-election-presidentielle-marine-le-pen-estime-que-couper-les-subventions-aux-associations-politisees-n-est-pas-du-chantage_8294897.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "Déjà annoncée par la candidate du Rassemblement national quelques jours plus tôt, cette proposition est vivement critiquée par ses opposants politiques, qui l'accusent de vouloir mettre en difficulté des associations hostiles aux politiques du RN.",
-"source": "franceinfo",
-"date": "2026-11-22T14:06:55+00:00",
-"added": "2026-11-22T15:34:00+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Marine Le Pen"
-},
-{
-"id": "52146fcd39cc90cf",
-"title": "Présidentielle 2027 : Philippe Laurent estime que l’AMF « ne peut pas être un plan B » pour David Lisnard",
-"link": "https://www.europe1.fr/politique/presidentielle-2027-philippe-laurent-estime-que-lamf-ne-peut-pas-etre-un-plan-b-pour-david-lisnard-1242094",
-"summary": "Candidat à la présidence de l’Association des maires de France face au président sortant David Lisnard, le maire de Sceaux Philippe Laurent conteste la possibilité de mener de front la direction de l’association et une candidature à l’Élysée.",
-"source": "Europe 1",
-"date": "2026-11-22T14:02:00+00:00",
-"added": "2026-11-22T15:34:00+00:00",
-"official": false,
-"also": [
-"Public Sénat"
-],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"elysee",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Philippe Laurent"
-},
-{
-"id": "fb5c68ef0e50814b",
-"title": "\"J'ai une difficulté avec quelqu'un qui considère que le code du travail doit être passé à la broyeuse\" : Marine Le Pen attaque David Lisnard",
-"link": "https://www.laprovence.com/article/politique/1474397698102115/presidentielle-2027-marine-le-pen-attaque-david-lisnard-et-son-projet-de-broyer-le-code-du-travail",
-"summary": "La candidate du RN à la présidentielle, Marine Le Pen, a critiqué dimanche 22 novembre le libéral David Lisnard pour sa volonté de passer le code du travail \"à la broyeuse\" et pour avoir proposé selon elle d’être ministre dans un des gouvernements d’Emmanuel Macron.",
-"source": "La Provence",
-"date": "2026-11-22T13:53:00+00:00",
-"added": "2026-11-22T15:34:00+00:00",
-"official": false,
-"also": [
-"Nice-Matin",
-"BFMTV"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"gouvernement",
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Marine Le Pen"
-},
-{
-"id": "7daa32ecc46b50d5",
-"title": "Présidentielle 2027 : à Toulon, Éric Zemmour dans l’ombre de Sarah Knafo",
-"link": "https://www.valeursactuelles.com/clubvaleurs/politique/presidentielle-2027-a-toulon-eric-zemmour-lance-sa-campagne-dans-lombre-de-sarah-knafo",
-"summary": "« Vous aviez compris avant les autres », glisse Éric Zemmour aux Toulonnais. Ce samedi 21 novembre, le président de Reconquête est revenu dans le Var pour le premier meeting de sa campagne présidentielle de 2027.",
-"source": "Valeurs actuelles",
-"date": "2026-11-22T13:50:49+00:00",
-"added": "2026-11-22T15:34:00+00:00",
-"official": false,
-"also": [
-"Le Parisien"
-],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "bb0af978f516932d",
-"title": "Présidentielle 2027 : quel est le nombre d'élus qui peuvent parrainer un candidat ?",
-"link": "https://www.cnews.fr/france/2026-11-22/presidentielle-2027-quel-est-le-nombre-delus-qui-peuvent-parrainer-un-candidat",
-"summary": "Pour se présenter à l’élection présidentielle de 2027, les candidats doivent réunir 500 parrainages d’élus. Mais qui peut accorder sa signature et quelles sont les conditions à respecter ?",
-"source": "CNews",
-"date": "2026-11-22T13:24:55+00:00",
-"added": "2026-11-22T13:48:08+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "03d29fc15d6296ba",
-"title": "\"Franc-Jeu\". Avec Marine Le Pen",
-"link": "https://www.franceinfo.fr/replay-magazine/france-2/franc-jeu/franc-jeu-avec-marine-le-pen_8292911.html",
-"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
-"source": "franceinfo",
-"date": "2026-11-22T13:23:36+00:00",
-"added": "2026-11-23T19:52:28+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "f1cde3e5c5cc3bcb",
-"title": "\"Une victoire du RN et de Marine Le Pen susciterait dans le pays un très mauvais climat\", prévient l'historien Laurent Joly",
-"link": "https://news.google.com/rss/articles/CBMirgNBVV95cUxPckdKc0t4MGJvRmNRWnlHalk4ZGx4bG00a3ZfWWQ3TU9hdnczYk9JaklhX2JKblVscGJyMGlXR2o1azl6cTVWYkE0V3RmSTVSX1NLZVZwV0xUdHJyUFBYRXZnaWplTjNwbGlod1BxZWNEeko1UXEySXIyQ3hVQUFVRW1lZ09WdTE5b0lVM01XbzRGQWZJTHZTVGprTS1yVGtUdkwwQ1YxbVUzT2FHMU9yNHBXM21ENnB4QjYwVTNDSFhTZVVQQklrS29rYjNHWTNkUDlVREJreU85QlJmbjktSFpXRzd4Mi1GV2UzaU10bnpaMDlCbkNuU3NqSElaZmVEaTZJWjctMzNjRFdFWm9yQ2VNU3NoeHdNTlFqanJGVTlMZ3p1b2xiRkJ0bTFkb0xSX052TV9ONE9SejNFTHlTVzgwdG5SVXRacmFfZVl2RWozNGtVWndvRUpMNDFDSnNkbXRGOEw2M1FPZUZYRmZrZ0o2OEVJbUVxVTQwcGsyY2daNVpkMEpJTFJ1T0lCVXpUR3JtbU11cEFQWEdrbktkTFIyOXkyT0RTQXNqa21B?oc=5",
-"summary": "",
-"source": "La Montagne",
-"date": "2026-11-22T13:22:00+00:00",
-"added": "2026-11-22T21:30:29+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": ""
-},
-{
-"id": "275286da4ba5316c",
-"title": "Scandale du RN : un mail du service du préfet Moutouh découvert, réaction de Le Pen… Le point sur les derniers rebondissements",
-"link": "https://www.nouvelobs.com/justice/20261122.OBS120354/scandale-du-rn-un-mail-du-service-du-prefet-moutouh-decouvert-reaction-de-le-pen-le-point-sur-les-derniers-rebondissements.html",
-"summary": "Le préfet Hugues Moutouh, à Nice, dans le sud-est de la France, le 7 octobre 2024. VALERY HACHE / AFP\nS’abonner permet de commenter les articles.",
-"source": "Le Nouvel Obs",
-"date": "2026-11-22T13:18:18+00:00",
-"added": "2026-11-22T13:48:08+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "9dfdc54018f9d8b4",
-"title": "C’est quoi la règle de Chatham House ?",
-"link": "https://www.20minutes.fr/societe/4264760-20261122-quoi-regle-chatham-house?at_medium=display&at_campaign=149",
-"summary": "En début de semaine, Jean-Luc Mélenchon a participé à un dîner organisé à Paris avec treize grands patrons français du CAC 40 selon le protocole de confidentialité appelé « Chatham House ».",
-"source": "20 Minutes",
-"date": "2026-11-22T13:16:58+00:00",
-"added": "2026-11-22T13:48:08+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "f342caa23c2220e6",
-"title": "\"Nous avons besoin de toi\" : après son retrait de la course à la présidentielle, François Ruffin convoité par Fabien Roussel et des proches de Raphaël Glucksmann",
-"link": "https://www.rtl.fr/actu/politique/nous-avons-besoin-de-toi-apres-son-retrait-de-la-course-a-la-presidentielle-francois-ruffin-convoite-a-gauche-7900699112",
-"summary": "François Ruffin, devant l'Association des maires de France le 19 novembre 2025\nUn festival de mains tendues.",
-"source": "RTL",
-"date": "2026-11-22T13:09:45+00:00",
-"added": "2026-11-22T15:34:00+00:00",
-"official": false,
-"also": [
-"BFMTV"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "5682ec7bfb60db10",
-"title": "Présidentielle 2027 : découvrez ce que disent les sondages avec notre agrégateur",
-"link": "https://www.lemonde.fr/les-decodeurs/article/2026/11/22/presidentielle-2027-decouvrez-ce-que-disent-les-sondages-avec-notre-agregateur_6814213_4355770.html",
-"summary": "Avec notre agrégateur, explorez les tendances fortes qui se dégagent des nombreuses enquêtes d’opinion menées en vue du premier et du second tour de l’élection présidentielle.",
-"source": "Le Monde",
-"date": "2026-11-22T13:00:11+00:00",
-"added": "2026-11-22T13:48:08+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "d1436022cd495490",
-"title": "Présidentielle 2027 : Marine Le Pen refuse le risque des déplacements à l’étranger",
-"link": "https://www.lemonde.fr/politique/article/2026/11/22/presidentielle-2027-marine-le-pen-refuse-le-risque-des-deplacements-a-l-etranger_6814211_823448.html",
-"summary": "Contrairement à 2022, la candidate du Rassemblement national n’effectuera aucun déplacement international d’ici au scrutin des 18 avril et 2 mai, en dehors de Bruxelles.",
-"source": "Le Monde",
-"date": "2026-11-22T13:00:08+00:00",
-"added": "2026-11-22T13:48:08+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": "Marine Le Pen"
-},
-{
-"id": "ce8a4f92f609ca60",
-"title": "Marine Le Pen assure n'avoir \"jamais reçu d'information confidentielle\" du préfet Hugues Moutouh et n'en avoir \"jamais demandé\"",
-"link": "https://www.bfmtv.com/politique/front-national/marine-le-pen-assure-n-avoir-jamais-recu-d-information-confidentielle-du-prefet-hugues-moutouh-et-n-en-avoir-jamais-demande_AP-202611220260.html",
-"summary": "Questionnée sur d'autres personnes au sein du parti qui auraient pu bénéficier d'informations confidentielles, la candidate d'extrême droite s'est dite \"incapable\" de répondre \"puisque l'enquête est en cours\".",
-"source": "BFMTV",
-"date": "2026-11-22T12:54:41+00:00",
-"added": "2026-11-22T13:48:08+00:00",
-"official": false,
-"also": [
-"TF1 Info",
-"RTL",
-"Ouest-France",
-"Europe 1",
-"20 Minutes",
-"Le Monde",
-"franceinfo",
-"Franceinfo",
-"Le Parisien",
-"Le Figaro",
-"RFI",
-"Euronews",
-"Midi Libre",
-"La Montagne",
-"Nice-Matin",
-"Le Télégramme"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Marine Le Pen"
-},
-{
-"id": "ec08a558e71f05cc",
-"title": "Fuites du préfet Moutouh au RN : Marine Le Pen nie en bloc avoir bénéficié d'informations secrètes",
-"link": "https://www.laprovence.com/article/politique/1470771465547615/fuites-du-prefet-moutouh-au-rn-marine-le-pen-nie-en-bloc-avoir-beneficie-dinformations-secretes",
-"summary": "Marine Le Pen a déclaré dimanche 22 novembre n'avoir \"jamais reçu d'informations confidentielles\" du préfet Hugues Moutouh mais concédé aussi être \"incapable de dire\" si son parti a pu en bénéficier puisque l'enquête sur une possible fuite de documents au profit du RN \"est en cours\".",
-"source": "La Provence",
-"date": "2026-11-22T12:52:34+00:00",
-"added": "2026-11-22T13:48:08+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "a1080f7d0cc4c182",
-"title": "\"Marine Le Pen est du côté des oligarques\" : sur RTL, l'économiste Gabriel Zucman estime que la candidate du RN défend les intérêts de \"l'extrême richesse\"",
-"link": "https://www.rtl.fr/actu/politique/marine-le-pen-est-du-cote-des-oligarques-sur-rtl-l-economiste-gabriel-zucman-estime-que-la-candidate-du-rn-defend-les-interets-de-l-extreme-richesse-7900699113",
-"summary": "Gabriel Zucman, invité du Grand Jury RTL, le 22 novembre 2026. Il y a ceux \"qui veulent soumettre l'extrême richesse à l'autorité de la puissance publique\" et taxer les plus grandes fortunes.",
-"source": "RTL",
-"date": "2026-11-22T12:16:01+00:00",
-"added": "2026-11-22T13:48:08+00:00",
-"official": false,
-"also": [
-"Ouest-France"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"partis"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "Gabriel Zucman"
-},
-{
-"id": "319bd0330ae5a6c3",
-"title": "Pédocriminalité: Alain Bauer, professeur émérite de criminologie, affirme que les candidats à la présidentielle passent le sujet \"sous le tapis\" car \"ça leur brûle les doigts\"",
-"link": "https://www.bfmtv.com/politique/video-pedocriminalite-alain-bauer-professeur-emerite-de-criminologie-affirme-que-les-candidats-a-la-presidentielle-passent-le-sujet-sous-le-tapis-car-ca-leur-brule-les-doigts_VN-202611220244.html",
-"summary": "Alain Bauer, professeur émérite de criminologie, était invité dans BFM Politique, ce dimanche 22 novembre 2026.",
-"source": "BFMTV",
-"date": "2026-11-22T11:51:28+00:00",
-"added": "2026-11-22T13:48:08+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Alain Bauer"
-},
-{
-"id": "fb8df95a6957aa27",
-"title": "Selon un sondage Ipsos, LFI et le RN sont les partis qui suscitent le plus de rejet: \"Tout le monde déteste tout le monde\", constate Alain Bauer, professeur émérite de criminologie",
-"link": "https://www.bfmtv.com/politique/la-france-insoumise/video-selon-un-sondage-ipsos-lfi-et-le-rn-sont-les-partis-qui-suscitent-le-plus-de-rejet-tout-le-monde-deteste-tout-le-monde-constate-alain-bauer-professeur-emerite-de-criminologie_VN-202611220242.html",
-"summary": "Alain Bauer, professeur émérite de criminologie, était invité dans BFM Politique, ce dimanche 22 novembre 2026.",
-"source": "BFMTV",
-"date": "2026-11-22T11:48:45+00:00",
-"added": "2026-11-22T13:48:08+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Alain Bauer"
 }
 ]
