@@ -1,5 +1,353 @@
 [
 {
+"id": "0ef45c557cce7373",
+"title": "Budget 2027 : \"Je vais sanctuariser mon budget lycée, et les travaux seront faits quoi qu'il en soit\", annonce Valérie Pécresse",
+"link": "https://www.franceinfo.fr/politique/budget-2027-je-vais-sanctuariser-mon-budget-lycee-et-les-travaux-seront-faits-quoi-qu-il-en-soit-annonce-valerie-pecresse_8298933.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "Invitée des \"4V\" mercredi 25 novembre, la présidente LR du conseil régional d'Île-de-France assure qu'elle sécurisera le budget de la région réservé aux rénovations des lycées, estimant que les économies demandées par le gouvernement aux collectivités sont \"très injustes\", de la part de \"cet État qui a cramé la…",
+"source": "franceinfo",
+"date": "2026-11-25T07:58:17+00:00",
+"added": "2026-11-25T08:13:02+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement",
+"partis"
+],
+"natures": [
+"Citation",
+"Annonce"
+],
+"speaker": "Valérie Pécresse"
+},
+{
+"id": "26b340d1a578916e",
+"title": "congrès des maires 2026 : suivez l’élection du président de l’Association des maires de France, à cinq mois de l’élection présidentielle",
+"link": "https://www.lemonde.fr/politique/live/2026/11/25/en-direct-congres-des-maires-2026-suivez-l-election-du-president-de-l-association-des-maires-de-france-a-cinq-mois-de-l-election-presidentielle_6815062_823448.html",
+"summary": "Le 108ᵉ congrès des maires de France, qui entame sa deuxième journée, a pris une dimension très politique à l’approche de la présidentielle, alors que la majorité des candidats a prévu de s’y rendre.",
+"source": "Le Monde",
+"date": "2026-11-25T07:57:12+00:00",
+"added": "2026-11-25T08:13:02+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "df574ecaba295685",
+"title": "Procureur présent au siège du RN lors d’une perquisition : Gérald Darmanin annonce saisir l’inspection générale de la justice « pour faire toute la lumière »",
+"link": "https://www.lemonde.fr/societe/article/2026/11/25/procureur-present-lors-d-une-perquisition-au-rn-gerald-darmanin-annonce-saisir-l-inspection-generale-de-la-justice-pour-faire-toute-la-lumiere_6815060_3224.html",
+"summary": "Le Garde des Sceaux a pointé « un défaut de loyauté » manifeste du haut magistrat, qui n’a pas posé de jour de congé pour rendre visite à une personnalité politique – Jean-Paul Garraud, député européen RN –, et qui n’a pas informé sa supérieure du fait qu’il avait croisé les enquêteurs de l’IGPN dans les locaux du RN.",
+"source": "Le Monde",
+"date": "2026-11-25T07:55:20+00:00",
+"added": "2026-11-25T08:13:02+00:00",
+"official": false,
+"also": [
+"franceinfo",
+"Libération",
+"Le Parisien",
+"Sud Ouest"
+],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement",
+"partis"
+],
+"natures": [
+"Citation",
+"Annonce"
+],
+"speaker": "Gérald Darmanin"
+},
+{
+"id": "da62ffc2b081e1b3",
+"title": "EDITO. Présidentielle 2027 : François Hollande joue la montre... et avec les nerfs de ses concurrents",
+"link": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-presidentielle-2027-francois-hollande-joue-la-montre-et-avec-les-nerfs-de-ses-concurrents_8277146.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "L’ombre de François Hollande plane sur ce début de campagne mais l'actuel député de la Corrèze n’a toujours pas fait savoir s'il serait candidat, reportant sans cesse la date de sa décision officielle.",
+"source": "franceinfo",
+"date": "2026-11-25T07:55:20+00:00",
+"added": "2026-11-25T08:13:02+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "f0c38f4afba1d03f",
+"title": "En cas de second tour Le Pen-Mélenchon, Boris Vallaud a fait son choix, mais a une autre solution pour battre le RN",
+"link": "https://rmc.bfmtv.com/actualites/politique/en-cas-de-second-tour-le-pen-melenchon-boris-vallaud-a-fait-son-choix-mais-a-une-autre-solution-pour-battre-le-rn_AV-202611250323.html",
+"summary": "A cinq mois du premier tour de l'élection présidentielle, la gauche semble fractionnée. Certains comme Marine Tondelier tentent de s'allier à Jean-Luc Mélenchon, d'autres ex-Insoumis sont prêts à faire leur retour tandis que certains hésitent comme François Ruffin qui vient de renoncer à sa candidature.",
+"source": "RMC",
+"date": "2026-11-25T07:45:40+00:00",
+"added": "2026-11-25T08:13:02+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "fe00eff0f771ad62",
+"title": "La succession du préfet Hugues Moutouh, suspecté d’être une taupe au service du RN, scellée ce mercredi",
+"link": "https://www.liberation.fr/societe/police-justice/enquete-rn-laurent-nunez-dit-avoir-propose-un-successeur-au-prefet-moutouh-20261124_33QBUEBHAFFEZLPAQJ2OZLWZKI/",
+"summary": "",
+"source": "Libération",
+"date": "2026-11-25T07:42:00+00:00",
+"added": "2026-11-25T08:13:02+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "ca6be4f85ad78cb8",
+"title": "Gérald Darmanin",
+"link": "https://www.bfmtv.com/politique/gerald-darmanin_DN-202108310663.html",
+"summary": "Gérald Darmanin est un homme politique français. Il est né à Tourcoing et a étudié à l'Institut d'études politiques de Lille.",
+"source": "BFMTV",
+"date": "2026-11-25T07:39:32+00:00",
+"added": "2026-11-25T08:13:02+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "50c1ee9d5e3cc37a",
+"title": "«Jean-Luc Mélenchon c'est un peu le Jean-Marie Le Pen d'aujourd'hui. Un Jean-Marie Le Pen en keffieh», pointe Aurore Bergé",
+"link": "https://www.cnews.fr/france/2026-11-25/jean-luc-melenchon-cest-un-peu-le-jean-marie-le-pen-daujourdhui-un-jean-marie-le",
+"summary": "Un Jean-Marie Le Pen en keffieh», a pointé Aurore Bergé, ministre de l'Egalité entre les femmes et les hommes, dénonçant les «outrances» et les «dérapages» du candidat LFI à la présidentielle.",
+"source": "CNews",
+"date": "2026-11-25T07:35:07+00:00",
+"added": "2026-11-25T08:13:02+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"gouvernement",
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "c08196caec6bc0f6",
+"title": "Présidentielle 2027: Boris Vallaud fera \"toujours le front républicain\" en votant pour le candidat face à Marine Le Pen",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/direct-presidentielle-2027-les-candidats-se-relaient-au-congres-des-maires-de-france-david-lisnard-fixe-sur-sa-reelection-a-la-tete-de-l-amf-ce-mercredi_LN-202611250225.html",
+"summary": "Jusqu'à jeudi, le congrès des maires de France est le centre de ralliement des candidats à l'élection présidentielle, notamment pour sécuriser les 500 parrainages permettant de se présenter au scrutin.",
+"source": "BFMTV",
+"date": "2026-11-25T07:34:10+00:00",
+"added": "2026-11-25T08:13:02+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "92752532b2af70c8",
+"title": "Les anciens de la gauche plurielle, en colloque à Paris, nostalgiques de la méthode Jospin",
+"link": "https://www.lemonde.fr/politique/article/2026/11/25/les-anciens-de-la-gauche-plurielle-en-colloque-a-paris-nostalgiques-de-la-methode-jospin_6815058_823448.html",
+"summary": "Figure morale à gauche, Lionel Jospin n’a pas d’héritier direct dans la campagne présidentielle. Ses anciens ministres décrivent le dernier âge d’or de la gauche française, et le contraste avec la situation actuelle.",
+"source": "Le Monde",
+"date": "2026-11-25T07:30:23+00:00",
+"added": "2026-11-25T08:13:02+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "461da5b75f8f3ca0",
+"title": "« Notre électorat est plus proche du centre » : l’opération sabordage de Marine Tondelier",
+"link": "https://www.lepoint.fr/politique/notre-electorat-est-plus-proche-du-centre-loperation-sabordage-de-marine-tondelier-U37RPRHPOREOTNFAAI4VE5673Q/",
+"summary": "",
+"source": "Le Point",
+"date": "2026-11-25T07:30:00+00:00",
+"added": "2026-11-25T08:13:02+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "fd6ab184c4b63854",
+"title": "Emmanuel Macron reçoit les agriculteurs et défend une \"sanctuarisation\" de la Politique agricole commune",
+"link": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/emmanuel-macron-recoit-les-agriculteurs-et-defend-une-sanctuarisation-de-la-politique-agricole-commune_8298876.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "Les agriculteurs s'inquiètent notamment de l'avenir de la PAC, la Politique agricole commune, dont il sera question au sommet européen de jeudi, consacré au budget de l'Union européenne.",
+"source": "franceinfo",
+"date": "2026-11-25T07:10:53+00:00",
+"added": "2026-11-25T08:13:02+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [
+"Réaction"
+],
+"speaker": ""
+},
+{
+"id": "b45b2decb5517fe5",
+"title": "Violences faites aux femmes : \"Marine Le Pen ne sait pas ce qu’est une association\"… Les Plannings familiaux inquiets face aux menaces du RN",
+"link": "https://www.midilibre.fr/2026/11/25/violences-faites-aux-femmes-marine-le-pen-ne-sait-pas-ce-quest-une-association-les-plannings-familiaux-inquiets-face-aux-menaces-du-rn-13669090.php",
+"summary": "Si Marine Le Pen menace de supprimer les subventions du Planning familial si elle est élue, l’action de ses structures est indispensable, soutient l’association dans son dernier rapport.",
+"source": "Midi Libre",
+"date": "2026-11-25T07:02:00+00:00",
+"added": "2026-11-25T08:13:02+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "538ef241ed169a2f",
+"title": "L'invité d'Apolline Matin : Présidentielle, face à la dynamique autour de Jean-Luc Mélenchon, quel espace pour Raphaël Glucksmann à gauche ? - 25/11",
+"link": "https://rmc.bfmtv.com/replay-emissions/apolline-matin/video-l-invite-d-apolline-matin-presidentielle-face-a-la-dynamique-autour-de-jean-luc-melenchon-quel-espace-pour-raphael-glucksmann-a-gauche-25-11_VN-202611250264.html",
+"summary": "VIDÉO - Tous les matins à 7h42, l'invité qui fait l'actualité. Un acteur incontournable, un expert renseigné... 10 minutes d'interview sans concession avec Apolline de Malherbe et les témoignages des auditeurs de RMC au 3216.",
+"source": "RMC",
+"date": "2026-11-25T07:00:02+00:00",
+"added": "2026-11-25T08:13:02+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Interview"
+],
+"speaker": ""
+},
+{
+"id": "a4e59a98d7b2affb",
+"title": "Présidentielle : face à la haine, le choix de l'exigence, par Eric Chol",
+"link": "https://www.lexpress.fr/politique/elections/presidentielle-face-a-la-haine-le-choix-de-lexigence-par-eric-chol-W2K6BOQU2JD7XIKKOJV2RYT7GE/",
+"summary": "Si le monde ruisselle de raisons d’espérer, comme le titrait L’Express la semaine dernière , celles de désespérer n’ont pas subitement disparu.",
+"source": "L'Express",
+"date": "2026-11-25T07:00:00+00:00",
+"added": "2026-11-25T08:13:02+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "ebded576dbb3c6b5",
+"title": "Présidentielle 2027 : \"Raphaël Glucksmann peut battre Marine Le Pen\"",
+"link": "https://rmc.bfmtv.com/replay-emissions/apolline-matin/video-presidentielle-2027-raphael-glucksmann-peut-battre-marine-le-pen_VN-202611250251.html",
+"summary": "VIDÉO - Présidentielle 2027 : \"Raphaël Glucksmann peut battre Marine Le Pen\", affirme Boris Vallaud, président du groupe PS à l'Assemblée nationale, député des Landes.",
+"source": "RMC",
+"date": "2026-11-25T06:50:20+00:00",
+"added": "2026-11-25T08:13:02+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"parlement",
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "e363cf59f424ed08",
+"title": "L'édito d'Alba Ventura : À gauche, tous les chemins mènent à Mélenchon ?",
+"link": "https://www.tf1info.fr/politique/videos/video-l-edito-d-alba-ventura-a-gauche-tous-les-chemins-menent-a-melenchon-78630-2477991.html",
+"summary": "À gauche, ça bouge beaucoup avec la candidature de Jean-Luc Mélenchon à l'élection présidentielle. Après l'écologiste Marine Tondelier, voilà que les anciens Insoumis veulent à nouveau rejoindre les Mélenchonistes.",
+"source": "TF1 Info",
+"date": "2026-11-25T06:40:20+00:00",
+"added": "2026-11-25T08:13:02+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "32feffa27ae1070a",
 "title": "Les jeunes lisent-ils beaucoup, comme l’affirme Jean-Luc Mélenchon ?",
 "link": "https://www.20minutes.fr/politique/4265045-20261125-jeunes-lisent-beaucoup-comme-affirme-jean-luc-melenchon",
@@ -569,7 +917,9 @@
 "date": "2026-11-25T00:34:21+00:00",
 "added": "2026-11-25T06:37:39+00:00",
 "official": false,
-"also": [],
+"also": [
+"Le Parisien"
+],
 "base": [
 "partis"
 ],
@@ -579,6 +929,24 @@
 ],
 "natures": [],
 "speaker": "François Bayrou"
+},
+{
+"id": "bc7ada1b9287c09f",
+"title": "Budget 2027 : le Sénat exclut les chambres d’hôtes du régime fiscal des meublés touristiques",
+"link": "https://www.publicsenat.fr/actualites/politique/budget-2027-le-senat-exclut-les-chambres-dhotes-du-regime-fiscal-des-meubles-touristiques",
+"summary": "Dans le cadre de l’examen du budget, le Sénat est revenu sur le régime fiscal des locations meublées touristiques, durci depuis une loi de 2024.",
+"source": "Public Sénat",
+"date": "2026-11-24T23:13:47+00:00",
+"added": "2026-11-25T08:13:02+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
 },
 {
 "id": "70b9a5e685b2f704",
@@ -611,7 +979,11 @@
 "official": false,
 "also": [
 "20 Minutes",
-"TF1 Info"
+"TF1 Info",
+"LCP",
+"franceinfo",
+"La Nouvelle République",
+"Valeurs actuelles"
 ],
 "base": [],
 "filtered": true,
@@ -1483,6 +1855,29 @@
 ],
 "natures": [],
 "speaker": ""
+},
+{
+"id": "287206980d83e583",
+"title": "En cas de second tour LFI/RN, \"je voterai pour Marine Le Pen parce que je voterai contre la France Insoumise\", indique Thibault de Montbrial, avocat et président du mouvement Concorde",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-je-voterai-pour-marine-le-pen-parce-que-je-voterai-contre-la-france-insoumise-en-cas-de-duel-marine-le-pen-jean-luc-melenchon-au-second-tour-de-l-election-presidentielle_VN-202611240933.html",
+"summary": "VIDÉO - La course à la présidentielle continue alors que le congrès des maires et des présidents d'intercommunalité de France s'ouvre ce mardi 24 novembre.",
+"source": "BFMTV",
+"date": "2026-11-24T19:58:56+00:00",
+"added": "2026-11-25T08:13:02+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Thibault de Montbrial"
 },
 {
 "id": "9bb073d90fe054a9",
@@ -2369,7 +2764,8 @@
 "added": "2026-11-24T17:43:12+00:00",
 "official": false,
 "also": [
-"Le Monde"
+"Le Monde",
+"20 Minutes"
 ],
 "base": [
 "parlement"
@@ -6565,7 +6961,9 @@
 "date": "2026-11-23T22:32:58+00:00",
 "added": "2026-11-24T06:37:04+00:00",
 "official": false,
-"also": [],
+"also": [
+"Ouest-France"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -6732,7 +7130,8 @@
 "official": false,
 "also": [
 "Le Dauphiné Libéré",
-"Le Bien Public"
+"Le Bien Public",
+"Le Progrès"
 ],
 "base": [
 "presidentielle"
@@ -11914,7 +12313,8 @@
 "official": false,
 "also": [
 "Le Dauphiné Libéré",
-"Sud Ouest"
+"Sud Ouest",
+"Ouest-France"
 ],
 "base": [
 "presidentielle"
@@ -14918,168 +15318,6 @@
 "topics": [
 "gouvernement",
 "parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "766fbad64bddb9d8",
-"title": "Raphaël Glucskmann, Bruno Retailleau, Gérard Larcher… Les appels à un changement de date de la présidentielle se multiplient",
-"link": "https://www.cnews.fr/france/2026-11-22/raphael-glucskmann-bruno-retailleau-gerard-larcher-les-appels-un-changement-de",
-"summary": "Alors que le second tour de l’élection présidentielle est prévu le 2 mai prochain, certains responsables politiques, mais pas seulement, appellent à modifier cette date, la considérant «inadaptée», au lendemain des manifestations du 1er-Mai.",
-"source": "CNews",
-"date": "2026-11-22T08:10:16+00:00",
-"added": "2026-11-22T09:38:20+00:00",
-"official": false,
-"also": [],
-"base": [
-"parlement"
-],
-"filtered": true,
-"topics": [
-"parlement",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "65bd7f040a11127f",
-"title": "Présidentielle : entre craintes et espoir, les attentes des maires huit mois après les municipales, cinq mois avant l’échéance de 2027",
-"link": "https://www.midilibre.fr/2026/11/22/presidentielle-entre-craintes-et-espoir-les-attentes-des-maires-huit-mois-apres-les-municipales-cinq-mois-avant-lecheance-de-2027-13661478.php",
-"summary": "Le 108eᵉ congrès des maires de France se tient du 24 au 26 novembre 2026, à Paris. Dans un contexte particulier, huit mois après les élections municipales, et cinq mois avant la présidentielle.",
-"source": "Midi Libre",
-"date": "2026-11-22T08:01:00+00:00",
-"added": "2026-11-22T09:38:20+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "8399483a5623787b",
-"title": "\"Ils ont l’impression d’être à l’Elysée\" : Laurent, le restaurant parisien où le RN et CNews ont pris leurs quartiers",
-"link": "https://www.lexpress.fr/politique/rn/ils-ont-limpression-detre-a-lelysee-laurent-le-restaurant-parisien-ou-le-rn-et-cnews-ont-pris-leurs-SNSSFA5DIFBXLEVF5WJI2ZXSAY/",
-"summary": "Adresse exquise, façade rose poudrée habillée de pilastres et colonnes pour donner, à ce qui fut autrefois pavillon de chasse puis guinguette, des airs gentiment italiens de temple antique, entrée de marbre, salle spectaculaire et rotonde en mezzanine et puis la terrasse, enfilade de parasols abritée par la frondaison…",
-"source": "L'Express",
-"date": "2026-11-22T07:45:00+00:00",
-"added": "2026-11-22T07:55:27+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "4bd3fade7870c298",
-"title": "\"Une partie de l'extrême gauche cherche à déstabiliser la République et ses institutions\", estime Thomas Ménagé, porte-parole du RN",
-"link": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/le-7-40-franceinfo-du-dimanche-22-novembre-2026_8265002.html",
-"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
-"source": "franceinfo",
-"date": "2026-11-22T07:18:44+00:00",
-"added": "2026-11-22T13:48:08+00:00",
-"official": false,
-"also": [],
-"base": [
-"matinales"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Thomas Ménagé"
-},
-{
-"id": "93ad79d283aa843d",
-"title": "Présidentielle 2027 : Marine Le Pen couperait les subventions du Planning familial s'il continue « à faire de la politique »...",
-"link": "https://www.20minutes.fr/politique/4264740-20261122-presidentielle-2027-marylise-leon-veut-eviter-second-tour-lendemain-1er-mai?at_medium=display&at_campaign=149",
-"summary": "Marine Le Pen déclare avoir décliné l’invitation du président ukrainien, Volodymyr Zelensky, à se rendre à Kiev parce qu’elle a décidé de « ne pas faire » de voyages à l’étranger durant la campagne présidentielle.",
-"source": "20 Minutes",
-"date": "2026-11-22T07:10:24+00:00",
-"added": "2026-11-22T17:32:18+00:00",
-"official": false,
-"also": [
-"La Voix du Nord"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "9b5a630fb263feb8",
-"title": "Bardella et Mélenchon aux Antilles, réchauffement entre Retailleau et Wauquiez... Nos informations confidentielles",
-"link": "https://www.latribune.fr/article/la-tribune-dimanche/politique/1172791581263814/bardella-et-melenchon-aux-antilles-rechauffement-entre-retailleau-et-wauquiez-nos-informations-confidentielles",
-"summary": "Jordan Bardella et Jean-Luc Mélenchon sont attendus aux Antilles dans les prochains jours.",
-"source": "La Tribune",
-"date": "2026-11-22T07:00:15+00:00",
-"added": "2026-11-22T07:55:27+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "2413e2b5915f8e62",
-"title": "Primaire de la droite et du centre : les limites fixées par Larcher et la ligne soutenue par Lisnard aiguisent les craintes d’une impasse",
-"link": "https://www.lefigaro.fr/elections/presidentielles/primaire-de-la-droite-et-du-centre-les-limites-fixees-par-larcher-et-la-ligne-soutenue-par-lisnard-aiguisent-les-craintes-d-une-impasse-20261122",
-"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
-"source": "Le Figaro",
-"date": "2026-11-22T07:00:11+00:00",
-"added": "2026-11-22T11:34:04+00:00",
-"official": false,
-"also": [],
-"base": [
-"parlement"
-],
-"filtered": true,
-"topics": [
-"parlement",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "9da1adeae6e58e7f",
-"title": "Face au programme de Jean-Luc Mélenchon, la responsabilité de la classe intellectuelle est écrasante",
-"link": "https://www.lexpress.fr/politique/face-au-programme-de-jean-luc-melenchon-la-responsabilite-de-la-classe-intellectuelle-est-ecrasante-ESCGM6EQGFCWXKHE3FV3V7DMAA/",
-"summary": "Lisant la remarquable analyse qu’Antoine Levy a donnée ici du programme de Jean-Luc Mélenchon (désormais rendu public), je me conforte dans l’idée que nous sommes en grand danger : il est fou que ce genre d’horreur puisse plaire à ce point.",
-"source": "L'Express",
-"date": "2026-11-22T07:00:00+00:00",
-"added": "2026-11-22T07:55:27+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis"
 ],
 "natures": [],
 "speaker": ""
