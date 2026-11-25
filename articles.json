@@ -1,5 +1,407 @@
 [
 {
+"id": "6490a627cf52427f",
+"title": "Budget de l'UE : Macron hausse le ton à la veille d'un sommet-clé",
+"link": "https://www.laprovence.com/article/france-monde/52142219241159/budget-de-lue-macron-hausse-le-ton-a-la-veille-dun-sommet-cle",
+"summary": "Le président Emmanuel Macron s'exprime devant des représentants des syndicats agricoles français reçus à l'Élysée, à Paris, le 25 novembre 2026\n\"Notre position, elle est sans ambiguïté\" et c'est \"la condition pour moi première d'un accord possible : c'est que pas un euro ne manque à la PAC (politique agricole commune…",
+"source": "La Provence",
+"date": "2026-11-25T19:34:59+00:00",
+"added": "2026-11-25T19:44:43+00:00",
+"official": false,
+"also": [],
+"base": [
+"elysee"
+],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "0890ef7412855773",
+"title": "Comment le candidat David Lisnard séduit les déçus d’une partie de la droite : « Avec Retailleau et Philippe, on continue sans rien changer »",
+"link": "https://www.lemonde.fr/politique/article/2026/11/25/comment-le-candidat-david-lisnard-seduit-les-decus-d-une-partie-de-la-droite-avec-retailleau-et-philippe-on-continue-sans-rien-changer_6815170_823448.html",
+"summary": "Dans les Yvelines, les Hauts-de-Seine et le Rhône, de nombreux électeurs mécontents des figures de leur camp rejoignent le parti Nouvelle énergie.",
+"source": "Le Monde",
+"date": "2026-11-25T19:25:00+00:00",
+"added": "2026-11-25T19:44:43+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "95b8c8222fefecbc",
+"title": "David Lisnard fait-il peur à Marine le Pen ? - 25/11",
+"link": "https://www.bfmtv.com/replay-emissions/100-mabrouk/video-david-lisnard-fait-il-peur-a-marine-le-pen-25-11_VN-202611250919.html",
+"summary": "VIDÉO - Retrouvez le replay de 100% Mabrouk sur BFMTV.",
+"source": "BFMTV",
+"date": "2026-11-25T19:20:21+00:00",
+"added": "2026-11-25T19:44:43+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": "David Lisnard"
+},
+{
+"id": "6c4b8064786ecd26",
+"title": "VIDÉO - Marine Le Pen face aux petits patrons, ce mercredi à 21 heures sur LCI en collaboration avec l'U2P",
+"link": "https://www.tf1info.fr/politique/elections/presidentielle/direct-video-marine-le-pen-face-aux-petits-patrons-ce-mercredi-25-novembre-a-21-heures-sur-lci-en-collaboration-avec-l-u2p-2478138.html",
+"summary": "Que proposent les candidats à la présidentielle pour les TPE et les PME ? À l'heure d'une campagne sous le sceau de la dette et d'un contexte de difficultés économiques, les petits patrons et les professions libérales ont des questions à poser à celles et ceux qui ambitionnent de diriger le pays.",
+"source": "TF1 Info",
+"date": "2026-11-25T19:18:12+00:00",
+"added": "2026-11-25T19:44:43+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "6326f17a9ce56571",
+"title": "Les candidats à la présidentielle en quête de parrainages auprès des maires",
+"link": "https://www.20minutes.fr/politique/4265748-20261125-presidentielle-2027-fan-vais-parrainer-comment-candidats-tentent-seduire-maires",
+"summary": "Aucun n’assume de venir à la pêche aux parrainages, mais tous assurent comprendre les problématiques rencontrées par les municipalités.",
+"source": "20 Minutes",
+"date": "2026-11-25T19:13:00+00:00",
+"added": "2026-11-25T19:44:43+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "4e6ab2ae6a58fb12",
+"title": "« Il faut impérativement qu’on puisse se rassembler » : Bruno Retailleau veut croire à l’union",
+"link": "https://www.lanouvellerepublique.fr/chateauroux/il-faut-imperativement-qu-on-puisse-se-rassembler-bruno-retailleau-veut-croire-a-l-union-1795633694",
+"summary": "Bruno Retailleau plaide désormais ouvertement pour la tenue d’une primaire de la droite et du centre. © (Photo Archives NR, Julien Pruvost)\nEn perte de vitesse dans les sondages et malmené par la percée de David Lisnard, Bruno Retailleau défend plus que jamais l’organisation d’une primaire de la droite et du centre…",
+"source": "La Nouvelle République",
+"date": "2026-11-25T19:08:06+00:00",
+"added": "2026-11-25T19:44:43+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Bruno Retailleau"
+},
+{
+"id": "ed5aad36c1d84b65",
+"title": "“J’ai dit non” : la France insoumise rejette la main tendue de L’Après, le parti des ex-insoumis, pour la présidentielle",
+"link": "https://www.lamontagne.fr/france-monde/actualites/jai-dit-non-la-france-insoumise-rejette-la-main-tendue-de-lapres-le-parti-des-ex-insoumis-pour-la-presidentielle_15091876/",
+"summary": "",
+"source": "La Montagne",
+"date": "2026-11-25T19:07:00+00:00",
+"added": "2026-11-25T19:44:43+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": ""
+},
+{
+"id": "335d15809ecac185",
+"title": "LFI refuse de rencontrer les anciens insoumis de L’Après en vue «d’une éventuelle coalition»",
+"link": "https://www.liberation.fr/politique/lfi-refuse-de-rencontrer-les-anciens-insoumis-de-lapres-en-vue-dune-eventuelle-coalition-20261125_2BOWYGXNWRDLXGIFZM6NMNHEYU/",
+"summary": "Manuel Bompard a affirmé à la presse, ce mercredi 25 novembre, avoir rejeté la proposition de rencontre des membres de ses anciens comparses qui ont créé leur parti après avoir été écartés de La France insoumise en 2024.",
+"source": "Libération",
+"date": "2026-11-25T19:00:06+00:00",
+"added": "2026-11-25T19:44:43+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": ""
+},
+{
+"id": "90a315e0dd907476",
+"title": "Reconnaître des torts ou attaquer le système : les tiraillements du RN face aux affaires",
+"link": "https://www.lopinion.fr/politique/reconnaitre-des-torts-ou-attaquer-le-systeme-les-tiraillements-du-rn-face-aux-affaires",
+"summary": "Marine Le Pen enregistre une première baisse de 3 à 5 points selon les configurations testées par le dernier sondage Harris Interactive.",
+"source": "L'Opinion",
+"date": "2026-11-25T19:00:00+00:00",
+"added": "2026-11-25T19:44:43+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "6c91d727be6dc229",
+"title": "Présidentielle 2027 : un débat plutôt qu’une primaire, la nouvelle piste à droite et au centre",
+"link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-un-debat-plutot-qu-une-primaire-la-nouvelle-piste-a-droite-et-au-centre-20261125",
+"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
+"source": "Le Figaro",
+"date": "2026-11-25T19:00:00+00:00",
+"added": "2026-11-25T19:44:43+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "ff589c383a2acc23",
+"title": "Teddy Riner affirme, à propos de la guerre en Ukraine, que la France doit « arrêter de donner de l’argent » qu’elle n’a pas",
+"link": "https://www.lemonde.fr/politique/article/2026/11/25/teddy-riner-affirme-a-propos-de-la-guerre-en-ukraine-que-la-france-doit-arreter-de-donner-de-l-argent-que-nous-n-avons-pas_6815137_823449.html",
+"summary": "Plus tôt, le candidat à l’élection présidentielle a critiqué le déploiement de soldats français en Ukraine pour des missions non combattantes, déclarant : « Je ne comprends pas qu’on envoie des troupes en Ukraine alors que ce n’est pas notre guerre ».",
+"source": "Le Monde",
+"date": "2026-11-25T18:57:23+00:00",
+"added": "2026-11-25T19:44:43+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Teddy Riner"
+},
+{
+"id": "8160b3eca10f3f43",
+"title": "« L’objectif est de museler les contre-pouvoirs » : derrière les menaces aux associations, le projet autoritaire de Marine Le Pen",
+"link": "https://www.humanite.fr/politique/associations/lobjectif-est-de-museler-les-contre-pouvoirs-derriere-les-menaces-aux-associations-le-projet-autoritaire-de-marine-le-pen",
+"summary": "En menaçant les associations de supprimer leurs subventions publiques arbitrairement, au prétexte flou d’une « politisation », la candidate du Rassemblement national assume sa volonté de mettre au pas les contre-pouvoirs pour basculer dans une démocratie illibérale.",
+"source": "L'Humanité",
+"date": "2026-11-25T18:53:22+00:00",
+"added": "2026-11-25T19:44:43+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "3adf923507fb186a",
+"title": "Lisnard réélu à l’AMF, nouvelle plainte contre Bruel, le 7 Octobre en question en Israël… L’actu de ce mercredi 25 novembre",
+"link": "https://www.liberation.fr/international/lisnard-reelu-a-lamf-nouvelle-plainte-contre-bruel-le-7-octobre-en-question-en-israel-lactu-de-ce-mercredi-25-novembre-20261125_M2ZU2JA4YBHVLLQ24VS76TUFDE/",
+"summary": "La rédaction de «Libération» récapitule les principales actualités de la journée.",
+"source": "Libération",
+"date": "2026-11-25T18:41:37+00:00",
+"added": "2026-11-25T19:44:43+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "4d7fb7abdb36fce2",
+"title": "Propos de Teddy Riner sur l'Ukraine: \"Il a commis une faute politique\", estime Jérémie Patrier-Leitus, député Horizons et porte-parole d’Édouard Philippe",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-propos-de-teddy-riner-sur-l-ukraine-il-a-commis-une-faute-politique-estime-jeremie-patrier-leitus-depute-horizons-et-porte-parole-d-edouard-philippe_VN-202611250881.html",
+"summary": "En quête de parrainages, Teddy Riner était présent ce mercredi 25 novembre au congrès des maires à Paris. Dans les allées de la Porte de Versailles, le candidat à la présidentielle s'est aussi exprimé sur la guerre en Ukraine.",
+"source": "BFMTV",
+"date": "2026-11-25T18:34:26+00:00",
+"added": "2026-11-25T19:44:43+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Jérémie Patrier-Leitus"
+},
+{
+"id": "c9c10f92434e276f",
+"title": "Au salon des maires, les candidats en opération séduction : «Ils sont là pour se montrer et nous caresser dans le sens du poil»",
+"link": "https://www.liberation.fr/politique/au-salon-des-maires-les-candidats-en-operation-seduction-ils-sont-la-pour-se-montrer-et-nous-caresser-dans-le-sens-du-poil-20261125_Z3NQP7PAYRFPZJIMJZ65TLOPU4/",
+"summary": "Plusieurs prétendants à l’Elysée étaient présents mercredi 25 novembre au congrès de l’AMF à Paris. Parmi les élus, l’agacement le dispute parfois à la curiosité, face à des candidats souvent jugés trop éloignés du terrain et surtout soucieux de visibilité.",
+"source": "Libération",
+"date": "2026-11-25T18:31:38+00:00",
+"added": "2026-11-25T19:44:43+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "8b34c69b4763848f",
+"title": "Présidentielle 2027 : les soutiens varois de Raphaël Glucksmann lancent la campagne avec le RN pour « principal ennemi »",
+"link": "https://www.nicematin.com/societe/presidentielle-2027-les-soutiens-varois-de-raphael-glucksmann-lancent-la-campagne-avec-le-rn-pour-principal-ennemi-10768493",
+"summary": "« On en a marre de voir en permanence des affiches de David Lisnard ! »",
+"source": "Nice-Matin",
+"date": "2026-11-25T18:22:07+00:00",
+"added": "2026-11-25T19:44:43+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "2da76d63838b2133",
+"title": "Une commission d'enquête sur les cyberattaques et les fuites de données va être lancée au Sénat",
+"link": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/une-commission-d-enquete-sur-la-cyberattaques-et-les-fuites-de-donnees-va-etre-lancee-au-senat_8300160.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "La commission d'enquête pourra démarrer avant la fin de l'année et durera six mois. Son rapport est attendu en avril ou en mai 2027.",
+"source": "franceinfo",
+"date": "2026-11-25T18:11:04+00:00",
+"added": "2026-11-25T19:44:43+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "d666a1dd3a75d9c2",
+"title": "Primaire à droite : les électeurs partagés entre primaire et accord négocié selon un sondage",
+"link": "https://www.lopinion.fr/politique/primaire-a-droite-les-electeurs-partages-entre-primaire-et-accord-negocie-selon-un-sondage",
+"summary": "Un peu plus de plomb dans l’aile de la primaire. Ce mode de départage entre les quatre principaux candidats de la droite et du centre ne fait pas l’unanimité chez les sympathisants de cet espace, révèle un sondage Elabe publié par BFMTV mercredi 25 novembre*.",
+"source": "L'Opinion",
+"date": "2026-11-25T17:56:33+00:00",
+"added": "2026-11-25T19:44:43+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "d0799d526f6b384e",
+"title": "Agriculture : La France ne veut « pas 1 euro » de moins pour la PAC, l’avertissement de Macron à l’UE",
+"link": "https://www.20minutes.fr/societe/4265780-20261125-agriculture-france-veut-euro-moins-pac-avertissement-macron-ue?at_medium=display&at_campaign=149",
+"summary": "Une ligne rouge posée sur la table avant même l’ouverture des discussions. Recevant mercredi les syndicats agricoles à l’Élysée, Emmanuel Macron a martelé que la PAC passait en tête des priorités françaises dans la négociation du budget européen 2028-2034.",
+"source": "20 Minutes",
+"date": "2026-11-25T17:42:57+00:00",
+"added": "2026-11-25T19:44:43+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [
+"Citation"
+],
+"speaker": ""
+},
+{
+"id": "ce38dbd33fdb72bf",
+"title": "\"LE 20.27\" - Le Congrès des maires de France, une rampe de lancement pour les candidats?",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-le-20-27-le-congres-des-maires-de-france-une-rampe-de-lancement-pour-les-candidats_VN-202611250830.html",
+"summary": "Candidat à sa réélection, David Lisnard a été réélu président de l'Association des maires de France (AMF), ce mercredi 25 novembre, avec 72% des suffrages, lors du 108e congrès de l'organisation, à Paris.",
+"source": "BFMTV",
+"date": "2026-11-25T17:37:21+00:00",
+"added": "2026-11-25T19:44:43+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "c8b8c057a9ba9897",
 "title": "Valprivas. Laurent Wauquiez a visité les nouveaux bâtiments de la mairie",
 "link": "https://www.leprogres.fr/politique/2026/11/25/laurent-wauquiez-a-visite-les-nouveaux-batiments-de-la-mairie",
@@ -207,7 +609,9 @@
 "date": "2026-11-25T16:59:18+00:00",
 "added": "2026-11-25T17:40:21+00:00",
 "official": false,
-"also": [],
+"also": [
+"franceinfo"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -277,6 +681,26 @@
 "speaker": ""
 },
 {
+"id": "36c4348b7fbd64f2",
+"title": "Le monde rêvé de Mélenchon",
+"link": "https://www.nouvelobs.com/politique/20261125.OBS120442/le-monde-reve-de-melenchon.html",
+"summary": "Avec « l’Avenir en commun », le leader insoumis dessine un programme de rupture qui prétend transformer aussi bien notre modèle …",
+"source": "Le Nouvel Obs",
+"date": "2026-11-25T16:50:15+00:00",
+"added": "2026-11-25T19:44:43+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "847c82f60fcbf678",
 "title": "« Nous les aurons, ces 500 signatures ! » : LFI à la pêche aux parrainages sans Jean-Luc Mélenchon au Congrès des maires",
 "link": "https://www.ouest-france.fr/politique/nous-les-aurons-ces-500-signatures-lfi-a-la-peche-aux-parrainages-sans-jean-luc-melenchon-au-congres-des-maires-4ea6d218-e8d5-11f1-86c1-70195b4d2e52",
@@ -325,7 +749,9 @@
 "date": "2026-11-25T16:41:08+00:00",
 "added": "2026-11-25T17:40:21+00:00",
 "official": false,
-"also": [],
+"also": [
+"Le Monde"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -428,7 +854,10 @@
 "date": "2026-11-25T16:15:17+00:00",
 "added": "2026-11-25T17:40:21+00:00",
 "official": false,
-"also": [],
+"also": [
+"Le Dauphiné Libéré",
+"Le Parisien"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -447,7 +876,10 @@
 "date": "2026-11-25T16:14:41+00:00",
 "added": "2026-11-25T17:40:21+00:00",
 "official": false,
-"also": [],
+"also": [
+"LCP",
+"TF1 Info"
+],
 "base": [
 "matinales"
 ],
@@ -470,7 +902,16 @@
 "date": "2026-11-25T16:10:38+00:00",
 "added": "2026-11-25T17:40:21+00:00",
 "official": false,
-"also": [],
+"also": [
+"LCP",
+"BFMTV",
+"20 Minutes",
+"Ouest-France",
+"CNews",
+"La Provence",
+"Midi Libre",
+"Le Dauphiné Libéré"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -1333,7 +1774,8 @@
 "also": [
 "BFMTV",
 "France 24",
-"Europe 1"
+"Europe 1",
+"Le Parisien"
 ],
 "base": [
 "gouvernement"
@@ -1466,7 +1908,8 @@
 "Le Republicain Lorrain",
 "Ouest-France",
 "RFI",
-"Le Dauphiné Libéré"
+"Le Dauphiné Libéré",
+"Franceinfo"
 ],
 "base": [],
 "filtered": true,
@@ -1592,7 +2035,9 @@
 "date": "2026-11-25T12:31:24+00:00",
 "added": "2026-11-25T14:08:38+00:00",
 "official": false,
-"also": [],
+"also": [
+"Le Parisien"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -2479,7 +2924,8 @@
 "Public Sénat",
 "20 Minutes",
 "RTL",
-"RFI"
+"RFI",
+"L'Opinion"
 ],
 "base": [],
 "filtered": true,
@@ -2895,7 +3341,9 @@
 "date": "2026-11-25T07:55:20+00:00",
 "added": "2026-11-25T08:13:02+00:00",
 "official": false,
-"also": [],
+"also": [
+"Franceinfo"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -8345,6 +8793,26 @@
 "speaker": ""
 },
 {
+"id": "ecc331f9b008adac",
+"title": "Budget : Emmanuel Macron envisagerait un Congrès sur la règle d’or, droite et RN sont favorables mais critiques",
+"link": "https://www.lefigaro.fr/politique/budget-emmanuel-macron-envisagerait-un-congres-sur-la-regle-d-or-droite-et-rn-sont-favorables-mais-critiques-20261122",
+"summary": "Le président songerait à réunir députés et sénateurs en janvier, en s’appuyant sur un projet de loi constitutionnelle adopté par l’Assemblée et le Sénat en 2011, mais jamais soumis au vote final.",
+"source": "Le Figaro",
+"date": "2026-11-24T09:07:32+00:00",
+"added": "2026-11-25T19:44:43+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"parlement",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "7056a7d53828fbb4",
 "title": "INFO RMC. Primaire de la droite et du centre: la réunion Attal-Retailleau-Lisnard prévue jeudi est reportée",
 "link": "https://rmc.bfmtv.com/actualites/politique/info-rmc-primaire-de-la-droite-et-du-centre-la-reunion-attal-retailleau-lisnard-prevue-jeudi-est-reportee_AN-202611240423.html",
@@ -8923,6 +9391,26 @@
 "speaker": ""
 },
 {
+"id": "abb050e0fa73ebdb",
+"title": "Emmanuel Macron rattrapé par le maître des horloges",
+"link": "https://www.lanouvellerepublique.fr/a-la-une/emmanuel-macron-rattrape-par-le-maitre-des-horloges-1795506741",
+"summary": "« Je resterai le maître des horloges, il faudra vous y faire. » Quelques semaines avant de devenir président de la République, Emmanuel Macron avait prononcé cette phrase censée caractériser son mandat.",
+"source": "La Nouvelle République",
+"date": "2026-11-24T07:52:20+00:00",
+"added": "2026-11-25T19:44:43+00:00",
+"official": false,
+"also": [],
+"base": [
+"elysee"
+],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "baecb86e0d1dbb43",
 "title": "Affaire Hugues Moutouh : la préfectorale oscille entre soutien affiché et étonnement mesuré",
 "link": "https://www.lemonde.fr/politique/article/2026/11/24/affaire-hugues-moutouh-la-prefectorale-oscille-entre-soutien-affiche-et-etonnement-mesure_6814721_823448.html",
@@ -9350,7 +9838,8 @@
 "official": false,
 "also": [
 "franceinfo",
-"Franceinfo"
+"Franceinfo",
+"TF1 Info"
 ],
 "base": [],
 "filtered": true,
@@ -11407,7 +11896,8 @@
 "also": [
 "Libération",
 "Sud Ouest",
-"La Nouvelle République"
+"La Nouvelle République",
+"Le Dauphiné Libéré"
 ],
 "base": [],
 "filtered": true,
@@ -15082,6 +15572,24 @@
 "speaker": ""
 },
 {
+"id": "be64f4beb137e0d2",
+"title": "Règle d’or budgétaire : Emmanuel Macron «explore l’idée» de s’en emparer, la droite et l’extrême droite s’en réjouissent",
+"link": "https://www.liberation.fr/economie/regle-dor-budgetaire-emmanuel-macron-reflechit-a-sen-emparer-la-droite-et-lextreme-droite-sen-rejouissent-20261122_BPFY5UQC7VGJNMGJO35GLLOZJQ/",
+"summary": "En fonction de la «volatilité» sur les marchés, le chef de l’Etat songe à convoquer un Congrès en janvier pour introduire dans la Constitution une contrainte budgétaire visant à réduire le déficit public.",
+"source": "Libération",
+"date": "2026-11-23T07:01:38+00:00",
+"added": "2026-11-25T19:44:43+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "54377d59cb005249",
 "title": "Toute l’info en 2 minutes : Fiasco de la COP31, Ruffin courtisé et le RN dément avoir été aidé par le préfet",
 "link": "https://www.20minutes.fr/societe/4264992-20261123-toute-info-2-minutes-echec-cop31-ruffin-courtise-prefet-soupconne-aider-rn?at_medium=display&at_campaign=149",
@@ -16304,518 +16812,5 @@
 "Citation"
 ],
 "speaker": "David Lisnard"
-},
-{
-"id": "948fe71576f61187",
-"title": "Présidentielle 2027 : Raphaël Glucksmann \"pense que faire un deuxième tour au lendemain d'un 1er mai est une erreur\"",
-"link": "https://www.laprovence.com/article/elections/1494629661955915/presidentielle-2027-raphael-glucksmann-pense-que-faire-un-deuxieme-tour-au-lendemain-dun-1er-mai-est-une-erreur",
-"summary": "\"On n'a pas le droit de prendre des risques avec cette élection\" présidentielle, estime Raphaël Glucksmann. \"Je pense que faire un deuxième tour au lendemain d'un 1er mai est une erreur\", a lâché Raphaël Glucksmann ce dimanche sur franceinfo.",
-"source": "La Provence",
-"date": "2026-11-22T19:30:12+00:00",
-"added": "2026-11-22T19:40:53+00:00",
-"official": false,
-"also": [
-"franceinfo",
-"Franceinfo"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "69405fe168c1a742",
-"title": "Au programme du sommet Choose France qui s'ouvre lundi, 273 projets valorisés et près de 15 milliards d'euros d'investissements nouveaux",
-"link": "https://www.franceinfo.fr/economie/au-programme-du-sommet-choose-france-qui-s-ouvre-lundi-273-projets-valorises-et-pres-de-15-milliards-d-euros-d-investissements-nouveaux_8295146.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "Lors de la première édition de l'\"édition France\", le gouvernement avait valorisé des investissements à hauteur de 30,4 milliards, pour 151 projets.",
-"source": "franceinfo",
-"date": "2026-11-22T19:26:56+00:00",
-"added": "2026-11-22T19:40:53+00:00",
-"official": false,
-"also": [
-"BFMTV",
-"Le Parisien",
-"LCP"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "79ab88f884c3f3f7",
-"title": "Présidentielle 2027 : \"Je ne me résoudrai jamais à ce que Marine Le Pen entre à l'Élysée\", lâche Raphaël Glucksman, candidat PS et Place publique",
-"link": "https://www.franceinfo.fr/replay-magazine/franceinfo/le-grand-enjeu/presidentielle-2027-je-ne-me-resoudrai-jamais-a-ce-que-marine-le-pen-entre-a-l-elysee-lache-raphael-glucksman-candidat-ps-et-place-publique_8295134.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "Raphaël Glucksmann était l'invité du Grand Enjeu, dimanche 22 novembre. Le candidat du PS et de Place publique pour l'élection présidentielle a notamment abordé la question de son projet et de ses propositions en matière d'écologie, de pouvoir d'achat ou encore de retraites.",
-"source": "franceinfo",
-"date": "2026-11-22T19:19:45+00:00",
-"added": "2026-11-22T19:40:53+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"matinales",
-"elysee",
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Raphaël Glucksman"
-},
-{
-"id": "a9a0fc927c0db28a",
-"title": "Présidentielle 2027 : « Son combat est le mien », affirme Glucksmann à propos de Ruffin",
-"link": "https://www.letelegramme.fr/france/presidentielle-2027-son-combat-est-le-mien-affirme-glucksmann-a-propos-de-ruffin-7164202.php",
-"summary": "",
-"source": "Le Télégramme",
-"date": "2026-11-22T19:14:05+00:00",
-"added": "2026-11-22T19:40:53+00:00",
-"official": false,
-"also": [
-"franceinfo"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Raphaël Glucksmann"
-},
-{
-"id": "01893612126330b9",
-"title": "Présidentielle 2027 : derrière le succès de David Lisnard, un programme radical mais avec encore des zones d'ombre",
-"link": "https://www.lesechos.fr/elections/presidentielle/presidentielle-2027-derriere-le-succes-de-david-lisnard-un-programme-radical-mais-avec-encore-des-zones-dombre-2263970",
-"summary": "",
-"source": "Les Echos",
-"date": "2026-11-22T19:11:10+00:00",
-"added": "2026-11-22T19:40:53+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "65c4c0b340e073ca",
-"title": "David Lisnard: “Je voterai tout candidat contre Jean-Luc Mélenchon”",
-"link": "https://www.bfmtv.com/replay-emissions/le-grand-oral-2027/video-david-lisnard-je-voterai-tout-candidat-contre-jean-luc-melenchon_VN-202611220397.html",
-"summary": "VIDÉO - David Lisnard, maire “Nouvelle Énergie” de Cannes, candidat à l’élection présidentielle est l’invité du Grand Oral 2027 sur BFMTV.",
-"source": "BFMTV",
-"date": "2026-11-22T19:03:53+00:00",
-"added": "2026-11-22T19:40:53+00:00",
-"official": false,
-"also": [
-"Ouest-France",
-"Nice-Matin"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "David Lisnard"
-},
-{
-"id": "677393ce28443ec8",
-"title": "« Ça n’a aucun sens » : sans Édouard Philippe à la primaire de la droite, David Lisnard n’y participera pas",
-"link": "https://www.ouest-france.fr/politique/david-lisnard/ca-na-aucun-sens-sans-edouard-philippe-a-la-primaire-de-la-droite-david-lisnard-ny-participera-pas-70977960-e685-11f1-afa7-9a0bb82a33d1",
-"summary": "",
-"source": "Ouest-France",
-"date": "2026-11-22T18:52:56+00:00",
-"added": "2026-11-22T19:40:53+00:00",
-"official": false,
-"also": [
-"Le Figaro",
-"BFMTV"
-],
-"base": [
-"parlement"
-],
-"filtered": true,
-"topics": [
-"parlement",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "a925ef546c6305e1",
-"title": "« Il a franchi une étape » : David Lisnard, une menace pour Marine Le Pen ?",
-"link": "https://www.lepoint.fr/monde/il-a-franchi-une-etape-david-lisnard-une-menace-pour-marine-le-pen-5XIKPC5GA5GD3CK2EO4DPUI2RI/",
-"summary": "",
-"source": "Le Point",
-"date": "2026-11-22T18:52:54+00:00",
-"added": "2026-11-22T19:40:53+00:00",
-"official": false,
-"also": [
-"Valeurs actuelles"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": ""
-},
-{
-"id": "7a2d0dbb0bc9fb50",
-"title": "« Je me dis que tout peut advenir » : pour Bruno Retailleau, le va-tout de la primaire",
-"link": "https://www.lopinion.fr/politique/je-me-dis-que-tout-peut-advenir-pour-bruno-retailleau-le-va-tout-de-la-primaire",
-"summary": "Une deuxième réunion sur les modalités de la primaire entre les équipes de Gabriel Attal, David Lisnard et Bruno Retailleau est prévue cette semaine.",
-"source": "L'Opinion",
-"date": "2026-11-22T18:45:00+00:00",
-"added": "2026-11-22T19:40:53+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Bruno Retailleau"
-},
-{
-"id": "ec4975aeb8614456",
-"title": "Le Grand Oral 2027 : David Lisnard, candidat, évoque les enjeux de la présidentielle",
-"link": "https://www.bfmtv.com/replay-emissions/le-grand-oral-2027/video-le-grand-oral-2027-david-lisnard-candidat-evoque-les-enjeux-de-la-presidentielle_VN-202611220388.html",
-"summary": "VIDÉO - David Lisnard, maire “Nouvelle Énergie” de Cannes, candidat à l’élection présidentielle est l’invité du Grand Oral 2027 sur BFMTV.",
-"source": "BFMTV",
-"date": "2026-11-22T18:30:28+00:00",
-"added": "2026-11-22T19:40:53+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": "David Lisnard"
-},
-{
-"id": "a53158230e3373f1",
-"title": "La députée RN Laure Lavalette accusée à son tour d' écrits antisémites, Marine Le Pen excuse (encore) l’erreur de jeunesse",
-"link": "https://www.humanite.fr/politique/antisemitisme/la-deputee-rn-laure-lavalette-accusee-a-son-tour-d-ecrits-antisemites-marine-le-pen-excuse-encore-lerreur-de-jeunesse",
-"summary": "Après Jordan Bardella, c’est l’élue RN du Var qui est pointée du doigt pour les écrits antisémites de la revue du syndicat étudiant qu’elle dirigeait.",
-"source": "L'Humanité",
-"date": "2026-11-22T18:25:36+00:00",
-"added": "2026-11-22T19:40:53+00:00",
-"official": false,
-"also": [
-"Libération",
-"BFMTV"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"parlement",
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "adc5adf2eea6475b",
-"title": "\"Toutes les solutions méritent d’être explorées\" : l'Elysée ne confirme pas la possible inscription de la \"règle d'or\" budgétaire dans la Constitution début 2027",
-"link": "https://www.franceinfo.fr/economie/budget/toutes-les-solutions-meritent-d-etre-explorees-l-elysee-ne-confirme-pas-la-possible-inscription-de-la-regle-d-or-budgetaire-dans-la-constitution-debut-2027_8295083.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "Selon \"La Tribune Dimanche\", le chef de l'Etat réfléchit à convoquer le Congrès à Versailles, réunissant députés et sénateurs, pour faire approuver cette mesure emblématique de l'orthodoxie financière.",
-"source": "franceinfo",
-"date": "2026-11-22T18:25:32+00:00",
-"added": "2026-11-22T19:40:53+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"parlement"
-],
-"natures": [
-"Citation"
-],
-"speaker": ""
-},
-{
-"id": "68893189f9acf57f",
-"title": "Le Petit Oral de David Lisnard, maire “Nouvelle Énergie” de Cannes et candidat à l’élection présidentielle",
-"link": "https://www.bfmtv.com/replay-emissions/le-grand-oral-2027/video-le-petit-oral-de-david-lisnard-maire-nouvelle-energie-de-cannes-et-candidat-a-l-election-presidentielle_VN-202611220382.html",
-"summary": "VIDÉO - David Lisnard, maire “Nouvelle Énergie” de Cannes, candidat à l’élection présidentielle est l’invité du Grand Oral 2027 sur BFMTV.",
-"source": "BFMTV",
-"date": "2026-11-22T18:23:54+00:00",
-"added": "2026-11-22T19:40:53+00:00",
-"official": false,
-"also": [
-"Sud Ouest"
-],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "e4867346ef94ecbe",
-"title": "Présidentielle 2027: David Lisnard, candidat Nouvelle Énergie à l’élection présidentielle, estime que \"ce serait mieux\" de modifier les dates du scrutin",
-"link": "https://www.bfmtv.com/replay-emissions/le-grand-oral-2027/video-presidentielle-2027-david-lisnard-candidat-nouvelle-energie-a-l-election-presidentielle-estime-que-ce-serait-mieux-de-modifier-les-dates-du-scrutin_VN-202611220381.html",
-"summary": "VIDÉO - David Lisnard, maire “Nouvelle Énergie” de Cannes, candidat à l’élection présidentielle est l’invité du Grand Oral 2027 sur BFMTV.",
-"source": "BFMTV",
-"date": "2026-11-22T18:21:52+00:00",
-"added": "2026-11-22T19:40:53+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "David Lisnard"
-},
-{
-"id": "fcd214af197b7b45",
-"title": "Retraites: David Lisnard, candidat Nouvelle Énergie à l'élection présidentielle, défend \"la capitalisation pour tous\"",
-"link": "https://www.bfmtv.com/replay-emissions/le-grand-oral-2027/video-retraites-david-lisnard-candidat-nouvelle-energie-a-l-election-presidentielle-defend-la-capitalisation-pour-tous_VN-202611220380.html",
-"summary": "VIDÉO - David Lisnard, maire “Nouvelle Énergie” de Cannes, candidat à l’élection présidentielle est l’invité du Grand Oral 2027 sur BFMTV.",
-"source": "BFMTV",
-"date": "2026-11-22T18:20:34+00:00",
-"added": "2026-11-22T19:40:53+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "David Lisnard"
-},
-{
-"id": "012af9fa231631bb",
-"title": "Pour David Lisnard, candidat à l’élection présidentielle, il faut retrouver \"l’anonymat des parrainages\", alors qu’un maire sur deux ne veut pas l'accorder",
-"link": "https://www.bfmtv.com/replay-emissions/le-grand-oral-2027/video-pour-david-lisnard-candidat-a-l-election-presidentielle-il-faut-retrouver-l-anonymat-des-parrainages-alors-qu-un-maire-sur-deux-ne-veut-pas-l-accorder_VN-202611220378.html",
-"summary": "VIDÉO - David Lisnard, maire “Nouvelle Énergie” de Cannes, candidat à l’élection présidentielle est l’invité du Grand Oral 2027 sur BFMTV.",
-"source": "BFMTV",
-"date": "2026-11-22T18:19:14+00:00",
-"added": "2026-11-22T19:40:53+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "David Lisnard"
-},
-{
-"id": "426feba695be056f",
-"title": "Interrogé sur sa double casquette de président de l'AMF et de candidat à l'élection présidentielle, David Lisnard, répond: \"Je n’ai pas à me justifier\"",
-"link": "https://www.bfmtv.com/replay-emissions/le-grand-oral-2027/video-interroge-sur-sa-double-casquette-de-president-de-l-amf-et-de-candidat-a-l-election-presidentielle-david-lisnard-repond-je-n-ai-pas-a-me-justifier_VN-202611220376.html",
-"summary": "VIDÉO - David Lisnard, maire “Nouvelle Énergie” de Cannes, candidat à l’élection présidentielle est l’invité du Grand Oral 2027 sur BFMTV.",
-"source": "BFMTV",
-"date": "2026-11-22T18:17:13+00:00",
-"added": "2026-11-22T19:40:53+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": ""
-},
-{
-"id": "ec48f4f6c8f68fa1",
-"title": "“Les nouveaux enseignants seront des contractuels, et mieux payé”: David Lisnard, maire “Nouvelle Énergie” de Cannes, candidat à l’élection présidentielle, détaille son programme pour l'éducation",
-"link": "https://www.bfmtv.com/replay-emissions/le-grand-oral-2027/video-les-nouveaux-enseignants-seront-des-contractuels-et-mieux-paye-david-lisnard-maire-nouvelle-energie-de-cannes-candidat-a-l-election-presidentielle-detaille-son-programme-pour-l-education_VN-202611220375.html",
-"summary": "VIDÉO - David Lisnard, maire “Nouvelle Énergie” de Cannes, candidat à l’élection présidentielle est l’invité du Grand Oral 2027 sur BFMTV.",
-"source": "BFMTV",
-"date": "2026-11-22T18:13:27+00:00",
-"added": "2026-11-22T19:40:53+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "e81c30e18ccd2671",
-"title": "Fonction publique: David Lisnard, candidat \"Nouvelle Énergie\" à la présidentielle, plaide pour la suppression ou le non-remplacement de 400.000 à 450.000 fonctionnaires",
-"link": "https://www.bfmtv.com/replay-emissions/le-grand-oral-2027/video-fonction-publique-david-lisnard-candidat-nouvelle-energie-a-la-presidentielle-plaide-pour-la-suppression-ou-le-non-remplacement-de-400-000-a-450-000-fonctionnaires_VN-202611220371.html",
-"summary": "VIDÉO - David Lisnard, maire “Nouvelle Énergie” de Cannes, candidat à l’élection présidentielle est l’invité du Grand Oral 2027 sur BFMTV.",
-"source": "BFMTV",
-"date": "2026-11-22T18:06:04+00:00",
-"added": "2026-11-22T21:30:29+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "David Lisnard"
-},
-{
-"id": "910a6f84dd79114b",
-"title": "Avec 42 milliards d'euros de promesses d'investissements en France, Emmanuel Macron défend son bilan industriel",
-"link": "https://www.lesechos.fr/economie-france/conjoncture/avec-42-milliards-deuros-de-promesses-dinvestissements-en-france-emmanuel-macron-defend-son-bilan-industriel-2263971",
-"summary": "",
-"source": "Les Echos",
-"date": "2026-11-22T18:00:42+00:00",
-"added": "2026-11-22T19:40:53+00:00",
-"official": false,
-"also": [],
-"base": [
-"elysee"
-],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [
-"Réaction"
-],
-"speaker": "Emmanuel Macron"
-},
-{
-"id": "ee728e8acf619364",
-"title": "Choose France : une deuxième «édition française» aux allures de bilan pour Emmanuel Macron, dans une économie plombée",
-"link": "https://www.liberation.fr/economie/choose-france-une-deuxieme-edition-francaise-aux-allures-de-bilan-pour-emmanuel-macron-dans-une-economie-plombee-20261122_ROFFBLVQHNHVVGBYUGNVMTK7EM/",
-"summary": "Le sommet se tient ce lundi à la Cité universitaire de Paris pour mettre en lumière les investisseurs hexagonaux.",
-"source": "Libération",
-"date": "2026-11-22T18:00:00+00:00",
-"added": "2026-11-22T19:40:53+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Emmanuel Macron"
-},
-{
-"id": "ea52a5beb7d3875e",
-"title": "Israël : les partis de Gadi Eisenkot et de Benyamin Nétanyahou concluent de nouvelles négociations de coalition sans accord",
-"link": "https://www.lemonde.fr/international/article/2026/11/22/israel-les-partis-de-gadi-eisenkot-et-de-benyamin-netanyahou-concluent-de-nouvelles-negociations-de-coalition-sans-accord_6814239_3210.html",
-"summary": "M. Eisenkot a jusqu’au 6 décembre pour former un gouvernement israélien, après les législatives de la fin d’octobre qui n’ont donné de majorité absolue à aucun camp.",
-"source": "Le Monde",
-"date": "2026-11-22T17:57:07+00:00",
-"added": "2026-11-22T19:40:53+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "97ea8f8f85986c08",
-"title": "Accusé par Jordan Bardella d'être \"un macroniste masqué\", David Lisnard, candidat Nouvelle Énergie à la présidentielle, réplique: \"Si je l'avais été, je serais peut-être honteux, mais ce n'est pas le cas.\"",
-"link": "https://www.bfmtv.com/replay-emissions/le-grand-oral-2027/video-accuse-par-jordan-bardella-d-etre-un-macroniste-masque-david-lisnard-candidat-nouvelle-energie-a-la-presidentielle-replique-si-je-l-avais-ete-je-serais-peut-etre-honteux-mais-ce-n-est-pas-le-cas_VN-202611220364.html",
-"summary": "VIDÉO - David Lisnard, maire “Nouvelle Énergie” de Cannes, candidat à l’élection présidentielle est l’invité du Grand Oral 2027 sur BFMTV.",
-"source": "BFMTV",
-"date": "2026-11-22T17:49:48+00:00",
-"added": "2026-11-22T19:40:53+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Réaction"
-],
-"speaker": ""
 }
 ]
