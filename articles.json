@@ -1,5 +1,497 @@
 [
 {
+"id": "fcfae9978080613d",
+"title": "L'ONG Reporters sans frontières saisit l'Arcom pour demander une suspension de CNews: \"C'est la nouvelle censure en France?\", réagit Robert Ménard, maire DVD de Béziers et cofondateur de RSF",
+"link": "https://www.bfmtv.com/politique/video-l-ong-reporters-sans-frontieres-saisit-l-arcom-pour-demander-une-suspension-de-c-news-c-est-la-nouvelle-censure-en-france-reagit-robert-menard-maire-dvd-de-beziers-et-cofondateur-de-rsf_VN-202611260379.html",
+"summary": "Robert Ménard, maire DVD de Béziers, était l'invitée du Face-à-Face de ce jeudi 26 novembre 2026 sur BFMTV et RMC.",
+"source": "BFMTV",
+"date": "2026-11-26T08:07:05+00:00",
+"added": "2026-11-26T08:11:03+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"parlement"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "Robert Ménard"
+},
+{
+"id": "34f07bdbfe0272fe",
+"title": "\"Si je suis venu ce matin ici, c'est pour dire: ça suffit\": Bruno Retailleau devant le campus Nation de la Sorbonne Nouvelle bloqué par des étudiants",
+"link": "https://www.bfmtv.com/politique/video-si-je-suis-venu-ce-matin-ici-c-est-pour-dire-ca-suffit-bruno-retailleau-devant-le-campus-nation-de-la-sorbonne-nouvelle-bloque-par-des-etudiants_VN-202611260375.html",
+"summary": "Bruno Retailleau, candidat LR à l’élection présidentielle, s’est rendu sur le campus Nation de la Sorbonne Nouvelle bloqué par des étudiants.",
+"source": "BFMTV",
+"date": "2026-11-26T07:59:19+00:00",
+"added": "2026-11-26T08:11:03+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "8e1bc1412145eb5a",
+"title": "Soupçons d’écrits antisémites attribués à Jordan Bardella : Charles Alloncle dénonce un «acharnement médiatique de la part de journalistes militants»",
+"link": "https://www.lefigaro.fr/politique/soupcons-d-ecrits-antisemites-attribues-a-jordan-bardella-charles-alloncle-denonce-un-acharnement-mediatique-de-la-part-de-journalistes-militants-20261126",
+"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
+"source": "Le Figaro",
+"date": "2026-11-26T07:56:22+00:00",
+"added": "2026-11-26T08:11:03+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "Charles Alloncle"
+},
+{
+"id": "39afb52122d872ee",
+"title": "Candidature de David Lisnard: \"Je l'ai sous-estimé\", explique Robert Ménard, maire de Béziers",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-candidature-de-david-lisnard-je-l-ai-sous-estime-explique-robert-menard-maire-de-beziers_VN-202611260364.html",
+"summary": "Robert Ménard, maire DVD de Béziers, était l'invitée du Face-à-Face de ce jeudi 26 novembre 2026 sur BFMTV et RMC.",
+"source": "BFMTV",
+"date": "2026-11-26T07:52:27+00:00",
+"added": "2026-11-26T08:11:03+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Candidature de David Lisnard"
+},
+{
+"id": "d7ab2f989e30cf00",
+"title": "Nouvelles révélations sur des écrits antisémites attribués à Jordan Bardella : \"Une polémique parmi mille autres\", réagit Charles Alloncle, porte-parole UDR de Marine Le Pen",
+"link": "https://www.franceinfo.fr/politique/nouvelles-revelations-sur-des-ecrits-antisemites-attribues-a-jordan-bardella-une-polemique-parmi-mille-autres-reagit-charles-alloncle-porte-parole-udr-de-marine-le-pen_8300934.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "Le député ciottiste de l'Hérault et porte-parole de la campagne de Marine Le Pen pour l'élection présidentielle de 2027 est le premier à réagir, dans les \"4 Vérités\" du 26 novembre, aux nouvelles révélations de Médiapart et du Monde, qui dévoilent de nouveaux messages Facebook antisémites attribués à Jordan Bardella.",
+"source": "franceinfo",
+"date": "2026-11-26T07:52:14+00:00",
+"added": "2026-11-26T08:11:03+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"parlement",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "Jordan Bardella"
+},
+{
+"id": "9ce5ae37f21a4734",
+"title": "Présidentielle 2027 : \"Je compte continuer à déranger ce petit théâtre\", déclare David Lisnard",
+"link": "https://www.franceinfo.fr/politique/david-lisnard/presidentielle-2027-je-compte-continuer-a-deranger-ce-petit-theatre-declare-david-lisnard_8300889.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "L'actuel maire de Cannes et candidat à la présidentielle était l'invité de France Inter, jeudi, au lendemain de sa réélection à la tête de l'Association des maires de France (AMF).",
+"source": "franceinfo",
+"date": "2026-11-26T07:51:49+00:00",
+"added": "2026-11-26T08:11:03+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "David Lisnard"
+},
+{
+"id": "b3b213b4ef23e26f",
+"title": "David Lisnard, Gabriel Attal, Raphaël Glucksmann... Journée de campagne au Salon des maires",
+"link": "https://www.franceinfo.fr/elections/david-lisnard-gabriel-attal-raphael-glucksmann-journee-de-campagne-au-salon-des-maires_8300931.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "Mercredi 25 novembre, plusieurs candidats à l'élection présidentielle étaient présents au Salon et au Congrès des maires, organisé porte de Versailles.",
+"source": "franceinfo",
+"date": "2026-11-26T07:47:34+00:00",
+"added": "2026-11-26T08:11:03+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "d35d357e560b4a7a",
+"title": "« Il a des relations complexes avec l’Allemagne » : à Berlin, Jean-Luc Mélenchon veut faire entendre ses différences",
+"link": "https://www.leparisien.fr/elections/presidentielle/il-a-des-relations-complexes-avec-lallemagne-a-berlin-jean-luc-melenchon-veut-faire-entendre-ses-differences-26-11-2026-LGH2STX47NBWXIVD6FKMCU36DQ.php",
+"summary": "",
+"source": "Le Parisien",
+"date": "2026-11-26T07:45:00+00:00",
+"added": "2026-11-26T08:11:03+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Jean-Luc Mélenchon"
+},
+{
+"id": "7b4df01c07b23f9e",
+"title": "Nouvelles révélations sur les propos antisémites attribués à Jordan Bardella: \"Il y a beaucoup de choses qui s'accumulent', déclare Robert Ménard, maire de Béziers",
+"link": "https://www.bfmtv.com/politique/video-nouvelles-revelations-sur-les-propos-antisemites-attribues-a-jordan-bardella-il-y-a-beaucoup-de-choses-qui-s-accumulent-declare-robert-menard-maire-de-beziers_VN-202611260349.html",
+"summary": "Robert Ménard, maire DVD de Béziers, était l'invité du Face-à-Face de ce jeudi 26 novembre 2026 sur BFMTV et RMC.",
+"source": "BFMTV",
+"date": "2026-11-26T07:41:18+00:00",
+"added": "2026-11-26T08:11:03+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"partis"
+],
+"natures": [],
+"speaker": "Robert Ménard"
+},
+{
+"id": "d0e9a0687f892bd4",
+"title": "Présidentielle 2027 : Marine Le Pen propose un barème progressif à cinq tranches pour l’impôt sur les sociétés",
+"link": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-marine-le-pen-propose-un-bareme-progressif-a-cinq-tranches-pour-limpot-sur-les-societes-26-11-2026-6Y7VWED4SZB6PFPUCM37VYVOPA.php",
+"summary": "",
+"source": "Le Parisien",
+"date": "2026-11-26T07:36:45+00:00",
+"added": "2026-11-26T08:11:03+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Annonce"
+],
+"speaker": "Marine Le Pen"
+},
+{
+"id": "1be48bb46021f07f",
+"title": "«Jordan Bardella n'a pas tenu de propos antisémites», martèle Laurent Jacobelli",
+"link": "https://www.cnews.fr/france/2026-11-26/jordan-bardella-na-pas-tenu-de-propos-antisemites-martele-laurent-jacobelli",
+"summary": "«Jordan Bardella n'a pas tenu de propos antisémites», a martelé le député RN Laurent Jacobelli, alors que de nouveaux écrits attribués au président du parti ont été publiés dans la presse.",
+"source": "CNews",
+"date": "2026-11-26T07:30:27+00:00",
+"added": "2026-11-26T08:11:03+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"parlement",
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Laurent Jacobelli"
+},
+{
+"id": "42f508f56b3218be",
+"title": "Luc Ferry : « Retailleau-Lisnard, deux droites, deux histoires »",
+"link": "https://www.lefigaro.fr/vox/politique/luc-ferry-retailleau-lisnard-deux-droites-deux-histoires-20261126",
+"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
+"source": "Le Figaro",
+"date": "2026-11-26T07:30:00+00:00",
+"added": "2026-11-26T08:11:03+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Luc Ferry"
+},
+{
+"id": "77e64aa775553bd5",
+"title": "«Jordan Bardella prépare son gouvernement parce qu'il faut que l'on soit prêt à toutes les éventualités», glisse Laurent Jacobelli",
+"link": "https://www.cnews.fr/france/2026-11-26/jordan-bardella-prepare-son-gouvernement-parce-quil-faut-que-lon-soit-pret-toutes",
+"summary": "«Jordan Bardella prépare son gouvernement parce qu'il faut que l'on soit prêt à toutes les éventualités», a glissé Laurent Jacobelli, député RN de Moselle et porte-parole de la campagne présidentielle de Marine Le Pen, ce jeudi lors de La Grande Interview sur CNEWS.",
+"source": "CNews",
+"date": "2026-11-26T07:24:00+00:00",
+"added": "2026-11-26T08:11:03+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"gouvernement",
+"parlement",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Laurent Jacobelli"
+},
+{
+"id": "bf2a1b93e7dbd81a",
+"title": "La tribune politique : Présidentielle, Jean-Luc Mélenchon consolide son avance - 26/11",
+"link": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-la-tribune-politique-presidentielle-jean-luc-melenchon-consolide-son-avance-26-11_VN-202611260315.html",
+"summary": "",
+"source": "BFMTV",
+"date": "2026-11-26T07:21:01+00:00",
+"added": "2026-11-26T08:11:03+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Tribune"
+],
+"speaker": ""
+},
+{
+"id": "01277392432308f3",
+"title": "Présidentielle 2027 : le programme de LFI sur l’énergie est « ambitieux » mais les moyens sont « absents », pointe le groupe de réflexion Terra Nova",
+"link": "https://www.sudouest.fr/politique/jean-luc-melenchon/presidentielle-2027-le-programme-de-lfi-sur-l-energie-est-ambitieux-mais-les-moyens-sont-absents-pointe-le-groupe-de-reflexion-terra-nova-31676913.php",
+"summary": "",
+"source": "Sud Ouest",
+"date": "2026-11-26T07:18:05+00:00",
+"added": "2026-11-26T08:11:03+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "ed6e6ec351dcb482",
+"title": "Antisémitisme : Mediapart et Le Monde accablent Jordan Bardella",
+"link": "https://rmc.bfmtv.com/actualites/politique/video-antisemitisme-mediapart-et-le-monde-accablent-jordan-bardella_VN-202611260301.html",
+"summary": "Sébastien Krebs, chef du service politique de RMC, fait le point sur ces nouvelles révélations.",
+"source": "RMC",
+"date": "2026-11-26T07:09:09+00:00",
+"added": "2026-11-26T08:11:03+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "34f4dc02d75b47df",
+"title": "Présidentielle 2027 : David Lisnard rejette le duel proposé par Édouard Philippe et réclame un vote pour départager la droite",
+"link": "https://www.midilibre.fr/2026/11/26/presidentielle-2027-david-lisnard-rejette-le-duel-propose-par-edouard-philippe-et-reclame-un-vote-pour-departager-la-droite-13672097.php",
+"summary": "La proposition du maire de Havres n’aura pas fait long feu. David Lisnard, président de Nouvelle Énergie, a rejeté mercredi 25 novembre sur France 2 l’idée d’un débat avec Édouard Philippe, préférant un vote pour départager les candidats de la droite et du centre.",
+"source": "Midi Libre",
+"date": "2026-11-26T07:05:00+00:00",
+"added": "2026-11-26T08:11:03+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [
+"Annonce"
+],
+"speaker": "David Lisnard"
+},
+{
+"id": "9877e4c75f3a2bec",
+"title": "EDITO. À droite, le duel Lisnard-Philippe pour la présidentielle s'intensifie",
+"link": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-a-droite-le-duel-lisnard-philippe-pour-la-presidentielle-s-intensifie_8278496.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "David Lisnard a été réélu mercredi président de l’association des maires de France. Il est désormais au coude-à-coude dans les sondages avec l'ancien Premier ministre, Édouard Philippe.",
+"source": "franceinfo",
+"date": "2026-11-26T07:03:36+00:00",
+"added": "2026-11-26T08:11:03+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "c1cd17ba9cefa494",
+"title": "Émilie König aux assises, révélations sur Bardella et Lille bat le Bayern",
+"link": "https://www.20minutes.fr/societe/4265849-20261126-toute-info-2-minutes-emilie-konig-assises-revelations-bardella-exploit-lille-contre-bayern",
+"summary": "Vous avez manqué les infos de ce début de matinée ? On vous a concocté un récap pour vous aider à y voir plus clair et briller à la machine à café.",
+"source": "20 Minutes",
+"date": "2026-11-26T07:01:00+00:00",
+"added": "2026-11-26T08:11:03+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "5b94ea06176424ba",
+"title": "Présidentielle 2027 : le think tank de gauche Terra Nova alerte sur le volet énergétique du programme de LFI",
+"link": "https://www.cnews.fr/france/2026-11-26/presidentielle-2027-le-think-tank-de-gauche-terra-nova-alerte-sur-le-volet",
+"summary": "LFI apparaît un peu trop optimiste dans son programme énergétique, en annonçant une sortie des énergies fossiles avant 2050 et en souhaitant fermer progressivement les centrales nucléaires, analyse le think Tank de gauche Terra Nova.",
+"source": "CNews",
+"date": "2026-11-26T07:00:05+00:00",
+"added": "2026-11-26T08:11:03+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": "Terra Nova"
+},
+{
+"id": "ed2077eefdb9e0be",
+"title": "Marine Le Pen promet des aides aux petites entreprises",
+"link": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/video-marine-le-pen-promet-des-aides-aux-petites-entreprises_VN-202611260276.html",
+"summary": "VIDÉO - Marine Le Pen promet des aides aux petites entreprises\nAprès ses adversaires, c’est au tour de Marine Le Pen de répondre aux questions des petits patrons.",
+"source": "BFMTV",
+"date": "2026-11-26T06:52:17+00:00",
+"added": "2026-11-26T08:11:03+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Annonce"
+],
+"speaker": "Marine Le Pen"
+},
+{
+"id": "1524e5ce0d07890d",
+"title": "De nouveaux écrits antisémites attribués à Jordan Bardella, Emilie König jugée à Paris, Trump et l’Otan mettent en garde la Russie… L’actu de ce jeudi 26 novembre au matin",
+"link": "https://www.liberation.fr/international/europe/de-nouveaux-ecrits-antisemites-attribues-a-jordan-bardella-emilie-konig-jugee-a-paris-trump-et-lotan-mettent-en-garde-la-russie-lactu-de-ce-jeudi-26-novembre-au-matin-20261126_ZWE3PRZJCZCNFJRFV54PRLJYQI/",
+"summary": "",
+"source": "Libération",
+"date": "2026-11-26T06:49:00+00:00",
+"added": "2026-11-26T08:11:03+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "b3f95f6c0bbe376f",
+"title": "Macron, la difficile fin du moi",
+"link": "https://www.lesechos.fr/idees-debats/editos-analyses/macron-la-difficile-fin-du-moi-2264702",
+"summary": "",
+"source": "Les Echos",
+"date": "2026-11-26T06:44:08+00:00",
+"added": "2026-11-26T08:11:03+00:00",
+"official": false,
+"also": [],
+"base": [
+"elysee"
+],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "606e85cada2328cd",
 "title": "Violences du 17 octobre: à Marseille, des casseurs interpellés et aussitôt relâchés, selon le maire Benoît Payan",
 "link": "https://lcp.fr/actualites/violences-du-17-octobre-a-marseille-des-casseurs-interpelles-et-aussitot-relaches-selon",
@@ -75,12 +567,37 @@
 "Le Parisien",
 "Ouest-France",
 "Sud Ouest",
-"RFI"
+"RFI",
+"Libération",
+"Le Figaro",
+"La Provence"
 ],
 "base": [],
 "filtered": true,
 "topics": [
 "partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "dbc3f95d9507e447",
+"title": "Près de 1 500 élus dénoncent auprès du Premier ministre le rabotage financier de plusieurs programmes d'accompagnement à la rénovation énergétique",
+"link": "https://www.franceinfo.fr/environnement/pres-de-1-500-elus-denoncent-aupres-du-premier-ministre-le-rabotage-financier-de-plusieurs-programmes-d-accompagnement-a-la-renovation-energetique_8300808.html",
+"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
+"source": "franceinfo",
+"date": "2026-11-26T06:26:38+00:00",
+"added": "2026-11-26T08:11:03+00:00",
+"official": false,
+"also": [],
+"base": [
+"matinales"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"elysee",
+"gouvernement"
 ],
 "natures": [],
 "speaker": ""
@@ -314,7 +831,11 @@
 "date": "2026-11-26T05:56:58+00:00",
 "added": "2026-11-26T06:38:49+00:00",
 "official": false,
-"also": [],
+"also": [
+"LCP",
+"20 Minutes",
+"CNews"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -558,6 +1079,26 @@
 "speaker": ""
 },
 {
+"id": "4fceef5d9972dc28",
+"title": "Sur le réarmement de l’Allemagne, Mélenchon “joue avec des peurs très anciennes”",
+"link": "https://www.courrierinternational.com/article/interview-sur-le-rearmement-de-l-allemagne-melenchon-joue-avec-des-peurs-tres-anciennes_288654",
+"summary": "COURRIER INTERNATIONAL : Jean-Luc Mélenchon se rend le 27 novembre à Berlin. Quelle relation entretient le candidat de La France insoumise avec l’Allemagne ?",
+"source": "Courrier international",
+"date": "2026-11-26T04:16:04+00:00",
+"added": "2026-11-26T08:11:03+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "a84de490c58c605e",
 "title": "Madagascar: Marco Tsaradia élu à la tête de l'Assemblée après la destitution de son président pour «motif grave",
 "link": "https://www.rfi.fr/fr/afrique/20261126-madagascar-marco-tsaradia-%C3%A9lu-%C3%A0-la-t%C3%AAte-de-l-assembl%C3%A9e-apr%C3%A8s-la-destitution-de-son-pr%C3%A9sident-accus%C3%A9-d-abus-de-pouvoir",
@@ -605,7 +1146,9 @@
 "date": "2026-11-25T23:50:44+00:00",
 "added": "2026-11-26T06:38:49+00:00",
 "official": false,
-"also": [],
+"also": [
+"Public Sénat"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -974,7 +1517,8 @@
 "added": "2026-11-25T21:45:46+00:00",
 "official": false,
 "also": [
-"Le Parisien"
+"Le Parisien",
+"CNews"
 ],
 "base": [],
 "filtered": true,
@@ -1292,7 +1836,8 @@
 "added": "2026-11-25T21:45:46+00:00",
 "official": false,
 "also": [
-"BFMTV"
+"BFMTV",
+"Le Figaro"
 ],
 "base": [],
 "filtered": true,
@@ -1795,7 +2340,9 @@
 "date": "2026-11-25T18:57:23+00:00",
 "added": "2026-11-25T19:44:43+00:00",
 "official": false,
-"also": [],
+"also": [
+"La Croix"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -2692,6 +3239,28 @@
 "Citation"
 ],
 "speaker": "Gabriel Attal"
+},
+{
+"id": "ca0683d705bcd8fb",
+"title": "Evénement : 108e Congrès des maires : Le débat exceptionnel Lecornu, Larcher, Lisnard à suivre en exclusivité sur Public Sénat - demain à 14h50",
+"link": "https://pro.publicsenat.fr/actualites/evenement-108e-congres-des-maires-le-debat-exceptionnel-lecornu-larcher-lisnard-a-suivre-en-exclusivite-sur-public-senat-demain-a-15h-14f71-02e48.html",
+"summary": "Partenaire de premier plan depuis plus de 20 ans de l’Association des maires de France, Public Sénat diffuse jeudi 26 novembre dès 14h, en direct et en intégralité, la séance de clôture de l’événement sur le canal 8 de la TNT\nÀ cette occasion, à 14h50, Public Sénat proposera un débat exceptionnel entre :\nDavid…",
+"source": "Public Sénat",
+"date": "2026-11-25T15:57:18+00:00",
+"added": "2026-11-26T08:11:03+00:00",
+"official": false,
+"also": [],
+"base": [
+"parlement"
+],
+"filtered": true,
+"topics": [
+"elysee",
+"parlement",
+"partis"
+],
+"natures": [],
+"speaker": ""
 },
 {
 "id": "26c6a9983e097177",
@@ -4873,6 +5442,27 @@
 "speaker": ""
 },
 {
+"id": "d23a0ddbd5feaf18",
+"title": "Le Sénat adopte une mutuelle à 2 euros par jour pour les retraités, voici en quoi elle pourrait consister",
+"link": "https://rmc.bfmtv.com/conso/aides-sociales/le-senat-adopte-une-mutuelle-a-2-euros-par-jour-pour-les-retraites-voici-en-quoi-elle-pourrait-consister_AN-202611250402.html",
+"summary": "Le Sénat a voté pour la création d'une mutuelle à deux euros par jour pour les retraités (photo d'illustration). - DR\nDepuis quelques années, les mutuelles santé coûtent de plus en plus cher, notamment pour les publics les plus démunis comme les retraités.",
+"source": "RMC",
+"date": "2026-11-25T08:57:27+00:00",
+"added": "2026-11-26T08:11:03+00:00",
+"official": false,
+"also": [],
+"base": [
+"matinales"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "8708a6d896c69e59",
 "title": "Présence d'un procureur au siège du RN : le député RN Jean-Philippe Tanguy juge l'affaire \"totalement insignifiante\"",
 "link": "https://www.franceinfo.fr/politique/front-national/presence-d-un-procureur-au-siege-du-rn-le-depute-rn-jean-philippe-tanguy-juge-l-affaire-totalement-insignifiante_8298999.html#xtor=RSS-3-%5Bpolitique%5D",
@@ -6846,6 +7436,29 @@
 "Citation"
 ],
 "speaker": "Manuel Bompard"
+},
+{
+"id": "24c0939379413cb7",
+"title": "Soupçons de fuite vers le RN: le maire d'Orléans estime que le préfet Hugues Moutouh \"a eu la classe\" de démissionner",
+"link": "https://www.bfmtv.com/police-justice/soupcons-de-fuite-vers-le-rn-le-maire-d-orleans-estime-que-le-prefet-hugues-moutouh-a-eu-la-classe-de-demissionner_AV-202611240970.html",
+"summary": "Soupçonné d'avoir divulgué des informations confidentielles au Rassemblement national sur les enquêtes concernant le parti à la flamme, ce que nie Jordan Bardella, le préfet du Loiret, Hugues Moutouh, a demandé à être relevé de ses fonctions.",
+"source": "BFMTV",
+"date": "2026-11-24T20:53:47+00:00",
+"added": "2026-11-26T08:11:03+00:00",
+"official": false,
+"also": [],
+"base": [
+"matinales"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": ""
 },
 {
 "id": "bd525c5b19757ebe",
@@ -16811,6 +17424,28 @@
 "speaker": "Édouard Philippe"
 },
 {
+"id": "9fbc06525a2d2d76",
+"title": "Présidentielle 2027 : David Lisnard devance Edouard Philippe dans un sondage pour la première fois",
+"link": "https://www.lopinion.fr/politique/david-lisnard-devance-edouard-philippe-dans-un-sondage-pour-la-premiere-fois",
+"summary": "La « Lisnard-mania » quitte les réseaux pour les sondages. Le maire de Cannes, longtemps porté par un engouement en ligne que les enquêtes ignoraient, s’installe désormais dans les intentions de vote.",
+"source": "L'Opinion",
+"date": "2026-11-23T08:53:39+00:00",
+"added": "2026-11-26T08:11:03+00:00",
+"official": false,
+"also": [
+"BFMTV"
+],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "300e6eb0786dd64a",
 "title": "Le catho, Mélenchon et Les Restos du cœur",
 "link": "https://www.la-croix.com/politique/le-catho-melenchon-et-les-restos-du-cour-20261123",
@@ -17053,490 +17688,6 @@
 "natures": [
 "Citation"
 ],
-"speaker": ""
-},
-{
-"id": "070505d9d098ae11",
-"title": "Crise lycéenne: Valérie Pécresse, présidente LR de la région Île-de-France, veut que \"les dizaines de lycées\" visés par des tirs de mortiers \"soient équipés dans les trois mois de caméras de vidéoprotection\"",
-"link": "https://www.bfmtv.com/politique/les-republicains/video-crise-lyceenne-valerie-pecresse-presidente-lr-de-la-region-ile-de-france-veut-que-les-dizaines-de-lycees-vises-par-des-tirs-de-mortiers-soient-equipes-dans-les-trois-mois-de-cameras-de-videoprotection_VN-202611230314.html",
-"summary": "Valérie Pécresse, présidente Les Républicains de la région Île-de-France, était l’invitée du Face-à-Face de ce lundi 23 novembre sur BFMTV et RMC.",
-"source": "BFMTV",
-"date": "2026-11-23T08:02:21+00:00",
-"added": "2026-11-23T10:01:58+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"matinales",
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Valérie Pécresse"
-},
-{
-"id": "2c47f775a2e9fac0",
-"title": "Sens Public — Extrême droite : Le Pen, Meloni, Weidel peuvent-elles s’allier en Europe ?",
-"link": "https://www.publicsenat.fr/emission/sens-public/extreme-droite-le-pen-meloni-weidel-peuvent-elles-sallier-en-europe-e0",
-"summary": "Marine Le Pen, Giorgia Meloni, Alice Weidel : trois femmes à la tête de partis d’extrême droite parmi les plus puissants d’Europe.",
-"source": "Public Sénat",
-"date": "2026-11-23T08:00:11+00:00",
-"added": "2026-11-23T21:39:21+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "9a90e7feb15f3d2d",
-"title": "Présidentielle 2027 : pourquoi David Lisnard s’affirme comme le nouveau trublion de la droite et du centre",
-"link": "https://www.midilibre.fr/2026/11/23/presidentielle-2027-pourquoi-david-lisnard-saffirme-comme-le-nouveau-trublion-de-la-droite-et-du-centre-13666652.php",
-"summary": "Des sondages placent désormais le maire de Cannes devant Édouard Philippe dans le cadre d’un premier tour à l’élection présidentielle.",
-"source": "Midi Libre",
-"date": "2026-11-23T08:00:00+00:00",
-"added": "2026-11-23T10:01:58+00:00",
-"official": false,
-"also": [
-"Libération",
-"franceinfo"
-],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": "David Lisnard"
-},
-{
-"id": "c09c166a736ab616",
-"title": "Règle d'or budgétaire : «Il faut vraiment avoir honte de rien», lance François-Xavier Bellamy à Emmanuel Macron",
-"link": "https://www.europe1.fr/politique/regle-dor-budgetaire-il-faut-vraiment-avoir-honte-de-rien-lance-francois-xavier-bellamy-a-emmanuel-macron-1242586",
-"summary": "Invité de La Grande interview, François-Xavier Bellamy juge l'idée d'une règle d'or d'Emmanuel Macron tardive et rappelle l'envolée de la dette depuis 2011.",
-"source": "Europe 1",
-"date": "2026-11-23T07:58:24+00:00",
-"added": "2026-11-23T08:12:25+00:00",
-"official": false,
-"also": [],
-"base": [
-"matinales"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"elysee"
-],
-"natures": [
-"Citation"
-],
-"speaker": "François-Xavier Bellamy"
-},
-{
-"id": "a3c123227753ed4c",
-"title": "Dégradations au lycée Paul-Éluard de Saint-Denis: \"La facture, de 150.000 euros, je l'ai envoyée au procureur\", assure Valérie Pécresse (LR) concernant le signalement à la justice du préfet de police contre Bally Bagayoko (LFI)",
-"link": "https://www.bfmtv.com/politique/les-republicains/video-degradations-au-lycee-paul-eluard-de-saint-denis-la-facture-de-150-000-euros-je-l-ai-envoyee-au-procureur-assure-valerie-pecresse-lr-concernant-le-signalement-a-la-justice-du-prefet-de-police-contre-bally-bagayoko-lfi_VN-202611230307.html",
-"summary": "Valérie Pécresse, présidente Les Républicains de la région Île-de-France, était l’invitée du Face-à-Face de ce lundi 23 novembre sur BFMTV et RMC.",
-"source": "BFMTV",
-"date": "2026-11-23T07:57:31+00:00",
-"added": "2026-11-23T10:01:58+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"matinales",
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Paul-Éluard de Saint-Denis"
-},
-{
-"id": "7a3d37ac9698593a",
-"title": "Présidentielle 2027 : David Lisnard défend toujours une primaire, mais pose ses conditions",
-"link": "https://www.europe1.fr/politique/presidentielle-2027-david-lisnard-defend-toujours-une-primaire-mais-pose-ses-conditions-1242490",
-"summary": "David Lisnard continue de défendre l'idée d'une primaire de la droite et du centre, ouverte notamment à Éric Zemmour.",
-"source": "Europe 1",
-"date": "2026-11-23T07:56:00+00:00",
-"added": "2026-11-23T08:12:25+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [
-"Réaction"
-],
-"speaker": "David Lisnard"
-},
-{
-"id": "83cdb5909fd47e7b",
-"title": "Bonjour chez vous ! — BONJOUR CHEZ VOUS 26/11/25 Me P3",
-"link": "https://www.publicsenat.fr/emission/bonjour-chez-vous/bonjour-chez-vous-26-11-25-me-p3-e0",
-"summary": "Frédérique Puissat : « Il faut trouver le bon équilibre pour ne pas casser la restauration » Maurice Gourdault-Montagne : « Nous avons fait une erreur en pensant que Poutine était marginalisé »",
-"source": "Public Sénat",
-"date": "2026-11-23T07:55:49+00:00",
-"added": "2026-11-23T10:01:58+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"matinales"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "4a5ec4579d1c6ebb",
-"title": "Bonjour chez vous ! — David Lisnard : « Quand on va dans une compétition, ce n’est pas pour envisager la défaite »",
-"link": "https://www.publicsenat.fr/emission/bonjour-chez-vous/david-lisnard-quand-on-va-dans-une-competition-ce-nest-pas-pour-envisager-la-defaite-e0",
-"summary": "Congrès sous haute tension pour l’AMF : alors que les maires seront appelés mercredi à choisir le prochain président de l’association, les hostilités entre David Lisnard, candidat à sa succession, et son adversaire Philippe Laurent, maire UDI de Sceaux, sont déjà lancées.",
-"source": "Public Sénat",
-"date": "2026-11-23T07:55:44+00:00",
-"added": "2026-11-23T21:39:21+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"matinales",
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": "David Lisnard"
-},
-{
-"id": "3344aa4de4157b1d",
-"title": "\"Ce sont des contrats pour nos artisans qui vont disparaître\": le ministre du Logement estime que la suppression du DPE défendue par le RN \"n'est pas souhaitable\" et préfère assouplir le calendrier",
-"link": "https://www.bfmtv.com/immobilier/ce-sont-des-contrats-pour-nos-artisans-qui-vont-disparaitre-le-ministre-du-logement-estime-que-la-suppression-du-dpe-defendue-par-le-rn-n-est-pas-souhaitable-et-prefere-assouplir-le-calendrier_AV-202611230298.html",
-"summary": "L'issue du vote solennel sur le projet de loi de relance du logement prévu mardi s'annonce indécise.",
-"source": "BFMTV",
-"date": "2026-11-23T07:50:09+00:00",
-"added": "2026-11-23T10:01:58+00:00",
-"official": false,
-"also": [],
-"base": [
-"matinales"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"gouvernement",
-"parlement",
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": ""
-},
-{
-"id": "9cdd7bd163ec83d8",
-"title": "Primaire de la droite : «Il ne faut chercher aucun prétexte pour éviter» de la faire, juge François-Xavier Bellamy",
-"link": "https://www.europe1.fr/politique/primaire-de-la-droite-il-ne-faut-chercher-aucun-pretexte-pour-eviter-de-la-faire-juge-francois-xavier-bellamy-1242589",
-"summary": "L'eurodéputé et vice-président des Républicains François-Xavier Bellamy était l'invité de La Grande interview Europe 1-CNews ce lundi matin.",
-"source": "Europe 1",
-"date": "2026-11-23T07:46:00+00:00",
-"added": "2026-11-23T08:12:25+00:00",
-"official": false,
-"also": [],
-"base": [
-"matinales"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "François-Xavier Bellamy"
-},
-{
-"id": "a2a3295a4ab2b5c8",
-"title": "Blocages des lycées: \"Il faut qu'il y ait une responsabilisation\", défend Valérie Pécresse (LR) face aux dégradations",
-"link": "https://www.bfmtv.com/politique/video-blocages-des-lycees-il-faut-qu-il-y-ait-une-responsabilisation-defend-valerie-pecresse-lr-face-aux-degradations_VN-202611230294.html",
-"summary": "Valérie Pécresse, présidente LR de la région Île-de-France, ancienne candidate à la présidentielle, est l'invitée du Face à Face d'Apolline de Malherbe sur RMC et BFMTV.",
-"source": "BFMTV",
-"date": "2026-11-23T07:45:41+00:00",
-"added": "2026-11-23T10:01:58+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "Valérie Pécresse"
-},
-{
-"id": "04f4eeb30a66a4c2",
-"title": "Présidentielle 2027 : Marylise Léon redoute de \"très, très fortes tensions\" si le second tour est maintenu le 2 mai",
-"link": "https://www.franceinfo.fr/elections/presidentielle-2027-marylise-leon-redoute-de-tres-tres-fortes-tensions-si-le-second-tour-est-maintenu-le-2-mai_8295602.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "De nombreuses voix s'élèvent pour décaler le second tour de l'élection qui est prévu au lendemain des manifestations du 1er-Mai.",
-"source": "franceinfo",
-"date": "2026-11-23T07:44:09+00:00",
-"added": "2026-11-23T08:12:25+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "efb38252ffab55c3",
-"title": "Crise lycéenne: Valérie Pécresse, présidente LR de la région Île-de-France, craint \"une grande démission des proviseurs\"",
-"link": "https://www.bfmtv.com/politique/les-republicains/video-crise-lyceenne-valerie-pecresse-presidente-lr-de-la-region-ile-de-france-craint-une-grande-demission-des-proviseurs_VN-202611230288.html",
-"summary": "Valérie Pécresse, présidente Les Républicains de la région Île-de-France, était l’invitée du Face-à-Face de ce lundi 23 novembre sur BFMTV et RMC.",
-"source": "BFMTV",
-"date": "2026-11-23T07:41:20+00:00",
-"added": "2026-11-23T10:01:58+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"matinales",
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "cd72b3b51487fdcb",
-"title": "\"Marine Tondelier est soumise à LFI\" : Daniel Cohn-Bendit condamne sur RTL le ralliement de la candidate écologiste à Jean-Luc Mélenchon",
-"link": "https://www.rtl.fr/actu/politique/marine-tondelier-est-soumise-a-lfi-daniel-cohn-bendit-condamne-sur-rtl-le-ralliement-de-la-candidate-ecologiste-a-jean-luc-melenchon-7900699236",
-"summary": "Daniel Cohn-Bendit et Marc-Olivier Fogiel, le 23 novembre 2026 sur RTL\n\"Marine Tondelier est soumise à LFI\" : Daniel Cohn-Bendit condamne sur RTL la volonté de négocier de l'écologiste avec Jean-Luc Mélenchon pour la présidentielle\n\"Marine Tondelier est soumise à LFI\" : Daniel Cohn-Bendit condamne sur RTL la volonté…",
-"source": "RTL",
-"date": "2026-11-23T07:32:11+00:00",
-"added": "2026-11-23T08:12:25+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "Daniel Cohn-Bendit"
-},
-{
-"id": "58bb87c94a12723b",
-"title": "Présidentielle 2027 : «Je ne doute pas que David Lisnard et Bruno Retailleau seront dans le même camp le soir du premier tour», glisse François-Xavier Bellamy",
-"link": "https://www.cnews.fr/france/2026-11-23/presidentielle-2027-je-ne-doute-pas-que-david-lisnard-et-bruno-retailleau-seront",
-"summary": "«Je ne doute pas que David Lisnard et Bruno Retailleau seront dans le même camp le soir du premier tour» de l'élection présidentielle de 2027, a glissé l'eurodéputé et vice-président des Républicains François-Xavier Bellamy, ce lundi lors de La Grande Interview sur CNEWS.",
-"source": "CNews",
-"date": "2026-11-23T07:32:00+00:00",
-"added": "2026-11-23T08:12:25+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "François-Xavier Bellamy"
-},
-{
-"id": "ce99fe548cb6b098",
-"title": "Présidentielle 2027 : à qui le maire de Marseille va-t-il donner son parrainage ?",
-"link": "https://www.laprovence.com/article/politique/1537922302323115/presidentielle-2027-a-qui-le-maire-de-marseille-va-t-il-donner-son-parrainage",
-"summary": "Interrogé ce lundi matin sur France 2, Benoît Payan a répondu à la question du journaliste qui l'interviewait : \"Allez-vous parrainer un candidat à l'élection présidentielle ?\", le maire de Marseille a tout simplement lancé : \"Oui\".",
-"source": "La Provence",
-"date": "2026-11-23T07:31:45+00:00",
-"added": "2026-11-23T08:12:25+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "fae52200dc14e708",
-"title": "EDITO. Marine Le Pen veut couper les vivres aux \"associations politisées\" comme le Planning familial ou la Ligue des droits de l'homme",
-"link": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-marine-le-pen-veut-couper-les-vivres-aux-associations-politisees-comme-le-planning-familial-ou-la-ligue-des-droits-de-l-homme_8273873.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "Marine Le Pen a répété, dimanche sur France-Inter, que, si elle est élue présidente, elle coupera les subventions publiques aux associations qu’elle considère comme \"politisées\".",
-"source": "franceinfo",
-"date": "2026-11-23T07:22:35+00:00",
-"added": "2026-11-23T08:12:25+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Marine Le Pen"
-},
-{
-"id": "3e2dea71d313f1be",
-"title": "Une « règle d’or » budgétaire ? Macron confirme y songer, mais scrute ces facteurs précis",
-"link": "https://www.huffingtonpost.fr/politique/article/une-regle-d-or-budgetaire-macron-confirme-y-songer-mais-scrute-un-facteur-precis_363299.html",
-"summary": "La France emprunte cher, sa dette continue de gonfler et les marchés scrutent avec inquiétude la situation du pays.",
-"source": "Le HuffPost",
-"date": "2026-11-23T07:13:34+00:00",
-"added": "2026-11-23T08:12:25+00:00",
-"official": false,
-"also": [],
-"base": [
-"elysee"
-],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Emmanuel Macron"
-},
-{
-"id": "ee9436d924e0bc4a",
-"title": "Vincent Jeanbrun (Ministère de la ville et du logement) : Budget, vers une \"règle d'or\" constitutionnelle ? - 23/11",
-"link": "https://www.bfmtv.com/economie/replay-emissions/le-grand-entretien/video-vincent-jeanbrun-ministere-de-la-ville-et-du-logement-budget-vers-une-regle-d-or-constitutionnelle-23-11_VN-202611230232.html",
-"summary": "VIDÉO - Vincent Jeanbrun, ministre de la ville et du logement, était l'invité de Brigitte Boucher dans Good Morning Business, ce lundi 23 novembre.",
-"source": "BFMTV",
-"date": "2026-11-23T07:05:23+00:00",
-"added": "2026-11-23T08:12:25+00:00",
-"official": false,
-"also": [],
-"base": [
-"matinales"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"gouvernement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "be64f4beb137e0d2",
-"title": "Règle d’or budgétaire : Emmanuel Macron «explore l’idée» de s’en emparer, la droite et l’extrême droite s’en réjouissent",
-"link": "https://www.liberation.fr/economie/regle-dor-budgetaire-emmanuel-macron-reflechit-a-sen-emparer-la-droite-et-lextreme-droite-sen-rejouissent-20261122_BPFY5UQC7VGJNMGJO35GLLOZJQ/",
-"summary": "En fonction de la «volatilité» sur les marchés, le chef de l’Etat songe à convoquer un Congrès en janvier pour introduire dans la Constitution une contrainte budgétaire visant à réduire le déficit public.",
-"source": "Libération",
-"date": "2026-11-23T07:01:38+00:00",
-"added": "2026-11-25T19:44:43+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "54377d59cb005249",
-"title": "Toute l’info en 2 minutes : Fiasco de la COP31, Ruffin courtisé et le RN dément avoir été aidé par le préfet",
-"link": "https://www.20minutes.fr/societe/4264992-20261123-toute-info-2-minutes-echec-cop31-ruffin-courtise-prefet-soupconne-aider-rn?at_medium=display&at_campaign=149",
-"summary": "Vous avez manqué les infos de ce début de matinée ? On vous a concocté un récap pour vous aider à y voir plus clair et briller à la machine à café.",
-"source": "20 Minutes",
-"date": "2026-11-23T07:00:13+00:00",
-"added": "2026-11-23T08:12:25+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "9b9f0f9adcdfacf8",
-"title": "Présidentielle 2027 : les créateurs de contenus politiques vont-ils devoir donner la parole à tous les partis ?",
-"link": "https://www.nouvelobs.com/politique/20261123.OBS120369/le-pluralisme-politique-peut-il-vraiment-s-appliquer-aux-createurs-de-contenus-l-extension-des-regles-de-l-arcom-pour-la-presidentielle-fait-debat.html",
-"summary": "La chaîne YouTube HugoDécrypte, animée par le journaliste Hugo Travers, est suivie par plus de 3,80 millions d’abonnés.",
-"source": "Le Nouvel Obs",
-"date": "2026-11-23T07:00:06+00:00",
-"added": "2026-11-23T14:14:40+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "5f6530b8a57ebfd9",
-"title": "Si le RN arrive au pouvoir, «les gens d'extrême droite vont tuer des noirs et des arabes» : le gros dérapage de l'ancienne ministre socialiste Ségolène Royal",
-"link": "https://www.cnews.fr/france/2026-11-23/si-le-rn-arrive-au-pouvoir-les-gens-dextreme-droite-vont-tuer-des-noirs-et-des",
-"summary": "Lors d'un débat télévisé ce dimanche 22 novembre, Ségolène Royal a commis un gros dérapage au moment d'évoquer une possible arrivée du Rassemblement national au pouvoir, laissant entendre qu'elle permettrait aux gens d'extrême droite de tuer des «noirs et des arabes».",
-"source": "CNews",
-"date": "2026-11-23T06:54:39+00:00",
-"added": "2026-11-23T10:01:58+00:00",
-"official": false,
-"also": [
-"Le Figaro"
-],
-"base": [
-"matinales"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"gouvernement",
-"partis"
-],
-"natures": [],
 "speaker": ""
 }
 ]
