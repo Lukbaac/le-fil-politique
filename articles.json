@@ -1,5 +1,457 @@
 [
 {
+"id": "8381796182e65a1c",
+"title": "Depuis Bruxelles, Emmanuel Macron reproche à Marine Le Pen de faire preuve d’une « drôle d’arrogance de penser qu’elle serait déjà en charge du destin de la France »",
+"link": "https://www.lemonde.fr/politique/article/2026/11/26/emmanuel-macron-rabroue-marine-le-pen-et-sa-drole-d-arrogance_6815601_823448.html",
+"summary": "La candidate du parti d’extrême droite avait auparavant dénoncé « de basses manœuvres politiciennes » pour conclure d’ici la fin de l’année un accord sur le budget européen pluriannuel qui serait difficile à remettre en cause si elle remportait la présidentielle.",
+"source": "Le Monde",
+"date": "2026-11-26T21:31:24+00:00",
+"added": "2026-11-26T21:41:23+00:00",
+"official": false,
+"also": [
+"BFMTV"
+],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Emmanuel Macron"
+},
+{
+"id": "0689e2a0b6dc5f5e",
+"title": "Présidentielle 2027 : sur l’Ukraine, Teddy Riner persiste, Emmanuel Macron appelle à ne pas « créer de doute »",
+"link": "https://www.sudouest.fr/elections/presidentielle/presidentielle-2027-sur-l-ukraine-teddy-riner-persiste-emmanuel-macron-appelle-a-ne-pas-creer-de-doute-31687891.php",
+"summary": "",
+"source": "Sud Ouest",
+"date": "2026-11-26T21:20:05+00:00",
+"added": "2026-11-26T21:41:23+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"elysee",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Emmanuel Macron"
+},
+{
+"id": "27f123f71c20a976",
+"title": "Soupçons de fuites au profit du RN : Le magistrat surpris au siège du parti a admis qu’il connaissait le dossier",
+"link": "https://www.20minutes.fr/politique/4266146-20261126-soupcons-fuites-profit-rn-magistrat-surpris-siege-parti-admis-connaissait-dossier?at_medium=display&at_campaign=149",
+"summary": "Christian de Rocquigny a reconnu devant la procureure générale de Paris qu’il avait eu connaissance dès la fin juillet du dossier des fuites présumées au profit du Rassemblement national.",
+"source": "20 Minutes",
+"date": "2026-11-26T21:16:28+00:00",
+"added": "2026-11-26T21:41:23+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "5fd2c70451bbf360",
+"title": "Emmanuel Macron",
+"link": "https://www.bfmtv.com/politique/emmanuel-macron_DN-201609010121.html",
+"summary": "Emmanuel Macron a été élu président de la République en 2017 et 2022 après avoir participé au gouvernement sous François Hollande en tant que ministre de l'Économie.",
+"source": "BFMTV",
+"date": "2026-11-26T21:03:36+00:00",
+"added": "2026-11-26T21:41:23+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "a4ae3cb81b2e9a0f",
+"title": "\"Je ne fais pas campagne et je ne la commente pas\", assure Emmanuel Macron",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-je-ne-fais-pas-campagne-et-je-ne-la-commente-pas-assure-emmanuel-macron_VN-202611260990.html",
+"summary": "\"Madame Le Pen elle fait campagne, et c'est une drôle d'arrogance de penser qu'elle serait déjà en charge du destin de la France\" déclare Emmanuel Macron, président de la République",
+"source": "BFMTV",
+"date": "2026-11-26T20:53:01+00:00",
+"added": "2026-11-26T21:41:23+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Emmanuel Macron"
+},
+{
+"id": "961288e44026581c",
+"title": "INTERVIEW. « En Ukraine, nos militaires opèrent à distance de la ligne de front », assure la ministre déléguée aux Armées Alice Rufo",
+"link": "https://www.sudouest.fr/international/europe/ukraine/interview-en-ukraine-nos-militaires-operent-a-distance-de-la-ligne-de-front-assure-la-ministre-deleguee-aux-armees-alice-rufo-31683145.php",
+"summary": "",
+"source": "Sud Ouest",
+"date": "2026-11-26T20:49:56+00:00",
+"added": "2026-11-26T21:41:23+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [
+"Citation",
+"Interview"
+],
+"speaker": ""
+},
+{
+"id": "784750126cb468cc",
+"title": "«Il faut plus d’humilité quand on fait campagne, même si on s’y voit déjà» : le coup de griffe d’Emmanuel Macron à Marine Le Pen",
+"link": "https://www.liberation.fr/politique/il-faut-plus-dhumilite-quand-on-fait-campagne-meme-si-on-sy-voit-deja-le-coup-de-griffe-demmanuel-macron-a-marine-le-pen-20261126_TU3AVQHAZVBLNF5V6HXRAGMRNM/",
+"summary": "Lors d’une conférence de presse au cours d’un sommet européen à Bruxelles, le président français a critiqué ce jeudi 26 novembre «la drôle d’arrogance» de la candidate du Rassemblement national à l’élection présidentielle en France.",
+"source": "Libération",
+"date": "2026-11-26T20:47:39+00:00",
+"added": "2026-11-26T21:41:23+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "31f749f9e72f7fb1",
+"title": "Accusé d'antisémitisme, Bardella conteste formellement - 26/11",
+"link": "https://www.bfmtv.com/replay-emissions/100-mabrouk/video-accuse-d-antisemitisme-bardella-conteste-formellement-26-11_VN-202611260985.html",
+"summary": "VIDÉO - Retrouvez le replay de 100% Mabrouk sur BFMTV.",
+"source": "BFMTV",
+"date": "2026-11-26T20:44:20+00:00",
+"added": "2026-11-26T21:41:23+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Réaction"
+],
+"speaker": "Jordan Bardella"
+},
+{
+"id": "6127ada7280034fc",
+"title": "Attentat de Trappes : Emmanuel Macron et Sébastien Lecornu ont rendu visite cette semaine aux victimes",
+"link": "https://www.lamontagne.fr/trappes-78190/faits-divers/attentat-de-trappes-emmanuel-macron-et-sebastien-lecornu-ont-rendu-visite-cette-semaine-aux-victimes_15092943/",
+"summary": "",
+"source": "La Montagne",
+"date": "2026-11-26T20:44:00+00:00",
+"added": "2026-11-26T21:41:23+00:00",
+"official": false,
+"also": [],
+"base": [
+"elysee"
+],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "a6bdc7c05760a909",
+"title": "Le défilé des candidats au Salon des maires, rendez-vous incontournable de la campagne présidentielle",
+"link": "https://www.lemonde.fr/politique/article/2026/11/26/le-defile-des-candidats-au-salon-des-maires-rendez-vous-incontournable-de-la-campagne-presidentielle_6815600_823448.html",
+"summary": "Aux exceptions notables de Marine Le Pen et de Jean-Luc Mélenchon, les postulants à l’Elysée sont venus, mercredi, au Parc des expositions à Paris, prendre le pouls des élus locaux et chercher, pour certains, les précieux parrainages.",
+"source": "Le Monde",
+"date": "2026-11-26T20:42:09+00:00",
+"added": "2026-11-26T21:41:23+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "08970bda6c7b79e1",
+"title": "\"Si on abandonnait l'Ukraine, on mettrait en péril notre sécurité à court ou moyen terme\", affirme Emmanuel Macron",
+"link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/si-on-abandonnait-l-ukraine-on-mettrait-en-peril-notre-securite-a-court-ou-moyen-terme-affirme-emmanuel-macron_8302044.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "Cette prise de parole intervient alors que la veille, Teddy Riner, candidat surprise à l'élection présidentielle, a affirmé, à propos du conflit : \"Je ne comprends pas qu'on envoie des troupes en Ukraine, ce n'est pas notre guerre.\"",
+"source": "franceinfo",
+"date": "2026-11-26T20:36:36+00:00",
+"added": "2026-11-26T21:41:23+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Emmanuel Macron"
+},
+{
+"id": "902c56b13d960f90",
+"title": "«Avec Jean-Luc Mélenchon, nous sommes les deux lignes qui vont trancher le destin de la France», avance Éric Zemmour",
+"link": "https://www.cnews.fr/france/2026-11-26/avec-jean-luc-melenchon-nous-sommes-les-deux-lignes-qui-vont-trancher-le-destin",
+"summary": "Invité sur CNEWS ce jeudi, Éric Zemmour, candidat Reconquête! à la présidentielle, est revenu sur son opposition avec Jean-Luc Mélenchon.",
+"source": "CNews",
+"date": "2026-11-26T20:24:14+00:00",
+"added": "2026-11-26T21:41:23+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "ff9d7d01f2979e76",
+"title": "«Les électeurs de Marine Le Pen s'apprêtent à voter pour une femme de gauche», prévient Éric Zemmour",
+"link": "https://www.cnews.fr/france/2026-11-26/les-electeurs-de-marine-le-pen-sappretent-voter-pour-une-femme-de-gauche-previent",
+"summary": "Sur CNEWS, ce jeudi 26 novembre, Eric Zemmour a qualifié Marine Le Pen de «femme de gauche» en raison de certaines de ses convictions politiques.",
+"source": "CNews",
+"date": "2026-11-26T20:18:16+00:00",
+"added": "2026-11-26T21:41:23+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Éric Zemmour"
+},
+{
+"id": "504378de1e7ba507",
+"title": "\"Une drôle d'arrogance\" : Emmanuel Macron accuse Marine Le Pen de se comporter comme si elle avait déjà gagné la présidentielle",
+"link": "https://www.rtl.fr/actu/politique/une-drole-d-arrogance-emmanuel-macron-accuse-marine-le-pen-de-se-comporter-comme-si-elle-avait-deja-gagne-la-presidentielle-7900701110",
+"summary": "Emmanuel Macron a reproché jeudi à Marine Le Pen de faire preuve d'une \"drôle d'arrogance\", en réponse aux critiques de la candidate du Rassemblement national à la présidentielle française sur les négociations budgétaires de l'Union européenne.",
+"source": "RTL",
+"date": "2026-11-26T20:18:15+00:00",
+"added": "2026-11-26T21:41:23+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"elysee",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "Emmanuel Macron"
+},
+{
+"id": "9a3f60eb3ba91617",
+"title": "Présidentielle 2027 : Édouard Philippe veut « dépenser mieux » pour la santé, une « fierté française »",
+"link": "https://www.lefigaro.fr/politique/presidentielle-2027-edouard-philippe-veut-depenser-mieux-pour-la-sante-une-fierte-francaise-20261126",
+"summary": "DÉCRYPTAGE - Vaccins obligatoires, lutte contre les « déserts médicaux », loi contre l’exposition des jeunes aux écrans…",
+"source": "Le Figaro",
+"date": "2026-11-26T20:15:00+00:00",
+"added": "2026-11-26T21:41:23+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Édouard Philippe"
+},
+{
+"id": "dd3cc0116c58e5b1",
+"title": "Présidentielle 2027 : «J'ai changé d'avis sur la primaire», assume Éric Zemmour",
+"link": "https://www.cnews.fr/france/2026-11-26/presidentielle-2027-jai-change-davis-sur-la-primaire-assume-eric-zemmour-1961840",
+"summary": "«J'ai changé d'avis sur la primaire», a affirmé Éric Zemmour, candidat Reconquête! à l'élection présidentielle, dans Objectif Élysée 2027 sur CNEWS.",
+"source": "CNews",
+"date": "2026-11-26T20:13:04+00:00",
+"added": "2026-11-26T21:41:23+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"elysee",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Éric Zemmour"
+},
+{
+"id": "6ffeaac5389e2002",
+"title": "Présidentielle 2027 : Emmanuel Macron tacle la « drôle d’arrogance » de Marine Le Pen",
+"link": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-emmanuel-macron-tacle-la-drole-darrogance-de-marine-le-pen-26-11-2026-TUL24VDTWZF6XP7FMOENF4JKMQ.php",
+"summary": "",
+"source": "Le Parisien",
+"date": "2026-11-26T20:11:05+00:00",
+"added": "2026-11-26T21:41:23+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"elysee",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "Emmanuel Macron"
+},
+{
+"id": "b073c00c5bb4c514",
+"title": "Le procureur surpris au siège du RN a admis qu’il avait connaissance de l’affaire des fuites",
+"link": "https://www.la-croix.com/politique/le-procureur-surpris-au-siege-du-rn-a-admis-qu-il-avait-connaissance-de-laffaire-des-fuites-20261126",
+"summary": "Surpris au siège du RN lors d’une perquisition le 9 novembre, le procureur adjoint Christian de Rocquigny a admis devant Marie-Suzanne Le Quéau connaître le dossier des fuites visant le parti d’extrême droite, sans pour autant reconnaître de manquement délibéré, a-t-on appris jeudi 26 novembre.",
+"source": "La Croix",
+"date": "2026-11-26T20:07:43+00:00",
+"added": "2026-11-26T21:41:23+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "8cea4f6924f0d460",
+"title": "Présidentielle 2027 : Macron critique la «drôle d'arrogance» de Le Pen, en réponse à ses critiques sur les négociations budgétaires de l’UE",
+"link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-macron-critique-la-drole-d-arrogance-de-le-pen-en-reponse-a-ses-critiques-sur-les-negociations-budgetaires-de-l-ue-20261126",
+"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
+"source": "Le Figaro",
+"date": "2026-11-26T20:07:05+00:00",
+"added": "2026-11-26T21:41:23+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"elysee",
+"presidentielle"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "Emmanuel Macron"
+},
+{
+"id": "1d930b027674f14c",
+"title": "Présidentielle 2027 : «J'ai le programme le plus sérieux, complet et courageux», estime Éric Zemmour",
+"link": "https://www.cnews.fr/france/2026-11-26/presidentielle-2027-jai-le-programme-le-plus-serieux-complet-et-courageux-estime",
+"summary": "Invité exceptionnel d'Objectif Élysée 2027, Éric Zemmour, candidat Reconquête! à l'élection présidentielle a estimé que son programme était le plus sérieux pour 2027.",
+"source": "CNews",
+"date": "2026-11-26T20:05:33+00:00",
+"added": "2026-11-26T21:41:23+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"elysee",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Éric Zemmour"
+},
+{
+"id": "ea97bfa221842b1f",
+"title": "2027 : \"Jean-Luc Mélenchon a-t-il gagné la chance d'accéder à l'Élysée ?\", Rachel Garrat-Valcarcel, journaliste",
+"link": "https://www.franceinfo.fr/elections/2027-jean-luc-melenchon-a-t-il-gagne-la-chance-d-acceder-a-l-elysee-rachel-garrat-valcarcel-journaliste_8301951.html",
+"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
+"source": "franceinfo",
+"date": "2026-11-26T20:00:02+00:00",
+"added": "2026-11-26T21:41:23+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"elysee",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "8ffdde2dc05cd8f0",
 "title": "Ecrits antisémites de Bardella : le RN coincé entre dénégation du passé et dédiabolisation",
 "link": "https://www.liberation.fr/politique/elections/ecrits-antisemites-de-bardella-le-rn-coince-entre-denegation-du-passe-et-dediabolisation-20261126_CEQ53D6KRVDD7OOTTKN5CXNBKY/",
@@ -186,6 +638,28 @@
 "speaker": ""
 },
 {
+"id": "f56931bc87690ba5",
+"title": "«Édouard Philippe se dit de droite mais cherche les applaudissements de la gauche», lance Jordan Bardella",
+"link": "https://www.cnews.fr/france/2026-11-26/edouard-philippe-se-dit-de-droite-mais-cherche-les-applaudissements-de-la-gauche",
+"summary": "D'après Jordan Bardella, président du Rassemblement national, «Édouard Philippe se dit de droite mais cherche les applaudissements de la gauche».",
+"source": "CNews",
+"date": "2026-11-26T19:06:16+00:00",
+"added": "2026-11-26T21:41:23+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Jordan Bardella"
+},
+{
 "id": "badda928a7eb2847",
 "title": "Guerre en Ukraine: \"Je ne veux pas que l'Otan avance en Ukraine, je ne veux pas que l'Ukraine rentre dans l'Union Européenne\", déclare Nicolas Dupont-Aignan, candidat \"Debout la France\" à l'élection présidentielle",
 "link": "https://www.bfmtv.com/politique/video-guerre-en-ukraine-je-ne-veux-pas-que-l-otan-avance-en-ukraine-je-ne-veux-pas-que-l-ukraine-rentre-dans-l-union-europeenne-declare-nicolas-dupont-aignan-candidat-debout-la-france-a-l-election-presidentielle_VN-202611260935.html",
@@ -335,7 +809,9 @@
 "date": "2026-11-26T18:48:48+00:00",
 "added": "2026-11-26T19:52:43+00:00",
 "official": false,
-"also": [],
+"also": [
+"BFMTV"
+],
 "base": [
 "partis"
 ],
@@ -347,6 +823,26 @@
 "Citation"
 ],
 "speaker": "Jordan Bardella"
+},
+{
+"id": "4c731fbd232f396a",
+"title": "HEC Débats – Public Sénat : suivez en direct la rencontre avec Jean-Noël Barrot",
+"link": "https://www.publicsenat.fr/actualites/international/hec-debats-public-senat-suivez-en-direct-la-rencontre-avec-jean-noel-barrot",
+"summary": "Jean-Noël Barrot, ministre de l'Europe et des Affaires étrangères, est l'invité de HEC Débats ce soir, jeudi 26 novembre, à partir de 20H, en partenariat avec Public Sénat.",
+"source": "Public Sénat",
+"date": "2026-11-26T18:45:00+00:00",
+"added": "2026-11-26T21:41:23+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"gouvernement",
+"parlement"
+],
+"natures": [],
+"speaker": ""
 },
 {
 "id": "2def843d54860059",
@@ -494,6 +990,26 @@
 "speaker": "Thomas Elexhauser"
 },
 {
+"id": "a26e508df35eae01",
+"title": "Présidentielle 2027 : pourquoi les candidats parlent si peu de santé, pourtant une des priorités des Français ?",
+"link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-pourquoi-les-candidats-parlent-si-peu-de-sante-pourtant-une-des-priorites-des-francais-20261126",
+"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
+"source": "Le Figaro",
+"date": "2026-11-26T18:30:00+00:00",
+"added": "2026-11-26T21:41:23+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "3d6e1d934e9cafce",
 "title": "Bardella, Lavalette… la dédiabolisation du RN à l’épreuve des affaires d’antisémitisme",
 "link": "https://www.france24.com/fr/france/20261126-france-jordan-bardella-laure-lavalette-dediabolisation-rassemblement-national-epreuve-affaires-antisemitisme",
@@ -542,7 +1058,10 @@
 "date": "2026-11-26T18:21:21+00:00",
 "added": "2026-11-26T19:52:43+00:00",
 "official": false,
-"also": [],
+"also": [
+"Sud Ouest",
+"RTL"
+],
 "base": [
 "partis"
 ],
@@ -747,7 +1266,14 @@
 "date": "2026-11-26T18:05:55+00:00",
 "added": "2026-11-26T19:52:43+00:00",
 "official": false,
-"also": [],
+"also": [
+"Le Monde",
+"franceinfo",
+"20 Minutes",
+"Le HuffPost",
+"Le Figaro",
+"Le Parisien"
+],
 "base": [
 "partis"
 ],
@@ -810,7 +1336,9 @@
 "date": "2026-11-26T18:00:32+00:00",
 "added": "2026-11-26T19:52:43+00:00",
 "official": false,
-"also": [],
+"also": [
+"Le Dauphiné Libéré"
+],
 "base": [
 "presidentielle"
 ],
@@ -822,6 +1350,28 @@
 "Citation"
 ],
 "speaker": "David Lisnard"
+},
+{
+"id": "f5566867927e9456",
+"title": "Pour Jordan Bardella, “il est difficile d’imaginer une autre défense que nier” les écrits antisémites",
+"link": "https://www.nouvelobs.com/politique/20261126.OBS120467/ecrits-antisemites-il-est-difficile-d-imaginer-une-autre-defense-pour-bardella-que-nier.html",
+"summary": "Jordan Bardella lors d’une conférence de presse, au siège du RN, à Paris, le 19 octobre 2026. BASTIEN OHIER/HANS LUCAS VIA AFP\nS’abonner permet de commenter les articles.",
+"source": "Le Nouvel Obs",
+"date": "2026-11-26T18:00:10+00:00",
+"added": "2026-11-26T21:41:23+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Jordan Bardella"
 },
 {
 "id": "8d3f754f4149e4ed",
@@ -1078,6 +1628,28 @@
 ],
 "natures": [],
 "speaker": ""
+},
+{
+"id": "226fa899b5ee9635",
+"title": "Présidentielle : « J’ai mon plan qui est prévu depuis le départ, de façon minutieuse », défend David Lisnard",
+"link": "https://www.publicsenat.fr/actualites/politique/presidentielle-jai-mon-plan-qui-est-prevu-depuis-le-depart-de-facon-minutieuse-defend-david-lisnard",
+"summary": "Le président réélu de l’Association des maires de France, David Lisnard, a accordé une interview à Public Sénat en clôture du 108e congrès de son association.",
+"source": "Public Sénat",
+"date": "2026-11-26T17:09:24+00:00",
+"added": "2026-11-26T21:41:23+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement",
+"presidentielle"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "David Lisnard"
 },
 {
 "id": "f90528157cfc00a2",
@@ -1685,7 +2257,8 @@
 "added": "2026-11-26T15:50:16+00:00",
 "official": false,
 "also": [
-"20 Minutes"
+"20 Minutes",
+"RTL"
 ],
 "base": [],
 "filtered": true,
@@ -1887,7 +2460,8 @@
 "added": "2026-11-26T15:50:16+00:00",
 "official": false,
 "also": [
-"CNews"
+"CNews",
+"Public Sénat"
 ],
 "base": [],
 "filtered": true,
@@ -2155,6 +2729,27 @@
 "speaker": "Hervé Morin"
 },
 {
+"id": "7b7a3a673d8a0093",
+"title": "Annulation des partiels ou note plancher ? « Pas question », acte le ministre de l’Enseignement supérieur",
+"link": "https://www.huffingtonpost.fr/politique/article/annulation-des-partiels-ou-note-plancher-pas-question-acte-le-ministre-de-l-enseignement-superieur_365315.html",
+"summary": "Pas d’annulation à l’horizon, mais plutôt de longs sermons. Au micro de franceinfo ce jeudi 26 novembre, le ministre de l’Enseignement supérieur Philippe Baptiste a fermé la porte à une suppression des partiels ou aux notes plancher pour le premier semestre.",
+"source": "Le HuffPost",
+"date": "2026-11-26T14:26:00+00:00",
+"added": "2026-11-26T21:41:23+00:00",
+"official": false,
+"also": [],
+"base": [
+"matinales"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"gouvernement"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "489b80c8ae9a8109",
 "title": "Le maire des Portes-du-Coglais, Aymar de Gouvion Saint-Cyr, apporte son soutien à David Lisnard pour l’élection présidentielle",
 "link": "https://www.ouest-france.fr/elections/presidentielle/le-maire-des-portes-du-coglais-aymar-de-gouvion-saint-cyr-apporte-son-soutien-a-david-lisnard-pour-lelection-presidentielle-5b5d203e-e97f-11f1-9b33-2f81462d3339",
@@ -2257,6 +2852,28 @@
 ],
 "natures": [],
 "speaker": ""
+},
+{
+"id": "e31b19dc4c73222a",
+"title": "Suppression de la loi SRU dans le programme de David Lisnard ? : « Une loi démagogique », selon Sébastien Leroy, maire Nouvelle Énergie",
+"link": "https://www.publicsenat.fr/actualites/politique/suppression-de-la-loi-sru-dans-le-programme-de-david-lisnard-une-loi-demagogique-selon-sebastien-leroy-maire-nouvelle-energie",
+"summary": "« Un scoop », selon le maire PS de Chambéry, Thierry Repentin, sur le plateau de Public Sénat ce jeudi, au dernier jour du Congrès des maires.",
+"source": "Public Sénat",
+"date": "2026-11-26T14:01:56+00:00",
+"added": "2026-11-26T21:41:23+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"parlement",
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Sébastien Leroy"
 },
 {
 "id": "ddf5132bc06bf333",
@@ -3111,7 +3728,9 @@
 "also": [
 "Midi Libre",
 "franceinfo",
-"Franceinfo"
+"Franceinfo",
+"Public Sénat",
+"Le Figaro"
 ],
 "base": [
 "parlement"
@@ -3797,6 +4416,27 @@
 ],
 "natures": [],
 "speaker": ""
+},
+{
+"id": "030750e6ac8ca615",
+"title": "Budget : « J’ai fait mon job pour faire baisser la dette », estime Bruno Le Maire",
+"link": "https://www.publicsenat.fr/actualites/politique/budget-jai-fait-mon-job-pour-faire-baisser-la-dette-estime-bruno-le-maire",
+"summary": "Invité de notre matinale, Bruno Le Maire a défendu son bilan économique après ses années passées à Bercy. Pour l’ancien ministre de l’Economie et des Finances, la France ne peut pas s’épargner une « remise en cause » de son modèle social.",
+"source": "Public Sénat",
+"date": "2026-11-26T09:04:22+00:00",
+"added": "2026-11-26T21:41:23+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"gouvernement"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Bruno Le Maire"
 },
 {
 "id": "211e82b87bac2caa",
@@ -4829,7 +5469,9 @@
 "date": "2026-11-26T06:38:49+00:00",
 "added": "2026-11-26T06:38:49+00:00",
 "official": false,
-"also": [],
+"also": [
+"BFMTV"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -4953,7 +5595,9 @@
 "date": "2026-11-26T06:25:00+00:00",
 "added": "2026-11-26T06:38:49+00:00",
 "official": false,
-"also": [],
+"also": [
+"La Provence"
+],
 "base": [
 "partis"
 ],
@@ -8482,6 +9126,27 @@
 "speaker": ""
 },
 {
+"id": "d3b3beb878dd19a5",
+"title": "Très peu d'enseignants accusés de complicité dans des violences en marge des mobilisations lycéennes, révèle un document interne du gouvernement",
+"link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/tres-peu-d-enseignants-accuses-de-complicite-dans-des-violences-en-marge-des-mobilisations-lyceennes-revele-un-document-interne-du-gouvernement_8299731.html",
+"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
+"source": "franceinfo",
+"date": "2026-11-25T13:43:26+00:00",
+"added": "2026-11-26T21:41:23+00:00",
+"official": false,
+"also": [],
+"base": [
+"matinales"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"gouvernement"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "a04efc57a1a6f7f2",
 "title": "Présidentielle 2027 : le gouvernement défend la tenue du deuxième tour le 2 mai, et s’engage à ce que le 1ᵉʳ-Mai se passe « dans les meilleures conditions possibles »",
 "link": "https://www.lemonde.fr/politique/article/2026/11/25/presidentielle-2027-le-gouvernement-defend-la-tenue-du-deuxieme-tour-du-scrutin-le-2-mai-et-s-engage-a-ce-que-le-1er-mai-se-passe-dans-les-meilleures-conditions-possibles_6815102_823448.html",
@@ -11284,6 +11949,27 @@
 "natures": [
 "Citation"
 ],
+"speaker": ""
+},
+{
+"id": "253a5e3c4bb4cf2c",
+"title": "\"L'opportunité de rencontrer des élus de toute la France\" : au Salon des maires, les prétendants à l'Elysée font la chasse aux signatures",
+"link": "https://www.franceinfo.fr/elections/reportage-l-opportunite-de-rencontrer-des-elus-de-toute-la-france-au-salon-des-maires-les-pretendants-a-l-elysee-font-la-chasse-aux-signatures_8296235.html",
+"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
+"source": "franceinfo",
+"date": "2026-11-25T04:52:25+00:00",
+"added": "2026-11-26T21:41:23+00:00",
+"official": false,
+"also": [],
+"base": [
+"matinales"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"elysee"
+],
+"natures": [],
 "speaker": ""
 },
 {
@@ -16033,6 +16719,24 @@
 "speaker": "Édouard Philippe"
 },
 {
+"id": "a68ae3103a00d288",
+"title": "Règle d’or budgétaire : Emmanuel Macron face à la faisabilité d’un ultime défi",
+"link": "https://www.lefigaro.fr/politique/regle-d-or-budgetaire-emmanuel-macron-face-a-la-faisabilite-d-un-ultime-defi-20261123",
+"summary": "DÉCRYPTAGE - L’adoption d’une règle d’or dans la Constitution devrait se faire dans un temps très limité, soit par un référendum, soit par un vote incertain au Congrès.",
+"source": "Le Figaro",
+"date": "2026-11-24T09:05:45+00:00",
+"added": "2026-11-26T21:41:23+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "b128ceae09f9652e",
 "title": "\"J'ai décidé d'agir\": Natacha Polony évoque sa candidature à l'élection présidentielle",
 "link": "https://www.bfmtv.com/politique/elections/presidentielle/video-j-ai-decide-d-agir-natacha-polony-evoque-sa-candidature-a-l-election-presidentielle_VN-202611240430.html",
@@ -17991,290 +18695,5 @@
 "Citation"
 ],
 "speaker": "Jean-François Copé"
-},
-{
-"id": "75ab569078d06b0e",
-"title": "Sondage 2027 : Lisnard désormais devant Philippe - 23/11",
-"link": "https://www.bfmtv.com/replay-emissions/bfm-grand-soir/video-sondage-2027-lisnard-desormais-devant-philippe-23-11_VN-202611230917.html",
-"summary": "VIDÉO - Chaque soir, Maxime Switek vous accompagne de 21h à 00h dans BFM Grand Soir.",
-"source": "BFMTV",
-"date": "2026-11-23T21:37:40+00:00",
-"added": "2026-11-24T06:37:04+00:00",
-"official": false,
-"also": [
-"Le Dauphiné Libéré",
-"Le Bien Public",
-"Le Progrès"
-],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "7f399c57f8e22641",
-"title": "Ecrits antisémites : Jordan Bardella reconnaît «une faute» de Laure Lavalette mais lui garde son «total soutien»",
-"link": "https://www.liberation.fr/politique/ecrits-antisemites-jordan-bardella-reconnait-une-faute-de-laure-lavalette-mais-lui-garde-son-total-soutien-20261123_2UTAIIKFYNH4XM2N42RBJZFOJM/",
-"summary": "",
-"source": "Libération",
-"date": "2026-11-23T21:34:47+00:00",
-"added": "2026-11-23T21:39:21+00:00",
-"official": false,
-"also": [
-"Le Parisien",
-"Le Monde",
-"BFMTV",
-"RMC",
-"Nice-Matin",
-"LCP",
-"20 Minutes",
-"Sud Ouest",
-"L'Opinion"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jordan Bardella"
-},
-{
-"id": "28a0b73895a59b37",
-"title": "Présidentielle 2027: \"quand on est antifasciste, on vote Raphaël Glucksmann\", lance Boris Vallaud, député PS",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-2027-quand-on-est-antifasciste-on-vote-raphael-glucksmann-lance-boris-vallaud-depute-ps_VN-202611230907.html",
-"summary": "Pendant que la bataille pour l'élection présidentielle s'organise - avec la percée de David Lisnard qui se confirme à droite selon un dernier sondage - Emmanuel Macron veut continuer à peser sur la politique française.",
-"source": "BFMTV",
-"date": "2026-11-23T21:29:56+00:00",
-"added": "2026-11-23T21:39:21+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"parlement",
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Boris Vallaud"
-},
-{
-"id": "69f4cc0f35c23bec",
-"title": "Présidentielle 2027: \"Le ralliement de Marine Tondelier [à Jean-Luc Mélenchon], il y a une sorte de fatalisme\", analyse Boris Vallaud, député PS",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-2027-le-ralliement-de-marine-tondelier-a-jean-luc-melenchon-il-y-a-une-sorte-de-fatalisme-analyse-boris-vallaud-depute-ps_VN-202611230906.html",
-"summary": "Pendant que la bataille pour l'élection présidentielle s'organise - avec la percée de David Lisnard qui se confirme à droite selon un dernier sondage - Emmanuel Macron veut continuer à peser sur la politique française.",
-"source": "BFMTV",
-"date": "2026-11-23T21:28:18+00:00",
-"added": "2026-11-23T21:39:21+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"parlement",
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Boris Vallaud"
-},
-{
-"id": "886313cb8266af24",
-"title": "Les écolos pro-Glucksmann fondent «Ecologistes et démocrates», un nouveau parti",
-"link": "https://www.liberation.fr/politique/elections/les-ecolos-pro-glucksmann-fondent-ecologistes-et-democrates-un-nouveau-parti-20261123_MLJLZCW7TFETBE4P665OQHQB5Y/",
-"summary": "Echaudés par la main tendue de Marine Tondelier aux insoumis, Yannick Jadot et quelques autres cadres de la campagne Glucksmann ont annoncé, ce lundi, la fondation de leur propre formation.",
-"source": "Libération",
-"date": "2026-11-23T21:09:41+00:00",
-"added": "2026-11-23T21:39:21+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "e5df4c15816227d0",
-"title": "Terres rares : Emmanuel Macron annonce que la France va se doter de \"stocks stratégiques\"",
-"link": "https://www.france24.com/fr/france/20261123-terres-rares-macron-annonce-france-doter-stocks-strat%C3%A9giques",
-"summary": "",
-"source": "France 24",
-"date": "2026-11-23T21:06:36+00:00",
-"added": "2026-11-23T21:39:21+00:00",
-"official": false,
-"also": [
-"Ouest-France",
-"La Provence",
-"franceinfo",
-"Franceinfo"
-],
-"base": [
-"elysee"
-],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [
-"Citation",
-"Annonce"
-],
-"speaker": "Emmanuel Macron"
-},
-{
-"id": "b312f64f5a7a63fd",
-"title": "Bardella : \"Tout est fait pour nous salir\" - 23/11",
-"link": "https://www.bfmtv.com/replay-emissions/100-mabrouk/video-bardella-tout-est-fait-pour-nous-salir-23-11_VN-202611230893.html",
-"summary": "VIDÉO - Retrouvez le replay de 100% Mabrouk sur BFMTV.",
-"source": "BFMTV",
-"date": "2026-11-23T21:04:31+00:00",
-"added": "2026-11-23T21:39:21+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jordan Bardella"
-},
-{
-"id": "e7946059629151b7",
-"title": "Budget 2027 : Sébastien Lecornu appelle au « compromis » dans une lettre aux parlementaires et liste les priorités du gouvernement",
-"link": "https://www.lemonde.fr/politique/article/2026/11/23/budget-2027-sebastien-lecornu-appelle-au-compromis-dans-une-lettre-aux-parlementaires-et-liste-les-priorites-du-gouvernement_6814451_823448.html",
-"summary": "Alors que les projets de loi de finances et de financement de la Sécurité sociale ont été rejetés à l’Assemblée nationale, le premier ministre souhaite poursuivre les discussions avec les parlementaires.",
-"source": "Le Monde",
-"date": "2026-11-23T20:42:50+00:00",
-"added": "2026-11-23T21:39:21+00:00",
-"official": false,
-"also": [
-"Les Echos",
-"L'Humanité",
-"Public Sénat",
-"franceinfo"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement",
-"parlement"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Sébastien Lecornu"
-},
-{
-"id": "18e987428b803316",
-"title": "Primaire: en septembre, Édouard Philippe \"a proposé aux candidats de la droite et du centre de se rencontrer et de discuter\", assure Jérémie Patrier-Leitus, député \"Horizons\"",
-"link": "https://www.bfmtv.com/politique/elections/video-primaire-en-septembre-edouard-philippe-a-propose-aux-candidats-de-la-droite-et-du-centre-de-se-rencontrer-et-de-discuter-assure-jeremie-patrier-leitus-depute-horizons_VN-202611230883.html",
-"summary": "Jérémie Patrier-Leitus, député \"Horizons\" du Calvados, porte-parole d'Édouard Philippe, était invité sur le plateau de BFMTV, ce lundi 23 novembre.",
-"source": "BFMTV",
-"date": "2026-11-23T20:39:41+00:00",
-"added": "2026-11-23T21:39:21+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"matinales",
-"parlement",
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation",
-"Annonce"
-],
-"speaker": "Jérémie Patrier-Leitus"
-},
-{
-"id": "70ffba75eacc32e6",
-"title": "Jordan Bardella invité de Sonia Mabrouk - 23/11",
-"link": "https://www.bfmtv.com/replay-emissions/100-mabrouk/video-jordan-bardella-invite-de-sonia-mabrouk-23-11_VN-202611230882.html",
-"summary": "VIDÉO - Retrouvez le replay de 100% Mabrouk sur BFMTV.",
-"source": "BFMTV",
-"date": "2026-11-23T20:14:02+00:00",
-"added": "2026-11-24T06:37:04+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"partis"
-],
-"natures": [
-"Interview"
-],
-"speaker": "Sonia Mabrouk"
-},
-{
-"id": "6029e71ca4745875",
-"title": "Primaire de la droite et du centre : la seconde réunion préparatoire reportée, quels sont les points de blocage ?",
-"link": "https://www.europe1.fr/politique/primaire-de-la-droite-et-du-centre-la-seconde-reunion-preparatoire-reportee-quels-sont-les-points-de-blocage-1243192",
-"summary": "Le projet de primaire de la droite et du centre semble prendre l'eau. Un scrutin réclamé avec plus ou moins d'entrain et de conditions par David Lisnard, Bruno Retailleau et Gabriel Attal mais toujours balayé par Édouard Philippe.",
-"source": "Europe 1",
-"date": "2026-11-23T20:14:00+00:00",
-"added": "2026-11-24T06:37:04+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "8b3e7d4be68ca958",
-"title": "Le débat - Présidentielle 2027 : qui pourra rassembler ?",
-"link": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261123-pr%C3%A9sidentielle-qui-pourra-rassembler",
-"summary": "",
-"source": "France 24",
-"date": "2026-11-23T19:58:31+00:00",
-"added": "2026-11-24T09:55:46+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
 }
 ]
