@@ -1,5 +1,713 @@
 [
 {
+"id": "f4aea9de0a9a0011",
+"title": "Sébastien Lecornu, David Lisnard et Gérard Larcher réunis pour un débat à l’occasion de la clôture du Congrès des maires et des présidents d’intercommunalité de France",
+"link": "https://www.bfmtv.com/politique/video-sebastien-lecornu-david-lisnard-et-gerard-larcher-reunis-pour-un-debat-a-l-occasion-de-la-cloture-du-congres-des-maires-et-des-presidents-d-intercommunalite-de-france_VN-202611260477.html",
+"summary": "BFMTV diffuse ce jeudi à 15 heures un débat inédit à l’occasion de la clôture du Congrès des maires et des présidents d’intercommunalité de France.",
+"source": "BFMTV",
+"date": "2026-11-26T09:48:39+00:00",
+"added": "2026-11-26T09:55:22+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"parlement",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "41fed51ec19bd1a6",
+"title": "La conditionnalité des aides aux entreprises, un levier de négociation pour les syndicats",
+"link": "https://www.la-croix.com/economie/la-conditionnalite-des-aides-aux-entreprises-un-levier-de-negociation-pour-les-syndicats-20261126",
+"summary": "Face à la crise sociale, le gouvernement a dû se résoudre à demander des contreparties aux 70 milliards d’euros d’exonération de cotisations sociales consentis aux entreprises.",
+"source": "La Croix",
+"date": "2026-11-26T09:47:09+00:00",
+"added": "2026-11-26T09:55:22+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "889b2e207eaa522c",
+"title": "Jordan Bardella accusé d'antisémitisme : de nouveaux éléments à charge dévoilés",
+"link": "https://www.lexpress.fr/politique/rn/jordan-bardella-accuse-dantisemitisme-de-nouveaux-elements-a-charge-devoiles-DGRDGF2YHBFHBCMNRHSP3W5ZP4/",
+"summary": "Mediapart et Le Monde ont publié ce jeudi 26 novembre de nouveaux extraits d'une conversation sur Facebook Messenger attestant selon eux de propos antisémites et complotistes tenus par Jordan Bardella , lorsque celui-ci était jeune militant du Front national.",
+"source": "L'Express",
+"date": "2026-11-26T09:39:04+00:00",
+"added": "2026-11-26T09:55:22+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Réaction"
+],
+"speaker": ""
+},
+{
+"id": "e4f1171f319d011f",
+"title": "Benoît Payan appelle Raphaël Glucksmann \"à se dépasser\" et \"à rassembler le plus largement possible\"",
+"link": "https://www.franceinfo.fr/elections/benoit-payan-appelle-raphael-glucksmann-a-se-depasser-et-a-rassembler-le-plus-largement-possible_8301006.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "Le maire divers gauche de Marseille n'est plus adhérent du Parti socialiste mais affirme soutenir le candidat du PS dans la campagne pour la présidentielle 2027.",
+"source": "franceinfo",
+"date": "2026-11-26T09:38:40+00:00",
+"added": "2026-11-26T09:55:22+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Benoît Payan"
+},
+{
+"id": "1d44f50bb843814a",
+"title": "David Lisnard : sa candidature va-t-elle faire pschitt ? Nos journalistes répondent dans «Chez Pol, l’émission»",
+"link": "https://www.liberation.fr/politique/elections/david-lisnard-sa-candidature-va-t-elle-faire-pschitt-nos-journalistes-repondent-dans-chez-pol-lemission-20261126_J7SZR5TAZNG43BSZ3BXQ5MGEEE/",
+"summary": "En direct à partir de 10h30 sur Twitch et YouTube avec les journalistes politiques de «Libération», on se penche sur le personnage qui prend le plus la lumière cette semaine : David Lisnard.",
+"source": "Libération",
+"date": "2026-11-26T09:35:22+00:00",
+"added": "2026-11-26T09:55:22+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "a618d071c29beb4a",
+"title": "\"Une entreprise de persécution\": Jordan Bardella conteste à nouveau les écrits antisémites qui lui sont attribués et dénonce de \"véritables chasses à l'homme\"",
+"link": "https://www.bfmtv.com/politique/front-national/une-entreprise-de-persecution-jordan-bardella-conteste-a-nouveau-les-ecrits-antisemites-qui-lui-sont-attribues-et-denonce-de-veritables-chasses-a-l-homme_AN-202611260453.html",
+"summary": "Jordan Bardella nie toujours les écrits antisémites qui lui sont attribués dans les enquêtes de Mediapart et du Monde.",
+"source": "BFMTV",
+"date": "2026-11-26T09:34:32+00:00",
+"added": "2026-11-26T09:55:22+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "Jordan Bardella"
+},
+{
+"id": "f3453392ff103eaf",
+"title": "Les policiers appelés à se rassembler ce jeudi : \"Il y a un petit sentiment qu'on flatte la hiérarchie et pas les flics de base\", note le sociologue Michel Wieviorka",
+"link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/les-policiers-appeles-a-se-rassembler-ce-jeudi-il-y-a-un-petit-sentiment-qu-on-flatte-la-hierarchie-et-pas-les-flics-de-base-note-le-sociologue-michel-wieviorka_8301036.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "Auteur de l'essai \"Où va la France : métamorphose ou déchéance ?\" (Aube), le sociologue Michel Wieviorka apporte son éclairage, dans \"La matinale\" du 26 novembre, sur la contestation sociale, avec la mobilisation des étudiants d'une part, et une nouvelle protestation des policiers de l'autre.",
+"source": "franceinfo",
+"date": "2026-11-26T09:31:41+00:00",
+"added": "2026-11-26T09:55:22+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales"
+],
+"natures": [
+"Citation"
+],
+"speaker": ""
+},
+{
+"id": "55f2ee71e3e0ad0b",
+"title": "Présidentielle 2027 : Glucksmann et le poids de Hollande",
+"link": "https://www.valeursactuelles.com/clubvaleurs/politique/presidentielle-2027-glucksmann-et-le-poids-de-hollande",
+"summary": "Clémentine Autain écoute impassiblement l’animateur d’un stand. La députée de L’Après, élue en Seine-Saint-Denis, est seule avec son collaborateur.",
+"source": "Valeurs actuelles",
+"date": "2026-11-26T09:30:25+00:00",
+"added": "2026-11-26T09:55:22+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"parlement",
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "73aa7b93de13b74a",
+"title": "Présidentielle 2027 : le désarroi des partis pro-Ukraine et pro-Europe alors que ces sujets ne mobilisent pas les électeurs",
+"link": "https://www.lemonde.fr/politique/article/2026/11/26/presidentielle-2027-le-desarroi-des-partis-pro-ukraine-et-pro-europe-alors-que-ces-sujets-ne-mobilisent-pas-les-electeurs_6815508_823448.html",
+"summary": "De Raphaël Glucksmann à Gabriel Attal, en passant par Edouard Philippe, les défenseurs d’une ligne ferme face à Moscou peinent à imposer les sujets internationaux en raison des préoccupations pour le pouvoir d’achat et la dette.",
+"source": "Le Monde",
+"date": "2026-11-26T09:30:05+00:00",
+"added": "2026-11-26T09:55:22+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "49f0622a515a1f78",
+"title": "Présidentielle 2027 : près d’un électeur sur deux n’a pas encore fait son choix",
+"link": "https://www.lefigaro.fr/elections/presidentielles/sondages/presidentielle-2027-pres-d-un-electeur-sur-deux-n-a-pas-encore-fait-son-choix-20261126",
+"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
+"source": "Le Figaro",
+"date": "2026-11-26T09:29:27+00:00",
+"added": "2026-11-26T09:55:22+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "e40b149bfb23d7a3",
+"title": "Budget de la « Sécu » 2027 : les députés et sénateurs échouent à s’accorder en commission mixte paritaire",
+"link": "https://www.lemonde.fr/politique/article/2026/11/26/budget-de-la-secu-2027-les-deputes-et-senateurs-echouent-a-s-accorder-en-commission-mixte-paritaire_6815507_823448.html",
+"summary": "Les points de vue des sept députés et sept sénateurs réunis, jeudi matin, pour discuter du texte proposé pour un budget de la Sécurité sociale se sont révélés irréconciliables, et ce premier conclave budgétaire de la saison a rapidement été déclaré « non conclusif ».",
+"source": "Le Monde",
+"date": "2026-11-26T09:24:29+00:00",
+"added": "2026-11-26T09:55:22+00:00",
+"official": false,
+"also": [
+"Libération",
+"Sud Ouest"
+],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "62ebfb826175fce2",
+"title": "Présidentielle 2027 : Lisnard refuse de choisir entre Philippe et Le Pen et refuse de dire qui il a choisi en 2022",
+"link": "https://www.laprovence.com/article/politique/30584202346667/presidentielle-2027-lisnard-refuse-de-choisir-entre-philippe-et-le-pen-et-refuse-de-dire-qui-il-a-choisi-en-2022",
+"summary": "Le maire de Cannes, qui ne veut pas accepter \"un procès de Moscou\", a également refusé de dire pour qui il a voté entre Marine Le Pen et Emmanuel Macron au second tour de la présidentielle 2022.",
+"source": "La Provence",
+"date": "2026-11-26T09:19:42+00:00",
+"added": "2026-11-26T09:55:22+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"elysee",
+"presidentielle"
+],
+"natures": [],
+"speaker": "David Lisnard"
+},
+{
+"id": "73d5d734cbe32fed",
+"title": "\"On s'en fout, on s'en fout pas\" : Les écologistes choisissent La France insoumise - 26/11",
+"link": "https://rmc.bfmtv.com/replay-emissions/les-grandes-gueules/on-s-en-fout-on-s-en-fout-pas-les-ecologistes-choisissent-la-france-insoumise-26-11_EN-202611260447.html",
+"summary": "Plusieurs débats au cœur de l'actualité, les Grandes gueules ont le choix, en débattre ou non : - Les écologistes choisissent La France insoumise. - Écrits antisémites / Bardella : des preuves publiées ! - Parrainages : les règles doivent changer ?",
+"source": "RMC",
+"date": "2026-11-26T09:06:01+00:00",
+"added": "2026-11-26T09:55:22+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "211e82b87bac2caa",
+"title": "Budget de la Sécu 2027 : députés et sénateurs échouent à trouver un accord, le texte renvoyé en nouvelle lecture à l’Assemblée",
+"link": "https://www.ouest-france.fr/economie/budget-collectivites-etat/budget-de-la-secu-2027-deputes-et-senateurs-echouent-a-trouver-un-accord-le-texte-renvoye-en-nouvelle-lecture-a-lassemblee-2a4e3726-e975-11f1-86c1-70195b4d2e52",
+"summary": "",
+"source": "Ouest-France",
+"date": "2026-11-26T09:03:54+00:00",
+"added": "2026-11-26T09:55:22+00:00",
+"official": false,
+"also": [
+"Midi Libre",
+"Le Télégramme",
+"La Nouvelle République",
+"Europe 1"
+],
+"base": [
+"parlement"
+],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "f1f2ab18bfa9b7a6",
+"title": "Écrits antisémites/Bardella : \"Je n'avais pas de doute\", lance Charles Consigny",
+"link": "https://rmc.bfmtv.com/replay-emissions/les-grandes-gueules/video-ecrits-antisemites-bardella-je-n-avais-pas-de-doute-lance-charles-consigny_VN-202611260443.html",
+"summary": "VIDÉO - Écrits antisémites/Bardella : des preuves publiées ! Charles Consigny : \"Je n'avais pas de doute. Il était antisémite.",
+"source": "RMC",
+"date": "2026-11-26T09:01:29+00:00",
+"added": "2026-11-26T09:55:22+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Jordan Bardella"
+},
+{
+"id": "2666d088cde7843c",
+"title": "Rejet massif à l'Assemblée, échec du compromis avec le Sénat: le budget de la Sécu pour 2027 est de nouveau dans l'impasse",
+"link": "https://www.bfmtv.com/economie/economie-social/finances-publiques/rejet-massif-a-l-assemblee-echec-du-compromis-avec-le-senat-le-budget-de-la-secu-pour-2027-est-de-nouveau-dans-l-impasse_AD-202611260438.html",
+"summary": "Députés et sénateurs ont échoué ce jeudi à s'entendre sur le projet de budget de la Sécurité sociale pour 2027, renvoyant ainsi le texte en nouvelle lecture à l'Assemblée nationale, ont déclaré à l'AFP plusieurs sources parlementaires.",
+"source": "BFMTV",
+"date": "2026-11-26T09:00:26+00:00",
+"added": "2026-11-26T09:55:22+00:00",
+"official": false,
+"also": [],
+"base": [
+"parlement"
+],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "231cd38a2ecbe4fa",
+"title": "Les ultramarins peinent toujours à accéder aux postes à responsabilité de la fonction publique",
+"link": "https://www.lemonde.fr/politique/article/2026/11/26/les-ultramarins-peinent-toujours-a-acceder-aux-postes-a-responsabilite-de-la-fonction-publique_6815504_823448.html",
+"summary": "« L’accès des ultramarins à l’encadrement intermédiaire de l’Etat en outre-Mer se heurte à des obstacles structurels », regrette le député Jiovanny William (apparenté au groupe socialiste), dans un rapport annexé au budget 2027.",
+"source": "Le Monde",
+"date": "2026-11-26T09:00:11+00:00",
+"added": "2026-11-26T09:55:22+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "39a2f05e81d22e2a",
+"title": "Écrits antisémites attribués à Jordan Bardella : \"On a l'impression que tout coule sur le RN\", regrette le maire de Marseille",
+"link": "https://www.franceinfo.fr/politique/jordan-bardella/ecrits-antisemites-attribues-a-jordan-bardella-on-a-l-impression-que-tout-coule-sur-le-rn-regrette-le-maire-de-marseille_8301003.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "Jeudi, \"Le Monde\" et Mediapart ont publié de nouveaux éléments concernant le président du Rassemblement national.",
+"source": "franceinfo",
+"date": "2026-11-26T08:59:18+00:00",
+"added": "2026-11-26T09:55:22+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "Jordan Bardella"
+},
+{
+"id": "4814972655e969a7",
+"title": "«Le système actuel permet des entorses assez injustes» : Charles Alloncle défend la réforme des retraites proposée par Marine Le Pen",
+"link": "https://www.lefigaro.fr/social/le-systeme-actuel-permet-des-entorses-assez-injustes-charles-alloncle-defend-la-reforme-des-retraites-proposee-par-marine-le-pen-20261126",
+"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
+"source": "Le Figaro",
+"date": "2026-11-26T08:57:45+00:00",
+"added": "2026-11-26T09:55:22+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "Charles Alloncle"
+},
+{
+"id": "c0f9079031f60cc1",
+"title": "Présidentielle 2027 : «Il nous manque un peu moins d'une centaine de parrainages», annonce Laurent Jacobelli",
+"link": "https://www.cnews.fr/france/2026-11-26/presidentielle-2027-il-nous-manque-un-peu-moins-dune-centaine-de-parrainages",
+"summary": "Direction la Manche. Au programme : la formation des jeunes et l’accès à un premier emploi. Rencontrer celles et ceux qui accompagnent, transmettent et font vivre les métiers du territoire.",
+"source": "CNews",
+"date": "2026-11-26T08:54:12+00:00",
+"added": "2026-11-26T09:55:22+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation",
+"Annonce"
+],
+"speaker": "Laurent Jacobelli"
+},
+{
+"id": "19ddbfc7ef179bc2",
+"title": "Jean-Luc Mélenchon à Berlin: quelle image ont les Allemands du candidat insoumis à la présidentielle?",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-jean-luc-melenchon-a-berlin-quelle-image-ont-les-allemands-du-candidat-insoumis-a-la-presidentielle_VN-202611260422.html",
+"summary": "Le candidat insoumis à l'élection présidentielle, Jean-Luc Mélenchon, se rend en Allemagne en fin de semaine à l'occasion de la sortie de son livre \"Faites mieux !\" qui est traduit en allemand \"Die Stunde der Vielen\".",
+"source": "BFMTV",
+"date": "2026-11-26T08:44:50+00:00",
+"added": "2026-11-26T09:55:22+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "47af14b90a02febb",
+"title": "Budget 2027 de la Sécurité sociale : échec de la tentative de compromis entre députés et sénateurs",
+"link": "https://www.publicsenat.fr/actualites/politique/budget-2027-de-la-securite-sociale-echec-de-la-tentative-de-compromis-entre-deputes-et-senateurs",
+"summary": "Comme l’an dernier, les députés et sénateurs de la commission mixte paritaire n’ont pas réussi à trouver un terrain d’entente sur le projet de loi de financement de la Sécurité sociale (PLFSS) pour 2027.",
+"source": "Public Sénat",
+"date": "2026-11-26T08:43:37+00:00",
+"added": "2026-11-26T09:55:22+00:00",
+"official": false,
+"also": [],
+"base": [
+"parlement"
+],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "93b195b3309f55a1",
+"title": "\"Ce n'est pas ça la droite\": Gérald Darmanin accuse David Lisnard de \"compromission\" après son refus de choisir entre Édouard Philippe et Marine Le Pen au second tour de la présidentielle",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/ce-n-est-pas-ca-la-droite-gerald-darmanin-accuse-david-lisnard-de-compromission-apres-son-refus-de-choisir-entre-edouard-philippe-et-marine-le-pen-au-second-tour-de-la-presidentielle_AV-202611260414.html",
+"summary": "Le maire (Nouvelle Énergie) de Cannes a, ce jeudi 26 novembre, a encore refusé d'expliquer vers qui se tournerait son vote en cas de second tour entre la candidate du RN et d'Horizons provoquant l'ire du ministre de la Justice, et soutien d'Édouard Philippe.",
+"source": "BFMTV",
+"date": "2026-11-26T08:40:57+00:00",
+"added": "2026-11-26T09:55:22+00:00",
+"official": false,
+"also": [
+"Le Parisien"
+],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "Gérald Darmanin"
+},
+{
+"id": "e15a91bb1de57cd6",
+"title": "EDITO. Ils ne croient pas à la victoire de Jean-Luc Mélenchon mais se rallient à lui: pourquoi la gauche se range déjà derrière le candidat insoumis malgré ses divergences",
+"link": "https://www.bfmtv.com/economie/l-edito-ils-ne-croient-pas-a-la-victoire-de-jean-luc-melenchon-mais-se-rallient-a-lui-pourquoi-la-gauche-se-range-deja-derriere-le-candidat-insoumis-malgre-ses-divergences_AV-202611260408.html",
+"summary": "Il faut surveiller attentivement ce qu’il se passe autour de Jean-Luc Mélenchon en ce moment. Pour l’instant, il n’y en a qu’un seul hors de la France insoumise à affirmer que Jean-Luc Mélenchon peut remporter la présidentielle.",
+"source": "BFMTV",
+"date": "2026-11-26T08:33:54+00:00",
+"added": "2026-11-26T09:55:22+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "bfeaa8e2d8e21cba",
+"title": "INFO LCP- Budget de la Sécu: échec de la réunion de conciliation entre députés et sénateurs, le texte bientôt de retour à l'Assemblée",
+"link": "https://lcp.fr/actualites/info-lcp-budget-de-la-secu-echec-de-la-reunion-de-conciliation-entre-deputes-et",
+"summary": "La commission mixte paritaire, composée de sept députés et sept sénateurs, qui s'est réunie ce jeudi 26 novembre au matin, afin d'essayer d'élaborer un compromis sur le projet de loi de financement de la Sécurité sociale pour 2027, n'est pas parvenue à un accord.",
+"source": "LCP",
+"date": "2026-11-26T08:33:28+00:00",
+"added": "2026-11-26T09:55:22+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "493a1a09707d5db7",
+"title": "Écrits antisémites attribués à Jordan Bardella: \"L'interlocuteur est quelqu'un qui (le) connaît physiquement\", affirme Antton Rouget, auteur de l'enquête de Mediapart",
+"link": "https://www.bfmtv.com/politique/video-ecrits-antisemites-attribues-a-jordan-bardella-l-interlocuteur-est-quelqu-un-qui-le-connait-physiquement-affirme-antton-rouget-auteur-de-l-enquete-de-mediapart_VN-202611260409.html",
+"summary": "Deux mois après les premières révélations de Mediapart sur des écrits antisémites de jeunesse attribués à Jordan Bardella, le site d'investigation et Le Monde publient ce jeudi 26 novembre de nouveaux éléments affirmant que le président du Rassemblement national est bien l'auteur de ces propos remontant à 2013.",
+"source": "BFMTV",
+"date": "2026-11-26T08:32:48+00:00",
+"added": "2026-11-26T09:55:22+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Jordan Bardella"
+},
+{
+"id": "e35e06b2633fe772",
+"title": "Présidentielle 2027 : depuis la Mayenne, Raphaël Glucksmann dévoile son projet de \"Conseil des territoires\" pour donner plus de pouvoir aux élus locaux",
+"link": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-depuis-la-mayenne-raphael-glucksmann-devoile-son-projet-de-conseil-des-territoires-pour-donner-plus-de-pouvoir-aux-elus-locaux_8300955.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "C'est \"l'illustration d'une nouvelle approche\", promet le candidat social-démocrate qui dénonce une politique verticale au micro d'ICI Mayenne.",
+"source": "franceinfo",
+"date": "2026-11-26T08:31:17+00:00",
+"added": "2026-11-26T09:55:22+00:00",
+"official": false,
+"also": [
+"Ouest-France"
+],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [
+"Annonce"
+],
+"speaker": ""
+},
+{
+"id": "c4cf2f125a01de64",
+"title": "«Ce sont eux les fascistes !» : devant la Sorbonne Nouvelle, Bruno Retailleau dénonce le blocage et demande à l’État de «faire régner l’ordre»",
+"link": "https://www.lefigaro.fr/politique/ce-sont-eux-les-fascistes-devant-la-sorbonne-nouvelle-retailleau-denonce-le-blocage-et-demande-a-l-etat-de-faire-regner-l-ordre-20261126",
+"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
+"source": "Le Figaro",
+"date": "2026-11-26T08:29:59+00:00",
+"added": "2026-11-26T09:55:22+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "Bruno Retailleau"
+},
+{
+"id": "1f739a2967165b36",
+"title": "Violences du 17 octobre, écrits antisémites attribués à Jordan Bardella, présidentielle... Le \"8h30 franceinfo\" de Benoît Payan",
+"link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/violences-du-17-octobre-ecrits-antisemites-attribues-a-jordan-bardella-presidentielle-le-8h30-franceinfo-de-benoit-payan_8278502.html",
+"summary": "Activez les notifications franceinfo et ne manquez rien de l’actualité\nVous pouvez changer d’avis à tout moment dans les réglages de votre navigateur.",
+"source": "franceinfo",
+"date": "2026-11-26T08:27:44+00:00",
+"added": "2026-11-26T09:55:22+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Benoît Payan"
+},
+{
+"id": "6a3b89e5da66f8b4",
+"title": "\"Comment tu peux dire ça?\": Robert Ménard, \"choqué\" par les propos de Teddy Riner sur la guerre en Ukraine, l'invite à aller \"sur la ligne de front\"",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/comment-tu-peux-dire-ca-robert-menard-choque-par-les-propos-de-teddy-riner-sur-la-guerre-en-ukraine-l-invite-a-aller-sur-la-ligne-de-front_AV-202611260398.html",
+"summary": "Le maire de Béziers a réagi sur BFMTV-RMC aux propos du judoka candidat à la présidentielle qui s'est interrogé ce mercredi 25 novembre sur l'aide à l'Ukraine.",
+"source": "BFMTV",
+"date": "2026-11-26T08:25:17+00:00",
+"added": "2026-11-26T09:55:22+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [
+"Interview"
+],
+"speaker": ""
+},
+{
+"id": "a5d87877511a48db",
+"title": "propos antisémites : Jordan Bardella réitère « sa contestation formelle » ; posez vos questions à notre journaliste",
+"link": "https://www.lemonde.fr/politique/live/2026/11/26/en-direct-david-lisnard-assure-garder-la-tete-froide-apres-sa-reelection-a-l-amf-retour-sur-les-propos-antisemites-de-jordan-bardella_6815062_823448.html",
+"summary": "Alors que « Le Monde » vient de publier une enquête comprenant de nouvelles révélations sur les propos antisémites du président du RN, notre journaliste spécialiste de l’extrême droite Clément Guillou répond à vos questions.",
+"source": "Le Monde",
+"date": "2026-11-26T08:23:31+00:00",
+"added": "2026-11-26T09:55:22+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "23461a73a87551dc",
+"title": "Marine Le Pen n'est pas encore à l'Élysée qu'elle pèse déjà sur le futur budget européen: comment Paris et Berlin veulent \"piéger\" le RN en réclamant plus d'argent",
+"link": "https://www.bfmtv.com/economie/economie-social/union-europeenne/marine-le-pen-n-est-pas-encore-a-l-elysee-qu-elle-pese-deja-sur-le-futur-budget-europeen-comment-paris-et-berlin-veulent-pieger-le-rn-en-reclamant-plus-d-argent_AV-202611260389.html",
+"summary": "La France souhaite que \"pas un euro ne manque\" à la politique agricole commune (PAC) dans le futur budget de l'Union européenne, en cours de négociation, par rapport à \"son enveloppe actuelle\", a prévenu mercredi Emmanuel Macron, à la veille d'un sommet des dirigeants européens à Bruxelles.",
+"source": "BFMTV",
+"date": "2026-11-26T08:18:47+00:00",
+"added": "2026-11-26T09:55:22+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"elysee",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "406f1854b93e0607",
+"title": "David Lisnard réélu à la tête de l'AMF : \"Il faut le féliciter de manière républicaine, mais ce n'est pas la campagne présidentielle et encore moins le bloc central\", réagit Clément Beaune",
+"link": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/le-7-40-franceinfo-du-jeudi-26-novembre-2026_8291411.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "L'ancien ministre macroniste des Transports, désormais haut-commissaire à la Stratégie et au Plan, réaffirme, dans le \"7.40\" du 26 novembre, ses différences politiques avec le président de l'Association des maires de France et candidat à la présidentielle.",
+"source": "franceinfo",
+"date": "2026-11-26T08:18:05+00:00",
+"added": "2026-11-26T09:55:22+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement",
+"presidentielle"
+],
+"natures": [
+"Citation",
+"Réaction"
+],
+"speaker": "Clément Beaune"
+},
+{
+"id": "c485065729d1f8db",
+"title": "Quand Bardella, jeune, s’en prenait à Mélenchon pour son soutien à Israël « de A a Z »",
+"link": "https://www.huffingtonpost.fr/politique/article/quand-jordan-bardella-jeune-s-en-prenait-a-jean-luc-melenchon-pour-son-soutien-a-israel_365180.html",
+"summary": "Nouvelle salve.",
+"source": "Le HuffPost",
+"date": "2026-11-26T08:11:52+00:00",
+"added": "2026-11-26T09:55:22+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "fcfae9978080613d",
 "title": "L'ONG Reporters sans frontières saisit l'Arcom pour demander une suspension de CNews: \"C'est la nouvelle censure en France?\", réagit Robert Ménard, maire DVD de Béziers et cofondateur de RSF",
 "link": "https://www.bfmtv.com/politique/video-l-ong-reporters-sans-frontieres-saisit-l-arcom-pour-demander-une-suspension-de-c-news-c-est-la-nouvelle-censure-en-france-reagit-robert-menard-maire-dvd-de-beziers-et-cofondateur-de-rsf_VN-202611260379.html",
@@ -170,6 +878,31 @@
 "speaker": "Jean-Luc Mélenchon"
 },
 {
+"id": "deb1fa4ce223e884",
+"title": "Présidentielle 2027 : «Il faudrait l'anonymat des parrainages», estime Laurent Jacobelli",
+"link": "https://www.europe1.fr/politique/presidentielle-2027-il-faudrait-lanonymat-des-parrainages-estime-laurent-jacobelli-1245223",
+"summary": "Laurent Jacobelli, député RN de Moselle et porte-parole de la campagne présidentielle, était au micro de la Grande interview Europe 1 et Cnews ce jeudi 26 novembre.",
+"source": "Europe 1",
+"date": "2026-11-26T07:44:44+00:00",
+"added": "2026-11-26T09:55:22+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"matinales",
+"parlement",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Laurent Jacobelli"
+},
+{
 "id": "7b4df01c07b23f9e",
 "title": "Nouvelles révélations sur les propos antisémites attribués à Jordan Bardella: \"Il y a beaucoup de choses qui s'accumulent', déclare Robert Ménard, maire de Béziers",
 "link": "https://www.bfmtv.com/politique/video-nouvelles-revelations-sur-les-propos-antisemites-attribues-a-jordan-bardella-il-y-a-beaucoup-de-choses-qui-s-accumulent-declare-robert-menard-maire-de-beziers_VN-202611260349.html",
@@ -178,7 +911,10 @@
 "date": "2026-11-26T07:41:18+00:00",
 "added": "2026-11-26T08:11:03+00:00",
 "official": false,
-"also": [],
+"also": [
+"L'Opinion",
+"Le Figaro"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -210,6 +946,26 @@
 "Annonce"
 ],
 "speaker": "Marine Le Pen"
+},
+{
+"id": "512f633fe5cbd2e9",
+"title": "Affaire Jordan Bardella : de nouveaux messages Facebook relancent l’affaire malgré les dénégations du président du RN",
+"link": "https://www.midilibre.fr/2026/11/26/affaire-jordan-bardella-de-nouveaux-messages-facebook-relancent-laffaire-malgre-les-denegations-du-president-du-rn-13672117.php",
+"summary": "Jordan Bardella, président du Rassemblement national, est de nouveau accusé d’antisémitisme après la publication, jeudi 26 novembre 2026, de nouveaux écrits de jeunesse par Mediapart et Le Monde.",
+"source": "Midi Libre",
+"date": "2026-11-26T07:34:00+00:00",
+"added": "2026-11-26T09:55:22+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
 },
 {
 "id": "1be48bb46021f07f",
@@ -335,7 +1091,9 @@
 "date": "2026-11-26T07:09:09+00:00",
 "added": "2026-11-26T08:11:03+00:00",
 "official": false,
-"also": [],
+"also": [
+"Libération"
+],
 "base": [
 "partis"
 ],
@@ -355,7 +1113,12 @@
 "date": "2026-11-26T07:05:00+00:00",
 "added": "2026-11-26T08:11:03+00:00",
 "official": false,
-"also": [],
+"also": [
+"LCP",
+"BFMTV",
+"La Nouvelle République",
+"Ouest-France"
+],
 "base": [
 "presidentielle"
 ],
@@ -570,7 +1333,15 @@
 "RFI",
 "Libération",
 "Le Figaro",
-"La Provence"
+"La Provence",
+"La Croix",
+"Public Sénat",
+"Le Nouvel Obs",
+"RTL",
+"Midi Libre",
+"L'Humanité",
+"La Nouvelle République",
+"Le Télégramme"
 ],
 "base": [],
 "filtered": true,
@@ -622,6 +1393,27 @@
 "natures": [
 "Réaction"
 ],
+"speaker": ""
+},
+{
+"id": "8f88ee684c2d53d4",
+"title": "Mouvement lycéen : retour sur deux mois de mensonges du gouvernement",
+"link": "https://www.liberation.fr/checknews/les-ministres-vont-devoir-rendre-des-comptes-retour-sur-les-nombreux-mensonges-du-gouvernement-sur-le-mouvement-lyceen-20261126_KN3SZW6UJ5FRJIW2VL7L4D2BGI/",
+"summary": "",
+"source": "Libération",
+"date": "2026-11-26T06:19:29+00:00",
+"added": "2026-11-26T09:55:22+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"gouvernement",
+"partis"
+],
+"natures": [],
 "speaker": ""
 },
 {
@@ -761,6 +1553,26 @@
 "speaker": ""
 },
 {
+"id": "085d879784e29905",
+"title": "Le programme de Mélenchon passé au crible : retraite à 60 ans, fin des mutuelles, suppression de Parcoursup…",
+"link": "https://www.nouvelobs.com/politique/20261126.OBS120451/le-programme-de-melenchon-passe-au-crible-retraite-a-60-ans-fin-des-mutuelles-suppression-de-parcoursup.html",
+"summary": "Lors d’une manifestation d’agents du secteur public à Paris, le 29 septembre 2026. SAMIR MAOUCHE/HANS LUCAS VIA AFP\nS’abonner permet de commenter les articles.",
+"source": "Le Nouvel Obs",
+"date": "2026-11-26T06:00:18+00:00",
+"added": "2026-11-26T09:55:22+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "431ef7cc0145c872",
 "title": "Sondage: Teddy Riner plus populaire que ses rivaux, Marine Le Pen en baisse",
 "link": "https://www.valeursactuelles.com/politique/presidentielle-2027-teddy-riner-plus-populaire-que-ses-rivaux-marine-le-pen-en-baisse-selon-un-sondage",
@@ -855,7 +1667,9 @@
 "official": false,
 "also": [
 "20 Minutes",
-"RTL"
+"RTL",
+"RMC",
+"La Montagne"
 ],
 "base": [],
 "filtered": true,
@@ -897,6 +1711,24 @@
 "filtered": true,
 "topics": [
 "partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "32fa4f1474ca61be",
+"title": "Les Millionnaires patriotes, ces riches qui veulent payer des impôts, se lancent en France",
+"link": "https://www.lemonde.fr/economie/article/2026/11/26/les-millionnaires-patriotes-ces-riches-qui-veulent-payer-des-impots-se-lancent-en-france_6815481_3234.html",
+"summary": "Espérant peser sur le débat à l’approche de la présidentielle, la branche française de l’association, créée aux Etats-Unis, ouvre jeudi 26 novembre.",
+"source": "Le Monde",
+"date": "2026-11-26T05:55:01+00:00",
+"added": "2026-11-26T09:55:22+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
 ],
 "natures": [],
 "speaker": ""
@@ -986,6 +1818,27 @@
 "speaker": ""
 },
 {
+"id": "e813b112f498df63",
+"title": "Sur le fond, les écologistes version Tondelier sont-ils plus proches de Mélenchon ou Glucksmann ?",
+"link": "https://www.huffingtonpost.fr/politique/article/sur-le-fond-les-ecologistes-version-tondelier-sont-ils-plus-proches-de-melenchon-ou-glucksmann_364786.html",
+"summary": "Plutôt rose goyave ou rouge pastèque ? Les écologistes poursuivent le processus qui devrait entériner une alliance avec la France insoumise pour le prochain cycle d’élections, présidentielle puis législatives.",
+"source": "Le HuffPost",
+"date": "2026-11-26T05:00:08+00:00",
+"added": "2026-11-26T09:55:22+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "841a28b5d0a8c98f",
 "title": "Présidentielle 2027 : Lisnard veut convaincre les électeurs de « tous horizons y compris le RN », Riner rejoint Le Pen sur l'Ukraine…",
 "link": "https://www.20minutes.fr/politique/4265846-20261126-direct-presidentielle-2027-lisnard-veut-convaincre-electeurs-tous-horizons-compris-rn?at_medium=display&at_campaign=149",
@@ -994,7 +1847,9 @@
 "date": "2026-11-26T05:00:03+00:00",
 "added": "2026-11-26T06:38:49+00:00",
 "official": false,
-"also": [],
+"also": [
+"Ouest-France"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -1005,6 +1860,27 @@
 "Citation"
 ],
 "speaker": "David Lisnard"
+},
+{
+"id": "40c0934f22ec29c8",
+"title": "« Il a autant de chatte que Didier Deschamps ! » : comment Hollande affûte son plan pour 2027",
+"link": "https://www.lepoint.fr/politique/il-a-autant-de-chatte-que-didier-deschamps-comment-hollande-affute-son-plan-pour-2027-RYSCW4VOBRHS3FK5R7KTBYPBM4/",
+"summary": "",
+"source": "Le Point",
+"date": "2026-11-26T05:00:00+00:00",
+"added": "2026-11-26T09:55:22+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
 },
 {
 "id": "db2ed38e71657fc4",
@@ -11122,7 +11998,8 @@
 "added": "2026-11-24T09:55:46+00:00",
 "official": false,
 "also": [
-"20 Minutes"
+"20 Minutes",
+"BFMTV"
 ],
 "base": [
 "presidentielle"
@@ -15220,6 +16097,25 @@
 "speaker": ""
 },
 {
+"id": "ced5cec1d8623761",
+"title": "Bonjour chez vous ! — BONJOUR CHEZ VOUS 26/12/03 Je P1",
+"link": "https://www.publicsenat.fr/emission/bonjour-chez-vous/bonjour-chez-vous-26-12-03-je-p1-e0",
+"summary": "Bruno Belin : « Ce qui serait un coup dur, c’est que la France n’ait pas de budget » Michaël Delafosse : « Le programme de David Lisnard est un massacre à la tronçonneuse »",
+"source": "Public Sénat",
+"date": "2026-11-23T15:50:34+00:00",
+"added": "2026-11-26T09:55:22+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
 "id": "1e514cf61f412b22",
 "title": "Sommet Choose France : le laboratoire pharmaceutique Virbac dévoile un plan d'investissement de plus de 320 millions d'euros jusqu'en 2030",
 "link": "https://www.franceinfo.fr/economie/industrie/direct-sommet-choose-france-emmanuel-macron-en-visite-sur-le-site-d-airbus-a-toulouse_8295704.html#xtor=RSS-3-%5Bpolitique%5D",
@@ -17035,659 +17931,5 @@
 "Citation"
 ],
 "speaker": "David Lisnard"
-},
-{
-"id": "8031d88dd9ec3e97",
-"title": "Règle d’or budgétaire : la constance de la gauche contre la droite et le revirement du RN",
-"link": "https://www.liberation.fr/politique/regle-dor-budgetaire-la-constance-de-la-gauche-contre-la-droite-et-le-revirement-du-rn-20261123_HXDOIK4GH5EILNZEGVK47GPATQ/",
-"summary": "Le corset budgétaire envisagé par Emmanuel Macron s’appuie sur un chantier jamais achevé de François Fillon. Le RN, qui le rejetait à l’époque, le soutient aujourd’hui.",
-"source": "Libération",
-"date": "2026-11-23T09:48:32+00:00",
-"added": "2026-11-23T10:01:58+00:00",
-"official": false,
-"also": [
-"RFI"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "18f155b1cf0e6751",
-"title": "LES ÉCLAIREURS - Ce que l'on sait du programme de David Lisnard",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-les-eclaireurs-ce-que-l-on-sait-du-programme-de-david-lisnard_VN-202611230410.html",
-"summary": "Le maire de Cannes David Lisnard dépasse désormais Édouard Philippe dans les intentions de vote pour l'élection présidentielle dans un sondage Toluna Harris Interactive publié lundi 21 novembre.",
-"source": "BFMTV",
-"date": "2026-11-23T09:47:15+00:00",
-"added": "2026-11-23T10:01:58+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "7dba4b1bcff20d8b",
-"title": "Colère des lycéens : le ministre de l'Éducation nationale annonce sur LCI les derniers chiffres du mouvement",
-"link": "https://www.tf1info.fr/education/video-interview-lci-colere-des-lyceens-le-ministre-de-l-education-nationale-annonce-sur-lci-les-derniers-chiffres-du-mouvement-2477528.html",
-"summary": "Lycées, facs, gilets jaunes…",
-"source": "TF1 Info",
-"date": "2026-11-23T09:46:50+00:00",
-"added": "2026-11-23T10:01:58+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [
-"Annonce"
-],
-"speaker": ""
-},
-{
-"id": "c5bc87374ff46661",
-"title": "« Elle a un discours économique très proche du mien » : David Lisnard admet des convergences avec Sarah Knafo mais écarte tout rapprochement",
-"link": "https://www.publicsenat.fr/actualites/politique/elle-a-un-discours-economique-tres-proche-du-mien-david-lisnard-admet-des-convergences-avec-sarah-knafo-mais-ecarte-tout-rapprochement",
-"summary": "« Je la trouve brillante », confie David Lisnard, à propos de Sarah Knafo. Si le candidat à l’élection présidentielle et maire de Cannes a écarté la possibilité d’un rapprochement avec le RN de Marine Le Pen, David Lisnard entretient une position moins tranchée vis-à-vis des membres de Reconquête.",
-"source": "Public Sénat",
-"date": "2026-11-23T09:35:30+00:00",
-"added": "2026-11-23T11:42:39+00:00",
-"official": false,
-"also": [],
-"base": [
-"matinales"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation",
-"Discours"
-],
-"speaker": "David Lisnard"
-},
-{
-"id": "7284852db2b97443",
-"title": "Vidéo polémique à l'Assemblée nationale : «Ils mettent en cause la Constitution et l'ordre», dépl...",
-"link": "https://www.europe1.fr/emissions/lheure-des-pros/video-polemique-a-lassemblee-nationale-ils-mettent-en-cause-la-constitution-et-lordre-depl-1242790",
-"summary": "",
-"source": "Europe 1",
-"date": "2026-11-23T09:30:01+00:00",
-"added": "2026-11-23T10:01:58+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"parlement",
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "421a62be536dd05c",
-"title": "Quentin Deranque : «Jean-Luc Mélenchon prend un risque inouï au regard de la Justice», souligne P...",
-"link": "https://www.europe1.fr/emissions/lheure-des-pros/quentin-deranque-jean-luc-melenchon-prend-un-risque-inoui-au-regard-de-la-justice-souligne-p-1242793",
-"summary": "",
-"source": "Europe 1",
-"date": "2026-11-23T09:30:01+00:00",
-"added": "2026-11-23T21:39:21+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Quentin Deranque"
-},
-{
-"id": "b11a6580c610104a",
-"title": "Présidentielle: une vingtaine de chefs d'entreprise demande à Édouard Philippe \"d'accepter de participer\" à la primaire de la droite et du centre",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/direct-presidentielle-2027-un-nouveau-sondage-donne-marine-le-pen-en-baisse-david-lisnard-depasse-edouard-philippe_LN-202611230170.html",
-"summary": "Pendant que la bataille pour l'élection présidentielle s'organise - avec la percée de David Lisnard qui se confirme à droite selon un dernier sondage - Emmanuel Macron veut continuer à peser sur la politique française.",
-"source": "BFMTV",
-"date": "2026-11-23T09:27:38+00:00",
-"added": "2026-11-23T10:01:58+00:00",
-"official": false,
-"also": [
-"Les Echos"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": ""
-},
-{
-"id": "904fa74101102c68",
-"title": "Sondage présidentielle 2027 : donné au second tour face à Marine Le Pen, Jean-Luc Mélenchon progresse de cinq points en un mois et réduit l’écart",
-"link": "https://www.leparisien.fr/elections/presidentielle/sondage-presidentielle-2027-donne-au-second-tour-face-a-marine-le-pen-jean-luc-melenchon-progresse-de-cinq-points-en-un-mois-et-reduit-lecart-23-11-2026-FMIEAPLYWBEN7AFT5FPHDC3KKA.php",
-"summary": "",
-"source": "Le Parisien",
-"date": "2026-11-23T09:27:02+00:00",
-"added": "2026-11-23T10:01:58+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "e9bb2f82c28ff090",
-"title": "Limites du déficit, budget à l’équilibre, exonérations… Qu’est-ce que la règle d’or qu’Emmanuel Macron souhaite inscrire dans la Constitution ?",
-"link": "https://www.sudouest.fr/politique/emmanuel-macron/limites-du-deficit-budget-a-l-equilibre-exonerations-qu-est-ce-que-la-regle-d-or-qu-emmanuel-macron-souhaite-inscrire-dans-la-constitution-31617491.php",
-"summary": "",
-"source": "Sud Ouest",
-"date": "2026-11-23T09:16:40+00:00",
-"added": "2026-11-23T10:01:58+00:00",
-"official": false,
-"also": [
-"France 24"
-],
-"base": [
-"elysee"
-],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [],
-"speaker": "Emmanuel Macron"
-},
-{
-"id": "bcd57f6067875800",
-"title": "Colère lycéenne: le ministre de l'Éducation fait état de \"98 élèves\" et d'une \"trentaine de professionnels\" blessés la semaine dernière",
-"link": "https://www.bfmtv.com/societe/education/colere-lyceenne-le-ministre-de-l-education-fait-etat-de-98-eleves-et-d-une-trentaine-de-professionnels-blesses-la-semaine-derniere_AD-202611230385.html",
-"summary": "Le ministre de l'Éducation nationale, Édouard Geffray. - MEHDI FEDOUACH / AFP\nLe ministre de l'Éducation nationale Édouard Geffray a fait état, ce lundi 23 novembre, de \"98 élèves\" et \"une trentaine de professionnels\" blessés la semaine dernière, dans le cadre de violences \"territorialement très limitées, mais qui…",
-"source": "BFMTV",
-"date": "2026-11-23T09:12:18+00:00",
-"added": "2026-11-23T10:01:58+00:00",
-"official": false,
-"also": [],
-"base": [
-"matinales"
-],
-"filtered": true,
-"topics": [
-"matinales",
-"gouvernement"
-],
-"natures": [
-"Citation"
-],
-"speaker": ""
-},
-{
-"id": "80fef1b8f04b2d74",
-"title": "Emmanuel Macron confirme envisager l'adoption d'une règle d'or budgétaire",
-"link": "https://fr.euronews.com/2026/11/23/emmanuel-macron-confirme-envisager-ladoption-dune-regle-dor-budgetaire",
-"summary": "Un Congrès à Versailles pour endiguer le creusement de la dette ? Avant la fin de sa présidence, Emmanuel Macron envisage de proposer d'inscrire dans la Constitution une \"règle d’or\" budgétaire, mesure mise en œuvre en Allemagne depuis le début des années 2010.",
-"source": "Euronews",
-"date": "2026-11-23T09:09:12+00:00",
-"added": "2026-11-23T10:01:58+00:00",
-"official": false,
-"also": [
-"France 24"
-],
-"base": [
-"elysee"
-],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [],
-"speaker": "Emmanuel Macron"
-},
-{
-"id": "731e9aaa935f86d9",
-"title": "\"Règle d'or\" budgétaire : \"Une idée démocrate, ni de droite ni de gauche\", explique l'ancien commissaire européen Thierry Breton",
-"link": "https://www.franceinfo.fr/economie/budget/regle-d-or-budgetaire-une-idee-democrate-ni-de-droite-ni-de-gauche-explique-l-ancien-commissaire-europeen-thierry-breton_8295680.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "Emmanuel Macron envisage d'instaurer une \"règle d'or\" budgétaire, défendue par Thierry Breton, afin de donner un cadre à l'État pour limiter son déficit et son endettement.",
-"source": "franceinfo",
-"date": "2026-11-23T09:08:28+00:00",
-"added": "2026-11-23T10:01:58+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [
-"Citation"
-],
-"speaker": ""
-},
-{
-"id": "c1ea45ee369ad27e",
-"title": "\"Un quart des lycées\" d'Île-de-France sont toujours bloqués, selon Valérie Pécresse",
-"link": "https://www.bfmtv.com/politique/les-republicains/video-un-quart-des-lycees-d-ile-de-france-sont-toujours-bloques-selon-valerie-pecresse_VN-202611230389.html",
-"summary": "Valérie Pécresse, présidente Les Républicains de la région Île-de-France, était l’invitée du Face-à-Face de ce lundi 23 novembre sur BFMTV et RMC.",
-"source": "BFMTV",
-"date": "2026-11-23T09:07:08+00:00",
-"added": "2026-11-23T10:01:58+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"matinales",
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Valérie Pécresse"
-},
-{
-"id": "4598657c237799c0",
-"title": "\"Ce projet est une illusion\": l'ex-leader de la CFDT Laurent Berger étrille la réforme des retraites de Marine Le Pen qui veut ramener l'âge légal entre 60 et 62 ans",
-"link": "https://www.bfmtv.com/economie/patrimoine/retraite/ce-projet-est-une-illusion-l-ex-leader-de-la-cfdt-laurent-berger-etrille-la-reforme-des-retraites-de-marine-le-pen-qui-veut-ramener-l-age-legal-entre-60-et-62-ans_AV-202611230369.html",
-"summary": "Laurent Berger non plus, n'est pas convaincu par la réforme des retraites défendue la semaine dernière par Marine Le Pen.",
-"source": "BFMTV",
-"date": "2026-11-23T09:06:48+00:00",
-"added": "2026-11-23T10:01:58+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "Laurent Berger"
-},
-{
-"id": "7526477279b9b41f",
-"title": "Sommet Choose France 2026 : \"On a à la fois plus de projets et plus de montants investis\", souligne le ministre de l'Économie, Roland Lescure",
-"link": "https://www.franceinfo.fr/economie/sommet-choose-france-2026-on-a-a-la-fois-plus-de-projets-et-plus-de-montants-investis-souligne-le-ministre-de-l-economie-roland-lescure_8295686.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "Avec plus de 200 projets industriels et près de 15 milliards d'euros d'investissements en France seront mis à l'honneur dès ce lundi 23 novembre, qui marque l'ouverture du sommet Choose France 2026.",
-"source": "franceinfo",
-"date": "2026-11-23T09:04:14+00:00",
-"added": "2026-11-23T10:01:58+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "fb6f704e507db84c",
-"title": "\"Il faut beaucoup de courage aujourd'hui à gauche pour dire 'Jean-Luc Mélenchon n'est pas la gauche que je veux'\", assure Laurence Rossignol, porte-parole de Raphaël Glucksmann",
-"link": "https://www.bfmtv.com/politique/parti-socialiste/video-il-faut-beaucoup-de-courage-aujourd-hui-a-gauche-pour-dire-jean-luc-melenchon-n-est-pas-la-gauche-que-je-veux-assure-laurence-rossignol-porte-parole-de-raphael-glucksmann_VN-202611230365.html",
-"summary": "Laurence Rossignol, sénatrice PS et porte-parole de Raphaël Glucksmann, était l'invitée de BFMTV de lundi 23 novembre, au lendemain du retrait de François Ruffin de la course à l'Élysée, auquel a rendu hommage le candidat social-démocrate.",
-"source": "BFMTV",
-"date": "2026-11-23T09:01:19+00:00",
-"added": "2026-11-23T10:01:58+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"matinales",
-"elysee",
-"parlement",
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Laurence Rossignol"
-},
-{
-"id": "4c2047c9993fe4f3",
-"title": "Bruno Retailleau, opération dernière chance",
-"link": "https://www.lepoint.fr/politique/bruno-retailleau-operation-derniere-chance-ZWQTBZHTI5D3RNDEBZULXOMKJA/",
-"summary": "",
-"source": "Le Point",
-"date": "2026-11-23T08:58:33+00:00",
-"added": "2026-11-23T10:01:58+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "3fa28a382722f77e",
-"title": "Budget: \"Le Premier ministre doit faire un 49.3\", estime Philippe Juvin, député LR et rapporteur général du budget",
-"link": "https://www.bfmtv.com/politique/les-republicains/video-budget-le-premier-ministre-doit-faire-un-49-3-estime-philippe-juvin-depute-lr-et-rapporteur-general-du-budget_VN-202611230361.html",
-"summary": "Alors que le budget est examiné au Sénat depuis ce vendredi, le gouvernement a reconnu que de nouvelles économies d'au moins six milliards d'euros seraient nécessaires face à la dégradation de la situation et aux urgences sociales.",
-"source": "BFMTV",
-"date": "2026-11-23T08:55:15+00:00",
-"added": "2026-11-23T10:01:58+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement",
-"parlement",
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Édouard Philippe"
-},
-{
-"id": "9fbc06525a2d2d76",
-"title": "Présidentielle 2027 : David Lisnard devance Edouard Philippe dans un sondage pour la première fois",
-"link": "https://www.lopinion.fr/politique/david-lisnard-devance-edouard-philippe-dans-un-sondage-pour-la-premiere-fois",
-"summary": "La « Lisnard-mania » quitte les réseaux pour les sondages. Le maire de Cannes, longtemps porté par un engouement en ligne que les enquêtes ignoraient, s’installe désormais dans les intentions de vote.",
-"source": "L'Opinion",
-"date": "2026-11-23T08:53:39+00:00",
-"added": "2026-11-26T08:11:03+00:00",
-"official": false,
-"also": [
-"BFMTV"
-],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "300e6eb0786dd64a",
-"title": "Le catho, Mélenchon et Les Restos du cœur",
-"link": "https://www.la-croix.com/politique/le-catho-melenchon-et-les-restos-du-cour-20261123",
-"summary": "Jean-Luc Mélenchon et Bruno Retailleau se sont livrés, lundi 16 novembre, à une passe d’armes très particulière, relève Loup Besmond de Senneville dans sa chronique politique hebdomadaire LE ROYAUME ET LA CITE.",
-"source": "La Croix",
-"date": "2026-11-23T08:52:51+00:00",
-"added": "2026-11-23T10:01:58+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "473be4f35d7c6ca2",
-"title": "\"Règle d'or\" budgétaire dans la Constitution : \"Ça se regarde\", confirme Roland Lescure, qui précise qu'il \"faut créer une certaine forme de consensus, un débat politique\" autour de cette question",
-"link": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/le-7-40-franceinfo-du-lundi-23-novembre-2026_8291537.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "Le ministre de l'Économie a confirmé, dans le \"7.40\" du 23 novembre, qu'un Congrès pour inscrire une éventuelle \"règle d'or\" budgétaire dans la Constitution était bien à l'étude par l'exécutif.",
-"source": "franceinfo",
-"date": "2026-11-23T08:50:03+00:00",
-"added": "2026-11-23T10:01:58+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Roland Lescure"
-},
-{
-"id": "e884da1c52f8923f",
-"title": "Valérie Pécresse (LR) juge que la primaire de la droite et du centre est \"morte-née\"",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-valerie-pecresse-lr-juge-que-la-primaire-de-la-droite-et-du-centre-est-morte-nee_VN-202611230352.html",
-"summary": "Valérie Pécresse, présidente Les Républicains de la région Île-de-France, était l’invitée du Face-à-Face de ce lundi 23 novembre sur BFMTV et RMC.",
-"source": "BFMTV",
-"date": "2026-11-23T08:47:23+00:00",
-"added": "2026-11-23T10:01:58+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"matinales",
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Valérie Pécresse"
-},
-{
-"id": "c35430fd94f2a65d",
-"title": "« Une idée à explorer » : Macron ouvre la porte à une « règle d’or » dans la Constitution",
-"link": "https://www.lopinion.fr/politique/une-idee-a-explorer-macron-ouvre-la-porte-a-une-regle-dor-dans-la-constitution",
-"summary": "Un dernier combat politique avant de quitter l’Elysée ? Dans un article du Figaro publié ce lundi, Emmanuel Macron confirme réfléchir à inscrire dans la Constitution une règle d’or budgétaire afin de mieux encadrer les déficits publics.",
-"source": "L'Opinion",
-"date": "2026-11-23T08:45:59+00:00",
-"added": "2026-11-23T10:01:58+00:00",
-"official": false,
-"also": [],
-"base": [
-"elysee"
-],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "a0788e60275d0e16",
-"title": "Présidentielle 2027: fixer le second tour au 2 mai \"vicie la sincérité de ce scrutin\", estime Valérie Pécresse (LR)",
-"link": "https://www.bfmtv.com/politique/elections/video-presidentielle-2027-fixer-le-second-tour-au-2-mai-vicie-la-sincerite-de-ce-scrutin-estime-valerie-pecresse-lr_VN-202611230349.html",
-"summary": "Valérie Pécresse, présidente LR de la région Île-de-France, ancienne candidate à la présidentielle, est l’invitée du Face à Face d’Apolline de Malherbe sur RMC et BFMTV.",
-"source": "BFMTV",
-"date": "2026-11-23T08:44:30+00:00",
-"added": "2026-11-23T10:01:58+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Valérie Pécresse"
-},
-{
-"id": "54f66102446d04b2",
-"title": "Présidentielle 2027. Le directeur de campagne de Fabien Roussel (PCF) attendu au Mans",
-"link": "https://www.ouest-france.fr/elections/presidentielle/presidentielle-2027-le-directeur-de-campagne-de-fabien-roussel-pcf-attendu-au-mans-bd050490-e50c-11f1-bd4e-6f30b8f49e21",
-"summary": "",
-"source": "Ouest-France",
-"date": "2026-11-23T08:44:02+00:00",
-"added": "2026-11-23T10:01:58+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "c4055b1abddd9b1b",
-"title": "Choose France, France 2030... À Toulouse, Emmanuel Macron veut défendre son bilan économique",
-"link": "https://www.europe1.fr/politique/choose-france-france-2030-a-toulouse-emmanuel-macron-veut-defendre-son-bilan-economique-1242496",
-"summary": "Le président de la République Emmanuel Macron se rend ce lundi à Toulouse, sur fond de sommet Choose France. À quelques mois de la fin de son mandat, le chef de l'État veut défendre son bilan économique, bien que ce dernier ait un goût d'inachevé.",
-"source": "Europe 1",
-"date": "2026-11-23T08:44:00+00:00",
-"added": "2026-11-23T10:01:58+00:00",
-"official": false,
-"also": [],
-"base": [
-"elysee"
-],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [],
-"speaker": "Emmanuel Macron"
-},
-{
-"id": "a563fe21c5c85718",
-"title": "Davantage d'efforts en dépenses et plus de justice fiscale et sociale : le Sénat s'empare du budget 2027",
-"link": "https://www.senat.fr//salle-de-presse/communiques-de-presse/presse/23-11-2026/davantage-defforts-en-depenses-et-plus-de-justice-fiscale-et-sociale-le-senat-sempare-du-budget-2027.html",
-"summary": "La discussion des articles du budget 2027 débute en séance publique au Sénat ce lundi 23 novembre.",
-"source": "Sénat – Communiqués",
-"date": "2026-11-23T08:40:17+00:00",
-"added": "2026-11-23T10:01:58+00:00",
-"official": true,
-"also": [],
-"base": [
-"parlement"
-],
-"filtered": false,
-"topics": [
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "822248c1e600c9c1",
-"title": "Comment fonctionnerait la règle d'or budgétaire qu'Emmanuel Macron souhaite instaurer ?",
-"link": "https://www.europe1.fr/politique/comment-fonctionnerait-la-regle-dor-budgetaire-quemmanuel-macron-souhaite-instaurer-1242571",
-"summary": "À six mois de son départ de l'Élysée, Emmanuel Macron songerait à inscrire une règle d'or budgétaire dans la Constitution.",
-"source": "Europe 1",
-"date": "2026-11-23T08:28:00+00:00",
-"added": "2026-11-23T10:01:58+00:00",
-"official": false,
-"also": [
-"franceinfo"
-],
-"base": [
-"elysee"
-],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [],
-"speaker": "Emmanuel Macron"
-},
-{
-"id": "e360f272931b6742",
-"title": "Finances publiques: pourquoi Emmanuel Macron rouvre le débat sur la \"règle d’or\" de 2011",
-"link": "https://lcp.fr/actualites/finances-publiques-pourquoi-emmanuel-macron-rouvre-le-debat-sur-la-regle-d-or-de-2011",
-"summary": "Emmanuel Macron confirme réfléchir à faire inscrire dans la Constitution dès janvier une règle d'or budgétaire en fonction de la \"volatilité\" sur les marchés, et des conséquences liées au débat budgétaire en cours au Parlement.",
-"source": "LCP",
-"date": "2026-11-23T08:24:09+00:00",
-"added": "2026-11-23T10:01:58+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "7caa35e6f9cae5c3",
-"title": "\"Règle d'or budgétaire\", dette... Le \"8h30 franceinfo\" de Thierry Breton",
-"link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/regle-d-or-budgetaire-dette-le-8h30-franceinfo-de-thierry-breton_8273870.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "Thierry Breton ancien commissaire européen et ancien ministre de l’Économie, est l'invité du \"8h30 franceinfo\" le 23 novembre.",
-"source": "franceinfo",
-"date": "2026-11-23T08:23:42+00:00",
-"added": "2026-11-23T10:01:58+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"matinales",
-"gouvernement"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Thierry Breton"
-},
-{
-"id": "a8a200eaf8c91168",
-"title": "Commission d'enquête sur le 17 octobre : \"L'État de droit dans ce pays, ce soir-là, n'existait plus\", estime le maire DVG de Marseille, Benoît Payan",
-"link": "https://www.franceinfo.fr/politique/commission-d-enquete-sur-le-17-octobre-l-etat-de-droit-dans-ce-pays-ce-soir-la-n-existait-plus-estime-le-maire-dvg-de-marseille-benoit-payan_8295605.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "Invité des \"4 Vérités\", lundi 23 novembre, l'édile phocéen Divers gauche confirme qu'il sera entendu mercredi par la commission d'enquête parlementaire sur les événements du 17 octobre.",
-"source": "franceinfo",
-"date": "2026-11-23T08:18:17+00:00",
-"added": "2026-11-23T10:01:58+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"matinales",
-"parlement"
-],
-"natures": [
-"Citation"
-],
-"speaker": ""
 }
 ]
