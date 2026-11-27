@@ -1,5 +1,659 @@
 [
 {
+"id": "bf4cca8691df8ab3",
+"title": "\"Ce refus est inquiétant\", estime Raquel Garrido, co-fondatrice du mouvement L’Après, suite au refus de LFI de rencontrer son mouvement",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-ce-refus-est-inquietant-estime-raquel-garrido-co-fondatrice-du-mouvement-l-apres-suite-au-refus-de-lfi-de-rencontrer-son-mouvement_VN-202611270794.html",
+"summary": "Le mouvement l'Après composé d'ex-Insoumis a proposé une \"rencontre bilatérale\" avec La France insoumise pour discuter d'une éventuelle coalition pour la présidentielle.",
+"source": "BFMTV",
+"date": "2026-11-27T17:41:14+00:00",
+"added": "2026-11-27T17:44:55+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Raquel Garrido"
+},
+{
+"id": "4f9aa4e043260493",
+"title": "Présidentielle 2027: \"Je pense que Raphaël Glucksmann va aller jusqu'au bout\", estime Ségolène Royal",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-2027-je-pense-que-raphael-glucksmann-va-aller-jusqu-au-bout-estime-segolene-royal_VN-202611270786.html",
+"summary": "Ségolène Royal, ancienne ministre, était en direct sur BFMTV. Elle a notamment interrogée sur son soutien à Raphaël Glucksmann pour l'élection présidentielle.",
+"source": "BFMTV",
+"date": "2026-11-27T17:36:45+00:00",
+"added": "2026-11-27T17:44:55+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Ségolène Royal"
+},
+{
+"id": "3219c2e5171c0cf4",
+"title": "\"Quand vous critiquez davantage LFI que le bilan d'Emmanuel Macron qui est catastrophique, ça pose un problème\": Ségolène Royal charge Raphaël Glucksmann",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-quand-vous-critiquez-davantage-lfi-que-le-bilan-d-emmanuel-macron-qui-est-catastrophique-ca-pose-un-probleme-segolene-royal-charge-raphael-glucksmann_VN-202611270784.html",
+"summary": "Ségolène Royal, ancienne ministre, était en direct sur BFMTV. Elle a été interrogée sur son soutien à Raphaël Glucksmann, vainqueur de la primaire sociale-démocrate, pour l'élection présidentielle.",
+"source": "BFMTV",
+"date": "2026-11-27T17:35:00+00:00",
+"added": "2026-11-27T17:44:55+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Ségolène Royal"
+},
+{
+"id": "4b7ed936d1b17705",
+"title": "Présidentielle 2027 : le début de campagne de Teddy Riner déjà marqué par les polémiques",
+"link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-le-debut-de-campagne-de-teddy-riner-deja-marque-par-les-polemiques-20261127",
+"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
+"source": "Le Figaro",
+"date": "2026-11-27T17:32:40+00:00",
+"added": "2026-11-27T17:44:55+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "891398868aa5465b",
+"title": "\"David Lisnard, les secrets d'une percée éclair\" : regardez le documentaire de franceinfo consacré aux coulisses de l'entrée en campagne présidentielle du maire de Cannes",
+"link": "https://www.franceinfo.fr/politique/david-lisnard/direct-david-lisnard-les-secrets-d-une-percee-eclair-regardez-le-documentaire-de-franceinfo-consacre-aux-coulisses-de-l-entree-en-campagne-presidentielle-du-maire-de-cannes_8301420.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "Il bouscule les sondages parmi les candidats de la droite et vient d'être largement réélu à la tête de l'Association des maires de France.",
+"source": "franceinfo",
+"date": "2026-11-27T17:30:02+00:00",
+"added": "2026-11-27T17:44:55+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "7452d3dfc3d358fd",
+"title": "Pour alléger l’impôt sur les sociétés des PME, Marine Le Pen veut alourdir celui des grandes entreprises",
+"link": "https://www.lefigaro.fr/economie/pour-alleger-l-impot-sur-les-societes-des-pme-marine-le-pen-veut-alourdir-celui-des-grandes-entreprises-20261127",
+"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
+"source": "Le Figaro",
+"date": "2026-11-27T17:30:00+00:00",
+"added": "2026-11-27T17:44:55+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": "Marine Le Pen"
+},
+{
+"id": "ba8f591915cf4f99",
+"title": "Défense, UE, rigueur budgétaire: comment Jean-Luc Mélenchon est-il perçu en Allemagne?",
+"link": "https://www.rfi.fr/fr/france/20261127-d%C3%A9fense-ue-rigueur-budg%C3%A9taire-comment-jean-luc-m%C3%A9lenchon-est-il-per%C3%A7u-en-allemagne",
+"summary": "",
+"source": "RFI",
+"date": "2026-11-27T17:28:01+00:00",
+"added": "2026-11-27T17:44:55+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "90381369d97d3f65",
+"title": "\"La porte n'est pas fermée\": Ségolène Royal n'exclut pas de soutenir Jean-Luc Mélenchon à l'élection présidentielle",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-la-porte-n-est-pas-fermee-segolene-royal-n-exclut-pas-de-soutenir-jean-luc-melenchon-a-l-election-presidentielle_VN-202611270779.html",
+"summary": "Ségolène Royal, ancienne ministre, était en direct sur BFMTV. Elle a notamment été interrogée sur un potentiel soutien à Jean-Luc Mélenchon lors de l'élection présidentielle au détriment de Raphaël Glucksmann.",
+"source": "BFMTV",
+"date": "2026-11-27T17:27:05+00:00",
+"added": "2026-11-27T17:44:55+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Ségolène Royal"
+},
+{
+"id": "e9ecbc971d0d18f3",
+"title": "Manifestation du 28 novembre contre les violences faites aux femmes : à Paris, les associations féministes défileront dans deux cortèges distincts",
+"link": "https://www.lemonde.fr/societe/article/2026/11/27/lutte-contre-les-violences-faites-aux-femmes-les-associations-feministes-defileront-dans-deux-corteges-distincts-le-28-novembre-a-paris_6815914_3224.html",
+"summary": "Alors que les collectifs et organisations féministes affichaient jusqu’ici un front uni lors de cette manifestation organisée chaque année, ils n’ont pu, cette fois, passer outre les divisions, notamment concernant la proposition de loi intégrale.",
+"source": "Le Monde",
+"date": "2026-11-27T17:21:10+00:00",
+"added": "2026-11-27T17:44:55+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "a565ec68608727b6",
+"title": "\"Je crois que c'est la vérité\": Ségolène Royal réitère ses propos sur sa crainte de \"crimes racistes\" en cas de victoire de l'extrême droite à la présidentielle",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-je-crois-que-c-est-la-verite-segolene-royal-reitere-ses-propos-sur-sa-crainte-de-crimes-racistes-en-cas-de-victoire-de-l-extreme-droite-a-la-presidentielle_VN-202611270773.html",
+"summary": "Ségolène Royal, ancienne ministre, était en direct sur BFMTV. Elle a notamment été interrogée sur des propos qu'elle a tenu le 22 novembre en cas de victoire du RN à la présidentielle.",
+"source": "BFMTV",
+"date": "2026-11-27T17:20:06+00:00",
+"added": "2026-11-27T17:44:55+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement",
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "e0d309db9bce9ade",
+"title": "Présidentielle 2027 : A Berlin, Mélenchon loue Marx ou Beethoven et se défend de toute germanophobie",
+"link": "https://www.20minutes.fr/politique/4266400-20261127-presidentielle-2027-berlin-melenchon-loue-marx-beethoven-defend-toute-germanophobie?at_medium=display&at_campaign=149",
+"summary": "En visite à Berlin, Jean-Luc Mélenchon s’est employé à balayer les accusations de germanophobie, entre éloge de Marx et Beethoven et critiques de l’Allemagne.",
+"source": "20 Minutes",
+"date": "2026-11-27T17:20:01+00:00",
+"added": "2026-11-27T17:44:55+00:00",
+"official": false,
+"also": [
+"France 24"
+],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [
+"Réaction"
+],
+"speaker": ""
+},
+{
+"id": "b9a83238db4f000a",
+"title": "\"Une surenchère et une course vers l'extrême droite\": Ségolène Royal charge David Lisnard et ses propositions sur l'immigration",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-une-surenchere-et-une-course-vers-l-extreme-droite-segolene-royal-charge-david-lisnard-et-ses-propositions-sur-l-immigration_VN-202611270762.html",
+"summary": "Le maire de Cannes, candidat à la présidentielle, a donné des éclaircissements sur son programme sur le plan de l'immigration et de la sécurité dans un entretien au Figaro Magazine.",
+"source": "BFMTV",
+"date": "2026-11-27T17:12:37+00:00",
+"added": "2026-11-27T17:44:55+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Ségolène Royal"
+},
+{
+"id": "51ffda4ee8483881",
+"title": "Présidentielle 2027. La surprenante collaboration entre David Lisnard et le Hellfest vient de prendre fin « il y a quelques jours »",
+"link": "https://www.ouest-france.fr/politique/david-lisnard/presidentielle-2027-la-surprenante-collaboration-entre-david-lisnard-et-le-hellfest-vient-de-prendre-fin-il-y-a-quelques-jours-9c2337f8-ea4b-11f1-bb2d-c71dc7920c2a",
+"summary": "",
+"source": "Ouest-France",
+"date": "2026-11-27T17:06:52+00:00",
+"added": "2026-11-27T17:44:55+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "623ff2e08d0306d5",
+"title": "Présidentielle: Ségolène Royal juge qu'il y a \"un certain mépris\" à l'encontre de Teddy Riner",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-segolene-royal-juge-qu-il-y-a-un-certain-mepris-a-l-encontre-de-teddy-riner_VN-202611270751.html",
+"summary": "Ce jeudi 26 novembre, le judoka devenu candidat à la présidentielle est revenu sur ses propos tenus sur la guerre en Ukraine.",
+"source": "BFMTV",
+"date": "2026-11-27T17:03:50+00:00",
+"added": "2026-11-27T17:44:55+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Ségolène Royal"
+},
+{
+"id": "34c8079b9fb41c68",
+"title": "L’extrême droite française a-t-elle vraiment changé ? L’historien Laurent Joly, invité de notre podcast vidéo « L’Heure de la présidentielle »",
+"link": "https://www.lemonde.fr/videos/video/2026/11/27/l-extreme-droite-francaise-a-t-elle-vraiment-change-l-historien-laurent-joly-invite-de-notre-podcast-video-l-heure-de-la-presidentielle_6815909_1669088.html",
+"summary": "Dans ce troisième épisode du podcast « L’Heure de la présidentielle », l’historien Laurent Joly retrace deux siècles de constantes au sein de l’extrême droite en France.",
+"source": "Le Monde",
+"date": "2026-11-27T17:00:16+00:00",
+"added": "2026-11-27T17:44:55+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"presidentielle"
+],
+"natures": [
+"Interview"
+],
+"speaker": ""
+},
+{
+"id": "7f9cc7f54131f2b3",
+"title": "Position de Teddy Riner sur l'Ukraine: \"Sur des sujets complexes, il faut accepter la diversité des points de vue\", estime Ségolène Royal, ancienne ministre socialiste",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-position-de-teddy-riner-sur-l-ukraine-sur-des-sujets-complexes-il-faut-accepter-la-diversite-des-points-de-vue-estime-segolene-royal-ancienne-ministre-socialiste_VN-202611270744.html",
+"summary": "Teddy Riner, candidat surprise à l'élection présidentielle, est ce vendredi à Béziers à l'invitation du maire Robert Ménard pour une visite de la prison avant de se rendre dans une cave coopérative.",
+"source": "BFMTV",
+"date": "2026-11-27T17:00:12+00:00",
+"added": "2026-11-27T17:44:55+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Ségolène Royal"
+},
+{
+"id": "14272634769b38ea",
+"title": "Le groupe d’experts sur le smic s’inquiète de la « smicardisation » de la France",
+"link": "https://www.lemonde.fr/politique/article/2026/11/27/le-groupe-d-experts-sur-le-smic-s-inquiete-de-la-smicardisation-du-pays_6815906_823448.html",
+"summary": "Alors que le gouvernement a décidé d’augmenter le salaire minimum de 1,6 % le 1ᵉʳ décembre, le groupe estime qu’il vaut mieux privilégier les aides ciblées pour protéger le pouvoir d’achat, et recommande de revoir le système des allègements de cotisations.",
+"source": "Le Monde",
+"date": "2026-11-27T17:00:05+00:00",
+"added": "2026-11-27T17:44:55+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"gouvernement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "7d5d2b9a2cd3ac2d",
+"title": "« Elle va gagner les prochaines élections » : courtisée par Nigel Farage, Marine Le Pen garde ses distances",
+"link": "https://www.lepoint.fr/monde/elle-va-gagner-les-prochaines-elections-courtisee-par-nigel-farage-marine-le-pen-garde-ses-distances-JHALT7AGZREYJE3AKTQXU6MZDI/",
+"summary": "",
+"source": "Le Point",
+"date": "2026-11-27T17:00:00+00:00",
+"added": "2026-11-27T17:44:55+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "67f70582e514aa4a",
+"title": "Présidentielle 2027: \"On est sur un candidat neuf\", explique Christophe Naegelen, président du groupe LIOT à l’Assemblée, soutien de David Lisnard",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-2027-on-est-sur-un-candidat-neuf-explique-christophe-naegelen-president-du-groupe-liot-a-l-assemblee-soutien-de-david-lisnard_VN-202611270742.html",
+"summary": "Plusieurs députés du groupe Droite républicaine ont appelé à voter pour le candidat Nouvelle Énergie à la présidentielle David Lisnard, dans une tribune.",
+"source": "BFMTV",
+"date": "2026-11-27T16:57:55+00:00",
+"added": "2026-11-27T17:44:55+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Christophe Naegelen"
+},
+{
+"id": "74751d75cec75d4b",
+"title": "« Une autorité naturelle » : Gérard Larcher attendu comme le sauveur pour sélectionner le candidat de la droite et du centre à la présidentielle",
+"link": "https://www.letelegramme.fr/france/une-autorite-naturelle-gerard-larcher-attendu-comme-le-sauveur-pour-selectionner-le-candidat-de-la-droite-et-du-centre-a-la-presidentielle-7167657.php",
+"summary": "",
+"source": "Le Télégramme",
+"date": "2026-11-27T16:54:29+00:00",
+"added": "2026-11-27T17:44:55+00:00",
+"official": false,
+"also": [],
+"base": [
+"parlement"
+],
+"filtered": true,
+"topics": [
+"parlement",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "282b9cf2e280390c",
+"title": "\"C'est profondément sexiste\" : grosse tension entre Laurent Wauquiez et Nadège Abomangoli",
+"link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYmhqMzRpaGFHLTg3a1FvNF9NZHR3eVRtNUFTTUdDZEdtUWQ4bWFmQk0yMWVUUHBzMnRjc0luZGplRGVDNkxpYjBJOE5uUjIxUmtRRjloV1RpWG9yWmQ5TmhycFRmWlFPbUFVd2RaeEhPYkRfOFJPZ3RhWUVuNEdDMUE3OWRibVJOZ1JKTl9qU1JjQkNSbGRQYzBxak5EMS1pQVYtYVdRRWRQcWhsaHVsS2g2anZpQXF3NmZRTjlZbDA4c19KakRjLXI1X0ExTV93aW10dkJRUVhxUVEtYTIw?oc=5",
+"summary": "",
+"source": "L'Est Républicain",
+"date": "2026-11-27T16:32:08+00:00",
+"added": "2026-11-27T17:44:55+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "6eebe44d9cd71c56",
+"title": "Présidentielle : \"Mélenchon, ou 'l'antifascisme' qui prépare la victoire de Marine Le Pen\"",
+"link": "https://www.marianne.net/politique/presidentielle-melenchon-ou-l-antifascisme-qui-prepare-la-victoire-de-marine-le-pen",
+"summary": "Politologue à Kedge Business School et fondatrice de l'institut Spirales, Virginie Martin souligne le grand paradoxe de Mélenchon : être antifasciste, mais mener une stratégie qui risque de faire gagner le RN.\n70 % contre 30 %. 68 % contre 32 %.",
+"source": "Marianne",
+"date": "2026-11-27T16:30:23+00:00",
+"added": "2026-11-27T17:44:55+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "419f7b41795ae358",
+"title": "Présidentielle 2027 : « L’automne est une période cruciale et trompeuse, durant laquelle les candidats se jaugent dans le miroir de l’opinion »",
+"link": "https://www.lemonde.fr/politique/article/2026/11/27/presidentielle-2027-l-automne-est-une-periode-cruciale-et-trompeuse-durant-laquelle-les-candidats-se-jaugent-dans-le-miroir-de-l-opinion_6815901_823448.html",
+"summary": "Alors que les prétendants à l’Elysée se multiplient en novembre, l’histoire de la Vᵉ République rappelle combien les percées sondagières de fin d’année résistent mal aux épreuves du printemps, estime Matthieu Goar, l’un des chefs du service Politique du « Monde ».",
+"source": "Le Monde",
+"date": "2026-11-27T16:30:03+00:00",
+"added": "2026-11-27T17:44:55+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "384e9e8ba71a4bde",
+"title": "«Il a pris le temps de discuter»: Teddy Riner, candidat à la présidentielle 2027 était à la rencontre des Jeunes Agriculteurs dans la Manche",
+"link": "https://www.ouest-france.fr/elections/presidentielle/il-a-pris-le-temps-de-discuter-teddy-riner-candidat-a-la-presidentielle-2027-etait-a-la-rencontre-des-jeunes-agriculteurs-dans-la-manche-041bdd42-ea74-11f1-9369-66ef1b7e4135",
+"summary": "",
+"source": "Ouest-France",
+"date": "2026-11-27T16:24:11+00:00",
+"added": "2026-11-27T17:44:55+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "ecfbe8c202662972",
+"title": "L'hommage national aux victimes de l'attentat raciste de Trappes et de La Verrière aura lieu le 4 décembre aux Invalides",
+"link": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/l-hommage-national-aux-victimes-de-l-attentat-raciste-de-trappes-et-de-la-verriere-aura-lieu-le-4-decembre-aux-invalides_8303391.html#xtor=RSS-3-%5Bpolitique%5D",
+"summary": "Cet hommage, qui se tiendra à Paris plus d'un mois après la mort de Pengo Bossio Wangi, sera présidé par le Premier ministre, Sébastien Lecornu.",
+"source": "franceinfo",
+"date": "2026-11-27T16:18:26+00:00",
+"added": "2026-11-27T17:44:55+00:00",
+"official": false,
+"also": [
+"BFMTV"
+],
+"base": [],
+"filtered": true,
+"topics": [
+"elysee",
+"gouvernement"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "6ad82efc930c9ac4",
+"title": "À Berlin, Jean-Luc Mélenchon récuse toute germanophobie et veut revoir le couple franco-allemand",
+"link": "https://www.ledauphine.com/politique/2026/11/27/a-berlin-melenchon-recuse-toute-germanophobie-et-veut-revoir-le-couple-franco-allemand",
+"summary": "Venu présenter son livre traduit en allemand, le leader insoumis se dit admirateur de Marx et Beethoven, mais critique des politiques allemandes en Europe.",
+"source": "Le Dauphiné Libéré",
+"date": "2026-11-27T16:16:44+00:00",
+"added": "2026-11-27T17:44:55+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "515ee32b69354dc3",
+"title": "Présidentielle 2027: \"Sur le terrain, on me parle de David Lisnard chaque jour, sa dynamique est très forte\", admet Corentin Le Fur, député LR et soutien de Bruno Retailleau",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-2027-sur-le-terrain-on-me-parle-de-david-lisnard-chaque-jour-sa-dynamique-est-tres-forte-admet-corentin-le-fur-depute-lr-et-soutien-de-bruno-retailleau_VN-202611270712.html",
+"summary": "Corentin Le Fur, député LR des Côtes-d’Armor, était l'invité de BFMTV. Il a été interrogé sur la percée de David Lisnard dans les intentions de vote à l'élection présidentielle de 2027.",
+"source": "BFMTV",
+"date": "2026-11-27T16:13:16+00:00",
+"added": "2026-11-27T17:44:55+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"matinales",
+"parlement",
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Corentin Le Fur"
+},
+{
+"id": "824aef43f74f234e",
+"title": "Présidentielle 2027 : en Loir-et-Cher, les comités de campagne et de soutien au candidat Glucksmann se mettent en place",
+"link": "https://www.lanouvellerepublique.fr/loir-et-cher/presidentielle-2027-en-loir-et-cher-les-comites-de-campagne-et-de-soutien-au-candidat-glucksmann-se-mettent-en-place-1795795707",
+"summary": "Catherine Lockhart, Antoine Huguet et Christophe Degruelle vont jouer un rôle actif dans la campagne du candidat Glucksmann en Loir-et-Cher. © Montage NR\nÀ 140 jours du premier tour de l’élection présidentielle, les équipes se mettent en ordre de marche.",
+"source": "La Nouvelle République",
+"date": "2026-11-27T16:08:19+00:00",
+"added": "2026-11-27T17:44:55+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "ee6a11bc487688f2",
+"title": "Campagne de Teddy Riner: \"C'est un exercice qu'il ne maîtrise pas, il apprend les codes\", pointe Céline Géraud, porte-parole de campagne de Gabriel Attal",
+"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-campagne-de-teddy-riner-c-est-un-exercice-qu-il-ne-maitrise-pas-il-apprend-les-codes-pointe-celine-geraud-porte-parole-de-campagne-de-gabriel-attal_VN-202611270708.html",
+"summary": "Teddy Riner est ce vendredi à Béziers, où il visite le centre pénitentiaire de la ville au côté du maire Robert Ménard.",
+"source": "BFMTV",
+"date": "2026-11-27T16:04:51+00:00",
+"added": "2026-11-27T17:44:55+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": "Campagne de Teddy Riner"
+},
+{
+"id": "115f211777eb2d6a",
+"title": "« Rallier Mélenchon n’aurait pas de sens » : lettre ouverte à mes ami·e·s écologistes",
+"link": "https://www.nouvelobs.com/opinions/20261127.OBS121383/rallier-melenchon-n-aurait-pas-de-sens-lettre-ouverte-a-mes-ami-e-s-ecologistes.html",
+"summary": "S’abonner permet de commenter les articles. Et pas que : vous pouvez les consulter et les offrir à vos proches.",
+"source": "Le Nouvel Obs",
+"date": "2026-11-27T16:00:27+00:00",
+"added": "2026-11-27T17:44:55+00:00",
+"official": false,
+"also": [],
+"base": [
+"partis"
+],
+"filtered": true,
+"topics": [
+"partis"
+],
+"natures": [
+"Tribune"
+],
+"speaker": ""
+},
+{
+"id": "8c69ca25f908ecdd",
+"title": "\"C'est une remarque profondément sexiste\": échanges tendus lors de la fin de la niche parlementaire du parti Les Républicains",
+"link": "https://www.bfmtv.com/politique/la-france-insoumise/video-c-est-une-remarque-profondement-sexiste-echanges-tendus-lors-de-la-fin-de-la-niche-parlementaire-du-parti-les-republicains_VN-202611270702.html",
+"summary": "Échanges tendus entre la députée LFI et présidente de la séance, Nadège Abomangoli, et le député LR, Laurent Wauquiez lors de la fin de la niche parlementaire de son parti, hier soir",
+"source": "BFMTV",
+"date": "2026-11-27T15:59:19+00:00",
+"added": "2026-11-27T17:44:55+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement",
+"partis"
+],
+"natures": [],
+"speaker": ""
+},
+{
+"id": "3a96eb25b321af7c",
+"title": "Face à la menace de l’extrême droite, «si la gauche fait campagne contre la gauche, elle sera coupable»",
+"link": "https://www.liberation.fr/politique/election-presidentielle-de-2027-si-la-gauche-fait-campagne-contre-la-gauche-elle-sera-coupable-20261127_6ZUJYLYC5RHARIFBEZE5SAJLWI/",
+"summary": "Pour le député du groupe écolo et président du collectif de lutte contre l’extrême droite la Digue, Pouria Amirshahi, les progressistes doivent avant tout «proposer un projet politique, au-delà des programmes» pour contrer l’arrivée au pouvoir du RN.",
+"source": "Libération",
+"date": "2026-11-27T15:50:08+00:00",
+"added": "2026-11-27T17:44:55+00:00",
+"official": false,
+"also": [],
+"base": [],
+"filtered": true,
+"topics": [
+"parlement",
+"partis"
+],
+"natures": [
+"Citation"
+],
+"speaker": ""
+},
+{
 "id": "34e4f347f27b993e",
 "title": "Présidentielle 2027 : Capitalisation obligatoire, moins de normes… On vous résume le programme de David Lisnard",
 "link": "https://www.20minutes.fr/politique/4266335-20261127-presidentielle-2027-capitalisation-obligatoire-moins-normes-resume-programme-david-lisnard?at_medium=display&at_campaign=149",
@@ -519,7 +1173,9 @@
 "date": "2026-11-27T13:56:55+00:00",
 "added": "2026-11-27T14:11:00+00:00",
 "official": false,
-"also": [],
+"also": [
+"Le Figaro"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -1663,7 +2319,9 @@
 "date": "2026-11-27T10:25:27+00:00",
 "added": "2026-11-27T11:43:54+00:00",
 "official": false,
-"also": [],
+"also": [
+"Sud Ouest"
+],
 "base": [],
 "filtered": true,
 "topics": [
@@ -1793,6 +2451,30 @@
 ],
 "natures": [],
 "speaker": ""
+},
+{
+"id": "1417f8c37156ab03",
+"title": "Présidentielle 2027 : Sarah Knafo dans les starting-blocks pour 2032 ? Eric Zemmour annonce que sa compagne est \"prête\" à prendre son relai",
+"link": "https://www.midilibre.fr/2026/11/27/presidentielle-2027-sarah-knafo-dans-les-starting-blocks-pour-2032-eric-zemmour-annonce-que-sa-compagne-est-prete-a-prendre-son-relai-13674052.php",
+"summary": "Éric Zemmour a annoncé jeudi 26 novembre que la présidentielle de 2027 serait sa \"dernière campagne\". Le candidat Reconquête laisse entendre que Sarah Knafo pourrait prendre le relais en 2032.",
+"source": "Midi Libre",
+"date": "2026-11-27T09:54:00+00:00",
+"added": "2026-11-27T17:44:55+00:00",
+"official": false,
+"also": [],
+"base": [
+"presidentielle"
+],
+"filtered": true,
+"topics": [
+"partis",
+"presidentielle"
+],
+"natures": [
+"Citation",
+"Annonce"
+],
+"speaker": "Éric Zemmour"
 },
 {
 "id": "7191b1045f6a8de6",
@@ -2556,7 +3238,8 @@
 "added": "2026-11-27T09:54:14+00:00",
 "official": false,
 "also": [
-"Le Figaro"
+"Le Figaro",
+"Le Parisien"
 ],
 "base": [],
 "filtered": true,
@@ -17827,857 +18510,5 @@
 ],
 "natures": [],
 "speaker": ""
-},
-{
-"id": "32070df611f2dece",
-"title": "Présidentielle 2027 : Edouard Philippe a voté pour David Lisnard à la présidence de l’AMF, mais fustige sa posture dans la course à l’Elysée",
-"link": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/24/edouard-philippe-a-vote-pour-david-lisnard-a-la-presidence-de-l-amf-mais-fustige-sa-posture-dans-la-course-a-l-elysee_6814832_6205049.html",
-"summary": "Le candidat Horizons a rapproché au maire de Cannes de vouloir travailler avec la droite et la « droite extrême ».",
-"source": "Le Monde",
-"date": "2026-11-24T17:43:11+00:00",
-"added": "2026-11-24T19:52:02+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"partis",
-"presidentielle"
-],
-"natures": [
-"Réaction"
-],
-"speaker": ""
-},
-{
-"id": "fd2d4ed34b5bfef2",
-"title": "Budget 2027 : le Sénat réduit l'abattement fiscal des retraités, mais ne le supprime pas",
-"link": "https://www.lesechos.fr/economie-france/budget-fiscalite/budget-2027-le-senat-reduit-labattement-fiscal-des-retraites-mais-ne-le-supprime-pas-2264429",
-"summary": "",
-"source": "Les Echos",
-"date": "2026-11-24T17:38:46+00:00",
-"added": "2026-11-24T17:43:12+00:00",
-"official": false,
-"also": [
-"Le Monde",
-"20 Minutes"
-],
-"base": [
-"parlement"
-],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "8d85ec27bf5d4597",
-"title": "VRAI OU FAUX. Les visiteurs de l'Assemblée nationale peuvent-ils tourner une vidéo à connotation politique dans l'hémicycle ?",
-"link": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-les-visiteurs-de-l-assemblee-nationale-peuvent-ils-tourner-une-video-a-connotation-politique-dans-l-hemicycle_8297472.html#xtor=RSS-3-%5Bpolitique%5D",
-"summary": "La présidente de l'Assemblée nationale a condamné lundi le tournage dans l'hémicycle d'une vidéo où six jeunes dénoncent l'adoption de la loi sur la présomption d'usage légal des armes par les forces de l'ordre.",
-"source": "franceinfo",
-"date": "2026-11-24T17:32:32+00:00",
-"added": "2026-11-24T17:43:12+00:00",
-"official": false,
-"also": [
-"Franceinfo"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "f4fdc923d63c64ba",
-"title": "Présidentielle 2027: \"Mon candidat c'est le fédéralisme\", déclare Jean-Louis Borloo",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-2027-mon-candidat-c-est-le-federalisme-declare-jean-louis-borloo_VN-202611240812.html",
-"summary": "Jean-Louis Borloo, acien ministre, président fondateur de l'UDI, était l’invité de BFMTV ce mardi 24 novembre.",
-"source": "BFMTV",
-"date": "2026-11-24T17:32:11+00:00",
-"added": "2026-11-24T17:43:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"matinales",
-"gouvernement",
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jean-Louis Borloo"
-},
-{
-"id": "4e6ec6dd326aea5f",
-"title": "Cette étude révèle les perdants de la réforme des retraites voulue par le RN",
-"link": "https://www.huffingtonpost.fr/politique/article/la-reforme-des-retraites-du-rn-ferait-beaucoup-de-perdants-cette-etude-en-dresse-les-profils_364226.html",
-"summary": "La réforme Borne, en pire ? Depuis que le Rassemblement national a présenté ce qu’il entendait faire du système des retraites s’il accède au pouvoir en mai prochain, les critiques ne cessent de pleuvoir.",
-"source": "Le HuffPost",
-"date": "2026-11-24T17:30:06+00:00",
-"added": "2026-11-24T21:44:42+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "f48ff6ee287e627e",
-"title": "Un \"phénomène d'automne\" : Marine Le Pen connaît son premier recul dans les sondages, son entourage minimise l'impact de David Lisnard",
-"link": "https://www.tf1info.fr/politique/elections/presidentielle/un-phenomene-d-automne-alors-que-marine-le-pen-connait-son-premier-recul-dans-les-sondages-son-entourage-minimise-l-impact-de-david-lisnard-2477893.html",
-"summary": "Le phénomène commence à durer et à se confirmer : après Édouard Philippe, Marine Le Pen est-elle à son tour victime de \"l'effet Lisnard\" ?",
-"source": "TF1 Info",
-"date": "2026-11-24T17:30:03+00:00",
-"added": "2026-11-24T17:43:12+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "1fd0a57901908fd7",
-"title": "Présidentielle: \"Nous sommes en échec partout\", pointe Jean-Louis Borloo, ancien ministre, sur la situation de la France",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-presidentielle-nous-sommes-en-echec-partout-pointe-jean-louis-borloo-ancien-ministre-sur-la-situation-de-la-france_VN-202611240798.html",
-"summary": "Jean-Louis Borloo, ancien ministre, président fondateur de l'UDI, était l'invité de BFMTV ce mardi 24 novembre.",
-"source": "BFMTV",
-"date": "2026-11-24T17:21:28+00:00",
-"added": "2026-11-24T17:43:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"matinales",
-"gouvernement",
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "ac34e56034043851",
-"title": "Après le classement sans suite de sa plainte pour menaces, l’élu Rassemblement national de Guichen formule un recours",
-"link": "https://www.ouest-france.fr/politique/rassemblement-national/apres-le-classement-sans-suite-de-sa-plainte-pour-menaces-lelu-rassemblement-national-de-guichen-formule-un-recours-fada8ab0-e598-11f1-afa7-9a0bb82a33d1",
-"summary": "",
-"source": "Ouest-France",
-"date": "2026-11-24T17:18:24+00:00",
-"added": "2026-11-24T17:43:12+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "100710e0940a4241",
-"title": "Jean-Luc Mélenchon",
-"link": "https://www.bfmtv.com/politique/jean-luc-melenchon_DN-201701010040.html",
-"summary": "Jean-Luc Mélenchon est candidat à l'élection présidentielle pour La France insoumise en 2027. Il s'agira, comme Marine Le Pen, de sa quatrième tentative depuis 2012.",
-"source": "BFMTV",
-"date": "2026-11-24T17:09:29+00:00",
-"added": "2026-11-24T17:43:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "6aa96325359c143a",
-"title": "\"Le pire de l'esprit de défaite typiquement vichiste\": Jean-Luc Mélenchon répond à François Bayrou sur son refus de choisir en cas de second tour entre LFI et le RN",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/le-pire-de-l-esprit-de-defaite-typiquement-vichiste-jean-luc-melenchon-repond-a-francois-bayrou-sur-son-refus-de-choisir-en-cas-de-second-tour-entre-lfi-et-le-rn_AN-202611240784.html",
-"summary": "L'ancien Premier ministre François Bayrou a annoncé qu'il ne votera ni pour le Rassemblement national ni pour la France insoumise en cas de second tour entre Marine Le Pen et Jean-Luc Mélenchon à la présidentielle.",
-"source": "BFMTV",
-"date": "2026-11-24T17:09:28+00:00",
-"added": "2026-11-24T17:43:12+00:00",
-"official": false,
-"also": [
-"Le Parisien"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement",
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "Jean-Luc Mélenchon"
-},
-{
-"id": "423792336c50e666",
-"title": "Budget 2027 : les sénateurs étrillent la « lettre au Père Noël » de Sébastien Lecornu, qui appelle les parlementaires au « compromis »",
-"link": "https://www.publicsenat.fr/actualites/politique/budget-2027-les-senateurs-etrillent-la-lettre-au-pere-noel-de-sebastien-lecornu-qui-appelle-les-parlementaires-au-compromis",
-"summary": "Alors que le projet de loi de finances est examiné au Sénat après avoir été rejeté à l’Assemblée nationale, le Premier ministre espère encore parvenir à trouver un accord avec les parlementaires sans dégrader le déficit.",
-"source": "Public Sénat",
-"date": "2026-11-24T17:07:03+00:00",
-"added": "2026-11-27T06:40:14+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"gouvernement",
-"parlement"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Sébastien Lecornu"
-},
-{
-"id": "2550dde995d439b7",
-"title": "Loi logement : les députés adoptent en première lecture le projet, y compris la suppression de l'interdiction de louer des «passoires thermiques»",
-"link": "https://www.cnews.fr/france/2026-11-24/loi-logement-les-deputes-adoptent-en-premiere-lecture-le-projet-y-compris-la",
-"summary": "L'Assemblée nationale a adopté en première lecture le projet de loi logement. Après plusieurs mois de débat, les députés ont donc décidé de voter en faveur de cette loi visant à relancer le logement en France.",
-"source": "CNews",
-"date": "2026-11-24T17:04:30+00:00",
-"added": "2026-11-24T17:43:12+00:00",
-"official": false,
-"also": [
-"franceinfo"
-],
-"base": [
-"parlement"
-],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "dcd4067b3d2576a2",
-"title": "Logement: les députés adoptent une version du projet de loi réautorisant, à ce stade, la location des passoires thermiques",
-"link": "https://lcp.fr/actualites/logement-les-deputes-adoptent-une-version-du-projet-de-loi-reautorisant-a-ce-stade-la",
-"summary": "L'Assemblée nationale a adopté en première lecture, ce mardi 24 novembre, le projet de loi sur la relance du logement.",
-"source": "LCP",
-"date": "2026-11-24T17:02:59+00:00",
-"added": "2026-11-24T17:43:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "cb55cda26abe01b1",
-"title": "\"Ne pas être allé en Chine, c’est ne pas comprendre le monde\" : le prochain président devra traiter avec Xi Jinping, et tous les candidats n’y sont pas prêts",
-"link": "https://www.lexpress.fr/politique/ne-pas-etre-alle-en-chine-cest-ne-pas-comprendre-le-monde-le-prochain-president-devra-traiter-avec-LJ5J4AC7VBBENFFXPSQSITMJKU/",
-"summary": "Qui a prétendu que Marine Le Pen ne ressemblait pas à Emmanuel Macron ou à François Hollande ?",
-"source": "L'Express",
-"date": "2026-11-24T17:00:00+00:00",
-"added": "2026-11-24T17:43:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "004b77ced333607c",
-"title": "Le Rassemblement national confirme la venue de Marine Le Pen dans la Vienne, dimanche 29 novembre",
-"link": "https://www.lanouvellerepublique.fr/montmorillon/le-rassemblement-national-confirme-la-venue-de-marine-le-pen-dans-la-vienne-dimanche-29-novembre-1795539517",
-"summary": "La dernière fois que Marine Le Pen est venue dans la Vienne, c’était en 2017. © (Photo archives NR-CP, Patrick Lavaud)\nPar la voix de sa déléguée départementale Hager Jacquemin, le Rassemblement national a confirmé, ce mardi 24 novembre 2026, la venue de Marine Le Pen ce dimanche à la foire des Hérolles, dans la…",
-"source": "La Nouvelle République",
-"date": "2026-11-24T16:58:37+00:00",
-"added": "2026-11-24T17:43:12+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "f3d6fa45fbd2d568",
-"title": "VRAI/FAUX. Présidentielle: les dates de l’élection de 2022 ont-elles été \"avancées\" par Emmanuel Macron pour avoir une campagne \"courte\", comme l’affirme Natacha Polony?",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/vrai-faux-presidentielle-les-dates-de-l-election-de-2022-ont-elles-ete-avancees-par-emmanuel-macron-pour-avoir-une-campagne-courte-comme-l-affirme-natacha-polony_AV-202611240768.html",
-"summary": "L'essayiste et candidate à la présidentielle affirme qu'Emmanuel Macron a \"avancé\" les dates de la présidentielle 2022 pour favoriser une campagne \"très courte\".",
-"source": "BFMTV",
-"date": "2026-11-24T16:54:35+00:00",
-"added": "2026-11-24T17:43:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Natacha Polony"
-},
-{
-"id": "e66b0cb6c26f9975",
-"title": "« Emmanuel est venu nous serrer la main » : de Sulniac à l’Élysée, la réussite d’AB Technologies au sommet Choose France",
-"link": "https://www.letelegramme.fr/morbihan/sulniac-56250/de-sulniac-a-lelysee-la-reussite-dab-technologies-au-sommet-choose-france-7165790.php",
-"summary": "",
-"source": "Le Télégramme",
-"date": "2026-11-24T16:53:39+00:00",
-"added": "2026-11-24T21:44:42+00:00",
-"official": false,
-"also": [],
-"base": [
-"elysee"
-],
-"filtered": true,
-"topics": [
-"elysee"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "2ce1e2a428596a91",
-"title": "86% des Français de confession juive estiment que Jean-Luc Mélenchon contribue à la montée de l'antisémitisme, 36% pour Marine Le Pen, selon une enquête de l'Ifop",
-"link": "https://www.bfmtv.com/politique/video-86-des-francais-de-confession-juive-estiment-que-jean-luc-melenchon-contribue-a-la-montee-de-l-antisemitisme-36-pour-marine-le-pen-selon-une-enquete-de-l-ifop_VN-202611240766.html",
-"summary": "Selon une enquête de l'Ifop réalisée pour l'American Jewish Committee (AJC) et la Fondapol et publiée le 16 novembre 2026, 58% des Français et 86% des Français de confession juive estiment que Jean-Luc Mélenchon contribue à la montée de l'antisémitisme",
-"source": "BFMTV",
-"date": "2026-11-24T16:49:27+00:00",
-"added": "2026-11-24T17:43:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": "Marine Le Pen"
-},
-{
-"id": "640540ec014f80d0",
-"title": "Jean-Marie Le Pen \"a tenu des propos qui sont antisémites et qui ne sont pas ceux que Marine Le Pen et Jordan Bardella partagent\", assure Matthieu Valet, eurodéputé RN",
-"link": "https://www.bfmtv.com/politique/front-national/video-jean-marie-le-pen-a-tenu-des-propos-qui-sont-antisemites-et-qui-ne-sont-pas-ceux-que-marine-le-pen-et-jordan-bardella-partagent-assure-matthieu-valet-eurodepute-rn_VN-202611240759.html",
-"summary": "La porte-parole de la campagne présidentielle de Marine Le Pen présidait dans les années 1990 un syndicat étudiant dont la revue publiait notamment des écrits antisémites, selon le média Les Jours.",
-"source": "BFMTV",
-"date": "2026-11-24T16:43:58+00:00",
-"added": "2026-11-24T17:43:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Matthieu Valet"
-},
-{
-"id": "3008d2b4cc8ec6cb",
-"title": "David Lisnard, le candidat ultralibéral qui chamboule la campagne à droite",
-"link": "https://www.france24.com/fr/france/20261124-france-presidentielle-2027-david-lisnard-candidat-ultraliberal-chamboule-campagne-droite",
-"summary": "",
-"source": "France 24",
-"date": "2026-11-24T16:43:24+00:00",
-"added": "2026-11-24T17:43:12+00:00",
-"official": false,
-"also": [
-"BFMTV"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "3d419b8b97a80a1c",
-"title": "L'EFFET GRABLY - Ces fois où le RN et des cadres du parti ont été accusés d'antisémitisme",
-"link": "https://www.bfmtv.com/politique/front-national/video-l-effet-grably-ces-fois-ou-le-rn-et-des-cadres-du-parti-ont-ete-accuses-d-antisemitisme_VN-202611240760.html",
-"summary": "La porte-parole de la campagne présidentielle de Marine Le Pen présidait dans les années 1990 un syndicat étudiant dont la revue publiait notamment des écrits antisémites, selon le média Les Jours.",
-"source": "BFMTV",
-"date": "2026-11-24T16:42:53+00:00",
-"added": "2026-11-24T17:43:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "5172fd9aa794d3b3",
-"title": "Une coalition LFI – Écologistes ? « La partie n’est pas finie », répond Stéphane Baly à Marine Tondelier",
-"link": "https://www.lavoixdunord.fr/1757803/article/2026-11-24/une-coalition-lfi-ecologistes-la-partie-n-est-pas-finie-repond-stephane-baly",
-"summary": "",
-"source": "La Voix du Nord",
-"date": "2026-11-24T16:35:33+00:00",
-"added": "2026-11-25T17:40:21+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "Stéphane Baly"
-},
-{
-"id": "b07df9c89cb2099a",
-"title": "Présidentielle : comment voter ?",
-"link": "https://www.info.gouv.fr/grand-dossier/chacun-pour-tous/election-presidentielle-2027-comment-participer-au-vote",
-"summary": "",
-"source": "info.gouv.fr",
-"date": "2026-11-24T16:35:09+00:00",
-"added": "2026-11-26T06:38:49+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "a47e3ab926cd016e",
-"title": "Présidentielle 2027 : le mouvement des ex-Insoumis L’Après propose une rencontre avec LFI",
-"link": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-le-mouvement-des-ex-insoumis-lapres-propose-une-rencontre-avec-lfi-24-11-2026-3CMAVEZS4ZHE5KY7Q42I5U3OT4.php",
-"summary": "",
-"source": "Le Parisien",
-"date": "2026-11-24T16:34:22+00:00",
-"added": "2026-11-24T17:43:12+00:00",
-"official": false,
-"also": [],
-"base": [
-"presidentielle"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Annonce"
-],
-"speaker": ""
-},
-{
-"id": "51fbbdf3a3228d22",
-"title": "Laure Lavalette accusée d'avoir cautionné des écrits antisémites: \"Si elle avait écrit des propos de cette nature, elle ne serait pas dans notre parti et ne serait pas porte-parole de Marine Le Pen\", assure Matthieu Valet, député RN",
-"link": "https://www.bfmtv.com/politique/front-national/video-laure-lavalette-accusee-d-avoir-cautionne-des-ecrits-antisemites-si-elle-avait-ecrit-des-propos-de-cette-nature-elle-ne-serait-pas-dans-notre-parti-et-ne-serait-pas-porte-parole-de-marine-le-pen-assure-matthieu-valet-depute-rn_VN-202611240756.html",
-"summary": "La porte-parole de la campagne présidentielle de Marine Le Pen présidait dans les années 1990 un syndicat étudiant dont la revue publiait notamment des écrits antisémites, selon le média Les Jours.",
-"source": "BFMTV",
-"date": "2026-11-24T16:34:15+00:00",
-"added": "2026-11-24T17:43:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement",
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Matthieu Valet"
-},
-{
-"id": "6bee40cd4b856891",
-"title": "Bruno Le Maire revient sur son livre contenant un passage érotique",
-"link": "https://www.bfmtv.com/politique/elections/presidentielle/video-bruno-le-maire-revient-sur-son-livre-contenant-un-passage-erotique_VN-202611240752.html",
-"summary": "Alors qu’il vient de présenter son projet pour une “autre France”, l’ancien ministre de l’Économie se confie sur la chaîne YouTube de BFM Documentaires.",
-"source": "BFMTV",
-"date": "2026-11-24T16:31:17+00:00",
-"added": "2026-11-24T17:43:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"gouvernement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "ae7160c381f607d3",
-"title": "Présidentielle 2027: pourquoi autant de maires refusent de donner leur parrainage à un candidat",
-"link": "https://lcp.fr/actualites/presidentielle-2027-pourquoi-autant-de-maires-refusent-de-donner-leur-parrainage-a-un",
-"summary": "Selon une étude du Cevipof pour l'Association des maires de France, publiée ce mardi 24 novembre, près d'un maire sur deux refuserait d'accorder son parrainage à un candidat à l'élection présidentielle.",
-"source": "LCP",
-"date": "2026-11-24T16:30:30+00:00",
-"added": "2026-11-24T17:43:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "b29f5e31c2ede544",
-"title": "À Carhaix, La France insoumise organise une réunion publique sur la ruralité et la jeunesse ce jeudi",
-"link": "https://www.letelegramme.fr/finistere/carhaix-29270/a-carhaix-la-france-insoumise-organise-une-reunion-publique-sur-la-ruralite-et-la-jeunesse-ce-jeudi-7165768.php",
-"summary": "",
-"source": "Le Télégramme",
-"date": "2026-11-24T16:27:15+00:00",
-"added": "2026-11-24T17:43:12+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "5087e70c27fe33a5",
-"title": "Le « ni-ni » en cas de second tour Mélenchon-Le Pen se propage (et ça irrite LFI)",
-"link": "https://www.huffingtonpost.fr/politique/article/le-ni-ni-en-cas-de-second-tour-jean-luc-melenchon-marine-le-pen-se-propage-et-ca-irrite-la-lfi_364264.html",
-"summary": "Sondage après sondage, c’est le scénario qui semble se dessiner. Jean-Luc Mélenchon et Marine Le Pen pourraient s’affronter au second tour de l’élection présidentielle.",
-"source": "Le HuffPost",
-"date": "2026-11-24T16:24:05+00:00",
-"added": "2026-11-24T17:43:12+00:00",
-"official": false,
-"also": [
-"BFMTV"
-],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "5cf8c6f443df3300",
-"title": "« Pour l’instant, on ne bouge pas » : Bruno Retailleau et David Lisnard, rivaux d’un jour, alliés demain ?",
-"link": "https://www.lefigaro.fr/elections/presidentielles/pour-l-instant-on-ne-bouge-pas-bruno-retailleau-et-david-lisnard-rivaux-d-un-jour-allies-demain-20261124",
-"summary": "Pour sauvegarder un article vous devez être connecté, vous pourrez ainsi les consulter sur tous vos appareils.",
-"source": "Le Figaro",
-"date": "2026-11-24T16:21:16+00:00",
-"added": "2026-11-24T17:43:12+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "396bb1c4ddcc1358",
-"title": "Budget 2027 : coup de théâtre, le Sénat renonce à supprimer l’abattement de 10 % des retraités, mais le plafonne à 1000 euros",
-"link": "https://www.publicsenat.fr/actualites/politique/budget-2027-coup-de-theatre-le-senat-renonce-a-supprimer-labattement-de-10-des-retraites",
-"summary": "L’amendement de la commission des finances du Sénat, qui prévoyait de supprimer l’abattement fiscal de 10 % sur les pensions de retraites, a été rejeté ce 24 novembre, contre toute attente.",
-"source": "Public Sénat",
-"date": "2026-11-24T16:17:02+00:00",
-"added": "2026-11-24T21:44:42+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"parlement"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "699688f74b1a640a",
-"title": "Au Congrès des maires, Marine Tondelier présente ses propositions \"Pour un État-providence climatique\"",
-"link": "https://www.bfmtv.com/politique/elections/video-au-congres-des-maires-marine-tondelier-presente-ses-propositions-pour-un-etat-providence-climatique_VN-202611240736.html",
-"summary": "Marine Tondelier, secrétaire nationale des Écologistes, candidate à l'élection présidentielle, est venue au Congrès des Maires à Paris, ce mardi 24 novembre",
-"source": "BFMTV",
-"date": "2026-11-24T16:11:34+00:00",
-"added": "2026-11-24T17:43:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "56e4595ee280c8f1",
-"title": "« Il aurait fallu qu’il fasse la part des choses » : les maires, premiers juges du cumul de candidatures de David Lisnard",
-"link": "https://www.publicsenat.fr/actualites/politique/il-aurait-fallu-quil-fasse-la-part-des-choses-les-maires-premiers-juges-du-cumul-de-candidatures-de-david-lisnard",
-"summary": "À la tête de l’Association des maires de France (AMF) depuis 2021, David Lisnard, maire de Cannes sollicite un nouveau mandat tout en préparant sa candidature à l’élection présidentielle de 2027.",
-"source": "Public Sénat",
-"date": "2026-11-24T16:06:24+00:00",
-"added": "2026-11-24T21:44:42+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "80473eb7ae4bf8ea",
-"title": "Les maires sous pression pour les parrainages, Marine Le Pen regrette que certains « se détournent de cette éminente mission",
-"link": "https://www.lavoixdunord.fr/1757779/article/2026-11-24/les-maires-sous-pression-pour-les-parrainages-marine-le-pen-regrette-que",
-"summary": "",
-"source": "La Voix du Nord",
-"date": "2026-11-24T16:01:18+00:00",
-"added": "2026-11-24T17:43:12+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Réaction"
-],
-"speaker": "Marine Le Pen"
-},
-{
-"id": "0d11f86e6ac89656",
-"title": "Rivalité Lisnard - Retailleau : « La présidentielle est une course de fond », tempère Mathieu Darnaud (LR)",
-"link": "https://www.publicsenat.fr/actualites/politique/rivalite-lisnard-retailleau-la-presidentielle-est-une-course-de-fond-tempere-mathieu-darnaud-lr",
-"summary": "Ce mardi, Bruno Retailleau était en quelque sorte en visite chez David Lisnard.",
-"source": "Public Sénat",
-"date": "2026-11-24T16:00:16+00:00",
-"added": "2026-11-24T17:43:12+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Bruno Retailleau"
-},
-{
-"id": "7a44cb12d3ebabef",
-"title": "Présidentielle 2027 : « Ce qui s’effrite sous nos yeux, c’est la légitimité d’un régime bâti sur l’idée de faire barrage au RN »",
-"link": "https://www.lemonde.fr/idees/article/2026/11/24/presidentielle-2027-ce-qui-s-effrite-sous-nos-yeux-c-est-la-legitimite-d-un-regime-bati-sur-l-idee-de-faire-barrage-au-rn_6814813_3232.html",
-"summary": "Le sociologue Sylvain Laurens rappelle, dans une tribune au « Monde », que depuis vingt-cinq ans le pouvoir du chef de l’Etat se fonde sur le front républicain face au Rassemblement national, mais qu’aujourd’hui le présidentialisme est en crise, faute de susciter l’adhésion des électeurs.",
-"source": "Le Monde",
-"date": "2026-11-24T16:00:02+00:00",
-"added": "2026-11-24T17:43:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"elysee",
-"partis",
-"presidentielle"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "018e8b4b39b1cf8d",
-"title": "L’étrange deux poids deux mesures du RN sur l’antisémitisme",
-"link": "https://www.huffingtonpost.fr/politique/article/jordan-bardella-soutient-laure-lavalette-et-confirme-le-deux-poids-deux-mesures-du-rn-sur-l-antisemitisme_364224.html",
-"summary": "« Selon que vous serez puissant ou misérable, les jugements de cour vous rendront blanc ou noir. » La morale de la fable Les Animaux malades de la peste de Jean de La Fontaine s’applique bien à la façon dont le Rassemblement national gère les cas de ses membres rattrapés par un passé antisémite.",
-"source": "Le HuffPost",
-"date": "2026-11-24T16:00:02+00:00",
-"added": "2026-11-24T19:52:02+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "4b021188c440cb88",
-"title": "Pourquoi François Hollande a besoin d’un Raphaël Glucksmann à la fois faible et fort",
-"link": "https://www.lopinion.fr/politique/pourquoi-francois-hollande-a-besoin-dun-raphael-glucksmann-a-la-fois-faible-et-fort",
-"summary": "Attention, illusion d’optique. Tapi dans l’ombre (mais pas très bien caché quand même), François Hollande guetterait la chute de Raphaël Glucksmann pour surgir et se poser en candidat de recours.",
-"source": "L'Opinion",
-"date": "2026-11-24T16:00:00+00:00",
-"added": "2026-11-24T17:43:12+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [],
-"speaker": ""
-},
-{
-"id": "ef2e0fdde1c94a96",
-"title": "Détournement de fonds publics : enquête ouverte au Havre, Edouard Philippe dénonce une «vendetta judiciaire»",
-"link": "https://www.liberation.fr/politique/detournement-de-fonds-publics-une-enquete-ouverte-a-lagglomeration-du-havre-presidee-par-edouard-philippe-20261124_YVGEWXKHJBE2JCNJ2GLT242A7E/",
-"summary": "Le parquet a ouvert une enquête après le signalement effectué par l’ex-directrice générale adjointe de la métropole Cornelia Findeisen.",
-"source": "Libération",
-"date": "2026-11-24T15:57:12+00:00",
-"added": "2026-11-27T15:48:23+00:00",
-"official": false,
-"also": [
-"La Croix"
-],
-"base": [],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Citation",
-"Réaction"
-],
-"speaker": "Édouard Philippe"
-},
-{
-"id": "a1a6475b8e9c3adb",
-"title": "Présidentielle 2027 : Un « esprit de défaite typiquement vichyste », lance Mélenchon à propos de Bayrou",
-"link": "https://www.20minutes.fr/politique/4265445-20261124-presidentielle-2027-esprit-defaite-typiquement-vichyste-lance-melenchon-propos-bayrou?at_medium=display&at_campaign=149",
-"summary": "Le ton monte. Invité de Franceinfo, François Bayrou a refusé ce mardi de choisir entre LFI et le Rassemblement national (RN) si le second tour de la présidentielle les opposait.",
-"source": "20 Minutes",
-"date": "2026-11-24T15:55:20+00:00",
-"added": "2026-11-24T17:43:12+00:00",
-"official": false,
-"also": [],
-"base": [],
-"filtered": true,
-"topics": [
-"matinales",
-"partis",
-"presidentielle"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jean-Luc Mélenchon"
-},
-{
-"id": "3c555b975a392d1f",
-"title": "« C’est marche ou crève » : à gauche, Jean-Luc Mélenchon fait tomber les ralliements comme des dominos",
-"link": "https://www.lopinion.fr/politique/cest-marche-ou-creve-a-gauche-jean-luc-melenchon-fait-tomber-les-ralliements-comme-des-dominos",
-"summary": "Ce mardi 24 novembre, l’Après, mouvement fondé par d’anciens insoumis dont Alexis Corbière, Raquel Garrido et Clémentine Autain, a proposé à Manuel Bompard une « rencontre bilatérale » pour discuter d’une éventuelle coalition derrière Jean-Luc Mélenchon.",
-"source": "L'Opinion",
-"date": "2026-11-24T15:49:58+00:00",
-"added": "2026-11-24T17:43:12+00:00",
-"official": false,
-"also": [],
-"base": [
-"partis"
-],
-"filtered": true,
-"topics": [
-"partis"
-],
-"natures": [
-"Citation"
-],
-"speaker": "Jean-Luc Mélenchon"
 }
 ]
