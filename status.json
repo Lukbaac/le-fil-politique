@@ -14,7 +14,7 @@
 "name": "LCP",
 "ok": true,
 "items": 100,
-"new": 2
+"new": 0
 },
 {
 "name": "Public Sénat",
@@ -26,31 +26,31 @@
 "name": "Le Monde",
 "ok": true,
 "items": 20,
-"new": 0
+"new": 3
 },
 {
 "name": "franceinfo",
 "ok": true,
 "items": 19,
-"new": 1
+"new": 2
 },
 {
 "name": "Le Figaro",
 "ok": true,
 "items": 20,
-"new": 1
+"new": 0
 },
 {
 "name": "Libération",
 "ok": true,
 "items": 50,
-"new": 1
+"new": 0
 },
 {
 "name": "La Croix",
 "ok": true,
 "items": 50,
-"new": 1
+"new": 0
 },
 {
 "name": "L'Express",
@@ -62,114 +62,97 @@
 "name": "BFMTV",
 "ok": true,
 "items": 30,
-"new": 3
+"new": 4
 },
 {
 "name": "20 Minutes",
 "ok": true,
 "items": 20,
-"new": 0
+"new": 2
 },
 {
 "name": "Google Actualités",
-"ok": true,
-"items": 29,
-"new": 1
+"ok": false,
+"error": "HTTP Error 503: Service Unavailable"
 },
 {
 "name": "Google Actualités",
-"ok": true,
-"items": 19,
-"new": 0
+"ok": false,
+"error": "HTTP Error 503: Service Unavailable"
 },
 {
 "name": "Google Actualités",
-"ok": true,
-"items": 58,
-"new": 0
+"ok": false,
+"error": "HTTP Error 503: Service Unavailable"
 },
 {
 "name": "Google Actualités",
-"ok": true,
-"items": 47,
-"new": 0
+"ok": false,
+"error": "HTTP Error 503: Service Unavailable"
 },
 {
 "name": "Google Actualités",
-"ok": true,
-"items": 65,
-"new": 0
+"ok": false,
+"error": "HTTP Error 503: Service Unavailable"
 },
 {
 "name": "Google Actualités",
-"ok": true,
-"items": 25,
-"new": 0
+"ok": false,
+"error": "HTTP Error 503: Service Unavailable"
 },
 {
 "name": "Google Actualités",
-"ok": true,
-"items": 100,
-"new": 3
+"ok": false,
+"error": "HTTP Error 503: Service Unavailable"
 },
 {
 "name": "Google Actualités",
-"ok": true,
-"items": 100,
-"new": 1
+"ok": false,
+"error": "HTTP Error 503: Service Unavailable"
 },
 {
 "name": "Google Actualités",
-"ok": true,
-"items": 68,
-"new": 0
+"ok": false,
+"error": "HTTP Error 503: Service Unavailable"
 },
 {
 "name": "Google Actualités",
-"ok": true,
-"items": 59,
-"new": 0
+"ok": false,
+"error": "HTTP Error 503: Service Unavailable"
 },
 {
 "name": "Google Actualités",
-"ok": true,
-"items": 18,
-"new": 0
+"ok": false,
+"error": "HTTP Error 503: Service Unavailable"
 },
 {
 "name": "Google Actualités",
-"ok": true,
-"items": 27,
-"new": 0
+"ok": false,
+"error": "HTTP Error 503: Service Unavailable"
 },
 {
 "name": "Google Actualités",
-"ok": true,
-"items": 62,
-"new": 1
+"ok": false,
+"error": "HTTP Error 503: Service Unavailable"
 },
 {
 "name": "Google Actualités",
-"ok": true,
-"items": 100,
-"new": 1
+"ok": false,
+"error": "HTTP Error 503: Service Unavailable"
 },
 {
 "name": "Google Actualités",
-"ok": true,
-"items": 29,
-"new": 0
+"ok": false,
+"error": "HTTP Error 503: Service Unavailable"
 },
 {
 "name": "Google Actualités",
-"ok": true,
-"items": 45,
-"new": 1
+"ok": false,
+"error": "HTTP Error 503: Service Unavailable"
 },
 {
 "name": "Google Actualités",
-"ok": true,
-"items": 68,
-"new": 0
+"ok": false,
+"error": "HTTP Error 503: Service Unavailable"
 }
 ]
